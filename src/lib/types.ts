@@ -29,7 +29,7 @@ export interface Source {
 }
 
 export interface Person {
-  id: string;
+  entity_id: string;
   slug: string;
   name_en: string;
   name_fa: string;
@@ -44,7 +44,7 @@ export interface Person {
 }
 
 export interface Org {
-  id: string;
+  entity_id: string;
   slug: string;
   name_en: string;
   name_fa: string;
@@ -57,7 +57,7 @@ export interface Org {
 }
 
 export interface Event {
-  id: string;
+  entity_id: string;
   slug: string;
   name: string;
   date: string;
@@ -68,7 +68,7 @@ export interface Event {
 }
 
 export interface Connection {
-  id: string;
+  entity_id: string;
   from_entity: string;
   to_entity: string;
   type: RelationshipType;

@@ -1,10 +1,13 @@
 import { useMemo, useCallback } from "react"
 import {
   ReactFlow,
+  ReactFlowProvider,
   Background,
+  useReactFlow,
   type Node,
   type Edge,
   type NodeMouseHandler,
+  type ReactFlowInstance,
   Position,
   MarkerType,
 } from "@xyflow/react"
@@ -98,7 +101,7 @@ interface FlowGraphProps {
   onNodeClick: (id: string) => void
 }
 
-export function FlowGraph({ nodes: graphNodes, edges: graphEdges, selectedId, onNodeClick }: FlowGraphProps) {
+function FlowGraphInner({ nodes: graphNodes, edges: graphEdges, selectedId, onNodeClick }: FlowGraphProps) {
   const { nodes, edges } = useMemo(
     () => layoutGraph(graphNodes, graphEdges, selectedId),
     [graphNodes, graphEdges, selectedId],
@@ -111,11 +114,21 @@ export function FlowGraph({ nodes: graphNodes, edges: graphEdges, selectedId, on
     [onNodeClick],
   )
 
-  // Center the view on the selected node
   const selectedNode = nodes.find((n) => n.id === selectedId)
-  const defaultViewport = selectedNode
-    ? { x: -(selectedNode.position.x - 130), y: -(selectedNode.position.y - 200), zoom: 1 }
-    : { x: 0, y: 0, zoom: 1 }
+
+  const handleInit = useCallback(
+    (instance: ReactFlowInstance) => {
+      if (selectedNode) {
+        // Center on the selected node at a comfortable zoom
+        const x = selectedNode.position.x + 70 // center of node (width/2)
+        const y = selectedNode.position.y + 25 // center of node (height/2)
+        instance.setCenter(x, y, { zoom: 1, duration: 0 })
+      } else {
+        instance.fitView({ padding: 0.3, maxZoom: 1.2, duration: 0 })
+      }
+    },
+    [selectedNode],
+  )
 
   return (
     <ReactFlow
@@ -124,9 +137,7 @@ export function FlowGraph({ nodes: graphNodes, edges: graphEdges, selectedId, on
       edges={edges}
       nodeTypes={nodeTypes}
       onNodeClick={handleNodeClick}
-      defaultViewport={defaultViewport}
-      fitView
-      fitViewOptions={{ padding: 0.3, maxZoom: 1.2 }}
+      onInit={handleInit}
       minZoom={0.2}
       maxZoom={1.5}
       proOptions={{ hideAttribution: true }}
@@ -136,5 +147,13 @@ export function FlowGraph({ nodes: graphNodes, edges: graphEdges, selectedId, on
     >
       <Background gap={20} size={1} color="#f1f5f9" />
     </ReactFlow>
+  )
+}
+
+export function FlowGraph(props: FlowGraphProps) {
+  return (
+    <ReactFlowProvider>
+      <FlowGraphInner {...props} />
+    </ReactFlowProvider>
   )
 }

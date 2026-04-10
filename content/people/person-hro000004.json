@@ -1,15 +1,21 @@
 {
-  "id": "person-hro000004",
+  "entity_id": "person-hro000004",
   "slug": "hassan-rouhani",
   "name_en": "Hassan Rouhani",
   "name_fa": "حسن روحانی",
-  "aliases": ["Hassan Feridon"],
+  "aliases": [
+    "Hassan Feridon"
+  ],
   "born": 1948,
   "birthplace": "Sorkheh",
   "role": "Former President of Iran (2013–2021)",
   "faction": "pragmatist",
   "bio": "Served as the seventh President of Iran from 2013 to 2021. A cleric and lawyer by training, he ran on a platform of diplomatic engagement and economic reform. Oversaw the negotiation and implementation of the JCPOA. Previously served as Secretary of the Supreme National Security Council (1989–2005).",
-  "expertise": ["governance", "nuclear-negotiations", "islamic-jurisprudence"],
+  "expertise": [
+    "governance",
+    "nuclear-negotiations",
+    "islamic-jurisprudence"
+  ],
   "photo": null,
   "editorial_notes": ""
 }

@@ -4,13 +4,14 @@ import { Badge } from "@/components/ui/badge"
 import { Separator } from "@/components/ui/separator"
 import { getEvents, getConnectionsForEntity, getEntityById } from "@/lib/content"
 import type { Event } from "@/lib/types"
+import { ConfidenceBadge } from "@/components/ConfidenceBadge"
 
 export function getStaticPaths() {
   return getEvents().map((e) => ({ params: { slug: e.slug }, props: { event: e } }))
 }
 
 const { event } = Astro.props as { event: Event }
-const connections = getConnectionsForEntity(event.id)
+const connections = getConnectionsForEntity(event.entity_id)
 const desc = event.description.slice(0, 160)
 
 const jsonLd = {
@@ -68,7 +69,7 @@ const jsonLd = {
         <h2 class="mb-3 text-sm font-medium text-muted-foreground">Related Entities</h2>
         <ul class="space-y-2">
           {connections.map((conn) => {
-            const otherId = conn.from_entity === event.id ? conn.to_entity : conn.from_entity
+            const otherId = conn.from_entity === event.entity_id ? conn.to_entity : conn.from_entity
             const other = getEntityById(otherId)
             if (!other) return null
             const href = otherId.startsWith("person-")
@@ -82,17 +83,7 @@ const jsonLd = {
                   {"name_en" in other ? other.name_en : other.name}
                 </a>
                 <span class="text-muted-foreground">&middot; {conn.type.replace(/-/g, " ")}</span>
-                <Badge
-                  variant="outline"
-                  className={
-                    conn.confidence === "confirmed" ? "border-teal-500 text-teal-700" :
-                    conn.confidence === "alleged" ? "border-amber-500 text-amber-700" :
-                    conn.confidence === "disputed" ? "border-blue-500 text-blue-700" :
-                    "border-gray-400 text-gray-500"
-                  }
-                >
-                  {conn.confidence}
-                </Badge>
+                <ConfidenceBadge client:load confidence={conn.confidence} />
               </li>
             )
           })}

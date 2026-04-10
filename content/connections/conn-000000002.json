@@ -1,5 +1,5 @@
 {
-  "id": "conn-000000002",
+  "entity_id": "conn-000000002",
   "from_entity": "org-iei000002",
   "to_entity": "org-mfa000001",
   "type": "funded-by",

@@ -4,6 +4,7 @@ import { useGraphNav } from "@/hooks/useGraphNav"
 import { getSubgraph } from "@/lib/graph-bfs"
 import { FlowGraph } from "./FlowGraph"
 import { DepthToggle } from "./DepthToggle"
+import { Card } from "@/components/ui/card"
 
 interface GraphExplorerProps {
   initialEntityId: string
@@ -63,12 +64,11 @@ export function GraphExplorer({ initialEntityId }: GraphExplorerProps) {
   }
 
   return (
-    <div className="flex h-full flex-col">
-      <div className="flex items-center gap-2 border-b px-3 py-2">
-        <span className="text-xs font-medium text-muted-foreground">Depth</span>
+    <Card className="flex h-full flex-col overflow-hidden bg-muted/50">
+      <div className="absolute top-2 right-2 z-10">
         <DepthToggle depth={depth} onChange={setDepth} />
       </div>
-      <div className="flex-1 min-h-0">
+      <div className="relative flex-1 min-h-0 overflow-hidden">
         <FlowGraph
           nodes={subgraph.nodes}
           edges={subgraph.edges}
@@ -76,6 +76,6 @@ export function GraphExplorer({ initialEntityId }: GraphExplorerProps) {
           onNodeClick={selectEntity}
         />
       </div>
-    </div>
+    </Card>
   )
 }

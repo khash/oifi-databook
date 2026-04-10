@@ -26,7 +26,7 @@ const personCollection: Collection = {
   path: "content/people",
   format: "json",
   fields: [
-    { type: "string", name: "id", label: "ID", required: true },
+    { type: "string", name: "entity_id", label: "Entity ID", required: true },
     { type: "string", name: "slug", label: "URL Slug", required: true },
     { type: "string", name: "name_en", label: "Name (English)", required: true },
     { type: "string", name: "name_fa", label: "Name (Persian)", required: true },
@@ -70,7 +70,7 @@ const orgCollection: Collection = {
   path: "content/orgs",
   format: "json",
   fields: [
-    { type: "string", name: "id", label: "ID", required: true },
+    { type: "string", name: "entity_id", label: "Entity ID", required: true },
     { type: "string", name: "slug", label: "URL Slug", required: true },
     { type: "string", name: "name_en", label: "Name (English)", required: true },
     { type: "string", name: "name_fa", label: "Name (Persian)", required: true },
@@ -112,7 +112,7 @@ const eventCollection: Collection = {
   path: "content/events",
   format: "json",
   fields: [
-    { type: "string", name: "id", label: "ID", required: true },
+    { type: "string", name: "entity_id", label: "Entity ID", required: true },
     { type: "string", name: "slug", label: "URL Slug", required: true },
     { type: "string", name: "name", label: "Event Name", required: true },
     { type: "string", name: "date", label: "Date (YYYY or YYYY-MM or YYYY-MM-DD)", required: true },
@@ -153,12 +153,12 @@ const eventCollection: Collection = {
 };
 
 const connectionCollection: Collection = {
-  name: "connection",
+  name: "link",
   label: "Connections",
   path: "content/connections",
   format: "json",
   fields: [
-    { type: "string", name: "id", label: "ID", required: true },
+    { type: "string", name: "entity_id", label: "Entity ID", required: true },
     { type: "string", name: "from_entity", label: "From Entity (ID)", required: true },
     { type: "string", name: "to_entity", label: "To Entity (ID)", required: true },
     {

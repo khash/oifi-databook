@@ -1,5 +1,5 @@
 {
-  "id": "conn-000000009",
+  "entity_id": "conn-000000009",
   "from_entity": "person-mjz000001",
   "to_entity": "event-iei000001",
   "type": "named-in",

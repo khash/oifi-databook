@@ -55,7 +55,7 @@ export function generateGraphData() {
 
   const nodes: GraphNode[] = [
     ...people.map((p) => ({
-      id: p.id as string,
+      id: p.entity_id as string,
       label: p.name_en as string,
       type: "person" as const,
       slug: p.slug as string,
@@ -64,7 +64,7 @@ export function generateGraphData() {
       data: p,
     })),
     ...orgs.map((o) => ({
-      id: o.id as string,
+      id: o.entity_id as string,
       label: o.name_en as string,
       type: "org" as const,
       slug: o.slug as string,
@@ -73,7 +73,7 @@ export function generateGraphData() {
       data: o,
     })),
     ...events.map((e) => ({
-      id: e.id as string,
+      id: e.entity_id as string,
       label: e.name as string,
       type: "event" as const,
       slug: e.slug as string,
@@ -84,7 +84,7 @@ export function generateGraphData() {
   ]
 
   const edges: GraphEdge[] = connections.map((c) => ({
-    id: c.id as string,
+    id: c.entity_id as string,
     source: c.from_entity as string,
     target: c.to_entity as string,
     type: c.type as string,

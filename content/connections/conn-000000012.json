@@ -1,5 +1,5 @@
 {
-  "id": "conn-000000012",
+  "entity_id": "conn-000000012",
   "from_entity": "person-sjl000002",
   "to_entity": "person-mjz000001",
   "type": "opposed",

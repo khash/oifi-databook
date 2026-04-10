@@ -1,5 +1,5 @@
 {
-  "id": "conn-000000013",
+  "entity_id": "conn-000000013",
   "from_entity": "person-hms000003",
   "to_entity": "org-mfa000001",
   "type": "served-in",

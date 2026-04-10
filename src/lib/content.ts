@@ -49,15 +49,15 @@ export function getConnections(): Connection[] {
 }
 
 export function getPersonById(id: string): Person | undefined {
-  return getPeople().find((p) => p.id === id);
+  return getPeople().find((p) => p.entity_id === id);
 }
 
 export function getOrgById(id: string): Org | undefined {
-  return getOrgs().find((o) => o.id === id);
+  return getOrgs().find((o) => o.entity_id === id);
 }
 
 export function getEventById(id: string): Event | undefined {
-  return getEvents().find((e) => e.id === id);
+  return getEvents().find((e) => e.entity_id === id);
 }
 
 export function getEntityById(

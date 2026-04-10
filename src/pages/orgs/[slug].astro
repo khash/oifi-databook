@@ -5,13 +5,16 @@ import { Separator } from "@/components/ui/separator"
 import { getOrgs, getOrgById, getConnectionsForEntity, getEntityById } from "@/lib/content"
 import { GraphExplorer } from "@/components/GraphExplorer"
 import type { Org } from "@/lib/types"
+import { INVERSE_LABELS } from "@/lib/constants"
+import { FactionSpectrum } from "@/components/FactionSpectrum"
+import { ConfidenceBadge } from "@/components/ConfidenceBadge"
 
 export function getStaticPaths() {
   return getOrgs().map((o) => ({ params: { slug: o.slug }, props: { org: o } }))
 }
 
 const { org } = Astro.props as { org: Org }
-const connections = getConnectionsForEntity(org.id)
+const connections = getConnectionsForEntity(org.entity_id)
 const parentOrg = org.parent_org ? getOrgById(org.parent_org) : null
 const desc = org.description.slice(0, 160)
 
@@ -42,7 +45,7 @@ const jsonLd = {
 
     <div class="mt-2 flex flex-wrap items-center gap-2">
       <Badge variant="secondary">{org.type.replace(/-/g, " ")}</Badge>
-      {org.faction && <Badge variant="outline">{org.faction.replace(/-/g, " ")}</Badge>}
+      {org.faction && <FactionSpectrum client:load faction={org.faction} />}
       <span class="text-sm text-muted-foreground">
         {org.founded && <span>Founded {org.founded}</span>}
         {org.dissolved && <span> &middot; Dissolved {org.dissolved}</span>}
@@ -66,7 +69,7 @@ const jsonLd = {
         <h2 class="mb-3 text-sm font-medium text-muted-foreground">Connections</h2>
         <ul class="space-y-2">
           {connections.map((conn) => {
-            const otherId = conn.from_entity === org.id ? conn.to_entity : conn.from_entity
+            const otherId = conn.from_entity === org.entity_id ? conn.to_entity : conn.from_entity
             const other = getEntityById(otherId)
             if (!other) return null
             const href = otherId.startsWith("person-")
@@ -74,26 +77,16 @@ const jsonLd = {
               : otherId.startsWith("org-")
                 ? `/orgs/${other.slug}`
                 : `/events/${other.slug}`
-            const label = conn.from_entity === org.id
+            const label = conn.from_entity === org.entity_id
               ? conn.type.replace(/-/g, " ")
-              : conn.type.replace(/-/g, " ") + " (inverse)"
+              : INVERSE_LABELS[conn.type] ?? conn.type.replace(/-/g, " ")
             return (
               <li class="flex items-center gap-2 text-sm">
                 <a href={href} class="font-medium hover:underline">
                   {"name_en" in other ? other.name_en : other.name}
                 </a>
                 <span class="text-muted-foreground">&middot; {label}</span>
-                <Badge
-                  variant="outline"
-                  className={
-                    conn.confidence === "confirmed" ? "border-teal-500 text-teal-700" :
-                    conn.confidence === "alleged" ? "border-amber-500 text-amber-700" :
-                    conn.confidence === "disputed" ? "border-blue-500 text-blue-700" :
-                    "border-gray-400 text-gray-500"
-                  }
-                >
-                  {conn.confidence}
-                </Badge>
+                <ConfidenceBadge client:load confidence={conn.confidence} />
               </li>
             )
           })}
@@ -106,6 +99,6 @@ const jsonLd = {
   </article>
 
   <Fragment slot="sidebar">
-    <GraphExplorer client:load initialEntityId={org.id} />
+    <GraphExplorer client:load initialEntityId={org.entity_id} />
   </Fragment>
 </EntityLayout>

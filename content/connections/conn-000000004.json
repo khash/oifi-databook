@@ -1,5 +1,5 @@
 {
-  "id": "conn-000000004",
+  "entity_id": "conn-000000004",
   "from_entity": "person-hms000003",
   "to_entity": "org-iei000002",
   "type": "participated-in",
@@ -14,7 +14,9 @@
       "description": "Mousavian named in leaked emails as a key participant in the IEI network."
     }
   ],
-  "intermediaries": ["person-mjz000001"],
+  "intermediaries": [
+    "person-mjz000001"
+  ],
   "symmetric": false,
   "family_subtype": null,
   "editorial_notes": ""

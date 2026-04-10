@@ -1,5 +1,5 @@
 {
-  "id": "conn-000000010",
+  "entity_id": "conn-000000010",
   "from_entity": "person-hro000004",
   "to_entity": "person-mjz000001",
   "type": "appointed",

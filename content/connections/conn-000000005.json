@@ -1,5 +1,5 @@
 {
-  "id": "conn-000000005",
+  "entity_id": "conn-000000005",
   "from_entity": "person-atb000006",
   "to_entity": "org-iei000002",
   "type": "participated-in",

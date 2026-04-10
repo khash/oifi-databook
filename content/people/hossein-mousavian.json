@@ -1,0 +1,26 @@
+{
+  "entity_id": "hossein-mousavian",
+  "slug": "hossein-mousavian",
+  "name_en": "Hossein Mousavian",
+  "name_fa": "حسین موسویان",
+  "has_native_fa_name": true,
+  "aliases": ["Seyed Hossein Mousavian"],
+  "born": 1966,
+  "birthplace": "Isfahan",
+  "role": "Research Scholar at Princeton University",
+  "faction": "pragmatist",
+  "bio": "Seyed Hossein Mousavian is a former Iranian diplomat and nuclear policy scholar. He served as Iran's Ambassador to Germany (1990–1997) and as head of the Foreign Relations Committee of the Supreme National Security Council. From 2003 to 2005, he was spokesman and member of Iran's nuclear negotiating team under [Hassan Rouhani](/people/hassan-rouhani). In 2007, he was briefly arrested on espionage charges widely viewed as politically motivated by hardliners. He subsequently relocated to the United States and became a research scholar at Princeton University's School of Public and International Affairs. He was named in the leaked [Iran Experts Initiative](/events/iei-email-leak-2023) emails published by Semafor and Iran International in September 2023 as a participant in the network coordinated by the [Iranian Foreign Ministry](/orgs/ministry-of-foreign-affairs) through [IPIS](/orgs/ipis).",
+  "expertise": [
+    "nuclear policy",
+    "diplomacy",
+    "arms control"
+  ],
+  "tags": [
+    "diplomacy",
+    "nuclear",
+    "jcpoa"
+  ],
+  "photo": null,
+  "editorial_notes": "Named in IEI leaked emails. Birth year varies across sources (1957 vs 1966); 1966 is more commonly cited.",
+  "irgc_member": false
+}

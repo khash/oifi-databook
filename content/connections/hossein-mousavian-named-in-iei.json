@@ -1,0 +1,25 @@
+{
+  "entity_id": "hossein-mousavian-named-in-iei",
+  "from_entity": "hossein-mousavian",
+  "to_entity": "iei-email-leak-2023",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2023-09",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.semafor.com/article/09/25/2023/inside-irans-influence-operation",
+      "source_title": "Inside Iran's Influence Operation",
+      "source_date": "2023-09-25",
+      "description": "Mousavian named in leaked Iranian Foreign Ministry emails as a participant in the Iran Experts Initiative."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": [
+    "diplomacy",
+    "jcpoa"
+  ],
+  "editorial_notes": ""
+}

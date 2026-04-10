@@ -16,7 +16,6 @@ function loadJson(dir) {
     .filter((f) => f.endsWith(".json"))
     .map((f) => {
       const raw = JSON.parse(fs.readFileSync(path.join(dir, f), "utf-8"))
-      // eslint-disable-next-line @typescript-eslint/no-unused-vars
       const { editorial_notes: _, ...rest } = raw
       return rest
     })

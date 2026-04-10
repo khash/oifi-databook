@@ -24,7 +24,7 @@ const connectionItems = connections.map((conn) => {
   const href = entityType === "person" ? `/people/${other.slug}` : entityType === "org" ? `/orgs/${other.slug}` : `/events/${other.slug}`
   const label = conn.from_entity === event.entity_id ? conn.type.replace(/-/g, " ") : INVERSE_LABELS[conn.type] ?? conn.type.replace(/-/g, " ")
   return { type: conn.type, confidence: conn.confidence, label, otherName: "name_en" in other ? other.name_en : other.name, href, dateFrom: conn.date_from, dateTo: conn.date_to }
-}).filter(Boolean)
+}).filter((x): x is NonNullable<typeof x> => x !== null)
 const desc = stripMarkdown(event.description).slice(0, 160)
 
 const jsonLd = {

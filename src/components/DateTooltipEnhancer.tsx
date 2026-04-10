@@ -7,7 +7,7 @@ import { useEffect, useState, useRef, useCallback } from "react"
  */
 export function DateTooltipEnhancer() {
   const [tooltip, setTooltip] = useState<{ text: string; x: number; y: number } | null>(null)
-  const timeoutRef = useRef<ReturnType<typeof setTimeout>>()
+  const timeoutRef = useRef<ReturnType<typeof setTimeout>>(undefined)
 
   const show = useCallback((e: MouseEvent) => {
     const el = e.currentTarget as HTMLElement

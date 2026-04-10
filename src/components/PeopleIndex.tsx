@@ -14,12 +14,14 @@ import { FACTION_CONFIG } from "@/components/FactionBadge"
 import { SPECTRUM_FACTIONS } from "@/lib/constants"
 import type { Faction } from "@/lib/types"
 
+type NonNullFaction = NonNullable<Faction>
+
 interface PersonItem {
   slug: string
   name_en: string
-  name_fa: string
+  name_fa: string | null
   role: string
-  faction: Faction | null
+  faction: Faction
   irgc_member: boolean
   connectionCount: number
 }
@@ -61,8 +63,8 @@ export function PeopleIndex({ people }: { people: PersonItem[] }) {
     result = [...result].sort((a, b) => {
       if (sort === "name") return a.name_en.localeCompare(b.name_en)
       if (sort === "faction") {
-        const ai = SPECTRUM_FACTIONS.indexOf(a.faction)
-        const bi = SPECTRUM_FACTIONS.indexOf(b.faction)
+        const ai = a.faction ? SPECTRUM_FACTIONS.indexOf(a.faction as NonNullFaction) : -1
+        const bi = b.faction ? SPECTRUM_FACTIONS.indexOf(b.faction as NonNullFaction) : -1
         return ai - bi || a.name_en.localeCompare(b.name_en)
       }
       return b.connectionCount - a.connectionCount || a.name_en.localeCompare(b.name_en)

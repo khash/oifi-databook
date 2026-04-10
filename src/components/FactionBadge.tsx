@@ -1,7 +1,9 @@
 import { Badge } from "@/components/ui/badge"
 import type { Faction } from "@/lib/types"
 
-export const FACTION_CONFIG: Record<Faction, { label: string; className: string }> = {
+type NonNullFaction = NonNullable<Faction>
+
+export const FACTION_CONFIG: Record<NonNullFaction, { label: string; className: string }> = {
   opposition: {
     label: "Opposition",
     className: "border-violet-200 bg-violet-50 text-violet-600 dark:border-violet-800 dark:bg-violet-950 dark:text-violet-400",
@@ -24,7 +26,7 @@ export const FACTION_CONFIG: Record<Faction, { label: string; className: string 
   },
 }
 
-export function FactionBadge({ faction }: { faction: Faction }) {
+export function FactionBadge({ faction }: { faction: NonNullFaction }) {
   const config = FACTION_CONFIG[faction]
   return (
     <Badge variant="outline" className={`text-[10px] font-semibold tracking-wide uppercase px-1.5 h-4 ${config.className}`}>

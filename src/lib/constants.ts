@@ -8,14 +8,8 @@ export const SPECTRUM_FACTIONS = [
   "hardliner",
 ] as const;
 
-export const INSTITUTIONAL_FACTIONS = [
-  "technocrat",
-  "clerical",
-] as const;
-
 export const FACTIONS = [
   ...SPECTRUM_FACTIONS,
-  ...INSTITUTIONAL_FACTIONS,
 ] as const;
 
 export const ORG_TYPES = [

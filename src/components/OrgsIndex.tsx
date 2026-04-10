@@ -15,9 +15,9 @@ import type { Faction, OrgType } from "@/lib/types"
 interface OrgItem {
   slug: string
   name_en: string
-  name_fa: string
+  name_fa: string | null
   type: OrgType
-  faction: Faction | null
+  faction: Faction
   connectionCount: number
 }
 

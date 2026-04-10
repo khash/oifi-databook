@@ -1,4 +1,4 @@
-import { useMemo, useCallback, useState } from "react"
+import { useMemo, useCallback, useState, useEffect } from "react"
 import {
   ReactFlow,
   ReactFlowProvider,
@@ -112,7 +112,7 @@ function FlowGraphInner({ nodes: graphNodes, edges: graphEdges, selectedId, onNo
   const edges = layout.edges
 
   // Re-sync when layout changes (e.g. new entity selected)
-  useMemo(() => { setNodes(layout.nodes) }, [layout])
+  useEffect(() => { setNodes(layout.nodes) }, [layout])
 
   const handleNodesChange = useCallback(
     (changes: NodeChange[]) => setNodes((nds) => applyNodeChanges(changes, nds)),

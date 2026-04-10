@@ -6,7 +6,7 @@ interface Props {
   description?: string
   ogType?: string
   canonicalPath?: string
-  jsonLd?: object
+  jsonLd?: object | object[]
 }
 
 const {
@@ -35,14 +35,26 @@ const fullTitle = title === "OIFI Databook" ? title : `${title} | OIFI Databook`
     <title>{fullTitle}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalUrl} />
-    <meta property="og:title" content={title} />
+
+    <!-- Open Graph -->
+    <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content={ogType} />
     <meta property="og:url" content={canonicalUrl} />
+    <meta property="og:site_name" content="OIFI Databook" />
+    <meta property="og:locale" content="en_US" />
+
+    <!-- Twitter -->
     <meta name="twitter:card" content="summary" />
-    {jsonLd && (
+    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:description" content={description} />
+    {jsonLd && Array.isArray(jsonLd) ? (
+      jsonLd.map((ld) => (
+        <script type="application/ld+json" set:html={JSON.stringify(ld)} />
+      ))
+    ) : jsonLd ? (
       <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
-    )}
+    ) : null}
     <script is:inline>
       (async () => {
         try {

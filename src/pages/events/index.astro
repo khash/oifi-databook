@@ -5,9 +5,23 @@ import { ThemeToggle } from "@/components/ThemeToggle"
 import { getEvents } from "@/lib/content"
 
 const events = getEvents().sort((a, b) => b.date.localeCompare(a.date))
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  name: "Events",
+  description: "Events in the OIFI Databook",
+  numberOfItems: events.length,
+  itemListElement: events.map((e, i) => ({
+    "@type": "ListItem",
+    position: i + 1,
+    url: `https://databook.oifi.org/events/${e.slug}`,
+    name: e.name,
+  })),
+}
 ---
 
-<Layout title="Events" description="Events in the OIFI Databook" canonicalPath="/events">
+<Layout title="Events" description="Events in the OIFI Databook" canonicalPath="/events" jsonLd={jsonLd}>
   <h1 class="mb-6 text-2xl font-bold">Events</h1>
   <ul class="space-y-3">
     {events.map((e) => (

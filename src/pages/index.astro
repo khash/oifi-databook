@@ -2,9 +2,22 @@
 import Layout from "@/layouts/main.astro"
 import { Search } from "@/components/Search"
 import { ThemeToggle } from "@/components/ThemeToggle"
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: "OIFI Databook",
+  url: "https://databook.oifi.org",
+  description: "Iranian political actors, organizations and events",
+  potentialAction: {
+    "@type": "SearchAction",
+    target: "https://databook.oifi.org/?q={search_term_string}",
+    "query-input": "required name=search_term_string",
+  },
+}
 ---
 
-<Layout>
+<Layout jsonLd={jsonLd} canonicalPath="">
   <Search client:load centered={true} />
   <ThemeToggle client:load slot="header-actions" />
 </Layout>

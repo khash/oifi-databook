@@ -5,9 +5,23 @@ import { ThemeToggle } from "@/components/ThemeToggle"
 import { getOrgs } from "@/lib/content"
 
 const orgs = getOrgs().sort((a, b) => a.name_en.localeCompare(b.name_en))
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  name: "Organisations",
+  description: "Organisations in the OIFI Databook",
+  numberOfItems: orgs.length,
+  itemListElement: orgs.map((o, i) => ({
+    "@type": "ListItem",
+    position: i + 1,
+    url: `https://databook.oifi.org/orgs/${o.slug}`,
+    name: o.name_en,
+  })),
+}
 ---
 
-<Layout title="Organisations" description="Organisations in the OIFI Databook" canonicalPath="/orgs">
+<Layout title="Organisations" description="Organisations in the OIFI Databook" canonicalPath="/orgs" jsonLd={jsonLd}>
   <h1 class="mb-6 text-2xl font-bold">Organisations</h1>
   <ul class="space-y-3">
     {orgs.map((o) => (

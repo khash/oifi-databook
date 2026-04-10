@@ -5,9 +5,23 @@ import { ThemeToggle } from "@/components/ThemeToggle"
 import { getPeople } from "@/lib/content"
 
 const people = getPeople().sort((a, b) => a.name_en.localeCompare(b.name_en))
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  name: "People",
+  description: "People in the OIFI Databook",
+  numberOfItems: people.length,
+  itemListElement: people.map((p, i) => ({
+    "@type": "ListItem",
+    position: i + 1,
+    url: `https://databook.oifi.org/people/${p.slug}`,
+    name: p.name_en,
+  })),
+}
 ---
 
-<Layout title="People" description="People in the OIFI Databook" canonicalPath="/people">
+<Layout title="People" description="People in the OIFI Databook" canonicalPath="/people" jsonLd={jsonLd}>
   <h1 class="mb-6 text-2xl font-bold">People</h1>
   <ul class="space-y-3">
     {people.map((p) => (

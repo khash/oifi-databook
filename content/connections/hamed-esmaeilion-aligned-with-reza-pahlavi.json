@@ -1,0 +1,21 @@
+{
+  "entity_id": "hamed-esmaeilion-aligned-with-reza-pahlavi",
+  "from_entity": "hamed-esmaeilion",
+  "to_entity": "reza-pahlavi",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "2022",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hamed_Esmaeilion",
+      "source_title": "Hamed Esmaeilion — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Joined a coalition with Reza Pahlavi, Ali Karimi, and Masih Alinejad during the Mahsa Amini protests to amplify the Woman Life Freedom movement"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": "Coalition formed during 2022 Mahsa Amini protests for diaspora coordination"
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "hamed-esmaeilion-founded-association-of-families-of-flight-ps752-victims",
+  "from_entity": "hamed-esmaeilion",
+  "to_entity": "association-of-families-of-flight-ps752-victims",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "2020",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hamed_Esmaeilion",
+      "source_title": "Hamed Esmaeilion — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Esmaeilion co-founded the Association of Families of Flight PS752 Victims and served as its president and spokesperson"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Co-founder; served as president and spokesperson until resignation 7 March 2023"
+}

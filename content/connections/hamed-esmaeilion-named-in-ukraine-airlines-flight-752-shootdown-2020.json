@@ -1,0 +1,21 @@
+{
+  "entity_id": "hamed-esmaeilion-named-in-ukraine-airlines-flight-752-shootdown-2020",
+  "from_entity": "hamed-esmaeilion",
+  "to_entity": "ukraine-airlines-flight-752-shootdown-2020",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hamed_Esmaeilion",
+      "source_title": "Hamed Esmaeilion — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Esmaeilion's wife Parisa Eghbalian and daughter Reera were killed in the PS752 shootdown on 8 January 2020"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Lost wife and daughter in the incident; became leading advocate for accountability"
+}

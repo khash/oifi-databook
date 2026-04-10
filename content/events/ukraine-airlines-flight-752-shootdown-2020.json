@@ -1,0 +1,28 @@
+{
+  "entity_id": "ukraine-airlines-flight-752-shootdown-2020",
+  "slug": "ukraine-airlines-flight-752-shootdown-2020",
+  "name": "Ukraine International Airlines Flight 752 Shootdown",
+  "date": "2020-01-08",
+  "type": "death",
+  "description": "On 8 January 2020, Ukraine International Airlines Flight 752 (PS752) was shot down by two Tor-M1 surface-to-air missiles fired by the IRGC Aerospace Force shortly after takeoff from Tehran Imam Khomeini International Airport. All 176 passengers and crew were killed. The shootdown occurred hours after Iran launched missile strikes on US bases in Iraq in retaliation for the killing of Qasem Soleimani. Iranian authorities initially denied responsibility, claiming a technical failure, before admitting three days later that the aircraft was struck by missiles. The majority of victims were Iranian and Canadian citizens. The incident prompted international demands for accountability and led to the formation of the Association of Families of Flight PS752 Victims.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ukraine_International_Airlines_Flight_752",
+      "title": "Ukraine International Airlines Flight 752",
+      "date": "2020-01-08",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.bbc.com/news/world-middle-east-51073621",
+      "title": "Iran plane crash: Ukraine jet was 'ichot down by missile'",
+      "date": "2020-01-10",
+      "publisher": "BBC News"
+    }
+  ],
+  "tags": [
+    "human-rights",
+    "military"
+  ],
+  "editorial_notes": "176 killed including 55 Canadian citizens and 30 permanent residents. Iran initially denied responsibility for 3 days. IRGC Aerospace Force commander Amir Ali Hajizadeh publicly acknowledged the shootdown on 11 January 2020. Ontario Superior Court of Justice ruled in 2023 that Iran committed an act of terrorism."
+}

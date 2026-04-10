@@ -1,0 +1,21 @@
+{
+  "entity_id": "hamed-esmaeilion-aligned-with-masih-alinejad",
+  "from_entity": "hamed-esmaeilion",
+  "to_entity": "masih-alinejad",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "2022",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hamed_Esmaeilion",
+      "source_title": "Hamed Esmaeilion — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Joined a coalition with Masih Alinejad, Reza Pahlavi, and Ali Karimi during the Mahsa Amini protests"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": "Coalition formed during 2022 Mahsa Amini protests"
+}

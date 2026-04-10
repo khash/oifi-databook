@@ -1,0 +1,21 @@
+{
+  "entity_id": "hamed-esmaeilion-participated-in-mahsa-amini-protests-2022",
+  "from_entity": "hamed-esmaeilion",
+  "to_entity": "mahsa-amini-protests-2022",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2022-10",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hamed_Esmaeilion",
+      "source_title": "Hamed Esmaeilion — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Organised global solidarity rallies on 1 October 2022 across 150+ cities and a Berlin rally on 22 October 2022 with 80,000–100,000 participants"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Key organiser of diaspora solidarity demonstrations during Woman Life Freedom movement"
+}

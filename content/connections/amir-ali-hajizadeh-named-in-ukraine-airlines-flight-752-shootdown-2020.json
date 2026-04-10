@@ -1,0 +1,21 @@
+{
+  "entity_id": "amir-ali-hajizadeh-named-in-ukraine-airlines-flight-752-shootdown-2020",
+  "from_entity": "amir-ali-hajizadeh",
+  "to_entity": "ukraine-airlines-flight-752-shootdown-2020",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.bbc.com/news/world-middle-east-51073621",
+      "source_title": "Iran plane crash: Ukraine jet was shot down by missile",
+      "source_date": "2020-01-10",
+      "description": "As commander of the IRGC Aerospace Force, Hajizadeh publicly acknowledged that the unit under his command shot down Flight 752"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Hajizadeh held a press conference on 11 January 2020 accepting responsibility on behalf of the IRGC Aerospace Force"
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "hamed-esmaeilion-subject-of-irgc-aerospace-force",
+  "from_entity": "hamed-esmaeilion",
+  "to_entity": "irgc-aerospace-force",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2020-01-08",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hamed_Esmaeilion",
+      "source_title": "Hamed Esmaeilion — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Esmaeilion's wife and daughter were killed when the IRGC Aerospace Force shot down Flight PS752; he became a leading advocate for accountability against the IRGC"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "The IRGC Aerospace Force's actions directly affected Esmaeilion, making him a subject of their operations"
+}

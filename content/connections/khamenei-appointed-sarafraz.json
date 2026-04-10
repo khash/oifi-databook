@@ -1,0 +1,21 @@
+{
+  "entity_id": "khamenei-appointed-sarafraz",
+  "from_entity": "ali-khamenei",
+  "to_entity": "mohammad-sarafraz",
+  "type": "appointed",
+  "confidence": "confirmed",
+  "date_from": "2014",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/IRIB",
+      "source_title": "Islamic Republic of Iran Broadcasting",
+      "source_date": null,
+      "description": "Khamenei appointed Sarafraz as head of IRIB in 2014."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

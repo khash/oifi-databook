@@ -1,0 +1,21 @@
+{
+  "entity_id": "tafazzoli-subject-of-mois",
+  "from_entity": "ahmad-tafazzoli",
+  "to_entity": "ministry-of-intelligence",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "1997-01-15",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.pbs.org/wgbh/pages/frontline/tehranbureau/2011/01/the-chain-murders-killing-dissidents-and-intellectuals-1988-1998.html",
+      "source_title": "The Chain Murders — PBS Frontline",
+      "source_date": "2011-01-05",
+      "description": "Tafazzoli murdered by MOIS unit; skull crushed, body in trunk of car."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

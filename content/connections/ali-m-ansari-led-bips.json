@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-m-ansari-led-bips",
+  "from_entity": "ali-m-ansari",
+  "to_entity": "british-institute-of-persian-studies",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "2023",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_M._Ansari",
+      "source_title": "Ali M. Ansari — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Ansari was elected President of BIPS in 2023."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Elected President 2023. Previously served on governing council."
+}

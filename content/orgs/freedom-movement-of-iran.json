@@ -1,0 +1,15 @@
+{
+  "entity_id": "freedom-movement-of-iran",
+  "slug": "freedom-movement-of-iran",
+  "name_en": "Freedom Movement of Iran",
+  "name_fa": "نهضت آزادی ایران",
+  "has_native_fa_name": true,
+  "type": "political-party",
+  "founded": 1961,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Founded 17 May 1961 by [Mehdi Bazargan](/people/mehdi-bazargan), [Mahmoud Taleghani](/people/mahmoud-taleghani), and [Yadollah Sahabi](/people/yadollah-sahabi) as a religiously oriented offshoot of the [National Front](/orgs/national-front-iran). Oldest political party still active in Iran. Self-describes as \"Muslims, Iranians, Constitutionalists and Mossadeghists.\" Members of the Freedom Movement formed the core of the provisional government after the [1979 revolution](/events/iranian-revolution-1979), with [Bazargan](/people/mehdi-bazargan) as prime minister. Barred from elections since 1980 (with a brief exception in 2003 local elections). Despite being effectively outlawed, continues to exist as a \"barely tolerated\" opposition force. Splinter groups include the [Mojahedin-e Khalq](/orgs/mojahedin-e-khalq) (1965) and the Council of Nationalist-Religious Activists (2000).",
+  "faction": "opposition",
+  "tags": ["banned", "human-rights"],
+  "editorial_notes": "Oldest active Iranian political party. Effectively banned but tolerated."
+}

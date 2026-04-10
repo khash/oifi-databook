@@ -1,0 +1,21 @@
+{
+  "entity_id": "mokhtari-named-chain-murders",
+  "from_entity": "mohammad-mokhtari",
+  "to_entity": "chain-murders-iran-1998",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1998-12-03",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Chain_murders_of_Iran",
+      "source_title": "Chain murders of Iran",
+      "source_date": "1998-12-09",
+      "description": "Mokhtari disappeared 3 December 1998; body found strangled 9 December in Ray."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

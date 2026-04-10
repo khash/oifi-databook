@@ -1,0 +1,18 @@
+{
+  "entity_id": "mahmoud-taleghani",
+  "slug": "mahmoud-taleghani",
+  "name_en": "Mahmoud Taleghani",
+  "name_fa": "محمود طالقانی",
+  "has_native_fa_name": true,
+  "aliases": ["Ayatollah Taleghani"],
+  "born": 1911,
+  "birthplace": "Taleqan",
+  "role": "Co-founder of Freedom Movement of Iran; revolutionary cleric",
+  "faction": "opposition",
+  "bio": "Liberal Shia cleric who co-founded the [Freedom Movement of Iran](/orgs/freedom-movement-of-iran) alongside [Mehdi Bazargan](/people/mehdi-bazargan) and [Yadollah Sahabi](/people/yadollah-sahabi). Imprisoned multiple times (4 arrests, over 11 years total) under the Pahlavi regime. Served in the provisional government after the [1979 revolution](/events/iranian-revolution-1979). Known for progressive interpretations of Islam and support for democratic governance. Elected as Tehran's first representative to the [Islamic Consultative Assembly](/orgs/islamic-consultative-assembly). Died 9 September 1979, shortly after the revolution.",
+  "irgc_member": false,
+  "expertise": ["Quranic exegesis", "Islamic democracy", "social justice"],
+  "tags": ["deceased", "clerical", "human-rights"],
+  "photo": null,
+  "editorial_notes": "Died September 1979, just months after the revolution. Suspicious circumstances alleged by some."
+}

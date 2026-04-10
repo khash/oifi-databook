@@ -1,0 +1,18 @@
+{
+  "entity_id": "ezzatollah-sahabi",
+  "slug": "ezzatollah-sahabi",
+  "name_en": "Ezzatollah Sahabi",
+  "name_fa": "عزت‌الله سحابی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1930,
+  "birthplace": null,
+  "role": "Freedom Movement activist; journalist",
+  "faction": "opposition",
+  "bio": "Son of [Yadollah Sahabi](/people/yadollah-sahabi). Co-founder of the [Freedom Movement of Iran](/orgs/freedom-movement-of-iran). Imprisoned 3 times under the Pahlavi regime (10.8 years total) and twice under the Islamic Republic (1.3 years). Active in nationalist-religious opposition politics. Co-founded the Council of Nationalist-Religious Activists in 2000.",
+  "irgc_member": false,
+  "expertise": ["journalism", "political activism"],
+  "tags": ["deceased", "political-prisoner", "human-rights"],
+  "photo": null,
+  "editorial_notes": "Son of Yadollah Sahabi. Multiple imprisonments under both regimes."
+}

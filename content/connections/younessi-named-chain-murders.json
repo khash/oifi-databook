@@ -1,0 +1,21 @@
+{
+  "entity_id": "younessi-named-chain-murders",
+  "from_entity": "ali-younessi",
+  "to_entity": "chain-murders-iran-1998",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1999",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Chain_murders_of_Iran",
+      "source_title": "Chain murders of Iran",
+      "source_date": "1999-01-01",
+      "description": "Younessi was appointed to Khatami's three-person investigative committee, then became Intelligence Minister to reform MOIS."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Role was investigating and reforming, not perpetrating."
+}

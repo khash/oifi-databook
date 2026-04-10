@@ -1,0 +1,22 @@
+{
+  "entity_id": "trita-parsi-founded-niac-action",
+  "from_entity": "trita-parsi",
+  "to_entity": "niac-action",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "2015",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.niacaction.org/about/",
+      "source_title": "About NIAC Action",
+      "source_date": "2015",
+      "description": "Parsi created NIAC Action as the 501(c)(4) lobbying arm of NIAC in June 2015 to directly lobby for the JCPOA nuclear deal."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": ["diplomacy", "jcpoa"],
+  "editorial_notes": "Created specifically to conduct lobbying activities during the JCPOA push."
+}

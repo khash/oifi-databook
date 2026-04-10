@@ -1,0 +1,27 @@
+{
+  "entity_id": "robert-malley",
+  "slug": "robert-malley",
+  "name_en": "Robert Malley",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "aliases": [
+    "Rob Malley"
+  ],
+  "born": 1963,
+  "birthplace": "New York City, USA",
+  "role": "US Special Envoy for Iran (2021–2023); President of International Crisis Group (2018–2021)",
+  "faction": "pragmatist",
+  "bio": "Robert Malley is an American lawyer and diplomat who served as president and CEO of the [International Crisis Group](/orgs/international-crisis-group) from 2018 to 2021, and as the Biden administration's special envoy for Iran from January 2021 until his suspension in June 2023. While at ICG and the State Department, he employed or worked with at least three members of the [Iran Experts Initiative](/events/iei-email-leak-2023) — [Ariane Tabatabai](/people/ariane-tabatabai), [Ali Vaez](/people/ali-vaez), and [Dina Esfandiary](/people/dina-esfandiary). He recruited Tabatabai to join his Iran team at the State Department in February 2021. In June 2023, his security clearance was suspended and he was placed on unpaid leave amid an FBI investigation into his handling of classified information. The [IEI email leak](/events/iei-email-leak-2023) in September 2023 intensified congressional scrutiny of his Iran negotiating team.",
+  "expertise": [
+    "diplomacy",
+    "Middle East policy",
+    "conflict resolution"
+  ],
+  "tags": [
+    "diplomacy",
+    "jcpoa"
+  ],
+  "photo": null,
+  "editorial_notes": "FBI investigation ongoing as of 2024. Previously served on Clinton and Obama NSC staffs.",
+  "irgc_member": false
+}

@@ -1,0 +1,18 @@
+{
+  "entity_id": "shapour-bakhtiar",
+  "slug": "shapour-bakhtiar",
+  "name_en": "Shapour Bakhtiar",
+  "name_fa": "شاپور بختیار",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1914,
+  "birthplace": "Chahar Mahal",
+  "role": "Last Prime Minister of Iran under the Shah (1979); opposition leader in exile",
+  "faction": "opposition",
+  "bio": "Appointed as Iran's last Prime Minister by Shah Mohammad Reza Pahlavi in January 1979 in a last-ditch effort to quell the revolution. A member of the [National Front](/orgs/national-front-iran), his acceptance of the position led to his expulsion from the party. He fled to France after the [revolution](/events/iranian-revolution-1979) and was assassinated by Iranian government agents in his home near Paris on 6 August 1991.",
+  "irgc_member": false,
+  "expertise": ["law", "political science"],
+  "tags": ["deceased", "assassinated", "executive", "in-exile"],
+  "photo": null,
+  "editorial_notes": "Assassinated by Iranian agents in Paris, 1991."
+}

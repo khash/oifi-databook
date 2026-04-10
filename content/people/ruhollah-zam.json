@@ -1,0 +1,23 @@
+{
+  "entity_id": "ruhollah-zam",
+  "slug": "ruhollah-zam",
+  "name_en": "Ruhollah Zam",
+  "name_fa": "روح‌الله زم",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1978,
+  "birthplace": "Tehran, Iran",
+  "role": "Dissident journalist; founder of Amad News",
+  "faction": "opposition",
+  "bio": "Ruhollah Zam was an Iranian dissident journalist and the founder of the Amad News Telegram channel, which became one of the most influential opposition media outlets during the December 2017–January 2018 protests in Iran, with over one million followers. The son of reformist cleric Ahmad Zam, he had fled Iran and was living in exile in France. In October 2019, he was lured to Iraq by [IRGC Intelligence](/orgs/irgc-intelligence-organisation) operatives and captured. He was returned to Iran, where [IRIB](/orgs/irib) broadcast his forced confession. He was charged with corruption on earth, sentenced to death by a revolutionary court, and [executed](/events/execution-of-ruhollah-zam-2020) on 12 December 2020. His execution was widely condemned by France, the European Union, and international human rights organisations.",
+  "expertise": [
+    "digital media",
+    "opposition journalism"
+  ],
+  "tags": [
+    "deceased"
+  ],
+  "photo": null,
+  "editorial_notes": "Captured via IRGC intelligence operation in Iraq. Son of reformist cleric Ahmad Zam.",
+  "irgc_member": false
+}

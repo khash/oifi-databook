@@ -1,0 +1,17 @@
+{
+  "entity_id": "institute-for-iranian-studies-st-andrews",
+  "slug": "institute-for-iranian-studies-st-andrews",
+  "name_en": "Institute for Iranian Studies (St Andrews)",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 2006,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Institute for Iranian Studies at the University of St Andrews is one of the leading academic centres for the study of Iran in Europe. Founded in 2006 by [Ali M. Ansari](/people/ali-m-ansari), it provides expertise on Iran from late antiquity to the modern era. The university library holds over 6,000 Persian books. The institute offers an MLitt in Iranian Studies and hosts a regular seminar series featuring researchers from across Britain and Europe.",
+  "faction": null,
+  "tags": [
+    "diplomacy"
+  ],
+  "editorial_notes": "Academic research centre at University of St Andrews School of History. Founded 2006 by Ali Ansari. Offers MLitt in Iranian Studies (on-campus and online)."
+}

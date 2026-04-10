@@ -1,0 +1,21 @@
+{
+  "entity_id": "bakhtiar-headed-office-of-pm",
+  "from_entity": "shapour-bakhtiar",
+  "to_entity": "office-of-prime-minister",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "1979-01",
+  "date_to": "1979-02",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Freedom_Movement_of_Iran",
+      "source_title": "Freedom Movement of Iran - Wikipedia",
+      "source_date": "2024",
+      "description": "Wikipedia article on Freedom Movement of Iran"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Last PM under the Shah. Replaced by Bazargan after the revolution."
+}

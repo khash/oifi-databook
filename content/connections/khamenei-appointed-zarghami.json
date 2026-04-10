@@ -1,0 +1,21 @@
+{
+  "entity_id": "khamenei-appointed-zarghami",
+  "from_entity": "ali-khamenei",
+  "to_entity": "ezzatollah-zarghami",
+  "type": "appointed",
+  "confidence": "confirmed",
+  "date_from": "2004",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ezzatollah_Zarghami",
+      "source_title": "Ezzatollah Zarghami",
+      "source_date": null,
+      "description": "Khamenei appointed Zarghami as head of IRIB in 2004."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

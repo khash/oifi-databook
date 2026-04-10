@@ -1,0 +1,34 @@
+{
+  "entity_id": "trita-parsi-coordinated-with-javad-zarif",
+  "from_entity": "trita-parsi",
+  "to_entity": "javad-zarif",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "2002",
+  "date_to": "2007",
+  "evidence": [
+    {
+      "source_url": "https://www.hoover.org/research/all-name-iranian-regimes-de-facto-lobby-west",
+      "source_title": "In All But Name: The Iranian Regime's (De Facto) Lobby in the West",
+      "source_date": "2023-12",
+      "description": "Hoover Institution report details extensive Parsi-Zarif email exchanges revealed during the Dai v. NIAC lawsuit, including arranging meetings between Zarif and U.S. Congress members."
+    },
+    {
+      "source_url": "",
+      "source_title": "Zarif testimony to Iranian parliament",
+      "source_date": "2013-08",
+      "description": "Zarif told the Iranian parliament that during his UN tenure he established contacts with anti-Bush politicians and that Parsi and NIAC were his 'main partners in the early stages of this campaign.'"
+    },
+    {
+      "source_url": "",
+      "source_title": "Dai v. NIAC lawsuit discovery",
+      "source_date": "2012",
+      "description": "In April 2006, Zarif provided Parsi with a copy of the alleged 2003 Iranian 'grand bargain' offer, which Parsi then released to the press."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": ["diplomacy", "jcpoa"],
+  "editorial_notes": "This is the most documented NIAC-regime link. Former FBI associate deputy director Oliver Revell stated these activities would require FARA registration."
+}

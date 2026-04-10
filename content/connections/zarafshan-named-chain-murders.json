@@ -1,0 +1,21 @@
+{
+  "entity_id": "zarafshan-named-chain-murders",
+  "from_entity": "nasser-zarafshan",
+  "to_entity": "chain-murders-iran-1998",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1999",
+  "date_to": "2002",
+  "evidence": [
+    {
+      "source_url": "https://pen.org/individual-case/nasser-zarafshan/",
+      "source_title": "Nasser Zarafshan — PEN International",
+      "source_date": "2002-03-19",
+      "description": "Zarafshan represented the families of Mokhtari and Pouyandeh; sentenced to 5 years and 70 lashes for his advocacy."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

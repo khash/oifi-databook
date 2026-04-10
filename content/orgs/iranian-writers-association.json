@@ -1,0 +1,15 @@
+{
+  "entity_id": "iranian-writers-association",
+  "slug": "iranian-writers-association",
+  "name_en": "Iranian Writers' Association",
+  "name_fa": "کانون نویسندگان ایران",
+  "has_native_fa_name": true,
+  "type": "ngo",
+  "founded": 1968,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Iranian Writers' Association (Kanun-e Nevisandegan-e Iran) is a literary and civil society organisation founded in 1968 to defend freedom of expression and the rights of writers in Iran. In 1994, 134 of its members signed the landmark open letter 'We Are the Writers!' demanding an end to censorship. Several members of its organising committee — including [Mohammad Mokhtari](/people/mohammad-mokhtari), [Mohammad Jafar Pouyandeh](/people/mohammad-jafar-pouyandeh), and [Ali Akbar Saidi Sirjani](/people/ali-akbar-saidi-sirjani) — were murdered as part of the [chain murders](/events/chain-murders-iran-1998). In August 1996, 21 writers travelling to a poetry conference were nearly killed when a [Ministry of Intelligence](/orgs/ministry-of-intelligence) operative attempted to drive their bus off a cliff at Heyran Pass. The association has been repeatedly suppressed by Iranian authorities but continues to operate informally.",
+  "faction": null,
+  "tags": ["chain-murders", "human-rights"],
+  "editorial_notes": "Founded 1968. 134 signatories of 1994 open letter. Multiple members assassinated in chain murders. Bus incident August 1996 at Heyran Pass."
+}

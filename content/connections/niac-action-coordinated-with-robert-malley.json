@@ -1,0 +1,22 @@
+{
+  "entity_id": "niac-action-coordinated-with-robert-malley",
+  "from_entity": "niac-action",
+  "to_entity": "robert-malley",
+  "type": "coordinated-with",
+  "confidence": "alleged",
+  "date_from": "2021",
+  "date_to": "2023",
+  "evidence": [
+    {
+      "source_url": "https://emetonline.org/resource/the-iran-enablers-tehrans-network-in-america/",
+      "source_title": "The Iran Enablers: Tehran's Network in America",
+      "source_date": "2024",
+      "description": "NIAC Action's Jamal Abdi publicly applauded Malley's appointment as Biden's Iran envoy. Policy alignment between NIAC Action's lobbying positions and Malley's negotiation stance on JCPOA revival."
+    }
+  ],
+  "intermediaries": ["jamal-abdi"],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": ["diplomacy", "jcpoa"],
+  "editorial_notes": "Policy alignment and public endorsement documented, but direct operational coordination not proven. Mirrors the NIAC-Malley connection at the c4 level."
+}

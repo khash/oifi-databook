@@ -1,0 +1,21 @@
+{
+  "entity_id": "malley-mentor-of-ali-vaez",
+  "from_entity": "robert-malley",
+  "to_entity": "ali-vaez",
+  "type": "mentor-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.semafor.com/article/09/25/2023/inside-irans-influence-operation",
+      "source_title": "Inside Iran's Influence Operation",
+      "source_date": "2023-09-25",
+      "description": "Vaez was described as a close protégé of Malley at the International Crisis Group."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

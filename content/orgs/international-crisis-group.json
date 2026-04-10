@@ -1,0 +1,17 @@
+{
+  "entity_id": "international-crisis-group",
+  "slug": "international-crisis-group",
+  "name_en": "International Crisis Group",
+  "name_fa": "گروه بین‌المللی بحران",
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 1995,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The International Crisis Group (ICG) is a Brussels-based transnational NGO that conducts field research on violent conflict and advocates for policy solutions. [Robert Malley](/people/robert-malley) served as its president and CEO from 2018 to 2021 before joining the Biden administration as special envoy on Iran. At least two members of the [Iran Experts Initiative](/events/iei-email-leak-2023) — [Ali Vaez](/people/ali-vaez) and [Dina Esfandiary](/people/dina-esfandiary) — were employed by ICG, with Vaez serving as Iran project director. After the [IEI email leak](/events/iei-email-leak-2023), ICG characterised the initiative as 'an informal platform' supported by European governments and institutions.",
+  "faction": null,
+  "tags": [
+    "diplomacy"
+  ],
+  "editorial_notes": "Headquartered in Brussels. Malley was president 2018-2021."
+}

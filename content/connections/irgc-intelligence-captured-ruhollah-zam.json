@@ -1,0 +1,21 @@
+{
+  "entity_id": "irgc-intelligence-captured-ruhollah-zam",
+  "from_entity": "irgc-intelligence-organisation",
+  "to_entity": "ruhollah-zam",
+  "type": "directed",
+  "confidence": "confirmed",
+  "date_from": "2019-10",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ruhollah_Zam",
+      "source_title": "Ruhollah Zam",
+      "source_date": null,
+      "description": "IRGC Intelligence lured Zam from France to Iraq and captured him in October 2019."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

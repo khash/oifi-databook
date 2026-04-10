@@ -1,0 +1,25 @@
+{
+  "entity_id": "ezzatollah-zarghami",
+  "slug": "ezzatollah-zarghami",
+  "name_en": "Ezzatollah Zarghami",
+  "name_fa": "عزت‌الله ضرغامی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1959,
+  "birthplace": "Sari, Iran",
+  "role": "Head of IRIB (2004–2014); Minister of Cultural Heritage (2021–2024)",
+  "faction": "hardliner",
+  "bio": "Ezzatollah Zarghami is a former [IRGC](/orgs/islamic-revolutionary-guard-corps) member who served as head of [IRIB](/orgs/irib) for a decade, appointed by Supreme Leader [Ali Khamenei](/people/ali-khamenei) in 2004 after [Ali Larijani](/people/ali-larijani)'s departure. His tenure covered the controversial [2009 presidential election](/events/presidential-election-iran-2009) and the [Green Movement](/events/green-movement-protests-2009), during which IRIB declared [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad) the winner before official certification and broadcast no honest coverage of the massive street protests. Under Zarghami, IRIB expanded its international satellite channels including [Press TV](/orgs/press-tv) and aired forced confessions of detained reformist activists and journalists. He was personally sanctioned by the European Union in 2012 for IRIB's role in broadcasting coerced confessions. After leaving IRIB, he was appointed Minister of Cultural Heritage and Tourism by President [Ebrahim Raisi](/people/ebrahim-raisi) in 2021.",
+  "expertise": [
+    "broadcasting",
+    "media operations",
+    "cultural policy"
+  ],
+  "tags": [
+    "sanctions",
+    "human-rights"
+  ],
+  "photo": null,
+  "editorial_notes": "Former IRGC member. EU-sanctioned for forced confession broadcasts. Served as minister under Raisi.",
+  "irgc_member": true
+}

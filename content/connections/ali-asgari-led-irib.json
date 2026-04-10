@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-asgari-led-irib",
+  "from_entity": "abdolali-ali-asgari",
+  "to_entity": "irib",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "2016",
+  "date_to": "2021",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/IRIB",
+      "source_title": "Islamic Republic of Iran Broadcasting",
+      "source_date": null,
+      "description": "Ali-Asgari headed IRIB from 2016 to 2021, covering the 2019 protests."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

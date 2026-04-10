@@ -1,0 +1,19 @@
+{
+  "entity_id": "chatham-house",
+  "slug": "chatham-house",
+  "name_en": "Chatham House",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 1920,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Chatham House, formally the Royal Institute of International Affairs, is a London-based independent policy institute. Founded in 1920, it is one of the world's leading think tanks for international affairs, with extensive programmes on the Middle East and North Africa, including regular analysis of Iranian politics, nuclear negotiations, and sanctions policy. Its Iran-related work has involved numerous scholars and analysts connected to Iranian affairs.",
+  "faction": null,
+  "tags": [
+    "diplomacy",
+    "jcpoa",
+    "sanctions"
+  ],
+  "editorial_notes": "Founded 1920 at 10 St James's Square, London. Also known as Royal Institute of International Affairs. Ellie Geranmayeh is a senior fellow there."
+}

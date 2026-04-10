@@ -1,0 +1,22 @@
+{
+  "entity_id": "siamak-namazi-named-in-iei",
+  "from_entity": "siamak-namazi",
+  "to_entity": "iei-email-leak-2023",
+  "type": "named-in",
+  "confidence": "alleged",
+  "date_from": "2023",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.hoover.org/research/all-name-iranian-regimes-de-facto-lobby-west",
+      "source_title": "In All But Name: The Iranian Regime's (De Facto) Lobby in the West",
+      "source_date": "2023-12",
+      "description": "Namazi's Atieh Bahar network and role in conceiving the NIAC lobby concept places him within the broader influence ecosystem described in the Hoover report."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": ["diplomacy"],
+  "editorial_notes": "Indirect connection — Namazi was imprisoned in Iran from 2015-2023 and could not have participated in IEI directly."
+}

@@ -1,0 +1,15 @@
+{
+  "entity_id": "national-front-iran",
+  "slug": "national-front-iran",
+  "name_en": "National Front (Iran)",
+  "name_fa": "جبهه ملی ایران",
+  "has_native_fa_name": true,
+  "type": "political-party",
+  "founded": 1949,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Coalition of nationalist political parties founded by Mohammad Mossadegh in 1949. Led the oil nationalization movement and supported Mossadegh's government (1951–1953). Reconstituted as the Second National Front (1960) and Third National Front (1964). The [Freedom Movement of Iran](/orgs/freedom-movement-of-iran) split from it in 1961. Members including [Karim Sanjabi](/people/karim-sanjabi) served in the post-revolution provisional government, but the organization was marginalized by the Islamic Republic.",
+  "faction": "opposition",
+  "tags": ["banned"],
+  "editorial_notes": "Founded by Mossadegh. Parent organization of FMI."
+}

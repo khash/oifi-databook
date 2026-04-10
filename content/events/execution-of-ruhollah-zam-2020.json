@@ -1,0 +1,21 @@
+{
+  "entity_id": "execution-of-ruhollah-zam-2020",
+  "slug": "execution-of-ruhollah-zam-2020",
+  "name": "Execution of Ruhollah Zam (2020)",
+  "date": "2020-12-12",
+  "type": "death",
+  "description": "Dissident journalist [Ruhollah Zam](/people/ruhollah-zam), founder of the Amad News Telegram channel, was executed on 12 December 2020 after being lured from exile in France to Iraq and captured by [IRGC Intelligence](/orgs/irgc-intelligence-organisation) operatives in October 2019. His forced confession was broadcast on [IRIB](/orgs/irib). A revolutionary court convicted him of 'corruption on earth' for his role in covering the December 2017 protests through Amad News, which had over one million followers. His execution was condemned by France, the European Union, and international human rights organisations. He was the son of reformist cleric Ahmad Zam.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ruhollah_Zam",
+      "title": "Ruhollah Zam",
+      "date": "2020-12-12",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": [
+    "human-rights"
+  ],
+  "editorial_notes": "Captured in Iraq in IRGC intelligence operation. Widely seen as retaliation for protest coverage."
+}

@@ -1,0 +1,18 @@
+{
+  "entity_id": "pirouz-davani",
+  "slug": "pirouz-davani",
+  "name_en": "Pirouz Davani",
+  "name_fa": "پیروز دوانی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1961,
+  "birthplace": "Iran",
+  "role": "Leftist activist; former political prisoner; editor; assassinated 1998",
+  "faction": "opposition",
+  "bio": "Pirouz Davani was a leftist political activist, former political prisoner, and editor of the newspaper *Pirooz*. He disappeared on 29 August 1998. His body was never recovered, but he is believed to have been murdered around 20 September 1998 by agents of the [Ministry of Intelligence](/orgs/ministry-of-intelligence). His disappearance was one of the earliest of the 1998 wave of [chain murders](/events/chain-murders-iran-1998), preceding the more widely publicised killings of the Forouhars, Mokhtari, and Pouyandeh.",
+  "irgc_member": false,
+  "expertise": [],
+  "tags": ["assassinated", "chain-murders", "human-rights"],
+  "photo": null,
+  "editorial_notes": "Born 1961. Leftist activist, ex-political prisoner. Editor of Pirooz newspaper. Disappeared 29 August 1998, body never recovered."
+}

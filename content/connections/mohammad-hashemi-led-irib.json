@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-hashemi-led-irib",
+  "from_entity": "mohammad-hashemi",
+  "to_entity": "irib",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "1980",
+  "date_to": "1994",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Hashemi_Rafsanjani",
+      "source_title": "Mohammad Hashemi Rafsanjani",
+      "source_date": null,
+      "description": "Mohammad Hashemi served as head of IRIB for 14 years, the longest tenure of any director."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

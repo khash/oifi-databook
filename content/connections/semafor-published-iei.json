@@ -1,0 +1,21 @@
+{
+  "entity_id": "semafor-published-iei",
+  "from_entity": "semafor",
+  "to_entity": "iei-email-leak-2023",
+  "type": "published",
+  "confidence": "confirmed",
+  "date_from": "2023-09-25",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.semafor.com/article/09/25/2023/inside-irans-influence-operation",
+      "source_title": "Inside Iran's Influence Operation",
+      "source_date": "2023-09-25",
+      "description": "Semafor journalist Jay Solomon co-published the IEI investigation with Iran International, based on leaked Iranian Foreign Ministry emails."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

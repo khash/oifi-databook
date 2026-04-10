@@ -1,0 +1,21 @@
+{
+  "entity_id": "zarghami-led-irib",
+  "from_entity": "ezzatollah-zarghami",
+  "to_entity": "irib",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "2004",
+  "date_to": "2014",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ezzatollah_Zarghami",
+      "source_title": "Ezzatollah Zarghami",
+      "source_date": null,
+      "description": "Zarghami headed IRIB for a decade, overseeing the 2009 election controversy and Green Movement coverage."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

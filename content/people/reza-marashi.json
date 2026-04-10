@@ -1,0 +1,25 @@
+{
+  "entity_id": "reza-marashi",
+  "slug": "reza-marashi",
+  "name_en": "Reza Marashi",
+  "name_fa": "رضا مرعشی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Former Research Director, NIAC",
+  "faction": "pragmatist",
+  "bio": "Reza Marashi served as the first Research Director of the [National Iranian American Council (NIAC)](/orgs/niac), joining in 2010. Before NIAC, he spent four years at the U.S. State Department's Office of Iranian Affairs and worked at the Institute for National Strategic Studies on China-Middle East issues. He was also a Tehran-based private strategic consultant connected to the Atieh Bahar consulting ecosystem. His career path — from the State Department's Iran desk to NIAC — exemplifies the revolving door between government Iran policy positions and the NIAC network that critics have highlighted.",
+  "expertise": [
+    "US-Iran relations",
+    "diplomacy",
+    "sanctions"
+  ],
+  "tags": [
+    "diplomacy",
+    "jcpoa"
+  ],
+  "photo": null,
+  "editorial_notes": "First person to hold NIAC Research Director role. Prior State Dept and Tehran consulting background.",
+  "irgc_member": false
+}

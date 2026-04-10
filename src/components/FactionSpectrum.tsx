@@ -1,7 +1,8 @@
 import { SPECTRUM_FACTIONS } from "@/lib/constants"
 import type { Faction } from "@/lib/types"
 
-export function FactionSpectrum({ faction }: { faction: Faction }) {
+export function FactionSpectrum({ faction }: { faction: Faction | null }) {
+  if (!faction) return null
   const index = (SPECTRUM_FACTIONS as readonly string[]).indexOf(faction)
   if (index === -1) return null
 

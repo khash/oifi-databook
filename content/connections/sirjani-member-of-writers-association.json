@@ -1,0 +1,21 @@
+{
+  "entity_id": "sirjani-member-of-writers-association",
+  "from_entity": "ali-akbar-saidi-sirjani",
+  "to_entity": "iranian-writers-association",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "1994-03-14",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali-Akbar_Sa%27idi_Sirjani",
+      "source_title": "Ali-Akbar Saidi Sirjani — Wikipedia",
+      "source_date": "1994-01-01",
+      "description": "Saidi Sirjani was a member of the Iranian Writers' Association."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

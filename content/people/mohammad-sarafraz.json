@@ -1,0 +1,24 @@
+{
+  "entity_id": "mohammad-sarafraz",
+  "slug": "mohammad-sarafraz",
+  "name_en": "Mohammad Sarafraz",
+  "name_fa": "محمد سرافراز",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1963,
+  "birthplace": "Tehran, Iran",
+  "role": "Head of IRIB (2014–2016); Former head of Press TV",
+  "faction": "hardliner",
+  "bio": "Mohammad Sarafraz served as head of [IRIB](/orgs/irib) from 2014 to 2016, appointed by Supreme Leader [Ali Khamenei](/people/ali-khamenei). He had previously headed [Press TV](/orgs/press-tv), IRIB's English-language satellite news channel, where he oversaw the broadcast of forced confessions including that of Newsweek journalist Maziar Bahari, filmed inside Evin Prison in 2009. For his role in airing coerced confessions, Sarafraz was individually sanctioned by the European Union before his appointment as IRIB head. His tenure as IRIB director was relatively short and he was replaced by [Abdolali Ali-Asgari](/people/abdolali-ali-asgari) in 2016.",
+  "expertise": [
+    "international broadcasting",
+    "English-language media"
+  ],
+  "tags": [
+    "sanctions",
+    "human-rights"
+  ],
+  "photo": null,
+  "editorial_notes": "EU-sanctioned individually for forced confession broadcasts on Press TV.",
+  "irgc_member": false
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "dina-esfandiary-served-in-icg",
+  "from_entity": "dina-esfandiary",
+  "to_entity": "international-crisis-group",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.semafor.com/article/09/25/2023/inside-irans-influence-operation",
+      "source_title": "Inside Iran's Influence Operation",
+      "source_date": "2023-09-25",
+      "description": "Esfandiary served as senior advisor at ICG, hired during Malley's presidency."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

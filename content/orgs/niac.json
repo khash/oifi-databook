@@ -1,0 +1,19 @@
+{
+  "entity_id": "niac",
+  "slug": "niac",
+  "name_en": "National Iranian American Council",
+  "name_fa": "شورای ملی ایرانیان آمریکا",
+  "has_native_fa_name": true,
+  "type": "ngo",
+  "founded": 2002,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The National Iranian American Council (NIAC) is a Washington D.C.-based 501(c)(3) nonprofit founded in 2002 by [Trita Parsi](/people/trita-parsi). It describes itself as promoting the civic participation of Iranian Americans and diplomacy between the U.S. and Iran. Critics — including the Hoover Institution, members of Congress, and Iranian diaspora activists — allege it functions as a de facto lobby for the Iranian regime. During a 2008 defamation lawsuit filed by NIAC against journalist Hassan Dai, discovery revealed extensive email communications between Parsi and [Javad Zarif](/people/javad-zarif) (then Iran's UN Ambassador), including arranging meetings between Zarif and U.S. Congress members. In August 2013, Zarif told the Iranian parliament that Parsi and NIAC had been his 'main partners' in a campaign to exploit American political divisions on Iran policy. Internal NIAC documents showed employees referring to their work as 'lobbying,' and an employee was found to have altered 130 files changing 'lobbying' to 'legislative direct.' The case was dismissed in 2012, and NIAC was sanctioned $183,480 for discovery abuses in 2015. In 2020, Senators Cotton, Braun, and Cruz wrote to the Attorney General urging a FARA investigation of NIAC. NIAC created a 501(c)(4) sister organization, [NIAC Action](/orgs/niac-action), in 2015 to lobby for the [JCPOA nuclear deal](/events/jcpoa-nuclear-deal-2015). After leaving NIAC, Parsi co-founded the [Quincy Institute for Responsible Statecraft](/orgs/quincy-institute).",
+  "faction": null,
+  "tags": [
+    "diplomacy",
+    "jcpoa",
+    "sanctions"
+  ],
+  "editorial_notes": "Faction set to null — NIAC is a U.S.-based org, not an Iranian political faction. Its policy positions align with the pragmatist/reformist wing of Iranian politics."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-m-ansari-family-of-reza-pahlavi",
+  "from_entity": "ali-m-ansari",
+  "to_entity": "reza-pahlavi",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_M._Ansari",
+      "source_title": "Ali M. Ansari — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Ali Ansari's father is a cousin of Farah Pahlavi, making Ali a first cousin once removed of Reza Pahlavi."
+    }
+  ],
+  "intermediaries": ["farah-pahlavi"],
+  "symmetric": true,
+  "family_subtype": "in-law",
+  "editorial_notes": "Cousin once removed. Ali's father Mohammad Ali Massoud Ansari is Farah's cousin; Reza is Farah's son."
+}

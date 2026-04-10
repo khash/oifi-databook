@@ -1,0 +1,21 @@
+{
+  "entity_id": "jebelli-led-irib",
+  "from_entity": "peyman-jebelli",
+  "to_entity": "irib",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "2021",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/IRIB",
+      "source_title": "Islamic Republic of Iran Broadcasting",
+      "source_date": null,
+      "description": "Jebelli was appointed IRIB head in 2021 by Supreme Leader Khamenei."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

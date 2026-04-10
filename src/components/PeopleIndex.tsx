@@ -2,7 +2,6 @@ import { useState, useMemo } from "react"
 import { Input } from "@/components/ui/input"
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "@/components/ui/tooltip"
 import { Badge } from "@/components/ui/badge"
-import { FactionSpectrum } from "@/components/FactionSpectrum"
 import {
   Select,
   SelectContent,
@@ -10,7 +9,9 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select"
-import { SPECTRUM_FACTIONS, INSTITUTIONAL_FACTIONS } from "@/lib/constants"
+import { FactionSpectrum } from "@/components/FactionSpectrum"
+import { FACTION_CONFIG } from "@/components/FactionBadge"
+import { SPECTRUM_FACTIONS } from "@/lib/constants"
 import type { Faction } from "@/lib/types"
 
 interface PersonItem {
@@ -18,22 +19,23 @@ interface PersonItem {
   name_en: string
   name_fa: string
   role: string
-  faction: Faction
+  faction: Faction | null
   irgc_member: boolean
   connectionCount: number
 }
 
 type SortKey = "name" | "faction" | "connections"
-type ViewMode = "list" | "table"
-
-const ALL_FACTIONS = [...SPECTRUM_FACTIONS, ...INSTITUTIONAL_FACTIONS] as const
 
 export function PeopleIndex({ people }: { people: PersonItem[] }) {
   const [search, setSearch] = useState("")
   const [factionFilter, setFactionFilter] = useState<string>("all")
   const [irgcOnly, setIrgcOnly] = useState(false)
   const [sort, setSort] = useState<SortKey>("name")
-  const [view, setView] = useState<ViewMode>("list")
+
+  const usedFactions = useMemo(() => {
+    const factions = new Set(people.map((p) => p.faction).filter(Boolean))
+    return SPECTRUM_FACTIONS.filter((f) => factions.has(f))
+  }, [people])
 
   const filtered = useMemo(() => {
     let result = people
@@ -43,7 +45,7 @@ export function PeopleIndex({ people }: { people: PersonItem[] }) {
       result = result.filter(
         (p) =>
           p.name_en.toLowerCase().includes(q) ||
-          p.name_fa.includes(search) ||
+          p.name_fa?.includes(search) ||
           p.role.toLowerCase().includes(q),
       )
     }
@@ -59,8 +61,8 @@ export function PeopleIndex({ people }: { people: PersonItem[] }) {
     result = [...result].sort((a, b) => {
       if (sort === "name") return a.name_en.localeCompare(b.name_en)
       if (sort === "faction") {
-        const ai = ALL_FACTIONS.indexOf(a.faction)
-        const bi = ALL_FACTIONS.indexOf(b.faction)
+        const ai = SPECTRUM_FACTIONS.indexOf(a.faction)
+        const bi = SPECTRUM_FACTIONS.indexOf(b.faction)
         return ai - bi || a.name_en.localeCompare(b.name_en)
       }
       return b.connectionCount - a.connectionCount || a.name_en.localeCompare(b.name_en)
@@ -69,7 +71,7 @@ export function PeopleIndex({ people }: { people: PersonItem[] }) {
     return result
   }, [people, search, factionFilter, irgcOnly, sort])
 
-  // Letter groups for list view
+  // Letter groups
   const grouped = useMemo(() => {
     if (sort !== "name") return null
     const groups: Record<string, PersonItem[]> = {}
@@ -85,7 +87,6 @@ export function PeopleIndex({ people }: { people: PersonItem[] }) {
   return (
     <TooltipProvider>
     <div className="mx-auto max-w-3xl">
-      {/* Header */}
       <div className="mb-6 flex flex-col gap-4">
         <div className="flex items-baseline gap-3">
           <h1 className="text-2xl font-bold">People</h1>
@@ -94,7 +95,6 @@ export function PeopleIndex({ people }: { people: PersonItem[] }) {
           </span>
         </div>
 
-        {/* Controls */}
         <div className="flex flex-wrap items-center gap-2">
           <Input
             placeholder="Filter by name or role…"
@@ -109,9 +109,9 @@ export function PeopleIndex({ people }: { people: PersonItem[] }) {
             </SelectTrigger>
             <SelectContent>
               <SelectItem value="all">All factions</SelectItem>
-              {ALL_FACTIONS.map((f) => (
+              {usedFactions.map((f) => (
                 <SelectItem key={f} value={f}>
-                  {f.replace(/-/g, " ")}
+                  {FACTION_CONFIG[f].label}
                 </SelectItem>
               ))}
             </SelectContent>
@@ -130,30 +130,12 @@ export function PeopleIndex({ people }: { people: PersonItem[] }) {
 
           <button
             onClick={() => setIrgcOnly(!irgcOnly)}
-            className={`inline-flex h-8 items-center rounded-lg border px-2.5 text-sm transition-colors ${irgcOnly ? "border-green-800 bg-green-800 text-white" : "border-input hover:bg-accent"}`}
+            className={`inline-flex h-8 items-center rounded-lg border px-2.5 text-sm transition-colors ${irgcOnly ? "border-green-600 bg-green-600 text-white" : "border-input hover:bg-accent"}`}
           >
             IRGC
           </button>
-
-          <div className="ml-auto flex items-center gap-0.5 rounded-lg border border-input p-0.5">
-            <button
-              onClick={() => setView("list")}
-              className={`rounded-md p-1.5 transition-colors ${view === "list" ? "bg-accent" : "hover:bg-accent/50"}`}
-              aria-label="List view"
-            >
-              <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><line x1="8" x2="21" y1="6" y2="6"/><line x1="8" x2="21" y1="12" y2="12"/><line x1="8" x2="21" y1="18" y2="18"/><line x1="3" x2="3.01" y1="6" y2="6"/><line x1="3" x2="3.01" y1="12" y2="12"/><line x1="3" x2="3.01" y1="18" y2="18"/></svg>
-            </button>
-            <button
-              onClick={() => setView("table")}
-              className={`rounded-md p-1.5 transition-colors ${view === "table" ? "bg-accent" : "hover:bg-accent/50"}`}
-              aria-label="Table view"
-            >
-              <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect width="18" height="18" x="3" y="3" rx="2" ry="2"/><line x1="3" x2="21" y1="9" y2="9"/><line x1="3" x2="21" y1="15" y2="15"/><line x1="9" x2="9" y1="3" y2="21"/></svg>
-            </button>
-          </div>
         </div>
 
-        {/* Letter jump bar */}
         {grouped && letters.length > 1 && (
           <div className="flex flex-wrap gap-1">
             {letters.map((l) => (
@@ -173,50 +155,7 @@ export function PeopleIndex({ people }: { people: PersonItem[] }) {
         <p className="text-center text-muted-foreground py-8">No people match your filters.</p>
       )}
 
-      {/* Table view */}
-      {view === "table" && filtered.length > 0 && (
-        <div className="overflow-x-auto rounded-lg border border-border">
-          <table className="w-full text-sm">
-            <thead>
-              <tr className="border-b bg-muted/50">
-                <th className="px-3 py-2 text-left font-medium">Name</th>
-                <th className="px-3 py-2 text-left font-medium">Role</th>
-                <th className="px-3 py-2 text-left font-medium">Faction</th>
-                <th className="px-3 py-2 text-right font-medium">Links</th>
-              </tr>
-            </thead>
-            <tbody>
-              {filtered.map((p) => (
-                <tr key={p.slug} className="border-b last:border-0 hover:bg-muted/30 transition-colors">
-                  <td className="px-3 py-2">
-                    <a href={`/people/${p.slug}`} className="hover:underline font-medium">
-                      {p.name_en}
-                    </a>
-                    {p.name_fa && (
-                      <span className="ml-2 text-xs text-muted-foreground" dir="rtl" lang="fa">
-                        {p.name_fa}
-                      </span>
-                    )}
-                    {p.irgc_member && (
-                      <Badge className="ml-2 bg-green-800 text-white hover:bg-green-900">IRGC</Badge>
-                    )}
-                  </td>
-                  <td className="px-3 py-2 text-muted-foreground">{p.role}</td>
-                  <td className="px-3 py-2">
-                    <FactionSpectrum faction={p.faction} />
-                  </td>
-                  <td className="px-3 py-2 text-right tabular-nums text-muted-foreground">
-                    {p.connectionCount}
-                  </td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
-        </div>
-      )}
-
-      {/* List view */}
-      {view === "list" && filtered.length > 0 && (
+      {filtered.length > 0 && (
         <div>
           {grouped
             ? letters.map((letter) => (
@@ -255,16 +194,17 @@ function PersonCard({ person: p }: { person: PersonItem }) {
         <div className="flex min-w-0 flex-1 flex-col">
           <div className="flex items-center gap-2">
             <span className="font-medium group-hover:underline">{p.name_en}</span>
-            {p.name_fa && (
-              <span className="text-xs text-muted-foreground" dir="rtl" lang="fa">
-                {p.name_fa}
-              </span>
-            )}
+            {p.faction && <FactionSpectrum faction={p.faction} />}
             {p.irgc_member && (
-              <Badge className="bg-green-800 text-white hover:bg-green-900">IRGC</Badge>
+              <Badge variant="outline" className="text-[10px] font-normal px-1.5 h-4 border-green-600/40 text-green-700 dark:border-green-500/40 dark:text-green-400">IRGC</Badge>
             )}
           </div>
-          <span className="text-sm text-muted-foreground">{p.role}</span>
+          {p.name_fa && (
+            <div className="text-xs text-muted-foreground" dir="rtl" lang="fa">
+              {p.name_fa}
+            </div>
+          )}
+          <span className="text-xs text-muted-foreground">{p.role}</span>
         </div>
         <div className="flex items-center gap-3 shrink-0">
           {p.connectionCount > 0 && (
@@ -278,7 +218,6 @@ function PersonCard({ person: p }: { person: PersonItem }) {
               <TooltipContent>{p.connectionCount} connections</TooltipContent>
             </Tooltip>
           )}
-          <FactionSpectrum faction={p.faction} />
         </div>
       </a>
     </li>

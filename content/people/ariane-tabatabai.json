@@ -1,0 +1,25 @@
+{
+  "entity_id": "ariane-tabatabai",
+  "slug": "ariane-tabatabai",
+  "name_en": "Ariane Tabatabai",
+  "name_fa": "آریان طباطبایی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Pentagon Chief of Staff for Asst. Secretary of Defense for Special Operations",
+  "faction": "pragmatist",
+  "bio": "Ariane Tabatabai is a German-Iranian political scientist who served as chief of staff to the Assistant Secretary of Defense for Special Operations and Low-Intensity Conflict at the Pentagon. She was recruited in 2014 by [Saeed Khatibzadeh](/people/saeed-khatibzadeh) as a founding member of the [Iran Experts Initiative](/events/iei-email-leak-2023), a covert [Iranian Foreign Ministry](/orgs/ministry-of-foreign-affairs) influence operation coordinated through [IPIS](/orgs/ipis). Leaked emails showed she consulted IPIS head [Mostafa Zahrani](/people/mostafa-zahrani) about conference attendance — including an Israeli conference invitation — and informed him of opportunities to testify before Congress. In February 2021, [Robert Malley](/people/robert-malley) hired her to join his Iran team at the State Department, and she subsequently moved to the Pentagon. After the [IEI leak](/events/iei-email-leak-2023) in September 2023, the Pentagon launched a security review of her clearance; she was ultimately retained and her top-secret SCI clearance maintained.",
+  "expertise": [
+    "nuclear policy",
+    "Middle East security",
+    "US defense policy"
+  ],
+  "tags": [
+    "diplomacy",
+    "jcpoa"
+  ],
+  "photo": null,
+  "editorial_notes": "Core IEI member. Pentagon review concluded she was 'thoroughly and properly vetted.'",
+  "irgc_member": false
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "iran-international-published-iei",
+  "from_entity": "iran-international",
+  "to_entity": "iei-email-leak-2023",
+  "type": "published",
+  "confidence": "confirmed",
+  "date_from": "2023-09-25",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.semafor.com/article/09/25/2023/inside-irans-influence-operation",
+      "source_title": "Inside Iran's Influence Operation",
+      "source_date": "2023-09-25",
+      "description": "Iran International obtained thousands of leaked Iranian Foreign Ministry emails and co-published the investigation with Semafor."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

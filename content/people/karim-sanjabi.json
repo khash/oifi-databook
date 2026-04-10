@@ -1,0 +1,18 @@
+{
+  "entity_id": "karim-sanjabi",
+  "slug": "karim-sanjabi",
+  "name_en": "Karim Sanjabi",
+  "name_fa": "کریم سنجابی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1904,
+  "birthplace": "Kermanshah",
+  "role": "Leader of the National Front; Foreign Minister in provisional government (1979)",
+  "faction": "opposition",
+  "bio": "Leader of the [National Front of Iran](/orgs/national-front-iran). Served briefly as Foreign Minister in [Bazargan](/people/mehdi-bazargan)'s provisional government in 1979, before being succeeded by [Ebrahim Yazdi](/people/ebrahim-yazdi). Went into exile and died in 1995.",
+  "irgc_member": false,
+  "expertise": ["law", "diplomacy"],
+  "tags": ["deceased", "diplomacy", "in-exile"],
+  "photo": null,
+  "editorial_notes": "National Front leader. Died 1995 in exile."
+}

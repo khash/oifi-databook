@@ -1,0 +1,18 @@
+{
+  "entity_id": "press-tv",
+  "slug": "press-tv",
+  "name_en": "Press TV",
+  "name_fa": "پرس تی‌وی",
+  "has_native_fa_name": false,
+  "type": "media",
+  "founded": 2007,
+  "dissolved": null,
+  "parent_org": "irib",
+  "faction": "hardliner",
+  "description": "Press TV is [IRIB](/orgs/irib)'s English-language 24-hour news channel, launched in 2007 to project Iran's perspective to international audiences. Under its former head [Mohammad Sarafraz](/people/mohammad-sarafraz), the channel broadcast forced confessions of political prisoners including Newsweek journalist Maziar Bahari, who was detained for 118 days in 2009 and coerced into a televised confession filmed inside Evin Prison. In January 2012 the UK media regulator Ofcom revoked Press TV's broadcasting licence for airing Bahari's confession without his consent. The channel was subsequently dropped from European satellite providers under EU sanctions. Press TV's website domain was among Iranian media domains seized by the US Department of Justice in 2021. The channel continues to broadcast via the internet and non-Western satellites.",
+  "tags": [
+    "sanctions",
+    "human-rights"
+  ],
+  "editorial_notes": "Ofcom licence revoked 2012. Website domain seized by US DOJ 2021."
+}

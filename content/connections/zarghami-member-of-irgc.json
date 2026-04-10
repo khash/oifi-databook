@@ -1,0 +1,21 @@
+{
+  "entity_id": "zarghami-member-of-irgc",
+  "from_entity": "ezzatollah-zarghami",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ezzatollah_Zarghami",
+      "source_title": "Ezzatollah Zarghami",
+      "source_date": null,
+      "description": "Zarghami is a former IRGC member."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

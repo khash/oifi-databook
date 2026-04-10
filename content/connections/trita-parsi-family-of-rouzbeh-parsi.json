@@ -1,0 +1,28 @@
+{
+  "entity_id": "trita-parsi-family-of-rouzbeh-parsi",
+  "from_entity": "trita-parsi",
+  "to_entity": "rouzbeh-parsi",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.hhs.se/en/outreach/alumni/pathfinders/trita-parsi/",
+      "source_title": "Trita Parsi — Stockholm School of Economics",
+      "source_date": null,
+      "description": "SSE alumni profile describes Trita and his brother coming to Sweden together as children in 1978."
+    },
+    {
+      "source_url": "https://english.shabtabnews.com/2021/05/14/the-scheming-parsi-brothers-modern-governmental-influencers/",
+      "source_title": "The scheming Parsi brothers — modern governmental influencers",
+      "source_date": "2021-05",
+      "description": "Report on the Parsi brothers' respective roles in Iran-related policy influence in the U.S. and Sweden."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "sibling",
+  "tags": ["diplomacy"],
+  "editorial_notes": "Both brothers came to Sweden from Iran in 1978. Father was a university professor jailed twice under the Shah."
+}

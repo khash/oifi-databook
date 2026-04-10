@@ -1,0 +1,21 @@
+{
+  "entity_id": "shariati-named-in-hussainiyyeh-ershad",
+  "from_entity": "ali-shariati",
+  "to_entity": "hussainiyyeh-ershad",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1967",
+  "date_to": "1973",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Freedom_Movement_of_Iran",
+      "source_title": "Freedom Movement of Iran - Wikipedia",
+      "source_date": "2024",
+      "description": "Wikipedia article on Freedom Movement of Iran"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Delivered influential lectures at Hussainiyyeh Ershad in the early 1970s."
+}

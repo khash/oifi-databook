@@ -1,0 +1,21 @@
+{
+  "entity_id": "writers-association-named-chain-murders",
+  "from_entity": "iranian-writers-association",
+  "to_entity": "chain-murders-iran-1998",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1994",
+  "date_to": "1998",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Chain_murders_of_Iran",
+      "source_title": "Chain murders of Iran",
+      "source_date": "1998-12-01",
+      "description": "Multiple Iranian Writers' Association members were victims; 21 writers survived a bus assassination attempt in 1996."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,26 @@
+{
+  "entity_id": "jamal-abdi",
+  "slug": "jamal-abdi",
+  "name_en": "Jamal Abdi",
+  "name_fa": "جمال عبدی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "President, NIAC & Executive Director, NIAC Action",
+  "faction": "pragmatist",
+  "bio": "Jamal Abdi is the president of the [National Iranian American Council (NIAC)](/orgs/niac) and executive director of [NIAC Action](/orgs/niac-action), succeeding [Trita Parsi](/people/trita-parsi) as the organization's leader. He publicly applauded the appointment of [Robert Malley](/people/robert-malley) as Biden's Iran envoy in January 2021, calling it 'a major step in putting U.S. diplomacy back in the hands of genuine professionals.' Under his leadership, NIAC Action has continued lobbying for diplomatic engagement with Iran and against sanctions.",
+  "expertise": [
+    "US-Iran relations",
+    "political advocacy",
+    "sanctions"
+  ],
+  "tags": [
+    "diplomacy",
+    "jcpoa",
+    "sanctions"
+  ],
+  "photo": null,
+  "editorial_notes": "Succeeded Parsi as NIAC president.",
+  "irgc_member": false
+}

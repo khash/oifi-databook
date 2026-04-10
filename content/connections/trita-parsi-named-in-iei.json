@@ -1,0 +1,22 @@
+{
+  "entity_id": "trita-parsi-named-in-iei",
+  "from_entity": "trita-parsi",
+  "to_entity": "iei-email-leak-2023",
+  "type": "named-in",
+  "confidence": "alleged",
+  "date_from": "2023",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.hoover.org/research/all-name-iranian-regimes-de-facto-lobby-west",
+      "source_title": "In All But Name: The Iranian Regime's (De Facto) Lobby in the West",
+      "source_date": "2023-12",
+      "description": "Hoover Institution report by Abbas Milani places Parsi and NIAC as the 'diaspora pillar' of Tehran's influence network, alongside IEI members. Not directly named in the leaked emails themselves."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": ["diplomacy", "jcpoa"],
+  "editorial_notes": "Parsi is not in the IEI emails directly but is placed in the same network by credible academic analysis."
+}

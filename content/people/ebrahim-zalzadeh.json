@@ -1,0 +1,18 @@
+{
+  "entity_id": "ebrahim-zalzadeh",
+  "slug": "ebrahim-zalzadeh",
+  "name_en": "Ebrahim Zalzadeh",
+  "name_fa": "ابراهیم زال‌زاده",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": "Iran",
+  "role": "Editor; publisher; owner of Ebtekar publishing house; assassinated 1997",
+  "faction": null,
+  "bio": "Ebrahim Zalzadeh was the editor of the literary magazine *Me'yar* and owner of Ebtekar publishing house. On 24 February 1997, he was arrested by agents of the [Ministry of Intelligence](/orgs/ministry-of-intelligence). His body was found half-buried outside Tehran on 29 March 1997. His murder was part of the [chain murders](/events/chain-murders-iran-1998) campaign targeting Iranian intellectuals and publishers.",
+  "irgc_member": false,
+  "expertise": [],
+  "tags": ["assassinated", "chain-murders", "human-rights"],
+  "photo": null,
+  "editorial_notes": "Editor of Me'yar magazine, owner of Ebtekar publishing house. Arrested 24 February 1997 by MOIS, body found 29 March 1997."
+}

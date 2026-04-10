@@ -1,0 +1,22 @@
+{
+  "entity_id": "siamak-namazi-coordinated-with-trita-parsi",
+  "from_entity": "siamak-namazi",
+  "to_entity": "trita-parsi",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "1999",
+  "date_to": "2002",
+  "evidence": [
+    {
+      "source_url": "https://www.hoover.org/research/all-name-iranian-regimes-de-facto-lobby-west",
+      "source_title": "In All But Name: The Iranian Regime's (De Facto) Lobby in the West",
+      "source_date": "2023-12",
+      "description": "In 1999, Namazi and Parsi co-authored a paper at a Cyprus conference proposing the creation of an Iranian-American lobby — the conceptual blueprint for NIAC."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": ["diplomacy"],
+  "editorial_notes": "Parsi also worked as an analyst for Namazi's Atieh Bahar Consulting while leading NIAC."
+}

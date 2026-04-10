@@ -1,0 +1,21 @@
+{
+  "entity_id": "hosseinian-served-in-mois",
+  "from_entity": "ruhollah-hosseinian",
+  "to_entity": "ministry-of-intelligence",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Chain_murders_of_Iran",
+      "source_title": "Chain murders of Iran",
+      "source_date": "1999-01-01",
+      "description": "Hosseinian worked within the MOIS apparatus."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

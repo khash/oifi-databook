@@ -1,0 +1,21 @@
+{
+  "entity_id": "hajizadeh-hamid-subject-of-mois",
+  "from_entity": "hamid-hajizadeh",
+  "to_entity": "ministry-of-intelligence",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "1998-09-22",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.iranrights.org/memorial/story/-7014/hamid-hajizadeh-pur-hajizadeh",
+      "source_title": "Hamid Hajizadeh — Abdorrahman Boroumand Center",
+      "source_date": "1998-09-22",
+      "description": "Hajizadeh stabbed 38 times by MOIS agents; his son Karoon also killed."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

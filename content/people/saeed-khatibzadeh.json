@@ -1,0 +1,24 @@
+{
+  "entity_id": "saeed-khatibzadeh",
+  "slug": "saeed-khatibzadeh",
+  "name_en": "Saeed Khatibzadeh",
+  "name_fa": "سعید خطیب‌زاده",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "IPIS Director (2025–present); Former MFA Spokesman (2020–2021)",
+  "faction": "pragmatist",
+  "bio": "Saeed Khatibzadeh is an Iranian diplomat who served as spokesman for the [Ministry of Foreign Affairs](/orgs/ministry-of-foreign-affairs) from 2020 to 2021 and was appointed head of the [Institute for Political and International Studies (IPIS)](/orgs/ipis) in January 2025. While stationed in Berlin in 2014, Khatibzadeh conceived and organised the [Iran Experts Initiative](/events/iei-email-leak-2023), a covert Foreign Ministry influence operation that recruited Western-based Iranian academics to promote Tehran's nuclear negotiating positions. In a March 2014 email to IPIS head [Mostafa Zahrani](/people/mostafa-zahrani), he proposed building a network of 'second-generation Iranians' affiliated with Western think tanks and offered them 'political support.' He recruited [Ariane Tabatabai](/people/ariane-tabatabai) and [Dina Esfandiary](/people/dina-esfandiary) as the core group following a meeting in Prague. In April 2015, he reported the IEI's media metrics to [Mohammad Javad Zarif](/people/javad-zarif) and the negotiating team. The operation was exposed when leaked emails were published by Iran International and Semafor in September 2023.",
+  "expertise": [
+    "diplomacy",
+    "public relations",
+    "influence operations"
+  ],
+  "tags": [
+    "diplomacy"
+  ],
+  "photo": null,
+  "editorial_notes": "Mastermind of IEI. Appointed IPIS head Jan 2025 per Iran International.",
+  "irgc_member": false
+}

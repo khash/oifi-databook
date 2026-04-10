@@ -1,0 +1,21 @@
+{
+  "entity_id": "majid-sharif-subject-of-mois",
+  "from_entity": "majid-sharif",
+  "to_entity": "ministry-of-intelligence",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "1998-11-19",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Chain_murders_of_Iran",
+      "source_title": "Chain murders of Iran",
+      "source_date": "1998-11-25",
+      "description": "Sharif killed by potassium injection administered by MOIS agents."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

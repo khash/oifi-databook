@@ -1,0 +1,21 @@
+{
+  "entity_id": "takht-ravanchi-served-in-mfa",
+  "from_entity": "majid-takht-ravanchi",
+  "to_entity": "ministry-of-foreign-affairs",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Iran_Experts_Initiative",
+      "source_title": "Iran Experts Initiative",
+      "source_date": null,
+      "description": "Takht-Ravanchi served as deputy foreign minister and was a member of Iran's nuclear negotiating team."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,22 @@
+{
+  "entity_id": "niac-action-subsidiary-of-niac",
+  "from_entity": "niac-action",
+  "to_entity": "niac",
+  "type": "subsidiary-of",
+  "confidence": "confirmed",
+  "date_from": "2015",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "NIAC organizational structure",
+      "source_date": null,
+      "description": "NIAC Action is the 501(c)(4) sister organization of NIAC's 501(c)(3)."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": ["diplomacy"],
+  "editorial_notes": ""
+}

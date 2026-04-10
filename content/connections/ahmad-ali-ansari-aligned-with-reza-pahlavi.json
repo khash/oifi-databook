@@ -1,0 +1,27 @@
+{
+  "entity_id": "ahmad-ali-ansari-aligned-with-reza-pahlavi",
+  "from_entity": "ahmad-ali-ansari",
+  "to_entity": "reza-pahlavi",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "1980",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://features.kodoom.com/en/iran-politics/former-confidant-claims-reza-pahlavi-was-funded-by-saudi-arabia-and-cia/v/6472/",
+      "source_title": "Former confidant claims Reza Pahlavi was funded by Saudi Arabia and CIA — Kodoom",
+      "source_date": "2018-07-05",
+      "description": "Ahmad Ali Masoud Ansari served as a financial advisor and confidant to the Pahlavi family after the Shah's death, though the relationship later ended in dispute. He subsequently published allegations that Reza Pahlavi was funded by Saudi Arabia and the CIA."
+    },
+    {
+      "source_url": "https://en.saednews.com/c/2/5852",
+      "source_title": "Masoud Ansari on Farah and the Shah — SaedNews",
+      "source_date": "2024-10-24",
+      "description": "Ansari describes gaining access to the court and royal family through Farah's marriage to the Shah."
+    }
+  ],
+  "intermediaries": ["farah-pahlavi"],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": "Was Pahlavi court insider and financial advisor post-revolution. Relationship ended in legal/financial disputes. Ahmad later published memoirs with damaging allegations about the royal family. The aligned-with is historical — they are now estranged."
+}

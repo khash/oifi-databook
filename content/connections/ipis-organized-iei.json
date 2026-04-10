@@ -1,0 +1,21 @@
+{
+  "entity_id": "ipis-organized-iei",
+  "from_entity": "ipis",
+  "to_entity": "iei-email-leak-2023",
+  "type": "organized",
+  "confidence": "confirmed",
+  "date_from": "2014",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.semafor.com/article/09/25/2023/inside-irans-influence-operation",
+      "source_title": "Inside Iran's Influence Operation",
+      "source_date": "2023-09-25",
+      "description": "IPIS was the institutional home of the Iran Experts Initiative, described as 'one of the fundamental initiatives of the IPIS.'"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

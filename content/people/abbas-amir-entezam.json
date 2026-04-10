@@ -1,0 +1,18 @@
+{
+  "entity_id": "abbas-amir-entezam",
+  "slug": "abbas-amir-entezam",
+  "name_en": "Abbas Amir-Entezam",
+  "name_fa": "عباس امیرانتظام",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1933,
+  "birthplace": null,
+  "role": "Deputy Prime Minister (1979); Iran's longest-held political prisoner",
+  "faction": "opposition",
+  "bio": "Head of Political Office of the [Freedom Movement of Iran](/orgs/freedom-movement-of-iran) (1978–1979). Served as deputy prime minister and government spokesman in [Bazargan](/people/mehdi-bazargan)'s provisional government. Arrested in 1981 on espionage charges widely considered politically motivated. Spent over 20 years in prison, making him Iran's longest-held political prisoner. Released on medical leave in 2010. Died 11 August 2018.",
+  "irgc_member": false,
+  "expertise": ["diplomacy", "political activism"],
+  "tags": ["deceased", "political-prisoner", "human-rights"],
+  "photo": null,
+  "editorial_notes": "Iran's longest-held political prisoner. Over 20 years imprisoned. Died 2018."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "zarafshan-coordinated-with-mokhtari",
+  "from_entity": "nasser-zarafshan",
+  "to_entity": "mohammad-mokhtari",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "1999",
+  "date_to": "2002",
+  "evidence": [
+    {
+      "source_url": "https://pen.org/individual-case/nasser-zarafshan/",
+      "source_title": "Nasser Zarafshan — PEN International",
+      "source_date": "2002-03-19",
+      "description": "Zarafshan represented the family of Mohammad Mokhtari in the chain murders case."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Zarafshan represented Mokhtari's family."
+}

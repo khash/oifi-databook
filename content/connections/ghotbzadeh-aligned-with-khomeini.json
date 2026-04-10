@@ -1,0 +1,21 @@
+{
+  "entity_id": "ghotbzadeh-aligned-with-khomeini",
+  "from_entity": "sadegh-ghotbzadeh",
+  "to_entity": "ruhollah-khomeini",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "1970",
+  "date_to": "1982",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Sadegh_Ghotbzadeh",
+      "source_title": "Sadegh Ghotbzadeh",
+      "source_date": null,
+      "description": "Ghotbzadeh was a close associate of Khomeini during exile in Paris, later fell out and was executed in 1982."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

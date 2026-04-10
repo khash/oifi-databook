@@ -1,0 +1,21 @@
+{
+  "entity_id": "mokhtari-member-of-writers-association",
+  "from_entity": "mohammad-mokhtari",
+  "to_entity": "iranian-writers-association",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "1998-12-03",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Chain_murders_of_Iran",
+      "source_title": "Chain murders of Iran",
+      "source_date": "1998-12-09",
+      "description": "Mokhtari served on the organising committee of the Iranian Writers' Association."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

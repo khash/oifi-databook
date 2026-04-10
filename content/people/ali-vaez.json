@@ -1,0 +1,25 @@
+{
+  "entity_id": "ali-vaez",
+  "slug": "ali-vaez",
+  "name_en": "Ali Vaez",
+  "name_fa": "علی واعظ",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Iran Project Director, International Crisis Group",
+  "faction": "pragmatist",
+  "bio": "Ali Vaez is the Iran project director at the [International Crisis Group](/orgs/international-crisis-group) and a protégé of [Robert Malley](/people/robert-malley). He was identified as a member of the [Iran Experts Initiative](/events/iei-email-leak-2023). Leaked emails showed he shared a draft nuclear policy article with [IPIS](/orgs/ipis) head [Mostafa Zahrani](/people/mostafa-zahrani) before publication; the article was subsequently published in the National Interest in June 2014 under a modified title. He attended the inaugural IEI meeting at Vienna's Palais Coburg in May 2014 and advised Malley's Iran negotiating team.",
+  "expertise": [
+    "Iran policy",
+    "nuclear negotiations",
+    "conflict resolution"
+  ],
+  "tags": [
+    "diplomacy",
+    "jcpoa"
+  ],
+  "photo": null,
+  "editorial_notes": "ICG Iran director. Malley protégé. IEI member.",
+  "irgc_member": false
+}

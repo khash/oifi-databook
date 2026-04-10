@@ -1,0 +1,21 @@
+{
+  "entity_id": "raisi-appointed-zarghami-minister",
+  "from_entity": "ebrahim-raisi",
+  "to_entity": "ezzatollah-zarghami",
+  "type": "appointed",
+  "confidence": "confirmed",
+  "date_from": "2021",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ezzatollah_Zarghami",
+      "source_title": "Ezzatollah Zarghami",
+      "source_date": null,
+      "description": "Raisi appointed Zarghami as Minister of Cultural Heritage and Tourism in 2021."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "ahmad-khomeini-family-of-ruhollah-khomeini",
+  "from_entity": "ahmad-khomeini",
+  "to_entity": "ruhollah-khomeini",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ahmad_Khomeini",
+      "source_title": "Ahmad Khomeini — Wikipedia",
+      "source_date": "1995-03-17",
+      "description": "Ahmad Khomeini was the son of Ayatollah Ruhollah Khomeini."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "child",
+  "editorial_notes": ""
+}

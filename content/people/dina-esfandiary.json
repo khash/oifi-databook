@@ -1,0 +1,24 @@
+{
+  "entity_id": "dina-esfandiary",
+  "slug": "dina-esfandiary",
+  "name_en": "Dina Esfandiary",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Senior Advisor, International Crisis Group",
+  "faction": "pragmatist",
+  "bio": "Dina Esfandiary is a political analyst who served as a senior advisor at the [International Crisis Group](/orgs/international-crisis-group). In March 2014, she was recruited alongside [Ariane Tabatabai](/people/ariane-tabatabai) by [Saeed Khatibzadeh](/people/saeed-khatibzadeh) at a meeting in Prague to form the core group of the [Iran Experts Initiative](/events/iei-email-leak-2023), a covert [Iranian Foreign Ministry](/orgs/ministry-of-foreign-affairs) influence operation. Khatibzadeh reported to [IPIS](/orgs/ipis) head [Mostafa Zahrani](/people/mostafa-zahrani) that 'we three agreed to be the core group of the IEI.' She attended the inaugural IEI meeting at Vienna's Palais Coburg hotel in May 2014. She was hired by ICG during [Robert Malley](/people/robert-malley)'s presidency and advised his Iran negotiating efforts.",
+  "expertise": [
+    "Middle East security",
+    "nuclear policy"
+  ],
+  "tags": [
+    "diplomacy",
+    "jcpoa"
+  ],
+  "photo": null,
+  "editorial_notes": "Core IEI founding member alongside Tabatabai and Khatibzadeh.",
+  "irgc_member": false
+}

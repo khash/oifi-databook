@@ -1,0 +1,21 @@
+{
+  "entity_id": "ruhollah-zam-named-in-execution-2020",
+  "from_entity": "ruhollah-zam",
+  "to_entity": "execution-of-ruhollah-zam-2020",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2020-12-12",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ruhollah_Zam",
+      "source_title": "Ruhollah Zam",
+      "source_date": null,
+      "description": "Ruhollah Zam was executed on 12 December 2020."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

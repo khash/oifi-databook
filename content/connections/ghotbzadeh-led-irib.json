@@ -1,0 +1,21 @@
+{
+  "entity_id": "ghotbzadeh-led-irib",
+  "from_entity": "sadegh-ghotbzadeh",
+  "to_entity": "irib",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1980",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Sadegh_Ghotbzadeh",
+      "source_title": "Sadegh Ghotbzadeh",
+      "source_date": null,
+      "description": "Ghotbzadeh was the first head of revolutionary broadcasting (IRIB) in 1979 before becoming foreign minister."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

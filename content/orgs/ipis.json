@@ -1,0 +1,17 @@
+{
+  "entity_id": "ipis",
+  "slug": "ipis",
+  "name_en": "Institute for Political and International Studies",
+  "name_fa": "مؤسسه مطالعات سیاسی و بین‌المللی",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 1983,
+  "dissolved": null,
+  "parent_org": "ministry-of-foreign-affairs",
+  "description": "The Institute for Political and International Studies (IPIS) is the in-house think tank of Iran's [Ministry of Foreign Affairs](/orgs/ministry-of-foreign-affairs). Founded in 1983, it conducts research on foreign policy, regional affairs, and international relations, and trains diplomats. Under [Mostafa Zahrani](/people/mostafa-zahrani)'s directorship, IPIS oversaw the [Iran Experts Initiative](/events/iei-email-leak-2023), a covert influence operation that recruited Western-based Iranian academics to promote Tehran's nuclear negotiating positions in Western media and policy circles. [Saeed Khatibzadeh](/people/saeed-khatibzadeh), the initiative's mastermind, was appointed head of IPIS in January 2025.",
+  "faction": null,
+  "tags": [
+    "diplomacy"
+  ],
+  "editorial_notes": "IPIS is sometimes referred to as the Foreign Ministry's think tank. Khatibzadeh appointed director in Jan 2025."
+}

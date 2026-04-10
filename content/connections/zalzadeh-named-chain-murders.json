@@ -1,0 +1,21 @@
+{
+  "entity_id": "zalzadeh-named-chain-murders",
+  "from_entity": "ebrahim-zalzadeh",
+  "to_entity": "chain-murders-iran-1998",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1997-02-24",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.pbs.org/wgbh/pages/frontline/tehranbureau/2011/01/the-chain-murders-killing-dissidents-and-intellectuals-1988-1998.html",
+      "source_title": "The Chain Murders: Killing Dissidents and Intellectuals",
+      "source_date": "2011-01-05",
+      "description": "Zalzadeh arrested by MOIS 24 February 1997; body found half-buried outside Tehran 29 March 1997."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,19 @@
+{
+  "entity_id": "niac-action",
+  "slug": "niac-action",
+  "name_en": "NIAC Action",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 2015,
+  "dissolved": null,
+  "parent_org": "niac",
+  "description": "NIAC Action is the 501(c)(4) lobbying arm of the [National Iranian American Council (NIAC)](/orgs/niac), created in June 2015 to engage in direct political lobbying during the push for the [JCPOA nuclear deal](/events/jcpoa-nuclear-deal-2015). Led by [Jamal Abdi](/people/jamal-abdi), it conducts grassroots advocacy, maintains local chapters, and engages political candidates on Iran-related policy. Its creation formalized lobbying activities that NIAC had already been conducting through its 501(c)(3) — activities that were the subject of the Hassan Dai lawsuit controversy.",
+  "faction": null,
+  "tags": [
+    "diplomacy",
+    "jcpoa",
+    "sanctions"
+  ],
+  "editorial_notes": "Sister organization to NIAC. Created to explicitly lobby for JCPOA."
+}

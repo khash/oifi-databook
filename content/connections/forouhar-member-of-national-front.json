@@ -1,0 +1,21 @@
+{
+  "entity_id": "forouhar-member-of-national-front",
+  "from_entity": "dariush-forouhar",
+  "to_entity": "national-front-iran",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Freedom_Movement_of_Iran",
+      "source_title": "Freedom Movement of Iran - Wikipedia",
+      "source_date": "2024",
+      "description": "Wikipedia article on Freedom Movement of Iran"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Forouhar was in the National Front before founding the Nation of Iran Party."
+}

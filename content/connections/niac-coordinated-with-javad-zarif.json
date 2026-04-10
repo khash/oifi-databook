@@ -1,0 +1,28 @@
+{
+  "entity_id": "niac-coordinated-with-javad-zarif",
+  "from_entity": "niac",
+  "to_entity": "javad-zarif",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "2002",
+  "date_to": "2015",
+  "evidence": [
+    {
+      "source_url": "https://www.hoover.org/research/all-name-iranian-regimes-de-facto-lobby-west",
+      "source_title": "In All But Name: The Iranian Regime's (De Facto) Lobby in the West",
+      "source_date": "2023-12",
+      "description": "Zarif told the Iranian parliament in August 2013 that Parsi and NIAC had been his 'main partners' in exploiting American political divisions on Iran policy."
+    },
+    {
+      "source_url": "https://freebeacon.com/national-security/iranian-foreign-minister-zarif-niac-main-conduit/",
+      "source_title": "Iranian Foreign Minister: NIAC Our Main Conduit",
+      "source_date": "2013-08",
+      "description": "Zarif's parliamentary testimony explicitly named NIAC as the institutional vehicle through which he influenced U.S. policy debates."
+    }
+  ],
+  "intermediaries": ["trita-parsi"],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": ["diplomacy", "jcpoa"],
+  "editorial_notes": "Institutional-level connection distinct from the Parsi-Zarif personal connection. Zarif's parliamentary testimony makes this an org-level relationship."
+}

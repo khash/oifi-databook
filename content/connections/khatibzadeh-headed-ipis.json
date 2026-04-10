@@ -1,0 +1,21 @@
+{
+  "entity_id": "khatibzadeh-headed-ipis",
+  "from_entity": "saeed-khatibzadeh",
+  "to_entity": "ipis",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2025-01",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://english.shabtabnews.com/2025/01/26/mastermind-of-irans-us-influence-effort-appointed-head-of-ministry-think-tank/",
+      "source_title": "Mastermind of Iran's US influence effort appointed head of ministry think tank",
+      "source_date": "2025-01-26",
+      "description": "Khatibzadeh appointed head of IPIS in January 2025."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

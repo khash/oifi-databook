@@ -1,0 +1,21 @@
+{
+  "entity_id": "malley-headed-icg",
+  "from_entity": "robert-malley",
+  "to_entity": "international-crisis-group",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2018",
+  "date_to": "2021",
+  "evidence": [
+    {
+      "source_url": "https://www.semafor.com/article/09/25/2023/inside-irans-influence-operation",
+      "source_title": "Inside Iran's Influence Operation",
+      "source_date": "2023-09-25",
+      "description": "Malley served as president and CEO of ICG from 2018 to 2021."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

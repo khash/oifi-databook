@@ -1,0 +1,21 @@
+{
+  "entity_id": "ahmad-ali-ansari-family-of-ali-m-ansari",
+  "from_entity": "ahmad-ali-ansari",
+  "to_entity": "ali-m-ansari",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_M._Ansari",
+      "source_title": "Ali M. Ansari — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Wikipedia lists Ahmad Ali Ansari as Ali M. Ansari's brother."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "sibling",
+  "editorial_notes": "Brothers. Both sons of Mohammad Ali Massoud Ansari and Mariam Dariabegi."
+}

@@ -1,0 +1,25 @@
+{
+  "entity_id": "siamak-namazi",
+  "slug": "siamak-namazi",
+  "name_en": "Siamak Namazi",
+  "name_fa": "سیامک نمازی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Former managing director, Atieh Bahar Consulting; former political prisoner",
+  "faction": "pragmatist",
+  "bio": "Siamak Namazi is an Iranian-American businessman who managed Atieh Bahar Consulting, a Tehran-based firm founded by his mother Pari Namazi and Bijan Khajehpour that provided business advisory services and access to Iranian regime contacts for foreign enterprises. In 1999, Namazi and [Trita Parsi](/people/trita-parsi) co-authored a paper at a Cyprus conference proposing the creation of an Iranian-American lobby to influence U.S.-Iran policy — the conceptual blueprint for what became [NIAC](/orgs/niac). While Parsi led NIAC, he simultaneously worked as an analyst for Atieh Bahar writing newsletters, a dual role not publicly disclosed.\n\nIn October 2015, Namazi was arrested by the IRGC while visiting Iran and sentenced to 10 years in Evin Prison on espionage charges. His father, Baquer Namazi, was also arrested in February 2016. Both were held as de facto hostages and released in September 2023 as part of a U.S.-Iran prisoner exchange deal. Their imprisonment was widely seen as a hostage-taking by IRGC hardliners targeting individuals with Western connections, including those in the pragmatist/reformist network.",
+  "expertise": [
+    "business consulting",
+    "US-Iran relations"
+  ],
+  "tags": [
+    "political-prisoner",
+    "diplomacy",
+    "sanctions"
+  ],
+  "photo": null,
+  "editorial_notes": "Co-conceived the NIAC concept with Parsi. Arrested by IRGC in 2015, released in 2023 prisoner swap.",
+  "irgc_member": false
+}

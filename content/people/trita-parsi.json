@@ -1,0 +1,27 @@
+{
+  "entity_id": "trita-parsi",
+  "slug": "trita-parsi",
+  "name_en": "Trita Parsi",
+  "name_fa": "تریتا پارسی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1974,
+  "birthplace": "Iran",
+  "role": "Co-founder & Executive Vice President, Quincy Institute; founder, NIAC",
+  "faction": "pragmatist",
+  "bio": "Trita Parsi is an Iranian-Swedish political scientist who founded the [National Iranian American Council (NIAC)](/orgs/niac) in 2002 and served as its president until approximately 2018. Born in Iran and raised in Sweden, he holds a Ph.D. from Johns Hopkins SAIS. In 1997, he founded Iranians for International Cooperation (IIC) in Sweden, which lobbied U.S. Congress members for sanctions removal. In 1999, he and [Siamak Namazi](/people/siamak-namazi) co-authored a paper at a Cyprus conference proposing the creation of an Iranian-American lobby to influence U.S.-Iran policy — the conceptual foundation for NIAC.\n\nDuring the 2008 Hassan Dai defamation lawsuit, discovery revealed extensive email exchanges between Parsi and [Javad Zarif](/people/javad-zarif) (then Iran's UN Ambassador) from 2002 to 2007, including arranging meetings between Zarif and members of Congress. In April 2006, Zarif provided Parsi with a copy of the alleged 2003 Iranian 'grand bargain' offer, which Parsi publicized. In August 2013, Zarif told the Iranian parliament that Parsi and NIAC had been his 'main partners' in exploiting American political divisions on Iran policy. While leading NIAC, Parsi simultaneously worked as an analyst for Atieh Bahar Consulting — a Tehran-based firm run by the Namazi family — writing newsletters, a dual role he did not publicly disclose.\n\nIn 2019, Parsi co-founded the [Quincy Institute for Responsible Statecraft](/orgs/quincy-institute), where he serves as Executive Vice President. The Hoover Institution's December 2023 report by Abbas Milani placed Parsi and NIAC at the center of a 'diaspora pillar' of Tehran's influence network in the West.",
+  "expertise": [
+    "US-Iran relations",
+    "diplomacy",
+    "nuclear policy",
+    "sanctions"
+  ],
+  "tags": [
+    "diplomacy",
+    "jcpoa",
+    "sanctions"
+  ],
+  "photo": null,
+  "editorial_notes": "Iranian-Swedish dual national, U.S. permanent resident. Central figure in NIAC/regime lobby allegations.",
+  "irgc_member": false
+}

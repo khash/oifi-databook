@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-m-ansari-founded-institute-for-iranian-studies",
+  "from_entity": "ali-m-ansari",
+  "to_entity": "institute-for-iranian-studies-st-andrews",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "2006",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_M._Ansari",
+      "source_title": "Ali M. Ansari — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Ansari is described as the founding director of the Institute for Iranian Studies at the University of St Andrews."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

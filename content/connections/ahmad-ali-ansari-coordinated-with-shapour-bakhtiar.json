@@ -1,0 +1,21 @@
+{
+  "entity_id": "ahmad-ali-ansari-coordinated-with-shapour-bakhtiar",
+  "from_entity": "ahmad-ali-ansari",
+  "to_entity": "shapour-bakhtiar",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1980",
+  "evidence": [
+    {
+      "source_url": "https://features.kodoom.com/en/iran-politics/pahlavi-confidant-alleges-fraud-and-feud-in-the-royal-family/v/5157/",
+      "source_title": "Pahlavi confidant alleges fraud and feud in the Royal family — Kodoom",
+      "source_date": "2018-07-05",
+      "description": "After the revolution, Ansari served as the Shah's emissary to Shahpour Bakhtiar, among other figures, until the Shah's death in July 1980."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Ahmad served as Shah's emissary to Bakhtiar during exile period 1979–1980."
+}

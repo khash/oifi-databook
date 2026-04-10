@@ -1,0 +1,21 @@
+{
+  "entity_id": "hajizadeh-hamid-named-chain-murders",
+  "from_entity": "hamid-hajizadeh",
+  "to_entity": "chain-murders-iran-1998",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1998-09-22",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.iranrights.org/memorial/story/-7014/hamid-hajizadeh-pur-hajizadeh",
+      "source_title": "Hamid Hajizadeh — Abdorrahman Boroumand Center",
+      "source_date": "1998-09-22",
+      "description": "Hajizadeh stabbed 38 times in his bed; his 9-year-old son Karoon was killed alongside him."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

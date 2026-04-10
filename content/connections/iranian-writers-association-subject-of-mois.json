@@ -1,0 +1,21 @@
+{
+  "entity_id": "iranian-writers-association-subject-of-mois",
+  "from_entity": "iranian-writers-association",
+  "to_entity": "ministry-of-intelligence",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "1994",
+  "date_to": "1998",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Chain_murders_of_Iran",
+      "source_title": "Chain murders of Iran",
+      "source_date": "1998-12-01",
+      "description": "MOIS targeted multiple Writers' Association members for assassination and attempted to kill 21 writers via bus crash in 1996."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

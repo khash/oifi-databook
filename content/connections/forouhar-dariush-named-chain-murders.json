@@ -1,0 +1,21 @@
+{
+  "entity_id": "forouhar-dariush-named-chain-murders",
+  "from_entity": "dariush-forouhar",
+  "to_entity": "chain-murders-iran-1998",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1998-11-22",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Chain_murders_of_Iran",
+      "source_title": "Chain murders of Iran",
+      "source_date": "1998-11-22",
+      "description": "Dariush Forouhar was stabbed 26 times in his home by MOIS agents on 22 November 1998."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

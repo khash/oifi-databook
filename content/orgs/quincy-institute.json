@@ -1,0 +1,18 @@
+{
+  "entity_id": "quincy-institute",
+  "slug": "quincy-institute",
+  "name_en": "Quincy Institute for Responsible Statecraft",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 2019,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Quincy Institute for Responsible Statecraft is a Washington D.C.-based think tank co-founded in 2019 by [Trita Parsi](/people/trita-parsi) and Andrew Bacevich, advocating diplomatic engagement and military restraint in U.S. foreign policy. Parsi serves as Executive Vice President. The institute received initial funding from both the Charles Koch Foundation and George Soros's Open Society Foundations. Former [NIAC](/orgs/niac) staff, including Adam Weinstein, have moved to the Quincy Institute. Critics view it as a continuation of Parsi's advocacy for U.S.-Iran engagement under a broader anti-interventionist umbrella.",
+  "faction": null,
+  "tags": [
+    "diplomacy",
+    "jcpoa"
+  ],
+  "editorial_notes": "Founded by Parsi after leaving NIAC presidency ~2018."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-m-ansari-family-of-farah-pahlavi",
+  "from_entity": "ali-m-ansari",
+  "to_entity": "farah-pahlavi",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_M._Ansari",
+      "source_title": "Ali M. Ansari — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Wikipedia lists Ali Ansari as a member of the Pahlavi dynasty and states his father Mohammad Ali Massoud Ansari is a cousin of Farah Pahlavi."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "in-law",
+  "editorial_notes": "Ali's father Mohammad Ali Massoud Ansari is Farah Pahlavi's cousin. This makes Ali a first cousin once removed of Farah."
+}

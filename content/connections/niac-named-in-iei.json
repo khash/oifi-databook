@@ -1,0 +1,28 @@
+{
+  "entity_id": "niac-named-in-iei",
+  "from_entity": "niac",
+  "to_entity": "iei-email-leak-2023",
+  "type": "named-in",
+  "confidence": "alleged",
+  "date_from": "2023",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.hoover.org/research/all-name-iranian-regimes-de-facto-lobby-west",
+      "source_title": "In All But Name: The Iranian Regime's (De Facto) Lobby in the West",
+      "source_date": "2023-12",
+      "description": "Hoover Institution report describes NIAC as part of the same Iranian influence ecosystem exposed by the IEI leak, operating as the 'diaspora pillar' of Tehran's network in the West."
+    },
+    {
+      "source_url": "https://www.iranintl.com/en/202310044407",
+      "source_title": "Iran Influence Network Parallels Soviet Era 'Active Measures'",
+      "source_date": "2023-10",
+      "description": "Iran International report places NIAC within the broader Iranian influence operation context revealed by the IEI leak."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": ["diplomacy", "jcpoa"],
+  "editorial_notes": "NIAC is not directly in the IEI leaked emails but is consistently described in the same influence network by multiple credible reports."
+}

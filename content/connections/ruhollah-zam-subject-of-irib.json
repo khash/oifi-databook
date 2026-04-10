@@ -1,0 +1,21 @@
+{
+  "entity_id": "ruhollah-zam-subject-of-irib",
+  "from_entity": "ruhollah-zam",
+  "to_entity": "irib",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2019",
+  "date_to": "2020",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ruhollah_Zam",
+      "source_title": "Ruhollah Zam",
+      "source_date": null,
+      "description": "IRIB broadcast Ruhollah Zam's forced confession after his capture by IRGC Intelligence."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

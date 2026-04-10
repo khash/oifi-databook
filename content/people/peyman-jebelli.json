@@ -1,0 +1,24 @@
+{
+  "entity_id": "peyman-jebelli",
+  "slug": "peyman-jebelli",
+  "name_en": "Peyman Jebelli",
+  "name_fa": "پیمان جبلی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1968,
+  "birthplace": "Iran",
+  "role": "Head of IRIB (2021–present)",
+  "faction": "hardliner",
+  "bio": "Peyman Jebelli has served as head of [IRIB](/orgs/irib) since 2021, appointed by Supreme Leader [Ali Khamenei](/people/ali-khamenei). He previously headed IRIB's World Service, overseeing international broadcasting operations. His tenure has coincided with the [Mahsa Amini protests](/events/mahsa-amini-protests-2022), during which IRIB broadcast forced confessions of detained protesters and framed demonstrators as rioters backed by foreign powers. The European Union imposed fresh sanctions on IRIB leadership in October 2022 in response to this coverage.",
+  "expertise": [
+    "international broadcasting",
+    "media management"
+  ],
+  "tags": [
+    "sanctions",
+    "human-rights"
+  ],
+  "photo": null,
+  "editorial_notes": "Current IRIB head. EU-sanctioned in 2022 over Mahsa Amini protest coverage.",
+  "irgc_member": false
+}

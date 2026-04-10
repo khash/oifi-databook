@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-m-ansari-affiliated-with-rusi",
+  "from_entity": "ali-m-ansari",
+  "to_entity": "royal-united-services-institute",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.rusi.org/people/ansari",
+      "source_title": "Ali Ansari — RUSI",
+      "source_date": "2026-04-10",
+      "description": "Listed as Senior Associate Fellow at RUSI."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Senior Associate Fellow."
+}

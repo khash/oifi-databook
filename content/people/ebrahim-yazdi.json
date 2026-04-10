@@ -1,0 +1,18 @@
+{
+  "entity_id": "ebrahim-yazdi",
+  "slug": "ebrahim-yazdi",
+  "name_en": "Ebrahim Yazdi",
+  "name_fa": "ابراهیم یزدی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1931,
+  "birthplace": "Qazvin",
+  "role": "Secretary-general of Freedom Movement of Iran (1995–2017); former Foreign Minister",
+  "faction": "opposition",
+  "bio": "Pharmacologist and political activist. Organized [Freedom Movement of Iran](/orgs/freedom-movement-of-iran) activities in the United States during exile. Served as foreign minister in [Bazargan](/people/mehdi-bazargan)'s provisional government (1979). Second secretary-general of the Freedom Movement (1995–2017). Repeatedly arrested and imprisoned by the Islamic Republic. Participated in the [1979 revolution](/events/iranian-revolution-1979). Died 27 August 2017.",
+  "irgc_member": false,
+  "expertise": ["pharmacology", "diplomacy", "Islamic democracy"],
+  "tags": ["deceased", "diplomacy", "human-rights"],
+  "photo": null,
+  "editorial_notes": "FMI secretary-general after Bazargan. Died 2017."
+}

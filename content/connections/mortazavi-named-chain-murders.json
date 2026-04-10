@@ -1,0 +1,21 @@
+{
+  "entity_id": "mortazavi-named-chain-murders",
+  "from_entity": "saeed-mortazavi",
+  "to_entity": "chain-murders-iran-1998",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2000",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Chain_murders_of_Iran",
+      "source_title": "Chain murders of Iran",
+      "source_date": "2000-01-01",
+      "description": "Mortazavi suppressed the chain murders investigation as Tehran Prosecutor, arresting journalists and shutting down newspapers that exposed the killings."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Role was suppressing investigation, not carrying out murders."
+}

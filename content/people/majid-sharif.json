@@ -1,0 +1,18 @@
+{
+  "entity_id": "majid-sharif",
+  "slug": "majid-sharif",
+  "name_en": "Majid Sharif",
+  "name_fa": "مجید شریف",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1950,
+  "birthplace": "Iran",
+  "role": "Writer; translator; assassinated 1998",
+  "faction": null,
+  "bio": "Majid Sharif was a writer, translator, and sociologist — a great-grandson of Ayatollah Habib Sharif Kashani. He held a Ph.D. in sociology. On 19 November 1998, Sharif disappeared during a morning jog. His body was found on 25 November; the official cause of death was listed as 'cardiac arrest,' but it was later established that he had been killed via potassium injection by agents of the [Ministry of Intelligence](/orgs/ministry-of-intelligence). His death, occurring just days before the murder of Dariush and Parvaneh Forouhar, was part of the [chain murders](/events/chain-murders-iran-1998) campaign.",
+  "irgc_member": false,
+  "expertise": [],
+  "tags": ["assassinated", "chain-murders", "human-rights"],
+  "photo": null,
+  "editorial_notes": "Born 1950. Writer and sociologist. PhD. Disappeared 19 November 1998, body found 25 November. Killed by potassium injection. Great-grandson of Ayatollah Habib Sharif Kashani."
+}

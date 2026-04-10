@@ -1,0 +1,21 @@
+{
+  "entity_id": "ahmad-khomeini-named-chain-murders",
+  "from_entity": "ahmad-khomeini",
+  "to_entity": "chain-murders-iran-1998",
+  "type": "named-in",
+  "confidence": "alleged",
+  "date_from": "1995-03-17",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.pbs.org/wgbh/pages/frontline/tehranbureau/2011/01/the-chain-murders-killing-dissidents-and-intellectuals-1988-1998.html",
+      "source_title": "The Chain Murders: Killing Dissidents and Intellectuals",
+      "source_date": "2011-01-05",
+      "description": "Ahmad Khomeini died 17 March 1995, officially of heart attack; widely believed poisoned with cyanide by Saeed Emami."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Poisoning unconfirmed but widely believed."
+}

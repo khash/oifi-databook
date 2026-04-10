@@ -1,0 +1,22 @@
+{
+  "entity_id": "niac-action-endorsed-jcpoa-nuclear-deal-2015",
+  "from_entity": "niac-action",
+  "to_entity": "jcpoa-nuclear-deal-2015",
+  "type": "endorsed",
+  "confidence": "confirmed",
+  "date_from": "2015",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.hoover.org/research/all-name-iranian-regimes-de-facto-lobby-west",
+      "source_title": "In All But Name: The Iranian Regime's (De Facto) Lobby in the West",
+      "source_date": "2023-12",
+      "description": "NIAC Action was created explicitly to lobby for the JCPOA nuclear deal, conducting grassroots advocacy campaigns and engaging members of Congress."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": ["jcpoa", "diplomacy"],
+  "editorial_notes": "NIAC Action's primary stated purpose was JCPOA advocacy."
+}

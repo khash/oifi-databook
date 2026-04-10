@@ -1,0 +1,21 @@
+{
+  "entity_id": "khamenei-appointed-ali-asgari",
+  "from_entity": "ali-khamenei",
+  "to_entity": "abdolali-ali-asgari",
+  "type": "appointed",
+  "confidence": "confirmed",
+  "date_from": "2016",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/IRIB",
+      "source_title": "Islamic Republic of Iran Broadcasting",
+      "source_date": null,
+      "description": "Khamenei appointed Ali-Asgari as head of IRIB in 2016."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,22 @@
+{
+  "entity_id": "siamak-namazi-affiliated-with-niac",
+  "from_entity": "siamak-namazi",
+  "to_entity": "niac",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "1999",
+  "date_to": "2015",
+  "evidence": [
+    {
+      "source_url": "https://www.hoover.org/research/all-name-iranian-regimes-de-facto-lobby-west",
+      "source_title": "In All But Name: The Iranian Regime's (De Facto) Lobby in the West",
+      "source_date": "2023-12",
+      "description": "Namazi co-authored the 1999 Cyprus paper with Parsi that became the blueprint for NIAC. His firm Atieh Bahar employed Parsi as an analyst while Parsi led NIAC, creating an undisclosed financial link between the Tehran consulting firm and the lobby group."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": ["diplomacy"],
+  "editorial_notes": "Namazi co-conceived NIAC but did not hold a formal role. Connection is through the 1999 concept paper and the Atieh Bahar-Parsi employment arrangement."
+}

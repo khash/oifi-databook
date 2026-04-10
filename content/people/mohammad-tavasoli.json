@@ -1,0 +1,18 @@
+{
+  "entity_id": "mohammad-tavasoli",
+  "slug": "mohammad-tavasoli",
+  "name_en": "Mohammad Tavasoli",
+  "name_fa": "محمد توسلی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Secretary-general of Freedom Movement of Iran (2017–present)",
+  "faction": "opposition",
+  "bio": "Third secretary-general of the [Freedom Movement of Iran](/orgs/freedom-movement-of-iran) since 2017, succeeding [Ebrahim Yazdi](/people/ebrahim-yazdi). Imprisoned once under the Pahlavi regime (1 year) and five times under the Islamic Republic (4.3 years total).",
+  "irgc_member": false,
+  "expertise": ["political activism"],
+  "tags": ["political-prisoner", "human-rights"],
+  "photo": null,
+  "editorial_notes": "Current FMI secretary-general. Birth year uncertain (~1945)."
+}

@@ -1,0 +1,22 @@
+{
+  "entity_id": "reza-marashi-served-in-niac",
+  "from_entity": "reza-marashi",
+  "to_entity": "niac",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2010",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "NIAC staff records",
+      "source_date": null,
+      "description": "Marashi joined NIAC in 2010 as its first Research Director, after four years at the State Department's Office of Iranian Affairs."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": ["diplomacy"],
+  "editorial_notes": ""
+}

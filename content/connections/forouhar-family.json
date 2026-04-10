@@ -1,0 +1,21 @@
+{
+  "entity_id": "forouhar-family",
+  "from_entity": "dariush-forouhar",
+  "to_entity": "parvaneh-forouhar",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "1998-11-22",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Dariush_Forouhar",
+      "source_title": "Dariush Forouhar — Wikipedia",
+      "source_date": "1998-11-22",
+      "description": "Dariush and Parvaneh Forouhar were husband and wife, both assassinated the same night."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "spouse",
+  "editorial_notes": ""
+}

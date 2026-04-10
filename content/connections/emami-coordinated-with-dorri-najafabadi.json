@@ -1,0 +1,21 @@
+{
+  "entity_id": "emami-coordinated-with-dorri-najafabadi",
+  "from_entity": "saeed-emami",
+  "to_entity": "qorbanali-dorri-najafabadi",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "1997",
+  "date_to": "1999",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Saeed_Emami",
+      "source_title": "Saeed Emami — Wikipedia",
+      "source_date": "1999-01-01",
+      "description": "Emami served as advisor to Intelligence Minister Dorri-Najafabadi at the time of the 1998 murders."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

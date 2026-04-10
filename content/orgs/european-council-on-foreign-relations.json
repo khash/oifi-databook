@@ -1,0 +1,17 @@
+{
+  "entity_id": "european-council-on-foreign-relations",
+  "slug": "european-council-on-foreign-relations",
+  "name_en": "European Council on Foreign Relations",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 2007,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The European Council on Foreign Relations (ECFR) is a pan-European think tank focused on foreign and security policy, headquartered in Berlin. [Ellie Geranmayeh](/people/ellie-geranmayeh), a member of the [Iran Experts Initiative](/events/iei-email-leak-2023), served as deputy head of its Middle East and North Africa programme and senior policy fellow.",
+  "faction": null,
+  "tags": [
+    "diplomacy"
+  ],
+  "editorial_notes": "Founded by Mark Leonard. Offices in Berlin, London, Madrid, Paris, Rome, Sofia, Warsaw."
+}

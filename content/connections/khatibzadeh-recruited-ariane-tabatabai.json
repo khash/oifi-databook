@@ -1,0 +1,21 @@
+{
+  "entity_id": "khatibzadeh-recruited-ariane-tabatabai",
+  "from_entity": "saeed-khatibzadeh",
+  "to_entity": "ariane-tabatabai",
+  "type": "recruited",
+  "confidence": "confirmed",
+  "date_from": "2014-03",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.semafor.com/article/09/25/2023/inside-irans-influence-operation",
+      "source_title": "Inside Iran's Influence Operation",
+      "source_date": "2023-09-25",
+      "description": "Khatibzadeh met Tabatabai and Esfandiary in Prague in March 2014 and recruited them as the core IEI group."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "sirjani-subject-of-mois",
+  "from_entity": "ali-akbar-saidi-sirjani",
+  "to_entity": "ministry-of-intelligence",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "1994-03-14",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.pbs.org/wgbh/pages/frontline/tehranbureau/2011/01/the-chain-murders-killing-dissidents-and-intellectuals-1988-1998.html",
+      "source_title": "The Chain Murders — PBS Frontline",
+      "source_date": "2011-01-05",
+      "description": "Sirjani arrested by MOIS agents and killed in custody via potassium suppository."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

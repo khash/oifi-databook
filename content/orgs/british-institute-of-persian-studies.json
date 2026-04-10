@@ -1,0 +1,17 @@
+{
+  "entity_id": "british-institute-of-persian-studies",
+  "slug": "british-institute-of-persian-studies",
+  "name_en": "British Institute of Persian Studies (BIPS)",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 1961,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The British Institute of Persian Studies (BIPS) promotes scholarship and research on all aspects of Iran and the wider Persianate world — including Afghanistan, Central Asia, and the Caucasus. Founded in 1961 during a British state visit to Iran, it opened a purpose-built institute in northern Tehran in 1976, which remarkably remained open after the 1979 Revolution. Funded by the British Academy, it publishes the journal *IRAN* (since 1963) and awards research and travel grants. [Ali M. Ansari](/people/ali-m-ansari) was elected President in 2023.",
+  "faction": null,
+  "tags": [
+    "diplomacy"
+  ],
+  "editorial_notes": "Founded 1961 in UK, established in Iran 1963. Tehran institute opened 1976. One of few overseas British institutes still operating in Iran. Publishes IRAN journal annually since 1963. Ali Ansari elected President 2023."
+}

@@ -1,0 +1,22 @@
+{
+  "entity_id": "trita-parsi-founded-niac",
+  "from_entity": "trita-parsi",
+  "to_entity": "niac",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "2002",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.hoover.org/research/all-name-iranian-regimes-de-facto-lobby-west",
+      "source_title": "In All But Name: The Iranian Regime's (De Facto) Lobby in the West",
+      "source_date": "2023-12",
+      "description": "Parsi founded NIAC in 2002 after co-authoring a 1999 concept paper with Siamak Namazi proposing an Iranian-American lobby."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": ["diplomacy"],
+  "editorial_notes": "Co-founders include Babak Talebi and Farzin Illich."
+}

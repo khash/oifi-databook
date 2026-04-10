@@ -1,0 +1,21 @@
+{
+  "entity_id": "farah-pahlavi-family-of-reza-pahlavi",
+  "from_entity": "farah-pahlavi",
+  "to_entity": "reza-pahlavi",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Farah_Pahlavi",
+      "source_title": "Farah Pahlavi — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Farah Pahlavi is the mother of Reza Pahlavi, born 31 October 1960."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "parent",
+  "editorial_notes": "Mother-son relationship."
+}

@@ -1,0 +1,24 @@
+{
+  "entity_id": "adnan-tabatabai",
+  "slug": "adnan-tabatabai",
+  "name_en": "Adnan Tabatabai",
+  "name_fa": "عدنان طباطبایی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "German-Iranian academic and analyst",
+  "faction": "pragmatist",
+  "bio": "Adnan Tabatabai is a German-Iranian political analyst and founder of the Center for Applied Research in Partnership with the Orient (CARPO) in Bonn. He was identified as a member of the [Iran Experts Initiative](/events/iei-email-leak-2023). Leaked emails revealed that in May 2014 he offered to ghostwrite op-eds for the Iranian [Foreign Ministry](/orgs/ministry-of-foreign-affairs), writing to [IPIS](/orgs/ipis) head [Mostafa Zahrani](/people/mostafa-zahrani) with the proposal. He attended the inaugural IEI meeting at Vienna's Palais Coburg in May 2014.",
+  "expertise": [
+    "Iran policy",
+    "German-Iranian relations"
+  ],
+  "tags": [
+    "diplomacy",
+    "jcpoa"
+  ],
+  "photo": null,
+  "editorial_notes": "IEI member. Founder of CARPO think tank in Bonn.",
+  "irgc_member": false
+}

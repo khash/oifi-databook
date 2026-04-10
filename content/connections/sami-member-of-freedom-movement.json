@@ -1,0 +1,21 @@
+{
+  "entity_id": "sami-member-of-freedom-movement",
+  "from_entity": "kazem-sami",
+  "to_entity": "freedom-movement-of-iran",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "1988-11-23",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Kazem_Sami",
+      "source_title": "Kazem Sami — Wikipedia",
+      "source_date": "1988-11-23",
+      "description": "Sami was a member of the Freedom Movement of Iran."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

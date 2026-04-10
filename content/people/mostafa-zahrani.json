@@ -1,0 +1,23 @@
+{
+  "entity_id": "mostafa-zahrani",
+  "slug": "mostafa-zahrani",
+  "name_en": "Mostafa Zahrani",
+  "name_fa": "مصطفی زهرانی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Director of IPIS (Institute for Political and International Studies)",
+  "faction": "pragmatist",
+  "bio": "Mostafa Zahrani served as head of the [Institute for Political and International Studies (IPIS)](/orgs/ipis), the [Ministry of Foreign Affairs](/orgs/ministry-of-foreign-affairs)' in-house think tank. He oversaw the [Iran Experts Initiative](/events/iei-email-leak-2023), serving as the main liaison between the network of Western-based academics and [Mohammad Javad Zarif](/people/javad-zarif)'s Foreign Ministry. Leaked emails showed that IEI members such as [Ali Vaez](/people/ali-vaez) shared article drafts with Zahrani before publication, and that [Ariane Tabatabai](/people/ariane-tabatabai) consulted him on conference attendance and engagements with Israeli and Saudi counterparts.",
+  "expertise": [
+    "diplomacy",
+    "foreign policy research"
+  ],
+  "tags": [
+    "diplomacy"
+  ],
+  "photo": null,
+  "editorial_notes": "IPIS head during IEI period. Replaced by Khatibzadeh in Jan 2025.",
+  "irgc_member": false
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "kaveh-afrasiabi-named-in-iei",
+  "from_entity": "kaveh-afrasiabi",
+  "to_entity": "iei-email-leak-2023",
+  "type": "named-in",
+  "confidence": "alleged",
+  "date_from": "2023",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.aei.org/op-eds/the-iranian-influence-campaign-went-further-than-many-realize/",
+      "source_title": "The Iranian Influence Campaign Went Further Than Many Realize",
+      "source_date": null,
+      "description": "Afrasiabi's FARA case is closely related to the broader pattern of Iranian influence operations exposed by the IEI leak."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Afrasiabi was not a formal IEI member but his case is part of the same pattern."
+}

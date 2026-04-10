@@ -1,0 +1,21 @@
+{
+  "entity_id": "forouhar-parvaneh-member-of-nation-of-iran-party",
+  "from_entity": "parvaneh-forouhar",
+  "to_entity": "nation-of-iran-party",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "1998-11-22",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Parvaneh_Forouhar",
+      "source_title": "Parvaneh Forouhar — Wikipedia",
+      "source_date": "1998-11-22",
+      "description": "Parvaneh Forouhar was co-leader of the Nation of Iran Party alongside her husband."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

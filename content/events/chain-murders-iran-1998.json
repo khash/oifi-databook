@@ -1,17 +1,35 @@
 {
   "entity_id": "chain-murders-iran-1998",
   "slug": "chain-murders-iran-1998",
-  "name": "Chain Murders of Iranian Intellectuals (1998)",
+  "name": "Chain Murders of Iranian Intellectuals (1988–1998)",
   "date": "1998-11-01",
   "type": "purge",
-  "description": "Between late 1998 and early 1999, a series of murders of Iranian intellectuals, writers, and political activists — dubbed the 'chain murders' (ghatlha-ye zanjire'i) — were carried out by agents of the [Ministry of Intelligence](/orgs/ministry-of-intelligence) under [Ali Fallahian](/people/ali-fallahian)'s successors. Key victims included political couple Dariush and Parvaneh Foruhar (stabbed in their home, November 1998), writer Mohammad Mokhtari (strangled, December 1998), and translator Mohammad Jafar Pouyandeh (strangled, December 1998). The killings were eventually traced to a rogue unit within the Ministry of Intelligence, led by MOIS deputy Saeed Emami, who later died in custody (officially 'suicide'). Intelligence Minister [Qorbanali Dorri-Najafabadi](/people/qorbanali-dorri-najafabadi) resigned. [Hossein Taeb](/people/hossein-taeb) is reported to have been involved in the chain murders through his MOIS counter-intelligence role under [Ali Fallahian](/people/ali-fallahian). The murders severely damaged [Mohammad Khatami](/people/mohammad-khatami)'s reformist credibility and exposed the existence of rogue killing units within the security services.",
+  "description": "The chain murders (قتل‌های زنجیره‌ای) were a decade-long campaign of state-sponsored assassinations carried out by a unit within the [Ministry of Intelligence](/orgs/ministry-of-intelligence), targeting Iranian intellectuals, writers, poets, political activists, and dissidents from 1988 to 1998. The campaign was led by MOIS deputy [Saeed Emami](/people/saeed-emami), who reported to Intelligence Minister [Ali Fallahian](/people/ali-fallahian). Victims numbered over 80 people. Methods included stabbing, strangulation, staged car accidents, lethal injections of potassium, and poisoning.\n\nThe murders came to public attention in late 1998 when five prominent figures were killed in quick succession: [Pirouz Davani](/people/pirouz-davani) (disappeared August 1998), [Hamid Hajizadeh](/people/hamid-hajizadeh) and his 9-year-old son (stabbed September 1998), [Majid Sharif](/people/majid-sharif) (potassium injection, November 1998), [Dariush Forouhar](/people/dariush-forouhar) and [Parvaneh Forouhar](/people/parvaneh-forouhar) (stabbed in their home, 22 November 1998), [Mohammad Mokhtari](/people/mohammad-mokhtari) (strangled, December 1998), and [Mohammad Jafar Pouyandeh](/people/mohammad-jafar-pouyandeh) (strangled, December 1998). Earlier victims included [Kazem Sami](/people/kazem-sami) (axed to death 1988, likely the first victim), [Ali Akbar Saidi Sirjani](/people/ali-akbar-saidi-sirjani) (killed in custody 1994), [Ahmad Tafazzoli](/people/ahmad-tafazzoli) (killed 1997), and [Ebrahim Zalzadeh](/people/ebrahim-zalzadeh) (arrested and killed 1997). [Ahmad Khomeini](/people/ahmad-khomeini), son of the revolution's founder, is widely believed to have been poisoned in 1995 as part of the same campaign. In August 1996, 21 members of the [Iranian Writers' Association](/orgs/iranian-writers-association) narrowly survived when a MOIS operative attempted to drive their bus off a cliff at Heyran Pass.\n\nThe MOIS issued an unprecedented admission on 6 January 1999 that its agents were responsible. Intelligence Minister [Qorbanali Dorri-Najafabadi](/people/qorbanali-dorri-najafabadi) resigned. [Saeed Emami](/people/saeed-emami) was arrested but died in custody in June 1999 — officially by suicide, widely believed murdered to protect those who gave the orders. Fifteen operatives were tried in 2000–2001; three were sentenced to death and others to prison terms, but the trial was widely regarded as a sham. Journalist [Akbar Ganji](/people/akbar-ganji) identified Fallahian as the 'Master Key' and was imprisoned for six years. [Saeed Hajjarian](/people/saeed-hajjarian), whose newspaper [Sobh-e Emroz](/orgs/sobh-e-emroz-newspaper) broke the story, was shot in the head in March 2000 and left paralysed for life. Lawyer [Nasser Zarafshan](/people/nasser-zarafshan) was imprisoned for representing victims' families. [Shirin Ebadi](/people/shirin-ebadi), who represented the Forouhar family, discovered she herself had been on the murder list.",
   "body": null,
   "sources": [
     {
       "url": "https://en.wikipedia.org/wiki/Chain_murders_of_Iran",
-      "title": "Chain murders of Iran",
+      "title": "Chain murders of Iran — Wikipedia",
       "date": "1998-11-01",
       "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.pbs.org/wgbh/pages/frontline/tehranbureau/2011/01/the-chain-murders-killing-dissidents-and-intellectuals-1988-1998.html",
+      "title": "The Chain Murders: Killing Dissidents and Intellectuals, 1988–1998",
+      "date": "2011-01-05",
+      "publisher": "PBS Frontline Tehran Bureau"
+    },
+    {
+      "url": "https://www.iranintl.com/en/202412063661",
+      "title": "Q&A: All you need to know about Iran's Chain Murders",
+      "date": "2024-12-06",
+      "publisher": "Iran International"
+    },
+    {
+      "url": "https://www.rferl.org/a/two-decades-later-still-no-justice-for-iran-chain-murders-of-intellectuals/30997536.html",
+      "title": "Two Decades Later, Still No Justice For Iran Chain Murders",
+      "date": "2020-12-09",
+      "publisher": "Radio Free Europe/Radio Liberty"
     }
   ],
   "tags": [
@@ -19,5 +37,5 @@
     "human-rights",
     "intelligence"
   ],
-  "editorial_notes": "Murders carried out November 1998 – January 1999. Saeed Emami (MOIS deputy) confessed and died in custody. Dorri-Najafabadi resigned as Intelligence Minister 1999. Official investigation never fully prosecuted."
+  "editorial_notes": "Campaign spanned 1988–1998. Over 80 victims. Led by Saeed Emami under Fallahian. Five 1998 victims brought it to light. MOIS admitted 6 Jan 1999. Emami died in custody June 1999. Trial 2000–2001 widely seen as sham. Ganji, Hajjarian, Zarafshan, Ebadi all faced retaliation."
 }

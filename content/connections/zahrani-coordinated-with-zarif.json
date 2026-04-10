@@ -1,0 +1,21 @@
+{
+  "entity_id": "zahrani-coordinated-with-zarif",
+  "from_entity": "mostafa-zahrani",
+  "to_entity": "javad-zarif",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "2014",
+  "date_to": "2015",
+  "evidence": [
+    {
+      "source_url": "https://www.semafor.com/article/09/25/2023/inside-irans-influence-operation",
+      "source_title": "Inside Iran's Influence Operation",
+      "source_date": "2023-09-25",
+      "description": "Zahrani served as the main liaison between IEI members and Zarif's Foreign Ministry."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

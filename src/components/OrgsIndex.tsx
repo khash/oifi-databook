@@ -1,7 +1,6 @@
 import { useState, useMemo } from "react"
 import { Input } from "@/components/ui/input"
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "@/components/ui/tooltip"
-import { FactionSpectrum } from "@/components/FactionSpectrum"
 import {
   Select,
   SelectContent,
@@ -9,6 +8,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select"
+import { OrgTypeBadge, ORG_TYPE_CONFIG } from "@/components/OrgTypeBadge"
 import { ORG_TYPES } from "@/lib/constants"
 import type { Faction, OrgType } from "@/lib/types"
 
@@ -22,14 +22,10 @@ interface OrgItem {
 }
 
 type SortKey = "name" | "type" | "connections"
-type ViewMode = "list" | "table"
-
 export function OrgsIndex({ orgs }: { orgs: OrgItem[] }) {
   const [search, setSearch] = useState("")
   const [typeFilter, setTypeFilter] = useState<string>("all")
   const [sort, setSort] = useState<SortKey>("name")
-  const [view, setView] = useState<ViewMode>("list")
-
   const filtered = useMemo(() => {
     let result = orgs
 
@@ -38,7 +34,7 @@ export function OrgsIndex({ orgs }: { orgs: OrgItem[] }) {
       result = result.filter(
         (o) =>
           o.name_en.toLowerCase().includes(q) ||
-          o.name_fa.includes(search),
+          o.name_fa?.includes(search),
       )
     }
 
@@ -97,7 +93,7 @@ export function OrgsIndex({ orgs }: { orgs: OrgItem[] }) {
               <SelectItem value="all">All types</SelectItem>
               {ORG_TYPES.map((t) => (
                 <SelectItem key={t} value={t}>
-                  {t.replace(/-/g, " ")}
+{ORG_TYPE_CONFIG[t].label}
                 </SelectItem>
               ))}
             </SelectContent>
@@ -114,22 +110,6 @@ export function OrgsIndex({ orgs }: { orgs: OrgItem[] }) {
             </SelectContent>
           </Select>
 
-          <div className="ml-auto flex items-center gap-0.5 rounded-lg border border-input p-0.5">
-            <button
-              onClick={() => setView("list")}
-              className={`rounded-md p-1.5 transition-colors ${view === "list" ? "bg-accent" : "hover:bg-accent/50"}`}
-              aria-label="List view"
-            >
-              <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><line x1="8" x2="21" y1="6" y2="6"/><line x1="8" x2="21" y1="12" y2="12"/><line x1="8" x2="21" y1="18" y2="18"/><line x1="3" x2="3.01" y1="6" y2="6"/><line x1="3" x2="3.01" y1="12" y2="12"/><line x1="3" x2="3.01" y1="18" y2="18"/></svg>
-            </button>
-            <button
-              onClick={() => setView("table")}
-              className={`rounded-md p-1.5 transition-colors ${view === "table" ? "bg-accent" : "hover:bg-accent/50"}`}
-              aria-label="Table view"
-            >
-              <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect width="18" height="18" x="3" y="3" rx="2" ry="2"/><line x1="3" x2="21" y1="9" y2="9"/><line x1="3" x2="21" y1="15" y2="15"/><line x1="9" x2="9" y1="3" y2="21"/></svg>
-            </button>
-          </div>
         </div>
 
         {grouped && letters.length > 1 && (
@@ -151,45 +131,7 @@ export function OrgsIndex({ orgs }: { orgs: OrgItem[] }) {
         <p className="text-center text-muted-foreground py-8">No organisations match your filters.</p>
       )}
 
-      {view === "table" && filtered.length > 0 && (
-        <div className="overflow-x-auto rounded-lg border border-border">
-          <table className="w-full text-sm">
-            <thead>
-              <tr className="border-b bg-muted/50">
-                <th className="px-3 py-2 text-left font-medium">Name</th>
-                <th className="px-3 py-2 text-left font-medium">Type</th>
-                <th className="px-3 py-2 text-left font-medium">Faction</th>
-                <th className="px-3 py-2 text-right font-medium">Links</th>
-              </tr>
-            </thead>
-            <tbody>
-              {filtered.map((o) => (
-                <tr key={o.slug} className="border-b last:border-0 hover:bg-muted/30 transition-colors">
-                  <td className="px-3 py-2">
-                    <a href={`/orgs/${o.slug}`} className="hover:underline font-medium">
-                      {o.name_en}
-                    </a>
-                    {o.name_fa && (
-                      <span className="ml-2 text-xs text-muted-foreground" dir="rtl" lang="fa">
-                        {o.name_fa}
-                      </span>
-                    )}
-                  </td>
-                  <td className="px-3 py-2 text-muted-foreground capitalize">{o.type.replace(/-/g, " ")}</td>
-                  <td className="px-3 py-2">
-                    {o.faction && <FactionSpectrum faction={o.faction} />}
-                  </td>
-                  <td className="px-3 py-2 text-right tabular-nums text-muted-foreground">
-                    {o.connectionCount}
-                  </td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
-        </div>
-      )}
-
-      {view === "list" && filtered.length > 0 && (
+      {filtered.length > 0 && (
         <div>
           {grouped
             ? letters.map((letter) => (
@@ -228,13 +170,13 @@ function OrgCard({ org: o }: { org: OrgItem }) {
         <div className="flex min-w-0 flex-1 flex-col">
           <div className="flex items-center gap-2">
             <span className="font-medium group-hover:underline">{o.name_en}</span>
-            {o.name_fa && (
-              <span className="text-xs text-muted-foreground" dir="rtl" lang="fa">
-                {o.name_fa}
-              </span>
-            )}
+            <OrgTypeBadge type={o.type} />
           </div>
-          <span className="text-sm text-muted-foreground capitalize">{o.type.replace(/-/g, " ")}</span>
+          {o.name_fa && (
+            <div className="text-xs text-muted-foreground" dir="rtl" lang="fa">
+              {o.name_fa}
+            </div>
+          )}
         </div>
         <div className="flex items-center gap-3 shrink-0">
           {o.connectionCount > 0 && (
@@ -248,7 +190,6 @@ function OrgCard({ org: o }: { org: OrgItem }) {
               <TooltipContent>{o.connectionCount} connections</TooltipContent>
             </Tooltip>
           )}
-          {o.faction && <FactionSpectrum faction={o.faction} />}
         </div>
       </a>
     </li>

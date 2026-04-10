@@ -1,0 +1,21 @@
+{
+  "entity_id": "davani-named-chain-murders",
+  "from_entity": "pirouz-davani",
+  "to_entity": "chain-murders-iran-1998",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1998-08-29",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Chain_murders_of_Iran",
+      "source_title": "Chain murders of Iran",
+      "source_date": "1998-08-29",
+      "description": "Davani disappeared 29 August 1998; body never recovered, believed murdered around 20 September."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

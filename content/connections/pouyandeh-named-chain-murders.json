@@ -1,0 +1,21 @@
+{
+  "entity_id": "pouyandeh-named-chain-murders",
+  "from_entity": "mohammad-jafar-pouyandeh",
+  "to_entity": "chain-murders-iran-1998",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1998-12-08",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Chain_murders_of_Iran",
+      "source_title": "Chain murders of Iran",
+      "source_date": "1998-12-11",
+      "description": "Pouyandeh disappeared 8 December 1998; body found strangled 11 December in Shahriar."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

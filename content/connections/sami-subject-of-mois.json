@@ -1,0 +1,21 @@
+{
+  "entity_id": "sami-subject-of-mois",
+  "from_entity": "kazem-sami",
+  "to_entity": "ministry-of-intelligence",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "1988-11-23",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.pbs.org/wgbh/pages/frontline/tehranbureau/2011/01/the-chain-murders-killing-dissidents-and-intellectuals-1988-1998.html",
+      "source_title": "The Chain Murders — PBS Frontline",
+      "source_date": "2011-01-05",
+      "description": "Sami attacked with an axe in his clinic; murder attributed to MOIS unit."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

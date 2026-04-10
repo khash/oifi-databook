@@ -1,0 +1,22 @@
+{
+  "entity_id": "niac-endorsed-jcpoa-nuclear-deal-2015",
+  "from_entity": "niac",
+  "to_entity": "jcpoa-nuclear-deal-2015",
+  "type": "endorsed",
+  "confidence": "confirmed",
+  "date_from": "2015",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "NIAC Action founding announcement",
+      "source_date": "2015-06",
+      "description": "NIAC created its 501(c)(4) arm, NIAC Action, specifically to lobby for the JCPOA nuclear deal. Parsi was one of the deal's most prominent public advocates."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": ["jcpoa", "diplomacy", "sanctions"],
+  "editorial_notes": ""
+}

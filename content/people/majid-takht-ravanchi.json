@@ -1,0 +1,27 @@
+{
+  "entity_id": "majid-takht-ravanchi",
+  "slug": "majid-takht-ravanchi",
+  "name_en": "Majid Takht-Ravanchi",
+  "name_fa": "مجید تخت‌روانچی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Takht Ravanchi"
+  ],
+  "born": 1956,
+  "birthplace": null,
+  "role": "Deputy Foreign Minister; Iran's UN Ambassador (2019–2023)",
+  "faction": "pragmatist",
+  "bio": "Majid Takht-Ravanchi is a career Iranian diplomat who served as deputy foreign minister for European and American affairs and was a member of Iran's nuclear negotiating team during the [JCPOA](/events/jcpoa-nuclear-deal-2015) talks. He later served as Iran's ambassador to the United Nations from 2019 to 2023. Leaked emails revealed that [Saeed Khatibzadeh](/people/saeed-khatibzadeh) sent his original proposal for the [Iran Experts Initiative](/events/iei-email-leak-2023) to Takht-Ravanchi alongside IPIS head [Mostafa Zahrani](/people/mostafa-zahrani).",
+  "expertise": [
+    "diplomacy",
+    "nuclear negotiations",
+    "US-Iran relations"
+  ],
+  "tags": [
+    "diplomacy",
+    "jcpoa"
+  ],
+  "photo": null,
+  "editorial_notes": "Member of JCPOA negotiating team. UN ambassador 2019-2023.",
+  "irgc_member": false
+}

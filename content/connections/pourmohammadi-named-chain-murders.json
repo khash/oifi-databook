@@ -1,0 +1,21 @@
+{
+  "entity_id": "pourmohammadi-named-chain-murders",
+  "from_entity": "mostafa-pourmohammadi",
+  "to_entity": "chain-murders-iran-1998",
+  "type": "named-in",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.hrw.org/legacy/backgrounder/mena/iran1205/iran1205.pdf",
+      "source_title": "Ministers of Murder: Iran's New Security Cabinet — HRW",
+      "source_date": "2005-12-01",
+      "description": "Pourmohammadi accused by human rights advocates of involvement in masterminding the chain murders."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

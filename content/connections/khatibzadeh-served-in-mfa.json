@@ -1,0 +1,21 @@
+{
+  "entity_id": "khatibzadeh-served-in-mfa",
+  "from_entity": "saeed-khatibzadeh",
+  "to_entity": "ministry-of-foreign-affairs",
+  "type": "spokesperson-for",
+  "confidence": "confirmed",
+  "date_from": "2020",
+  "date_to": "2021",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Iran_Experts_Initiative",
+      "source_title": "Iran Experts Initiative",
+      "source_date": null,
+      "description": "Khatibzadeh served as MFA spokesman from 2020 to 2021."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

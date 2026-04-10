@@ -1,0 +1,18 @@
+{
+  "entity_id": "mostafa-chamran",
+  "slug": "mostafa-chamran",
+  "name_en": "Mostafa Chamran",
+  "name_fa": "مصطفی چمران",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1932,
+  "birthplace": "Tehran",
+  "role": "First Minister of Defence of Islamic Republic; Freedom Movement co-founder abroad",
+  "faction": "pragmatist",
+  "bio": "Engineer, guerrilla fighter, and political figure. Helped organize the [Freedom Movement of Iran](/orgs/freedom-movement-of-iran) from the United States. Trained with guerrilla movements in Egypt and Lebanon. Served as the first post-revolution Minister of Defence. Fought on the front lines in the [Iran–Iraq War](/events/iran-iraq-war) and was killed in action on 21 June 1981 in Dehlavieh, Khuzestan.",
+  "irgc_member": false,
+  "expertise": ["electrical engineering", "guerrilla warfare", "defence policy"],
+  "tags": ["killed-in-action", "military", "executive"],
+  "photo": null,
+  "editorial_notes": "KIA 21 June 1981. First post-revolution Defence Minister."
+}

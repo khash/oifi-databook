@@ -1,0 +1,22 @@
+{
+  "entity_id": "niac-action-named-in-iei",
+  "from_entity": "niac-action",
+  "to_entity": "iei-email-leak-2023",
+  "type": "named-in",
+  "confidence": "alleged",
+  "date_from": "2023",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.hoover.org/research/all-name-iranian-regimes-de-facto-lobby-west",
+      "source_title": "In All But Name: The Iranian Regime's (De Facto) Lobby in the West",
+      "source_date": "2023-12",
+      "description": "The Hoover report places the NIAC ecosystem, including NIAC Action, within the broader Iranian influence network exposed by the IEI leak."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": ["diplomacy", "jcpoa"],
+  "editorial_notes": "NIAC Action not directly in IEI emails but placed in the same influence network by credible analysis."
+}

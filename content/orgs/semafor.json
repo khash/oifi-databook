@@ -1,0 +1,15 @@
+{
+  "entity_id": "semafor",
+  "slug": "semafor",
+  "name_en": "Semafor",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "media",
+  "founded": 2022,
+  "dissolved": null,
+  "parent_org": null,
+  "faction": null,
+  "description": "Semafor is a global news platform launched in October 2022 by former BuzzFeed News editor-in-chief Ben Smith and former Bloomberg Media CEO Justin B. Smith. In September 2023, Semafor journalist Jay Solomon published a landmark investigation, jointly with [Iran International](/orgs/iran-international), that revealed the [Iran Experts Initiative](/events/iei-email-leak-2023) — a covert Iranian [Foreign Ministry](/orgs/ministry-of-foreign-affairs) influence operation in which Western-based academics were recruited to promote Tehran's nuclear negotiating positions in Western media and policy circles.",
+  "tags": [],
+  "editorial_notes": "Included because it co-published the IEI leak investigation. Not an Iran-focused outlet."
+}

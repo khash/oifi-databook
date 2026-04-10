@@ -1,0 +1,25 @@
+{
+  "entity_id": "ellie-geranmayeh",
+  "slug": "ellie-geranmayeh",
+  "name_en": "Ellie Geranmayeh",
+  "name_fa": "الی گرانمایه",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Senior Policy Fellow, European Council on Foreign Relations",
+  "faction": "pragmatist",
+  "bio": "Ellie Geranmayeh is a senior policy fellow and deputy head of the Middle East and North Africa programme at the [European Council on Foreign Relations (ECFR)](/orgs/european-council-on-foreign-relations). She was identified as a member of the [Iran Experts Initiative](/events/iei-email-leak-2023), attending the inaugural meeting at Vienna's Palais Coburg in May 2014 alongside other Western-based Iranian academics recruited by the Iranian [Foreign Ministry](/orgs/ministry-of-foreign-affairs) through [IPIS](/orgs/ipis) to promote Tehran's nuclear negotiating positions.",
+  "expertise": [
+    "Iran policy",
+    "European foreign policy",
+    "sanctions"
+  ],
+  "tags": [
+    "diplomacy",
+    "jcpoa"
+  ],
+  "photo": null,
+  "editorial_notes": "IEI member. ECFR deputy head of MENA programme.",
+  "irgc_member": false
+}

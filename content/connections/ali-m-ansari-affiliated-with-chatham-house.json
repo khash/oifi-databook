@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-m-ansari-affiliated-with-chatham-house",
+  "from_entity": "ali-m-ansari",
+  "to_entity": "chatham-house",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_M._Ansari",
+      "source_title": "Ali M. Ansari — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Listed as Associate Fellow at Chatham House."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Associate Fellow."
+}

@@ -1,0 +1,27 @@
+{
+  "entity_id": "ahmad-ali-ansari-family-of-farah-pahlavi",
+  "from_entity": "ahmad-ali-ansari",
+  "to_entity": "farah-pahlavi",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "http://onenewsbox.com/2024/10/24/ahmad-ali-masoud-ansari-is-farah-pahlavis-cousin/",
+      "source_title": "Ahmad Ali Masoud Ansari is Farah Pahlavi's cousin — One News Box",
+      "source_date": "2024-10-24",
+      "description": "Ahmad Ali Masoud Ansari is described as a second cousin of Farah Pahlavi, with close ties to the Pahlavi court."
+    },
+    {
+      "source_url": "https://features.kodoom.com/en/iran-politics/pahlavi-confidant-alleges-fraud-and-feud-in-the-royal-family/v/5157/",
+      "source_title": "Pahlavi confidant alleges fraud and feud in the Royal family — Kodoom",
+      "source_date": "2018-07-05",
+      "description": "Described as being in the innermost circle of confidants to former Queen Farah and the Shah."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "in-law",
+  "editorial_notes": "First cousin. Ahmad's father Mohammad Ali Massoud Ansari is Farah's cousin. Ahmad's grandmother was Farah's aunt."
+}

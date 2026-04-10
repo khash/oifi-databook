@@ -1,6 +1,7 @@
 ---
 import EntityLayout from "@/layouts/entity.astro"
 import { Badge } from "@/components/ui/badge"
+import { OrgTypeBadge } from "@/components/OrgTypeBadge"
 import { Separator } from "@/components/ui/separator"
 import { getOrgs, getOrgById, getConnectionsForEntity, getEntityById, getEntityTypeById } from "@/lib/content"
 import { GraphExplorer } from "@/components/GraphExplorer"
@@ -54,17 +55,19 @@ const jsonLd = {
       {org.has_native_fa_name && <span class="text-lg text-muted-foreground" dir="rtl" lang="fa">{org.name_fa}</span>}
     </div>
 
-    <p class="mt-1 text-sm text-muted-foreground">
-      {org.type.replace(/-/g, " ")}
-      {org.founded && <span> &middot; Founded <FormattedDate date={String(org.founded)} /></span>}
-      {org.dissolved && <span> &middot; Dissolved <FormattedDate date={String(org.dissolved)} /></span>}
-      {parentOrg && (
-        <span>
-          {" "}&middot; Part of{" "}
-          <a href={`/orgs/${parentOrg.slug}`} class="underline hover:text-foreground">{parentOrg.name_en}</a>
-        </span>
-      )}
-    </p>
+    <div class="mt-2 flex flex-wrap items-center gap-2">
+      <OrgTypeBadge type={org.type} />
+      <span class="text-sm text-muted-foreground">
+        {org.founded && <span>Founded <FormattedDate date={String(org.founded)} /></span>}
+        {org.dissolved && <span> &middot; Dissolved <FormattedDate date={String(org.dissolved)} /></span>}
+        {parentOrg && (
+          <span>
+            {" "}&middot; Part of{" "}
+            <a href={`/orgs/${parentOrg.slug}`} class="underline hover:text-foreground">{parentOrg.name_en}</a>
+          </span>
+        )}
+      </span>
+    </div>
 
     {org.faction && (
       <div class="mt-2 flex flex-wrap items-center gap-2">
@@ -80,7 +83,7 @@ const jsonLd = {
 
     <Separator className="my-6" />
 
-    <div class="prose prose-sm max-w-none" set:html={renderMarkdown(org.description)} />
+    <div class="prose prose-sm dark:prose-invert max-w-none" set:html={renderMarkdown(org.description)} />
 
     <span data-pagefind-meta={`type:org`} class="hidden" />
     {org.faction && <span data-pagefind-meta={`faction:${org.faction}`} class="hidden" />}

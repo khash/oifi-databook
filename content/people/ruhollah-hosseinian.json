@@ -1,0 +1,18 @@
+{
+  "entity_id": "ruhollah-hosseinian",
+  "slug": "ruhollah-hosseinian",
+  "name_en": "Ruhollah Hosseinian",
+  "name_fa": "روح‌الله حسینیان",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1953,
+  "birthplace": "Iran",
+  "role": "Hardline cleric; former MP; MOIS-linked; publicly justified chain murders",
+  "faction": "hardliner",
+  "bio": "Ruhollah Hosseinian is a hardline cleric who worked within the [Ministry of Intelligence](/orgs/ministry-of-intelligence) apparatus and later served as a member of parliament. He became notorious for publicly justifying the [chain murders](/events/chain-murders-iran-1998) on television, declaring: 'We have been a murderer ourselves! Murder of dissidents is not carried out the way that it has been described!' He attended Saeed Emami's memorial service. Hosseinian's open defence of the killings, at a time when the regime was attempting to portray them as the work of 'rogue elements,' was seen as revealing the true sentiment of the hardline establishment toward the assassination campaign.",
+  "irgc_member": false,
+  "expertise": [],
+  "tags": ["chain-murders", "intelligence", "clerical"],
+  "photo": null,
+  "editorial_notes": "Born c. 1953. Hardline cleric, former MP. MOIS-linked. Publicly justified chain murders on TV. Attended Emami's memorial."
+}

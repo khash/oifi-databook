@@ -1,0 +1,21 @@
+{
+  "entity_id": "tafazzoli-named-chain-murders",
+  "from_entity": "ahmad-tafazzoli",
+  "to_entity": "chain-murders-iran-1998",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1997-01-15",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.pbs.org/wgbh/pages/frontline/tehranbureau/2011/01/the-chain-murders-killing-dissidents-and-intellectuals-1988-1998.html",
+      "source_title": "The Chain Murders: Killing Dissidents and Intellectuals",
+      "source_date": "2011-01-05",
+      "description": "Tafazzoli found dead 15 January 1997, skull crushed, body in trunk of his car."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

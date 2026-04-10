@@ -1,0 +1,25 @@
+{
+  "entity_id": "rouzbeh-parsi",
+  "slug": "rouzbeh-parsi",
+  "name_en": "Rouzbeh Parsi",
+  "name_fa": "روزبه پارسی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Head of MENA Programme, Swedish Institute of International Affairs",
+  "faction": "pragmatist",
+  "bio": "Rouzbeh Parsi is a Swedish-Iranian academic who headed the Middle East and North Africa programme at the Swedish Institute of International Affairs (UI). He was identified as a member of the [Iran Experts Initiative](/events/iei-email-leak-2023), attending the inaugural meeting at Vienna's Palais Coburg in May 2014 alongside other Western-based Iranian academics recruited by the Iranian [Foreign Ministry](/orgs/ministry-of-foreign-affairs) through [IPIS](/orgs/ipis) to promote Tehran's nuclear negotiating positions in Western policy circles.",
+  "expertise": [
+    "Iran policy",
+    "Swedish foreign policy",
+    "Middle East studies"
+  ],
+  "tags": [
+    "diplomacy",
+    "jcpoa"
+  ],
+  "photo": null,
+  "editorial_notes": "IEI member. Based in Sweden.",
+  "irgc_member": false
+}

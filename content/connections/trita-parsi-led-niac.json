@@ -1,0 +1,22 @@
+{
+  "entity_id": "trita-parsi-led-niac",
+  "from_entity": "trita-parsi",
+  "to_entity": "niac",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "2002",
+  "date_to": "2018",
+  "evidence": [
+    {
+      "source_url": "https://www.hoover.org/research/all-name-iranian-regimes-de-facto-lobby-west",
+      "source_title": "In All But Name: The Iranian Regime's (De Facto) Lobby in the West",
+      "source_date": "2023-12",
+      "description": "Parsi served as NIAC president from its founding in 2002 until approximately 2018."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": ["diplomacy"],
+  "editorial_notes": ""
+}

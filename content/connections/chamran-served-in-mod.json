@@ -1,0 +1,21 @@
+{
+  "entity_id": "chamran-served-in-mod",
+  "from_entity": "mostafa-chamran",
+  "to_entity": "ministry-of-defense",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1981",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Freedom_Movement_of_Iran",
+      "source_title": "Freedom Movement of Iran - Wikipedia",
+      "source_date": "2024",
+      "description": "Wikipedia article on Freedom Movement of Iran"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "First post-revolution Defence Minister. KIA June 1981."
+}

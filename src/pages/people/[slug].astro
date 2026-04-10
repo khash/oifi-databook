@@ -56,10 +56,11 @@ const jsonLd = {
     <p class="mt-1 text-sm text-muted-foreground" set:html={annotateDatesInHtml(person.role)} />
 
     <div class="mt-2 flex flex-wrap items-center gap-2">
-      {(SPECTRUM_FACTIONS as readonly string[]).includes(person.faction)
-        ? <FactionSpectrum faction={person.faction} />
-        : <Badge variant="secondary">{person.faction.replace(/-/g, " ")}</Badge>
-      }
+      {person.faction && (
+        (SPECTRUM_FACTIONS as readonly string[]).includes(person.faction)
+          ? <FactionSpectrum faction={person.faction} />
+          : <Badge variant="secondary">{person.faction.replace(/-/g, " ")}</Badge>
+      )}
       {person.irgc_member && (
         <Badge className="bg-green-800 text-white hover:bg-green-900">IRGC</Badge>
       )}
@@ -73,10 +74,10 @@ const jsonLd = {
 
     <Separator className="my-6" />
 
-    <div class="prose prose-sm max-w-none" set:html={renderMarkdown(person.bio)} />
+    <div class="prose prose-sm dark:prose-invert max-w-none" set:html={renderMarkdown(person.bio)} />
 
     <span data-pagefind-meta={`type:person`} class="hidden" />
-    <span data-pagefind-meta={`faction:${person.faction}`} class="hidden" />
+    {person.faction && <span data-pagefind-meta={`faction:${person.faction}`} class="hidden" />}
     <span data-pagefind-meta={`role:${person.role}`} class="hidden" />
   </article>
 

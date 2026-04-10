@@ -1,0 +1,22 @@
+{
+  "entity_id": "reza-marashi-served-in-quincy-institute",
+  "from_entity": "reza-marashi",
+  "to_entity": "quincy-institute",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2019",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://quincyinst.org/people/reza-marashi/",
+      "source_title": "Reza Marashi — Quincy Institute",
+      "source_date": "2019",
+      "description": "Marashi joined the Quincy Institute as a research fellow after leaving NIAC, following Parsi to his new organization."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": ["diplomacy"],
+  "editorial_notes": "Marashi followed Parsi from NIAC to Quincy Institute."
+}

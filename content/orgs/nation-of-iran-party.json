@@ -1,0 +1,15 @@
+{
+  "entity_id": "nation-of-iran-party",
+  "slug": "nation-of-iran-party",
+  "name_en": "Nation of Iran Party",
+  "name_fa": "حزب ملت ایران",
+  "has_native_fa_name": true,
+  "type": "political-party",
+  "founded": 1951,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Nation of Iran Party (Hezb-e Mellat-e Iran) is one of the oldest nationalist-democratic political parties in Iran, founded in 1951 during the oil nationalisation movement. Led for decades by [Dariush Forouhar](/people/dariush-forouhar), it advocated for secular democracy, free elections, and the rule of law. Forouhar and his wife [Parvaneh Forouhar](/people/parvaneh-forouhar) were assassinated in their home on 22 November 1998 as part of the [chain murders](/events/chain-murders-iran-1998). The party has been effectively banned since the early Islamic Republic but maintained an informal presence through the Forouhars' political salon.",
+  "faction": "opposition",
+  "tags": ["chain-murders", "human-rights"],
+  "editorial_notes": "Founded 1951. Pan-Iranist/nationalist-democratic. Led by Dariush Forouhar until his assassination 1998. Effectively banned under Islamic Republic."
+}

@@ -1,0 +1,18 @@
+{
+  "entity_id": "mehdi-bazargan",
+  "slug": "mehdi-bazargan",
+  "name_en": "Mehdi Bazargan",
+  "name_fa": "مهدی بازرگان",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1907,
+  "birthplace": "Tehran",
+  "role": "Founder of Freedom Movement of Iran; Prime Minister of interim government (1979)",
+  "faction": "opposition",
+  "bio": "Engineer, academic, and political leader. First secretary-general of the [Freedom Movement of Iran](/orgs/freedom-movement-of-iran) (1961–1995). Co-founded the movement alongside [Mahmoud Taleghani](/people/mahmoud-taleghani) and [Yadollah Sahabi](/people/yadollah-sahabi) as a religiously oriented offshoot of the [National Front](/orgs/national-front-iran). Appointed by [Ruhollah Khomeini](/people/ruhollah-khomeini) as head of the provisional government after the [1979 revolution](/events/iranian-revolution-1979). Resigned on 5 November 1979 after the [US embassy seizure](/events/iran-hostage-crisis-1979), declaring he could not govern while revolutionary bodies operated outside his authority. Served in parliament (Majlis) 1980–1984. Died 20 January 1995.",
+  "irgc_member": false,
+  "expertise": ["thermodynamics", "political philosophy", "Islamic modernism"],
+  "tags": ["deceased", "executive", "human-rights"],
+  "photo": null,
+  "editorial_notes": "First PM of the Islamic Republic. Resigned over hostage crisis. Died 1995."
+}

@@ -1,0 +1,22 @@
+{
+  "entity_id": "jamal-abdi-led-niac",
+  "from_entity": "jamal-abdi",
+  "to_entity": "niac",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "2018",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "NIAC organizational records",
+      "source_date": null,
+      "description": "Abdi succeeded Trita Parsi as NIAC president."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": ["diplomacy"],
+  "editorial_notes": ""
+}

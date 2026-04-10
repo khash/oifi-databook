@@ -1,0 +1,28 @@
+{
+  "entity_id": "iei-email-leak-2023",
+  "slug": "iei-email-leak-2023",
+  "name": "Iran Experts Initiative Email Leak",
+  "date": "2023-09-25",
+  "type": "leak",
+  "description": "In September 2023, [Iran International](/orgs/iran-international) and [Semafor](/orgs/semafor) published thousands of leaked Iranian [Foreign Ministry](/orgs/ministry-of-foreign-affairs) emails dating back to 2014, revealing the Iran Experts Initiative (IEI) — a covert influence operation run through the Ministry's think tank, the [Institute for Political and International Studies (IPIS)](/orgs/ipis). The emails showed that [Saeed Khatibzadeh](/people/saeed-khatibzadeh), a Berlin-based diplomat, conceived the initiative in March 2014 and recruited a core group of Western-based Iranian academics — including [Ariane Tabatabai](/people/ariane-tabatabai), [Dina Esfandiary](/people/dina-esfandiary), [Ali Vaez](/people/ali-vaez), [Adnan Tabatabai](/people/adnan-tabatabai), [Ellie Geranmayeh](/people/ellie-geranmayeh), and [Rouzbeh Parsi](/people/rouzbeh-parsi) — to promote Tehran's positions on the nuclear deal in Western media and policy circles. [Mostafa Zahrani](/people/mostafa-zahrani), then head of IPIS, oversaw the operation and served as the main liaison between the network and [Mohammad Javad Zarif](/people/javad-zarif)'s Foreign Ministry. The leak revealed that members shared article drafts with Iranian officials before publication, received guidance on conference attendance, and that one member offered to ghostwrite op-eds for Tehran. At least three IEI members — Tabatabai, Vaez, and Esfandiary — later worked for or advised [Robert Malley](/people/robert-malley), the Biden administration's special envoy on Iran, who was himself placed on leave and investigated by the FBI in 2023. The revelations triggered a Pentagon security review of Tabatabai and congressional demands for investigation.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://www.semafor.com/article/09/25/2023/inside-irans-influence-operation",
+      "title": "Inside Iran's Influence Operation",
+      "date": "2023-09-25",
+      "publisher": "Semafor"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Iran_Experts_Initiative",
+      "title": "Iran Experts Initiative",
+      "date": null,
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": [
+    "diplomacy",
+    "jcpoa"
+  ],
+  "editorial_notes": "Emails obtained by Iran International, shared with Semafor. Published 25 September 2023."
+}

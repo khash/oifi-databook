@@ -1,0 +1,25 @@
+{
+  "entity_id": "kaveh-afrasiabi",
+  "slug": "kaveh-afrasiabi",
+  "name_en": "Kaveh Afrasiabi",
+  "name_fa": "کاوه افراسیابی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Lotfolah Kaveh Afrasiabi"
+  ],
+  "born": null,
+  "birthplace": null,
+  "role": "Iranian political scientist; convicted unregistered foreign agent",
+  "faction": "pragmatist",
+  "bio": "Kaveh Afrasiabi is an Iranian political scientist and US permanent resident who was arrested in Watertown, Massachusetts in January 2021 for acting as an unregistered agent of the Iranian government in violation of the Foreign Agents Registration Act (FARA). He was paid approximately $265,000 by Iran's Permanent Mission to the United Nations to promote Iranian government positions while presenting himself as an independent expert in American media, including the New York Times, Washington Post, and Huffington Post. His case is closely related to the broader pattern of Iranian influence operations exposed by the [Iran Experts Initiative](/events/iei-email-leak-2023) leak. He was released to Iran in a prisoner swap in September 2023.",
+  "expertise": [
+    "Iran policy",
+    "nuclear policy"
+  ],
+  "tags": [
+    "diplomacy"
+  ],
+  "photo": null,
+  "editorial_notes": "Arrested Jan 2021. Released in Sept 2023 prisoner swap. Charged under FARA.",
+  "irgc_member": false
+}

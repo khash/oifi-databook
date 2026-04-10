@@ -1,0 +1,18 @@
+{
+  "entity_id": "royal-united-services-institute",
+  "slug": "royal-united-services-institute",
+  "name_en": "Royal United Services Institute (RUSI)",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 1831,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Royal United Services Institute (RUSI) is the world's oldest independent think tank on international defence and security. Based in London, it conducts research on defence, security, and foreign policy, including analysis of Iran's military capabilities, IRGC operations, sanctions enforcement, and regional security dynamics. [Ali M. Ansari](/people/ali-m-ansari) serves as a Senior Associate Fellow.",
+  "faction": null,
+  "tags": [
+    "military",
+    "sanctions"
+  ],
+  "editorial_notes": "Founded 1831 by the Duke of Wellington. Located in Whitehall, London. Oldest defence and security think tank in the world."
+}

@@ -102,10 +102,10 @@ for (const col of [people, orgs, events]) {
 
 // Validate people
 for (const { file, data } of people) {
-  for (const f of ["entity_id", "slug", "name_en", "name_fa", "role", "faction", "bio"]) {
+  for (const f of ["entity_id", "slug", "name_en", "role", "bio"]) {
     requireField(file, data, f);
   }
-  requireEnum(file, data, "faction", FACTIONS);
+  if (data.faction) requireEnum(file, data, "faction", FACTIONS);
   for (const t of data.tags ?? []) {
     if (!ENTITY_TAGS.includes(t)) err(file, `Invalid tag: "${t}"`);
   }
@@ -113,7 +113,7 @@ for (const { file, data } of people) {
 
 // Validate orgs
 for (const { file, data } of orgs) {
-  for (const f of ["entity_id", "slug", "name_en", "name_fa", "type", "description"]) {
+  for (const f of ["entity_id", "slug", "name_en", "type", "description"]) {
     requireField(file, data, f);
   }
   requireEnum(file, data, "type", ORG_TYPES);

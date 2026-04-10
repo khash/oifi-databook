@@ -1,0 +1,21 @@
+{
+  "entity_id": "ipis-subsidiary-of-mfa",
+  "from_entity": "ipis",
+  "to_entity": "ministry-of-foreign-affairs",
+  "type": "subsidiary-of",
+  "confidence": "confirmed",
+  "date_from": "1983",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Iran_Experts_Initiative",
+      "source_title": "Iran Experts Initiative",
+      "source_date": null,
+      "description": "IPIS is the in-house think tank of Iran's Foreign Ministry."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

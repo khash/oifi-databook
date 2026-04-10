@@ -1,0 +1,21 @@
+{
+  "entity_id": "malley-coordinated-with-ariane-tabatabai",
+  "from_entity": "robert-malley",
+  "to_entity": "ariane-tabatabai",
+  "type": "recruited",
+  "confidence": "confirmed",
+  "date_from": "2021-02",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.semafor.com/article/09/25/2023/inside-irans-influence-operation",
+      "source_title": "Inside Iran's Influence Operation",
+      "source_date": "2023-09-25",
+      "description": "Malley recruited Tabatabai to join his Iran team at the State Department in February 2021."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

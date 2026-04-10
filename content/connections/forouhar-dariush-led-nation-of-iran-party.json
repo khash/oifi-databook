@@ -1,0 +1,21 @@
+{
+  "entity_id": "forouhar-dariush-led-nation-of-iran-party",
+  "from_entity": "dariush-forouhar",
+  "to_entity": "nation-of-iran-party",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "1951",
+  "date_to": "1998-11-22",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Dariush_Forouhar",
+      "source_title": "Dariush Forouhar — Wikipedia",
+      "source_date": "1998-11-22",
+      "description": "Forouhar led the Nation of Iran Party from its founding until his assassination."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

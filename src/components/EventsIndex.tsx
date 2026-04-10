@@ -2,7 +2,6 @@ import { useState, useMemo } from "react"
 import { Input } from "@/components/ui/input"
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "@/components/ui/tooltip"
 import { FormattedDate } from "@/components/FormattedDate"
-import { Badge } from "@/components/ui/badge"
 import {
   Select,
   SelectContent,
@@ -10,7 +9,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select"
-import { EVENT_TYPES } from "@/lib/constants"
+import { EventTypeBadge, EVENT_TYPE_CONFIG } from "@/components/EventTypeBadge"
 import type { EventType } from "@/lib/types"
 
 interface EventItem {
@@ -22,13 +21,16 @@ interface EventItem {
 }
 
 type SortKey = "date-desc" | "date-asc" | "name" | "connections"
-type ViewMode = "list" | "table"
 
 export function EventsIndex({ events }: { events: EventItem[] }) {
   const [search, setSearch] = useState("")
   const [typeFilter, setTypeFilter] = useState<string>("all")
   const [sort, setSort] = useState<SortKey>("date-desc")
-  const [view, setView] = useState<ViewMode>("list")
+
+  const usedTypes = useMemo(() => {
+    const types = new Set(events.map((e) => e.type))
+    return Object.keys(EVENT_TYPE_CONFIG).filter((t) => types.has(t as EventType)) as EventType[]
+  }, [events])
 
   const filtered = useMemo(() => {
     let result = events
@@ -94,9 +96,9 @@ export function EventsIndex({ events }: { events: EventItem[] }) {
             </SelectTrigger>
             <SelectContent>
               <SelectItem value="all">All types</SelectItem>
-              {EVENT_TYPES.map((t) => (
+              {usedTypes.map((t) => (
                 <SelectItem key={t} value={t}>
-                  {t.replace(/-/g, " ")}
+                  {EVENT_TYPE_CONFIG[t].label}
                 </SelectItem>
               ))}
             </SelectContent>
@@ -113,23 +115,6 @@ export function EventsIndex({ events }: { events: EventItem[] }) {
               <SelectItem value="connections">By connections</SelectItem>
             </SelectContent>
           </Select>
-
-          <div className="ml-auto flex items-center gap-0.5 rounded-lg border border-input p-0.5">
-            <button
-              onClick={() => setView("list")}
-              className={`rounded-md p-1.5 transition-colors ${view === "list" ? "bg-accent" : "hover:bg-accent/50"}`}
-              aria-label="List view"
-            >
-              <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><line x1="8" x2="21" y1="6" y2="6"/><line x1="8" x2="21" y1="12" y2="12"/><line x1="8" x2="21" y1="18" y2="18"/><line x1="3" x2="3.01" y1="6" y2="6"/><line x1="3" x2="3.01" y1="12" y2="12"/><line x1="3" x2="3.01" y1="18" y2="18"/></svg>
-            </button>
-            <button
-              onClick={() => setView("table")}
-              className={`rounded-md p-1.5 transition-colors ${view === "table" ? "bg-accent" : "hover:bg-accent/50"}`}
-              aria-label="Table view"
-            >
-              <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect width="18" height="18" x="3" y="3" rx="2" ry="2"/><line x1="3" x2="21" y1="9" y2="9"/><line x1="3" x2="21" y1="15" y2="15"/><line x1="9" x2="9" y1="3" y2="21"/></svg>
-            </button>
-          </div>
         </div>
 
         {grouped && years.length > 1 && (
@@ -151,42 +136,7 @@ export function EventsIndex({ events }: { events: EventItem[] }) {
         <p className="text-center text-muted-foreground py-8">No events match your filters.</p>
       )}
 
-      {view === "table" && filtered.length > 0 && (
-        <div className="overflow-x-auto rounded-lg border border-border">
-          <table className="w-full text-sm">
-            <thead>
-              <tr className="border-b bg-muted/50">
-                <th className="px-3 py-2 text-left font-medium">Name</th>
-                <th className="px-3 py-2 text-left font-medium">Date</th>
-                <th className="px-3 py-2 text-left font-medium">Type</th>
-                <th className="px-3 py-2 text-right font-medium">Links</th>
-              </tr>
-            </thead>
-            <tbody>
-              {filtered.map((e) => (
-                <tr key={e.slug} className="border-b last:border-0 hover:bg-muted/30 transition-colors">
-                  <td className="px-3 py-2">
-                    <a href={`/events/${e.slug}`} className="hover:underline font-medium">
-                      {e.name}
-                    </a>
-                  </td>
-                  <td className="px-3 py-2 text-muted-foreground tabular-nums"><FormattedDate date={e.date} /></td>
-                  <td className="px-3 py-2">
-                    <Badge variant="secondary" className="capitalize">
-                      {e.type.replace(/-/g, " ")}
-                    </Badge>
-                  </td>
-                  <td className="px-3 py-2 text-right tabular-nums text-muted-foreground">
-                    {e.connectionCount}
-                  </td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
-        </div>
-      )}
-
-      {view === "list" && filtered.length > 0 && (
+      {filtered.length > 0 && (
         <div>
           {grouped
             ? years.map((year) => (
@@ -223,9 +173,12 @@ function EventCard({ event: e }: { event: EventItem }) {
         className="group flex items-center gap-3 rounded-lg border border-transparent px-3 py-2.5 transition-all hover:border-border hover:bg-muted/30 hover:shadow-sm"
       >
         <div className="flex min-w-0 flex-1 flex-col">
-          <span className="font-medium group-hover:underline">{e.name}</span>
-          <span className="text-sm text-muted-foreground">
-            <FormattedDate date={e.date} /> · <span className="capitalize">{e.type.replace(/-/g, " ")}</span>
+          <div className="flex items-center gap-2">
+            <span className="font-medium group-hover:underline">{e.name}</span>
+            <EventTypeBadge type={e.type} />
+          </div>
+          <span className="text-xs text-muted-foreground">
+            <FormattedDate date={e.date} />
           </span>
         </div>
         <div className="flex items-center gap-3 shrink-0">

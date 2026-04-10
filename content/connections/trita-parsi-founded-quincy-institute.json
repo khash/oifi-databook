@@ -1,0 +1,22 @@
+{
+  "entity_id": "trita-parsi-founded-quincy-institute",
+  "from_entity": "trita-parsi",
+  "to_entity": "quincy-institute",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "2019",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Quincy_Institute_for_Responsible_Statecraft",
+      "source_title": "Quincy Institute for Responsible Statecraft",
+      "source_date": null,
+      "description": "Co-founded in 2019 by Trita Parsi and Andrew Bacevich."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": ["diplomacy"],
+  "editorial_notes": ""
+}

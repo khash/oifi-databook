@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohseni-ejei-named-chain-murders",
+  "from_entity": "gholam-hossein-mohseni-ejei",
+  "to_entity": "chain-murders-iran-1998",
+  "type": "named-in",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.hrw.org/legacy/backgrounder/mena/iran1205/iran1205.pdf",
+      "source_title": "Ministers of Murder: Iran's New Security Cabinet — HRW",
+      "source_date": "2005-12-01",
+      "description": "Mohseni-Ejei implicated in the chain murders through his intelligence and judicial roles."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

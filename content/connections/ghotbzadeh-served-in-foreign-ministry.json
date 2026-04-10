@@ -1,0 +1,21 @@
+{
+  "entity_id": "ghotbzadeh-served-in-foreign-ministry",
+  "from_entity": "sadegh-ghotbzadeh",
+  "to_entity": "ministry-of-foreign-affairs",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1980",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Sadegh_Ghotbzadeh",
+      "source_title": "Sadegh Ghotbzadeh",
+      "source_date": null,
+      "description": "Ghotbzadeh served as foreign minister during the Iran hostage crisis."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

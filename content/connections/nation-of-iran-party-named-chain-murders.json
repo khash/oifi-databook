@@ -1,0 +1,21 @@
+{
+  "entity_id": "nation-of-iran-party-named-chain-murders",
+  "from_entity": "nation-of-iran-party",
+  "to_entity": "chain-murders-iran-1998",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1998-11-22",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Chain_murders_of_Iran",
+      "source_title": "Chain murders of Iran",
+      "source_date": "1998-11-22",
+      "description": "The party's leader Dariush Forouhar and his wife Parvaneh were assassinated in the chain murders."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

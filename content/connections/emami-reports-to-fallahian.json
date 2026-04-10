@@ -1,0 +1,21 @@
+{
+  "entity_id": "emami-reports-to-fallahian",
+  "from_entity": "saeed-emami",
+  "to_entity": "ali-fallahian",
+  "type": "reports-to",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "1997",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Saeed_Emami",
+      "source_title": "Saeed Emami — Wikipedia",
+      "source_date": "1999-01-01",
+      "description": "Emami served as Deputy Minister under Intelligence Minister Fallahian (1989–1997)."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

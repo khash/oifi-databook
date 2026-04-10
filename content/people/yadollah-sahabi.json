@@ -1,0 +1,18 @@
+{
+  "entity_id": "yadollah-sahabi",
+  "slug": "yadollah-sahabi",
+  "name_en": "Yadollah Sahabi",
+  "name_fa": "یدالله سحابی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1905,
+  "birthplace": null,
+  "role": "Co-founder of Freedom Movement of Iran",
+  "faction": "opposition",
+  "bio": "Co-founder of the [Freedom Movement of Iran](/orgs/freedom-movement-of-iran) alongside [Mehdi Bazargan](/people/mehdi-bazargan) and [Mahmoud Taleghani](/people/mahmoud-taleghani) in 1961. Served in the post-revolution provisional government and the Islamic Revolutionary Council. Father of [Ezzatollah Sahabi](/people/ezzatollah-sahabi).",
+  "irgc_member": false,
+  "expertise": ["geology", "political activism"],
+  "tags": ["deceased", "human-rights"],
+  "photo": null,
+  "editorial_notes": "Father of Ezzatollah Sahabi."
+}

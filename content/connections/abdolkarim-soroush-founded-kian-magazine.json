@@ -1,0 +1,21 @@
+{
+  "entity_id": "abdolkarim-soroush-founded-kian-magazine",
+  "from_entity": "abdolkarim-soroush",
+  "to_entity": "kian-magazine",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "1991",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abdolkarim_Soroush",
+      "source_title": "Abdolkarim Soroush — Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "Co-founded Kiyan (Kian) magazine in 1991, which became the most visible forum for religious intellectualism in post-revolution Iran"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

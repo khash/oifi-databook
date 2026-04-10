@@ -1,0 +1,21 @@
+{
+  "entity_id": "abdolkarim-soroush-aligned-with-mohammad-khatami",
+  "from_entity": "abdolkarim-soroush",
+  "to_entity": "mohammad-khatami",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "1997",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abdolkarim_Soroush",
+      "source_title": "Abdolkarim Soroush — Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "Soroush's university lectures and intellectual circle formed the ideological foundation for Khatami's 2nd of Khordad reform movement"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": "Soroush was the intellectual architect; Khatami was the political vehicle."
+}

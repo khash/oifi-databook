@@ -1,0 +1,21 @@
+{
+  "entity_id": "ataollah-mohajerani-aligned-with-abdolkarim-soroush",
+  "from_entity": "ataollah-mohajerani",
+  "to_entity": "abdolkarim-soroush",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.csmonitor.com/Commentary/Global-Viewpoint/2010/0106/Abdolkarim-Soroush-The-goals-of-Iran-s-Green-Movement/(page)/3",
+      "source_title": "Abdolkarim Soroush: The goals of Iran's Green Movement — CSMonitor",
+      "source_date": "2010-01-06",
+      "description": "Co-authored the Green Movement manifesto together"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

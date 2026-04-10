@@ -1,0 +1,21 @@
+{
+  "entity_id": "abdolkarim-soroush-named-in-mass-executions-1988",
+  "from_entity": "abdolkarim-soroush",
+  "to_entity": "mass-executions-1988",
+  "type": "named-in",
+  "confidence": "disputed",
+  "date_from": "1988",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "http://drsoroush.com/en/sense-and-nonsense/",
+      "source_title": "Sense and Nonsense — drsoroush.com",
+      "source_date": "2026-04-11",
+      "description": "Soroush acknowledged the 'horrifying summer of 1988' but defended his silence: 'To have done more would have been a virtue, but not to have done so is no vice.' Critics questioned why he did not speak out given his institutional proximity to the regime."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Soroush had no direct role in the executions but was criticised for silence during them. He had resigned from the Cultural Revolution Committee five years earlier (1983). Marked as disputed because critics allege institutional complicity via his earlier role while Soroush denies any connection."
+}

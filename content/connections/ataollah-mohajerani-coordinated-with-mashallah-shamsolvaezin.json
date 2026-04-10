@@ -1,0 +1,21 @@
+{
+  "entity_id": "ataollah-mohajerani-coordinated-with-mashallah-shamsolvaezin",
+  "from_entity": "ataollah-mohajerani",
+  "to_entity": "mashallah-shamsolvaezin",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "1997",
+  "date_to": "2000",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ataollah_Mohajerani",
+      "source_title": "Ataollah Mohajerani — Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "As Minister of Culture, Mohajerani oversaw the licensing of hundreds of newspapers including those edited by Shamsolvaezin"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

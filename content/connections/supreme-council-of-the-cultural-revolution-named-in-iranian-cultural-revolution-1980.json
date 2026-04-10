@@ -1,0 +1,21 @@
+{
+  "entity_id": "supreme-council-of-the-cultural-revolution-named-in-iranian-cultural-revolution-1980",
+  "from_entity": "supreme-council-of-the-cultural-revolution",
+  "to_entity": "iranian-cultural-revolution-1980",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1980",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Committee_for_Islamization_of_Universities",
+      "source_title": "Cultural Revolution in Iran — Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "The Cultural Revolution Committee (predecessor to the Supreme Council) was the body charged by Khomeini with executing the Cultural Revolution"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "abdolali-bazargan-family-of-mehdi-bazargan",
+  "from_entity": "abdolali-bazargan",
+  "to_entity": "mehdi-bazargan",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abdolali_Bazargan",
+      "source_title": "Abdolali Bazargan — Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "Son of Mehdi Bazargan, Iran's first prime minister after the revolution"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "child",
+  "editorial_notes": ""
+}

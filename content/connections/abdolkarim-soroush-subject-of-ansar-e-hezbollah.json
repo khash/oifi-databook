@@ -1,0 +1,27 @@
+{
+  "entity_id": "abdolkarim-soroush-subject-of-ansar-e-hezbollah",
+  "from_entity": "abdolkarim-soroush",
+  "to_entity": "ansar-e-hezbollah",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "1995",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abdolkarim_Soroush",
+      "source_title": "Abdolkarim Soroush — Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "Both Soroush and his audiences were assaulted by Ansar-e Hezbollah vigilantes in the mid-1990s, leaving him 'bruised, battered and often in tattered clothes'"
+    },
+    {
+      "source_url": "https://www.refworld.org/docid/3ae6ac4210.html",
+      "source_title": "Refworld — Iran: Soroush seminar at Amir Kabir University",
+      "source_date": "2026-04-11",
+      "description": "Ansar-e Hezbollah disrupted Soroush's seminars at Tehran University and Isfahan, preventing him from entering Amir Kabir University"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Repeated physical assaults on Soroush and his lecture audiences in the mid-1990s."
+}

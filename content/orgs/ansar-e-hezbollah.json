@@ -1,0 +1,16 @@
+{
+  "entity_id": "ansar-e-hezbollah",
+  "slug": "ansar-e-hezbollah",
+  "name_en": "Ansar-e Hezbollah",
+  "name_fa": "انصار حزب‌الله",
+  "has_native_fa_name": true,
+  "type": "military",
+  "founded": 1995,
+  "dissolved": null,
+  "parent_org": null,
+  "faction": "hardliner",
+  "description": "Ansar-e Hezbollah (Helpers of the Party of God) is an Iranian vigilante paramilitary group with links to hardline factions within the state. Founded in the mid-1990s, the group is known for violently disrupting reformist gatherings, student protests, and intellectual lectures. It was behind a series of physical assaults on religious intellectual [Abdolkarim Soroush](/people/abdolkarim-soroush) and his audiences in the mid-1990s, and was instrumental in attacking student dormitories during the [July 1999 student uprising](/events/iran-student-uprising-july-1999). The group operates with impunity, widely understood to enjoy protection from elements within the security establishment and the [Office of the Supreme Leader](/orgs/office-of-the-supreme-leader).",
+  "tags": [
+    "human-rights"
+  ]
+}

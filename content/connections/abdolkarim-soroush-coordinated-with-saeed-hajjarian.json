@@ -1,0 +1,27 @@
+{
+  "entity_id": "abdolkarim-soroush-coordinated-with-saeed-hajjarian",
+  "from_entity": "abdolkarim-soroush",
+  "to_entity": "saeed-hajjarian",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "1991",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Iranian_reformists",
+      "source_title": "Iranian reformists — Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "Weekly 'Wednesday Meetings' sessions brought together future reformists around Soroush's ideas, including Saeed Hajjarian, Akbar Ganji, and Emadeddin Baghi"
+    },
+    {
+      "source_url": "https://www.resetdoc.org/story/abdolkarim-soroush-the-great-reformer/",
+      "source_title": "Abdolkarim Soroush, the Great Reformer — Reset DOC",
+      "source_date": "2026-04-11",
+      "description": "Hajjarian was part of the Kian circle and the broader Soroush intellectual network that formed the backbone of the reform movement"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Part of the Kian circle and the Wednesday Meetings that produced the reformist movement."
+}

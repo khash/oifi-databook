@@ -1,0 +1,21 @@
+{
+  "entity_id": "ansar-e-hezbollah-participated-in-iran-student-uprising-july-1999",
+  "from_entity": "ansar-e-hezbollah",
+  "to_entity": "iran-student-uprising-july-1999",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1999-07",
+  "date_to": "1999-07",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ansar-e_Hezbollah",
+      "source_title": "Ansar-e Hezbollah — Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "Ansar-e Hezbollah vigilantes attacked student dormitories at the University of Tehran during the July 1999 unrest"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

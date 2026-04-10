@@ -1,0 +1,21 @@
+{
+  "entity_id": "abdolali-bazargan-member-of-freedom-movement-of-iran",
+  "from_entity": "abdolali-bazargan",
+  "to_entity": "freedom-movement-of-iran",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": "1977",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abdolali_Bazargan",
+      "source_title": "Abdolali Bazargan — Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "Joined the Freedom Movement of Iran in 1977 and currently serves as deputy leader"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Deputy leader of the Freedom Movement."
+}

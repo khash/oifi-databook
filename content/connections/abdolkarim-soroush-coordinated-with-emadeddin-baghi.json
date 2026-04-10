@@ -1,0 +1,21 @@
+{
+  "entity_id": "abdolkarim-soroush-coordinated-with-emadeddin-baghi",
+  "from_entity": "abdolkarim-soroush",
+  "to_entity": "emadeddin-baghi",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "1991",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Iranian_reformists",
+      "source_title": "Iranian reformists — Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "Baghi was part of the Wednesday Meetings circle that gathered around Soroush's intellectual network in the early 1990s"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Part of the Kian circle / Wednesday Meetings."
+}

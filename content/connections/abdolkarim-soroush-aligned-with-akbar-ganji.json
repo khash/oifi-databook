@@ -1,0 +1,21 @@
+{
+  "entity_id": "abdolkarim-soroush-aligned-with-akbar-ganji",
+  "from_entity": "abdolkarim-soroush",
+  "to_entity": "akbar-ganji",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "1991",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abdolkarim_Soroush",
+      "source_title": "Abdolkarim Soroush — Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "Ganji was part of the Kian circle; both co-authored the 2010 Green Movement manifesto"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": "Ganji wrote for Kian magazine, part of the Soroush intellectual circle."
+}

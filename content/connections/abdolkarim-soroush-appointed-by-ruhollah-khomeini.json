@@ -1,0 +1,21 @@
+{
+  "entity_id": "abdolkarim-soroush-appointed-by-ruhollah-khomeini",
+  "from_entity": "abdolkarim-soroush",
+  "to_entity": "ruhollah-khomeini",
+  "type": "appointed-by",
+  "confidence": "confirmed",
+  "date_from": "1980",
+  "date_to": "1983",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abdolkarim_Soroush",
+      "source_title": "Abdolkarim Soroush — Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "Khomeini personally appointed all seven members of the Cultural Revolution Committee, including Soroush"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Appointed to the Cultural Revolution Committee 1980. Resigned 1983."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "abdolkarim-soroush-coordinated-with-mashallah-shamsolvaezin",
+  "from_entity": "abdolkarim-soroush",
+  "to_entity": "mashallah-shamsolvaezin",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "1991",
+  "date_to": "1998",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abdolkarim_Soroush",
+      "source_title": "Abdolkarim Soroush — Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "Co-founded Kian magazine with Shamsolvaezin as editor in 1991"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Soroush was the intellectual anchor; Shamsolvaezin was the editor of Kian."
+}

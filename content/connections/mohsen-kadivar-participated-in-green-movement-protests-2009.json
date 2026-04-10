@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohsen-kadivar-participated-in-green-movement-protests-2009",
+  "from_entity": "mohsen-kadivar",
+  "to_entity": "green-movement-protests-2009",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": "2010",
+  "evidence": [
+    {
+      "source_url": "https://www.csmonitor.com/Commentary/Global-Viewpoint/2010/0106/Abdolkarim-Soroush-The-goals-of-Iran-s-Green-Movement/(page)/3",
+      "source_title": "Abdolkarim Soroush: The goals of Iran's Green Movement — CSMonitor",
+      "source_date": "2010-01-06",
+      "description": "Co-authored the Green Movement manifesto with Soroush, Ganji, Mohajerani, and Bazargan"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

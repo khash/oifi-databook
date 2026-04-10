@@ -1,0 +1,21 @@
+{
+  "entity_id": "abdolkarim-soroush-member-of-supreme-council-of-the-cultural-revolution",
+  "from_entity": "abdolkarim-soroush",
+  "to_entity": "supreme-council-of-the-cultural-revolution",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": "1980",
+  "date_to": "1983",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abdolkarim_Soroush",
+      "source_title": "Abdolkarim Soroush — Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "Soroush was one of seven members of the Cultural Revolution Committee, the predecessor body to the Supreme Council of the Cultural Revolution"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Member of the original Cultural Revolution Committee (predecessor to the Supreme Council). Resigned 1983."
+}

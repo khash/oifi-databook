@@ -1,0 +1,21 @@
+{
+  "entity_id": "ruhollah-khomeini-founded-supreme-council-of-the-cultural-revolution",
+  "from_entity": "ruhollah-khomeini",
+  "to_entity": "supreme-council-of-the-cultural-revolution",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "1980",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Committee_for_Islamization_of_Universities",
+      "source_title": "Cultural Revolution in Iran — Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "Khomeini established the Cultural Revolution Committee in June 1980, which was later reconstituted as the Supreme Council of the Cultural Revolution in 1984"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Original Committee established June 1980. Reconstituted as Supreme Council December 1984."
+}

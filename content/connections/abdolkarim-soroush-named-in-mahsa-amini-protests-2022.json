@@ -1,0 +1,21 @@
+{
+  "entity_id": "abdolkarim-soroush-named-in-mahsa-amini-protests-2022",
+  "from_entity": "abdolkarim-soroush",
+  "to_entity": "mahsa-amini-protests-2022",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2022",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://iranwire.com/fa/features/113940/",
+      "source_title": "Abdolkarim Soroush: Defence of gendered discourse against the Iranian woman — IranWire",
+      "source_date": "2022-01-01",
+      "description": "Soroush declared himself 'among the supporters of the blessed Woman, Life, Freedom uprising' but drew criticism for gender-related remarks about diaspora activists"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Soroush supported the WLF uprising publicly but was criticised for contradictory gender-related comments."
+}

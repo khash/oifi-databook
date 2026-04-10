@@ -1,0 +1,14 @@
+{
+  "entity_id": "supreme-council-of-the-cultural-revolution",
+  "slug": "supreme-council-of-the-cultural-revolution",
+  "name_en": "Supreme Council of the Cultural Revolution",
+  "name_fa": "شورای عالی انقلاب فرهنگی",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 1984,
+  "dissolved": null,
+  "parent_org": null,
+  "faction": "conservative",
+  "description": "The Supreme Council of the Cultural Revolution is an Iranian state body created in December 1984 to succeed the original seven-member Cultural Revolution Committee (also known as the Cultural Revolution Headquarters) that [Ruhollah Khomeini](/people/ruhollah-khomeini) established in June 1980. The original committee was charged with closing universities, purging them of Western and secular influences, and reshaping academic curricula along Islamic lines during the [Iranian Cultural Revolution](/events/iranian-cultural-revolution-1980). The council continues to set cultural and educational policy for the Islamic Republic, including oversight of universities, regulation of the internet, and media policy.",
+  "tags": []
+}

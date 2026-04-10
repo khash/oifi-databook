@@ -1,0 +1,27 @@
+{
+  "entity_id": "abdolkarim-soroush-aligned-with-ali-shariati",
+  "from_entity": "abdolkarim-soroush",
+  "to_entity": "ali-shariati",
+  "type": "aligned-with",
+  "confidence": "disputed",
+  "date_from": null,
+  "date_to": "1977",
+  "evidence": [
+    {
+      "source_url": "https://www.pbs.org/wgbh/pages/frontline/tehranbureau/2011/10/ali-shariati-and-the-ideologization-of-religion.html",
+      "source_title": "Ali Shariati and the Ideologization of Religion — PBS/Tehran Bureau",
+      "source_date": "2011-10-01",
+      "description": "Soroush was close to Ali Shariati and was among the first people to rush to Southampton after Shariati's death in 1977"
+    },
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abdolkarim_Soroush",
+      "source_title": "Abdolkarim Soroush — Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "Soroush later sharply criticised Shariati's ideologisation of Islam, arguing it reduced Shiite thought to political ideology"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": "Personal closeness pre-1977 but deep intellectual divergence later. Soroush criticised Shariati's Marxist historicism and 'ideologisation' of religion. Marked as disputed because the alignment was temporary and followed by public criticism."
+}

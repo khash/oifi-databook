@@ -1,0 +1,21 @@
+{
+  "entity_id": "abdolkarim-soroush-participated-in-iranian-revolution-1979",
+  "from_entity": "abdolkarim-soroush",
+  "to_entity": "iranian-revolution-1979",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1979",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abdolkarim_Soroush",
+      "source_title": "Abdolkarim Soroush — Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "Soroush returned to Iran from London during the revolution and aligned himself with the movement"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

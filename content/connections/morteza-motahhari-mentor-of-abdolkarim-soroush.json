@@ -1,0 +1,27 @@
+{
+  "entity_id": "morteza-motahhari-mentor-of-abdolkarim-soroush",
+  "from_entity": "morteza-motahhari",
+  "to_entity": "abdolkarim-soroush",
+  "type": "mentor-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "1979",
+  "evidence": [
+    {
+      "source_url": "https://www.researchgate.net/publication/265561117_Two_Iranian_Intellectuals_Ayatollah_Morteza_Motahari_and_Dr_Abdol-Karim_Soroush_and_Islamic_Democracy_Debate",
+      "source_title": "Two Iranian Intellectuals: Motahari and Soroush — ResearchGate",
+      "source_date": "2026-04-11",
+      "description": "Soroush approached Motahhari at the University of Tehran for instruction; Motahhari introduced him to a clergyman with whom Soroush studied Islamic philosophy. Motahhari's commentary on Mulla Sadra made a profound impression on Soroush."
+    },
+    {
+      "source_url": "https://nawaat.org/2005/02/08/intellectual-autobiography/",
+      "source_title": "Intellectual Autobiography — Nawaat",
+      "source_date": "2005-02-08",
+      "description": "With Motahhari's encouragement, Ayatollah Khomeini read Soroush's early work and reportedly marvelled at the erudition of its young author"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Motahhari was a formative intellectual influence on the young Soroush before the revolution."
+}

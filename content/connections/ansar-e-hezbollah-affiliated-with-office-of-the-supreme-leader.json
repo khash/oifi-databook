@@ -1,0 +1,14 @@
+{
+  "entity_id": "ansar-e-hezbollah-affiliated-with-office-of-the-supreme-leader",
+  "from_entity": "ansar-e-hezbollah",
+  "to_entity": "office-of-the-supreme-leader",
+  "type": "affiliated-with",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Widely understood to enjoy protection from elements within the security establishment."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "abdolkarim-soroush-served-in-university-of-tehran",
+  "from_entity": "abdolkarim-soroush",
+  "to_entity": "university-of-tehran",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1983",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abdolkarim_Soroush",
+      "source_title": "Abdolkarim Soroush — Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "Soroush lectured regularly at the University of Tehran; his lectures drew large student audiences who became the core of the reformist movement"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

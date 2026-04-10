@@ -1,0 +1,21 @@
+{
+  "entity_id": "abdolkarim-soroush-published-kayhan-newspaper",
+  "from_entity": "abdolkarim-soroush",
+  "to_entity": "kayhan-newspaper",
+  "type": "published",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "1992",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abdolkarim_Soroush",
+      "source_title": "Abdolkarim Soroush — Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "Published in Kayhan-e Farhangi (Kayhan's cultural supplement) until Khatami's 1992 resignation from the Ministry of Culture forced his circle out"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Published in Kayhan-e Farhangi, the intellectual supplement. Forced out after Khatami's 1992 resignation from Ministry of Culture."
+}

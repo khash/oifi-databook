@@ -1,0 +1,21 @@
+{
+  "entity_id": "abdolkarim-soroush-opposed-ali-khamenei",
+  "from_entity": "abdolkarim-soroush",
+  "to_entity": "ali-khamenei",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": "1995",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abdolkarim_Soroush",
+      "source_title": "Abdolkarim Soroush — Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "At a 1995 event Khamenei devoted more time berating Soroush than condemning the United States. Kian was closed by direct order of Khamenei in 1998."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

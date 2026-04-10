@@ -1,0 +1,27 @@
+{
+  "entity_id": "abdolkarim-soroush-participated-in-iranian-cultural-revolution-1980",
+  "from_entity": "abdolkarim-soroush",
+  "to_entity": "iranian-cultural-revolution-1980",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1980",
+  "date_to": "1983",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abdolkarim_Soroush",
+      "source_title": "Abdolkarim Soroush — Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "Served as one of seven members of the Cultural Revolution Committee appointed by Khomeini to close and restructure universities"
+    },
+    {
+      "source_url": "https://iranhrdc.org/the-1980-cultural-revolution-and-restrictions-on-academic-freedom-in-iran/",
+      "source_title": "The 1980 Cultural Revolution and Restrictions on Academic Freedom in Iran — IHRDC",
+      "source_date": "2026-04-11",
+      "description": "The Cultural Revolution Institute was composed of seven members including Abdolkarim Soroush, all appointed directly by Ayatollah Khomeini"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "One of the seven members of the Cultural Revolution Committee. Resigned 1983."
+}

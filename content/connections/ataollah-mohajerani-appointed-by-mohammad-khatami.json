@@ -1,0 +1,21 @@
+{
+  "entity_id": "ataollah-mohajerani-appointed-by-mohammad-khatami",
+  "from_entity": "ataollah-mohajerani",
+  "to_entity": "mohammad-khatami",
+  "type": "appointed-by",
+  "confidence": "confirmed",
+  "date_from": "1997",
+  "date_to": "2000",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ataollah_Mohajerani",
+      "source_title": "Ataollah Mohajerani — Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "Appointed Minister of Culture and Islamic Guidance by President Khatami in 1997"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Served as Minister of Culture 1997-2000. Resigned under hardliner pressure."
+}

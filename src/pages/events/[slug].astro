@@ -5,7 +5,6 @@ import { Separator } from "@/components/ui/separator"
 import { getEvents, getConnectionsForEntity, getEntityById, getEntityTypeById } from "@/lib/content"
 import { GraphExplorer } from "@/components/GraphExplorer"
 import { renderMarkdown, stripMarkdown } from "@/lib/markdown"
-import { annotateDatesInHtml } from "@/lib/date"
 import type { Event } from "@/lib/types"
 import { ConnectionsList } from "@/components/ConnectionsList"
 import FormattedDate from "@/components/FormattedDate.astro"
@@ -64,7 +63,7 @@ const jsonLd = {
     <div class="prose prose-sm dark:prose-invert max-w-none" set:html={renderMarkdown(event.description)} />
 
     {event.body && (
-      <div class="prose prose-sm mt-6 max-w-none" set:html={annotateDatesInHtml(event.body)} />
+      <div class="prose prose-sm dark:prose-invert mt-6 max-w-none" set:html={renderMarkdown(event.body)} />
     )}
 
     <span data-pagefind-meta={`type:event`} class="hidden" />

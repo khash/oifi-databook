@@ -1,0 +1,21 @@
+{
+  "entity_id": "soleimani-killed-in-assassination",
+  "from_entity": "qasem-soleimani",
+  "to_entity": "soleimani-assassination-2020",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2020-01-03",
+  "date_to": "2020-01-03",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Assassination_of_Qasem_Soleimani",
+      "source_title": "Assassination of Qasem Soleimani",
+      "source_date": "2020-01-03",
+      "description": "Soleimani was the primary target of the US drone strike."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

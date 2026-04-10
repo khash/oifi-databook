@@ -1,0 +1,21 @@
+{
+  "entity_id": "salami-headed-irgc",
+  "from_entity": "hossein-salami",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2019",
+  "date_to": "2025",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Islamic_Revolutionary_Guard_Corps",
+      "source_title": "Islamic Revolutionary Guard Corps",
+      "source_date": "2024-01-01",
+      "description": "Hossein Salami was appointed IRGC Commander-in-Chief by Khamenei in April 2019."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Reportedly killed in Israeli strikes on Iran, June 2025."
+}

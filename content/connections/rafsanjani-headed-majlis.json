@@ -1,0 +1,21 @@
+{
+  "entity_id": "rafsanjani-headed-majlis",
+  "from_entity": "akbar-hashemi-rafsanjani",
+  "to_entity": "islamic-consultative-assembly",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "1980",
+  "date_to": "1989",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Akbar_Hashemi_Rafsanjani",
+      "source_title": "Akbar Hashemi Rafsanjani",
+      "source_date": "2024-01-01",
+      "description": "Rafsanjani was the first Speaker of the Islamic Consultative Assembly, serving from 1980 to 1989."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

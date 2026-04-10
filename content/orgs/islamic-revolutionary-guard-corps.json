@@ -1,0 +1,21 @@
+{
+  "entity_id": "islamic-revolutionary-guard-corps",
+  "slug": "islamic-revolutionary-guard-corps",
+  "name_en": "Islamic Revolutionary Guard Corps",
+  "name_fa": "سپاه پاسداران انقلاب اسلامی",
+  "has_native_fa_name": true,
+  "type": "military",
+  "founded": 1979,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Islamic Revolutionary Guard Corps (IRGC), known domestically as Sepah or Pasdaran, is a multi-service elite military force established by Khomeini in May 1979. It consists of five branches: Ground Forces, Aerospace Force, Navy, Quds Force, and Basij. Its commander-in-chief reports directly to the Supreme Leader. Beyond its military role, the IRGC controls a vast economic empire including Khatam al-Anbiya Construction, multiple banks, and extensive holdings in energy, telecommunications, and construction. Estimated at 125,000 personnel.",
+  "faction": "hardliner",
+  "tags": [
+    "irgc",
+    "military",
+    "sepah",
+    "sanctions",
+    "terrorist-designation"
+  ],
+  "editorial_notes": "Designated Foreign Terrorist Organization by US in 2019. Sanctioned by EU, UK, Canada. Controls Khatam al-Anbiya Construction conglomerate."
+}

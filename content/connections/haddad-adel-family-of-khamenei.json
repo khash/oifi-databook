@@ -1,0 +1,21 @@
+{
+  "entity_id": "haddad-adel-family-of-khamenei",
+  "from_entity": "gholam-ali-haddad-adel",
+  "to_entity": "ali-khamenei",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Gholam-Ali_Haddad-Adel",
+      "source_title": "Gholam-Ali Haddad-Adel",
+      "source_date": "2024-01-01",
+      "description": "Haddad-Adel's daughter Zahra married Mojtaba Khamenei, son of Supreme Leader Ali Khamenei."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "in-law",
+  "editorial_notes": "Haddad-Adel's daughter Zahra married Mojtaba Khamenei (born 1969)."
+}

@@ -1,0 +1,27 @@
+{
+  "entity_id": "ali-akbar-nategh-nouri",
+  "slug": "ali-akbar-nategh-nouri",
+  "name_en": "Ali Akbar Nategh-Nouri",
+  "name_fa": "علی‌اکبر ناطق نوری",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Nateq-Nuri",
+    "Ali Akbar Nateq Nuri"
+  ],
+  "born": 1944,
+  "birthplace": "Nour, Mazandaran Province",
+  "role": "Speaker of Parliament (1992–2000); Head of Supreme Leader's Inspection Office",
+  "faction": "conservative",
+  "bio": "Ali Akbar Nategh-Nouri served as Speaker of Parliament for two full terms, 1992 to 2000. He was the establishment-backed frontrunner in the 1997 presidential election before being unexpectedly defeated by reformist Mohammad Khatami in a landslide. He subsequently served as head of the Inspection Office of the Supreme Leader's office. He represents the traditional conservative wing of Iranian politics.",
+  "expertise": [
+    "parliamentary affairs",
+    "political oversight"
+  ],
+  "tags": [
+    "majlis-speaker",
+    "conservative",
+    "supreme-leader-office"
+  ],
+  "photo": null,
+  "editorial_notes": "Lost 1997 presidential election to Khatami. Head of Supreme Leader Inspection Office from 1999."
+}

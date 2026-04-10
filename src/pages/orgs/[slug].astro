@@ -2,8 +2,9 @@
 import EntityLayout from "@/layouts/entity.astro"
 import { Badge } from "@/components/ui/badge"
 import { Separator } from "@/components/ui/separator"
-import { getOrgs, getOrgById, getConnectionsForEntity, getEntityById } from "@/lib/content"
+import { getOrgs, getOrgById, getConnectionsForEntity, getEntityById, getEntityTypeById } from "@/lib/content"
 import { GraphExplorer } from "@/components/GraphExplorer"
+import { renderMarkdown, stripMarkdown } from "@/lib/markdown"
 import type { Org } from "@/lib/types"
 import { INVERSE_LABELS } from "@/lib/constants"
 import { FactionSpectrum } from "@/components/FactionSpectrum"
@@ -16,14 +17,14 @@ export function getStaticPaths() {
 const { org } = Astro.props as { org: Org }
 const connections = getConnectionsForEntity(org.entity_id)
 const parentOrg = org.parent_org ? getOrgById(org.parent_org) : null
-const desc = org.description.slice(0, 160)
+const desc = stripMarkdown(org.description).slice(0, 160)
 
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "Organization",
   name: org.name_en,
   alternateName: org.has_native_fa_name ? org.name_fa : undefined,
-  description: org.description,
+  description: stripMarkdown(org.description),
   foundingDate: org.founded ? String(org.founded) : undefined,
   dissolutionDate: org.dissolved ? String(org.dissolved) : undefined,
 }
@@ -63,9 +64,7 @@ const jsonLd = {
 
     <Separator className="my-6" />
 
-    <div class="prose prose-sm max-w-none">
-      <p>{org.description}</p>
-    </div>
+    <div class="prose prose-sm max-w-none" set:html={renderMarkdown(org.description)} />
 
     <span data-pagefind-meta={`type:org`} class="hidden" />
     {org.faction && <span data-pagefind-meta={`faction:${org.faction}`} class="hidden" />}
@@ -80,9 +79,10 @@ const jsonLd = {
             const otherId = conn.from_entity === org.entity_id ? conn.to_entity : conn.from_entity
             const other = getEntityById(otherId)
             if (!other) return null
-            const href = otherId.startsWith("person-")
+            const entityType = getEntityTypeById(otherId)
+            const href = entityType === "person"
               ? `/people/${other.slug}`
-              : otherId.startsWith("org-")
+              : entityType === "org"
                 ? `/orgs/${other.slug}`
                 : `/events/${other.slug}`
             const label = conn.from_entity === org.entity_id

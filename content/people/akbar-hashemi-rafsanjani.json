@@ -1,0 +1,32 @@
+{
+  "entity_id": "akbar-hashemi-rafsanjani",
+  "slug": "akbar-hashemi-rafsanjani",
+  "name_en": "Akbar Hashemi Rafsanjani",
+  "name_fa": "اکبر هاشمی رفسنجانی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Rafsanjani",
+    "Akbar Hashemi Bahramani",
+    "Hojatoleslam Rafsanjani"
+  ],
+  "born": 1934,
+  "birthplace": "Bahraman, Kerman Province",
+  "role": "4th President of Iran (1989–1997); Chairman of Expediency Discernment Council (1989–2017)",
+  "faction": "pragmatist",
+  "bio": "Akbar Hashemi Rafsanjani was one of the most powerful figures in post-revolutionary Iran. He served as Speaker of the Islamic Consultative Assembly from 1980 to 1989 and as president from 1989 to 1997. A cleric and confidant of Khomeini, he is associated with the pragmatist wing of Iranian politics and championed post-war economic reconstruction. He chaired the Expediency Discernment Council until his death in January 2017.",
+  "expertise": [
+    "economic policy",
+    "foreign policy",
+    "oil industry",
+    "post-war reconstruction"
+  ],
+  "tags": [
+    "president",
+    "4th-president",
+    "majlis-speaker",
+    "expediency-council",
+    "deceased"
+  ],
+  "photo": null,
+  "editorial_notes": "Died 8 January 2017. First Speaker of the Islamic Consultative Assembly 1980–1989. Born Akbar Hashemi Bahramani."
+}

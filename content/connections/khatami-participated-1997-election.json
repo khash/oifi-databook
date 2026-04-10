@@ -1,0 +1,21 @@
+{
+  "entity_id": "khatami-participated-1997-election",
+  "from_entity": "mohammad-khatami",
+  "to_entity": "presidential-election-iran-1997",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1997-05-23",
+  "date_to": "1997-05-23",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/1997_Iranian_presidential_election",
+      "source_title": "1997 Iranian presidential election",
+      "source_date": "2024-01-01",
+      "description": "Khatami won the 1997 presidential election with approximately 70% of the vote."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Winner. Defeated establishment favourite Nategh-Nouri."
+}

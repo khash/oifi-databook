@@ -1,0 +1,21 @@
+{
+  "entity_id": "ghalibaf-headed-majlis",
+  "from_entity": "mohammad-bagher-ghalibaf",
+  "to_entity": "islamic-consultative-assembly",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2020",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Bagher_Ghalibaf",
+      "source_title": "Mohammad Bagher Ghalibaf",
+      "source_date": "2024-01-01",
+      "description": "Ghalibaf was elected Speaker of Parliament on May 28, 2020."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Incumbent as of April 2026."
+}

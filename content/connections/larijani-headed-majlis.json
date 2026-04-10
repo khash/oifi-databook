@@ -1,0 +1,21 @@
+{
+  "entity_id": "larijani-headed-majlis",
+  "from_entity": "ali-larijani",
+  "to_entity": "islamic-consultative-assembly",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2008",
+  "date_to": "2020",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Larijani",
+      "source_title": "Ali Larijani",
+      "source_date": "2024-01-01",
+      "description": "Larijani served as Speaker for the 8th, 9th and 10th sessions (2008–2020), the longest tenure in IRI history."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Longest-serving Speaker in IRI history."
+}

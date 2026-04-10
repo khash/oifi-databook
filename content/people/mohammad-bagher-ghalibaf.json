@@ -1,0 +1,29 @@
+{
+  "entity_id": "mohammad-bagher-ghalibaf",
+  "slug": "mohammad-bagher-ghalibaf",
+  "name_en": "Mohammad Bagher Ghalibaf",
+  "name_fa": "محمدباقر قالیباف",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Qalibaf"
+  ],
+  "born": 1961,
+  "birthplace": "Torqabeh, Razavi Khorasan Province",
+  "role": "Speaker of Parliament (2020–present); Former Mayor of Tehran (2005–2017)",
+  "faction": "military-irgc",
+  "bio": "Mohammad Bagher Ghalibaf is a senior IRGC figure who commanded the IRGC Aerospace Force and later the national police before serving as Mayor of Tehran for twelve years. He has run for president three times without success. Elected Speaker of Parliament in 2020 after the principlist sweep of that year's elections. He was one of 24 IRGC commanders who signed a 1999 letter threatening military action against student protesters, and has admitted to personally participating in street-level violence against them.",
+  "expertise": [
+    "military affairs",
+    "urban governance",
+    "IRGC aerospace",
+    "security"
+  ],
+  "tags": [
+    "majlis-speaker",
+    "irgc",
+    "mayor-tehran",
+    "military"
+  ],
+  "photo": null,
+  "editorial_notes": "IRGC brigadier general. Commander of IRGC Aerospace Force 1997–2000, national police chief 2000–2005, Mayor of Tehran 2005–2017."
+}

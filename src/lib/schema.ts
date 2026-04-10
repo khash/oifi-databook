@@ -53,6 +53,7 @@ export const personSchema = z.object({
   expertise: z.array(z.string()),
   tags: z.array(z.string()),
   photo: z.string().nullable(),
+  editorial_notes: z.string(),
 });
 
 export const orgSchema = z.object({
@@ -68,6 +69,7 @@ export const orgSchema = z.object({
   description: z.string(),
   faction: z.enum(FACTIONS).nullable(),
   tags: z.array(z.string()),
+  editorial_notes: z.string(),
 });
 
 export const eventSchema = z.object({
@@ -80,6 +82,7 @@ export const eventSchema = z.object({
   body: z.string().nullable(),
   sources: z.array(sourceSchema),
   tags: z.array(z.string()),
+  editorial_notes: z.string(),
 });
 
 export const connectionSchema = z.object({
@@ -94,6 +97,7 @@ export const connectionSchema = z.object({
   intermediaries: z.array(z.string()),
   symmetric: z.boolean(),
   family_subtype: z.enum(FAMILY_SUBTYPES).nullable(),
+  editorial_notes: z.string(),
 });
 
 // ---------------------------------------------------------------------------

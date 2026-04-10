@@ -1,0 +1,28 @@
+{
+  "entity_id": "mehdi-karroubi",
+  "slug": "mehdi-karroubi",
+  "name_en": "Mehdi Karroubi",
+  "name_fa": "مهدی کروبی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Hojatoleslam Karroubi"
+  ],
+  "born": 1937,
+  "birthplace": "Aligudarz, Lorestan Province",
+  "role": "Speaker of Parliament (1989–1992, 2000–2004); Green Movement leader",
+  "faction": "reformist",
+  "bio": "Mehdi Karroubi served as Speaker of the Islamic Consultative Assembly twice. A presidential candidate in 2009, he refused to accept the disputed official results and became a co-leader of the Green Movement alongside Mir-Hossein Mousavi. He has been held under house arrest in Tehran since February 2011 without trial, one of the most prominent political detainees in the Islamic Republic.",
+  "expertise": [
+    "parliamentary affairs",
+    "clerical governance",
+    "civil rights"
+  ],
+  "tags": [
+    "majlis-speaker",
+    "green-movement",
+    "house-arrest",
+    "political-prisoner"
+  ],
+  "photo": null,
+  "editorial_notes": "Under house arrest since February 2011. Co-founder of the National Trust Party (2005)."
+}

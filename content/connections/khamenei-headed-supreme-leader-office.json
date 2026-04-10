@@ -1,0 +1,21 @@
+{
+  "entity_id": "khamenei-headed-supreme-leader-office",
+  "from_entity": "ali-khamenei",
+  "to_entity": "office-of-the-supreme-leader",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "1989",
+  "date_to": "2026",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Khamenei",
+      "source_title": "Ali Khamenei",
+      "source_date": "2024-01-01",
+      "description": "Khamenei was chosen as Supreme Leader by the Assembly of Experts in June 1989 following Khomeini's death."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Died in office 28 February 2026."
+}

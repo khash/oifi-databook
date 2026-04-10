@@ -1,0 +1,21 @@
+{
+  "entity_id": "raisi-died-helicopter-crash",
+  "from_entity": "ebrahim-raisi",
+  "to_entity": "raisi-helicopter-crash-2024",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2024-05-19",
+  "date_to": "2024-05-19",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Death_of_Ebrahim_Raisi",
+      "source_title": "Death of Ebrahim Raisi",
+      "source_date": "2024-05-20",
+      "description": "Raisi died in the helicopter crash on May 19, 2024."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

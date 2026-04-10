@@ -2,11 +2,12 @@
 import EntityLayout from "@/layouts/entity.astro"
 import { Badge } from "@/components/ui/badge"
 import { Separator } from "@/components/ui/separator"
-import { getPeople, getConnectionsForEntity, getEntityById } from "@/lib/content"
+import { getPeople, getConnectionsForEntity, getEntityById, getEntityTypeById } from "@/lib/content"
 import { GraphExplorer } from "@/components/GraphExplorer"
 import { FactionSpectrum } from "@/components/FactionSpectrum"
 import { ConfidenceBadge } from "@/components/ConfidenceBadge"
 import { SPECTRUM_FACTIONS, INVERSE_LABELS } from "@/lib/constants"
+import { renderMarkdown, stripMarkdown } from "@/lib/markdown"
 import type { Person } from "@/lib/types"
 
 export function getStaticPaths() {
@@ -15,7 +16,7 @@ export function getStaticPaths() {
 
 const { person } = Astro.props as { person: Person }
 const connections = getConnectionsForEntity(person.entity_id)
-const desc = person.bio.slice(0, 160)
+const desc = stripMarkdown(person.bio).slice(0, 160)
 
 const jsonLd = {
   "@context": "https://schema.org",
@@ -23,7 +24,7 @@ const jsonLd = {
   name: person.name_en,
   alternateName: person.has_native_fa_name ? person.name_fa : undefined,
   jobTitle: person.role,
-  description: person.bio,
+  description: stripMarkdown(person.bio),
   birthDate: person.born ? String(person.born) : undefined,
 }
 ---
@@ -56,9 +57,7 @@ const jsonLd = {
 
     <Separator className="my-6" />
 
-    <div class="prose prose-sm max-w-none">
-      <p>{person.bio}</p>
-    </div>
+    <div class="prose prose-sm max-w-none" set:html={renderMarkdown(person.bio)} />
 
     <span data-pagefind-meta={`type:person`} class="hidden" />
     <span data-pagefind-meta={`faction:${person.faction}`} class="hidden" />
@@ -85,9 +84,10 @@ const jsonLd = {
             const otherId = conn.from_entity === person.entity_id ? conn.to_entity : conn.from_entity
             const other = getEntityById(otherId)
             if (!other) return null
-            const href = otherId.startsWith("person-")
+            const entityType = getEntityTypeById(otherId)
+            const href = entityType === "person"
               ? `/people/${other.slug}`
-              : otherId.startsWith("org-")
+              : entityType === "org"
                 ? `/orgs/${other.slug}`
                 : `/events/${other.slug}`
             const label = conn.from_entity === person.entity_id

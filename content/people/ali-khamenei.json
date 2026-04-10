@@ -1,0 +1,31 @@
+{
+  "entity_id": "ali-khamenei",
+  "slug": "ali-khamenei",
+  "name_en": "Ali Khamenei",
+  "name_fa": "علی خامنه‌ای",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Seyyed Ali Hosseini Khamenei",
+    "Ayatollah Khamenei",
+    "Ali Hosseini-Khamenei"
+  ],
+  "born": 1939,
+  "birthplace": "Mashhad, Razavi Khorasan Province",
+  "role": "2nd Supreme Leader of the Islamic Republic of Iran (1989–2026)",
+  "faction": "hardliner",
+  "bio": "Ali Khamenei served as Iran's third president from 1981 to 1989, then succeeded Ruhollah Khomeini as Supreme Leader following Khomeini's death. As Supreme Leader for nearly four decades, he exercised ultimate authority over all branches of government, the military, and the judiciary. He oversaw Iran's nuclear programme, the crackdown on the Green Movement in 2009, and the response to the Mahsa Amini protests in 2022. He died on 28 February 2026.",
+  "expertise": [
+    "Islamic jurisprudence",
+    "strategic affairs",
+    "foreign policy",
+    "security policy"
+  ],
+  "tags": [
+    "supreme-leader",
+    "president",
+    "3rd-president",
+    "deceased"
+  ],
+  "photo": null,
+  "editorial_notes": "Died 28 February 2026. Served as president 1981–1989 and as Supreme Leader 1989–2026."
+}

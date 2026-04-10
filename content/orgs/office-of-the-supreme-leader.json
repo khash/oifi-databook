@@ -1,0 +1,19 @@
+{
+  "entity_id": "office-of-the-supreme-leader",
+  "slug": "office-of-the-supreme-leader",
+  "name_en": "Office of the Supreme Leader",
+  "name_fa": "دفتر مقام معظم رهبری",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 1979,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Office of the Supreme Leader (Daftar-e Maqam-e Mo'azzam-e Rahbari) is the institutional apparatus of the Supreme Leader of Iran. The Supreme Leader holds ultimate authority over all branches of government, the armed forces, the judiciary, and state media under the doctrine of Velayat-e Faqih. The office encompasses numerous subsidiary bodies including the Supreme Leader's Inspection Office, his representatives in the provinces, and his representatives to the IRGC and other military branches.",
+  "faction": "hardliner",
+  "tags": [
+    "supreme-leader",
+    "velayat-e-faqih",
+    "head-of-state"
+  ],
+  "editorial_notes": "Formally separate from the presidency. The Supreme Leader appoints the heads of judiciary, IRGC, state broadcaster, and confirms the president."
+}

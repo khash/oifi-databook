@@ -1,0 +1,29 @@
+{
+  "entity_id": "mahmoud-ahmadinejad",
+  "slug": "mahmoud-ahmadinejad",
+  "name_en": "Mahmoud Ahmadinejad",
+  "name_fa": "محمود احمدی‌نژاد",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Ahmadinejad"
+  ],
+  "born": 1956,
+  "birthplace": "Aradan, Semnan Province",
+  "role": "6th President of Iran (2005–2013)",
+  "faction": "hardliner",
+  "bio": "Mahmoud Ahmadinejad served as mayor of Tehran from 2003 before his presidential election victory in 2005. His two-term presidency was defined by confrontational nuclear rhetoric, Holocaust denial, economic mismanagement, and the disputed 2009 election that triggered the Green Movement. He significantly expanded the IRGC's economic and political power. After leaving office he fell out with Khamenei and was disqualified from subsequent presidential races.",
+  "expertise": [
+    "nuclear policy",
+    "urban governance",
+    "populist economics"
+  ],
+  "tags": [
+    "president",
+    "6th-president",
+    "sanctions",
+    "nuclear-programme",
+    "green-movement"
+  ],
+  "photo": null,
+  "editorial_notes": "Still living as of April 2026. Disqualified from 2017 and 2021 presidential elections by Guardian Council."
+}

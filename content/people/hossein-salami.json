@@ -1,0 +1,29 @@
+{
+  "entity_id": "hossein-salami",
+  "slug": "hossein-salami",
+  "name_en": "Hossein Salami",
+  "name_fa": "حسین سلامی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Major General Salami"
+  ],
+  "born": 1960,
+  "birthplace": "Iran",
+  "role": "IRGC Commander-in-Chief (2019–2025)",
+  "faction": "military-irgc",
+  "bio": "Hossein Salami served as Commander-in-Chief of the IRGC from April 2019, appointed by Khamenei following the removal of Mohammad Ali Jafari. He joined the IRGC in 1980 at the outbreak of the Iran-Iraq War and rose through its Aerospace Force before appointment to the top post. He oversaw the IRGC during the Mahsa Amini crackdown of 2022, the expansion of Iran's ballistic missile and drone programmes, and the direct Iranian strikes against Israel in April 2024. He was reportedly killed in Israeli strikes on Iran in June 2025.",
+  "expertise": [
+    "military strategy",
+    "aerospace warfare",
+    "ballistic missiles",
+    "IRGC doctrine"
+  ],
+  "tags": [
+    "irgc",
+    "commander-in-chief",
+    "sanctions",
+    "deceased"
+  ],
+  "photo": null,
+  "editorial_notes": "Reportedly killed in Israeli strikes on Iran, June 2025. IRGC Commander-in-Chief from April 2019."
+}

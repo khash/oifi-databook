@@ -66,6 +66,15 @@ export function getEntityById(
   return getPersonById(id) ?? getOrgById(id) ?? getEventById(id);
 }
 
+export function getEntityTypeById(
+  id: string,
+): "person" | "org" | "event" | undefined {
+  if (getPersonById(id)) return "person";
+  if (getOrgById(id)) return "org";
+  if (getEventById(id)) return "event";
+  return undefined;
+}
+
 /** Returns all connections where the entity appears as from_entity or to_entity. */
 export function getConnectionsForEntity(entityId: string): Connection[] {
   return getConnections().filter(

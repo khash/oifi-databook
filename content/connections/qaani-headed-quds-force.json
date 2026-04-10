@@ -1,0 +1,21 @@
+{
+  "entity_id": "qaani-headed-quds-force",
+  "from_entity": "esmail-qaani",
+  "to_entity": "irgc-quds-force",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2020",
+  "date_to": "2025",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Esmail_Qaani",
+      "source_title": "Esmail Qaani",
+      "source_date": "2024-01-01",
+      "description": "Qaani was appointed Quds Force commander by Khamenei on 3 January 2020, the same day Soleimani was killed."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Reportedly killed in Israeli strikes on Iran, June 2025."
+}

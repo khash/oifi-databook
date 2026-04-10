@@ -1,0 +1,30 @@
+{
+  "entity_id": "hassan-rouhani",
+  "slug": "hassan-rouhani",
+  "name_en": "Hassan Rouhani",
+  "name_fa": "حسن روحانی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Hassan Fereydoun",
+    "Hojatoleslam Rouhani"
+  ],
+  "born": 1948,
+  "birthplace": "Sorkheh, Semnan Province",
+  "role": "7th President of Iran (2013–2021)",
+  "faction": "pragmatist",
+  "bio": "Hassan Rouhani was elected in 2013 on a centrist platform promising to ease sanctions. He oversaw negotiations that led to the 2015 JCPOA nuclear deal, the signature achievement of his presidency. After the United States withdrew from the JCPOA in 2018, Iran's economy deteriorated sharply. Prior to the presidency he served as Iran's chief nuclear negotiator (2003–2005) and as secretary of the Supreme National Security Council for sixteen years.",
+  "expertise": [
+    "nuclear negotiations",
+    "foreign policy",
+    "national security",
+    "economics"
+  ],
+  "tags": [
+    "president",
+    "7th-president",
+    "jcpoa",
+    "nuclear-negotiations"
+  ],
+  "photo": null,
+  "editorial_notes": "Born Hassan Fereydoun; Rouhani is a clerical honorific. Still living as of April 2026."
+}

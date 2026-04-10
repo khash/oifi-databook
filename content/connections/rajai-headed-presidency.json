@@ -1,0 +1,21 @@
+{
+  "entity_id": "rajai-headed-presidency",
+  "from_entity": "mohammad-ali-rajai",
+  "to_entity": "office-of-the-president",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "1981-08-02",
+  "date_to": "1981-08-30",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad-Ali_Rajai",
+      "source_title": "Mohammad-Ali Rajai",
+      "source_date": "2024-01-01",
+      "description": "Rajai took office as president on August 2, 1981, and was assassinated on August 30, 1981."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

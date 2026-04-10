@@ -1,0 +1,21 @@
+{
+  "entity_id": "arafi-member-of-guardian-council",
+  "from_entity": "alireza-arafi",
+  "to_entity": "guardian-council",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": "2019",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.aljazeera.com/news/2026/3/1/who-are-the-council-members-temporarily-in-charge-of-iran",
+      "source_title": "Who are the council members temporarily in charge of Iran?",
+      "source_date": "2026-03-01",
+      "description": "Arafi described as a Guardian Council member since 2019, named to the post-Khamenei interim leadership council."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Appointed by Khamenei 2019. Named to interim leadership council February 2026."
+}

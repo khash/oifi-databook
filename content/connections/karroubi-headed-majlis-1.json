@@ -1,0 +1,21 @@
+{
+  "entity_id": "karroubi-headed-majlis-1",
+  "from_entity": "mehdi-karroubi",
+  "to_entity": "islamic-consultative-assembly",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "1989",
+  "date_to": "1992",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mehdi_Karroubi",
+      "source_title": "Mehdi Karroubi",
+      "source_date": "2024-01-01",
+      "description": "Karroubi served as Speaker of Parliament in the 3rd session (1989–1992)."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "First of two stints as speaker."
+}

@@ -1,0 +1,30 @@
+{
+  "entity_id": "esmail-qaani",
+  "slug": "esmail-qaani",
+  "name_en": "Esmail Qaani",
+  "name_fa": "اسماعیل قاآنی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Ismail Qaani",
+    "Esmail Ghaani"
+  ],
+  "born": 1957,
+  "birthplace": "Mashhad, Razavi Khorasan Province",
+  "role": "Commander of the IRGC Quds Force (2020–2025)",
+  "faction": "military-irgc",
+  "bio": "Esmail Qaani succeeded Qasem Soleimani as Quds Force commander on the day of Soleimani's assassination, appointed immediately by Khamenei. A veteran of the Iran-Iraq War and longtime Quds Force deputy, his tenure was marked by criticism that he lacked Soleimani's strategic flair and public profile. He oversaw Quds Force operations during the Gaza conflict from 2023 and the broader escalation with Israel. Iranian sources reported he was killed in Israeli strikes on Iran in June 2025.",
+  "expertise": [
+    "unconventional warfare",
+    "eastern front operations",
+    "proxy coordination",
+    "intelligence"
+  ],
+  "tags": [
+    "irgc",
+    "quds-force",
+    "sanctions",
+    "deceased"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 8 August 1957. Appointed 3 January 2020. Reportedly killed in Israeli strikes on Iran, June 2025. US Treasury sanctioned 2012."
+}

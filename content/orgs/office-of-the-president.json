@@ -1,0 +1,18 @@
+{
+  "entity_id": "office-of-the-president",
+  "slug": "office-of-the-president",
+  "name_en": "Presidency of Iran",
+  "name_fa": "ریاست جمهوری ایران",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 1980,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Presidency of the Islamic Republic of Iran is the second-highest office in the political system, below the Supreme Leader. The president is elected by popular vote for four-year terms, with a two-term consecutive limit. The president chairs the cabinet and is responsible for implementing the constitution. The post of prime minister was abolished in the 1989 constitutional revision, merging its powers into the presidency.",
+  "faction": null,
+  "tags": [
+    "executive",
+    "head-of-government"
+  ],
+  "editorial_notes": "Prime minister post abolished 1989. Presidents since 1980: Banisadr, Rajai, Khamenei, Rafsanjani, Khatami, Ahmadinejad, Rouhani, Raisi, Pezeshkian."
+}

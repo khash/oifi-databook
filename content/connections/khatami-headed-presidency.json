@@ -1,0 +1,21 @@
+{
+  "entity_id": "khatami-headed-presidency",
+  "from_entity": "mohammad-khatami",
+  "to_entity": "office-of-the-president",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "1997",
+  "date_to": "2005",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Khatami",
+      "source_title": "Mohammad Khatami",
+      "source_date": "2024-01-01",
+      "description": "Khatami served as president from August 1997 to August 2005."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

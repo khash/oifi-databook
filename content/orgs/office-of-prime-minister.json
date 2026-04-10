@@ -1,0 +1,19 @@
+{
+  "entity_id": "office-of-prime-minister",
+  "slug": "office-of-prime-minister",
+  "name_en": "Office of the Prime Minister",
+  "name_fa": "نخست‌وزیری ایران",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 1906,
+  "dissolved": 1989,
+  "parent_org": null,
+  "description": "The Office of Prime Minister was the head of government position in the Islamic Republic from 1979 to 1989. Under the 1979 constitution, executive power was divided between the president and the prime minister. The role was abolished in the 1989 constitutional revision, which merged its powers into the presidency. Mir-Hossein Mousavi was the last holder of the office.",
+  "faction": null,
+  "tags": [
+    "defunct",
+    "executive",
+    "abolished-1989"
+  ],
+  "editorial_notes": "Office abolished by 1989 constitutional amendment. IRI prime ministers: Mehdi Bazargan (1979), Mohammad-Ali Rajai (1980–81), Mohammad-Javad Bahonar (1981), Mohammad-Reza Mahdavi-Kani (1981), Mir-Hossein Mousavi (1981–89)."
+}

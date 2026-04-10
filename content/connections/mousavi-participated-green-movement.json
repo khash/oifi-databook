@@ -1,0 +1,21 @@
+{
+  "entity_id": "mousavi-participated-green-movement",
+  "from_entity": "mir-hossein-mousavi",
+  "to_entity": "green-movement-protests-2009",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2009-06",
+  "date_to": "2011-02",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mir-Hossein_Mousavi",
+      "source_title": "Mir-Hossein Mousavi",
+      "source_date": "2024-01-01",
+      "description": "Mousavi was the presidential candidate whose disputed loss triggered the Green Movement; he co-led the protest movement until house arrest."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Co-leader with Karroubi. Placed under house arrest February 2011."
+}

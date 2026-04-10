@@ -1,0 +1,21 @@
+{
+  "entity_id": "soleimani-headed-quds-force",
+  "from_entity": "qasem-soleimani",
+  "to_entity": "irgc-quds-force",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "1998",
+  "date_to": "2020",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Qasem_Soleimani",
+      "source_title": "Qasem Soleimani",
+      "source_date": "2024-01-01",
+      "description": "Soleimani commanded the Quds Force from 1998 until his assassination on 3 January 2020."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

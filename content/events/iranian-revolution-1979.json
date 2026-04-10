@@ -1,0 +1,24 @@
+{
+  "entity_id": "iranian-revolution-1979",
+  "slug": "iranian-revolution-1979",
+  "name": "Iranian Revolution",
+  "date": "1979-02-11",
+  "type": "policy",
+  "description": "The Islamic Revolution of 1979 overthrew the Pahlavi monarchy and established the Islamic Republic of Iran. Following months of mass protests, Shah Mohammad Reza Pahlavi fled Iran on 16 January 1979. Ayatollah Khomeini returned from exile on 1 February 1979. The revolutionary government took power on 11 February 1979, the date now commemorated as the Day of Victory of the Islamic Revolution. A constitutional referendum in March confirmed the Islamic Republic, and a new theocratic constitution was approved in December 1979.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Iranian_Revolution",
+      "title": "Iranian Revolution",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": [
+    "revolution",
+    "1979",
+    "founding-event",
+    "khomeini"
+  ],
+  "editorial_notes": "Founding event of the Islamic Republic. All political actors in the database operate within the system this event created."
+}

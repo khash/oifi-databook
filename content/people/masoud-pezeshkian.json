@@ -1,0 +1,26 @@
+{
+  "entity_id": "masoud-pezeshkian",
+  "slug": "masoud-pezeshkian",
+  "name_en": "Masoud Pezeshkian",
+  "name_fa": "مسعود پزشکیان",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1954,
+  "birthplace": "Mahabad, West Azerbaijan Province",
+  "role": "9th President of Iran (2024–present)",
+  "faction": "reformist",
+  "bio": "Masoud Pezeshkian, a cardiac surgeon and long-serving MP for Tabriz, won the snap presidential election of July 2024 following Raisi's death. He ran on a moderate platform and was endorsed by reformist figures including Khatami and Zarif. Ethnically Azerbaijani, he is the first non-Persian-speaking president. He previously served as Minister of Health under Khatami (2001–2005).",
+  "expertise": [
+    "cardiac surgery",
+    "healthcare policy",
+    "parliamentary affairs"
+  ],
+  "tags": [
+    "president",
+    "9th-president",
+    "azerbaijani",
+    "physician"
+  ],
+  "photo": null,
+  "editorial_notes": "Took office 28 July 2024. First Azerbaijani-Iranian president."
+}

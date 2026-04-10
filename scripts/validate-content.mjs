@@ -26,10 +26,10 @@ const EVENT_TYPES = [
   "sanctions", "indictment", "policy", "death",
 ];
 const CONFIDENCE = ["confirmed", "alleged", "disputed", "denied"];
-const FAMILY_SUBTYPES = ["spouse", "sibling", "parent", "child"];
+const FAMILY_SUBTYPES = ["spouse", "sibling", "parent", "child", "in-law"];
 const RELATIONSHIP_TYPES = [
   "reports-to", "appointed-by", "oversees",
-  "member-of", "founded", "led", "served-in", "spokesperson-for",
+  "member-of", "founded", "led", "headed", "served-in", "spokesperson-for",
   "subsidiary-of", "affiliated-with", "funded-by",
   "aligned-with", "opposed", "endorsed", "appointed",
   "organized", "participated-in", "coordinated-with", "directed", "recruited",
@@ -85,28 +85,26 @@ const connections = loadDir("connections");
 const allIds = new Set();
 for (const col of [people, orgs, events]) {
   for (const { file, data } of col) {
-    if (data.id) {
-      if (allIds.has(data.id)) err(file, `Duplicate ID: ${data.id}`);
-      allIds.add(data.id);
+    if (data.entity_id) {
+      if (allIds.has(data.entity_id)) err(file, `Duplicate ID: ${data.entity_id}`);
+      allIds.add(data.entity_id);
     }
   }
 }
 
 // Validate people
 for (const { file, data } of people) {
-  for (const f of ["id", "slug", "name_en", "name_fa", "role", "faction", "bio"]) {
+  for (const f of ["entity_id", "slug", "name_en", "name_fa", "role", "faction", "bio"]) {
     requireField(file, data, f);
   }
-  if (!data.id?.startsWith("person-")) err(file, `ID must start with "person-"`);
   requireEnum(file, data, "faction", FACTIONS);
 }
 
 // Validate orgs
 for (const { file, data } of orgs) {
-  for (const f of ["id", "slug", "name_en", "name_fa", "type", "description"]) {
+  for (const f of ["entity_id", "slug", "name_en", "name_fa", "type", "description"]) {
     requireField(file, data, f);
   }
-  if (!data.id?.startsWith("org-")) err(file, `ID must start with "org-"`);
   requireEnum(file, data, "type", ORG_TYPES);
   if (data.faction) requireEnum(file, data, "faction", FACTIONS);
   if (data.parent_org && !allIds.has(data.parent_org)) {
@@ -116,20 +114,18 @@ for (const { file, data } of orgs) {
 
 // Validate events
 for (const { file, data } of events) {
-  for (const f of ["id", "slug", "name", "date", "type", "description"]) {
+  for (const f of ["entity_id", "slug", "name", "date", "type", "description"]) {
     requireField(file, data, f);
   }
-  if (!data.id?.startsWith("event-")) err(file, `ID must start with "event-"`);
   requireEnum(file, data, "type", EVENT_TYPES);
   if (!data.sources?.length) err(file, "At least one source required");
 }
 
 // Validate connections
 for (const { file, data } of connections) {
-  for (const f of ["id", "from_entity", "to_entity", "type", "confidence"]) {
+  for (const f of ["entity_id", "from_entity", "to_entity", "type", "confidence"]) {
     requireField(file, data, f);
   }
-  if (!data.id?.startsWith("conn-")) err(file, `ID must start with "conn-"`);
   requireEnum(file, data, "type", RELATIONSHIP_TYPES);
   requireEnum(file, data, "confidence", CONFIDENCE);
 
@@ -138,9 +134,6 @@ for (const { file, data } of connections) {
   }
   if (data.to_entity && !allIds.has(data.to_entity)) {
     err(file, `to_entity "${data.to_entity}" not found`);
-  }
-  if (data.from_entity?.startsWith("event-")) {
-    err(file, "Events cannot be from-entities");
   }
   if (SYMMETRIC.includes(data.type) && data.symmetric !== true) {
     err(file, `Type "${data.type}" must have symmetric: true`);

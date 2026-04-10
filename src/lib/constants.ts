@@ -53,6 +53,7 @@ export const FAMILY_SUBTYPES = [
   "sibling",
   "parent",
   "child",
+  "in-law",
 ] as const;
 
 // 26 relationship types across 6 categories
@@ -62,6 +63,7 @@ export const RELATIONSHIP_TYPES = {
     "member-of",
     "founded",
     "led",
+    "headed",
     "served-in",
     "spokesperson-for",
     "subsidiary-of",
@@ -110,6 +112,7 @@ export const INVERSE_LABELS: Record<string, string> = {
   "member-of": "member included",
   founded: "founded by",
   led: "led by",
+  headed: "headed by",
   "served-in": "member included",
   "spokesperson-for": "represented by",
   "subsidiary-of": "parent of",

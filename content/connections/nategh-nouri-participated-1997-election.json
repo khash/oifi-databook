@@ -1,0 +1,21 @@
+{
+  "entity_id": "nategh-nouri-participated-1997-election",
+  "from_entity": "ali-akbar-nategh-nouri",
+  "to_entity": "presidential-election-iran-1997",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1997-05-23",
+  "date_to": "1997-05-23",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/1997_Iranian_presidential_election",
+      "source_title": "1997 Iranian presidential election",
+      "source_date": "2024-01-01",
+      "description": "Nategh-Nouri was the establishment-backed frontrunner who lost to Khatami."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Runner-up. Considered the certain winner before the result."
+}

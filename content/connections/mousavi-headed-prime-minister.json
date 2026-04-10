@@ -1,0 +1,21 @@
+{
+  "entity_id": "mousavi-headed-prime-minister",
+  "from_entity": "mir-hossein-mousavi",
+  "to_entity": "office-of-prime-minister",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "1981",
+  "date_to": "1989",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mir-Hossein_Mousavi",
+      "source_title": "Mir-Hossein Mousavi",
+      "source_date": "2024-01-01",
+      "description": "Mousavi served as Prime Minister 1981–1989, the last person to hold the office before its abolition."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Last Prime Minister in IRI history."
+}

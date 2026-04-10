@@ -1,0 +1,21 @@
+{
+  "entity_id": "haddad-adel-headed-majlis",
+  "from_entity": "gholam-ali-haddad-adel",
+  "to_entity": "islamic-consultative-assembly",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2004",
+  "date_to": "2008",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Gholam-Ali_Haddad-Adel",
+      "source_title": "Gholam-Ali Haddad-Adel",
+      "source_date": "2024-01-01",
+      "description": "Haddad-Adel served as Speaker of the 7th Majlis (2004–2008), the first non-cleric in the role since 1979."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "First non-clerical Speaker in IRI history."
+}

@@ -1,0 +1,26 @@
+{
+  "entity_id": "mohammad-ali-rajai",
+  "slug": "mohammad-ali-rajai",
+  "name_en": "Mohammad-Ali Rajai",
+  "name_fa": "محمدعلی رجایی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Mohammad Ali Rajaei"
+  ],
+  "born": 1933,
+  "birthplace": "Qazvin",
+  "role": "2nd President of the Islamic Republic of Iran (August 1981)",
+  "faction": "hardliner",
+  "bio": "Mohammad-Ali Rajai was Iran's second president, serving for less than one month after his election on 24 July 1981. A committed revolutionary and former teacher, he had previously served as prime minister. He and his prime minister Mohammad-Javad Bahonar were assassinated in a bombing at the prime minister's office on 30 August 1981, an attack attributed to the Mojahedin-e Khalq (MEK).",
+  "expertise": [
+    "revolutionary politics"
+  ],
+  "tags": [
+    "president",
+    "2nd-president",
+    "assassinated",
+    "deceased"
+  ],
+  "photo": null,
+  "editorial_notes": "Assassinated 30 August 1981. Shortest-serving president in IRI history."
+}

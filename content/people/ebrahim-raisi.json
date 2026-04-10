@@ -1,0 +1,31 @@
+{
+  "entity_id": "ebrahim-raisi",
+  "slug": "ebrahim-raisi",
+  "name_en": "Ebrahim Raisi",
+  "name_fa": "ابراهیم رئیسی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Seyyed Ebrahim Raeisi",
+    "Ebrahim Raeisi"
+  ],
+  "born": 1960,
+  "birthplace": "Mashhad, Razavi Khorasan Province",
+  "role": "8th President of Iran (2021–2024)",
+  "faction": "hardliner",
+  "bio": "Ebrahim Raisi was a hardline cleric who served as head of the judiciary from 2019 before being elected president in 2021 in an election with record-low turnout. He is alleged to have been a member of the 'Death Commission' that ordered the mass execution of political prisoners in 1988. He was subject to US Treasury sanctions since 2019. His presidency was dominated by the Mahsa Amini protests of 2022. He died on 19 May 2024 when his helicopter crashed in foggy conditions near the Azerbaijan border.",
+  "expertise": [
+    "Islamic jurisprudence",
+    "judiciary",
+    "national security"
+  ],
+  "tags": [
+    "president",
+    "8th-president",
+    "judiciary",
+    "sanctions",
+    "deceased",
+    "1988-executions"
+  ],
+  "photo": null,
+  "editorial_notes": "Died 19 May 2024 in helicopter crash near Jolfa, East Azerbaijan. US Treasury sanctioned November 2019."
+}

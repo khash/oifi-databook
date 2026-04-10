@@ -1,0 +1,32 @@
+{
+  "entity_id": "mir-hossein-mousavi",
+  "slug": "mir-hossein-mousavi",
+  "name_en": "Mir-Hossein Mousavi",
+  "name_fa": "میرحسین موسوی خامنه",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Mir Hossein Moussavi",
+    "Mousavi Khameneh"
+  ],
+  "born": 1942,
+  "birthplace": "Khameneh, East Azerbaijan Province",
+  "role": "Last Prime Minister of Iran (1981–1989); Green Movement co-leader",
+  "faction": "reformist",
+  "bio": "Mir-Hossein Mousavi served as Iran's last prime minister, managing the economy through the entire Iran-Iraq War. An architect and painter by training, he was a founding figure of the Islamic Republic before gradually moving into opposition. His disputed loss in the 2009 presidential election triggered the Green Movement. He has been under house arrest in Tehran since February 2011. In 2023 he called for a referendum to fundamentally change the constitution, a significant shift from his earlier reformist position. He is a distant relative of Ali Khamenei through a shared ancestral line from Khameneh.",
+  "expertise": [
+    "architecture",
+    "economic management",
+    "foreign policy",
+    "wartime governance"
+  ],
+  "tags": [
+    "prime-minister",
+    "green-movement",
+    "house-arrest",
+    "political-prisoner",
+    "azerbaijani",
+    "architect"
+  ],
+  "photo": null,
+  "editorial_notes": "Under house arrest since February 2011 alongside wife Zahra Rahnavard. Birth year: Wikipedia uses 2 March 1942; Britannica gives 1941. Distant relative of Khamenei."
+}

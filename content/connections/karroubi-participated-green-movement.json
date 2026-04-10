@@ -1,0 +1,21 @@
+{
+  "entity_id": "karroubi-participated-green-movement",
+  "from_entity": "mehdi-karroubi",
+  "to_entity": "green-movement-protests-2009",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2009-06",
+  "date_to": "2011-02",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mehdi_Karroubi",
+      "source_title": "Mehdi Karroubi",
+      "source_date": "2024-01-01",
+      "description": "Karroubi was a co-leader of the Green Movement from June 2009 until he was placed under house arrest in February 2011."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Co-leader with Mousavi."
+}

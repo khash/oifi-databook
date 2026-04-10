@@ -1,0 +1,26 @@
+{
+  "entity_id": "mahsa-amini-protests-2022",
+  "slug": "mahsa-amini-protests-2022",
+  "name": "Mahsa Amini Protests (Woman, Life, Freedom)",
+  "date": "2022-09-16",
+  "type": "protest",
+  "description": "Following the death of 22-year-old Mahsa (Zhina) Amini in morality police custody on 16 September 2022, nationwide protests erupted under the slogan Woman, Life, Freedom (Zan, Zendegi, Azadi). The protests were the most sustained unrest in the history of the Islamic Republic, continuing for months across all provinces. Security forces killed over 500 protesters according to human rights organisations. Over 15,000 people were arrested. The protests were characterised by women publicly removing and burning their headscarves.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mahsa_Amini_protests",
+      "title": "Mahsa Amini protests",
+      "date": "2022-09-16",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": [
+    "protest",
+    "2022",
+    "mahsa-amini",
+    "woman-life-freedom",
+    "hijab",
+    "morality-police"
+  ],
+  "editorial_notes": "Considered the most serious challenge to the IRI since 1979 by many analysts. Directly preceded the snap election of 2024 in political consequence."
+}

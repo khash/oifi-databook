@@ -1,0 +1,30 @@
+{
+  "entity_id": "ahmad-jannati",
+  "slug": "ahmad-jannati",
+  "name_en": "Ahmad Jannati",
+  "name_fa": "احمد جنتی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Ayatollah Jannati",
+    "Ahmad Jannati Massah"
+  ],
+  "born": 1927,
+  "birthplace": "Ladan, Isfahan Province",
+  "role": "Secretary of the Guardian Council (1992–present); former Chairman of Assembly of Experts",
+  "faction": "hardliner",
+  "bio": "Ahmad Jannati has been a member of the Guardian Council since its founding in 1980, and its secretary since 1992 — the longest-tenured figure in any constitutional body of the Islamic Republic. A founding member of the hardline Haghani Seminary in Qom alongside Mohammad-Taqi Mesbah Yazdi, he is among the most extreme voices in Iranian politics, repeatedly calling for the execution of political opponents and systematically disqualifying reformist candidates. He served concurrently as Chairman of the Assembly of Experts. His continuation in office into his late nineties has been attributed to political calculation over capacity.",
+  "expertise": [
+    "Islamic jurisprudence",
+    "electoral vetting",
+    "constitutional law"
+  ],
+  "tags": [
+    "guardian-council",
+    "assembly-of-experts",
+    "hardliner",
+    "clerical",
+    "haghani-school"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 23 February 1927. Guardian Council member since 1980, secretary since 1992. One of the longest-serving officials in IRI history."
+}

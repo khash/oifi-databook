@@ -1,0 +1,21 @@
+{
+  "entity_id": "raisi-headed-presidency",
+  "from_entity": "ebrahim-raisi",
+  "to_entity": "office-of-the-president",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2021",
+  "date_to": "2024",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ebrahim_Raisi",
+      "source_title": "Ebrahim Raisi",
+      "source_date": "2024-05-20",
+      "description": "Raisi served as president from August 2021 until his death on May 19, 2024."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Died in office."
+}

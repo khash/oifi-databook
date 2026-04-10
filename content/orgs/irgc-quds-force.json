@@ -1,0 +1,21 @@
+{
+  "entity_id": "irgc-quds-force",
+  "slug": "irgc-quds-force",
+  "name_en": "IRGC Quds Force",
+  "name_fa": "نیروی قدس سپاه",
+  "has_native_fa_name": true,
+  "type": "military",
+  "founded": 1990,
+  "dissolved": null,
+  "parent_org": "islamic-revolutionary-guard-corps",
+  "description": "The Quds Force (Jerusalem Force) is the IRGC branch responsible for extraterritorial operations, unconventional warfare, and support to non-state allies. It reports directly to the Supreme Leader. The Quds Force supports Hezbollah in Lebanon, Hamas and Palestinian Islamic Jihad in Gaza, the Houthis in Yemen, and Shia militias in Iraq and Syria. It has been described by the US military as analogous to a combination of the CIA and JSOC.",
+  "faction": "hardliner",
+  "tags": [
+    "irgc",
+    "quds-force",
+    "extraterritorial",
+    "proxy-warfare",
+    "sanctions"
+  ],
+  "editorial_notes": "Reports directly to Supreme Leader. Designated terrorist organisation by USA (2019), Canada (2012)."
+}

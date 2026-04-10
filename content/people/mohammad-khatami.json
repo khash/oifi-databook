@@ -1,0 +1,29 @@
+{
+  "entity_id": "mohammad-khatami",
+  "slug": "mohammad-khatami",
+  "name_en": "Mohammad Khatami",
+  "name_fa": "محمد خاتمی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Seyyed Mohammad Khatami"
+  ],
+  "born": 1943,
+  "birthplace": "Ardakan, Yazd Province",
+  "role": "5th President of Iran (1997–2005)",
+  "faction": "reformist",
+  "bio": "Mohammad Khatami was elected president in a landslide in 1997, winning around 70% of the vote on a platform of civil society, rule of law, and a Dialogue Among Civilizations. His two terms represented the peak of the reformist movement, marked by a free press and attempts to improve relations with the West. His reform agenda was consistently blocked by the Guardian Council and judiciary.",
+  "expertise": [
+    "civil society",
+    "political philosophy",
+    "foreign policy",
+    "cultural dialogue"
+  ],
+  "tags": [
+    "president",
+    "5th-president",
+    "reformist-movement",
+    "2nd-khordad"
+  ],
+  "photo": null,
+  "editorial_notes": "Still living as of April 2026. Key figure of the 2nd Khordad reformist movement."
+}

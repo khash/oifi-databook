@@ -1,0 +1,21 @@
+{
+  "entity_id": "khomeini-headed-supreme-leader-office",
+  "from_entity": "ruhollah-khomeini",
+  "to_entity": "office-of-the-supreme-leader",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1989",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ruhollah_Khomeini",
+      "source_title": "Ruhollah Khomeini",
+      "source_date": "2024-01-01",
+      "description": "Khomeini was appointed Supreme Leader under the 1979 constitution and held the position until his death in 1989."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

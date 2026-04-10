@@ -1,0 +1,32 @@
+{
+  "entity_id": "qasem-soleimani",
+  "slug": "qasem-soleimani",
+  "name_en": "Qasem Soleimani",
+  "name_fa": "قاسم سلیمانی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Qassem Soleimani",
+    "Haj Qasem"
+  ],
+  "born": 1957,
+  "birthplace": "Qanat-e Malek, Kerman Province",
+  "role": "Commander of the IRGC Quds Force (1998–2020)",
+  "faction": "military-irgc",
+  "bio": "Qasem Soleimani rose from a working-class background in Kerman to become the architect of Iran's network of regional proxies — Hezbollah, Shia militias in Iraq, the Houthis, and forces in Syria. As Quds Force commander from 1998 until his assassination, he was widely described as the most powerful military operative in the Middle East. He directed Iranian intervention in Syria from 2012 and was the primary coordinator of Iran's Axis of Resistance. He was killed on 3 January 2020 in a US drone strike at Baghdad International Airport, authorised by President Trump.",
+  "expertise": [
+    "unconventional warfare",
+    "proxy network management",
+    "regional strategy",
+    "intelligence operations"
+  ],
+  "tags": [
+    "irgc",
+    "quds-force",
+    "sanctions",
+    "assassinated",
+    "deceased",
+    "axis-of-resistance"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 11 March 1957. Killed 3 January 2020 in US drone strike near Baghdad Airport. US Treasury sanctioned 2011. Khamenei led prayers at his funeral, weeping openly."
+}

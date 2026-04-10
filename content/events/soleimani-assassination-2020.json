@@ -1,0 +1,25 @@
+{
+  "entity_id": "soleimani-assassination-2020",
+  "slug": "soleimani-assassination-2020",
+  "name": "Assassination of Qasem Soleimani",
+  "date": "2020-01-03",
+  "type": "death",
+  "description": "Qasem Soleimani, commander of the IRGC Quds Force, was killed in a US drone strike on his convoy outside Baghdad International Airport on 3 January 2020, authorised by President Trump. Also killed was Abu Mahdi al-Muhandis, deputy commander of Iraq's Popular Mobilization Forces. Iran vowed retaliation and launched ballistic missile strikes on US bases in Iraq days later. Esmail Qaani was appointed Quds Force commander the same day.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Assassination_of_Qasem_Soleimani",
+      "title": "Assassination of Qasem Soleimani",
+      "date": "2020-01-03",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": [
+    "assassination",
+    "us-strike",
+    "quds-force",
+    "2020",
+    "baghdad"
+  ],
+  "editorial_notes": "Triggered Iranian ballistic missile strikes on Ain al-Assad base in Iraq on 8 January 2020."
+}

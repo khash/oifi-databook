@@ -1,0 +1,29 @@
+{
+  "entity_id": "gholam-ali-haddad-adel",
+  "slug": "gholam-ali-haddad-adel",
+  "name_en": "Gholam-Ali Haddad-Adel",
+  "name_fa": "غلامعلی حداد عادل",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Haddad Adel"
+  ],
+  "born": 1945,
+  "birthplace": "Tehran",
+  "role": "Speaker of Parliament (2004–2008); Head of Iranian Academy of Persian Language and Literature",
+  "faction": "conservative",
+  "bio": "Gholam-Ali Haddad-Adel is a philosopher and politician who served as Speaker of Parliament from 2004 to 2008, the first non-cleric to hold the role since the 1979 revolution. He holds a PhD in philosophy from the University of Tehran and has led the Iranian Academy of Persian Language and Literature since 1995. His daughter Zahra married Mojtaba Khamenei, son of the Supreme Leader, making Haddad-Adel one of the most personally connected figures to the supreme leadership. He is a senior member of the principlist Alliance of Builders of Islamic Iran.",
+  "expertise": [
+    "Islamic philosophy",
+    "Persian language policy",
+    "parliamentary affairs",
+    "cultural policy"
+  ],
+  "tags": [
+    "majlis-speaker",
+    "conservative",
+    "khamenei-family",
+    "persian-academy"
+  ],
+  "photo": null,
+  "editorial_notes": "Father-in-law of Mojtaba Khamenei (son of Supreme Leader). First non-clerical Majlis Speaker in IRI history. Adviser to Supreme Leader since 2008."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "massoud-rajavi-aligned-with-abolhassan-banisadr",
+  "from_entity": "massoud-rajavi",
+  "to_entity": "abolhassan-banisadr",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "1981",
+  "date_to": "1984",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Co-founded NCRI; fled Iran together in 1981; Banisadr left NCRI in 1984"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

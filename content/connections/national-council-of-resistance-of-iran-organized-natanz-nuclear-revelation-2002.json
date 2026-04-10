@@ -1,0 +1,21 @@
+{
+  "entity_id": "national-council-of-resistance-of-iran-organized-natanz-nuclear-revelation-2002",
+  "from_entity": "national-council-of-resistance-of-iran",
+  "to_entity": "natanz-nuclear-revelation-2002",
+  "type": "organized",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "NCRI spokesman Jafarzadeh held the press conference revealing the sites"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

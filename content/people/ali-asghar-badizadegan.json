@@ -1,0 +1,18 @@
+{
+  "entity_id": "ali-asghar-badizadegan",
+  "slug": "ali-asghar-badizadegan",
+  "name_en": "Ali-Asghar Badizadegan",
+  "name_fa": "علی‌اصغر بدیع‌زادگان",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1939,
+  "birthplace": null,
+  "role": "Co-founder of Mojahedin-e Khalq (MEK)",
+  "faction": "opposition",
+  "bio": "Ali-Asghar Badizadegan was an engineer and one of the three co-founders of the [Mojahedin-e Khalq](/orgs/mojahedin-e-khalq) alongside [Mohammad Hanifnejad](/people/mohammad-hanifnejad) and [Saeed Mohsen](/people/saeed-mohsen). He helped establish the MEK's intellectual foundations, blending progressive Islamic thought with revolutionary theory. He was arrested by SAVAK in 1971 and executed on 25 May 1972.",
+  "irgc_member": false,
+  "expertise": ["revolutionary theory"],
+  "tags": ["deceased"],
+  "photo": null,
+  "editorial_notes": "Executed by Shah's regime. Exact birth year uncertain."
+}

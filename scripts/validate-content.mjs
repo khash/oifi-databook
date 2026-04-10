@@ -37,6 +37,14 @@ const RELATIONSHIP_TYPES = [
   "family-of", "mentor-of",
 ];
 const SYMMETRIC = ["aligned-with", "family-of"];
+const ENTITY_TAGS = [
+  "deceased", "assassinated", "killed-in-action", "political-prisoner",
+  "house-arrest", "in-exile", "defunct", "banned",
+  "judiciary", "intelligence", "clerical", "parliament", "executive",
+  "military", "nuclear", "diplomacy",
+  "sanctions", "human-rights", "jcpoa", "green-movement", "woman-life-freedom",
+  "1988-massacre", "chain-murders", "electoral-vetting", "proxy-warfare",
+];
 
 let errors = 0;
 
@@ -98,6 +106,9 @@ for (const { file, data } of people) {
     requireField(file, data, f);
   }
   requireEnum(file, data, "faction", FACTIONS);
+  for (const t of data.tags ?? []) {
+    if (!ENTITY_TAGS.includes(t)) err(file, `Invalid tag: "${t}"`);
+  }
 }
 
 // Validate orgs
@@ -110,6 +121,9 @@ for (const { file, data } of orgs) {
   if (data.parent_org && !allIds.has(data.parent_org)) {
     err(file, `parent_org "${data.parent_org}" not found`);
   }
+  for (const t of data.tags ?? []) {
+    if (!ENTITY_TAGS.includes(t)) err(file, `Invalid tag: "${t}"`);
+  }
 }
 
 // Validate events
@@ -119,6 +133,9 @@ for (const { file, data } of events) {
   }
   requireEnum(file, data, "type", EVENT_TYPES);
   if (!data.sources?.length) err(file, "At least one source required");
+  for (const t of data.tags ?? []) {
+    if (!ENTITY_TAGS.includes(t)) err(file, `Invalid tag: "${t}"`);
+  }
 }
 
 // Validate connections

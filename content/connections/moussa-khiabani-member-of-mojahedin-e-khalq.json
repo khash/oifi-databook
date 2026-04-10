@@ -1,0 +1,21 @@
+{
+  "entity_id": "moussa-khiabani-member-of-mojahedin-e-khalq",
+  "from_entity": "moussa-khiabani",
+  "to_entity": "mojahedin-e-khalq",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1982",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Deputy leader and armed wing commander 1979-1982"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

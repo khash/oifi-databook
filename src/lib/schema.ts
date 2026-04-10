@@ -6,6 +6,7 @@ import {
   CONFIDENCE_LEVELS,
   FAMILY_SUBTYPES,
   ALL_RELATIONSHIP_TYPES,
+  ENTITY_TAGS,
 } from "./constants";
 
 // ---------------------------------------------------------------------------
@@ -52,7 +53,7 @@ export const personSchema = z.object({
   bio: z.string(),
   irgc_member: z.boolean(),
   expertise: z.array(z.string()),
-  tags: z.array(z.string()),
+  tags: z.array(z.enum(ENTITY_TAGS)),
   photo: z.string().nullable(),
   editorial_notes: z.string(),
 });
@@ -69,7 +70,7 @@ export const orgSchema = z.object({
   parent_org: z.string().nullable(),
   description: z.string(),
   faction: z.enum(FACTIONS).nullable(),
-  tags: z.array(z.string()),
+  tags: z.array(z.enum(ENTITY_TAGS)),
   editorial_notes: z.string(),
 });
 
@@ -82,7 +83,7 @@ export const eventSchema = z.object({
   description: z.string(),
   body: z.string().nullable(),
   sources: z.array(sourceSchema),
-  tags: z.array(z.string()),
+  tags: z.array(z.enum(ENTITY_TAGS)),
   editorial_notes: z.string(),
 });
 

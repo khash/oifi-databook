@@ -1,0 +1,21 @@
+{
+  "entity_id": "operation-forough-e-javidan-1988-named-in-ruhollah-khomeini",
+  "from_entity": "operation-forough-e-javidan-1988",
+  "to_entity": "ruhollah-khomeini",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Launched six days after Khomeini accepted the ceasefire"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -11,11 +11,7 @@
   "description": "The Haghani Seminary (Howzeh-ye Elmieh-ye Haqqani) is a hardline Shia seminary in Qom co-founded in the 1960s by [Mohammad-Taqi Mesbah Yazdi](/people/mohammad-taqi-mesbah-yazdi), Mohammad Beheshti, and [Ahmad Jannati](/people/ahmad-jannati). Described as 'a kind of École Nationale d'Administration for the Islamic Republic', its graduates form the backbone of the clerical management class in Iran's key political and security institutions. The seminary operates under a strict interpretation of velayat-e faqih and has been the primary incubator of the Haghani Circle ideology.",
   "faction": "hardliner",
   "tags": [
-    "seminary",
-    "qom",
-    "hardliner",
-    "haghani-circle",
-    "clerical-training"
+    "clerical"
   ],
   "editorial_notes": "Founded 1964, originally Muntashiriya. Renamed after assassinations of founding members Beheshti and Qodousi in 1981. Centre of the Haghani Circle ideological network."
 }

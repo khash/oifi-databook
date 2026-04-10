@@ -1,0 +1,21 @@
+{
+  "entity_id": "ruhollah-khomeini-opposed-mojahedin-e-khalq",
+  "from_entity": "ruhollah-khomeini",
+  "to_entity": "mojahedin-e-khalq",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": "1981",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Khomeini declared MEK 'monafeqin' (hypocrites) and ordered their suppression"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

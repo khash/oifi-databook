@@ -1,0 +1,21 @@
+{
+  "entity_id": "maryam-rajavi-named-in-ruhollah-khomeini",
+  "from_entity": "maryam-rajavi",
+  "to_entity": "ruhollah-khomeini",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Khomeini's regime executed her sister; catalyzed her political activism"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

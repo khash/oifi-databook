@@ -1,0 +1,21 @@
+{
+  "entity_id": "national-liberation-army-of-iran-subsidiary-of-mojahedin-e-khalq",
+  "from_entity": "national-liberation-army-of-iran",
+  "to_entity": "mojahedin-e-khalq",
+  "type": "subsidiary-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "NLA was the armed wing of the MEK"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

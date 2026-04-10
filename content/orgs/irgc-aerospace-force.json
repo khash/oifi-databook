@@ -11,12 +11,8 @@
   "description": "The IRGC Aerospace Force (Niruy-e Hava-Faza-ye Sepah) is the branch of the [Islamic Revolutionary Guard Corps](/orgs/islamic-revolutionary-guard-corps) responsible for Iran's ballistic missile programme, satellite launches, and UAV (drone) operations. Founded in 1985 as the IRGC Air Force, it was expanded from 1989 onward under Supreme Leader [Ali Khamenei](/people/ali-khamenei). Its role was elevated dramatically by the appointment of [Amir Ali Hajizadeh](/people/amir-ali-hajizadeh) as commander in 2009. The force operates Iran's arsenal of short-, medium-, and long-range ballistic missiles — including the Shahab, Emad, and Fattah-1 hypersonic series — as well as a large UAV fleet including the Shahed loitering munitions. It directed the January 2020 strikes on US bases, the April and October 2024 direct strikes on Israel, and the Strait of Hormuz drone campaign. It was responsible for the accidental shoot-down of Ukrainian Airlines PS752 in January 2020. [Hajizadeh](/people/amir-ali-hajizadeh) was killed in an Israeli airstrike in June 2025; he was succeeded by Hossein Mousavi Eftekhari.",
   "faction": "hardliner",
   "tags": [
-    "irgc",
     "military",
-    "missiles",
-    "drones",
-    "aerospace",
-    "nuclear-delivery"
+    "nuclear"
   ],
   "editorial_notes": "Formally founded September 1985. Became primary instrument of Iran's deterrence strategy from 2009 onward. Operated PS752 shoot-down. Hajizadeh commanded 2009–June 2025."
 }

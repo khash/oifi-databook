@@ -28,6 +28,37 @@ export const ORG_TYPES = [
   "religious",
 ] as const;
 
+export const ENTITY_TAGS = [
+  // Status
+  "deceased",
+  "assassinated",
+  "killed-in-action",
+  "political-prisoner",
+  "house-arrest",
+  "in-exile",
+  "defunct",
+  "banned",
+  // Domain
+  "judiciary",
+  "intelligence",
+  "clerical",
+  "parliament",
+  "executive",
+  "military",
+  "nuclear",
+  "diplomacy",
+  // Thematic
+  "sanctions",
+  "human-rights",
+  "jcpoa",
+  "green-movement",
+  "woman-life-freedom",
+  "1988-massacre",
+  "chain-murders",
+  "electoral-vetting",
+  "proxy-warfare",
+] as const;
+
 export const EVENT_TYPES = [
   "election",
   "appointment",

@@ -1,0 +1,21 @@
+{
+  "entity_id": "national-liberation-army-of-iran-organized-operation-forough-e-javidan-1988",
+  "from_entity": "national-liberation-army-of-iran",
+  "to_entity": "operation-forough-e-javidan-1988",
+  "type": "organized",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "NLA launched the offensive from Iraqi territory"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

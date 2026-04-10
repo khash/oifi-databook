@@ -1,0 +1,21 @@
+{
+  "entity_id": "mojahedin-e-khalq-organized-operation-forough-e-javidan-1988",
+  "from_entity": "mojahedin-e-khalq",
+  "to_entity": "operation-forough-e-javidan-1988",
+  "type": "organized",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "MEK organized the failed military offensive from Iraq"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

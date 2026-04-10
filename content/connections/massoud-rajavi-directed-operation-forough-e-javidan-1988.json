@@ -1,0 +1,21 @@
+{
+  "entity_id": "massoud-rajavi-directed-operation-forough-e-javidan-1988",
+  "from_entity": "massoud-rajavi",
+  "to_entity": "operation-forough-e-javidan-1988",
+  "type": "directed",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Rajavi ordered and commanded the operation"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

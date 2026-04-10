@@ -7,6 +7,7 @@ import { GraphExplorer } from "@/components/GraphExplorer"
 import { renderMarkdown, stripMarkdown } from "@/lib/markdown"
 import type { Event } from "@/lib/types"
 import { ConnectionsList } from "@/components/ConnectionsList"
+import FormattedDate from "@/components/FormattedDate.astro"
 import { INVERSE_LABELS } from "@/lib/constants"
 
 export function getStaticPaths() {
@@ -45,7 +46,7 @@ const jsonLd = {
 >
   <div data-pagefind-body>
     <h1 class="text-2xl font-bold" data-pagefind-meta="title">{event.name}</h1>
-    <p class="mt-1 text-sm text-muted-foreground">{event.date}</p>
+    <p class="mt-1 text-sm text-muted-foreground"><FormattedDate date={event.date} /></p>
 
     <div class="mt-2 flex flex-wrap items-center gap-2">
       <Badge variant="secondary">{event.type.replace(/-/g, " ")}</Badge>
@@ -89,7 +90,7 @@ const jsonLd = {
               <a href={src.url} target="_blank" rel="noopener noreferrer" class="font-medium hover:underline">
                 {src.title}
               </a>
-              <span class="text-muted-foreground"> &middot; {src.publisher} &middot; {src.date}</span>
+              <span class="text-muted-foreground"> &middot; {src.publisher}{src.date && <> &middot; <FormattedDate date={src.date} /></>}</span>
             </li>
           ))}
         </ul>

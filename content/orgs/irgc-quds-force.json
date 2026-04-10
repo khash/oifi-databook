@@ -11,9 +11,6 @@
   "description": "The Quds Force (Jerusalem Force) is the [IRGC](/orgs/islamic-revolutionary-guard-corps) branch responsible for extraterritorial operations, unconventional warfare, and support to non-state allies. It reports directly to the Supreme Leader. The Quds Force supports [Hezbollah](/orgs/hezbollah) in Lebanon, Hamas and Palestinian Islamic Jihad in Gaza, the Houthis in Yemen, and Shia militias in Iraq and Syria. It has been described by the US military as analogous to a combination of the CIA and JSOC.",
   "faction": "hardliner",
   "tags": [
-    "irgc",
-    "quds-force",
-    "extraterritorial",
     "proxy-warfare",
     "sanctions"
   ],

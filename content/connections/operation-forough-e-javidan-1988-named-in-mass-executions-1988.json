@@ -1,0 +1,21 @@
+{
+  "entity_id": "operation-forough-e-javidan-1988-named-in-mass-executions-1988",
+  "from_entity": "operation-forough-e-javidan-1988",
+  "to_entity": "mass-executions-1988",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "The failed operation provided a pretext for the regime to execute MEK prisoners"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

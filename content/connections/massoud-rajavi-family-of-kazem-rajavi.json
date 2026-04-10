@@ -1,0 +1,21 @@
+{
+  "entity_id": "massoud-rajavi-family-of-kazem-rajavi",
+  "from_entity": "massoud-rajavi",
+  "to_entity": "kazem-rajavi",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Brothers"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "sibling",
+  "editorial_notes": ""
+}

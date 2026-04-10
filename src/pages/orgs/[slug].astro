@@ -8,6 +8,7 @@ import { renderMarkdown, stripMarkdown } from "@/lib/markdown"
 import type { Org } from "@/lib/types"
 import { INVERSE_LABELS } from "@/lib/constants"
 import { FactionSpectrum } from "@/components/FactionSpectrum"
+import FormattedDate from "@/components/FormattedDate.astro"
 import { ConnectionsList } from "@/components/ConnectionsList"
 
 export function getStaticPaths() {
@@ -55,8 +56,8 @@ const jsonLd = {
 
     <p class="mt-1 text-sm text-muted-foreground">
       {org.type.replace(/-/g, " ")}
-      {org.founded && <span> &middot; Founded {org.founded}</span>}
-      {org.dissolved && <span> &middot; Dissolved {org.dissolved}</span>}
+      {org.founded && <span> &middot; Founded <FormattedDate date={String(org.founded)} /></span>}
+      {org.dissolved && <span> &middot; Dissolved <FormattedDate date={String(org.dissolved)} /></span>}
       {parentOrg && (
         <span>
           {" "}&middot; Part of{" "}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "national-liberation-army-of-iran-participated-in-iran-iraq-war",
+  "from_entity": "national-liberation-army-of-iran",
+  "to_entity": "iran-iraq-war",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "NLA fought alongside Iraqi forces during the Iran-Iraq War"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

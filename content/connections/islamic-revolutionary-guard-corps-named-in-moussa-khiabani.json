@@ -1,0 +1,21 @@
+{
+  "entity_id": "islamic-revolutionary-guard-corps-named-in-moussa-khiabani",
+  "from_entity": "islamic-revolutionary-guard-corps",
+  "to_entity": "moussa-khiabani",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "IRGC raided Khiabani's safehouse and killed him on 8 February 1982"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

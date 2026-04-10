@@ -1,0 +1,18 @@
+{
+  "entity_id": "natanz-nuclear-revelation-2002",
+  "slug": "natanz-nuclear-revelation-2002",
+  "name": "Natanz Nuclear Revelation",
+  "date": "2002-08-14",
+  "type": "leak",
+  "description": "On 14 August 2002, [NCRI](/orgs/national-council-of-resistance-of-iran) spokesman Alireza Jafarzadeh held a press conference in Washington revealing the existence of two secret Iranian nuclear sites: the Natanz uranium enrichment facility and the Arak heavy water production facility, based on intelligence from the [Mojahedin-e Khalq](/orgs/mojahedin-e-khalq)'s network inside Iran. This revelation triggered the first IAEA inspections of Iranian nuclear sites in 2003, which confirmed traces of enriched uranium despite Iranian decontamination efforts. The disclosure ultimately led to six UN Security Council resolutions against Iran and set in motion the international confrontation over Iran's nuclear program that culminated in the [JCPOA](/events/jcpoa-nuclear-deal-2015).",
+  "body": null,
+  "sources": [
+    {
+      "source_url": "https://www.ncrius.org/the-landmark-natanz-revelation.html",
+      "source_title": "The Landmark Natanz Revelation — NCRI-US",
+      "source_date": "2002-08-14"
+    }
+  ],
+  "tags": ["nuclear"],
+  "editorial_notes": "Intelligence came from MEK's covert network inside Iran. Led directly to the IAEA inspection regime."
+}

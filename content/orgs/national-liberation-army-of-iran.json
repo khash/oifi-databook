@@ -1,0 +1,15 @@
+{
+  "entity_id": "national-liberation-army-of-iran",
+  "slug": "national-liberation-army-of-iran",
+  "name_en": "National Liberation Army of Iran",
+  "name_fa": "ارتش آزادیبخش ملی ایران",
+  "has_native_fa_name": true,
+  "type": "military",
+  "founded": 1987,
+  "dissolved": 2003,
+  "parent_org": "mojahedin-e-khalq",
+  "description": "The National Liberation Army of Iran (NLA) was the armed wing of the [Mojahedin-e Khalq](/orgs/mojahedin-e-khalq), founded in 1987 in Iraq with Saddam Hussein's support. It fielded approximately 7,000 fighters equipped with Iraqi-supplied weapons and armored vehicles. Its most significant operation was [Operation Forough-e Javidan](/events/operation-forough-e-javidan-1988) on 26 July 1988, a failed offensive into western Iran that was repelled by Iranian forces with devastating losses. The NLA was effectively disbanded after the 2003 US invasion of Iraq when its members were disarmed by American forces.",
+  "faction": "opposition",
+  "tags": ["defunct", "military"],
+  "editorial_notes": "Camp Ashraf was the NLA's main base in Iraq's Diyala Province."
+}

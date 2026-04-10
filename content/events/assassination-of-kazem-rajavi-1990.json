@@ -1,0 +1,18 @@
+{
+  "entity_id": "assassination-of-kazem-rajavi-1990",
+  "slug": "assassination-of-kazem-rajavi-1990",
+  "name": "Assassination of Kazem Rajavi",
+  "date": "1990-04-24",
+  "type": "death",
+  "description": "On 24 April 1990, [Kazem Rajavi](/people/kazem-rajavi) — professor of political science at the University of Geneva, human rights advocate, and elder brother of MEK leader [Massoud Rajavi](/people/massoud-rajavi) — was assassinated near his home in Coppet, Switzerland. He was shot at close range by multiple [Iranian intelligence](/orgs/ministry-of-intelligence) agents who had entered Switzerland on diplomatic passports. [Ali Fallahian](/people/ali-fallahian), then intelligence minister under [Akbar Hashemi Rafsanjani](/people/akbar-hashemi-rafsanjani), was charged by a Swiss court with masterminding the operation. In 2020, the Swiss case was reopened to be investigated as a crime against humanity.",
+  "body": null,
+  "sources": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Kazem_Rajavi",
+      "source_title": "Kazem Rajavi — Wikipedia",
+      "source_date": null
+    }
+  ],
+  "tags": ["assassinated", "intelligence", "human-rights"],
+  "editorial_notes": "Part of a broader pattern of extraterritorial assassinations alongside the Mykonos and chain murders."
+}

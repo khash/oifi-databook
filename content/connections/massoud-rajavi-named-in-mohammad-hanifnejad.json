@@ -1,0 +1,21 @@
+{
+  "entity_id": "massoud-rajavi-named-in-mohammad-hanifnejad",
+  "from_entity": "massoud-rajavi",
+  "to_entity": "mohammad-hanifnejad",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Rajavi was mentored by Hanifnejad after joining MEK in 1967"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

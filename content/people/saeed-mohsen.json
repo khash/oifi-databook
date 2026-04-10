@@ -1,0 +1,18 @@
+{
+  "entity_id": "saeed-mohsen",
+  "slug": "saeed-mohsen",
+  "name_en": "Saeed Mohsen",
+  "name_fa": "سعید محسن",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1939,
+  "birthplace": null,
+  "role": "Co-founder of Mojahedin-e Khalq (MEK)",
+  "faction": "opposition",
+  "bio": "Saeed Mohsen was an engineer and one of the three co-founders of the [Mojahedin-e Khalq](/orgs/mojahedin-e-khalq), established on 6 September 1965 alongside [Mohammad Hanifnejad](/people/mohammad-hanifnejad) and [Ali-Asghar Badizadegan](/people/ali-asghar-badizadegan). A former member of the Freedom Movement, he helped build the MEK's early organizational structure. He was arrested by SAVAK in 1971 and executed on 25 May 1972.",
+  "irgc_member": false,
+  "expertise": ["political organizing"],
+  "tags": ["deceased"],
+  "photo": null,
+  "editorial_notes": "Executed by Shah's regime. Exact birth year uncertain."
+}

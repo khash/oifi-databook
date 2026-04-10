@@ -1,0 +1,13 @@
+---
+import { formatDate } from "@/lib/date"
+
+interface Props {
+  date: string
+  class?: string
+}
+
+const { date, class: className } = Astro.props
+const { display, persian } = formatDate(date)
+---
+
+<span class={className} title={persian}>{display}</span>

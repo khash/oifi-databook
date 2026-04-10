@@ -1,0 +1,21 @@
+{
+  "entity_id": "massoud-rajavi-family-of-ashraf-rabiei",
+  "from_entity": "massoud-rajavi",
+  "to_entity": "ashraf-rabiei",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": "1980",
+  "date_to": "1982",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Married in 1980; Ashraf killed 1982"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "spouse",
+  "editorial_notes": ""
+}

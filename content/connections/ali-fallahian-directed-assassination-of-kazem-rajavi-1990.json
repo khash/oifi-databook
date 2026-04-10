@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-fallahian-directed-assassination-of-kazem-rajavi-1990",
+  "from_entity": "ali-fallahian",
+  "to_entity": "assassination-of-kazem-rajavi-1990",
+  "type": "directed",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Charged by Swiss court with masterminding the assassination"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "massoud-rajavi-led-mojahedin-e-khalq",
+  "from_entity": "massoud-rajavi",
+  "to_entity": "mojahedin-e-khalq",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "2003",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Leader of MEK from 1979 until his disappearance in 2003"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -7,6 +7,7 @@ import {
   SelectValue,
 } from "@/components/ui/select";
 import { ConfidenceBadge } from "./ConfidenceBadge";
+import { FormattedDate } from "@/components/FormattedDate";
 
 interface ConnectionItem {
   type: string;
@@ -57,7 +58,22 @@ export function ConnectionsList({ connections }: { connections: ConnectionItem[]
               {conn.otherName}
             </a>
             <div className="flex items-center gap-1 text-xs text-muted-foreground">
-              <span>{conn.label}{conn.dateFrom ? ` (${conn.dateFrom}${conn.dateTo ? `–${conn.dateTo}` : ""})` : ""}</span>
+              <span>
+                {conn.label}
+                {conn.dateFrom && (
+                  <>
+                    {" ("}
+                    <FormattedDate date={conn.dateFrom} />
+                    {conn.dateTo && (
+                      <>
+                        {"–"}
+                        <FormattedDate date={conn.dateTo} />
+                      </>
+                    )}
+                    {")"}
+                  </>
+                )}
+              </span>
               <ConfidenceBadge confidence={conn.confidence} />
             </div>
           </li>

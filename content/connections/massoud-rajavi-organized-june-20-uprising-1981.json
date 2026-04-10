@@ -1,0 +1,21 @@
+{
+  "entity_id": "massoud-rajavi-organized-june-20-uprising-1981",
+  "from_entity": "massoud-rajavi",
+  "to_entity": "june-20-uprising-1981",
+  "type": "organized",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "As MEK leader, Rajavi organized the June 20 protests"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

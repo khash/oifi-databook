@@ -1,0 +1,21 @@
+{
+  "entity_id": "mojahedin-e-khalq-organized-natanz-nuclear-revelation-2002",
+  "from_entity": "mojahedin-e-khalq",
+  "to_entity": "natanz-nuclear-revelation-2002",
+  "type": "organized",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "MEK intelligence network gathered the information on Natanz and Arak"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

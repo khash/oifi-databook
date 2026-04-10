@@ -1,0 +1,18 @@
+{
+  "entity_id": "moussa-khiabani",
+  "slug": "moussa-khiabani",
+  "name_en": "Moussa Khiabani",
+  "name_fa": "موسی خیابانی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1947,
+  "birthplace": "Tabriz, Iran",
+  "role": "Deputy leader of MEK; commander of MEK armed wing",
+  "faction": "opposition",
+  "bio": "Moussa Khiabani studied physics at the University of Tehran and joined the [Mojahedin-e Khalq](/orgs/mojahedin-e-khalq). He trained in guerrilla warfare in Lebanon and was sentenced to life imprisonment in 1972 for MEK activities. Released in January 1979 during the revolution, he became [Massoud Rajavi](/people/massoud-rajavi)'s deputy and commanded the MEK's armed wing inside Iran. On 8 February 1982, the [IRGC](/orgs/islamic-revolutionary-guard-corps) raided his safehouse in northern Tehran. After a three-hour firefight, Khiabani was killed along with [Ashraf Rabiei](/people/ashraf-rabiei).",
+  "irgc_member": false,
+  "expertise": ["guerrilla warfare", "military command"],
+  "tags": ["deceased", "killed-in-action", "military"],
+  "photo": null,
+  "editorial_notes": "His wife Azar Rezaei also killed in the same raid. His sister Azar Khiabani later married Mehdi Abrishamchi."
+}

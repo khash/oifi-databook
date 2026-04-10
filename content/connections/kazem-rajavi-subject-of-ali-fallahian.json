@@ -1,0 +1,21 @@
+{
+  "entity_id": "kazem-rajavi-subject-of-ali-fallahian",
+  "from_entity": "kazem-rajavi",
+  "to_entity": "ali-fallahian",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Fallahian charged by Swiss court with masterminding Kazem Rajavi's assassination"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

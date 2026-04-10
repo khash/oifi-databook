@@ -1,0 +1,21 @@
+{
+  "entity_id": "maryam-rajavi-led-mojahedin-e-khalq",
+  "from_entity": "maryam-rajavi",
+  "to_entity": "mojahedin-e-khalq",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "1985",
+  "date_to": "1993",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Joint leader 1985-1989, Secretary General 1989-1993"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

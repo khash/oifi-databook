@@ -1,0 +1,21 @@
+{
+  "entity_id": "abolhassan-banisadr-founded-national-council-of-resistance-of-iran",
+  "from_entity": "abolhassan-banisadr",
+  "to_entity": "national-council-of-resistance-of-iran",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Co-founded NCRI with Massoud Rajavi on 21 July 1981; left in 1984"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

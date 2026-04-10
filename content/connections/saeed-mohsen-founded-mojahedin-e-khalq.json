@@ -1,0 +1,21 @@
+{
+  "entity_id": "saeed-mohsen-founded-mojahedin-e-khalq",
+  "from_entity": "saeed-mohsen",
+  "to_entity": "mojahedin-e-khalq",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "1965",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Co-founded MEK on 6 September 1965"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

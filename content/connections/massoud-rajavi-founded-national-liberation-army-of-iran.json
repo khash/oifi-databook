@@ -1,0 +1,21 @@
+{
+  "entity_id": "massoud-rajavi-founded-national-liberation-army-of-iran",
+  "from_entity": "massoud-rajavi",
+  "to_entity": "national-liberation-army-of-iran",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "1987",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Founded NLA in Iraq in 1987"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

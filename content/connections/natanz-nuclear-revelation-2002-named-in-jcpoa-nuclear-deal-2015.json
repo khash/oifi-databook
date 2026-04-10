@@ -1,0 +1,21 @@
+{
+  "entity_id": "natanz-nuclear-revelation-2002-named-in-jcpoa-nuclear-deal-2015",
+  "from_entity": "natanz-nuclear-revelation-2002",
+  "to_entity": "jcpoa-nuclear-deal-2015",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "The 2002 revelation set in motion the international confrontation that led to the JCPOA"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

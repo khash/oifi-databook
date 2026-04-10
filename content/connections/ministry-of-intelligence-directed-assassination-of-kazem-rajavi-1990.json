@@ -1,0 +1,21 @@
+{
+  "entity_id": "ministry-of-intelligence-directed-assassination-of-kazem-rajavi-1990",
+  "from_entity": "ministry-of-intelligence",
+  "to_entity": "assassination-of-kazem-rajavi-1990",
+  "type": "directed",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "MOIS agents carried out the assassination using diplomatic passports"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

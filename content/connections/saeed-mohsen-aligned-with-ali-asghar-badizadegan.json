@@ -1,0 +1,21 @@
+{
+  "entity_id": "saeed-mohsen-aligned-with-ali-asghar-badizadegan",
+  "from_entity": "saeed-mohsen",
+  "to_entity": "ali-asghar-badizadegan",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Co-founded MEK together in 1965"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

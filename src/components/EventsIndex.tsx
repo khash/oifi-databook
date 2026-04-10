@@ -1,6 +1,7 @@
 import { useState, useMemo } from "react"
 import { Input } from "@/components/ui/input"
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "@/components/ui/tooltip"
+import { FormattedDate } from "@/components/FormattedDate"
 import { Badge } from "@/components/ui/badge"
 import {
   Select,
@@ -169,7 +170,7 @@ export function EventsIndex({ events }: { events: EventItem[] }) {
                       {e.name}
                     </a>
                   </td>
-                  <td className="px-3 py-2 text-muted-foreground tabular-nums">{e.date}</td>
+                  <td className="px-3 py-2 text-muted-foreground tabular-nums"><FormattedDate date={e.date} /></td>
                   <td className="px-3 py-2">
                     <Badge variant="secondary" className="capitalize">
                       {e.type.replace(/-/g, " ")}
@@ -224,7 +225,7 @@ function EventCard({ event: e }: { event: EventItem }) {
         <div className="flex min-w-0 flex-1 flex-col">
           <span className="font-medium group-hover:underline">{e.name}</span>
           <span className="text-sm text-muted-foreground">
-            {e.date} · <span className="capitalize">{e.type.replace(/-/g, " ")}</span>
+            <FormattedDate date={e.date} /> · <span className="capitalize">{e.type.replace(/-/g, " ")}</span>
           </span>
         </div>
         <div className="flex items-center gap-3 shrink-0">

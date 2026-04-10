@@ -1,0 +1,21 @@
+{
+  "entity_id": "ashraf-rabiei-member-of-mojahedin-e-khalq",
+  "from_entity": "ashraf-rabiei",
+  "to_entity": "mojahedin-e-khalq",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "1982",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Early MEK leader, killed in 1982 IRGC raid"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

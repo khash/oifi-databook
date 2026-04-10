@@ -1,0 +1,21 @@
+{
+  "entity_id": "mojahedin-e-khalq-affiliated-with-national-council-of-resistance-of-iran",
+  "from_entity": "mojahedin-e-khalq",
+  "to_entity": "national-council-of-resistance-of-iran",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "MEK is the principal member organization of the NCRI"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

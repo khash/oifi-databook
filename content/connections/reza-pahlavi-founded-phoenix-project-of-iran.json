@@ -1,0 +1,21 @@
+{
+  "entity_id": "reza-pahlavi-founded-phoenix-project-of-iran",
+  "from_entity": "reza-pahlavi",
+  "to_entity": "phoenix-project-of-iran",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "2019",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Reza_Pahlavi",
+      "source_title": "Reza Pahlavi — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Reza Pahlavi launched the Phoenix Project of Iran think tank in Washington, D.C. in February 2019."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Launched February 2019 in Washington, D.C. Focused on post-regime transition planning."
+}

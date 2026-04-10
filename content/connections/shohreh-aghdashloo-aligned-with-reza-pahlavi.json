@@ -1,0 +1,21 @@
+{
+  "entity_id": "shohreh-aghdashloo-aligned-with-reza-pahlavi",
+  "from_entity": "shohreh-aghdashloo",
+  "to_entity": "reza-pahlavi",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Reza_Pahlavi",
+      "source_title": "Reza Pahlavi — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Shohreh Aghdashloo is listed among vocal supporters of Reza Pahlavi in the Iranian exile opposition."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": "Aghdashloo is a vocal public supporter of Pahlavi and the opposition movement."
+}

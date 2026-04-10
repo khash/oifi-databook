@@ -1,0 +1,21 @@
+{
+  "entity_id": "reza-pahlavi-family-of-leila-pahlavi",
+  "from_entity": "reza-pahlavi",
+  "to_entity": "leila-pahlavi",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Reza_Pahlavi",
+      "source_title": "Reza Pahlavi — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Leila Pahlavi was Reza Pahlavi's younger sister. She died in 2001 in London."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "sibling",
+  "editorial_notes": "Siblings. Leila was the youngest of Mohammad Reza Shah's children with Farah. Died 2001."
+}

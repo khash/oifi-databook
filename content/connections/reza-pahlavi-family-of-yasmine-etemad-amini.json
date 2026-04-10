@@ -1,0 +1,21 @@
+{
+  "entity_id": "reza-pahlavi-family-of-yasmine-etemad-amini",
+  "from_entity": "reza-pahlavi",
+  "to_entity": "yasmine-etemad-amini",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": "1986",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Reza_Pahlavi",
+      "source_title": "Reza Pahlavi — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Reza Pahlavi married Yasmine Etemad-Amini in 1986. They have three daughters."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "spouse",
+  "editorial_notes": "Married 1986. Three daughters: Noor, Iman, Farah."
+}

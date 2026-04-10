@@ -1,0 +1,21 @@
+{
+  "entity_id": "reza-pahlavi-founded-iran-national-council",
+  "from_entity": "reza-pahlavi",
+  "to_entity": "iran-national-council",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "2013",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Reza_Pahlavi",
+      "source_title": "Reza Pahlavi — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Reza Pahlavi co-founded the Iran National Council (INC) in 2013 as a platform for coordinating opposition activities."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Co-founded in 2013. Active primarily 2013–2017."
+}

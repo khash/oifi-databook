@@ -1,0 +1,21 @@
+{
+  "entity_id": "masih-alinejad-aligned-with-reza-pahlavi",
+  "from_entity": "masih-alinejad",
+  "to_entity": "reza-pahlavi",
+  "type": "aligned-with",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Reza_Pahlavi",
+      "source_title": "Reza Pahlavi — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Masih Alinejad is mentioned as a commentator on Iranian affairs in the context of Reza Pahlavi's opposition activities. Both are prominent exile voices supporting the Woman, Life, Freedom movement."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": "Both are prominent exile opposition voices. Alinejad's exact relationship with Pahlavi is informal — both support the protest movement but operate independently."
+}

@@ -1,0 +1,18 @@
+{
+  "entity_id": "leila-pahlavi",
+  "slug": "leila-pahlavi",
+  "name_en": "Leila Pahlavi",
+  "name_fa": "لیلا پهلوی",
+  "has_native_fa_name": true,
+  "aliases": ["Princess Leila"],
+  "born": 1970,
+  "birthplace": "Tehran",
+  "role": "Princess of Iran; youngest daughter of Mohammad Reza Shah Pahlavi",
+  "faction": "opposition",
+  "bio": "Leila Pahlavi was the youngest daughter of [Mohammad Reza Shah Pahlavi](/people/mohammad-reza-shah-pahlavi) and [Farah Pahlavi](/people/farah-pahlavi), and the sister of [Reza Pahlavi](/people/reza-pahlavi) and [Ali Reza Pahlavi](/people/ali-reza-pahlavi).\n\nShe left Iran as a child following the 1979 Islamic Revolution. She studied at Brown University in the United States. She struggled with depression and eating disorders in exile.\n\nShe died on 10 June 2001 in London from an overdose of barbiturates. Her death deeply affected the Pahlavi family.",
+  "irgc_member": false,
+  "expertise": ["Iranian monarchy"],
+  "tags": ["deceased", "in-exile"],
+  "photo": null,
+  "editorial_notes": "Born 27 March 1970 in Tehran. Died 10 June 2001 in London (overdose). Studied at Brown University. Never married, no children."
+}

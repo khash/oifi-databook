@@ -1,0 +1,18 @@
+{
+  "entity_id": "masih-alinejad",
+  "slug": "masih-alinejad",
+  "name_en": "Masih Alinejad",
+  "name_fa": "مسیح علی‌نژاد",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1976,
+  "birthplace": "Ghomikola",
+  "role": "Journalist and women's rights activist; prominent Iranian exile voice",
+  "faction": "opposition",
+  "bio": "Masih Alinejad is an Iranian journalist, author, and women's rights activist based in the United States. She is the founder of the My Stealthy Freedom and White Wednesdays campaigns against compulsory hijab in Iran.\n\nOriginally a parliamentary journalist in Iran, she was forced into exile and became one of the most visible voices of the Iranian diaspora opposition. During the 2022–2023 Woman, Life, Freedom protests, she was a leading international spokesperson for the movement.\n\nShe has been the target of multiple kidnapping and assassination plots by the Islamic Republic, including a 2021 FBI-foiled plot to abduct her from her Brooklyn home.",
+  "irgc_member": false,
+  "expertise": ["Iranian journalism", "women's rights", "compulsory hijab opposition"],
+  "tags": ["in-exile", "woman-life-freedom", "human-rights"],
+  "photo": null,
+  "editorial_notes": "Born 11 September 1976 in Ghomikola, Mazandaran. Former parliamentary reporter in Iran. Founded My Stealthy Freedom (2014) and White Wednesdays campaigns. Lives in Brooklyn, New York. Multiple assassination/kidnapping plots against her by Islamic Republic."
+}

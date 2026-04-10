@@ -1,0 +1,15 @@
+{
+  "entity_id": "iran-national-council",
+  "slug": "iran-national-council",
+  "name_en": "Iran National Council",
+  "name_fa": "شورای ملی ایران",
+  "has_native_fa_name": true,
+  "type": "political-party",
+  "founded": 2013,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Iran National Council (INC) is an opposition political platform co-founded by [Reza Pahlavi](/people/reza-pahlavi) in 2013 to coordinate Iranian exile opposition activities. It was conceived as a broad-based coalition aiming to unite disparate opposition factions under a shared commitment to secular democracy and regime change in Iran.\n\nThe organization was active from 2013 to approximately 2017, when Pahlavi shifted his focus to other vehicles for opposition coordination.",
+  "faction": "opposition",
+  "tags": ["in-exile"],
+  "editorial_notes": "Co-founded by Reza Pahlavi in 2013. Primarily active 2013–2017. Aimed to be a broad opposition coordination platform. Based in exile."
+}

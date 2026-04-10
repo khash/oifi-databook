@@ -1,0 +1,21 @@
+{
+  "entity_id": "reza-pahlavi-opposed-abolhassan-banisadr",
+  "from_entity": "reza-pahlavi",
+  "to_entity": "abolhassan-banisadr",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": "1981",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Reza_Pahlavi",
+      "source_title": "Reza Pahlavi — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Abolhassan Banisadr was the first president of the Islamic Republic before being deposed in 1981. Both Pahlavi and Banisadr ended up in exile but represented fundamentally different visions — monarchist restoration versus republican opposition."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Both are exiled opposition figures but from opposing traditions — Pahlavi (monarchist/secular democratic) vs Banisadr (republican/revolutionary). They represent competing claims to post-revolution legitimacy."
+}

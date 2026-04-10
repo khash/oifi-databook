@@ -1,0 +1,18 @@
+{
+  "entity_id": "noor-pahlavi",
+  "slug": "noor-pahlavi",
+  "name_en": "Noor Pahlavi",
+  "name_fa": "نور پهلوی",
+  "has_native_fa_name": true,
+  "aliases": ["Crown Princess Noor"],
+  "born": null,
+  "birthplace": null,
+  "role": "Eldest daughter of Reza Pahlavi; declared heir to Pahlavi succession (2019)",
+  "faction": "opposition",
+  "bio": "Noor Pahlavi is the eldest daughter of [Reza Pahlavi](/people/reza-pahlavi) and [Yasmine Etemad-Amini](/people/yasmine-etemad-amini). In 2019, her father declared her heir to the Pahlavi succession, emphasizing equal rights between men and women — a break from traditional male-line primogeniture.",
+  "irgc_member": false,
+  "expertise": [],
+  "tags": ["in-exile"],
+  "photo": null,
+  "editorial_notes": "Eldest of three daughters (Noor, Iman, Farah). Declared heir by Reza Pahlavi in 2019. Lives in Potomac, Maryland."
+}

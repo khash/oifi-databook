@@ -1,0 +1,21 @@
+{
+  "entity_id": "reza-pahlavi-opposed-islamic-revolutionary-guard-corps",
+  "from_entity": "reza-pahlavi",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Reza_Pahlavi",
+      "source_title": "Reza Pahlavi — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Reza Pahlavi has called for the IRGC to be proscribed as a terrorist organization. In a February 2023 Daily Telegraph interview, he advocated for IRGC designation by the British government. In April 2026, he called on IRGC members to step down."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Pahlavi has consistently called for IRGC proscription as terrorist organization. Called on IRGC to step down in April 2026."
+}

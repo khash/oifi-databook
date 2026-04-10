@@ -86,7 +86,7 @@ export const FAMILY_SUBTYPES = [
   "in-law",
 ] as const;
 
-// 26 relationship types across 6 categories
+// 28 relationship types across 6 categories
 export const RELATIONSHIP_TYPES = {
   hierarchical: ["reports-to", "appointed-by", "oversees"] as const,
   institutional: [

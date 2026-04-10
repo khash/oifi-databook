@@ -1,0 +1,21 @@
+{
+  "entity_id": "reza-pahlavi-participated-in-iranian-revolution-1979",
+  "from_entity": "reza-pahlavi",
+  "to_entity": "iranian-revolution-1979",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1978",
+  "date_to": "1979",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Reza_Pahlavi",
+      "source_title": "Reza Pahlavi — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Reza Pahlavi left Iran in August 1978 to train as a fighter pilot at Reese Air Force Base in Texas. He never returned following the revolution. His family fled to Egypt in March 1980."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Pahlavi was abroad (pilot training in Texas) during the revolution. Left Iran August 1978, never returned. The revolution ended his family's dynasty."
+}

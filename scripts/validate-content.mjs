@@ -15,7 +15,7 @@ const CONTENT = path.resolve(__dirname, "..", "content");
 
 const FACTIONS = [
   "opposition", "pragmatist", "reformist", "conservative", "hardliner",
-  "military-irgc", "technocrat", "clerical",
+  "technocrat", "clerical",
 ];
 const ORG_TYPES = [
   "political-party", "state-institution", "military", "media",

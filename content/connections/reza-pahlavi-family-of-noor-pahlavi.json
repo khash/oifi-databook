@@ -1,0 +1,21 @@
+{
+  "entity_id": "reza-pahlavi-family-of-noor-pahlavi",
+  "from_entity": "reza-pahlavi",
+  "to_entity": "noor-pahlavi",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Reza_Pahlavi",
+      "source_title": "Reza Pahlavi — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Noor Pahlavi is Reza Pahlavi's eldest daughter. He declared her heir to the Pahlavi succession in 2019."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "child",
+  "editorial_notes": "Father-daughter. Noor is the eldest of three daughters. Declared heir 2019."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "reza-pahlavi-participated-in-mahsa-amini-protests-2022",
+  "from_entity": "reza-pahlavi",
+  "to_entity": "mahsa-amini-protests-2022",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2022",
+  "date_to": "2023",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Reza_Pahlavi",
+      "source_title": "Reza Pahlavi — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "During the 2022–2023 Woman, Life, Freedom protests, Reza Pahlavi emerged as one of the most visible exile voices, calling for civil disobedience and international support. He organized a rally on February 11, 2023, with 80,000+ attendees in Los Angeles. A Change.org petition for Pahlavi as representative reached 460,000+ signatures."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Pahlavi was a leading exile voice during the Woman, Life, Freedom protests. Organized February 2023 rally in LA (80,000+). Petition reached 460,000+ signatures."
+}

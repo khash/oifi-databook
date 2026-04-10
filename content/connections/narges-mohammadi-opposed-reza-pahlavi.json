@@ -1,0 +1,21 @@
+{
+  "entity_id": "narges-mohammadi-opposed-reza-pahlavi",
+  "from_entity": "narges-mohammadi",
+  "to_entity": "reza-pahlavi",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": "2026",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Reza_Pahlavi",
+      "source_title": "Reza Pahlavi — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Nobel Peace Prize laureate Narges Mohammadi characterized Reza Pahlavi's supporters as 'the opposition against opposition,' suggesting his polarizing role alienated other opposition factions."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Mohammadi criticized Pahlavi as a polarizing figure whose supporters undermine broader opposition unity. Both oppose the Islamic Republic but disagree on leadership."
+}

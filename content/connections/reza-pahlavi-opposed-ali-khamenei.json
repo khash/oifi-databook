@@ -1,0 +1,21 @@
+{
+  "entity_id": "reza-pahlavi-opposed-ali-khamenei",
+  "from_entity": "reza-pahlavi",
+  "to_entity": "ali-khamenei",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": "1989",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Reza_Pahlavi",
+      "source_title": "Reza Pahlavi — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Reza Pahlavi has consistently opposed Ali Khamenei's rule as Supreme Leader, advocating for the overthrow of the Islamic Republic and its replacement with a secular democratic system."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Pahlavi has opposed Khamenei since he became Supreme Leader in 1989, calling for regime change and secular democracy."
+}

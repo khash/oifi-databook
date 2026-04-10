@@ -1,0 +1,21 @@
+{
+  "entity_id": "reza-pahlavi-family-of-ali-reza-pahlavi",
+  "from_entity": "reza-pahlavi",
+  "to_entity": "ali-reza-pahlavi",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Reza_Pahlavi",
+      "source_title": "Reza Pahlavi — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Ali Reza Pahlavi (born 1966) was Reza Pahlavi's younger brother and second in line of Pahlavi succession. He died by suicide in 2011."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "sibling",
+  "editorial_notes": "Brothers. Ali Reza was second in line of Pahlavi succession until his death in 2011."
+}

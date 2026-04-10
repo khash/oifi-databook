@@ -1,0 +1,21 @@
+{
+  "entity_id": "reza-pahlavi-opposed-ruhollah-khomeini",
+  "from_entity": "reza-pahlavi",
+  "to_entity": "ruhollah-khomeini",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Reza_Pahlavi",
+      "source_title": "Reza Pahlavi — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Reza Pahlavi's family was overthrown by the revolution led by Khomeini. After his father's death in 1980, Reza declared himself Shah and positioned himself as the opposition to the Islamic Republic founded by Khomeini."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Khomeini's revolution overthrew the Pahlavi dynasty. Reza Pahlavi has opposed the Islamic Republic since 1979."
+}

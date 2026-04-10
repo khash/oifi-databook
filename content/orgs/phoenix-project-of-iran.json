@@ -1,0 +1,15 @@
+{
+  "entity_id": "phoenix-project-of-iran",
+  "slug": "phoenix-project-of-iran",
+  "name_en": "Phoenix Project of Iran",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 2019,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Phoenix Project of Iran is a think tank launched by [Reza Pahlavi](/people/reza-pahlavi) in Washington, D.C. in February 2019. It focuses on post-regime transition planning for Iran, developing policy frameworks and governance proposals for a future secular democratic Iranian state.\n\nThe project has produced an Emergency Phase Booklet covering the first six months of a post-Islamic Republic transition, as well as the Iran Prosperity Project for long-term economic planning.",
+  "faction": "opposition",
+  "tags": ["in-exile"],
+  "editorial_notes": "Launched February 2019 in Washington, D.C. by Reza Pahlavi. Think tank focused on post-regime transition planning. Produced Emergency Phase Booklet and Iran Prosperity Project."
+}

@@ -2,6 +2,24 @@
 import Layout from "@/layouts/main.astro"
 import { Search } from "@/components/Search"
 import { ThemeToggle } from "@/components/ThemeToggle"
+import { getPeople, getOrgs, getEvents, getConnections } from "@/lib/content"
+
+const people = getPeople()
+const orgs = getOrgs()
+const events = getEvents()
+const connections = getConnections()
+
+// Find top-connected entities for featured section
+const connectionCounts = new Map<string, number>()
+for (const c of connections) {
+  connectionCounts.set(c.from_entity, (connectionCounts.get(c.from_entity) ?? 0) + 1)
+  connectionCounts.set(c.to_entity, (connectionCounts.get(c.to_entity) ?? 0) + 1)
+}
+
+const featuredPeople = people
+  .map((p) => ({ ...p, count: connectionCounts.get(p.entity_id) ?? 0 }))
+  .sort((a, b) => b.count - a.count)
+  .slice(0, 6)
 
 const jsonLd = {
   "@context": "https://schema.org",
@@ -18,6 +36,98 @@ const jsonLd = {
 ---
 
 <Layout jsonLd={jsonLd} canonicalPath="">
-  <Search client:load centered={true} />
   <ThemeToggle client:load slot="header-actions" />
+
+  <div class="mx-auto max-w-4xl space-y-8 py-8">
+    <!-- Hero -->
+    <section class="text-center space-y-4">
+      <h1 class="text-3xl font-bold tracking-tight sm:text-4xl">
+        Mapping Iran's Political Power Networks
+      </h1>
+      <p class="text-muted-foreground text-lg max-w-2xl mx-auto">
+        An open-source intelligence database of political actors, organizations, and events shaping Iran's power structure.
+      </p>
+    </section>
+
+    <!-- Search -->
+    <section class="mx-auto max-w-lg">
+      <Search client:load />
+    </section>
+
+    <!-- Stats -->
+    <section class="grid grid-cols-2 gap-4 sm:grid-cols-4">
+      <a href="/people" class="rounded-lg border bg-card p-4 text-center hover:bg-accent transition-colors">
+        <div class="text-3xl font-bold">{people.length}</div>
+        <div class="text-sm text-muted-foreground">People</div>
+      </a>
+      <a href="/orgs" class="rounded-lg border bg-card p-4 text-center hover:bg-accent transition-colors">
+        <div class="text-3xl font-bold">{orgs.length}</div>
+        <div class="text-sm text-muted-foreground">Organizations</div>
+      </a>
+      <a href="/events" class="rounded-lg border bg-card p-4 text-center hover:bg-accent transition-colors">
+        <div class="text-3xl font-bold">{events.length}</div>
+        <div class="text-sm text-muted-foreground">Events</div>
+      </a>
+      <div class="rounded-lg border bg-card p-4 text-center">
+        <div class="text-3xl font-bold">{connections.length}</div>
+        <div class="text-sm text-muted-foreground">Connections</div>
+      </div>
+    </section>
+
+    <!-- Navigation Cards -->
+    <section class="grid gap-4 sm:grid-cols-3">
+      <a href="/people" class="group rounded-lg border bg-card p-6 hover:bg-accent transition-colors">
+        <h2 class="font-semibold group-hover:underline">People</h2>
+        <p class="mt-1 text-sm text-muted-foreground">
+          Political figures, officials, and key actors across factions — from reformists to hardliners.
+        </p>
+      </a>
+      <a href="/orgs" class="group rounded-lg border bg-card p-6 hover:bg-accent transition-colors">
+        <h2 class="font-semibold group-hover:underline">Organizations</h2>
+        <p class="mt-1 text-sm text-muted-foreground">
+          State institutions, political parties, military bodies, media outlets, and NGOs.
+        </p>
+      </a>
+      <a href="/events" class="group rounded-lg border bg-card p-6 hover:bg-accent transition-colors">
+        <h2 class="font-semibold group-hover:underline">Events</h2>
+        <p class="mt-1 text-sm text-muted-foreground">
+          Elections, appointments, protests, sanctions, and pivotal moments in Iran's political history.
+        </p>
+      </a>
+    </section>
+
+    <!-- Featured: Most Connected -->
+    <section class="space-y-3">
+      <h2 class="text-lg font-semibold">Most Connected Figures</h2>
+      <div class="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+        {featuredPeople.map((p) => (
+          <a
+            href={`/people/${p.slug}`}
+            class="flex items-baseline justify-between gap-4 rounded-lg border bg-card px-4 py-3 hover:bg-accent transition-colors"
+          >
+            <div class="min-w-0">
+              <div class="font-medium">{p.name_en}</div>
+              {p.role && (
+                <div class="text-xs text-muted-foreground">{p.role}</div>
+              )}
+            </div>
+            <div class="shrink-0 text-right">
+              {p.name_fa && (
+                <div class="text-sm text-muted-foreground" dir="rtl" lang="fa">{p.name_fa}</div>
+              )}
+              <div class="text-xs text-muted-foreground">{p.count} connections</div>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <!-- About -->
+    <section class="rounded-lg border bg-card p-6 space-y-2">
+      <h2 class="font-semibold">About This Project</h2>
+      <p class="text-sm text-muted-foreground">
+        The OIFI Databook is maintained by the <a href="https://oifi.org" class="underline hover:text-foreground">Open Internet For Iran (OIFI)</a>. All entries are sourced from publicly available information and assigned confidence levels (confirmed, alleged, disputed, or denied) to reflect evidentiary strength. This is a research tool — not a legal record.
+      </p>
+    </section>
+  </div>
 </Layout>

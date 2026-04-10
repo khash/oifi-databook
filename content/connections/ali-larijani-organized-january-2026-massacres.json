@@ -1,0 +1,27 @@
+{
+  "entity_id": "ali-larijani-organized-january-2026-massacres",
+  "from_entity": "ali-larijani",
+  "to_entity": "january-2026-massacres",
+  "type": "organized",
+  "confidence": "confirmed",
+  "date_from": "2026-01",
+  "date_to": "2026-01",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2026_Iran_massacres",
+      "source_title": "2026 Iran massacres — Wikipedia",
+      "source_date": "2026-01-25",
+      "description": "Ali Larijani was identified as the mastermind of the massacres by former officials, modelling the crackdown methods on the 1989 Tiananmen Square massacre."
+    },
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Larijani",
+      "source_title": "Ali Larijani — Wikipedia",
+      "source_date": "2026-03-18",
+      "description": "As Secretary of the SNSC, Larijani presided over the crackdown and was described as the chief planner of the massacres under Khamenei's orders."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

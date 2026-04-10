@@ -1,0 +1,21 @@
+{
+  "entity_id": "law-enforcement-command-subsidiary-of-ministry-of-interior",
+  "from_entity": "law-enforcement-command",
+  "to_entity": "ministry-of-interior",
+  "type": "subsidiary-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Law_Enforcement_Command_of_the_Islamic_Republic_of_Iran",
+      "source_title": "Law Enforcement Command of Iran — Wikipedia",
+      "source_date": "2026-01-01",
+      "description": "FARAJA operates under the Ministry of Interior."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

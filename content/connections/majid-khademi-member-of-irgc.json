@@ -1,0 +1,21 @@
+{
+  "entity_id": "majid-khademi-member-of-irgc",
+  "from_entity": "majid-khademi",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026-04",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Majid_Khademi",
+      "source_title": "Majid Khademi — Wikipedia",
+      "source_date": "2026-04-06",
+      "description": "Khademi was a senior IRGC officer serving as head of its intelligence organisation."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

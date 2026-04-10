@@ -1,0 +1,27 @@
+{
+  "entity_id": "ali-khamenei-directed-january-2026-massacres",
+  "from_entity": "ali-khamenei",
+  "to_entity": "january-2026-massacres",
+  "type": "directed",
+  "confidence": "confirmed",
+  "date_from": "2026-01",
+  "date_to": "2026-01",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2026_Iran_massacres",
+      "source_title": "2026 Iran massacres — Wikipedia",
+      "source_date": "2026-01-25",
+      "description": "Khamenei gave a direct order on 9 January to the Supreme National Security Council to 'crush the protests by any means necessary', according to Iran International and The New York Times."
+    },
+    {
+      "source_url": "https://www.amnesty.org/en/latest/news/2026/01/iran-massacre-of-protesters-demands-global-diplomatic-action-to-signal-an-end-to-impunity/",
+      "source_title": "Iran: Massacre of protesters demands global diplomatic action",
+      "source_date": "2026-01-14",
+      "description": "Amnesty International documented systematic use of lethal force ordered at the highest levels of the Islamic Republic."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

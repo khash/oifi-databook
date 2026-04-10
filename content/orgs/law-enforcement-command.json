@@ -1,0 +1,17 @@
+{
+  "entity_id": "law-enforcement-command",
+  "slug": "law-enforcement-command",
+  "name_en": "Law Enforcement Command of Iran",
+  "name_fa": "فرماندهی انتظامی جمهوری اسلامی ایران",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 1991,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Law Enforcement Command of Iran (FARAJA, formerly NAJA) is the national police force of the Islamic Republic. Subordinate to the [Ministry of Interior](/orgs/ministry-of-interior), it is responsible for public security, border control, and crowd control. Under Commander-in-Chief [Ahmad-Reza Radan](/people/ahmad-reza-radan), police forces participated in the violent suppression of the [2025-2026 protests](/events/january-2026-massacres), using live ammunition and military-grade weapons against civilian demonstrators.",
+  "faction": "hardliner",
+  "tags": [
+    "intelligence"
+  ],
+  "editorial_notes": "Renamed from NAJA to FARAJA in 2021. Reports to Ministry of Interior but operationally takes orders from Supreme Leader."
+}

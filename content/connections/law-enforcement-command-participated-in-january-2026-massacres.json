@@ -1,0 +1,21 @@
+{
+  "entity_id": "law-enforcement-command-participated-in-january-2026-massacres",
+  "from_entity": "law-enforcement-command",
+  "to_entity": "january-2026-massacres",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2026-01",
+  "date_to": "2026-01",
+  "evidence": [
+    {
+      "source_url": "https://www.amnesty.org/en/latest/news/2026/01/iran-authorities-unleash-heavily-militarized-clampdown-to-hide-protest-massacres/",
+      "source_title": "Iran: Authorities unleash heavily militarized clampdown",
+      "source_date": "2026-01-14",
+      "description": "Police forces used live ammunition, metal pellet shotguns, tear gas, and beatings against protesters."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

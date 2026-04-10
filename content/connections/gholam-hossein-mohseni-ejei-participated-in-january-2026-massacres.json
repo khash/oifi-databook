@@ -1,0 +1,21 @@
+{
+  "entity_id": "gholam-hossein-mohseni-ejei-participated-in-january-2026-massacres",
+  "from_entity": "gholam-hossein-mohseni-ejei",
+  "to_entity": "january-2026-massacres",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2026-01",
+  "date_to": "2026-01",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2026_Iran_massacres",
+      "source_title": "2026 Iran massacres — Wikipedia",
+      "source_date": "2026-01-25",
+      "description": "As Head of the Judiciary, Mohseni-Ejei issued orders for 'no leniency' toward those the regime described as rioters and stated rapid executions serve as a deterrent."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "gholamreza-soleimani-subject-of-larijani-assassination-2026",
+  "from_entity": "gholamreza-soleimani",
+  "to_entity": "larijani-assassination-2026",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2026-03",
+  "date_to": "2026-03",
+  "evidence": [
+    {
+      "source_url": "https://www.aljazeera.com/news/2026/3/17/israel-says-it-has-killed-ali-larijani-irans-top-security-official",
+      "source_title": "Iran confirms security chief Larijani, Basij commander Soleimani killed",
+      "source_date": "2026-03-17",
+      "description": "Gholamreza Soleimani was killed alongside Ali Larijani in the same Israeli airstrike on 17 March 2026."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

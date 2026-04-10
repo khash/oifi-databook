@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-reza-shah-pahlavi-family-of-leila-pahlavi",
+  "from_entity": "mohammad-reza-shah-pahlavi",
+  "to_entity": "leila-pahlavi",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Leila_Pahlavi",
+      "source_title": "Leila Pahlavi — Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "Leila Pahlavi was the youngest daughter of Mohammad Reza Shah Pahlavi and Farah Pahlavi."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "parent",
+  "editorial_notes": "Father-daughter relationship."
+}

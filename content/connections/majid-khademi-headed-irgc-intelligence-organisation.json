@@ -1,0 +1,21 @@
+{
+  "entity_id": "majid-khademi-headed-irgc-intelligence-organisation",
+  "from_entity": "majid-khademi",
+  "to_entity": "irgc-intelligence-organisation",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026-04",
+  "evidence": [
+    {
+      "source_url": "https://www.businesstoday.in/world/story/irans-irgc-intelligence-chief-majid-khademi-killed-blames-israel-and-us-524209-2026-04-06",
+      "source_title": "Iran's IRGC intelligence chief Majid Khademi killed",
+      "source_date": "2026-04-06",
+      "description": "Majid Khademi served as head of the IRGC Intelligence Organisation until his death in an Israeli airstrike on 6 April 2026."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

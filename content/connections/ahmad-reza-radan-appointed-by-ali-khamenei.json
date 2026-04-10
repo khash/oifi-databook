@@ -1,0 +1,21 @@
+{
+  "entity_id": "ahmad-reza-radan-appointed-by-ali-khamenei",
+  "from_entity": "ahmad-reza-radan",
+  "to_entity": "ali-khamenei",
+  "type": "appointed-by",
+  "confidence": "confirmed",
+  "date_from": "2023",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Iranian_protests",
+      "source_title": "2025-2026 Iranian protests — Wikipedia",
+      "source_date": "2026-01-25",
+      "description": "Radan was appointed Commander-in-Chief of the Law Enforcement Command by Supreme Leader Ali Khamenei in January 2023."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "narges-mohammadi-affiliated-with-shirin-ebadi",
+  "from_entity": "narges-mohammadi",
+  "to_entity": "shirin-ebadi",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Narges_Mohammadi",
+      "source_title": "Narges Mohammadi — Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "Narges Mohammadi serves as vice-president of the Defenders of Human Rights Center, founded by Nobel laureate Shirin Ebadi."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Both Nobel Peace Prize laureates. Ebadi founded the DHRC; Mohammadi is its vice-president."
+}

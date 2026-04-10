@@ -1,0 +1,21 @@
+{
+  "entity_id": "gholamreza-soleimani-member-of-irgc",
+  "from_entity": "gholamreza-soleimani",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026-03",
+  "evidence": [
+    {
+      "source_url": "https://www.aljazeera.com/news/2026/3/17/israel-says-it-has-killed-ali-larijani-irans-top-security-official",
+      "source_title": "Iran confirms security chief Larijani, Basij commander Soleimani killed",
+      "source_date": "2026-03-17",
+      "description": "As Basij commander, Soleimani was a senior IRGC member."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

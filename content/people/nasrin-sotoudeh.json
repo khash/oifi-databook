@@ -1,0 +1,25 @@
+{
+  "entity_id": "nasrin-sotoudeh",
+  "slug": "nasrin-sotoudeh",
+  "name_en": "Nasrin Sotoudeh",
+  "name_fa": "نسرین ستوده",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1963,
+  "birthplace": "Tehran, Iran",
+  "role": "Human rights lawyer and political prisoner",
+  "faction": "opposition",
+  "bio": "Nasrin Sotoudeh is an Iranian human rights lawyer known for defending political prisoners, women's rights activists, and minors facing the death penalty. She has been imprisoned multiple times by the [judiciary](/orgs/judiciary-of-iran) for her legal advocacy. In 2019, she was sentenced to 38 years in prison and 148 lashes on charges including espionage and insulting the Supreme Leader. She has defended clients involved in the 2009 Green Movement and the 2022 Mahsa Amini protests. On 28 January 2026, she co-signed a joint statement with other prominent political prisoners and civil society figures condemning the [January 2026 massacres](/events/january-2026-massacres). She received the European Parliament's Sakharov Prize for Freedom of Thought in 2012.",
+  "expertise": [
+    "human rights law",
+    "political defence",
+    "women's rights"
+  ],
+  "tags": [
+    "political-prisoner",
+    "human-rights"
+  ],
+  "photo": null,
+  "editorial_notes": "Sakharov Prize laureate 2012. Repeatedly imprisoned. One of Iran's most prominent human rights lawyers.",
+  "irgc_member": false
+}

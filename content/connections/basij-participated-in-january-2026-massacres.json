@@ -1,0 +1,21 @@
+{
+  "entity_id": "basij-participated-in-january-2026-massacres",
+  "from_entity": "basij",
+  "to_entity": "january-2026-massacres",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2026-01",
+  "date_to": "2026-01",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2026_Iran_massacres",
+      "source_title": "2026 Iran massacres — Wikipedia",
+      "source_date": "2026-01-25",
+      "description": "Basij militia forces were centrally involved in the mass killings alongside the IRGC."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

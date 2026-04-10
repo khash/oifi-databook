@@ -1,0 +1,21 @@
+{
+  "entity_id": "pmf-participated-in-january-2026-massacres",
+  "from_entity": "popular-mobilization-forces",
+  "to_entity": "january-2026-massacres",
+  "type": "participated-in",
+  "confidence": "alleged",
+  "date_from": "2026-01",
+  "date_to": "2026-01",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2026_Iran_massacres",
+      "source_title": "2026 Iran massacres — Wikipedia",
+      "source_date": "2026-01-25",
+      "description": "Reports indicated approximately 800 Iraqi militia members crossed the border on 6 January, with members of the Popular Mobilization Forces participating in the crackdown."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Foreign militia involvement is reported but not independently verified at the individual unit level."
+}

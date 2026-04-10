@@ -1,0 +1,21 @@
+{
+  "entity_id": "jafar-panahi-subject-of-january-2026-massacres",
+  "from_entity": "jafar-panahi",
+  "to_entity": "january-2026-massacres",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2026-01",
+  "date_to": "2026-01",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2026_Iran_massacres",
+      "source_title": "2026 Iran massacres — Wikipedia",
+      "source_date": "2026-01-25",
+      "description": "Co-signed a joint statement on 28 January 2026 condemning the massacres."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

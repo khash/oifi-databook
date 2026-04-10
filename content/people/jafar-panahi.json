@@ -1,0 +1,24 @@
+{
+  "entity_id": "jafar-panahi",
+  "slug": "jafar-panahi",
+  "name_en": "Jafar Panahi",
+  "name_fa": "جعفر پناهی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1960,
+  "birthplace": "Mianeh, Iran",
+  "role": "Filmmaker and political dissident",
+  "faction": "opposition",
+  "bio": "Jafar Panahi is an internationally acclaimed Iranian filmmaker and one of the Islamic Republic's most prominent cultural dissidents. Winner of the Golden Lion at the Venice Film Festival and multiple prizes at Cannes and Berlin, he was arrested in 2010 and sentenced to six years in prison and a 20-year ban on filmmaking, travel, and public speaking. He continued to make films clandestinely under the ban. He was arrested again in July 2022 during the lead-up to the Mahsa Amini protests. On 28 January 2026, he co-signed a joint statement with other prominent political prisoners and civil society figures condemning the [January 2026 massacres](/events/january-2026-massacres).",
+  "expertise": [
+    "cinema",
+    "cultural dissent"
+  ],
+  "tags": [
+    "political-prisoner",
+    "human-rights"
+  ],
+  "photo": null,
+  "editorial_notes": "Golden Lion (Venice), Prix du Jury (Cannes). Banned from filmmaking since 2010 but continued clandestinely.",
+  "irgc_member": false
+}

@@ -1,0 +1,27 @@
+{
+  "entity_id": "irgc-participated-in-january-2026-massacres",
+  "from_entity": "islamic-revolutionary-guard-corps",
+  "to_entity": "january-2026-massacres",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2026-01",
+  "date_to": "2026-01",
+  "evidence": [
+    {
+      "source_url": "https://www.amnesty.org/en/latest/news/2026/01/iran-authorities-unleash-heavily-militarized-clampdown-to-hide-protest-massacres/",
+      "source_title": "Iran: Authorities unleash heavily militarized clampdown",
+      "source_date": "2026-01-14",
+      "description": "Amnesty International documented IRGC use of live ammunition and military-grade weapons against civilian protesters."
+    },
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2026_Iran_massacres",
+      "source_title": "2026 Iran massacres — Wikipedia",
+      "source_date": "2026-01-25",
+      "description": "The mass killings were largely perpetrated by the IRGC and Basij, including the IRGC Vali-e Asr garrison and Mohammad Rasulullah Corps of Greater Tehran."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

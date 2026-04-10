@@ -1,0 +1,21 @@
+{
+  "entity_id": "nasrin-sotoudeh-opposed-judiciary-of-iran",
+  "from_entity": "nasrin-sotoudeh",
+  "to_entity": "judiciary-of-iran",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2026_Iran_massacres",
+      "source_title": "2026 Iran massacres — Wikipedia",
+      "source_date": "2026-01-25",
+      "description": "Sotoudeh has repeatedly been imprisoned by the judiciary for her human rights legal work, including defending political prisoners and women's rights activists."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

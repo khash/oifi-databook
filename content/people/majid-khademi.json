@@ -1,0 +1,26 @@
+{
+  "entity_id": "majid-khademi",
+  "slug": "majid-khademi",
+  "name_en": "Majid Khademi",
+  "name_fa": "مجید خادمی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": "Iran",
+  "role": "Head of IRGC Intelligence Organisation (d. 2026)",
+  "faction": "hardliner",
+  "bio": "Majid Khademi served as head of the [IRGC Intelligence Organisation](/orgs/irgc-intelligence-organisation). During the [January 2026 massacres](/events/january-2026-massacres), he oversaw intelligence and surveillance operations against protesters. He publicly blamed \"foreign agents\" for instructing protesters to shoot each other, accusing US President Donald Trump of exacerbating the unrest as part of a \"staged murder\" strategy. Israeli intelligence accused Khademi of orchestrating overseas attacks and monitoring civilians during the domestic protests. He was killed on 6 April 2026 in an Israeli airstrike on Tehran during the 2026 Iran war.",
+  "expertise": [
+    "intelligence operations",
+    "counterintelligence",
+    "surveillance"
+  ],
+  "tags": [
+    "deceased",
+    "assassinated",
+    "intelligence"
+  ],
+  "photo": null,
+  "editorial_notes": "Killed 6 April 2026 in Israeli airstrike on Tehran.",
+  "irgc_member": true
+}

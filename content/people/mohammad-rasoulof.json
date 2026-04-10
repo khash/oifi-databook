@@ -1,0 +1,24 @@
+{
+  "entity_id": "mohammad-rasoulof",
+  "slug": "mohammad-rasoulof",
+  "name_en": "Mohammad Rasoulof",
+  "name_fa": "محمد رسول‌اف",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1972,
+  "birthplace": "Shiraz, Iran",
+  "role": "Filmmaker and political dissident",
+  "faction": "opposition",
+  "bio": "Mohammad Rasoulof is an Iranian filmmaker whose work frequently addresses political repression under the Islamic Republic. His film *There Is No Evil* (2020), which explored the death penalty in Iran, won the Golden Bear at the Berlin Film Festival. He was sentenced to prison and flogging in 2024 for his films and fled Iran before the sentence was carried out. On 28 January 2026, he co-signed a joint statement with other prominent political prisoners and civil society figures condemning the [January 2026 massacres](/events/january-2026-massacres).",
+  "expertise": [
+    "cinema",
+    "cultural dissent"
+  ],
+  "tags": [
+    "in-exile",
+    "human-rights"
+  ],
+  "photo": null,
+  "editorial_notes": "Golden Bear (Berlin 2020). Fled Iran in 2024 before prison sentence. Now in exile.",
+  "irgc_member": false
+}

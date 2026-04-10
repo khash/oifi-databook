@@ -1,0 +1,21 @@
+{
+  "entity_id": "snsc-organized-january-2026-massacres",
+  "from_entity": "supreme-national-security-council",
+  "to_entity": "january-2026-massacres",
+  "type": "organized",
+  "confidence": "confirmed",
+  "date_from": "2026-01",
+  "date_to": "2026-01",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2026_Iran_massacres",
+      "source_title": "2026 Iran massacres — Wikipedia",
+      "source_date": "2026-01-25",
+      "description": "The Supreme National Security Council issued the direct order for live fire against protesters, based on Khamenei's directive."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

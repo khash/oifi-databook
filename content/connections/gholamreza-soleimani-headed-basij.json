@@ -1,0 +1,21 @@
+{
+  "entity_id": "gholamreza-soleimani-headed-basij",
+  "from_entity": "gholamreza-soleimani",
+  "to_entity": "basij",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026-03",
+  "evidence": [
+    {
+      "source_url": "https://www.aljazeera.com/news/2026/3/17/israel-says-it-has-killed-ali-larijani-irans-top-security-official",
+      "source_title": "Iran confirms security chief Larijani, Basij commander Soleimani killed",
+      "source_date": "2026-03-17",
+      "description": "Gholamreza Soleimani served as commander of the Basij militia until his death in an Israeli airstrike on 17 March 2026."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

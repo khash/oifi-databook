@@ -1,0 +1,21 @@
+{
+  "entity_id": "reza-pahlavi-subject-of-january-2026-massacres",
+  "from_entity": "reza-pahlavi",
+  "to_entity": "january-2026-massacres",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2026-01",
+  "date_to": "2026-01",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Iranian_protests",
+      "source_title": "2025-2026 Iranian protests — Wikipedia",
+      "source_date": "2026-01-25",
+      "description": "Reza Pahlavi issued a call for unified nationwide protests on 8 January 2026, after which the protests escalated dramatically and the regime's lethal crackdown began."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

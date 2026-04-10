@@ -1,0 +1,21 @@
+{
+  "entity_id": "yasmine-etemad-amini-family-of-noor-pahlavi",
+  "from_entity": "yasmine-etemad-amini",
+  "to_entity": "noor-pahlavi",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Yasmine_Pahlavi",
+      "source_title": "Yasmine Pahlavi — Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "Noor Pahlavi is the eldest daughter of Reza Pahlavi and Yasmine Etemad-Amini."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "parent",
+  "editorial_notes": "Mother-daughter relationship."
+}

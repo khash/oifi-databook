@@ -1,0 +1,21 @@
+{
+  "entity_id": "leila-pahlavi-family-of-ali-reza-pahlavi",
+  "from_entity": "leila-pahlavi",
+  "to_entity": "ali-reza-pahlavi",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Leila_Pahlavi",
+      "source_title": "Leila Pahlavi — Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "Leila Pahlavi and Ali Reza Pahlavi were siblings, both children of Mohammad Reza Shah Pahlavi and Farah Pahlavi."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "sibling",
+  "editorial_notes": "Sister-brother relationship."
+}

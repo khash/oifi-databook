@@ -1,0 +1,21 @@
+{
+  "entity_id": "ahmad-reza-radan-participated-in-green-movement-protests-2009",
+  "from_entity": "ahmad-reza-radan",
+  "to_entity": "green-movement-protests-2009",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": "2009",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Iranian_protests",
+      "source_title": "2025-2026 Iranian protests — Wikipedia",
+      "source_date": "2026-01-25",
+      "description": "Radan served as deputy commander of Iran's police force during the 2009 Green Movement and oversaw the violent crackdown, leading to EU sanctions."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

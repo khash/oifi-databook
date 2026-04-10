@@ -1,0 +1,27 @@
+{
+  "entity_id": "ahmad-reza-radan",
+  "slug": "ahmad-reza-radan",
+  "name_en": "Ahmad-Reza Radan",
+  "name_fa": "احمدرضا رادان",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Brigadier General Radan"
+  ],
+  "born": 1963,
+  "birthplace": "Iran",
+  "role": "Commander-in-Chief, Law Enforcement Command of Iran (2022–present)",
+  "faction": "hardliner",
+  "bio": "Ahmad-Reza Radan is the Commander-in-Chief of the [Law Enforcement Command of Iran](/orgs/law-enforcement-command), appointed in January 2023 by [Ali Khamenei](/people/ali-khamenei). A veteran security official, Radan previously served as deputy commander of Iran's police force during the [2009 Green Movement protests](/events/green-movement-protests-2009), where he oversaw the violent crackdown on demonstrators. He is under EU and US sanctions for his role in the suppression of protests. During the [January 2026 massacres](/events/january-2026-massacres), police forces under his command used live ammunition against protesters as part of the coordinated security response ordered by the Supreme National Security Council.",
+  "expertise": [
+    "law enforcement",
+    "crowd control",
+    "internal security"
+  ],
+  "tags": [
+    "sanctions",
+    "military"
+  ],
+  "photo": null,
+  "editorial_notes": "EU-sanctioned since 2011 for role in 2009 crackdown. US-sanctioned. Appointed Commander-in-Chief of FARAJA in January 2023.",
+  "irgc_member": false
+}

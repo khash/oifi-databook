@@ -1,0 +1,27 @@
+{
+  "entity_id": "ahmad-reza-radan-directed-january-2026-massacres",
+  "from_entity": "ahmad-reza-radan",
+  "to_entity": "january-2026-massacres",
+  "type": "directed",
+  "confidence": "confirmed",
+  "date_from": "2026-01",
+  "date_to": "2026-01",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Iranian_protests",
+      "source_title": "2025-2026 Iranian protests — Wikipedia",
+      "source_date": "2026-01-25",
+      "description": "As Commander-in-Chief of Iran's Law Enforcement Command, Radan directed police forces that participated in the lethal crackdown on protesters."
+    },
+    {
+      "source_url": "https://www.amnesty.org/en/latest/news/2026/01/iran-authorities-unleash-heavily-militarized-clampdown-to-hide-protest-massacres/",
+      "source_title": "Iran: Authorities unleash heavily militarized clampdown",
+      "source_date": "2026-01-14",
+      "description": "Amnesty International reported police forces used live ammunition, metal pellet shotguns, tear gas, and beatings against protesters."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

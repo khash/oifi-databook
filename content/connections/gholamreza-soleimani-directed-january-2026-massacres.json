@@ -1,0 +1,21 @@
+{
+  "entity_id": "gholamreza-soleimani-directed-january-2026-massacres",
+  "from_entity": "gholamreza-soleimani",
+  "to_entity": "january-2026-massacres",
+  "type": "directed",
+  "confidence": "confirmed",
+  "date_from": "2026-01",
+  "date_to": "2026-01",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2026_Iran_massacres",
+      "source_title": "2026 Iran massacres — Wikipedia",
+      "source_date": "2026-01-25",
+      "description": "As commander of the Basij militia, Soleimani directed Basij forces that were centrally involved in the mass killings during the 2025-2026 protests."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

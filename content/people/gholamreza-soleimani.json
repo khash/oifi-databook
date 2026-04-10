@@ -1,0 +1,28 @@
+{
+  "entity_id": "gholamreza-soleimani",
+  "slug": "gholamreza-soleimani",
+  "name_en": "Gholamreza Soleimani",
+  "name_fa": "غلامرضا سلیمانی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Brigadier General Soleimani"
+  ],
+  "born": null,
+  "birthplace": "Iran",
+  "role": "Commander of the Basij Resistance Force (d. 2026)",
+  "faction": "hardliner",
+  "bio": "Gholamreza Soleimani served as commander of the [Basij Resistance Force](/orgs/basij), the paramilitary volunteer militia subordinate to the [IRGC](/orgs/islamic-revolutionary-guard-corps). Under his command, Basij forces played a central role in the violent suppression of the [2025-2026 protests](/events/january-2026-massacres), using live ammunition and other lethal force against civilian demonstrators. He was killed on 17 March 2026 in an Israeli airstrike during the [assassination of Ali Larijani](/events/larijani-assassination-2026), along with other senior officials.",
+  "expertise": [
+    "paramilitary operations",
+    "internal security",
+    "crowd control"
+  ],
+  "tags": [
+    "deceased",
+    "assassinated",
+    "military"
+  ],
+  "photo": null,
+  "editorial_notes": "Killed 17 March 2026 in Israeli airstrike. Confirmed by Iranian state media.",
+  "irgc_member": true
+}

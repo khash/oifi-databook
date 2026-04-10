@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-mokhber-served-in-ebrahim-raisi",
+  "from_entity": "mohammad-mokhber",
+  "to_entity": "ebrahim-raisi",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2021",
+  "date_to": "2024",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "First Vice President under Raisi"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

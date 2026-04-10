@@ -1,0 +1,21 @@
+{
+  "entity_id": "gholam-ali-haddad-adel-headed-iranian-academy-of-persian-language",
+  "from_entity": "gholam-ali-haddad-adel",
+  "to_entity": "iranian-academy-of-persian-language",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "1995",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "President of the Academy of Persian Language and Literature since 1995"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

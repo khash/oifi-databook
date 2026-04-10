@@ -1,0 +1,21 @@
+{
+  "entity_id": "expediency-discernment-council-aligned-with-guardian-council",
+  "from_entity": "expediency-discernment-council",
+  "to_entity": "guardian-council",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Resolves disputes between Majlis and Guardian Council"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

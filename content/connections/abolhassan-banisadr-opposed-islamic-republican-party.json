@@ -1,0 +1,21 @@
+{
+  "entity_id": "abolhassan-banisadr-opposed-islamic-republican-party",
+  "from_entity": "abolhassan-banisadr",
+  "to_entity": "islamic-republican-party",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": "1980",
+  "date_to": "1981",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Banisadr came into conflict with the Islamic Republican Party, leading to his impeachment"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

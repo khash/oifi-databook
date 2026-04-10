@@ -1,0 +1,21 @@
+{
+  "entity_id": "parliamentary-election-iran-2004-named-in-alliance-of-builders-of-islamic-iran",
+  "from_entity": "parliamentary-election-iran-2004",
+  "to_entity": "alliance-of-builders-of-islamic-iran",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2004",
+  "date_to": "2004",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Abadgaran coalition won over 190 seats"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

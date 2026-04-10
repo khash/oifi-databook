@@ -1,0 +1,21 @@
+{
+  "entity_id": "morteza-motahhari-subject-of-forqan-group",
+  "from_entity": "morteza-motahhari",
+  "to_entity": "forqan-group",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1979",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Assassinated by the Forqan Group on 1 May 1979"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

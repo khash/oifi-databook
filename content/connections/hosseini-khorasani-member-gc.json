@@ -1,0 +1,21 @@
+{
+  "entity_id": "hosseini-khorasani-member-gc",
+  "from_entity": "ahmad-hosseini-khorasani",
+  "to_entity": "guardian-council",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.unitedagainstnucleariran.com/government-institution/guardian-council",
+      "source_title": "The Guardian Council",
+      "source_date": "2024-01-01",
+      "description": "Ahmad Hosseini Khorasani is a current clerical member of the Guardian Council."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

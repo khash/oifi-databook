@@ -1,0 +1,27 @@
+{
+  "entity_id": "hadi-tahan-nazif",
+  "slug": "hadi-tahan-nazif",
+  "name_en": "Hadi Tahan Nazif",
+  "name_fa": "هادی طحان نظیف",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Hadi Tahan-Nazif"
+  ],
+  "born": null,
+  "birthplace": "Iran",
+  "role": "Spokesman of the Guardian Council; jurist member",
+  "faction": "hardliner",
+  "bio": "Hadi Tahan Nazif is the current spokesman of the [Guardian Council](/orgs/guardian-council) and a jurist member. He serves as the Council's primary public communicator, issuing formal statements on candidate vetting decisions and electoral results. He confirmed [Siamak Rahpeyk](/people/siamak-rahpeyk)'s reappointment as deputy secretary in July 2023.",
+  "irgc_member": false,
+  "expertise": [
+    "constitutional law",
+    "public communications"
+  ],
+  "tags": [
+    "guardian-council",
+    "jurist",
+    "spokesman"
+  ],
+  "photo": null,
+  "editorial_notes": "Birth year not publicly confirmed. Current GC spokesman, replacing Abbas-Ali Kadkhodaei in that role."
+}

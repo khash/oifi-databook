@@ -1,0 +1,21 @@
+{
+  "entity_id": "mass-executions-1988-named-in-mojahedin-e-khalq",
+  "from_entity": "mass-executions-1988",
+  "to_entity": "mojahedin-e-khalq",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1988",
+  "date_to": "1988",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Executions primarily targeted MEK members"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

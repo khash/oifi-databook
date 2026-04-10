@@ -1,0 +1,21 @@
+{
+  "entity_id": "morteza-motahhari-founded-hussainiyyeh-ershad",
+  "from_entity": "morteza-motahhari",
+  "to_entity": "hussainiyyeh-ershad",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Co-founded the Hussainiyyeh Ershad"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

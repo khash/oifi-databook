@@ -1,0 +1,21 @@
+{
+  "entity_id": "khamenei-member-irp",
+  "from_entity": "ali-khamenei",
+  "to_entity": "islamic-republican-party",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1987",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Islamic_Republican_Party",
+      "source_title": "Islamic Republican Party",
+      "source_date": "2024-01-01",
+      "description": "Khamenei was a senior member of the IRP, serving as its Secretary-General before its dissolution."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

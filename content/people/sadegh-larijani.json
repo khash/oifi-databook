@@ -2,25 +2,32 @@
   "entity_id": "sadegh-larijani",
   "slug": "sadegh-larijani",
   "name_en": "Sadegh Larijani",
-  "name_fa": "صادق لاریجانی",
+  "name_fa": "صادق آملی لاریجانی",
   "has_native_fa_name": true,
   "aliases": [
-    "Sadegh Amoli Larijani"
+    "Sadegh Larijani",
+    "Sadegh Amoli Larijani",
+    "Sadeq Amoli Larijani",
+    "Sadiq Ardeshir Larijani"
   ],
   "born": 1960,
   "birthplace": "Najaf, Iraq",
-  "role": "Head of the Judiciary (2009–2019); Chairman of the Expediency Discernment Council",
+  "role": "Chairman of Expediency Discernment Council (2018–present); former Chief Justice (2009–2019); former Guardian Council member (2001–2021)",
   "faction": "conservative",
-  "bio": "Sadegh Larijani served as head of Iran's judiciary from 2009 to 2019, appointed by [Ali Khamenei](/people/ali-khamenei). His tenure coincided with the crackdown on the [Green Movement](/events/green-movement-protests-2009) and the prosecution of political dissidents. He subsequently became chairman of the [Expediency Discernment Council](/orgs/expediency-discernment-council). He is the brother of [Ali Larijani](/people/ali-larijani), the former Speaker of Parliament, making the Larijani family one of the most powerful political dynasties in the Islamic Republic.",
+  "bio": "Sadegh Amoli Larijani is the younger brother of former Majlis Speaker [Ali Larijani](/people/ali-larijani) and one of the most powerful figures in Iranian jurisprudence. He served as Chief Justice for a decade (2009–2019) and simultaneously sat on the [Guardian Council](/orgs/guardian-council) from 2001. His tenure as Chief Justice was characterised by mass prosecutions of Green Movement figures, executions of political prisoners and juveniles, and widespread corruption allegations. He was removed from the judiciary in 2019 and replaced by [Ebrahim Raisi](/people/ebrahim-raisi). He resigned from the [Guardian Council](/orgs/guardian-council) in September 2021 in a public protest after the Council disqualified his brother [Ali Larijani](/people/ali-larijani) from the presidential race. He was appointed chairman of the [Expediency Discernment Council](/orgs/expediency-discernment-council) by [Ali Khamenei](/people/ali-khamenei) in December 2018, replacing the late Mahmoud Hashemi Shahroudi.",
   "expertise": [
     "Islamic jurisprudence",
-    "judicial affairs"
+    "comparative philosophy",
+    "constitutional law"
   ],
   "tags": [
+    "guardian-council",
     "judiciary",
     "expediency-council",
+    "sanctions",
     "larijani-family"
   ],
   "photo": null,
-  "editorial_notes": "Brother of Ali Larijani. Born in Najaf to a clerical family of Iraqi-Iranian heritage."
+  "editorial_notes": "Born 1960 in Najaf. US sanctioned 2018, EU sanctioned 2012 for human rights abuses as Chief Justice. Resigned Guardian Council September 2021 after brother Ali was disqualified. Son-in-law of Grand Ayatollah Hossein Wahid Khorasani.",
+  "irgc_member": false
 }

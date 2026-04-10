@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-amir-abdollahian-aligned-with-irgc-quds-force",
+  "from_entity": "hossein-amir-abdollahian",
+  "to_entity": "irgc-quds-force",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Career diplomat close to the IRGC Quds Force"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

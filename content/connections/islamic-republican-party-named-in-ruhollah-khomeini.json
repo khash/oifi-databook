@@ -1,0 +1,21 @@
+{
+  "entity_id": "islamic-republican-party-named-in-ruhollah-khomeini",
+  "from_entity": "islamic-republican-party",
+  "to_entity": "ruhollah-khomeini",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1987",
+  "date_to": "1987",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Dissolved on Khomeini's recommendation"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

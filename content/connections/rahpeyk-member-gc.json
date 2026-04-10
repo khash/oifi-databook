@@ -1,0 +1,21 @@
+{
+  "entity_id": "rahpeyk-member-gc",
+  "from_entity": "siamak-rahpeyk",
+  "to_entity": "guardian-council",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://iranprimer.usip.org/blog/2020/feb/20/us-sanctions-guardian-council-members",
+      "source_title": "U.S. Sanctions Guardian Council Members",
+      "source_date": "2020-02-20",
+      "description": "Siamak Rahpeyk is a legal expert and Vice Secretary of the Guardian Council."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Sanctioned by US Treasury February 2020."
+}

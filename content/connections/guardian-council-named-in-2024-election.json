@@ -1,0 +1,21 @@
+{
+  "entity_id": "guardian-council-named-in-2024-election",
+  "from_entity": "guardian-council",
+  "to_entity": "parliamentary-election-iran-2024",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2023-12",
+  "date_to": "2024-02",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2024_Iranian_legislative_election",
+      "source_title": "2024 Iranian legislative election",
+      "source_date": "2024-03-01",
+      "description": "The Guardian Council approved approximately 15,200 of 48,847 registered candidates."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Disqualified most moderate and reformist candidates. Also rejected credentials of Mehdi Zamani after results."
+}

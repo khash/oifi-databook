@@ -1,0 +1,21 @@
+{
+  "entity_id": "mahsouli-served-in-presidency",
+  "from_entity": "sadegh-mahsouli",
+  "to_entity": "office-of-the-president",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2008",
+  "date_to": "2010",
+  "evidence": [
+    {
+      "source_url": "https://old.iranintl.com/en/iran/leadership-change-irans-leading-ultraconservative-party-ahead-2021-elections",
+      "source_title": "Leadership Change in Iran's Leading Ultraconservative Party",
+      "source_date": "2020-12-25",
+      "description": "Mahsouli served as Interior Minister (2008–2009) and Welfare Minister (2009–2010) under Ahmadinejad."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Interior Minister 2008–09, Welfare and Social Security Minister 2009–10."
+}

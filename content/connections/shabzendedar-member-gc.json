@@ -1,0 +1,21 @@
+{
+  "entity_id": "shabzendedar-member-gc",
+  "from_entity": "mehdi-shabzendedar-jahromi",
+  "to_entity": "guardian-council",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": "2022",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.eurasiareview.com/25072022-iran-95-year-old-cleric-jannati-reinstated-as-head-of-powerful-guardian-council/",
+      "source_title": "Iran: 95-Year-Old Cleric Jannati Reinstated",
+      "source_date": "2022-07-25",
+      "description": "Mehdi Shabzendedar Jahromi was reappointed to the Guardian Council by Khamenei in July 2022."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Reappointed July 2022 alongside Modarresi Yazdi."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "nabavian-served-in-12th-majlis",
+  "from_entity": "mahmoud-nabavian",
+  "to_entity": "islamic-consultative-assembly",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2024",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mahmoud_Nabavian",
+      "source_title": "Mahmoud Nabavian",
+      "source_date": "2024-01-01",
+      "description": "Nabavian was elected to the 12th Majlis representing Tehran in 2024, topping the Tehran ballot."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Top vote-getter in Tehran, 2024. Also served 9th Majlis (2012–2016)."
+}

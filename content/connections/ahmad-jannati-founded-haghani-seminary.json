@@ -1,0 +1,21 @@
+{
+  "entity_id": "ahmad-jannati-founded-haghani-seminary",
+  "from_entity": "ahmad-jannati",
+  "to_entity": "haghani-seminary",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Co-founded the Haghani Seminary in Qom"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

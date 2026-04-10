@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-motahari-named-in-guardian-council",
+  "from_entity": "ali-motahari",
+  "to_entity": "guardian-council",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2020",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Disqualified by the Guardian Council from the 2020 elections"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

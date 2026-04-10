@@ -1,0 +1,21 @@
+{
+  "entity_id": "raisi-helicopter-crash-2024-named-in-mohammad-mokhber",
+  "from_entity": "raisi-helicopter-crash-2024",
+  "to_entity": "mohammad-mokhber",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2024",
+  "date_to": "2024",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Mokhber served as acting president"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

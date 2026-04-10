@@ -1,0 +1,21 @@
+{
+  "entity_id": "islamic-iran-participation-front-named-in-guardian-council",
+  "from_entity": "islamic-iran-participation-front",
+  "to_entity": "guardian-council",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2004",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "All candidates barred from 2004 election"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

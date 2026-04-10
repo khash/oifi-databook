@@ -1,0 +1,21 @@
+{
+  "entity_id": "irgc-quds-force-subsidiary-of-islamic-revolutionary-guard-corps",
+  "from_entity": "irgc-quds-force",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "subsidiary-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "IRGC branch for extraterritorial operations"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

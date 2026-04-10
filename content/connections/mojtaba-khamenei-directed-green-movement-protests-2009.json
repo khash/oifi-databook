@@ -1,0 +1,21 @@
+{
+  "entity_id": "mojtaba-khamenei-directed-green-movement-protests-2009",
+  "from_entity": "mojtaba-khamenei",
+  "to_entity": "green-movement-protests-2009",
+  "type": "directed",
+  "confidence": "alleged",
+  "date_from": "2009",
+  "date_to": "2009",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Alleged central role in crackdown on Green Movement"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

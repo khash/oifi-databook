@@ -1,0 +1,21 @@
+{
+  "entity_id": "behzad-nabavi-aligned-with-mohammad-reza-khatami",
+  "from_entity": "behzad-nabavi",
+  "to_entity": "mohammad-reza-khatami",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "2000",
+  "date_to": "2004",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Alternated as First Deputy Speaker with M-R Khatami in 6th Majlis"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

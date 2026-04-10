@@ -1,0 +1,21 @@
+{
+  "entity_id": "pezeshkian-participated-2024-parliamentary",
+  "from_entity": "masoud-pezeshkian",
+  "to_entity": "parliamentary-election-iran-2024",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2024-03-01",
+  "date_to": "2024-03-01",
+  "evidence": [
+    {
+      "source_url": "https://irandataportal.syr.edu/parliamentary-elections/2024-parliamentary-election/",
+      "source_title": "2024 Parliamentary Election",
+      "source_date": "2024-01-01",
+      "description": "Pezeshkian won a seat for Tabriz in the 12th Majlis but resigned in July 2024 upon election as President."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Won seat, then resigned July 2024 upon election as President."
+}

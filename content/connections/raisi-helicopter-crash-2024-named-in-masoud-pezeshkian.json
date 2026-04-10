@@ -1,0 +1,21 @@
+{
+  "entity_id": "raisi-helicopter-crash-2024-named-in-masoud-pezeshkian",
+  "from_entity": "raisi-helicopter-crash-2024",
+  "to_entity": "masoud-pezeshkian",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Referenced in event description"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

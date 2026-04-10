@@ -1,0 +1,21 @@
+{
+  "entity_id": "mesbah-led-paydari",
+  "from_entity": "mohammad-taqi-mesbah-yazdi",
+  "to_entity": "front-of-islamic-revolution-stability",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "2011",
+  "date_to": "2021",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Taqi_Yazdi",
+      "source_title": "Mohammad-Taqi Mesbah Yazdi",
+      "source_date": "2024-01-01",
+      "description": "Mesbah Yazdi was the spiritual leader of the Front of Islamic Revolution Stability, founded by his disciples in 2011."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Spiritual leader until his death in January 2021."
+}

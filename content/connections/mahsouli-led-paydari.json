@@ -1,0 +1,21 @@
+{
+  "entity_id": "mahsouli-led-paydari",
+  "from_entity": "sadegh-mahsouli",
+  "to_entity": "front-of-islamic-revolution-stability",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "2020",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://old.iranintl.com/en/iran/leadership-change-irans-leading-ultraconservative-party-ahead-2021-elections",
+      "source_title": "Leadership Change in Iran's Leading Ultraconservative Party",
+      "source_date": "2020-12-25",
+      "description": "Mahsouli replaced Agha-Tehrani as Secretary-General of Paydari in December 2020."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Described as the real 'Godfather of Paydari' even before taking the formal Secretary-General role."
+}

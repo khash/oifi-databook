@@ -1,0 +1,21 @@
+{
+  "entity_id": "combatant-clergy-association-aligned-with-ali-larijani",
+  "from_entity": "combatant-clergy-association",
+  "to_entity": "ali-larijani",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Key affiliated figure"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

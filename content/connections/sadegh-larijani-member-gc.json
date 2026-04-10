@@ -1,0 +1,21 @@
+{
+  "entity_id": "sadegh-larijani-member-gc",
+  "from_entity": "sadegh-larijani",
+  "to_entity": "guardian-council",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": "2001",
+  "date_to": "2021",
+  "evidence": [
+    {
+      "source_url": "https://www.unitedagainstnucleariran.com/government-institution/guardian-council",
+      "source_title": "Sadegh Amoli Larijani Chairman of Iran's Expediency Council",
+      "source_date": "2024-01-01",
+      "description": "Larijani was appointed to the Guardian Council in 2001 and resigned in September 2021."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Resigned September 2021 after his brother Ali was disqualified from the presidential race."
+}

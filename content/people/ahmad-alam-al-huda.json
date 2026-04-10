@@ -1,0 +1,31 @@
+{
+  "entity_id": "ahmad-alam-al-huda",
+  "slug": "ahmad-alam-al-huda",
+  "name_en": "Ahmad Alam al-Huda",
+  "name_fa": "احمد علم‌الهدی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Alamolhoda",
+    "Alam-ul-Hoda"
+  ],
+  "born": 1947,
+  "birthplace": "Mashhad, Razavi Khorasan Province",
+  "role": "Friday Prayer Imam of Mashhad; representative of Supreme Leader in Razavi Khorasan",
+  "faction": "hardliner",
+  "bio": "Ahmad Alam al-Huda is the hardline Friday Prayer Imam of Mashhad, appointed by [Ali Khamenei](/people/ali-khamenei) as his personal representative in Razavi Khorasan Province. He is the father-in-law of [Ebrahim Raisi](/people/ebrahim-raisi) — Raisi married his daughter Jamileh Alamolhoda. He supervised Saeed Jalili's doctoral dissertation at Imam Sadeq University, and his sermons from Mashhad's Friday prayer platform have long served as a barometer of the hardliner wing's positions on domestic and foreign policy.",
+  "expertise": [
+    "Islamic jurisprudence",
+    "clerical governance",
+    "Khorasan politics"
+  ],
+  "tags": [
+    "clerical",
+    "hardliner",
+    "mashhad",
+    "friday-prayer-imam",
+    "raisi-family"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 1947. Father-in-law of Ebrahim Raisi. Supervised Saeed Jalili's PhD dissertation. Representative of Khamenei in Razavi Khorasan since 1994.",
+  "irgc_member": false
+}

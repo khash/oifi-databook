@@ -1,0 +1,26 @@
+{
+  "entity_id": "nasrollah-pejmanfar",
+  "slug": "nasrollah-pejmanfar",
+  "name_en": "Nasrollah Pejmanfar",
+  "name_fa": "نصرالله پژمانفر",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": "Iran",
+  "role": "MP; Chairman, Article 90 Committee, 11th and 12th Majlis",
+  "faction": "hardliner",
+  "bio": "Nasrollah Pejmanfar is a hardline MP and member of the [Front of Islamic Revolution Stability](/orgs/front-of-islamic-revolution-stability) who chairs the [Islamic Consultative Assembly](/orgs/islamic-consultative-assembly)'s Article 90 Committee — the parliamentary oversight body that investigates complaints against the judiciary, executive, and Majlis itself. His committee chairmanship gives the Paydari Front an institutional oversight lever in disputes with other state bodies.",
+  "expertise": [
+    "parliamentary oversight",
+    "constitutional law"
+  ],
+  "tags": [
+    "12th-majlis",
+    "hardliner",
+    "paydari",
+    "article-90-committee"
+  ],
+  "photo": null,
+  "editorial_notes": "Birth year not publicly confirmed. Central committee member of Paydari. Article 90 Committee chair in 11th and 12th Majlis.",
+  "irgc_member": false
+}

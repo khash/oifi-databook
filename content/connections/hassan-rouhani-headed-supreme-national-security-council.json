@@ -1,0 +1,21 @@
+{
+  "entity_id": "hassan-rouhani-headed-supreme-national-security-council",
+  "from_entity": "hassan-rouhani",
+  "to_entity": "supreme-national-security-council",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "1989",
+  "date_to": "2005",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Secretary of the Supreme National Security Council for sixteen years"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,29 @@
+{
+  "entity_id": "siamak-rahpeyk",
+  "slug": "siamak-rahpeyk",
+  "name_en": "Siamak Rahpeyk",
+  "name_fa": "سیامک ره‌پیک",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Siyamak Rahpeyk",
+    "Rah-Peyk"
+  ],
+  "born": 1963,
+  "birthplace": "Tehran",
+  "role": "Vice Secretary of the Guardian Council; jurist member",
+  "faction": "hardliner",
+  "bio": "Siamak Rahpeyk is a jurist member of the [Guardian Council](/orgs/guardian-council) and its Vice Secretary, responsible for overseeing the Council's executive and electoral affairs. Appointed to the position by Secretary [Ahmad Jannati](/people/ahmad-jannati), he has been the operational manager of Iran's candidate-vetting process. He publicly justified the mass disqualification of reformist candidates in the lead-up to the [2020 parliamentary election](/events/parliamentary-election-iran-2020). He was sanctioned by the US Treasury in February 2020 alongside [Ahmad Jannati](/people/ahmad-jannati), [Abbas-Ali Kadkhodaei](/people/abbas-ali-kadkhodaei), and others for denying Iranians free and fair elections.",
+  "irgc_member": false,
+  "expertise": [
+    "constitutional law",
+    "electoral supervision"
+  ],
+  "tags": [
+    "guardian-council",
+    "jurist",
+    "sanctions",
+    "electoral-vetting"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 1963 in Tehran (some sources give 1964). US Treasury sanctioned February 2020. Vice Secretary of Guardian Council."
+}

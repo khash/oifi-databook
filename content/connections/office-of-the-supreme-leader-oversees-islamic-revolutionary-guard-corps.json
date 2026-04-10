@@ -1,0 +1,21 @@
+{
+  "entity_id": "office-of-the-supreme-leader-oversees-islamic-revolutionary-guard-corps",
+  "from_entity": "office-of-the-supreme-leader",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "oversees",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "IRGC commander reports directly to Supreme Leader"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

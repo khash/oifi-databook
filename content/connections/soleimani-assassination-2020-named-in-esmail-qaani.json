@@ -1,0 +1,21 @@
+{
+  "entity_id": "soleimani-assassination-2020-named-in-esmail-qaani",
+  "from_entity": "soleimani-assassination-2020",
+  "to_entity": "esmail-qaani",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2020",
+  "date_to": "2020",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Qaani appointed replacement same day"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

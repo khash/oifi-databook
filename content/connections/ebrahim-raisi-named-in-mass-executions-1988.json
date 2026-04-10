@@ -1,0 +1,21 @@
+{
+  "entity_id": "ebrahim-raisi-named-in-mass-executions-1988",
+  "from_entity": "ebrahim-raisi",
+  "to_entity": "mass-executions-1988",
+  "type": "named-in",
+  "confidence": "alleged",
+  "date_from": "1988",
+  "date_to": "1988",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Alleged member of the Death Commission that ordered mass executions"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

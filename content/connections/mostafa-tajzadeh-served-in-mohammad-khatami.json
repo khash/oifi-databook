@@ -1,0 +1,21 @@
+{
+  "entity_id": "mostafa-tajzadeh-served-in-mohammad-khatami",
+  "from_entity": "mostafa-tajzadeh",
+  "to_entity": "mohammad-khatami",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1997",
+  "date_to": "2005",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Served as deputy interior minister under Khatami"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

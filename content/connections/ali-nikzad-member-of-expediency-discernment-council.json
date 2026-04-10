@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-nikzad-member-of-expediency-discernment-council",
+  "from_entity": "ali-nikzad",
+  "to_entity": "expediency-discernment-council",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Member of the Expediency Discernment Council"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

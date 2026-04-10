@@ -1,0 +1,21 @@
+{
+  "entity_id": "mojtaba-named-in-succession-event",
+  "from_entity": "mojtaba-khamenei",
+  "to_entity": "mojtaba-khamenei-supreme-leader-2026",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2026-03-08",
+  "date_to": "2026-03-08",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Assembly_of_Experts",
+      "source_title": "Assembly of Experts",
+      "source_date": "2026-03-08",
+      "description": "Mojtaba Khamenei was elected Supreme Leader by the Assembly of Experts on 8 March 2026."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

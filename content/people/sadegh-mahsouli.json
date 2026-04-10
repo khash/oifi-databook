@@ -1,0 +1,29 @@
+{
+  "entity_id": "sadegh-mahsouli",
+  "slug": "sadegh-mahsouli",
+  "name_en": "Sadegh Mahsouli",
+  "name_fa": "صادق محصولی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Sadiq Mahsuli"
+  ],
+  "born": 1959,
+  "birthplace": "Urmia, West Azerbaijan Province",
+  "role": "Secretary-General, Front of Islamic Revolution Stability; former Interior Minister (2008–2009)",
+  "faction": "hardliner",
+  "bio": "Sadegh Mahsouli is a former [IRGC](/orgs/islamic-revolutionary-guard-corps) commander and the organisational kingmaker within the [Front of Islamic Revolution Stability](/orgs/front-of-islamic-revolution-stability), described by Iranian media as the 'Godfather of Paydari'. He became Secretary-General in 2020, replacing [Morteza Agha-Tehrani](/people/morteza-agha-tehrani). A political associate of [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad) from their time as officials in Azerbaijan Province, he served as Interior Minister (2008–2009) and Welfare Minister (2009–2010) under Ahmadinejad. He commands significant IRGC-adjacent organisational networks across provincial Iran.",
+  "expertise": [
+    "IRGC operations",
+    "interior affairs",
+    "political organisation"
+  ],
+  "tags": [
+    "hardliner",
+    "paydari",
+    "irgc",
+    "former-minister"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 1959 in Urmia. IRGC commander in West and East Azerbaijan. Interior Minister 2008–09, Welfare Minister 2009–10. Replaced Agha-Tehrani as Paydari Secretary-General December 2020.",
+  "irgc_member": true
+}

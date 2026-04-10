@@ -1,0 +1,21 @@
+{
+  "entity_id": "mesbah-mentor-of-agha-tehrani",
+  "from_entity": "mohammad-taqi-mesbah-yazdi",
+  "to_entity": "morteza-agha-tehrani",
+  "type": "mentor-of",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://old.iranintl.com/en/iran/leadership-change-irans-leading-ultraconservative-party-ahead-2021-elections",
+      "source_title": "Leadership Change in Iran's Leading Ultraconservative Party",
+      "source_date": "2020-12-25",
+      "description": "Agha-Tehrani co-founded Paydari with Mesbah Yazdi's students; described as part of the Mesbah Yazdi network."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Confidence 'alleged' — direct teacher-student relationship inferred from Paydari co-founding and ideological alignment."
+}

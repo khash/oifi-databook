@@ -1,0 +1,21 @@
+{
+  "entity_id": "sadegh-larijani-appointed-by-ali-khamenei",
+  "from_entity": "sadegh-larijani",
+  "to_entity": "ali-khamenei",
+  "type": "appointed-by",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": "2019",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Appointed head of judiciary by Khamenei"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

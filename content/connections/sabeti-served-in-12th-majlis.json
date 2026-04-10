@@ -1,0 +1,21 @@
+{
+  "entity_id": "sabeti-served-in-12th-majlis",
+  "from_entity": "amir-hossein-sabeti",
+  "to_entity": "islamic-consultative-assembly",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2024",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://foreignpolicy.com/2024/03/07/iran-election-parliament-assembly-experts-conservatives-hardliners/",
+      "source_title": "Iran's Election Started a New Era",
+      "source_date": "2024-03-07",
+      "description": "Sabeti came second in the Tehran ballot in the 2024 election, entering the 12th Majlis for the first time."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "First-time MP. Second in Tehran ballot."
+}

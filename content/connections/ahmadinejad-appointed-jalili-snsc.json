@@ -1,0 +1,21 @@
+{
+  "entity_id": "ahmadinejad-appointed-jalili-snsc",
+  "from_entity": "mahmoud-ahmadinejad",
+  "to_entity": "saeed-jalili",
+  "type": "appointed",
+  "confidence": "confirmed",
+  "date_from": "2007",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Saeed_Jalili",
+      "source_title": "Saeed Jalili",
+      "source_date": "2024-01-01",
+      "description": "Ahmadinejad appointed Jalili as SNSC Secretary in October 2007 to replace Larijani."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

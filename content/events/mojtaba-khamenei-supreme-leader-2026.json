@@ -1,0 +1,25 @@
+{
+  "entity_id": "mojtaba-khamenei-supreme-leader-2026",
+  "slug": "mojtaba-khamenei-supreme-leader-2026",
+  "name": "Election of Mojtaba Khamenei as Supreme Leader",
+  "date": "2026-03-08",
+  "type": "appointment",
+  "description": "On 8 March 2026, the [Assembly of Experts](/orgs/assembly-of-experts) elected [Mojtaba Khamenei](/people/mojtaba-khamenei) — second son of the late [Ali Khamenei](/people/ali-khamenei) — as the third Supreme Leader of the Islamic Republic, eight days after his father's death on 28 February 2026. The election confirmed a dynastic transfer of power. An interim three-member leadership council — [Masoud Pezeshkian](/people/masoud-pezeshkian), [Gholam-Hossein Mohseni-Ejei](/people/gholam-hossein-mohseni-ejei), and [Alireza Arafi](/people/alireza-arafi) — had governed under Article 111 of the constitution in the intervening period. Mojtaba Khamenei, like his father in 1989, did not hold the marja' credential traditionally associated with the Supreme Leader role.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Assembly_of_Experts",
+      "title": "Assembly of Experts",
+      "date": "2026-03-08",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": [
+    "appointment",
+    "supreme-leader",
+    "succession",
+    "mojtaba-khamenei",
+    "2026"
+  ],
+  "editorial_notes": "Preceded by interim leadership council: Pezeshkian, Mohseni-Ejei, Arafi per Article 111."
+}

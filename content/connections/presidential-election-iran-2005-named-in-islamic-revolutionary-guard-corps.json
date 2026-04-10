@@ -1,0 +1,21 @@
+{
+  "entity_id": "presidential-election-iran-2005-named-in-islamic-revolutionary-guard-corps",
+  "from_entity": "presidential-election-iran-2005",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2005",
+  "date_to": "2005",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "IRGC networks backed Ahmadinejad"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

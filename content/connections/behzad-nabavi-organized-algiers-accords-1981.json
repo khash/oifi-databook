@@ -1,0 +1,21 @@
+{
+  "entity_id": "behzad-nabavi-organized-algiers-accords-1981",
+  "from_entity": "behzad-nabavi",
+  "to_entity": "algiers-accords-1981",
+  "type": "organized",
+  "confidence": "confirmed",
+  "date_from": "1981",
+  "date_to": "1981",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Iran's chief negotiator in the Algiers Accords"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

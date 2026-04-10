@@ -5,26 +5,28 @@
   "name_fa": "محمدتقی مصباح یزدی",
   "has_native_fa_name": true,
   "aliases": [
-    "Mesbah Yazdi",
-    "Ayatollah Mesbah"
+    "Ayatollah Mesbah Yazdi",
+    "Taqi Givechi"
   ],
   "born": 1935,
-  "birthplace": "Yazd, Yazd Province",
-  "role": "Ultra-conservative cleric and ideologue",
+  "birthplace": "Yazd",
+  "role": "Spiritual leader of the Front of Islamic Revolution Stability; co-founder of Haghani Seminary",
   "faction": "hardliner",
-  "bio": "Mohammad-Taqi Mesbah Yazdi was an ultra-conservative Shia cleric and one of the most polarising ideologues of the Islamic Republic. He co-founded the [Haghani Seminary](/orgs/haghani-seminary) in Qom alongside [Ahmad Jannati](/people/ahmad-jannati), which trained a generation of hardline clerics and security officials. He was a member of the [Assembly of Experts](/orgs/assembly-of-experts) and a key ideological backer of [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad). He was known for justifying violence against political opponents and opposing democratic reform. He died on 1 January 2021.",
+  "bio": "Mohammad-Taqi Mesbah Yazdi was the most influential ideologue of the Iranian ultra-right, described as 'a hardliner to terrify hardliners'. A student of [Ruhollah Khomeini](/people/ruhollah-khomeini) at the Qom seminary, he co-founded the [Haghani Seminary](/orgs/haghani-seminary) — the institution that trained the backbone of the Islamic Republic's clerical management class. He was the spiritual mentor of [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad) and the guiding force behind the [Front of Islamic Revolution Stability](/orgs/front-of-islamic-revolution-stability), formally established in 2011 by his students. He endorsed Saeed Jalili in the 2013 presidential election and backed [Ebrahim Raisi](/people/ebrahim-raisi) in 2017. He repeatedly urged the [Islamic Revolutionary Guard Corps](/orgs/islamic-revolutionary-guard-corps) to suppress the reform movement by any means. He died on 1 January 2021.",
   "expertise": [
     "Islamic philosophy",
-    "political theology",
-    "seminary education"
+    "velayat-e faqih theory",
+    "seminary education",
+    "political theology"
   ],
   "tags": [
-    "cleric",
+    "clerical",
     "hardliner",
     "haghani-seminary",
-    "assembly-of-experts",
+    "paydari",
     "deceased"
   ],
   "photo": null,
-  "editorial_notes": "Died 1 January 2021."
+  "editorial_notes": "Born 31 January 1935. Died 1 January 2021. Birth name Taqi Givechi. Co-founded Haghani Seminary with Mohammad Beheshti and Ahmad Jannati.",
+  "irgc_member": false
 }

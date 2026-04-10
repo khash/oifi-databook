@@ -5,15 +5,15 @@
   "name_fa": "مجلس خبرگان رهبری",
   "has_native_fa_name": true,
   "type": "state-institution",
-  "founded": 1983,
+  "founded": 1982,
   "dissolved": null,
   "parent_org": null,
-  "description": "The Assembly of Experts (Majles-e Khobregan-e Rahbari) is an 88-member body of senior clerics elected by popular vote for eight-year terms. Its constitutional mandate is to select, supervise, and if necessary dismiss the Supreme Leader. All candidates must be vetted by the [Guardian Council](/orgs/guardian-council). In practice, it has never exercised its supervisory or dismissal powers. It is chaired by a speaker elected from among its members.",
-  "faction": null,
+  "description": "The Assembly of Experts (Majles-e Khobregan-e Rahbari) is an 88-member body of Islamic scholars directly elected to eight-year terms by popular vote, with all candidates vetted by the [Guardian Council](/orgs/guardian-council). It holds the sole constitutional authority to appoint, supervise, and if necessary dismiss the Supreme Leader. Sessions are held at least twice per year and all records are confidential. It has convened twice to appoint a Supreme Leader: in June 1989 choosing [Ali Khamenei](/people/ali-khamenei) after [Ruhollah Khomeini](/people/ruhollah-khomeini)'s death, and on 8 March 2026 choosing [Mojtaba Khamenei](/people/mojtaba-khamenei). [Ahmad Jannati](/people/ahmad-jannati) served as its chairman from 2016 to 2024.",
+  "faction": "hardliner",
   "tags": [
-    "supreme-leader",
     "constitutional-body",
+    "supreme-leader-selection",
     "clerical"
   ],
-  "editorial_notes": "Members elected by popular vote but heavily vetted by Guardian Council."
+  "editorial_notes": "First session 1982. Sixth Assembly convened May 2024 — conservatives dominated after Guardian Council disqualification of moderates. Office building in Qom struck by Israeli airstrike 3 March 2026."
 }

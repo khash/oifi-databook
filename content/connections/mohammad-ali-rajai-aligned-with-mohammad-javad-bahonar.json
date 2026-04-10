@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-ali-rajai-aligned-with-mohammad-javad-bahonar",
+  "from_entity": "mohammad-ali-rajai",
+  "to_entity": "mohammad-javad-bahonar",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "1981",
+  "date_to": "1981",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "President and PM assassinated together"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

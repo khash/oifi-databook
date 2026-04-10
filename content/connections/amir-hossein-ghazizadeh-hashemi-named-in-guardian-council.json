@@ -1,0 +1,21 @@
+{
+  "entity_id": "amir-hossein-ghazizadeh-hashemi-named-in-guardian-council",
+  "from_entity": "amir-hossein-ghazizadeh-hashemi",
+  "to_entity": "guardian-council",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2021",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Approved by Guardian Council as candidate in 2021 presidential election"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

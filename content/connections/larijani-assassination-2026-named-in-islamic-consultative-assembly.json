@@ -1,0 +1,21 @@
+{
+  "entity_id": "larijani-assassination-2026-named-in-islamic-consultative-assembly",
+  "from_entity": "larijani-assassination-2026",
+  "to_entity": "islamic-consultative-assembly",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2026",
+  "date_to": "2026",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Larijani was former Majlis Speaker"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,23 @@
+{
+  "entity_id": "ahmad-hosseini-khorasani",
+  "slug": "ahmad-hosseini-khorasani",
+  "name_en": "Ahmad Hosseini Khorasani",
+  "name_fa": "احمد حسینی خراسانی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": "Khorasan Province",
+  "role": "Clerical member of the Guardian Council",
+  "faction": "hardliner",
+  "bio": "Ahmad Hosseini Khorasani is a clerical member of the [Guardian Council](/orgs/guardian-council), appointed by [Ali Khamenei](/people/ali-khamenei). He is one of the six Islamic jurists (faqihs) on the Council responsible for assessing legislation's conformity with Islamic law.",
+  "irgc_member": false,
+  "expertise": [
+    "Islamic jurisprudence"
+  ],
+  "tags": [
+    "guardian-council",
+    "clerical"
+  ],
+  "photo": null,
+  "editorial_notes": "Birth year not publicly confirmed."
+}

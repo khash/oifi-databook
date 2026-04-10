@@ -1,0 +1,21 @@
+{
+  "entity_id": "ghalibaf-participated-2024",
+  "from_entity": "mohammad-bagher-ghalibaf",
+  "to_entity": "parliamentary-election-iran-2024",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2024-03-01",
+  "date_to": "2024-03-01",
+  "evidence": [
+    {
+      "source_url": "https://foreignpolicy.com/2024/03/07/iran-election-parliament-assembly-experts-conservatives-hardliners/",
+      "source_title": "Iran's Election Started a New Era",
+      "source_date": "2024-03-07",
+      "description": "Ghalibaf ran in Tehran and placed fourth, well behind Nabavian and Sabeti despite SHANA's institutional backing."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Placed fourth in Tehran — SHANA coalition underperformed relative to Paydari."
+}

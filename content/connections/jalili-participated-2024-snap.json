@@ -1,0 +1,21 @@
+{
+  "entity_id": "jalili-participated-2024-snap",
+  "from_entity": "saeed-jalili",
+  "to_entity": "presidential-election-iran-2024-snap",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2024-06-28",
+  "date_to": "2024-07-05",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2024_Iranian_presidential_election",
+      "source_title": "2024 Iranian presidential election",
+      "source_date": "2024-07-05",
+      "description": "Jalili came second in the 2024 snap presidential election, losing the runoff to Pezeshkian."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Lost runoff 5 July 2024 with ~13.5 million votes vs Pezeshkian's ~16.4 million."
+}

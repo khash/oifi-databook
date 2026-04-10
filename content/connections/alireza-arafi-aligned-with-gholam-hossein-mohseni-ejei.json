@@ -1,0 +1,21 @@
+{
+  "entity_id": "alireza-arafi-aligned-with-gholam-hossein-mohseni-ejei",
+  "from_entity": "alireza-arafi",
+  "to_entity": "gholam-hossein-mohseni-ejei",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "2026",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Served alongside Mohseni-Ejei on interim leadership council"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

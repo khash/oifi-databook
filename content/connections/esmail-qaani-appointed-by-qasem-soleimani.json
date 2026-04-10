@@ -1,0 +1,21 @@
+{
+  "entity_id": "esmail-qaani-appointed-by-qasem-soleimani",
+  "from_entity": "esmail-qaani",
+  "to_entity": "qasem-soleimani",
+  "type": "appointed-by",
+  "confidence": "confirmed",
+  "date_from": "2020",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Succeeded Soleimani as Quds Force commander on the day of his assassination"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

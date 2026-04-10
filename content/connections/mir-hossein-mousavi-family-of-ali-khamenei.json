@@ -1,0 +1,21 @@
+{
+  "entity_id": "mir-hossein-mousavi-family-of-ali-khamenei",
+  "from_entity": "mir-hossein-mousavi",
+  "to_entity": "ali-khamenei",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Distant relative of Khamenei through shared ancestral line from Khameneh"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "popular-mobilization-forces-funded-by-irgc-quds-force",
+  "from_entity": "popular-mobilization-forces",
+  "to_entity": "irgc-quds-force",
+  "type": "funded-by",
+  "confidence": "confirmed",
+  "date_from": "2014",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Many groups receive training and funding from Quds Force"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

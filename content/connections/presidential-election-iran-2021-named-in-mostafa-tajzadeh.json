@@ -1,0 +1,21 @@
+{
+  "entity_id": "presidential-election-iran-2021-named-in-mostafa-tajzadeh",
+  "from_entity": "presidential-election-iran-2021",
+  "to_entity": "mostafa-tajzadeh",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2021",
+  "date_to": "2021",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Tajzadeh disqualified"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

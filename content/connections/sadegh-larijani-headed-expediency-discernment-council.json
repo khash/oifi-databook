@@ -1,0 +1,21 @@
+{
+  "entity_id": "sadegh-larijani-headed-expediency-discernment-council",
+  "from_entity": "sadegh-larijani",
+  "to_entity": "expediency-discernment-council",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2019",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Chairman of the Expediency Discernment Council"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

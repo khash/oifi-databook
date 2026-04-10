@@ -1,0 +1,21 @@
+{
+  "entity_id": "mojtaba-khamenei-coordinated-with-islamic-revolutionary-guard-corps",
+  "from_entity": "mojtaba-khamenei",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "coordinated-with",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Alleged to coordinate between Supreme Leader's office and IRGC"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

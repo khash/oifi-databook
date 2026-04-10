@@ -1,0 +1,26 @@
+{
+  "entity_id": "parliamentary-election-iran-2024",
+  "slug": "parliamentary-election-iran-2024",
+  "name": "2024 Iranian Parliamentary Election (12th Majlis)",
+  "date": "2024-03-01",
+  "type": "election",
+  "description": "The March 2024 parliamentary election produced Iran's lowest-ever turnout at approximately 41% nationally and below 25% in Tehran. The [Guardian Council](/orgs/guardian-council) approved only around 15,200 of 48,847 registered candidates to run. Principlists won 233 of 290 seats. In Tehran, ultraconservatives from the [Front of Islamic Revolution Stability](/orgs/front-of-islamic-revolution-stability) outperformed the establishment SHANA coalition backed by Speaker [Mohammad Bagher Ghalibaf](/people/mohammad-bagher-ghalibaf). [Mahmoud Nabavian](/people/mahmoud-nabavian) topped the Tehran ballot, followed by [Amir-Hossein Sabeti](/people/amir-hossein-sabeti) and [Hamid Rasaee](/people/hamid-rasaee). [Masoud Pezeshkian](/people/masoud-pezeshkian) won a Tabriz seat but resigned it in July 2024 upon election as President. A second round was held on 10 May 2024.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/2024_Iranian_legislative_election",
+      "title": "2024 Iranian legislative election",
+      "date": "2024-03-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": [
+    "election",
+    "parliamentary-election",
+    "12th-majlis",
+    "2024",
+    "low-turnout",
+    "paydari"
+  ],
+  "editorial_notes": "Record-low turnout. Paydari outperformed establishment SHANA coalition in Tehran. Pezeshkian resigned seat July 2024 after winning presidency."
+}

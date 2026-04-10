@@ -8,7 +8,7 @@ import { renderMarkdown, stripMarkdown } from "@/lib/markdown"
 import type { Org } from "@/lib/types"
 import { INVERSE_LABELS } from "@/lib/constants"
 import { FactionSpectrum } from "@/components/FactionSpectrum"
-import { ConfidenceBadge } from "@/components/ConfidenceBadge"
+import { ConnectionsList } from "@/components/ConnectionsList"
 
 export function getStaticPaths() {
   return getOrgs().map((o) => ({ params: { slug: o.slug }, props: { org: o } }))
@@ -16,6 +16,15 @@ export function getStaticPaths() {
 
 const { org } = Astro.props as { org: Org }
 const connections = getConnectionsForEntity(org.entity_id)
+const connectionItems = connections.map((conn) => {
+  const otherId = conn.from_entity === org.entity_id ? conn.to_entity : conn.from_entity
+  const other = getEntityById(otherId)
+  if (!other) return null
+  const entityType = getEntityTypeById(otherId)
+  const href = entityType === "person" ? `/people/${other.slug}` : entityType === "org" ? `/orgs/${other.slug}` : `/events/${other.slug}`
+  const label = conn.from_entity === org.entity_id ? conn.type.replace(/-/g, " ") : INVERSE_LABELS[conn.type] ?? conn.type.replace(/-/g, " ")
+  return { type: conn.type, confidence: conn.confidence, label, otherName: "name_en" in other ? other.name_en : other.name, href, dateFrom: conn.date_from, dateTo: conn.date_to }
+}).filter(Boolean)
 const parentOrg = org.parent_org ? getOrgById(org.parent_org) : null
 const desc = stripMarkdown(org.description).slice(0, 160)
 
@@ -56,8 +65,13 @@ const jsonLd = {
       )}
     </p>
 
+    {org.faction && (
+      <div class="mt-2 flex flex-wrap items-center gap-2">
+        <FactionSpectrum client:load faction={org.faction} />
+      </div>
+    )}
+
     <div class="mt-2 flex flex-wrap items-center gap-2">
-      {org.faction && <FactionSpectrum client:load faction={org.faction} />}
       {org.tags.map((tag) => (
         <Badge variant="outline">{tag.replace(/-/g, " ")}</Badge>
       ))}
@@ -72,35 +86,8 @@ const jsonLd = {
   </article>
 
   <Fragment slot="sidebar">
-    {connections.length > 0 && (
-      <div>
-        <h2 class="mb-3 text-sm font-medium text-muted-foreground">Connections</h2>
-        <ul class="space-y-2">
-          {connections.map((conn) => {
-            const otherId = conn.from_entity === org.entity_id ? conn.to_entity : conn.from_entity
-            const other = getEntityById(otherId)
-            if (!other) return null
-            const entityType = getEntityTypeById(otherId)
-            const href = entityType === "person"
-              ? `/people/${other.slug}`
-              : entityType === "org"
-                ? `/orgs/${other.slug}`
-                : `/events/${other.slug}`
-            const label = conn.from_entity === org.entity_id
-              ? conn.type.replace(/-/g, " ")
-              : INVERSE_LABELS[conn.type] ?? conn.type.replace(/-/g, " ")
-            return (
-              <li>
-                <a href={href} class="text-sm font-medium hover:underline">{"name_en" in other ? other.name_en : other.name}</a>
-                <div class="flex items-center gap-1 text-xs text-muted-foreground">
-                  <span>{label}</span>
-                  <ConfidenceBadge client:load confidence={conn.confidence} />
-                </div>
-              </li>
-            )
-          })}
-        </ul>
-      </div>
+    {connectionItems.length > 0 && (
+      <ConnectionsList client:load connections={connectionItems} />
     )}
   </Fragment>
 

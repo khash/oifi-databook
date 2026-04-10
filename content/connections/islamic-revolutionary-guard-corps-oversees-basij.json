@@ -1,0 +1,21 @@
+{
+  "entity_id": "islamic-revolutionary-guard-corps-oversees-basij",
+  "from_entity": "islamic-revolutionary-guard-corps",
+  "to_entity": "basij",
+  "type": "oversees",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Basij is subordinate to the IRGC"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

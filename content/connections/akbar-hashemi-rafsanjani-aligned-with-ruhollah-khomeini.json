@@ -1,0 +1,21 @@
+{
+  "entity_id": "akbar-hashemi-rafsanjani-aligned-with-ruhollah-khomeini",
+  "from_entity": "akbar-hashemi-rafsanjani",
+  "to_entity": "ruhollah-khomeini",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1989",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Confidant of Khomeini"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

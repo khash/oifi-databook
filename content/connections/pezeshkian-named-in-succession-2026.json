@@ -1,0 +1,21 @@
+{
+  "entity_id": "pezeshkian-named-in-succession-2026",
+  "from_entity": "masoud-pezeshkian",
+  "to_entity": "mojtaba-khamenei-supreme-leader-2026",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2026-02-28",
+  "date_to": "2026-03-08",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Assembly_of_Experts",
+      "source_title": "Assembly of Experts",
+      "source_date": "2026-03-08",
+      "description": "Pezeshkian served on the interim three-member leadership council between Khamenei's death and the appointment of a new Supreme Leader."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Served on Article 111 interim council with Mohseni-Ejei and Arafi."
+}

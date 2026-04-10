@@ -1,0 +1,21 @@
+{
+  "entity_id": "organization-aligned-with-front",
+  "from_entity": "mojahedin-of-islamic-revolution-organization",
+  "to_entity": "islamic-iran-participation-front",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Closely allied within reform movement"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

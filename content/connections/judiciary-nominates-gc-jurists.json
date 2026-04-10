@@ -1,0 +1,21 @@
+{
+  "entity_id": "judiciary-nominates-gc-jurists",
+  "from_entity": "judiciary-of-iran",
+  "to_entity": "guardian-council",
+  "type": "oversees",
+  "confidence": "confirmed",
+  "date_from": "1980",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Guardian_Council",
+      "source_title": "Guardian Council",
+      "source_date": "2024-01-01",
+      "description": "The Chief Justice of Iran nominates the six jurist members of the Guardian Council for confirmation by the Majlis."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Structural relationship; gives Supreme Leader indirect control over all 12 Guardian Council seats."
+}

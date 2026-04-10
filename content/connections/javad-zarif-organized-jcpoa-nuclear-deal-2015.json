@@ -1,0 +1,21 @@
+{
+  "entity_id": "javad-zarif-organized-jcpoa-nuclear-deal-2015",
+  "from_entity": "javad-zarif",
+  "to_entity": "jcpoa-nuclear-deal-2015",
+  "type": "organized",
+  "confidence": "confirmed",
+  "date_from": "2013",
+  "date_to": "2015",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Led the Iranian negotiating team for the JCPOA"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

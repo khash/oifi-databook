@@ -5,7 +5,7 @@ import { Separator } from "@/components/ui/separator"
 import { getPeople, getConnectionsForEntity, getEntityById, getEntityTypeById } from "@/lib/content"
 import { GraphExplorer } from "@/components/GraphExplorer"
 import { FactionSpectrum } from "@/components/FactionSpectrum"
-import { ConfidenceBadge } from "@/components/ConfidenceBadge"
+import { ConnectionsList } from "@/components/ConnectionsList"
 import { SPECTRUM_FACTIONS, INVERSE_LABELS } from "@/lib/constants"
 import { renderMarkdown, stripMarkdown } from "@/lib/markdown"
 import type { Person } from "@/lib/types"
@@ -16,6 +16,15 @@ export function getStaticPaths() {
 
 const { person } = Astro.props as { person: Person }
 const connections = getConnectionsForEntity(person.entity_id)
+const connectionItems = connections.map((conn) => {
+  const otherId = conn.from_entity === person.entity_id ? conn.to_entity : conn.from_entity
+  const other = getEntityById(otherId)
+  if (!other) return null
+  const entityType = getEntityTypeById(otherId)
+  const href = entityType === "person" ? `/people/${other.slug}` : entityType === "org" ? `/orgs/${other.slug}` : `/events/${other.slug}`
+  const label = conn.from_entity === person.entity_id ? conn.type.replace(/-/g, " ") : INVERSE_LABELS[conn.type] ?? conn.type.replace(/-/g, " ")
+  return { type: conn.type, confidence: conn.confidence, label, otherName: "name_en" in other ? other.name_en : other.name, href, dateFrom: conn.date_from, dateTo: conn.date_to }
+}).filter(Boolean)
 const desc = stripMarkdown(person.bio).slice(0, 160)
 
 const jsonLd = {
@@ -50,6 +59,12 @@ const jsonLd = {
         ? <FactionSpectrum faction={person.faction} />
         : <Badge variant="secondary">{person.faction.replace(/-/g, " ")}</Badge>
       }
+      {person.irgc_member && (
+        <Badge className="bg-green-800 text-white hover:bg-green-900">IRGC</Badge>
+      )}
+    </div>
+
+    <div class="mt-2 flex flex-wrap items-center gap-2">
       {person.tags.map((tag) => (
         <Badge variant="outline">{tag.replace(/-/g, " ")}</Badge>
       ))}
@@ -67,7 +82,7 @@ const jsonLd = {
   <Fragment slot="sidebar">
     {person.expertise.length > 0 && (
       <div>
-        <h2 class="mb-2 text-sm font-medium text-muted-foreground">Expertise</h2>
+        <h2 class="mb-2 text-sm font-medium text-muted-foreground">Known for</h2>
         <div class="flex flex-wrap gap-1.5">
           {person.expertise.map((tag) => (
             <Badge variant="outline">{tag.replace(/-/g, " ")}</Badge>
@@ -76,35 +91,8 @@ const jsonLd = {
       </div>
     )}
 
-    {connections.length > 0 && (
-      <div>
-        <h2 class="mb-3 text-sm font-medium text-muted-foreground">Connections</h2>
-        <ul class="space-y-2">
-          {connections.map((conn) => {
-            const otherId = conn.from_entity === person.entity_id ? conn.to_entity : conn.from_entity
-            const other = getEntityById(otherId)
-            if (!other) return null
-            const entityType = getEntityTypeById(otherId)
-            const href = entityType === "person"
-              ? `/people/${other.slug}`
-              : entityType === "org"
-                ? `/orgs/${other.slug}`
-                : `/events/${other.slug}`
-            const label = conn.from_entity === person.entity_id
-              ? conn.type.replace(/-/g, " ")
-              : INVERSE_LABELS[conn.type] ?? conn.type.replace(/-/g, " ")
-            return (
-              <li>
-                <a href={href} class="text-sm font-medium hover:underline">{"name_en" in other ? other.name_en : other.name}</a>
-                <div class="flex items-center gap-1 text-xs text-muted-foreground">
-                  <span>{label}</span>
-                  <ConfidenceBadge client:load confidence={conn.confidence} />
-                </div>
-              </li>
-            )
-          })}
-        </ul>
-      </div>
+    {connectionItems.length > 0 && (
+      <ConnectionsList client:load connections={connectionItems} />
     )}
   </Fragment>
 

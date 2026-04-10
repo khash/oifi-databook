@@ -1,0 +1,21 @@
+{
+  "entity_id": "khamenei-appointed-alam-al-huda",
+  "from_entity": "ali-khamenei",
+  "to_entity": "ahmad-alam-al-huda",
+  "type": "appointed",
+  "confidence": "confirmed",
+  "date_from": "1994",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ahmad_Alam_al-Huda",
+      "source_title": "Ahmad Alam al-Huda",
+      "source_date": "2024-01-01",
+      "description": "Alam al-Huda was appointed Friday Prayer Imam of Mashhad and Khamenei's representative in Razavi Khorasan."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Appointed 1994. Mashhad is Iran's second-largest city and a major pilgrimage centre."
+}

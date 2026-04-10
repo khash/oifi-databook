@@ -2,19 +2,20 @@
   "entity_id": "haghani-seminary",
   "slug": "haghani-seminary",
   "name_en": "Haghani Seminary",
-  "name_fa": "مدرسه حقانی",
+  "name_fa": "حوزه علمیه حقانی",
   "has_native_fa_name": true,
   "type": "religious",
   "founded": 1964,
   "dissolved": null,
   "parent_org": null,
-  "description": "The Haghani Seminary (Madrasa-ye Haghani) is a hardline Islamic seminary in Qom co-founded by [Ahmad Jannati](/people/ahmad-jannati) and [Mohammad-Taqi Mesbah Yazdi](/people/mohammad-taqi-mesbah-yazdi). It has trained a disproportionate number of the Islamic Republic's intelligence, security, and judicial officials. Graduates are heavily represented in the judiciary, the Ministry of Intelligence, and the [Guardian Council](/orgs/guardian-council). It is considered one of the most ideologically extreme training grounds in the Shia seminary system.",
+  "description": "The Haghani Seminary (Howzeh-ye Elmieh-ye Haqqani) is a hardline Shia seminary in Qom co-founded in the 1960s by [Mohammad-Taqi Mesbah Yazdi](/people/mohammad-taqi-mesbah-yazdi), Mohammad Beheshti, and [Ahmad Jannati](/people/ahmad-jannati). Described as 'a kind of École Nationale d'Administration for the Islamic Republic', its graduates form the backbone of the clerical management class in Iran's key political and security institutions. The seminary operates under a strict interpretation of velayat-e faqih and has been the primary incubator of the Haghani Circle ideology.",
   "faction": "hardliner",
   "tags": [
     "seminary",
     "qom",
-    "intelligence",
-    "hardliner"
+    "hardliner",
+    "haghani-circle",
+    "clerical-training"
   ],
-  "editorial_notes": "Known informally as the 'school of power' for its influence on security services."
+  "editorial_notes": "Founded 1964, originally Muntashiriya. Renamed after assassinations of founding members Beheshti and Qodousi in 1981. Centre of the Haghani Circle ideological network."
 }

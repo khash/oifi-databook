@@ -1,0 +1,21 @@
+{
+  "entity_id": "hezbollah-funded-by-islamic-revolutionary-guard-corps",
+  "from_entity": "hezbollah",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "funded-by",
+  "confidence": "confirmed",
+  "date_from": "1982",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Founded with IRGC support"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

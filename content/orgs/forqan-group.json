@@ -9,7 +9,7 @@
   "dissolved": 1980,
   "parent_org": null,
   "description": "The Forqan Group (Goruh-e Forqan) was a small militant Islamist organisation that carried out a series of assassinations in the chaotic months following the 1979 revolution. It assassinated [Morteza Motahhari](/people/morteza-motahhari) on 1 May 1979 and attempted to kill [Akbar Hashemi Rafsanjani](/people/akbar-hashemi-rafsanjani). The group opposed clerical rule, arguing for a return to the Quran without clerical intermediaries. Its members were arrested and executed by 1980.",
-  "faction": null,
+  "faction": "opposition",
   "tags": [
     "militant",
     "dissolved",

@@ -1,0 +1,21 @@
+{
+  "entity_id": "tahan-nazif-member-gc",
+  "from_entity": "hadi-tahan-nazif",
+  "to_entity": "guardian-council",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.unitedagainstnucleariran.com/government-institution/guardian-council",
+      "source_title": "The Guardian Council",
+      "source_date": "2024-01-01",
+      "description": "Hadi Tahan Nazif is the current spokesman and a jurist member of the Guardian Council."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Current spokesman."
+}

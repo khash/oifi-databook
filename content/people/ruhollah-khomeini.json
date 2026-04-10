@@ -12,7 +12,7 @@
   "born": 1902,
   "birthplace": "Khomein, Markazi Province",
   "role": "Founder and first Supreme Leader of the Islamic Republic of Iran",
-  "faction": "clerical",
+  "faction": "hardliner",
   "bio": "Ruhollah Khomeini was the Shia cleric and marja who led the 1979 [Iranian Revolution](/events/iranian-revolution-1979), overthrowing the Pahlavi monarchy and establishing the Islamic Republic. He served as Supreme Leader from 1979 until his death in June 1989. He developed the doctrine of Velayat-e Faqih (Guardianship of the Islamic Jurist), which forms the constitutional basis of clerical rule in Iran.",
   "expertise": [
     "Islamic jurisprudence",
@@ -27,5 +27,6 @@
     "deceased"
   ],
   "photo": null,
-  "editorial_notes": "Died 3 June 1989. Birth year disputed — some sources give 1900 or 1901; 1902 is most commonly cited."
+  "editorial_notes": "Died 3 June 1989. Birth year disputed — some sources give 1900 or 1901; 1902 is most commonly cited.",
+  "irgc_member": false
 }

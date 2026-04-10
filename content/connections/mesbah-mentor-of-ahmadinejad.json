@@ -1,0 +1,21 @@
+{
+  "entity_id": "mesbah-mentor-of-ahmadinejad",
+  "from_entity": "mohammad-taqi-mesbah-yazdi",
+  "to_entity": "mahmoud-ahmadinejad",
+  "type": "mentor-of",
+  "confidence": "confirmed",
+  "date_from": "2005",
+  "date_to": "2011",
+  "evidence": [
+    {
+      "source_url": "https://www.atlanticcouncil.org/blogs/iransource/the-rise-and-fall-of-the-crocodile-ayatollah/",
+      "source_title": "The rise and fall of the crocodile ayatollah",
+      "source_date": "2021-01-06",
+      "description": "Mesbah Yazdi was Ahmadinejad's spiritual mentor and strong supporter from 2005 until their public falling out in 2011."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Fell out with Ahmadinejad in 2011 over the latter's disputes with Khamenei."
+}

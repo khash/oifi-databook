@@ -1,0 +1,21 @@
+{
+  "entity_id": "ahmad-khatami-named-green-movement",
+  "from_entity": "ahmad-khatami",
+  "to_entity": "green-movement-protests-2009",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": "2009",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ahmad_Khatami",
+      "source_title": "Ahmad Khatami",
+      "source_date": "2024-01-01",
+      "description": "Khatami declared Green Movement protesters to be engaging in 'war against God' (mohareb) and called for execution of Mousavi and Karroubi."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

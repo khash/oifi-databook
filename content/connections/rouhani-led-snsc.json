@@ -1,0 +1,21 @@
+{
+  "entity_id": "rouhani-led-snsc",
+  "from_entity": "hassan-rouhani",
+  "to_entity": "supreme-national-security-council",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "1989",
+  "date_to": "2005",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hassan_Rouhani",
+      "source_title": "Hassan Rouhani",
+      "source_date": "2024-01-01",
+      "description": "Rouhani served as Secretary of the SNSC for sixteen years (1989–2005)."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Sixteen-year tenure as SNSC Secretary is the longest in the council's history."
+}

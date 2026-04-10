@@ -1,0 +1,21 @@
+{
+  "entity_id": "ahmadinejad-appointed-mottaki",
+  "from_entity": "mahmoud-ahmadinejad",
+  "to_entity": "manouchehr-mottaki",
+  "type": "appointed",
+  "confidence": "confirmed",
+  "date_from": "2005",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Manouchehr_Mottaki",
+      "source_title": "Manouchehr Mottaki",
+      "source_date": "2024-01-01",
+      "description": "Ahmadinejad appointed Mottaki as Foreign Minister in 2005."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "And later dismissed him in 2010."
+}

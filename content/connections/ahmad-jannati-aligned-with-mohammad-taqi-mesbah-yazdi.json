@@ -1,0 +1,21 @@
+{
+  "entity_id": "ahmad-jannati-aligned-with-mohammad-taqi-mesbah-yazdi",
+  "from_entity": "ahmad-jannati",
+  "to_entity": "mohammad-taqi-mesbah-yazdi",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Co-founded the Haghani Seminary together"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

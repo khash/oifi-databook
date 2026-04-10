@@ -50,6 +50,7 @@ export const personSchema = z.object({
   role: z.string(),
   faction: z.enum(FACTIONS),
   bio: z.string(),
+  irgc_member: z.boolean(),
   expertise: z.array(z.string()),
   tags: z.array(z.string()),
   photo: z.string().nullable(),

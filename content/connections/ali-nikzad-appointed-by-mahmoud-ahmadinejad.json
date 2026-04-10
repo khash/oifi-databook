@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-nikzad-appointed-by-mahmoud-ahmadinejad",
+  "from_entity": "ali-nikzad",
+  "to_entity": "mahmoud-ahmadinejad",
+  "type": "appointed-by",
+  "confidence": "confirmed",
+  "date_from": "2011",
+  "date_to": "2013",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Served as Minister of Roads and Urban Development under Ahmadinejad"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

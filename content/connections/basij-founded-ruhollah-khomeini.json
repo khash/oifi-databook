@@ -1,0 +1,21 @@
+{
+  "entity_id": "basij-founded-ruhollah-khomeini",
+  "from_entity": "basij",
+  "to_entity": "ruhollah-khomeini",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Founded by Khomeini in 1979"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

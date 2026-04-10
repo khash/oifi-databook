@@ -1,0 +1,21 @@
+{
+  "entity_id": "abolhassan-banisadr-aligned-with-ruhollah-khomeini",
+  "from_entity": "abolhassan-banisadr",
+  "to_entity": "ruhollah-khomeini",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1981",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Banisadr was close to Khomeini in exile before the revolution"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

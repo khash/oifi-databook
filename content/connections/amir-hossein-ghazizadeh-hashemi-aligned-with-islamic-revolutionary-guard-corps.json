@@ -1,0 +1,21 @@
+{
+  "entity_id": "amir-hossein-ghazizadeh-hashemi-aligned-with-islamic-revolutionary-guard-corps",
+  "from_entity": "amir-hossein-ghazizadeh-hashemi",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Represents IRGC-aligned principlist networks"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

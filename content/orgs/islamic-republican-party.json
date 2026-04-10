@@ -8,12 +8,13 @@
   "founded": 1979,
   "dissolved": 1987,
   "parent_org": null,
-  "description": "The Islamic Republican Party (IRP) was the dominant political party of the early Islamic Republic, founded in 1979 by a group of clerics including Mohammad Beheshti, [Akbar Hashemi Rafsanjani](/people/akbar-hashemi-rafsanjani), and [Ali Khamenei](/people/ali-khamenei). It was instrumental in consolidating clerical power and marginalising secular and leftist revolutionary factions, including President [Abolhassan Banisadr](/people/abolhassan-banisadr). Its headquarters were bombed in 1981, killing Beheshti and over 70 others. It was dissolved in 1987 on [Ruhollah Khomeini](/people/ruhollah-khomeini)'s recommendation after internal factional disputes.",
-  "faction": null,
+  "description": "The Islamic Republican Party (Hezb-e Jomhuri-ye Eslami, IRP) was the dominant political party of the early Islamic Republic, co-founded in 1979 by [Ruhollah Khomeini](/people/ruhollah-khomeini)'s inner circle including Mohammad Beheshti, [Akbar Hashemi Rafsanjani](/people/akbar-hashemi-rafsanjani), [Ali Khamenei](/people/ali-khamenei), and [Mohammad-Javad Bahonar](/people/mohammad-javad-bahonar). It dominated the first three [Majlis](/orgs/islamic-consultative-assembly) sessions and the executive branch until its dissolution in 1987 by Khomeini's order, following irreconcilable internal factional disputes. Its dissolution led directly to the formation of the rival [Combatant Clergy Association](/orgs/combatant-clergy-association) and [Association of Combatant Clerics](/orgs/association-of-combatant-clerics) as successor factions.",
+  "faction": "hardliner",
   "tags": [
-    "post-revolution",
     "dissolved",
+    "early-republic",
+    "1980s",
     "founding-party"
   ],
-  "editorial_notes": "Dissolved 1987. Founding members include many key figures of the Republic."
+  "editorial_notes": "Dissolved 1987 by Khomeini. Co-founder Beheshti assassinated in 1981 Hafte Tir bombing. Dominant in 1st and 2nd Majlis sessions."
 }

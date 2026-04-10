@@ -1,0 +1,21 @@
+{
+  "entity_id": "parliamentary-election-iran-2000-named-in-islamic-consultative-assembly",
+  "from_entity": "parliamentary-election-iran-2000",
+  "to_entity": "islamic-consultative-assembly",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2000",
+  "date_to": "2000",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Most reformist parliament in Islamic Republic history"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

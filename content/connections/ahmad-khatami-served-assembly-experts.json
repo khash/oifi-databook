@@ -1,0 +1,21 @@
+{
+  "entity_id": "ahmad-khatami-served-assembly-experts",
+  "from_entity": "ahmad-khatami",
+  "to_entity": "assembly-of-experts",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1999",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ahmad_Khatami",
+      "source_title": "Ahmad Khatami",
+      "source_date": "2024-01-01",
+      "description": "Khatami has been a member of the Assembly of Experts since 1999."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Elected from Kerman province in 1999."
+}

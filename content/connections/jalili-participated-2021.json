@@ -1,0 +1,21 @@
+{
+  "entity_id": "jalili-participated-2021",
+  "from_entity": "saeed-jalili",
+  "to_entity": "presidential-election-iran-2021",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2021-06-18",
+  "date_to": "2021-06-18",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Saeed_Jalili",
+      "source_title": "Saeed Jalili",
+      "source_date": "2024-01-01",
+      "description": "Jalili registered for the 2021 presidential election but withdrew before election day to consolidate the hardliner vote behind Raisi."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Withdrew before polling day to back Raisi."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "presidential-election-iran-2009-named-in-guardian-council",
+  "from_entity": "presidential-election-iran-2009",
+  "to_entity": "guardian-council",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": "2009",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Certified results after partial recount"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

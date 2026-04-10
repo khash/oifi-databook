@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-taqi-mesbah-yazdi-member-of-assembly-of-experts",
+  "from_entity": "mohammad-taqi-mesbah-yazdi",
+  "to_entity": "assembly-of-experts",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Member of the Assembly of Experts"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

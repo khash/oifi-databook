@@ -1,0 +1,21 @@
+{
+  "entity_id": "parliamentary-election-iran-2000-named-in-guardian-council",
+  "from_entity": "parliamentary-election-iran-2000",
+  "to_entity": "guardian-council",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2000",
+  "date_to": "2004",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "6th Majlis in constant conflict with Guardian Council"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

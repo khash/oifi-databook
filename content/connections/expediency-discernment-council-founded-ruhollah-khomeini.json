@@ -1,0 +1,21 @@
+{
+  "entity_id": "expediency-discernment-council-founded-ruhollah-khomeini",
+  "from_entity": "expediency-discernment-council",
+  "to_entity": "ruhollah-khomeini",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "1988",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Established by Khomeini in 1988"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

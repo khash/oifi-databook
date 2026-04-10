@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-motahari-opposed-islamic-revolutionary-guard-corps",
+  "from_entity": "ali-motahari",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Publicly criticised IRGC political interference"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

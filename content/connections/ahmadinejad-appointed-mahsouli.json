@@ -1,0 +1,21 @@
+{
+  "entity_id": "ahmadinejad-appointed-mahsouli",
+  "from_entity": "mahmoud-ahmadinejad",
+  "to_entity": "sadegh-mahsouli",
+  "type": "appointed",
+  "confidence": "confirmed",
+  "date_from": "2008",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://old.iranintl.com/en/iran/leadership-change-irans-leading-ultraconservative-party-ahead-2021-elections",
+      "source_title": "Leadership Change in Iran's Leading Ultraconservative Party",
+      "source_date": "2020-12-25",
+      "description": "Ahmadinejad appointed Mahsouli as Interior Minister in 2008."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "raisi-participated-2021",
+  "from_entity": "ebrahim-raisi",
+  "to_entity": "presidential-election-iran-2021",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2021-06-18",
+  "date_to": "2021-06-18",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2021_Iranian_presidential_election",
+      "source_title": "2021 Iranian presidential election",
+      "source_date": "2021-06-18",
+      "description": "Raisi won the 2021 presidential election with approximately 62% of the vote."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Won with ~62% of votes cast."
+}

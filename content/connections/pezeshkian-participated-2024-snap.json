@@ -1,0 +1,21 @@
+{
+  "entity_id": "pezeshkian-participated-2024-snap",
+  "from_entity": "masoud-pezeshkian",
+  "to_entity": "presidential-election-iran-2024-snap",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2024-06-28",
+  "date_to": "2024-07-05",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Masoud_Pezeshkian",
+      "source_title": "Masoud Pezeshkian",
+      "source_date": "2024-07-28",
+      "description": "Pezeshkian won the 2024 snap presidential election in the runoff."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Won with ~16.4 million votes in runoff."
+}

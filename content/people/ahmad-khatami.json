@@ -1,0 +1,31 @@
+{
+  "entity_id": "ahmad-khatami",
+  "slug": "ahmad-khatami",
+  "name_en": "Ahmad Khatami",
+  "name_fa": "احمد خاتمی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Ayatollah Ahmad Khatami",
+    "Seyyed Ahmad Khatami"
+  ],
+  "born": 1960,
+  "birthplace": "Semnan",
+  "role": "Member of Guardian Council; substitute Friday Prayer Imam of Tehran (2005–present)",
+  "faction": "hardliner",
+  "bio": "Ahmad Khatami is a hardline Shia cleric and member of the [Guardian Council](/orgs/guardian-council) and the [Assembly of Experts](/orgs/assembly-of-experts). He shares a surname with reformist President [Mohammad Khatami](/people/mohammad-khatami) but is entirely unrelated — a fact that gave him national prominence in 1997. He was appointed substitute Friday Prayer Imam of Tehran in 2005 by [Ali Khamenei](/people/ali-khamenei), becoming the youngest person to hold that position. During the [2009 Green Movement protests](/events/green-movement-protests-2009) he declared the protesters to be engaging in *mohareb* (war against God), a capital offence, and called on the judiciary to execute opposition leaders [Mir-Hossein Mousavi](/people/mir-hossein-mousavi) and [Mehdi Karroubi](/people/mehdi-karroubi) as 'leaders of sedition'. Appointed to the [Guardian Council](/orgs/guardian-council) by [Ali Khamenei](/people/ali-khamenei) in 2020 to replace Mohammad Yazdi. He was mentioned as a candidate for Supreme Leader succession but reportedly opposed [Mojtaba Khamenei](/people/mojtaba-khamenei)'s elevation in the Assembly of Experts.",
+  "irgc_member": false,
+  "expertise": [
+    "Islamic jurisprudence",
+    "Friday prayer",
+    "electoral vetting"
+  ],
+  "tags": [
+    "guardian-council",
+    "assembly-of-experts",
+    "hardliner",
+    "friday-prayer-imam",
+    "sanctions"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 8 May 1960 in Semnan. Not related to President Mohammad Khatami. Guardian Council member since 2020. Sanctioned by the US and EU for inciting violence against protesters."
+}

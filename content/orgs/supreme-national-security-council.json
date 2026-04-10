@@ -8,12 +8,13 @@
   "founded": 1989,
   "dissolved": null,
   "parent_org": null,
-  "description": "The Supreme National Security Council (SNSC) is Iran's top security and foreign policy decision-making body, chaired by the president. Its decisions require ratification by the Supreme Leader. Members include the heads of the three branches of government, the chief of the Supreme Command Council of the Armed Forces, military commanders, and the foreign and interior ministers. The secretary of the SNSC is one of the most powerful positions in Iran.",
+  "description": "The Supreme National Security Council (Shora-ye Ali-ye Amniat-e Melli, SNSC) was established by the 1989 constitutional revision to coordinate Iran's defence, intelligence, and foreign policy. The President chairs it; the Secretary — appointed with the Supreme Leader's approval — is effectively Iran's national security adviser and a direct representative of the [Office of the Supreme Leader](/orgs/office-of-the-supreme-leader). The SNSC has also been Iran's primary nuclear negotiating body. Key secretaries include [Hassan Rouhani](/people/hassan-rouhani) (1989–2005), [Ali Larijani](/people/ali-larijani) (2005–2007), and Saeed Jalili (2007–2013).",
   "faction": null,
   "tags": [
-    "security",
+    "national-security",
     "foreign-policy",
-    "constitutional-body"
+    "nuclear-negotiations",
+    "snsc"
   ],
-  "editorial_notes": "Established by the 1989 constitutional revision."
+  "editorial_notes": "Established 1989. President chairs; Secretary is de facto national security adviser. Nuclear file managed here under Rouhani, Larijani, and Jalili secretaryships."
 }

@@ -1,0 +1,21 @@
+{
+  "entity_id": "parliamentary-election-iran-2024-named-in-front-of-islamic-revolution-stability",
+  "from_entity": "parliamentary-election-iran-2024",
+  "to_entity": "front-of-islamic-revolution-stability",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Referenced in event description"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

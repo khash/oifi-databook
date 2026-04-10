@@ -1,0 +1,21 @@
+{
+  "entity_id": "hamid-reza-haji-babaee-served-in-mahmoud-ahmadinejad",
+  "from_entity": "hamid-reza-haji-babaee",
+  "to_entity": "mahmoud-ahmadinejad",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": "2013",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Served as Minister of Education under Ahmadinejad"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

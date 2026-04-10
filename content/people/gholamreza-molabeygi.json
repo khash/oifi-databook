@@ -1,0 +1,25 @@
+{
+  "entity_id": "gholamreza-molabeygi",
+  "slug": "gholamreza-molabeygi",
+  "name_en": "Gholamreza Molabeygi",
+  "name_fa": "غلامرضا مولابیگی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Mola-Beygi"
+  ],
+  "born": null,
+  "birthplace": "Iran",
+  "role": "Jurist member of the Guardian Council",
+  "faction": "hardliner",
+  "bio": "Gholamreza Molabeygi is a jurist member of the [Guardian Council](/orgs/guardian-council), nominated by the Chief Justice and confirmed by the [Islamic Consultative Assembly](/orgs/islamic-consultative-assembly). He is one of six constitutional law experts on the Council.",
+  "irgc_member": false,
+  "expertise": [
+    "constitutional law"
+  ],
+  "tags": [
+    "guardian-council",
+    "jurist"
+  ],
+  "photo": null,
+  "editorial_notes": "Birth year not publicly confirmed."
+}

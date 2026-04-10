@@ -1,0 +1,21 @@
+{
+  "entity_id": "constitutional-revision-1989-named-in-ruhollah-khomeini",
+  "from_entity": "constitutional-revision-1989",
+  "to_entity": "ruhollah-khomeini",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1989",
+  "date_to": "1989",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Amended shortly before Khomeini's death"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

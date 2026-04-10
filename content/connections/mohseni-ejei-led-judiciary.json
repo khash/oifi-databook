@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohseni-ejei-led-judiciary",
+  "from_entity": "gholam-hossein-mohseni-ejei",
+  "to_entity": "judiciary-of-iran",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "2021",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Gholam-Hossein_Mohseni-Ejei",
+      "source_title": "Gholam-Hossein Mohseni-Ejei",
+      "source_date": "2024-01-01",
+      "description": "Mohseni-Ejei was appointed Chief Justice by Khamenei in July 2021, replacing Raisi who became President."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

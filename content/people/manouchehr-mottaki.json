@@ -1,0 +1,29 @@
+{
+  "entity_id": "manouchehr-mottaki",
+  "slug": "manouchehr-mottaki",
+  "name_en": "Manouchehr Mottaki",
+  "name_fa": "منوچهر متکی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Manoochehr Mottaki"
+  ],
+  "born": 1956,
+  "birthplace": "Tehran",
+  "role": "Former Foreign Minister (2005–2010); MP for Tehran, 12th Majlis (2024–present)",
+  "faction": "conservative",
+  "bio": "Manouchehr Mottaki served as Foreign Minister under [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad) from 2005 to 2010, when he was abruptly dismissed by text message while on a foreign visit to Senegal. A career diplomat, he previously served as ambassador to Turkey and Pakistan and as a member of earlier [Islamic Consultative Assembly](/orgs/islamic-consultative-assembly) sessions. He ran for the 12th Majlis in 2024 heading the United Front principlist coalition list in Tehran.",
+  "expertise": [
+    "foreign policy",
+    "diplomacy",
+    "parliamentary affairs"
+  ],
+  "tags": [
+    "12th-majlis",
+    "conservative",
+    "foreign-ministry",
+    "diplomat"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 1956. Dismissed as FM by Ahmadinejad in December 2010 while in Senegal — firing communicated via text message. Led United Front list in 2024.",
+  "irgc_member": true
+}

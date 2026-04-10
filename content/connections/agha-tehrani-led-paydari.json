@@ -1,0 +1,21 @@
+{
+  "entity_id": "agha-tehrani-led-paydari",
+  "from_entity": "morteza-agha-tehrani",
+  "to_entity": "front-of-islamic-revolution-stability",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "2011",
+  "date_to": "2020",
+  "evidence": [
+    {
+      "source_url": "https://old.iranintl.com/en/iran/leadership-change-irans-leading-ultraconservative-party-ahead-2021-elections",
+      "source_title": "Leadership Change in Iran's Leading Ultraconservative Party",
+      "source_date": "2020-12-25",
+      "description": "Agha-Tehrani was the founding Secretary-General of Paydari, replaced by Mahsouli in December 2020."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

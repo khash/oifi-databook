@@ -1,0 +1,25 @@
+{
+  "entity_id": "mohammad-reza-modarresi-yazdi",
+  "slug": "mohammad-reza-modarresi-yazdi",
+  "name_en": "Mohammad-Reza Modarresi Yazdi",
+  "name_fa": "محمدرضا مدرسی یزدی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Modarresi Yazdi"
+  ],
+  "born": null,
+  "birthplace": "Yazd Province",
+  "role": "Clerical member of the Guardian Council (reappointed 2022)",
+  "faction": "hardliner",
+  "bio": "Mohammad-Reza Modarresi Yazdi is a clerical member of the [Guardian Council](/orgs/guardian-council), reappointed by [Ali Khamenei](/people/ali-khamenei) in July 2022 alongside Mehdi Shabzendedar Jahromi. A jurist from the Yazd clerical tradition, he is one of the six faqih members directly appointed by the Supreme Leader.",
+  "irgc_member": false,
+  "expertise": [
+    "Islamic jurisprudence"
+  ],
+  "tags": [
+    "guardian-council",
+    "clerical"
+  ],
+  "photo": null,
+  "editorial_notes": "Birth year not publicly confirmed. Reappointed to Guardian Council by Khamenei in July 2022."
+}

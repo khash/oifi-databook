@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-bagher-ghalibaf-served-in-islamic-revolutionary-guard-corps",
+  "from_entity": "mohammad-bagher-ghalibaf",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Senior IRGC figure who commanded Aerospace Force and national police"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

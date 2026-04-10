@@ -1,0 +1,21 @@
+{
+  "entity_id": "mesbah-founded-haghani",
+  "from_entity": "mohammad-taqi-mesbah-yazdi",
+  "to_entity": "haghani-seminary",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "1964",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Taqi_Yazdi",
+      "source_title": "Mohammad-Taqi Mesbah Yazdi",
+      "source_date": "2024-01-01",
+      "description": "Mesbah Yazdi and Mohammad Beheshti co-founded the Haghani Seminary in Qom in the 1960s."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Co-founded with Mohammad Beheshti and Ahmad Jannati."
+}

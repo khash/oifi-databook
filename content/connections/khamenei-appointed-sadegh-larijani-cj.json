@@ -1,0 +1,21 @@
+{
+  "entity_id": "khamenei-appointed-sadegh-larijani-cj",
+  "from_entity": "ali-khamenei",
+  "to_entity": "sadegh-larijani",
+  "type": "appointed",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://fanack.com/faces/features-insights/sadeq-larijani~77524/",
+      "source_title": "Sadeq Larijani",
+      "source_date": "2021-10-27",
+      "description": "Khamenei appointed Larijani as Chief Justice in August 2009."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Appointment described as surprising as Larijani lacked the required judicial experience."
+}

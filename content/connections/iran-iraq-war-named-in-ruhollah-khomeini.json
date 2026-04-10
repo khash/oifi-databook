@@ -1,0 +1,21 @@
+{
+  "entity_id": "iran-iraq-war-named-in-ruhollah-khomeini",
+  "from_entity": "iran-iraq-war",
+  "to_entity": "ruhollah-khomeini",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1988",
+  "date_to": "1988",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Khomeini accepted ceasefire"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

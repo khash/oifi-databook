@@ -1,0 +1,21 @@
+{
+  "entity_id": "presidential-election-iran-2009-named-in-mir-hossein-mousavi",
+  "from_entity": "presidential-election-iran-2009",
+  "to_entity": "mir-hossein-mousavi",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": "2009",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Reformist challenger who alleged fraud"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

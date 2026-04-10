@@ -1,0 +1,21 @@
+{
+  "entity_id": "alam-al-huda-mentor-of-jalili",
+  "from_entity": "ahmad-alam-al-huda",
+  "to_entity": "saeed-jalili",
+  "type": "mentor-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2002",
+  "evidence": [
+    {
+      "source_url": "https://www.atlanticcouncil.org/blogs/iransource/saeed-jalili-the-former-nuclear-negotiator-that-rubs-diplomats-the-wrong-way/",
+      "source_title": "Saeed Jalili: The former nuclear negotiator",
+      "source_date": "2021-06-11",
+      "description": "Alam al-Huda supervised Jalili's 2002 doctoral dissertation on Islamic political thought."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Supervised Jalili's PhD dissertation at Imam Sadeq University, completed 2002."
+}

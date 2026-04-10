@@ -1,0 +1,21 @@
+{
+  "entity_id": "green-movement-protests-2009-named-in-islamic-revolutionary-guard-corps",
+  "from_entity": "green-movement-protests-2009",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": "2009",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "IRGC involved in suppressing protests"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

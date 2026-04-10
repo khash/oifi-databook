@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-ali-rajai-subject-of-mojahedin-e-khalq",
+  "from_entity": "mohammad-ali-rajai",
+  "to_entity": "mojahedin-e-khalq",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "1981",
+  "date_to": "1981",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Assassinated by MEK bombing"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "mesbah-endorsed-jalili-2013",
+  "from_entity": "mohammad-taqi-mesbah-yazdi",
+  "to_entity": "saeed-jalili",
+  "type": "endorsed",
+  "confidence": "confirmed",
+  "date_from": "2013-06",
+  "date_to": "2013-06",
+  "evidence": [
+    {
+      "source_url": "https://grokipedia.com/page/Taqi_Yazdi",
+      "source_title": "Mohammad-Taqi Mesbah Yazdi",
+      "source_date": "2024-01-01",
+      "description": "Mesbah Yazdi endorsed Saeed Jalili in the 2013 presidential election."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Jalili finished third with 11.3% of the vote."
+}

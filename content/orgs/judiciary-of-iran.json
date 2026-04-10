@@ -1,0 +1,19 @@
+{
+  "entity_id": "judiciary-of-iran",
+  "slug": "judiciary-of-iran",
+  "name_en": "Judiciary of Iran",
+  "name_fa": "قوه قضائیه ایران",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 1979,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Judiciary of Iran (Qovveh-ye Qaza'iyeh) is the judicial branch of the Islamic Republic, headed by a Chief Justice appointed directly by the [Office of the Supreme Leader](/orgs/office-of-the-supreme-leader) for five-year terms. The Chief Justice also nominates the six jurist members of the [Guardian Council](/orgs/guardian-council). The Judiciary has been a primary instrument of political repression, overseeing prosecutions of reformists, journalists, and human rights defenders. Chief Justices since 1989 include [Akbar Hashemi Rafsanjani](/people/akbar-hashemi-rafsanjani) (briefly), Mohammad Yazdi (1989–1999), Mahmoud Hashemi Shahroudi (1999–2009), [Sadegh Amoli Larijani](/people/sadegh-larijani) (2009–2019), [Ebrahim Raisi](/people/ebrahim-raisi) (2019–2021), and [Gholam-Hossein Mohseni-Ejei](/people/gholam-hossein-mohseni-ejei) (2021–present).",
+  "faction": "hardliner",
+  "tags": [
+    "judiciary",
+    "state-institution",
+    "chief-justice"
+  ],
+  "editorial_notes": "Chief Justice appointed by Supreme Leader for 5-year renewable terms. Nominator of the 6 jurist members of the Guardian Council, giving the Supreme Leader indirect control over all 12 GC seats."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-amir-abdollahian-served-in-ebrahim-raisi",
+  "from_entity": "hossein-amir-abdollahian",
+  "to_entity": "ebrahim-raisi",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2021",
+  "date_to": "2024",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Served as Foreign Minister under President Raisi"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

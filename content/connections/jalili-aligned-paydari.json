@@ -1,0 +1,21 @@
+{
+  "entity_id": "jalili-aligned-paydari",
+  "from_entity": "saeed-jalili",
+  "to_entity": "front-of-islamic-revolution-stability",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "2011",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Saeed_Jalili",
+      "source_title": "Saeed Jalili",
+      "source_date": "2024-01-01",
+      "description": "Jalili is described as backed by the fundamentalist Paydari Front."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

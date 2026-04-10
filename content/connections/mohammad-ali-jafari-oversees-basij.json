@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-ali-jafari-oversees-basij",
+  "from_entity": "mohammad-ali-jafari",
+  "to_entity": "basij",
+  "type": "oversees",
+  "confidence": "confirmed",
+  "date_from": "2007",
+  "date_to": "2019",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Expanded the Basij militia's internal security role"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

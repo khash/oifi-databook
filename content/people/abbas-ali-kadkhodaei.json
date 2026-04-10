@@ -1,0 +1,31 @@
+{
+  "entity_id": "abbas-ali-kadkhodaei",
+  "slug": "abbas-ali-kadkhodaei",
+  "name_en": "Abbas-Ali Kadkhodaei",
+  "name_fa": "عباسعلی کدخدایی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Kadkhodai",
+    "Kadkhodaee",
+    "Abbasali Kadkhodaei"
+  ],
+  "born": 1961,
+  "birthplace": "Isfahan",
+  "role": "Jurist member of the Guardian Council; former spokesman",
+  "faction": "hardliner",
+  "bio": "Abbas-Ali Kadkhodaei is a jurist member of the [Guardian Council](/orgs/guardian-council) who served as the Council's public face as spokesman for many years before [Hadi Tahan Nazif](/people/hadi-tahan-nazif) took on that role. Appointed by Secretary [Ahmad Jannati](/people/ahmad-jannati) to the Central Committee for Election Supervision, he was the primary official voice defending the Council's candidate disqualifications. Before the [2020 parliamentary election](/events/parliamentary-election-iran-2020), he warned that 'insults or inflammatory remarks towards the Supreme Leader' would be considered during candidate vetting. He was sanctioned by the US Treasury in February 2020.",
+  "irgc_member": false,
+  "expertise": [
+    "constitutional law",
+    "electoral law",
+    "public communications"
+  ],
+  "tags": [
+    "guardian-council",
+    "jurist",
+    "sanctions",
+    "former-spokesman"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 1961 (some sources give 1962) in Isfahan. US Treasury sanctioned February 2020. Served as GC spokesman before Hadi Tahan Nazif."
+}

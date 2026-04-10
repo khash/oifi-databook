@@ -1,0 +1,21 @@
+{
+  "entity_id": "khatam-al-anbiya-subsidiary-of-islamic-revolutionary-guard-corps",
+  "from_entity": "khatam-al-anbiya",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "subsidiary-of",
+  "confidence": "confirmed",
+  "date_from": "1990",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "IRGC's engineering and construction arm"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

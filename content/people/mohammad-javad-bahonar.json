@@ -11,7 +11,7 @@
   "birthplace": "Kerman, Kerman Province",
   "role": "Prime Minister of Iran (1981)",
   "faction": "hardliner",
-  "bio": "Mohammad-Javad Bahonar was a cleric and co-founder of the [Islamic Republican Party](/orgs/islamic-republican-party). He served briefly as prime minister under [President Mohammad-Ali Rajai](/people/mohammad-ali-rajai) in 1981. He and Rajai were assassinated in a bombing at the prime minister's office on 30 August 1981, an attack attributed to the [Mojahedin-e Khalq](/orgs/mojahedin-e-khalq) (MEK). He had previously served as Minister of Education.",
+  "bio": "Mohammad-Javad Bahonar was a cleric and co-founder of the [Islamic Republican Party](/orgs/islamic-republican-party). He served briefly as prime minister under President [Mohammad-Ali Rajai](/people/mohammad-ali-rajai) in 1981. He and Rajai were assassinated in a bombing at the prime minister's office on 30 August 1981, an attack attributed to the [Mojahedin-e Khalq](/orgs/mojahedin-e-khalq) (MEK). He had previously served as Minister of Education.",
   "expertise": [
     "Islamic education",
     "revolutionary politics"
@@ -22,5 +22,6 @@
     "islamic-republican-party"
   ],
   "photo": null,
-  "editorial_notes": "Assassinated 30 August 1981 alongside President Rajai."
+  "editorial_notes": "Assassinated 30 August 1981 alongside President Rajai.",
+  "irgc_member": false
 }

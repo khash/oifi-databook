@@ -1,0 +1,21 @@
+{
+  "entity_id": "ahmad-khatami-member-gc",
+  "from_entity": "ahmad-khatami",
+  "to_entity": "guardian-council",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": "2020",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.unitedagainstnucleariran.com/government-institution/guardian-council",
+      "source_title": "The Guardian Council",
+      "source_date": "2024-01-01",
+      "description": "Ahmad Khatami was appointed to the Guardian Council by Khamenei in 2020 to replace Mohammad Yazdi."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Appointed 2020 after Mohammad Yazdi's resignation due to health."
+}

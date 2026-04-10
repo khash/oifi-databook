@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-larijani-family-of-sadegh-larijani",
+  "from_entity": "ali-larijani",
+  "to_entity": "sadegh-larijani",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Ali Larijani's brother Sadegh Larijani served as head of the judiciary"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "sibling",
+  "editorial_notes": ""
+}

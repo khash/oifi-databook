@@ -1,0 +1,21 @@
+{
+  "entity_id": "islamic-iran-participation-front-named-in-islamic-consultative-assembly",
+  "from_entity": "islamic-iran-participation-front",
+  "to_entity": "islamic-consultative-assembly",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2000",
+  "date_to": "2004",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Won majority in 6th Majlis"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

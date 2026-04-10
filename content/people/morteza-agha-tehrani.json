@@ -1,0 +1,30 @@
+{
+  "entity_id": "morteza-agha-tehrani",
+  "slug": "morteza-agha-tehrani",
+  "name_en": "Morteza Agha-Tehrani",
+  "name_fa": "مرتضی آقاتهرانی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Aqa-Tehrani"
+  ],
+  "born": null,
+  "birthplace": "Iran",
+  "role": "MP; Chairman, Majlis Cultural Committee; former Secretary-General, Front of Islamic Revolution Stability",
+  "faction": "hardliner",
+  "bio": "Morteza Agha-Tehrani is a senior figure of the [Front of Islamic Revolution Stability](/orgs/front-of-islamic-revolution-stability) who served as the party's founding Secretary-General before handing the role to [Sadegh Mahsouli](/people/sadegh-mahsouli) in late 2020. He chairs the [Islamic Consultative Assembly](/orgs/islamic-consultative-assembly)'s Cultural Committee — a key position that made him the primary legislative driver of the controversial mandatory hijab enforcement bill. He was also described as [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad)'s personal ethics teacher, cementing the Paydari network's ties to the Ahmadinejad presidency.",
+  "expertise": [
+    "cultural policy",
+    "Islamic ethics",
+    "parliamentary affairs"
+  ],
+  "tags": [
+    "12th-majlis",
+    "hardliner",
+    "paydari",
+    "cultural-committee",
+    "hijab-bill"
+  ],
+  "photo": null,
+  "editorial_notes": "Birth year not publicly confirmed. Former Secretary-General of Paydari. Cultural Committee chair in 11th and 12th Majlis.",
+  "irgc_member": false
+}

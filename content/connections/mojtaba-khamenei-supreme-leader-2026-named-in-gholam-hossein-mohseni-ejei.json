@@ -1,0 +1,21 @@
+{
+  "entity_id": "mojtaba-khamenei-supreme-leader-2026-named-in-gholam-hossein-mohseni-ejei",
+  "from_entity": "mojtaba-khamenei-supreme-leader-2026",
+  "to_entity": "gholam-hossein-mohseni-ejei",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Referenced in event description"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

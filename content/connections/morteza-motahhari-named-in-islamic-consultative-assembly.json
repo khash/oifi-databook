@@ -1,0 +1,21 @@
+{
+  "entity_id": "morteza-motahhari-named-in-islamic-consultative-assembly",
+  "from_entity": "morteza-motahhari",
+  "to_entity": "islamic-consultative-assembly",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1979",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Served as chairman of Khomeini's Council of the Islamic Revolution"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

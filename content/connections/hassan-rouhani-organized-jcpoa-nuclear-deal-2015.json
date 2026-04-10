@@ -1,0 +1,21 @@
+{
+  "entity_id": "hassan-rouhani-organized-jcpoa-nuclear-deal-2015",
+  "from_entity": "hassan-rouhani",
+  "to_entity": "jcpoa-nuclear-deal-2015",
+  "type": "organized",
+  "confidence": "confirmed",
+  "date_from": "2013",
+  "date_to": "2015",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Oversaw negotiations leading to the JCPOA"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

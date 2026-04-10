@@ -1,0 +1,21 @@
+{
+  "entity_id": "jannati-led-gc",
+  "from_entity": "ahmad-jannati",
+  "to_entity": "guardian-council",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "1992",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.unitedagainstnucleariran.com/government-institution/guardian-council",
+      "source_title": "The Guardian Council",
+      "source_date": "2024-01-01",
+      "description": "Ahmad Jannati has served as Secretary of the Guardian Council since 1992."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Member since 1980; Secretary since 1992."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "rafsanjani-founded-irp",
+  "from_entity": "akbar-hashemi-rafsanjani",
+  "to_entity": "islamic-republican-party",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Islamic_Republican_Party",
+      "source_title": "Islamic Republican Party",
+      "source_date": "2024-01-01",
+      "description": "Rafsanjani was a co-founder of the Islamic Republican Party in 1979."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "mir-hossein-mousavi-named-in-iran-iraq-war",
+  "from_entity": "mir-hossein-mousavi",
+  "to_entity": "iran-iraq-war",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1980",
+  "date_to": "1988",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Served as prime minister managing economy through entire Iran-Iraq War"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

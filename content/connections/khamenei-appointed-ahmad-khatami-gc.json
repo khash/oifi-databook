@@ -1,0 +1,21 @@
+{
+  "entity_id": "khamenei-appointed-ahmad-khatami-gc",
+  "from_entity": "ali-khamenei",
+  "to_entity": "ahmad-khatami",
+  "type": "appointed",
+  "confidence": "confirmed",
+  "date_from": "2020",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.unitedagainstnucleariran.com/government-institution/guardian-council",
+      "source_title": "The Guardian Council",
+      "source_date": "2024-01-01",
+      "description": "Ahmad Khatami was appointed to the Guardian Council by Supreme Leader Ali Khamenei."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Also appointed Tehran Friday Prayer substitute imam in 2005."
+}

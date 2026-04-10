@@ -1,0 +1,21 @@
+{
+  "entity_id": "sadegh-larijani-named-2021-election",
+  "from_entity": "sadegh-larijani",
+  "to_entity": "presidential-election-iran-2021",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2021-06",
+  "date_to": "2021-09",
+  "evidence": [
+    {
+      "source_url": "https://www.unitedagainstnucleariran.com/government-institution/guardian-council",
+      "source_title": "Sadegh Amoli Larijani",
+      "source_date": "2024-01-01",
+      "description": "Sadegh Larijani resigned from the Guardian Council after it disqualified his brother Ali from the 2021 presidential election."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "His resignation was described as a rare public airing of fissures within the Guardian Council."
+}

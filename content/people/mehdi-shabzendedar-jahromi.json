@@ -1,0 +1,25 @@
+{
+  "entity_id": "mehdi-shabzendedar-jahromi",
+  "slug": "mehdi-shabzendedar-jahromi",
+  "name_en": "Mehdi Shabzendedar Jahromi",
+  "name_fa": "مهدی شب‌زنده‌دار جهرمی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Shabzendehdar"
+  ],
+  "born": null,
+  "birthplace": "Jahrom, Fars Province",
+  "role": "Clerical member of the Guardian Council (reappointed 2022)",
+  "faction": "hardliner",
+  "bio": "Mehdi Shabzendedar Jahromi is a clerical member of the [Guardian Council](/orgs/guardian-council), reappointed by [Ali Khamenei](/people/ali-khamenei) in July 2022 alongside [Mohammad-Reza Modarresi Yazdi](/people/mohammad-reza-modarresi-yazdi). He is one of the six faqih members directly appointed by the Supreme Leader to serve on the Council.",
+  "irgc_member": false,
+  "expertise": [
+    "Islamic jurisprudence"
+  ],
+  "tags": [
+    "guardian-council",
+    "clerical"
+  ],
+  "photo": null,
+  "editorial_notes": "Birth year not publicly confirmed. Reappointed July 2022 by Khamenei."
+}

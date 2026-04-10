@@ -1,0 +1,21 @@
+{
+  "entity_id": "alam-al-huda-family-of-raisi",
+  "from_entity": "ahmad-alam-al-huda",
+  "to_entity": "ebrahim-raisi",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.atlanticcouncil.org/blogs/iransource/saeed-jalili-the-former-nuclear-negotiator-that-rubs-diplomats-the-wrong-way/",
+      "source_title": "Saeed Jalili: The former nuclear negotiator",
+      "source_date": "2021-06-11",
+      "description": "Alam al-Huda's daughter Jamileh married Ebrahim Raisi, making Alam al-Huda Raisi's father-in-law."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "in-law",
+  "editorial_notes": "Alam al-Huda's daughter Jamileh Alamolhoda married Raisi."
+}

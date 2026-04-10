@@ -1,0 +1,21 @@
+{
+  "entity_id": "mahmoud-ahmadinejad-named-in-green-movement-protests-2009",
+  "from_entity": "mahmoud-ahmadinejad",
+  "to_entity": "green-movement-protests-2009",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": "2009",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Disputed 2009 election triggered the Green Movement"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

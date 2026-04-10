@@ -1,0 +1,21 @@
+{
+  "entity_id": "mojtaba-khamenei-coordinated-with-basij",
+  "from_entity": "mojtaba-khamenei",
+  "to_entity": "basij",
+  "type": "coordinated-with",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Alleged to coordinate between Supreme Leader's office and Basij"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-javad-bahonar-served-in-mohammad-ali-rajai",
+  "from_entity": "mohammad-javad-bahonar",
+  "to_entity": "mohammad-ali-rajai",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1981",
+  "date_to": "1981",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Served as PM under President Rajai"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

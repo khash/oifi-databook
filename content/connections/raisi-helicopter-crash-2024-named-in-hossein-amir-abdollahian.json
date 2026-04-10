@@ -1,0 +1,21 @@
+{
+  "entity_id": "raisi-helicopter-crash-2024-named-in-hossein-amir-abdollahian",
+  "from_entity": "raisi-helicopter-crash-2024",
+  "to_entity": "hossein-amir-abdollahian",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2024",
+  "date_to": "2024",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Foreign Minister killed in same crash"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

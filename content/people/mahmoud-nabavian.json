@@ -1,0 +1,30 @@
+{
+  "entity_id": "mahmoud-nabavian",
+  "slug": "mahmoud-nabavian",
+  "name_en": "Mahmoud Nabavian",
+  "name_fa": "سید محمود نبویان",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Seyyed Mahmoud Nabavian"
+  ],
+  "born": null,
+  "birthplace": "Iran",
+  "role": "MP for Tehran, 12th Majlis (2024–present); member, Front of Islamic Revolution Stability",
+  "faction": "hardliner",
+  "bio": "Mahmoud Nabavian is a Shia cleric who topped the Tehran ballot in the 2024 parliamentary election with the highest vote count in the capital. A student of [Mohammad-Taqi Mesbah Yazdi](/people/mohammad-taqi-mesbah-yazdi) and a senior member of the [Front of Islamic Revolution Stability](/orgs/front-of-islamic-revolution-stability), he has been a fierce opponent of Iran's nuclear diplomacy, comparing the [JCPOA](/events/jcpoa-nuclear-deal-2015) to Iran's humiliating 1828 territorial concessions to Russia. He attacked [Mohammad Javad Zarif](/people/javad-zarif) over the nuclear deal and was accused of lobbying against its revival in Vienna in 2022. He holds a PhD in philosophy from the [Imam Khomeini](/people/ruhollah-khomeini) Educational and Research Institute. Previously served in the 9th [Majlis](/orgs/islamic-consultative-assembly) (2012–2016).",
+  "expertise": [
+    "Islamic philosophy",
+    "nuclear policy",
+    "foreign affairs"
+  ],
+  "tags": [
+    "12th-majlis",
+    "hardliner",
+    "paydari",
+    "anti-jcpoa",
+    "tehran"
+  ],
+  "photo": null,
+  "editorial_notes": "Birth year not publicly confirmed. Top vote-getter in Tehran, March 2024. Also served 9th Majlis (2012–2016).",
+  "irgc_member": false
+}

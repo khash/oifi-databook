@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-javad-bahonar-founded-islamic-republican-party",
+  "from_entity": "mohammad-javad-bahonar",
+  "to_entity": "islamic-republican-party",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Co-founded the Islamic Republican Party"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

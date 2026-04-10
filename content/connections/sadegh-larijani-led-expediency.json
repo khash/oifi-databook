@@ -1,0 +1,21 @@
+{
+  "entity_id": "sadegh-larijani-led-expediency",
+  "from_entity": "sadegh-larijani",
+  "to_entity": "expediency-discernment-council",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "2018",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://fanack.com/faces/features-insights/sadeq-larijani~77524/",
+      "source_title": "Sadeq Larijani: A leading figure in Iran's history of suppression",
+      "source_date": "2021-10-27",
+      "description": "Khamenei appointed Larijani as chairman of the Expediency Council in December 2018."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Replaced Mahmoud Hashemi Shahroudi who died in December 2018."
+}

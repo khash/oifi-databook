@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-taqi-mesbah-yazdi-mentor-of-ebrahim-raisi",
+  "from_entity": "mohammad-taqi-mesbah-yazdi",
+  "to_entity": "ebrahim-raisi",
+  "type": "mentor-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Referenced in person description"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

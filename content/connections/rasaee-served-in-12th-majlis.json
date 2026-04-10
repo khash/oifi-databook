@@ -1,0 +1,21 @@
+{
+  "entity_id": "rasaee-served-in-12th-majlis",
+  "from_entity": "hamid-rasaee",
+  "to_entity": "islamic-consultative-assembly",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2024",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hamid_Rasaee",
+      "source_title": "Hamid Rasaee",
+      "source_date": "2024-01-01",
+      "description": "Rasaee was elected to the 12th Majlis representing Tehran in 2024."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Also served 8th and 9th Majlis."
+}

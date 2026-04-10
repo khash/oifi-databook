@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-salami-appointed-by-mohammad-ali-jafari",
+  "from_entity": "hossein-salami",
+  "to_entity": "mohammad-ali-jafari",
+  "type": "appointed-by",
+  "confidence": "confirmed",
+  "date_from": "2019",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Appointed IRGC commander following removal of Jafari"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

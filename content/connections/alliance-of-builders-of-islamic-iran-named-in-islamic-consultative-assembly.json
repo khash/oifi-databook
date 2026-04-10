@@ -1,0 +1,21 @@
+{
+  "entity_id": "alliance-of-builders-of-islamic-iran-named-in-islamic-consultative-assembly",
+  "from_entity": "alliance-of-builders-of-islamic-iran",
+  "to_entity": "islamic-consultative-assembly",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2004",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Swept the 2004 parliamentary elections"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

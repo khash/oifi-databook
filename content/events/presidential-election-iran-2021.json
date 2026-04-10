@@ -4,7 +4,7 @@
   "name": "2021 Iranian Presidential Election",
   "date": "2021-06-18",
   "type": "election",
-  "description": "The 2021 presidential election was marked by the [Guardian Council](/orgs/guardian-council)'s disqualification of all major moderate and reformist candidates, including [Ali Larijani](/people/ali-larijani) and [Mostafa Tajzadeh](/people/mostafa-tajzadeh). Only seven of 592 applicants were approved to run. [Ebrahim Raisi](/people/ebrahim-raisi) won with 62% of the vote, but turnout was a record-low 48.8%, with widespread calls for boycott. The election was widely seen as engineered to ensure Raisi's victory and consolidate hardliner control of all branches of government.",
+  "description": "The June 2021 presidential election produced one of the lowest turnouts in the Islamic Republic's history — approximately 48% nationally, and around 26% in Tehran. The [Guardian Council](/orgs/guardian-council) disqualified 585 of 592 candidates who registered, approving only seven to run. The disqualifications included former Majlis Speaker [Ali Larijani](/people/ali-larijani), former president [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad), and First Vice President Eshaq Jahangiri. [Saeed Jalili](/people/saeed-jalili) withdrew before election day to consolidate the hardliner vote. [Ebrahim Raisi](/people/ebrahim-raisi) won with approximately 62% of votes cast. The disqualification of [Ali Larijani](/people/ali-larijani) prompted his brother [Sadegh Amoli Larijani](/people/sadegh-larijani) to resign from the [Guardian Council](/orgs/guardian-council) in protest.",
   "body": null,
   "sources": [
     {
@@ -15,10 +15,14 @@
     }
   ],
   "tags": [
-    "election",
+    "guardian-council",
     "low-turnout",
+    "mass-disqualification",
+    "raisi",
     "engineered",
-    "2021"
+    "2021",
+    "presidential-election",
+    "election"
   ],
-  "editorial_notes": "Record-low turnout. Widely seen as engineered outcome."
+  "editorial_notes": "Record-low turnout. 585 of 592 candidates disqualified. Raisi's win was the culmination of the hardliner consolidation of power that began with the 2020 parliamentary sweep."
 }

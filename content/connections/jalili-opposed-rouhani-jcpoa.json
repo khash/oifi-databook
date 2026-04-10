@@ -1,0 +1,21 @@
+{
+  "entity_id": "jalili-opposed-rouhani-jcpoa",
+  "from_entity": "saeed-jalili",
+  "to_entity": "hassan-rouhani",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": "2013",
+  "date_to": "2021",
+  "evidence": [
+    {
+      "source_url": "https://www.pbs.org/newshour/world/who-is-saeed-jalili-the-hard-line-former-negotiator-seeking-irans-presidency",
+      "source_title": "Who is Saeed Jalili",
+      "source_date": "2024-07-04",
+      "description": "Jalili formed what he described as a 'shadow government' during the Rouhani years to try to undercut the JCPOA."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Jalili's 'shadow government' actively lobbied against the JCPOA and its revival."
+}

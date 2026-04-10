@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-khatami-opposed-guardian-council",
+  "from_entity": "mohammad-khatami",
+  "to_entity": "guardian-council",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": "1997",
+  "date_to": "2005",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Reform agenda consistently blocked by Guardian Council"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

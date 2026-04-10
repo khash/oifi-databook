@@ -1,0 +1,21 @@
+{
+  "entity_id": "javad-zarif-served-in-hassan-rouhani",
+  "from_entity": "javad-zarif",
+  "to_entity": "hassan-rouhani",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2013",
+  "date_to": "2021",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Served as Foreign Minister throughout Rouhani's presidency"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

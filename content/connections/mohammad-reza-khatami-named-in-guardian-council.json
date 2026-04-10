@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-reza-khatami-named-in-guardian-council",
+  "from_entity": "mohammad-reza-khatami",
+  "to_entity": "guardian-council",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Permanently disqualified from running for office by Guardian Council"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

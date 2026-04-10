@@ -127,7 +127,7 @@ export const INVERSE_LABELS: Record<string, string> = {
   "coordinated-with": "coordinated with",
   directed: "directed by",
   recruited: "recruited by",
-  "named-in": "names",
+  "named-in": "mentions",
   published: "published by",
   "testified-in": "testimony included",
   "subject-of": "covers",

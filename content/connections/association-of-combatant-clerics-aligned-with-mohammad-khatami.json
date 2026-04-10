@@ -1,0 +1,21 @@
+{
+  "entity_id": "association-of-combatant-clerics-aligned-with-mohammad-khatami",
+  "from_entity": "association-of-combatant-clerics",
+  "to_entity": "mohammad-khatami",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Key affiliated figure"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

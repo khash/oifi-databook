@@ -4,20 +4,27 @@
   "name_en": "Mojtaba Khamenei",
   "name_fa": "مجتبی خامنه‌ای",
   "has_native_fa_name": true,
-  "aliases": [],
+  "aliases": [
+    "Hojatoleslam Mojtaba Khamenei"
+  ],
   "born": 1969,
   "birthplace": "Tehran",
-  "role": "Son of Supreme Leader Ali Khamenei; unofficial power broker",
+  "role": "3rd Supreme Leader of the Islamic Republic of Iran (2026–present)",
   "faction": "hardliner",
-  "bio": "Mojtaba Khamenei is the second son of [Ali Khamenei](/people/ali-khamenei) and widely reported to be one of the most powerful behind-the-scenes figures in the Islamic Republic. He is alleged to have played a central role in the crackdown on the [Green Movement](/events/green-movement-protests-2009) in 2009 and to coordinate between the Supreme Leader's office and the [IRGC](/orgs/islamic-revolutionary-guard-corps) and [Basij](/orgs/basij). He married a daughter of [Gholam-Ali Haddad-Adel](/people/gholam-ali-haddad-adel), cementing ties between the supreme leadership and the conservative parliamentary establishment. He has been subject to US and EU sanctions.",
+  "bio": "Mojtaba Khamenei is the second son of [Ali Khamenei](/people/ali-khamenei) and has been a shadowy but powerful figure in the Islamic Republic for decades. He long headed an intelligence bureau within the [Islamic Revolutionary Guard Corps](/orgs/islamic-revolutionary-guard-corps), functioning as a key conduit between his father's office and the IRGC's security apparatus. His wife is Zahra Haddad-Adel, daughter of [Gholam-Ali Haddad-Adel](/people/gholam-ali-haddad-adel), former Speaker of the [Islamic Consultative Assembly](/orgs/islamic-consultative-assembly). Following Ali Khamenei's death on 28 February 2026, the [Assembly of Experts](/orgs/assembly-of-experts) elected Mojtaba as the third Supreme Leader on 8 March 2026 — the second succession in the republic's history.",
   "expertise": [
-    "security coordination",
-    "political management"
+    "intelligence operations",
+    "clerical governance",
+    "IRGC liaison",
+    "succession politics"
   ],
   "tags": [
+    "supreme-leader",
     "khamenei-family",
-    "sanctioned"
+    "irgc",
+    "succession-2026"
   ],
   "photo": null,
-  "editorial_notes": "No formal government title. Widely considered key power broker. Subject to US/EU sanctions."
+  "editorial_notes": "Born 1969. Married Zahra Haddad-Adel, daughter of Gholam-Ali Haddad-Adel. Chosen as Supreme Leader by the Assembly of Experts on 8 March 2026. Lacked marja' credential, mirroring the 1989 precedent with his father.",
+  "irgc_member": true
 }

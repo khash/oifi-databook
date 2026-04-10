@@ -1,0 +1,21 @@
+{
+  "entity_id": "mesbah-mentor-of-nabavian",
+  "from_entity": "mohammad-taqi-mesbah-yazdi",
+  "to_entity": "mahmoud-nabavian",
+  "type": "mentor-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.middleeasteye.net/news/iran-parliament-election-ultra-conservative-winners",
+      "source_title": "Iran: Meet the ultra-conservative election winners",
+      "source_date": "2024-03-24",
+      "description": "Nabavian is described as a student of Mesbah Yazdi and the Imam Khomeini Educational and Research Institute which Mesbah Yazdi headed."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

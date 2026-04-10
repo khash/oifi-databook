@@ -1,0 +1,21 @@
+{
+  "entity_id": "khomeini-mentor-of-mesbah",
+  "from_entity": "ruhollah-khomeini",
+  "to_entity": "mohammad-taqi-mesbah-yazdi",
+  "type": "mentor-of",
+  "confidence": "confirmed",
+  "date_from": "1952",
+  "date_to": "1960",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Taqi_Yazdi",
+      "source_title": "Mohammad-Taqi Mesbah Yazdi",
+      "source_date": "2024-01-01",
+      "description": "Mesbah Yazdi participated in Khomeini's courses at the Qom Seminary from 1952 to 1960."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

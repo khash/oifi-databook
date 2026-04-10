@@ -1,0 +1,26 @@
+{
+  "entity_id": "presidential-election-iran-2024-snap",
+  "slug": "presidential-election-iran-2024-snap",
+  "name": "2024 Iranian Snap Presidential Election",
+  "date": "2024-06-28",
+  "type": "election",
+  "description": "The snap presidential election was triggered by [Ebrahim Raisi](/people/ebrahim-raisi)'s death in a helicopter crash on 19 May 2024. The first round was held on 28 June 2024; with no outright majority, a runoff on 5 July 2024 saw [Masoud Pezeshkian](/people/masoud-pezeshkian) defeat Saeed Jalili with nearly 16.4 million votes to Jalili's approximately 13.5 million. The result surprised many analysts who had expected a Jalili victory. Reformist consolidation behind Pezeshkian — led by endorsements from [Mohammad Khatami](/people/mohammad-khatami) and senior figures — proved decisive. Jalili was backed by the [Front of Islamic Revolution Stability](/orgs/front-of-islamic-revolution-stability) and had close ties to [Mojtaba Khamenei](/people/mojtaba-khamenei).",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/2024_Iranian_presidential_election",
+      "title": "2024 Iranian presidential election",
+      "date": "2024-07-05",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": [
+    "election",
+    "presidential-election",
+    "2024",
+    "snap-election",
+    "pezeshkian",
+    "jalili"
+  ],
+  "editorial_notes": "First round 28 June; runoff 5 July 2024. Turnout ~40% first round, ~50% runoff. Pezeshkian took office 28 July 2024."
+}

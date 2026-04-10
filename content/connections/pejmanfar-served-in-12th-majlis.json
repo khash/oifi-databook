@@ -1,0 +1,21 @@
+{
+  "entity_id": "pejmanfar-served-in-12th-majlis",
+  "from_entity": "nasrollah-pejmanfar",
+  "to_entity": "islamic-consultative-assembly",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2024",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://old.iranintl.com/en/iran/leadership-change-irans-leading-ultraconservative-party-ahead-2021-elections",
+      "source_title": "Leadership Change in Iran's Leading Ultraconservative Party",
+      "source_date": "2020-12-25",
+      "description": "Pejmanfar chairs the Article 90 Committee of the Majlis."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Article 90 Committee chair, 11th and 12th Majlis."
+}

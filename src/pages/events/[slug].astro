@@ -6,7 +6,8 @@ import { getEvents, getConnectionsForEntity, getEntityById, getEntityTypeById } 
 import { GraphExplorer } from "@/components/GraphExplorer"
 import { renderMarkdown, stripMarkdown } from "@/lib/markdown"
 import type { Event } from "@/lib/types"
-import { ConfidenceBadge } from "@/components/ConfidenceBadge"
+import { ConnectionsList } from "@/components/ConnectionsList"
+import { INVERSE_LABELS } from "@/lib/constants"
 
 export function getStaticPaths() {
   return getEvents().map((e) => ({ params: { slug: e.slug }, props: { event: e } }))
@@ -14,6 +15,15 @@ export function getStaticPaths() {
 
 const { event } = Astro.props as { event: Event }
 const connections = getConnectionsForEntity(event.entity_id)
+const connectionItems = connections.map((conn) => {
+  const otherId = conn.from_entity === event.entity_id ? conn.to_entity : conn.from_entity
+  const other = getEntityById(otherId)
+  if (!other) return null
+  const entityType = getEntityTypeById(otherId)
+  const href = entityType === "person" ? `/people/${other.slug}` : entityType === "org" ? `/orgs/${other.slug}` : `/events/${other.slug}`
+  const label = conn.from_entity === event.entity_id ? conn.type.replace(/-/g, " ") : INVERSE_LABELS[conn.type] ?? conn.type.replace(/-/g, " ")
+  return { type: conn.type, confidence: conn.confidence, label, otherName: "name_en" in other ? other.name_en : other.name, href, dateFrom: conn.date_from, dateTo: conn.date_to }
+}).filter(Boolean)
 const desc = stripMarkdown(event.description).slice(0, 160)
 
 const jsonLd = {
@@ -39,6 +49,9 @@ const jsonLd = {
 
     <div class="mt-2 flex flex-wrap items-center gap-2">
       <Badge variant="secondary">{event.type.replace(/-/g, " ")}</Badge>
+    </div>
+
+    <div class="mt-2 flex flex-wrap items-center gap-2">
       {event.tags.map((tag) => (
         <Badge variant="outline">{tag.replace(/-/g, " ")}</Badge>
       ))}
@@ -56,37 +69,13 @@ const jsonLd = {
   </div>
 
   <Fragment slot="sidebar">
-    {connections.length > 0 && (
-      <div>
-        <h2 class="mb-3 text-sm font-medium text-muted-foreground">Related Entities</h2>
-        <ul class="space-y-2">
-          {connections.map((conn) => {
-            const otherId = conn.from_entity === event.entity_id ? conn.to_entity : conn.from_entity
-            const other = getEntityById(otherId)
-            if (!other) return null
-            const entityType = getEntityTypeById(otherId)
-            const href = entityType === "person"
-              ? `/people/${other.slug}`
-              : entityType === "org"
-                ? `/orgs/${other.slug}`
-                : `/events/${other.slug}`
-            return (
-              <li>
-                <a href={href} class="text-sm font-medium hover:underline">{"name_en" in other ? other.name_en : other.name}</a>
-                <div class="flex items-center gap-1 text-xs text-muted-foreground">
-                  <span>{conn.type.replace(/-/g, " ")}</span>
-                  <ConfidenceBadge client:load confidence={conn.confidence} />
-                </div>
-              </li>
-            )
-          })}
-        </ul>
-      </div>
+    {connectionItems.length > 0 && (
+      <ConnectionsList client:load connections={connectionItems} />
     )}
 
     {event.sources.length > 0 && (
       <div>
-        <h2 class="mb-3 text-sm font-medium text-muted-foreground">Sources</h2>
+        <h2 class="mt-8 mb-3 text-sm font-medium text-muted-foreground">Sources</h2>
         <ul class="space-y-2">
           {event.sources.map((src) => (
             <li class="text-sm">

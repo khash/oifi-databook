@@ -1,0 +1,21 @@
+{
+  "entity_id": "alliance-of-builders-of-islamic-iran-aligned-with-basij",
+  "from_entity": "alliance-of-builders-of-islamic-iran",
+  "to_entity": "basij",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "2003",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Composed mainly of IRGC and Basij veterans"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

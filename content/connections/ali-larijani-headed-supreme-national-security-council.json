@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-larijani-headed-supreme-national-security-council",
+  "from_entity": "ali-larijani",
+  "to_entity": "supreme-national-security-council",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2005",
+  "date_to": "2007",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Served as secretary of the Supreme National Security Council"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

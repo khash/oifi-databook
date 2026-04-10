@@ -1,0 +1,21 @@
+{
+  "entity_id": "mojtaba-led-supreme-leader-office",
+  "from_entity": "mojtaba-khamenei",
+  "to_entity": "office-of-the-supreme-leader",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "2026-03-08",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Assembly_of_Experts",
+      "source_title": "Assembly of Experts",
+      "source_date": "2026-03-08",
+      "description": "Assembly of Experts elected Mojtaba Khamenei as Supreme Leader on 8 March 2026."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Third Supreme Leader of the Islamic Republic."
+}

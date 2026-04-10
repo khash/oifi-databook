@@ -1,0 +1,21 @@
+{
+  "entity_id": "mahsouli-aligned-paydari",
+  "from_entity": "sadegh-mahsouli",
+  "to_entity": "front-of-islamic-revolution-stability",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "2011",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://old.iranintl.com/en/iran/leadership-change-irans-leading-ultraconservative-party-ahead-2021-elections",
+      "source_title": "Leadership Change in Iran's Leading Ultraconservative Party",
+      "source_date": "2020-12-25",
+      "description": "Mahsouli is the Secretary-General of Paydari."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "popular-mobilization-forces-named-in-qasem-soleimani",
+  "from_entity": "popular-mobilization-forces",
+  "to_entity": "qasem-soleimani",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2020",
+  "date_to": "2020",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Deputy commander killed alongside Soleimani"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

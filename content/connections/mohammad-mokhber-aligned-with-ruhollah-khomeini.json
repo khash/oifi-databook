@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-mokhber-aligned-with-ruhollah-khomeini",
+  "from_entity": "mohammad-mokhber",
+  "to_entity": "ruhollah-khomeini",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Headed the Setad (Execution of Imam Khomeini's Order)"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

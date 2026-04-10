@@ -1,0 +1,23 @@
+{
+  "entity_id": "kheyrollah-parvin",
+  "slug": "kheyrollah-parvin",
+  "name_en": "Kheyrollah Parvin",
+  "name_fa": "خیرالله پروین",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": "Iran",
+  "role": "Jurist member of the Guardian Council",
+  "faction": "hardliner",
+  "bio": "Kheyrollah Parvin is a jurist member of the [Guardian Council](/orgs/guardian-council), nominated by the Chief Justice and confirmed by the [Islamic Consultative Assembly](/orgs/islamic-consultative-assembly). He is one of six constitutional law experts on the Council responsible for vetting legislation and candidates.",
+  "irgc_member": false,
+  "expertise": [
+    "constitutional law"
+  ],
+  "tags": [
+    "guardian-council",
+    "jurist"
+  ],
+  "photo": null,
+  "editorial_notes": "Birth year not publicly confirmed."
+}

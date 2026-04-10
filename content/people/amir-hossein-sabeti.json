@@ -1,0 +1,28 @@
+{
+  "entity_id": "amir-hossein-sabeti",
+  "slug": "amir-hossein-sabeti",
+  "name_en": "Amir-Hossein Sabeti",
+  "name_fa": "امیرحسین صابتی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1989,
+  "birthplace": "Iran",
+  "role": "MP for Tehran, 12th Majlis (2024–present); former state television host",
+  "faction": "hardliner",
+  "bio": "Amir-Hossein Sabeti is a young conservative activist and state television anchor who placed second in the Tehran ballot in the 2024 parliamentary election, making him one of the most prominent new faces in the 12th [Majlis](/orgs/islamic-consultative-assembly). Born in 1989, he represents the post-war generation of [IRGC](/orgs/islamic-revolutionary-guard-corps)-aligned conservatives who entered politics via media rather than clerical routes. He is a member of the [Front of Islamic Revolution Stability](/orgs/front-of-islamic-revolution-stability). In 2012 he received a suspended sentence from a Revolutionary Court for protesting [Ali Larijani](/people/ali-larijani)'s parliamentary policies on universities.",
+  "expertise": [
+    "media",
+    "online political organising",
+    "youth politics"
+  ],
+  "tags": [
+    "12th-majlis",
+    "hardliner",
+    "paydari",
+    "tehran",
+    "state-media"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 1989 — among the youngest MPs in the 12th Majlis. State television presenter before entering parliament. Suspended sentence from 2012 Revolutionary Court.",
+  "irgc_member": false
+}

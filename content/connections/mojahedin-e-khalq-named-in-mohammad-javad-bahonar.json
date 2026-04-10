@@ -1,0 +1,21 @@
+{
+  "entity_id": "mojahedin-e-khalq-named-in-mohammad-javad-bahonar",
+  "from_entity": "mojahedin-e-khalq",
+  "to_entity": "mohammad-javad-bahonar",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1981",
+  "date_to": "1981",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Responsible for bombing that killed Bahonar"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

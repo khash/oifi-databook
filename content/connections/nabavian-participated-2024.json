@@ -1,0 +1,21 @@
+{
+  "entity_id": "nabavian-participated-2024",
+  "from_entity": "mahmoud-nabavian",
+  "to_entity": "parliamentary-election-iran-2024",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2024-03-01",
+  "date_to": "2024-03-01",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mahmoud_Nabavian",
+      "source_title": "Mahmoud Nabavian",
+      "source_date": "2024-01-01",
+      "description": "Nabavian topped the Tehran ballot in the March 2024 parliamentary election."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Top vote-getter in Tehran."
+}

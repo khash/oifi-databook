@@ -1,0 +1,21 @@
+{
+  "entity_id": "constitutional-revision-1989-named-in-expediency-discernment-council",
+  "from_entity": "constitutional-revision-1989",
+  "to_entity": "expediency-discernment-council",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1989",
+  "date_to": "1989",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Established Expediency Council as constitutional body"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

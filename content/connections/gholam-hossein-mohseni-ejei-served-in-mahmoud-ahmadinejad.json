@@ -1,0 +1,21 @@
+{
+  "entity_id": "gholam-hossein-mohseni-ejei-served-in-mahmoud-ahmadinejad",
+  "from_entity": "gholam-hossein-mohseni-ejei",
+  "to_entity": "mahmoud-ahmadinejad",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2005",
+  "date_to": "2009",
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Served as Minister of Intelligence under Ahmadinejad"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

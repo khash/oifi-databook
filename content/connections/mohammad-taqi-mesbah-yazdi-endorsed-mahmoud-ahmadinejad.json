@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-taqi-mesbah-yazdi-endorsed-mahmoud-ahmadinejad",
+  "from_entity": "mohammad-taqi-mesbah-yazdi",
+  "to_entity": "mahmoud-ahmadinejad",
+  "type": "endorsed",
+  "confidence": "confirmed",
+  "date_from": "2005",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Key ideological backer of Ahmadinejad"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

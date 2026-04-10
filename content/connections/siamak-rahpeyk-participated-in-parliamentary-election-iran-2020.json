@@ -1,0 +1,21 @@
+{
+  "entity_id": "siamak-rahpeyk-participated-in-parliamentary-election-iran-2020",
+  "from_entity": "siamak-rahpeyk",
+  "to_entity": "parliamentary-election-iran-2020",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Referenced in person description"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

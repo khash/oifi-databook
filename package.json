@@ -6,16 +6,19 @@
   "scripts": {
     "dev": "astro build && pagefind --site dist && rm -rf public/pagefind && cp -r dist/pagefind public/pagefind && astro dev",
     "build": "node scripts/validate-content.mjs && astro build && pagefind --site dist",
-    "preview": "astro preview",
+    "preview": "pnpm run build && wrangler dev",
     "astro": "astro",
     "lint": "eslint .",
     "format": "prettier --write \"**/*.{ts,tsx,astro}\"",
     "typecheck": "astro check",
     "cms": "tinacms dev -c \"astro dev\"",
     "cms:build": "tinacms build && astro build",
-    "check:content": "node scripts/validate-content.mjs && node -e \"import('./src/scripts/check-unlinked-references.mjs').then(m => m.checkUnlinkedReferences())\""
+    "check:content": "node scripts/validate-content.mjs && node -e \"import('./src/scripts/check-unlinked-references.mjs').then(m => m.checkUnlinkedReferences())\"",
+    "deploy": "pnpm run build && wrangler deploy",
+    "cf-typegen": "wrangler types"
   },
   "dependencies": {
+    "@astrojs/cloudflare": "12",
     "@astrojs/react": "^4.4.2",
     "@astrojs/sitemap": "^3.7.2",
     "@dagrejs/dagre": "^3.0.0",
@@ -56,6 +59,7 @@
     "prettier-plugin-tailwindcss": "^0.7.2",
     "tinacms": "^3.7.2",
     "typescript": "~5.9.3",
-    "typescript-eslint": "^8.57.1"
+    "typescript-eslint": "^8.57.1",
+    "wrangler": "^4.81.1"
   }
 }

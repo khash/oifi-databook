@@ -82,7 +82,7 @@ function layoutGraph(
         opacity: conf.opacity,
         ...(conf.strokeDasharray ? { strokeDasharray: conf.strokeDasharray } : {}),
       },
-      labelStyle: { fontSize: 9, fill: "#9ca3af", fontFamily: "'Geist Variable', sans-serif" },
+      labelStyle: { fontSize: 9, fill: "#9ca3af", fontFamily: "'Inter Variable', sans-serif" },
       labelBgStyle: { fill: "white", fillOpacity: 0.8 },
       labelBgPadding: [4, 2] as [number, number],
       labelShowBg: true,

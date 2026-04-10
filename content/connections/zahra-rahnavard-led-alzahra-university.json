@@ -1,0 +1,21 @@
+{
+  "entity_id": "zahra-rahnavard-led-alzahra-university",
+  "from_entity": "zahra-rahnavard",
+  "to_entity": "alzahra-university",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "1998",
+  "date_to": "2006",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Zahra_Rahnavard",
+      "source_title": "Zahra Rahnavard — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Chancellor of Alzahra University from 1998 to 2006, first woman to head a university in post-revolution Iran"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

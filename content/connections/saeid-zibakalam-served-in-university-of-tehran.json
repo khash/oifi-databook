@@ -1,0 +1,21 @@
+{
+  "entity_id": "saeid-zibakalam-served-in-university-of-tehran",
+  "from_entity": "saeid-zibakalam",
+  "to_entity": "university-of-tehran",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Saeid_Zibakalam",
+      "source_title": "Saeid Zibakalam — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Faculty member at University of Tehran, specialising in philosophy of science"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

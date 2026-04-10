@@ -1,0 +1,21 @@
+{
+  "entity_id": "sadegh-zibakalam-opposed-ali-khamenei",
+  "from_entity": "sadegh-zibakalam",
+  "to_entity": "ali-khamenei",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Sadegh_Zibakalam",
+      "source_title": "Sadegh Zibakalam — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Zibakalam is known for publicly challenging the state line on nuclear matters, Israel, and political freedoms, directly opposing positions held by the Supreme Leader"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

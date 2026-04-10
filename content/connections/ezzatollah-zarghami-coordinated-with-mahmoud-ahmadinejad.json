@@ -1,0 +1,21 @@
+{
+  "entity_id": "ezzatollah-zarghami-coordinated-with-mahmoud-ahmadinejad",
+  "from_entity": "ezzatollah-zarghami",
+  "to_entity": "mahmoud-ahmadinejad",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "",
+      "source_date": "",
+      "description": "Zarghami's IRIB provided favorable coverage to Ahmadinejad."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

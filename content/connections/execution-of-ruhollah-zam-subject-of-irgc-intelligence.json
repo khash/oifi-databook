@@ -1,0 +1,21 @@
+{
+  "entity_id": "execution-of-ruhollah-zam-subject-of-irgc-intelligence",
+  "from_entity": "execution-of-ruhollah-zam-2020",
+  "to_entity": "irgc-intelligence-organisation",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "",
+      "source_date": "",
+      "description": "IRGC Intelligence orchestrated the capture of Ruhollah Zam in Iraq."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

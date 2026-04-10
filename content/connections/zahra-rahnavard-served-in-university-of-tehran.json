@@ -1,0 +1,21 @@
+{
+  "entity_id": "zahra-rahnavard-served-in-university-of-tehran",
+  "from_entity": "zahra-rahnavard",
+  "to_entity": "university-of-tehran",
+  "type": "studied-at",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Zahra_Rahnavard",
+      "source_title": "Zahra Rahnavard — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Earned Bachelor's and Master's degrees in art and architecture from University of Tehran"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

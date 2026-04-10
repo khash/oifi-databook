@@ -1,0 +1,15 @@
+{
+  "entity_id": "islamic-azad-university",
+  "slug": "islamic-azad-university",
+  "name_en": "Islamic Azad University",
+  "name_fa": "دانشگاه آزاد اسلامی",
+  "has_native_fa_name": true,
+  "type": "ngo",
+  "founded": 1982,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Islamic Azad University is the largest university system in Iran, with branches across the country. It was founded in 1982 by [Akbar Hashemi Rafsanjani](/people/akbar-hashemi-rafsanjani) and operates as a private, non-profit institution. It has played a significant role in expanding higher education access in Iran.",
+  "faction": null,
+  "tags": [],
+  "editorial_notes": "Often referred to simply as Azad University. Rafsanjani founded it and it was closely associated with him."
+}

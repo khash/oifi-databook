@@ -1,0 +1,14 @@
+{
+  "entity_id": "bakhtiar-appointed-by-shah",
+  "from_entity": "shapour-bakhtiar",
+  "to_entity": "mohammad-reza-shah-pahlavi",
+  "type": "appointed-by",
+  "confidence": "confirmed",
+  "date_from": "1979-01",
+  "date_to": "1979-02",
+  "evidence": [{"source_url": "https://en.wikipedia.org/wiki/Shapour_Bakhtiar", "source_title": "Shapour Bakhtiar - Wikipedia", "source_date": "2024", "description": "Bakhtiar was appointed Prime Minister by the Shah in January 1979"}],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

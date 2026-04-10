@@ -1,0 +1,21 @@
+{
+  "entity_id": "zahra-rahnavard-aligned-with-mohammad-khatami",
+  "from_entity": "zahra-rahnavard",
+  "to_entity": "mohammad-khatami",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Zahra_Rahnavard",
+      "source_title": "Zahra Rahnavard — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Served as political adviser to President Mohammad Khatami"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

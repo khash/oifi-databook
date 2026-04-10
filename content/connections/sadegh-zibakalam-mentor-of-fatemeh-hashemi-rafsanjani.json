@@ -1,0 +1,21 @@
+{
+  "entity_id": "sadegh-zibakalam-mentor-of-fatemeh-hashemi-rafsanjani",
+  "from_entity": "sadegh-zibakalam",
+  "to_entity": "fatemeh-hashemi-rafsanjani",
+  "type": "mentor-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Sadegh_Zibakalam",
+      "source_title": "Sadegh Zibakalam — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Fatemeh Hashemi Rafsanjani listed as a notable student of Zibakalam"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

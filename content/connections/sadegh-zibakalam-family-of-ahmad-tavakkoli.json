@@ -1,0 +1,21 @@
+{
+  "entity_id": "sadegh-zibakalam-family-of-ahmad-tavakkoli",
+  "from_entity": "sadegh-zibakalam",
+  "to_entity": "ahmad-tavakkoli",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Sadegh_Zibakalam",
+      "source_title": "Sadegh Zibakalam — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Ahmad Tavakkoli is co-father-in-law with Sadegh Zibakalam (their children are married to each other)"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "in-law",
+  "editorial_notes": ""
+}

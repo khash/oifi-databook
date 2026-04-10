@@ -1,0 +1,21 @@
+{
+  "entity_id": "ezzatollah-zarghami-coordinated-with-ali-larijani",
+  "from_entity": "ezzatollah-zarghami",
+  "to_entity": "ali-larijani",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "",
+      "source_date": "",
+      "description": "Zarghami succeeded Larijani as head of IRIB."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

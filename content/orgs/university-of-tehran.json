@@ -1,0 +1,15 @@
+{
+  "entity_id": "university-of-tehran",
+  "slug": "university-of-tehran",
+  "name_en": "University of Tehran",
+  "name_fa": "دانشگاه تهران",
+  "has_native_fa_name": true,
+  "type": "ngo",
+  "founded": 1934,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The University of Tehran is Iran's oldest and most prominent modern university. Founded in 1934, it played a central role in the [Iranian Cultural Revolution](/events/iranian-cultural-revolution-1980) of 1980–1983, during which it was closed along with all other Iranian universities and purged of secular and leftist faculty. It remains Iran's leading academic institution across the sciences, humanities, and social sciences.",
+  "faction": null,
+  "tags": [],
+  "editorial_notes": "Key site of political activity throughout modern Iranian history. Many political figures are faculty or alumni."
+}

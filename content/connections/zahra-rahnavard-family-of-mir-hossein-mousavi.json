@@ -1,0 +1,21 @@
+{
+  "entity_id": "zahra-rahnavard-family-of-mir-hossein-mousavi",
+  "from_entity": "zahra-rahnavard",
+  "to_entity": "mir-hossein-mousavi",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": "1969",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Zahra_Rahnavard",
+      "source_title": "Zahra Rahnavard — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Married to Mir-Hossein Mousavi since September 18, 1969"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "spouse",
+  "editorial_notes": ""
+}

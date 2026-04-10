@@ -1,0 +1,21 @@
+{
+  "entity_id": "saeid-zibakalam-aligned-with-mahmoud-ahmadinejad",
+  "from_entity": "saeid-zibakalam",
+  "to_entity": "mahmoud-ahmadinejad",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Saeid_Zibakalam",
+      "source_title": "Saeid Zibakalam — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Described as a staunch supporter of Mahmoud Ahmadinejad"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

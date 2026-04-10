@@ -1,0 +1,21 @@
+{
+  "entity_id": "irib-participated-in-iranian-revolution",
+  "from_entity": "irib",
+  "to_entity": "iranian-revolution-1979",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "",
+      "source_date": "",
+      "description": "IRIB was established after the 1979 revolution as the state broadcasting monopoly."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

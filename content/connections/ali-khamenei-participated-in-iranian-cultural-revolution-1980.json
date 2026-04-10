@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-khamenei-participated-in-iranian-cultural-revolution-1980",
+  "from_entity": "ali-khamenei",
+  "to_entity": "iranian-cultural-revolution-1980",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1980",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Iranian_Cultural_Revolution",
+      "source_title": "Iranian Cultural Revolution — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Ali Khamenei was co-founder of the Cultural Revolutionary Headquarters and headed the council"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

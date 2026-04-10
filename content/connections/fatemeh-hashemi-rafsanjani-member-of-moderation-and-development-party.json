@@ -1,0 +1,21 @@
+{
+  "entity_id": "fatemeh-hashemi-rafsanjani-member-of-moderation-and-development-party",
+  "from_entity": "fatemeh-hashemi-rafsanjani",
+  "to_entity": "moderation-and-development-party",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Fatemeh_Hashemi_Rafsanjani",
+      "source_title": "Fatemeh Hashemi Rafsanjani — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Senior member of the Moderation and Development Party"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

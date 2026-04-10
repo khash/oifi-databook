@@ -1,0 +1,21 @@
+{
+  "entity_id": "mehdi-bazargan-aligned-with-yadollah-sahabi",
+  "from_entity": "mehdi-bazargan",
+  "to_entity": "yadollah-sahabi",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "",
+      "source_date": "",
+      "description": "Bazargan and Sahabi co-founded the Freedom Movement of Iran."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-larijani-aligned-with-ali-khamenei",
+  "from_entity": "ali-larijani",
+  "to_entity": "ali-khamenei",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "",
+      "source_date": "",
+      "description": "Larijani served as head of IRIB and secretary of SNSC under Khamenei's authority."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

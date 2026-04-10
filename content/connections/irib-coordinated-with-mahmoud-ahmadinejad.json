@@ -1,0 +1,21 @@
+{
+  "entity_id": "irib-coordinated-with-mahmoud-ahmadinejad",
+  "from_entity": "irib",
+  "to_entity": "mahmoud-ahmadinejad",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "",
+      "source_date": "",
+      "description": "Under Zarghami, IRIB provided favorable coverage to the Ahmadinejad government."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

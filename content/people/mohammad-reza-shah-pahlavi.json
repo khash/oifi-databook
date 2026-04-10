@@ -1,0 +1,18 @@
+{
+  "entity_id": "mohammad-reza-shah-pahlavi",
+  "slug": "mohammad-reza-shah-pahlavi",
+  "name_en": "Mohammad Reza Shah Pahlavi",
+  "name_fa": "محمدرضا شاه پهلوی",
+  "has_native_fa_name": true,
+  "aliases": ["The Shah", "Shah of Iran", "Mohammad Reza Pahlavi"],
+  "born": 1919,
+  "birthplace": "Tehran",
+  "role": "Shah of Iran (1941–1979)",
+  "faction": null,
+  "bio": "Mohammad Reza Shah Pahlavi was the last Shah of Iran, ruling from 1941 until his overthrow in the [1979 revolution](/events/iranian-revolution-1979). His secret police, [SAVAK](/orgs/savak), suppressed political opposition including the [National Front](/orgs/national-front-iran), the [Freedom Movement of Iran](/orgs/freedom-movement-of-iran), and leftist groups. He was restored to power after the 1953 coup that overthrew Prime Minister [Mohammad Mossadegh](/people/mohammad-mossadegh). He fled Iran on 16 January 1979 and died in exile in Cairo on 27 July 1980. Father of [Reza Pahlavi](/people/reza-pahlavi).",
+  "irgc_member": false,
+  "expertise": ["statecraft", "military affairs"],
+  "tags": ["deceased", "executive", "in-exile"],
+  "photo": null,
+  "editorial_notes": "Born 26 Oct 1919. Shah 1941-1979. Fled 16 Jan 1979. Died 27 Jul 1980 Cairo."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "ruhollah-khomeini-organized-iranian-cultural-revolution-1980",
+  "from_entity": "ruhollah-khomeini",
+  "to_entity": "iranian-cultural-revolution-1980",
+  "type": "organized",
+  "confidence": "confirmed",
+  "date_from": "1980",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Iranian_Cultural_Revolution",
+      "source_title": "Iranian Cultural Revolution — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Khomeini issued the decree on June 14, 1980 ordering the closure of all universities"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

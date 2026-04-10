@@ -1,0 +1,21 @@
+{
+  "entity_id": "sadegh-zibakalam-subject-of-guardian-council",
+  "from_entity": "sadegh-zibakalam",
+  "to_entity": "guardian-council",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2000",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Sadegh_Zibakalam",
+      "source_title": "Sadegh Zibakalam — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Disqualified by the Guardian Council from running in the 2000 legislative election from Zanjan Province"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

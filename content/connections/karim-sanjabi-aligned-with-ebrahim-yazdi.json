@@ -1,0 +1,21 @@
+{
+  "entity_id": "karim-sanjabi-aligned-with-ebrahim-yazdi",
+  "from_entity": "karim-sanjabi",
+  "to_entity": "ebrahim-yazdi",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "",
+      "source_date": "",
+      "description": "Both served in Bazargan's provisional government — Sanjabi as foreign minister before Yazdi."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

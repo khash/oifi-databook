@@ -1,0 +1,21 @@
+{
+  "entity_id": "savak-named-in-revolution",
+  "from_entity": "savak",
+  "to_entity": "iranian-revolution-1979",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Freedom_Movement_of_Iran",
+      "source_title": "Freedom Movement of Iran - Wikipedia",
+      "source_date": "2024",
+      "description": "Wikipedia article on Freedom Movement of Iran"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

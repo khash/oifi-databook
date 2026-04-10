@@ -1,0 +1,21 @@
+{
+  "entity_id": "freedom-movement-opposed-mojahedin-e-khalq",
+  "from_entity": "freedom-movement-of-iran",
+  "to_entity": "mojahedin-e-khalq",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "",
+      "source_date": "",
+      "description": "The Freedom Movement opposed the MEK's armed struggle and ideology."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

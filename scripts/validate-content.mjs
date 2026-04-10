@@ -30,7 +30,7 @@ const FAMILY_SUBTYPES = ["spouse", "sibling", "parent", "child", "in-law"];
 const RELATIONSHIP_TYPES = [
   "reports-to", "appointed-by", "oversees",
   "member-of", "founded", "led", "headed", "served-in", "spokesperson-for",
-  "subsidiary-of", "affiliated-with", "funded-by",
+  "subsidiary-of", "affiliated-with", "funded-by", "studied-at",
   "aligned-with", "opposed", "endorsed", "appointed",
   "organized", "participated-in", "coordinated-with", "directed", "recruited",
   "named-in", "published", "testified-in", "subject-of",

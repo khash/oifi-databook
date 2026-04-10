@@ -1,0 +1,21 @@
+{
+  "entity_id": "zahra-rahnavard-served-in-islamic-azad-university",
+  "from_entity": "zahra-rahnavard",
+  "to_entity": "islamic-azad-university",
+  "type": "studied-at",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Zahra_Rahnavard",
+      "source_title": "Zahra Rahnavard — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Earned PhD in political science from Islamic Azad University"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

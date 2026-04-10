@@ -1,0 +1,21 @@
+{
+  "entity_id": "mostafa-zahrani-named-in-iei",
+  "from_entity": "mostafa-zahrani",
+  "to_entity": "iei-email-leak-2023",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2014",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.semafor.com/article/09/25/2023/inside-irans-influence-operation",
+      "source_title": "Inside Iran's Influence Operation",
+      "source_date": "2023-09-25",
+      "description": "Zahrani was identified in the leaked emails as the main coordinator of the IEI from the Iranian side."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

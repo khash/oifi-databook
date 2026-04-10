@@ -1,0 +1,21 @@
+{
+  "entity_id": "ariane-tabatabai-coordinated-with-ipis",
+  "from_entity": "ariane-tabatabai",
+  "to_entity": "ipis",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "2014",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.semafor.com/article/09/25/2023/inside-irans-influence-operation",
+      "source_title": "Inside Iran's Influence Operation",
+      "source_date": "2023-09-25",
+      "description": "Ariane Tabatabai was recruited into the IEI, coordinated through IPIS."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

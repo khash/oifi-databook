@@ -1,0 +1,21 @@
+{
+  "entity_id": "jamal-abdi-coordinated-with-robert-malley",
+  "from_entity": "jamal-abdi",
+  "to_entity": "robert-malley",
+  "type": "coordinated-with",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "",
+      "source_date": "",
+      "description": "NIAC under Abdi's leadership coordinated with Malley's office on Iran policy."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

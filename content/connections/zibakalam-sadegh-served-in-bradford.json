@@ -1,0 +1,14 @@
+{
+  "entity_id": "zibakalam-sadegh-served-in-bradford",
+  "from_entity": "sadegh-zibakalam",
+  "to_entity": "university-of-bradford",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "1989",
+  "evidence": [{"source_url": "https://en.wikipedia.org/wiki/Sadegh_Zibakalam", "source_title": "Sadegh Zibakalam - Wikipedia", "source_date": "2024", "description": "Zibakalam earned his PhD in political science from the University of Bradford in 1989"}],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "PhD in political science, 1989"
+}

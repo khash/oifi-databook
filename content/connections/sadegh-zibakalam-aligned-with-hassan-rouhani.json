@@ -1,0 +1,21 @@
+{
+  "entity_id": "sadegh-zibakalam-aligned-with-hassan-rouhani",
+  "from_entity": "sadegh-zibakalam",
+  "to_entity": "hassan-rouhani",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Sadegh_Zibakalam",
+      "source_title": "Sadegh Zibakalam — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Zibakalam broadly aligned with Rouhani's reformist agenda, though he wrote an open letter in January 2014 criticising Rouhani for not fulfilling campaign promises"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": "Critical alignment — Zibakalam supported Rouhani's platform but held him accountable."
+}

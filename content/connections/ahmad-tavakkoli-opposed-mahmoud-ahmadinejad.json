@@ -1,0 +1,21 @@
+{
+  "entity_id": "ahmad-tavakkoli-opposed-mahmoud-ahmadinejad",
+  "from_entity": "ahmad-tavakkoli",
+  "to_entity": "mahmoud-ahmadinejad",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ahmad_Tavakkoli",
+      "source_title": "Ahmad Tavakkoli — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Fierce critic of Ahmadinejad's economic policies"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

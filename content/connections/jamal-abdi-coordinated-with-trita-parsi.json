@@ -1,0 +1,21 @@
+{
+  "entity_id": "jamal-abdi-coordinated-with-trita-parsi",
+  "from_entity": "jamal-abdi",
+  "to_entity": "trita-parsi",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "",
+      "source_date": "",
+      "description": "Abdi succeeded Parsi as president of NIAC."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

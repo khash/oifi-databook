@@ -1,0 +1,14 @@
+{
+  "entity_id": "zibakalam-saeid-opposed-rouhani",
+  "from_entity": "saeid-zibakalam",
+  "to_entity": "hassan-rouhani",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [{"source_url": "https://en.wikipedia.org/wiki/Saeid_Zibakalam", "source_title": "Saeid Zibakalam - Wikipedia", "source_date": "2024", "description": "Saeid Zibakalam has publicly criticised Hassan Rouhani"}],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

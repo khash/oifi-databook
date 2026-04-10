@@ -1,0 +1,21 @@
+{
+  "entity_id": "ghotbzadeh-aligned-with-shariatmadari",
+  "from_entity": "sadegh-ghotbzadeh",
+  "to_entity": "kazem-shariatmadari",
+  "type": "aligned-with",
+  "confidence": "alleged",
+  "date_from": "1982",
+  "date_to": "1982",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Freedom_Movement_of_Iran",
+      "source_title": "Freedom Movement of Iran - Wikipedia",
+      "source_date": "2024",
+      "description": "Wikipedia article on Freedom Movement of Iran"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": "Ghotbzadeh was charged with plotting a coup with Shariatmadari's involvement"
+}

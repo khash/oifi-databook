@@ -1,0 +1,21 @@
+{
+  "entity_id": "cnra-affiliated-with-fmi",
+  "from_entity": "council-of-nationalist-religious-activists",
+  "to_entity": "freedom-movement-of-iran",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Freedom_Movement_of_Iran",
+      "source_title": "Freedom Movement of Iran - Wikipedia",
+      "source_date": "2024",
+      "description": "Wikipedia article on Freedom Movement of Iran"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "ezzatollah-zarghami-participated-in-presidential-election-2009",
+  "from_entity": "ezzatollah-zarghami",
+  "to_entity": "presidential-election-iran-2009",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "",
+      "source_date": "",
+      "description": "Under Zarghami's leadership, IRIB's coverage of the 2009 election was criticized for bias."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

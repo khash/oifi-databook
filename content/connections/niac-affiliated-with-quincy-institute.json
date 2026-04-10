@@ -1,0 +1,21 @@
+{
+  "entity_id": "niac-affiliated-with-quincy-institute",
+  "from_entity": "niac",
+  "to_entity": "quincy-institute",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "",
+      "source_date": "",
+      "description": "NIAC and the Quincy Institute have overlapping policy positions and personnel connections on Iran diplomacy."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

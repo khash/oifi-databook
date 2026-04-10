@@ -1,0 +1,21 @@
+{
+  "entity_id": "karim-sanjabi-aligned-with-mehdi-bazargan",
+  "from_entity": "karim-sanjabi",
+  "to_entity": "mehdi-bazargan",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "",
+      "source_date": "",
+      "description": "Both were founding members of the Freedom Movement and key figures in the provisional government."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

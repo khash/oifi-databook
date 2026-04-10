@@ -1,0 +1,21 @@
+{
+  "entity_id": "sadegh-zibakalam-served-in-islamic-azad-university",
+  "from_entity": "sadegh-zibakalam",
+  "to_entity": "islamic-azad-university",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Sadegh_Zibakalam",
+      "source_title": "Sadegh Zibakalam — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Faculty at Islamic Azad University, Central Tehran Branch and Zanjan branch"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

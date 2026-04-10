@@ -1,0 +1,19 @@
+{
+  "entity_id": "iranian-cultural-revolution-1980",
+  "slug": "iranian-cultural-revolution-1980",
+  "name": "Iranian Cultural Revolution",
+  "date": "1980-06-12",
+  "type": "purge",
+  "description": "In June 1980, Ayatollah Khomeini ordered the closure of all Iranian universities to purge them of Western and secular influences. The Cultural Revolution lasted until approximately 1983, during which thousands of students and faculty were expelled. A Cultural Revolutionary Headquarters was established, later replaced by the Supreme Council of the Cultural Revolution in 1984. The campaign resulted in the expulsion of all Baháʼí students and professors, bans on Western cultural influences, and the emigration of thousands of academics and technocrats.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Iranian_Cultural_Revolution",
+      "title": "Iranian Cultural Revolution",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": [],
+  "editorial_notes": "Universities closed June 12, 1980. Reopened gradually 1982-1983. Supreme Council of the Cultural Revolution established December 1984 and still exists."
+}

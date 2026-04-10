@@ -1,0 +1,21 @@
+{
+  "entity_id": "sadegh-zibakalam-named-in-parliamentary-election-iran-2000",
+  "from_entity": "sadegh-zibakalam",
+  "to_entity": "parliamentary-election-iran-2000",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2000",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Sadegh_Zibakalam",
+      "source_title": "Sadegh Zibakalam — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Registered as candidate from Zanjan Province but was disqualified by the Guardian Council"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

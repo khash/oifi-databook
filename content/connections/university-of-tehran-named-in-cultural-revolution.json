@@ -1,0 +1,14 @@
+{
+  "entity_id": "university-of-tehran-named-in-cultural-revolution",
+  "from_entity": "university-of-tehran",
+  "to_entity": "iranian-cultural-revolution-1980",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1980",
+  "date_to": "1983",
+  "evidence": [{"source_url": "https://en.wikipedia.org/wiki/Iranian_Cultural_Revolution", "source_title": "Iranian Cultural Revolution - Wikipedia", "source_date": "2024", "description": "University of Tehran was closed during the Cultural Revolution and purged of secular and leftist faculty"}],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

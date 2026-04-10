@@ -1,0 +1,21 @@
+{
+  "entity_id": "ahmad-tavakkoli-member-of-islamic-republican-party",
+  "from_entity": "ahmad-tavakkoli",
+  "to_entity": "islamic-republican-party",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ahmad_Tavakkoli",
+      "source_title": "Ahmad Tavakkoli — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Member of the Islamic Republican Party"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

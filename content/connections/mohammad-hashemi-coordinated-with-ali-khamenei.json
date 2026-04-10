@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-hashemi-coordinated-with-ali-khamenei",
+  "from_entity": "mohammad-hashemi",
+  "to_entity": "ali-khamenei",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "",
+      "source_date": "",
+      "description": "Hashemi served under Khamenei's authority as IRIB head."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

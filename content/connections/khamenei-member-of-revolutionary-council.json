@@ -1,0 +1,21 @@
+{
+  "entity_id": "khamenei-member-of-revolutionary-council",
+  "from_entity": "ali-khamenei",
+  "to_entity": "islamic-revolutionary-council",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1980",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Freedom_Movement_of_Iran",
+      "source_title": "Freedom Movement of Iran - Wikipedia",
+      "source_date": "2024",
+      "description": "Wikipedia article on Freedom Movement of Iran"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

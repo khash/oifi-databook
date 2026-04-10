@@ -1,0 +1,21 @@
+{
+  "entity_id": "ezzatollah-zarghami-led-press-tv",
+  "from_entity": "ezzatollah-zarghami",
+  "to_entity": "press-tv",
+  "type": "oversees",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "",
+      "source_date": "",
+      "description": "Press TV was launched under Zarghami's leadership of IRIB."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

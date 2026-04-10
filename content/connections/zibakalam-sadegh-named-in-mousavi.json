@@ -1,0 +1,14 @@
+{
+  "entity_id": "zibakalam-sadegh-named-in-mousavi",
+  "from_entity": "sadegh-zibakalam",
+  "to_entity": "mir-hossein-mousavi",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2014",
+  "date_to": null,
+  "evidence": [{"source_url": "https://en.wikipedia.org/wiki/Sadegh_Zibakalam", "source_title": "Sadegh Zibakalam - Wikipedia", "source_date": "2024", "description": "Zibakalam wrote open letter calling for release of Mousavi and other political prisoners"}],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

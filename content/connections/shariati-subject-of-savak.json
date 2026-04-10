@@ -1,0 +1,14 @@
+{
+  "entity_id": "shariati-subject-of-savak",
+  "from_entity": "ali-shariati",
+  "to_entity": "savak",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "1977",
+  "evidence": [{"source_url": "https://en.wikipedia.org/wiki/Freedom_Movement_of_Iran", "source_title": "Freedom Movement of Iran - Wikipedia", "source_date": "2024", "description": "Shariati was imprisoned by SAVAK and many believe he was killed by them in 1977"}],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Imprisoned twice by SAVAK. Died under suspicious circumstances 1977."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "mahmoud-taleghani-served-in-islamic-consultative-assembly",
+  "from_entity": "mahmoud-taleghani",
+  "to_entity": "islamic-consultative-assembly",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "",
+      "source_date": "",
+      "description": "Taleghani was elected to the Assembly of Experts that drafted the new constitution."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

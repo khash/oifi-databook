@@ -1,0 +1,14 @@
+{
+  "entity_id": "shah-directed-savak",
+  "from_entity": "mohammad-reza-shah-pahlavi",
+  "to_entity": "savak",
+  "type": "directed",
+  "confidence": "confirmed",
+  "date_from": "1957",
+  "date_to": "1979",
+  "evidence": [{"source_url": "https://en.wikipedia.org/wiki/SAVAK", "source_title": "SAVAK - Wikipedia", "source_date": "2024", "description": "SAVAK served as the Shah's secret police and intelligence service"}],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "abdolali-ali-asgari-coordinated-with-peyman-jebelli",
+  "from_entity": "abdolali-ali-asgari",
+  "to_entity": "peyman-jebelli",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "",
+      "source_date": "",
+      "description": "Ali-Asgari preceded Jebelli as head of IRIB."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

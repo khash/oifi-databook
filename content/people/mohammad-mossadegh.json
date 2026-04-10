@@ -1,0 +1,18 @@
+{
+  "entity_id": "mohammad-mossadegh",
+  "slug": "mohammad-mossadegh",
+  "name_en": "Mohammad Mossadegh",
+  "name_fa": "محمد مصدق",
+  "has_native_fa_name": true,
+  "aliases": ["Mohammed Mosaddegh", "Mosaddeq"],
+  "born": 1882,
+  "birthplace": "Tehran",
+  "role": "Prime Minister of Iran (1951–1953); founder of National Front",
+  "faction": "opposition",
+  "bio": "Mohammad Mossadegh was Prime Minister of Iran from 1951 to 1953. He founded the [National Front](/orgs/national-front-iran) in 1949 and led the campaign to nationalize Iran's oil industry, previously controlled by the Anglo-Iranian Oil Company. His democratically elected government was overthrown in the August 1953 coup d'état orchestrated by the CIA and MI6 (Operation Ajax/Boot). He was tried by a military tribunal, sentenced to three years in prison, and then placed under house arrest in his estate in Ahmadabad, where he remained until his death on 5 March 1967. His legacy shaped the ideology of the [Freedom Movement of Iran](/orgs/freedom-movement-of-iran), whose members described themselves as 'Mossadeghists.'",
+  "irgc_member": false,
+  "expertise": ["law", "oil nationalization", "parliamentary politics"],
+  "tags": ["deceased", "executive"],
+  "photo": null,
+  "editorial_notes": "Born 1882 Tehran. PM 1951-1953. Overthrown August 1953 CIA/MI6 coup. Died 5 March 1967 under house arrest."
+}

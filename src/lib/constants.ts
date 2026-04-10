@@ -99,6 +99,7 @@ export const RELATIONSHIP_TYPES = {
     "subsidiary-of",
     "affiliated-with",
     "funded-by",
+    "studied-at",
   ] as const,
   political: [
     "aligned-with",
@@ -148,6 +149,7 @@ export const INVERSE_LABELS: Record<string, string> = {
   "subsidiary-of": "parent of",
   "affiliated-with": "affiliated with",
   "funded-by": "funder of",
+  "studied-at": "alumni included",
   "aligned-with": "aligned with",
   opposed: "opposed by",
   endorsed: "endorsed by",

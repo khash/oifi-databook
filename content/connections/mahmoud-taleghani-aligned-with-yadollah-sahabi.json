@@ -1,0 +1,21 @@
+{
+  "entity_id": "mahmoud-taleghani-aligned-with-yadollah-sahabi",
+  "from_entity": "mahmoud-taleghani",
+  "to_entity": "yadollah-sahabi",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "",
+      "source_date": "",
+      "description": "Taleghani and Sahabi were co-founders of the Freedom Movement."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "iei-email-leak-subject-of-ministry-of-foreign-affairs",
+  "from_entity": "iei-email-leak-2023",
+  "to_entity": "ministry-of-foreign-affairs",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "",
+      "source_date": "",
+      "description": "The IEI leak exposed a covert Foreign Ministry influence operation."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

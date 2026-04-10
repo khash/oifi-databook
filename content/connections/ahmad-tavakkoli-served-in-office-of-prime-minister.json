@@ -1,0 +1,21 @@
+{
+  "entity_id": "ahmad-tavakkoli-served-in-office-of-prime-minister",
+  "from_entity": "ahmad-tavakkoli",
+  "to_entity": "office-of-prime-minister",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1981",
+  "date_to": "1983",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ahmad_Tavakkoli",
+      "source_title": "Ahmad Tavakkoli — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Minister of Labour (1981–1983) under Prime Minister Mir-Hossein Mousavi"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

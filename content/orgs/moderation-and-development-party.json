@@ -1,0 +1,15 @@
+{
+  "entity_id": "moderation-and-development-party",
+  "slug": "moderation-and-development-party",
+  "name_en": "Moderation and Development Party",
+  "name_fa": "حزب اعتدال و توسعه",
+  "has_native_fa_name": true,
+  "type": "political-party",
+  "founded": 1999,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Moderation and Development Party is an Iranian centrist political party associated with former President [Hassan Rouhani](/people/hassan-rouhani). Founded in 1999, it advocates pragmatist economic and political reform within the framework of the Islamic Republic.",
+  "faction": "pragmatist",
+  "tags": [],
+  "editorial_notes": "Also known as Hezb-e E'tedal va Tose'e."
+}

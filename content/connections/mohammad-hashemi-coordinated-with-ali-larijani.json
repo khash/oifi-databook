@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-hashemi-coordinated-with-ali-larijani",
+  "from_entity": "mohammad-hashemi",
+  "to_entity": "ali-larijani",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "",
+      "source_date": "",
+      "description": "Larijani succeeded Hashemi as head of IRIB."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

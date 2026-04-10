@@ -1,0 +1,14 @@
+{
+  "entity_id": "shah-opposed-national-front",
+  "from_entity": "mohammad-reza-shah-pahlavi",
+  "to_entity": "national-front-iran",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": "1953",
+  "date_to": "1979",
+  "evidence": [{"source_url": "https://en.wikipedia.org/wiki/National_Front_(Iran)", "source_title": "National Front (Iran) - Wikipedia", "source_date": "2024", "description": "The Shah suppressed the National Front after the 1953 coup"}],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

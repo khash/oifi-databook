@@ -1,0 +1,15 @@
+{
+  "entity_id": "alzahra-university",
+  "slug": "alzahra-university",
+  "name_en": "Alzahra University",
+  "name_fa": "دانشگاه الزهرا",
+  "has_native_fa_name": true,
+  "type": "ngo",
+  "founded": 1964,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Alzahra University is a public women's university in Tehran, Iran. Founded in 1964, it is one of the few single-sex universities in the country. [Zahra Rahnavard](/people/zahra-rahnavard) served as its chancellor from 1998 to 2006, becoming the first woman to head a university in post-revolution Iran.",
+  "faction": null,
+  "tags": [],
+  "editorial_notes": "Named after Fatimah al-Zahra, daughter of the Prophet Muhammad."
+}

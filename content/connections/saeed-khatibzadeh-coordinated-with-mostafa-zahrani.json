@@ -1,0 +1,21 @@
+{
+  "entity_id": "saeed-khatibzadeh-coordinated-with-mostafa-zahrani",
+  "from_entity": "saeed-khatibzadeh",
+  "to_entity": "mostafa-zahrani",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "2014",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.semafor.com/article/09/25/2023/inside-irans-influence-operation",
+      "source_title": "Inside Iran's Influence Operation",
+      "source_date": "2023-09-25",
+      "description": "Khatibzadeh conceived the IEI and coordinated with Zahrani who oversaw it institutionally through IPIS."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

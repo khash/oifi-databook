@@ -1,0 +1,21 @@
+{
+  "entity_id": "ahmad-tavakkoli-served-in-islamic-consultative-assembly",
+  "from_entity": "ahmad-tavakkoli",
+  "to_entity": "islamic-consultative-assembly",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1980",
+  "date_to": "2016",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ahmad_Tavakkoli",
+      "source_title": "Ahmad Tavakkoli — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "MP representing Behshahr (1980–1981) and Tehran (2004–2016). President of Majlis Research Center (2004–2012)."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

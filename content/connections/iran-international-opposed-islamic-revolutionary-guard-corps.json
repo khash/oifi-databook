@@ -1,0 +1,21 @@
+{
+  "entity_id": "iran-international-opposed-islamic-revolutionary-guard-corps",
+  "from_entity": "iran-international",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "",
+      "source_date": "",
+      "description": "The IRGC designated Iran International a terrorist organisation; the channel has been critical of IRGC activities."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "abbas-amir-entezam-aligned-with-mehdi-bazargan",
+  "from_entity": "abbas-amir-entezam",
+  "to_entity": "mehdi-bazargan",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "",
+      "source_date": "",
+      "description": "Entezam served as deputy PM and government spokesman under Bazargan's provisional government."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

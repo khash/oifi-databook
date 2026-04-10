@@ -1,0 +1,21 @@
+{
+  "entity_id": "fatemeh-hashemi-rafsanjani-family-of-akbar-hashemi-rafsanjani",
+  "from_entity": "fatemeh-hashemi-rafsanjani",
+  "to_entity": "akbar-hashemi-rafsanjani",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Fatemeh_Hashemi_Rafsanjani",
+      "source_title": "Fatemeh Hashemi Rafsanjani — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Daughter of former President Akbar Hashemi Rafsanjani"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "child",
+  "editorial_notes": ""
+}

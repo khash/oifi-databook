@@ -1,0 +1,14 @@
+{
+  "entity_id": "revolutionary-council-named-in-revolution",
+  "from_entity": "islamic-revolutionary-council",
+  "to_entity": "iranian-revolution-1979",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": null,
+  "evidence": [{"source_url": "https://en.wikipedia.org/wiki/Iranian_Revolution", "source_title": "Iranian Revolution - Wikipedia", "source_date": "2024", "description": "The Islamic Revolutionary Council was established during the revolution to oversee the transition of power"}],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

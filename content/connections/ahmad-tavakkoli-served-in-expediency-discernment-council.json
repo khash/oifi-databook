@@ -1,0 +1,21 @@
+{
+  "entity_id": "ahmad-tavakkoli-served-in-expediency-discernment-council",
+  "from_entity": "ahmad-tavakkoli",
+  "to_entity": "expediency-discernment-council",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2017",
+  "date_to": "2025",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ahmad_Tavakkoli",
+      "source_title": "Ahmad Tavakkoli — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Member of the Expediency Discernment Council from 2017 until his death in 2025"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

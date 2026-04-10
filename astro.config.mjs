@@ -5,6 +5,26 @@ import { defineConfig } from "astro/config"
 import react from "@astrojs/react"
 import sitemap from "@astrojs/sitemap"
 
+function unlinkCheckIntegration() {
+  return {
+    name: "unlink-check",
+    hooks: {
+      async "astro:build:start"() {
+        const { checkUnlinkedReferences } = await import(
+          "./src/scripts/check-unlinked-references.mjs"
+        )
+        checkUnlinkedReferences()
+      },
+      async "astro:server:start"() {
+        const { checkUnlinkedReferences } = await import(
+          "./src/scripts/check-unlinked-references.mjs"
+        )
+        checkUnlinkedReferences()
+      },
+    },
+  }
+}
+
 function graphDataIntegration() {
   return {
     name: "graph-data",
@@ -38,5 +58,5 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()],
   },
-  integrations: [react(), sitemap(), graphDataIntegration()],
+  integrations: [react(), sitemap(), graphDataIntegration(), unlinkCheckIntegration()],
 })

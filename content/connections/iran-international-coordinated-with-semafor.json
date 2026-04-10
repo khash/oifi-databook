@@ -1,0 +1,21 @@
+{
+  "entity_id": "iran-international-coordinated-with-semafor",
+  "from_entity": "iran-international",
+  "to_entity": "semafor",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "2023-09-25",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "",
+      "source_date": "",
+      "description": "Iran International and Semafor jointly published the IEI email leak investigation in September 2023."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

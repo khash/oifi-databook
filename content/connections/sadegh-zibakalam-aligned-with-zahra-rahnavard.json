@@ -1,0 +1,21 @@
+{
+  "entity_id": "sadegh-zibakalam-aligned-with-zahra-rahnavard",
+  "from_entity": "sadegh-zibakalam",
+  "to_entity": "zahra-rahnavard",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Sadegh_Zibakalam",
+      "source_title": "Sadegh Zibakalam — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "In January 2014, Zibakalam wrote an open letter criticizing President Rouhani for failing to free political prisoners including Zahra Rahnavard, Mir-Hossein Mousavi, and Mehdi Karroubi"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "sadegh-zibakalam-family-of-saeid-zibakalam",
+  "from_entity": "sadegh-zibakalam",
+  "to_entity": "saeid-zibakalam",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Sadegh_Zibakalam",
+      "source_title": "Sadegh Zibakalam — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Saeid Zibakalam is the brother of Sadegh Zibakalam"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "sibling",
+  "editorial_notes": ""
+}

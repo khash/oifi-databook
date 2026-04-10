@@ -1,0 +1,21 @@
+{
+  "entity_id": "irib-participated-in-execution-of-ruhollah-zam",
+  "from_entity": "irib",
+  "to_entity": "execution-of-ruhollah-zam-2020",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "",
+      "source_date": "",
+      "description": "IRIB broadcast forced confessions of Ruhollah Zam before his execution."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

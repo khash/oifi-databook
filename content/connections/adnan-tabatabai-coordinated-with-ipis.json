@@ -1,0 +1,21 @@
+{
+  "entity_id": "adnan-tabatabai-coordinated-with-ipis",
+  "from_entity": "adnan-tabatabai",
+  "to_entity": "ipis",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "2014",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.semafor.com/article/09/25/2023/inside-irans-influence-operation",
+      "source_title": "Inside Iran's Influence Operation",
+      "source_date": "2023-09-25",
+      "description": "Adnan Tabatabai was recruited into the Iran Experts Initiative, coordinated through IPIS."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

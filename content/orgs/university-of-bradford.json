@@ -1,0 +1,15 @@
+{
+  "entity_id": "university-of-bradford",
+  "slug": "university-of-bradford",
+  "name_en": "University of Bradford",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 1966,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The University of Bradford is a public university in Bradford, West Yorkshire, England. Founded in 1966, it is known for its programmes in peace studies, political science, and social sciences. Several Iranian academics and political commentators have studied there.",
+  "faction": null,
+  "tags": [],
+  "editorial_notes": "Founded 1966. Relevant as alma mater of Sadegh Zibakalam (PhD political science, 1989)."
+}

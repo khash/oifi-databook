@@ -1,0 +1,21 @@
+{
+  "entity_id": "ahmad-tavakkoli-founded-resalat-newspaper",
+  "from_entity": "ahmad-tavakkoli",
+  "to_entity": "resalat-newspaper",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ahmad_Tavakkoli",
+      "source_title": "Ahmad Tavakkoli — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Tavakkoli founded Resalat, a leading conservative newspaper"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

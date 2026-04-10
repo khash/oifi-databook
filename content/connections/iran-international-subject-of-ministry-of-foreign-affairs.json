@@ -1,0 +1,21 @@
+{
+  "entity_id": "iran-international-subject-of-ministry-of-foreign-affairs",
+  "from_entity": "iran-international",
+  "to_entity": "ministry-of-foreign-affairs",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "",
+      "source_date": "",
+      "description": "Iran International published leaked Iranian Foreign Ministry emails exposing the IEI."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

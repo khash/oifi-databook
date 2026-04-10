@@ -1,0 +1,21 @@
+{
+  "entity_id": "sadegh-zibakalam-participated-in-iranian-cultural-revolution-1980",
+  "from_entity": "sadegh-zibakalam",
+  "to_entity": "iranian-cultural-revolution-1980",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1980",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Sadegh_Zibakalam",
+      "source_title": "Sadegh Zibakalam — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Played a major role in the Iranian Cultural Revolution; later apologised and expressed regret"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

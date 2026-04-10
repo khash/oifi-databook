@@ -1,0 +1,21 @@
+{
+  "entity_id": "sadegh-zibakalam-served-in-university-of-tehran",
+  "from_entity": "sadegh-zibakalam",
+  "to_entity": "university-of-tehran",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Sadegh_Zibakalam",
+      "source_title": "Sadegh Zibakalam — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Zibakalam served as professor at the University of Tehran"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

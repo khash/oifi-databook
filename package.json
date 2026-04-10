@@ -12,7 +12,8 @@
     "format": "prettier --write \"**/*.{ts,tsx,astro}\"",
     "typecheck": "astro check",
     "cms": "tinacms dev -c \"astro dev\"",
-    "cms:build": "tinacms build && astro build"
+    "cms:build": "tinacms build && astro build",
+    "check:content": "node scripts/validate-content.mjs && node -e \"import('./src/scripts/check-unlinked-references.mjs').then(m => m.checkUnlinkedReferences())\""
   },
   "dependencies": {
     "@astrojs/react": "^4.4.2",

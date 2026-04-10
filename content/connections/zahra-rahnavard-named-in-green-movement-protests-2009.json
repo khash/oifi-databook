@@ -1,0 +1,21 @@
+{
+  "entity_id": "zahra-rahnavard-named-in-green-movement-protests-2009",
+  "from_entity": "zahra-rahnavard",
+  "to_entity": "green-movement-protests-2009",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Zahra_Rahnavard",
+      "source_title": "Zahra Rahnavard — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Active in Mousavi's 2009 presidential campaign; placed under house arrest in February 2011 as a result of the Green Movement"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

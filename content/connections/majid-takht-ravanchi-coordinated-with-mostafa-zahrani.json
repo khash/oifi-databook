@@ -1,0 +1,21 @@
+{
+  "entity_id": "majid-takht-ravanchi-coordinated-with-mostafa-zahrani",
+  "from_entity": "majid-takht-ravanchi",
+  "to_entity": "mostafa-zahrani",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.semafor.com/article/09/25/2023/inside-irans-influence-operation",
+      "source_title": "Inside Iran's Influence Operation",
+      "source_date": "2023-09-25",
+      "description": "Takht-Ravanchi coordinated with Zahrani through the IEI network."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,15 @@
+{
+  "entity_id": "council-of-nationalist-religious-activists",
+  "slug": "council-of-nationalist-religious-activists",
+  "name_en": "Council of Nationalist-Religious Activists of Iran",
+  "name_fa": "شورای فعالان ملی-مذهبی ایران",
+  "has_native_fa_name": true,
+  "type": "political-party",
+  "founded": 2000,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Council of Nationalist-Religious Activists (Melli-Mazhabi) is a political organization in Iran established in 2000 by members closely associated with the [Freedom Movement of Iran](/orgs/freedom-movement-of-iran). It carries forward the nationalist-religious political tradition that blends Islamic values with democratic nationalism. The group faced a government crackdown shortly after its founding, with dozens of members arrested and tried.",
+  "faction": "opposition",
+  "tags": ["banned", "human-rights"],
+  "editorial_notes": "Splinter/offshoot of FMI. Founded 2000. Crackdown same year."
+}

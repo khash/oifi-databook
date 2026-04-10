@@ -1,0 +1,21 @@
+{
+  "entity_id": "irib-participated-in-presidential-election-2009",
+  "from_entity": "irib",
+  "to_entity": "presidential-election-iran-2009",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "",
+      "source_date": "",
+      "description": "IRIB's biased election coverage was a major factor in the disputed 2009 presidential election."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

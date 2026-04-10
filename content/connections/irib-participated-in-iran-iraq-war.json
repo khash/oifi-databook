@@ -1,0 +1,21 @@
+{
+  "entity_id": "irib-participated-in-iran-iraq-war",
+  "from_entity": "irib",
+  "to_entity": "iran-iraq-war",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "",
+      "source_date": "",
+      "description": "IRIB served as the primary state propaganda organ during the Iran-Iraq War."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

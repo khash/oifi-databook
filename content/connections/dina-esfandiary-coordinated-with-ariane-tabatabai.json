@@ -1,0 +1,21 @@
+{
+  "entity_id": "dina-esfandiary-coordinated-with-ariane-tabatabai",
+  "from_entity": "dina-esfandiary",
+  "to_entity": "ariane-tabatabai",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "2014",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.semafor.com/article/09/25/2023/inside-irans-influence-operation",
+      "source_title": "Inside Iran's Influence Operation",
+      "source_date": "2023-09-25",
+      "description": "Both were IEI participants recruited by Khatibzadeh."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

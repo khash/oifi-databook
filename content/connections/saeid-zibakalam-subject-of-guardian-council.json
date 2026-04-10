@@ -1,0 +1,21 @@
+{
+  "entity_id": "saeid-zibakalam-subject-of-guardian-council",
+  "from_entity": "saeid-zibakalam",
+  "to_entity": "guardian-council",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2020",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Saeid_Zibakalam",
+      "source_title": "Saeid Zibakalam — Wikipedia",
+      "source_date": "2026-04-10",
+      "description": "Disqualified by the Guardian Council from running in the 2020 legislative election"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

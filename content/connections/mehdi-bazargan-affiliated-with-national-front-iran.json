@@ -1,0 +1,21 @@
+{
+  "entity_id": "mehdi-bazargan-affiliated-with-national-front-iran",
+  "from_entity": "mehdi-bazargan",
+  "to_entity": "national-front-iran",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "",
+      "source_date": "",
+      "description": "Bazargan was affiliated with the National Front before founding the Freedom Movement."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

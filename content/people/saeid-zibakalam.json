@@ -1,0 +1,18 @@
+{
+  "entity_id": "saeid-zibakalam",
+  "slug": "saeid-zibakalam",
+  "name_en": "Saeid Zibakalam",
+  "name_fa": "سعید زیباکلام",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1953,
+  "birthplace": "Tehran",
+  "role": "Academic, faculty member at University of Tehran",
+  "faction": "conservative",
+  "bio": "Saeid Zibakalam is an Iranian academic and conservative political activist. He holds a PhD in philosophy from the University of Leeds (1990), where his dissertation focused on the social epistemology of the Edinburgh School. He is a faculty member at the [University of Tehran](/orgs/university-of-tehran), specialising in philosophy of science and political philosophy.\n\nZibakalam is a staunch supporter of [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad) and has publicly criticised [Hassan Rouhani](/people/hassan-rouhani) and the [JCPOA nuclear deal](/events/jcpoa-nuclear-deal-2015). In 2014, he was summoned to court for criticising nuclear negotiators. He attempted to run in the [2020 legislative election](/events/parliamentary-election-iran-2020) but was disqualified by the [Guardian Council](/orgs/guardian-council).\n\nHe received Iran's Book of the Year Award in 2007 for his work *Social Epistemology*. His brother [Sadegh Zibakalam](/people/sadegh-zibakalam) is a prominent reformist commentator.",
+  "expertise": ["Philosophy of science", "Political philosophy", "Social epistemology"],
+  "tags": [],
+  "photo": null,
+  "editorial_notes": "Interesting political contrast with his brother Sadegh — one reformist, one conservative.",
+  "irgc_member": false
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "icg-named-in-iei",
+  "from_entity": "international-crisis-group",
+  "to_entity": "iei-email-leak-2023",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "",
+      "source_date": "",
+      "description": "ICG was named in the IEI leak as the employer of participants Ali Vaez and Robert Malley."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

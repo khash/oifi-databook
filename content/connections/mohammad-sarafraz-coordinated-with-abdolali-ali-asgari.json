@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-sarafraz-coordinated-with-abdolali-ali-asgari",
+  "from_entity": "mohammad-sarafraz",
+  "to_entity": "abdolali-ali-asgari",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "",
+      "source_date": "",
+      "description": "Sarafraz served under Ali-Asgari's IRIB leadership before heading Press TV."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

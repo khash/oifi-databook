@@ -10,4 +10,4 @@ const { date, class: className } = Astro.props
 const { display, persian } = formatDate(date)
 ---
 
-<span class={className} title={persian}>{display}</span>
+<span class:list={["date-converted", className]} title={persian}>{display}</span>

@@ -1,13 +1,14 @@
 import { Marked } from "marked";
+import { annotateDatesInHtml } from "./date";
 
 const marked = new Marked({
   async: false,
   gfm: true,
 });
 
-/** Convert markdown string to HTML. */
+/** Convert markdown string to HTML, with inline dates annotated with Persian equivalents. */
 export function renderMarkdown(text: string): string {
-  return marked.parse(text) as string;
+  return annotateDatesInHtml(marked.parse(text) as string);
 }
 
 /** Strip markdown to plain text (for meta descriptions, JSON-LD, etc.). */

@@ -1,6 +1,7 @@
 ---
 import Layout from "@/layouts/main.astro"
 import { ThemeToggle } from "@/components/ThemeToggle"
+import { DateTooltipEnhancer } from "@/components/DateTooltipEnhancer"
 
 interface Props {
   title: string
@@ -57,5 +58,6 @@ const combinedJsonLd = jsonLd ? [jsonLd, breadcrumbLd] : [breadcrumbLd]
     <slot />
   )}
 
+  <DateTooltipEnhancer client:load />
   <ThemeToggle client:load slot="header-actions" />
 </Layout>

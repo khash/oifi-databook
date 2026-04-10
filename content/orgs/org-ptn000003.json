@@ -1,0 +1,13 @@
+{
+  "id": "org-ptn000003",
+  "slug": "princeton-university",
+  "name_en": "Princeton University",
+  "name_fa": "دانشگاه پرینستون",
+  "type": "ngo",
+  "founded": 1746,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Private research university in Princeton, New Jersey. Its School of Public and International Affairs hosts research scholars working on Middle East policy, including former Iranian diplomats. Relevant to the IEI network as the institutional home of Hossein Mousavian.",
+  "faction": null,
+  "editorial_notes": "Princeton's type is 'ngo' as closest fit — no 'university' or 'academic' enum in vocabulary."
+}

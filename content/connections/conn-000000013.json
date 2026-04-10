@@ -1,0 +1,21 @@
+{
+  "id": "conn-000000013",
+  "from_entity": "person-hms000003",
+  "to_entity": "org-mfa000001",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1997",
+  "date_to": "2007",
+  "evidence": [
+    {
+      "source_url": "https://www.semafor.com/article/09/25/2023/irans-foreign-minister-cultivated-a-network-of-us-based-academics",
+      "source_title": "Iran's foreign minister cultivated a network of US-based academics",
+      "source_date": "2023-09-25",
+      "description": "Mousavian served as a senior Iranian diplomat and nuclear negotiator before moving to Princeton."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,13 @@
+{
+  "id": "org-mfa000001",
+  "slug": "iranian-foreign-ministry",
+  "name_en": "Ministry of Foreign Affairs of Iran",
+  "name_fa": "وزارت امور خارجه ایران",
+  "type": "state-institution",
+  "founded": 1821,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Ministry of Foreign Affairs of the Islamic Republic of Iran is responsible for the country's foreign policy and diplomatic relations. It manages Iran's embassies and consulates worldwide and leads international negotiations including nuclear diplomacy.",
+  "faction": null,
+  "editorial_notes": ""
+}

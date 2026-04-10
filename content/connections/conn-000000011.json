@@ -1,0 +1,21 @@
+{
+  "id": "conn-000000011",
+  "from_entity": "person-mjz000001",
+  "to_entity": "person-akh000005",
+  "type": "reports-to",
+  "confidence": "confirmed",
+  "date_from": "2013",
+  "date_to": "2021",
+  "evidence": [
+    {
+      "source_url": "https://www.semafor.com/article/09/25/2023/irans-foreign-minister-cultivated-a-network-of-us-based-academics",
+      "source_title": "Iran's foreign minister cultivated a network of US-based academics",
+      "source_date": "2023-09-25",
+      "description": "As Foreign Minister, Zarif operated under the authority of the Supreme Leader on foreign policy matters."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

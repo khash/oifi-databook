@@ -1,0 +1,21 @@
+{
+  "id": "conn-000000006",
+  "from_entity": "person-hms000003",
+  "to_entity": "org-ptn000003",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.semafor.com/article/09/25/2023/irans-foreign-minister-cultivated-a-network-of-us-based-academics",
+      "source_title": "Iran's foreign minister cultivated a network of US-based academics",
+      "source_date": "2023-09-25",
+      "description": "Mousavian identified as a research scholar at Princeton University."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

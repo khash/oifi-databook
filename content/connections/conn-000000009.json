@@ -1,0 +1,21 @@
+{
+  "id": "conn-000000009",
+  "from_entity": "person-mjz000001",
+  "to_entity": "event-iei000001",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2023",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.semafor.com/article/09/25/2023/irans-foreign-minister-cultivated-a-network-of-us-based-academics",
+      "source_title": "Iran's foreign minister cultivated a network of US-based academics",
+      "source_date": "2023-09-25",
+      "description": "Zarif identified as the architect of the IEI in the leaked emails."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

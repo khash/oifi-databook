@@ -1,0 +1,23 @@
+{
+  "id": "event-iei000001",
+  "slug": "iei-leaked-emails-2023",
+  "name": "IEI Leaked Emails Published",
+  "date": "2023-09",
+  "type": "leak",
+  "description": "Semafor and Iran International published a cache of leaked emails revealing the Iran Experts Initiative, an informal network run by the Iranian Foreign Ministry to cultivate relationships with Western-based academics and policy experts of Iranian heritage. The emails showed participants receiving talking points and guidance from Iranian officials, raising questions about undisclosed foreign government influence on US policy discussions.",
+  "sources": [
+    {
+      "url": "https://www.semafor.com/article/09/25/2023/irans-foreign-minister-cultivated-a-network-of-us-based-academics",
+      "title": "Iran's foreign minister cultivated a network of US-based academics",
+      "date": "2023-09-25",
+      "publisher": "Semafor"
+    },
+    {
+      "url": "https://www.iranintl.com/en/202309250926",
+      "title": "Leaked Emails Reveal Iran's Foreign Ministry Ran Influence Network In US",
+      "date": "2023-09-25",
+      "publisher": "Iran International"
+    }
+  ],
+  "editorial_notes": "Primary source is the Semafor investigation by Jay Solomon and team."
+}

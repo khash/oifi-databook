@@ -1,0 +1,115 @@
+---
+import Layout from "@/layouts/main.astro"
+import { Badge } from "@/components/ui/badge"
+import { Separator } from "@/components/ui/separator"
+import { getOrgs, getOrgById, getConnectionsForEntity, getEntityById } from "@/lib/content"
+import { GraphExplorer } from "@/components/GraphExplorer"
+import { ThemeToggle } from "@/components/ThemeToggle"
+import type { Org } from "@/lib/types"
+
+export function getStaticPaths() {
+  return getOrgs().map((o) => ({ params: { slug: o.slug }, props: { org: o } }))
+}
+
+const { org } = Astro.props as { org: Org }
+const connections = getConnectionsForEntity(org.id)
+const parentOrg = org.parent_org ? getOrgById(org.parent_org) : null
+const desc = org.description.slice(0, 160)
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  name: org.name_en,
+  alternateName: org.name_fa,
+  description: org.description,
+  foundingDate: org.founded ? String(org.founded) : undefined,
+  dissolutionDate: org.dissolved ? String(org.dissolved) : undefined,
+}
+---
+
+<Layout
+  title={org.name_en}
+  description={desc}
+  ogType="website"
+  canonicalPath={`/orgs/${org.slug}`}
+  jsonLd={jsonLd}
+>
+  <div class="mx-auto max-w-6xl px-4 py-8">
+    <div class="grid grid-cols-1 gap-8 lg:grid-cols-[1fr_400px]">
+      <article data-pagefind-body>
+        <div class="flex flex-wrap items-center gap-3">
+          <h1 class="text-2xl font-bold" data-pagefind-meta="title">{org.name_en}</h1>
+          <Badge variant="secondary">{org.type.replace(/-/g, " ")}</Badge>
+          {org.faction && <Badge variant="outline">{org.faction.replace(/-/g, " ")}</Badge>}
+        </div>
+        <p class="mt-1 text-lg text-muted-foreground" dir="rtl" lang="fa">{org.name_fa}</p>
+
+        <p class="mt-1 text-sm text-muted-foreground">
+          {org.founded && <span>Founded {org.founded}</span>}
+          {org.dissolved && <span> &middot; Dissolved {org.dissolved}</span>}
+          {parentOrg && (
+            <span>
+              {" "}&middot; Part of{" "}
+              <a href={`/orgs/${parentOrg.slug}`} class="underline hover:text-foreground">{parentOrg.name_en}</a>
+            </span>
+          )}
+        </p>
+
+        <Separator className="my-6" />
+
+        <div class="prose prose-sm max-w-none">
+          <p>{org.description}</p>
+        </div>
+
+        {connections.length > 0 && (
+          <div class="mt-8">
+            <h2 class="mb-3 text-sm font-medium text-muted-foreground">Connections</h2>
+            <ul class="space-y-2">
+              {connections.map((conn) => {
+                const otherId = conn.from_entity === org.id ? conn.to_entity : conn.from_entity
+                const other = getEntityById(otherId)
+                if (!other) return null
+                const href = otherId.startsWith("person-")
+                  ? `/people/${other.slug}`
+                  : otherId.startsWith("org-")
+                    ? `/orgs/${other.slug}`
+                    : `/events/${other.slug}`
+                const label = conn.from_entity === org.id
+                  ? conn.type.replace(/-/g, " ")
+                  : conn.type.replace(/-/g, " ") + " (inverse)"
+                return (
+                  <li class="flex items-center gap-2 text-sm">
+                    <a href={href} class="font-medium hover:underline">
+                      {"name_en" in other ? other.name_en : other.name}
+                    </a>
+                    <span class="text-muted-foreground">&middot; {label}</span>
+                    <Badge
+                      variant="outline"
+                      className={
+                        conn.confidence === "confirmed" ? "border-teal-500 text-teal-700" :
+                        conn.confidence === "alleged" ? "border-amber-500 text-amber-700" :
+                        conn.confidence === "disputed" ? "border-blue-500 text-blue-700" :
+                        "border-gray-400 text-gray-500"
+                      }
+                    >
+                      {conn.confidence}
+                    </Badge>
+                  </li>
+                )
+              })}
+            </ul>
+          </div>
+        )}
+
+        <span data-pagefind-meta={`type:org`} class="hidden" />
+        {org.faction && <span data-pagefind-meta={`faction:${org.faction}`} class="hidden" />}
+      </article>
+
+      <!-- Graph panel — React island takes over on hydration -->
+      <div id="graph-explorer" class="hidden lg:block lg:h-[calc(100vh-8rem)] lg:sticky lg:top-16">
+        <GraphExplorer client:load initialEntityId={org.id} />
+      </div>
+    </div>
+  </div>
+  <ThemeToggle client:load slot="header-actions" />
+</Layout>

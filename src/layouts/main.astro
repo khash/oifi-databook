@@ -1,5 +1,25 @@
 ---
 import "@/styles/global.css"
+
+interface Props {
+  title?: string
+  description?: string
+  ogType?: string
+  canonicalPath?: string
+  jsonLd?: object
+}
+
+const {
+  title = "OIFI Databook",
+  description = "Iranian political actors, organizations and events",
+  ogType = "website",
+  canonicalPath,
+  jsonLd,
+} = Astro.props
+
+const siteUrl = "https://databook.oifi.org"
+const canonicalUrl = canonicalPath ? `${siteUrl}${canonicalPath}` : siteUrl
+const fullTitle = title === "OIFI Databook" ? title : `${title} | OIFI Databook`
 ---
 
 <html lang="en">
@@ -7,9 +27,39 @@ import "@/styles/global.css"
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <title>Astro App</title>
+    <script is:inline>
+      if (localStorage.getItem("theme") === "dark" || (!localStorage.getItem("theme") && window.matchMedia("(prefers-color-scheme: dark)").matches)) {
+        document.documentElement.classList.add("dark")
+      }
+    </script>
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalUrl} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta name="twitter:card" content="summary" />
+    {jsonLd && (
+      <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+    )}
   </head>
   <body>
-    <slot />
+    <header class="border-b border-border">
+      <div class="mx-auto flex h-12 max-w-6xl items-center gap-6 px-4">
+        <a href="/" class="text-sm font-semibold tracking-tight">OIFI Databook</a>
+        <nav class="flex gap-4 text-sm text-muted-foreground">
+          <a href="/people" class="hover:text-foreground">People</a>
+          <a href="/orgs" class="hover:text-foreground">Orgs</a>
+          <a href="/events" class="hover:text-foreground">Events</a>
+        </nav>
+        <div class="ml-auto">
+          <slot name="header-actions" />
+        </div>
+      </div>
+    </header>
+    <main>
+      <slot />
+    </main>
   </body>
 </html>

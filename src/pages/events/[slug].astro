@@ -1,0 +1,106 @@
+---
+import Layout from "@/layouts/main.astro"
+import { Badge } from "@/components/ui/badge"
+import { Separator } from "@/components/ui/separator"
+import { ThemeToggle } from "@/components/ThemeToggle"
+import { getEvents, getConnectionsForEntity, getEntityById } from "@/lib/content"
+import type { Event } from "@/lib/types"
+
+export function getStaticPaths() {
+  return getEvents().map((e) => ({ params: { slug: e.slug }, props: { event: e } }))
+}
+
+const { event } = Astro.props as { event: Event }
+const connections = getConnectionsForEntity(event.id)
+const desc = event.description.slice(0, 160)
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Event",
+  name: event.name,
+  description: event.description,
+  startDate: event.date,
+}
+---
+
+<Layout
+  title={event.name}
+  description={desc}
+  ogType="website"
+  canonicalPath={`/events/${event.slug}`}
+  jsonLd={jsonLd}
+>
+  <div class="mx-auto max-w-3xl px-4 py-8" data-pagefind-body>
+    <div class="flex flex-wrap items-center gap-3">
+      <Badge variant="secondary">{event.type.replace(/-/g, " ")}</Badge>
+      <span class="text-sm text-muted-foreground">{event.date}</span>
+    </div>
+    <h1 class="mt-2 text-2xl font-bold" data-pagefind-meta="title">{event.name}</h1>
+
+    <Separator className="my-6" />
+
+    <div class="prose prose-sm max-w-none">
+      <p>{event.description}</p>
+    </div>
+
+    {event.body && (
+      <div class="prose prose-sm mt-6 max-w-none" set:html={event.body} />
+    )}
+
+    {event.sources.length > 0 && (
+      <div class="mt-8">
+        <h2 class="mb-3 text-sm font-medium text-muted-foreground">Sources</h2>
+        <ul class="space-y-2">
+          {event.sources.map((src) => (
+            <li class="text-sm">
+              <a href={src.url} target="_blank" rel="noopener noreferrer" class="font-medium hover:underline">
+                {src.title}
+              </a>
+              <span class="text-muted-foreground"> &middot; {src.publisher} &middot; {src.date}</span>
+            </li>
+          ))}
+        </ul>
+      </div>
+    )}
+
+    {connections.length > 0 && (
+      <div class="mt-8">
+        <h2 class="mb-3 text-sm font-medium text-muted-foreground">Related Entities</h2>
+        <ul class="space-y-2">
+          {connections.map((conn) => {
+            const otherId = conn.from_entity === event.id ? conn.to_entity : conn.from_entity
+            const other = getEntityById(otherId)
+            if (!other) return null
+            const href = otherId.startsWith("person-")
+              ? `/people/${other.slug}`
+              : otherId.startsWith("org-")
+                ? `/orgs/${other.slug}`
+                : `/events/${other.slug}`
+            return (
+              <li class="flex items-center gap-2 text-sm">
+                <a href={href} class="font-medium hover:underline">
+                  {"name_en" in other ? other.name_en : other.name}
+                </a>
+                <span class="text-muted-foreground">&middot; {conn.type.replace(/-/g, " ")}</span>
+                <Badge
+                  variant="outline"
+                  className={
+                    conn.confidence === "confirmed" ? "border-teal-500 text-teal-700" :
+                    conn.confidence === "alleged" ? "border-amber-500 text-amber-700" :
+                    conn.confidence === "disputed" ? "border-blue-500 text-blue-700" :
+                    "border-gray-400 text-gray-500"
+                  }
+                >
+                  {conn.confidence}
+                </Badge>
+              </li>
+            )
+          })}
+        </ul>
+      </div>
+    )}
+
+    <span data-pagefind-meta={`type:event`} class="hidden" />
+  </div>
+  <ThemeToggle client:load slot="header-actions" />
+</Layout>

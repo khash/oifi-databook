@@ -63,6 +63,7 @@ export interface Event {
   date: string;
   type: EventType;
   description: string;
+  body: string | null;
   sources: Source[];
 }
 

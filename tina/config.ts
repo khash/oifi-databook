@@ -83,7 +83,12 @@ const orgCollection: Collection = {
     },
     { type: "number", name: "founded", label: "Founded (Year)" },
     { type: "number", name: "dissolved", label: "Dissolved (Year)" },
-    { type: "string", name: "parent_org", label: "Parent Org ID" },
+    {
+      type: "reference",
+      name: "parent_org",
+      label: "Parent Organisation",
+      collections: ["org"],
+    },
     {
       type: "string",
       name: "description",
@@ -124,6 +129,12 @@ const eventCollection: Collection = {
       label: "Description",
       required: true,
       ui: { component: "textarea" },
+    },
+    {
+      type: "rich-text",
+      name: "body",
+      label: "Body",
+      description: "Full editorial text (markdown)",
     },
     {
       type: "object",

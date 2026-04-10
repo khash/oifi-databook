@@ -12,6 +12,7 @@ import type { Person, Org, Event, Connection } from "./types";
 const CONTENT_DIR = path.resolve(process.cwd(), "content");
 
 function stripEditorial<T>(obj: T & { editorial_notes?: unknown }): T {
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const { editorial_notes: _, ...rest } = obj;
   return rest as T;
 }

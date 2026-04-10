@@ -44,22 +44,23 @@ const jsonLd = {
       {org.has_native_fa_name && <span class="text-lg text-muted-foreground" dir="rtl" lang="fa">{org.name_fa}</span>}
     </div>
 
+    <p class="mt-1 text-sm text-muted-foreground">
+      {org.type.replace(/-/g, " ")}
+      {org.founded && <span> &middot; Founded {org.founded}</span>}
+      {org.dissolved && <span> &middot; Dissolved {org.dissolved}</span>}
+      {parentOrg && (
+        <span>
+          {" "}&middot; Part of{" "}
+          <a href={`/orgs/${parentOrg.slug}`} class="underline hover:text-foreground">{parentOrg.name_en}</a>
+        </span>
+      )}
+    </p>
+
     <div class="mt-2 flex flex-wrap items-center gap-2">
-      <Badge variant="secondary">{org.type.replace(/-/g, " ")}</Badge>
       {org.faction && <FactionSpectrum client:load faction={org.faction} />}
       {org.tags.map((tag) => (
         <Badge variant="outline">{tag.replace(/-/g, " ")}</Badge>
       ))}
-      <span class="text-sm text-muted-foreground">
-        {org.founded && <span>Founded {org.founded}</span>}
-        {org.dissolved && <span> &middot; Dissolved {org.dissolved}</span>}
-        {parentOrg && (
-          <span>
-            {" "}&middot; Part of{" "}
-            <a href={`/orgs/${parentOrg.slug}`} class="underline hover:text-foreground">{parentOrg.name_en}</a>
-          </span>
-        )}
-      </span>
     </div>
 
     <Separator className="my-6" />
@@ -89,12 +90,12 @@ const jsonLd = {
               ? conn.type.replace(/-/g, " ")
               : INVERSE_LABELS[conn.type] ?? conn.type.replace(/-/g, " ")
             return (
-              <li class="flex items-start gap-2 text-sm">
-                <a href={href} class="font-medium hover:underline">
-                  {"name_en" in other ? other.name_en : other.name}
-                </a>
-                <span class="text-muted-foreground">&middot; {label}</span>
-                <ConfidenceBadge client:load confidence={conn.confidence} />
+              <li>
+                <a href={href} class="text-sm font-medium hover:underline">{"name_en" in other ? other.name_en : other.name}</a>
+                <div class="flex items-center gap-1 text-xs text-muted-foreground">
+                  <span>{label}</span>
+                  <ConfidenceBadge client:load confidence={conn.confidence} />
+                </div>
               </li>
             )
           })}

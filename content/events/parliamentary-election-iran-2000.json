@@ -1,0 +1,26 @@
+{
+  "entity_id": "parliamentary-election-iran-2000",
+  "slug": "parliamentary-election-iran-2000",
+  "name": "2000 Iranian Parliamentary Election (6th Majlis)",
+  "date": "2000-02-18",
+  "type": "election",
+  "description": "The February 2000 parliamentary election produced a landslide victory for the reformist coalition aligned with [President Khatami](/people/mohammad-khatami). Reformist parties, led by the [Islamic Iran Participation Front](/orgs/islamic-iran-participation-front), won approximately 195 of 290 seats. It was the high-water mark of the reform movement: the Islamic Iran Participation Front's [Mohammad-Reza Khatami](/people/mohammad-reza-khatami) topped the Tehran ballot with nearly 1.8 million votes. The 6th [Majlis](/orgs/islamic-consultative-assembly), led by [Speaker Mehdi Karroubi](/people/mehdi-karroubi), was the most reformist parliament in the Islamic Republic's history and was in constant conflict with the [Guardian Council](/orgs/guardian-council).",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/2000_Iranian_legislative_election",
+      "title": "2000 Iranian legislative election",
+      "date": "2000-02-18",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": [
+    "election",
+    "parliamentary-election",
+    "reformist",
+    "2000",
+    "6th-majlis",
+    "khatami"
+  ],
+  "editorial_notes": "Reformist landslide. Guardian Council subsequently blocked much of the 6th Majlis's legislation and then disqualified nearly all reformist candidates for the 2004 election."
+}

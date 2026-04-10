@@ -1,0 +1,21 @@
+{
+  "entity_id": "karroubi-founded-national-trust",
+  "from_entity": "mehdi-karroubi",
+  "to_entity": "national-trust-party",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "2005",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mehdi_Karroubi",
+      "source_title": "Mehdi Karroubi",
+      "source_date": "2024-01-01",
+      "description": "Karroubi founded the National Trust Party in 2005 after his third-place finish in the presidential election."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "pezeshkian-endorsed-by-khatami-2024",
+  "from_entity": "mohammad-khatami",
+  "to_entity": "masoud-pezeshkian",
+  "type": "endorsed",
+  "confidence": "confirmed",
+  "date_from": "2024-06",
+  "date_to": "2024-07",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Masoud_Pezeshkian",
+      "source_title": "Masoud Pezeshkian",
+      "source_date": "2024-07-28",
+      "description": "Khatami and reformist figures endorsed Pezeshkian in the 2024 snap election."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

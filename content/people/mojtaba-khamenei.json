@@ -1,0 +1,23 @@
+{
+  "entity_id": "mojtaba-khamenei",
+  "slug": "mojtaba-khamenei",
+  "name_en": "Mojtaba Khamenei",
+  "name_fa": "مجتبی خامنه‌ای",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1969,
+  "birthplace": "Tehran",
+  "role": "Son of Supreme Leader Ali Khamenei; unofficial power broker",
+  "faction": "hardliner",
+  "bio": "Mojtaba Khamenei is the second son of [Ali Khamenei](/people/ali-khamenei) and widely reported to be one of the most powerful behind-the-scenes figures in the Islamic Republic. He is alleged to have played a central role in the crackdown on the [Green Movement](/events/green-movement-protests-2009) in 2009 and to coordinate between the Supreme Leader's office and the [IRGC](/orgs/islamic-revolutionary-guard-corps) and [Basij](/orgs/basij). He married a daughter of [Gholam-Ali Haddad-Adel](/people/gholam-ali-haddad-adel), cementing ties between the supreme leadership and the conservative parliamentary establishment. He has been subject to US and EU sanctions.",
+  "expertise": [
+    "security coordination",
+    "political management"
+  ],
+  "tags": [
+    "khamenei-family",
+    "sanctioned"
+  ],
+  "photo": null,
+  "editorial_notes": "No formal government title. Widely considered key power broker. Subject to US/EU sanctions."
+}

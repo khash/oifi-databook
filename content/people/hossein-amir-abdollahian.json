@@ -1,0 +1,27 @@
+{
+  "entity_id": "hossein-amir-abdollahian",
+  "slug": "hossein-amir-abdollahian",
+  "name_en": "Hossein Amir-Abdollahian",
+  "name_fa": "حسین امیرعبداللهیان",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Amir-Abdollahian"
+  ],
+  "born": 1964,
+  "birthplace": "Damascus, Syria",
+  "role": "Minister of Foreign Affairs (2021–2024)",
+  "faction": "hardliner",
+  "bio": "Hossein Amir-Abdollahian served as Iran's Minister of Foreign Affairs under President Ebrahim Raisi from 2021 until his death in the helicopter crash of May 2024. A career diplomat close to the [IRGC Quds Force](/orgs/irgc-quds-force), he had previously served as deputy foreign minister for Arab and African affairs. He was killed alongside [President Raisi](/people/ebrahim-raisi) when their helicopter crashed in foggy conditions in East Azerbaijan Province.",
+  "expertise": [
+    "diplomacy",
+    "Arab affairs",
+    "regional security"
+  ],
+  "tags": [
+    "foreign-minister",
+    "deceased",
+    "killed-in-crash"
+  ],
+  "photo": null,
+  "editorial_notes": "Killed 19 May 2024 in same helicopter crash as President Raisi."
+}

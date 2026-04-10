@@ -1,0 +1,21 @@
+{
+  "entity_id": "haji-babaee-served-in-majlis-12th",
+  "from_entity": "hamid-reza-haji-babaee",
+  "to_entity": "islamic-consultative-assembly",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2024",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_speakers_of_the_Parliament_of_Iran",
+      "source_title": "List of speakers of the Parliament of Iran",
+      "source_date": "2024-01-01",
+      "description": "Haji Babaee serves as First Deputy Speaker of the 12th Majlis (2024–) under Ghalibaf."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "First Deputy Speaker, 12th Majlis (2024–present)."
+}

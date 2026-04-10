@@ -1,0 +1,21 @@
+{
+  "entity_id": "mojahedin-of-islamic-revolution-organization",
+  "slug": "mojahedin-of-islamic-revolution-organization",
+  "name_en": "Mojahedin of the Islamic Revolution Organization",
+  "name_fa": "سازمان مجاهدین انقلاب اسلامی ایران",
+  "has_native_fa_name": true,
+  "type": "political-party",
+  "founded": 1991,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Mojahedin of the Islamic Revolution Organization (OMIIR) is a reformist party reconstituted in 1991 from the left wing of the original 1979 organisation of the same name. It is closely allied with the [Islamic Iran Participation Front](/orgs/islamic-iran-participation-front) within the reform movement. Key figures include [Behzad Nabavi](/people/behzad-nabavi), [Mohsen Armin](/people/mohsen-armin), and [Mostafa Tajzadeh](/people/mostafa-tajzadeh). The party emphasised the republican dimensions of the Islamic Republic over its theocratic elements. Several members were arrested and imprisoned after the 2009 [Green Movement](/events/green-movement-protests-2009) protests.",
+  "faction": "reformist",
+  "tags": [
+    "reformist",
+    "party",
+    "omiir",
+    "6th-majlis",
+    "political-prisoners"
+  ],
+  "editorial_notes": "Reconstituted 1991 from the left wing of the original 1979 organisation. Key figures: Nabavi, Armin, Tajzadeh. Several senior members imprisoned post-2009."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "larijani-family-of-morteza-motahhari",
+  "from_entity": "ali-larijani",
+  "to_entity": "morteza-motahhari",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": "1977",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Larijani",
+      "source_title": "Ali Larijani",
+      "source_date": "2024-01-01",
+      "description": "Larijani married Farideh Motahhari, daughter of Morteza Motahhari, making Motahhari his father-in-law."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "in-law",
+  "editorial_notes": "Larijani married Farideh Motahhari in 1977. Morteza was assassinated two years later in 1979."
+}

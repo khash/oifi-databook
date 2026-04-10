@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-khatami-aligned-iipf",
+  "from_entity": "mohammad-khatami",
+  "to_entity": "islamic-iran-participation-front",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "1998",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Khatami",
+      "source_title": "Mohammad Khatami",
+      "source_date": "2024-01-01",
+      "description": "The IIPF was the primary party vehicle for Khatami's reform agenda and supported his presidency."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": "The IIPF was formed explicitly to support Khatami's presidency and reform programme."
+}

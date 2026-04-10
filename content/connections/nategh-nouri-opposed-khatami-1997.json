@@ -1,0 +1,21 @@
+{
+  "entity_id": "nategh-nouri-opposed-khatami-1997",
+  "from_entity": "ali-akbar-nategh-nouri",
+  "to_entity": "mohammad-khatami",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": "1997-05",
+  "date_to": "1997-05",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/1997_Iranian_presidential_election",
+      "source_title": "1997 Iranian presidential election",
+      "source_date": "2024-01-01",
+      "description": "Nategh-Nouri was the establishment frontrunner who ran against Khatami in the 1997 presidential election."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Electoral opposition. Nategh-Nouri was favoured by the conservative establishment; Khatami won with ~70% of the vote."
+}

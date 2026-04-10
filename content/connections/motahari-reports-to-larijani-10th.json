@@ -1,0 +1,21 @@
+{
+  "entity_id": "motahari-reports-to-larijani-10th",
+  "from_entity": "ali-motahari",
+  "to_entity": "ali-larijani",
+  "type": "reports-to",
+  "confidence": "confirmed",
+  "date_from": "2016",
+  "date_to": "2019",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Motahari",
+      "source_title": "Ali Motahari",
+      "source_date": "2024-01-01",
+      "description": "Motahari served as Second Deputy Speaker under Larijani in the 10th Majlis (2016–2019)."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

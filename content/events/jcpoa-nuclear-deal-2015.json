@@ -1,0 +1,24 @@
+{
+  "entity_id": "jcpoa-nuclear-deal-2015",
+  "slug": "jcpoa-nuclear-deal-2015",
+  "name": "JCPOA Nuclear Deal",
+  "date": "2015-07-14",
+  "type": "policy",
+  "description": "The Joint Comprehensive Plan of Action (JCPOA) was a landmark nuclear agreement reached on 14 July 2015 between Iran and the P5+1 (the United States, United Kingdom, France, Russia, China, and Germany). Iran agreed to limit its nuclear programme in exchange for the lifting of international sanctions. [Mohammad Javad Zarif](/people/javad-zarif) led the Iranian negotiating team under President [Hassan Rouhani](/people/hassan-rouhani). The United States withdrew from the agreement in May 2018 under President Trump, reimposing sanctions and triggering a severe economic downturn in Iran.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Joint_Comprehensive_Plan_of_Action",
+      "title": "Joint Comprehensive Plan of Action",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": [
+    "nuclear",
+    "diplomacy",
+    "sanctions",
+    "jcpoa"
+  ],
+  "editorial_notes": "US withdrew in 2018. Signature foreign policy achievement of Rouhani era."
+}

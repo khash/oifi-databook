@@ -1,0 +1,21 @@
+{
+  "entity_id": "ahmadinejad-aligned-abadgaran",
+  "from_entity": "mahmoud-ahmadinejad",
+  "to_entity": "alliance-of-builders-of-islamic-iran",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "2003",
+  "date_to": "2007",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Alliance_of_Builders_of_Islamic_Iran",
+      "source_title": "Alliance of Builders of Islamic Iran",
+      "source_date": "2024-01-01",
+      "description": "Ahmadinejad was backed by Abadgaran for his 2005 presidential run and was considered a key figure in the alliance."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

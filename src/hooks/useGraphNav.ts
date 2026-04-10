@@ -26,7 +26,7 @@ export function useGraphNav(
         return [...prev, id]
       })
       if (pushToHistory && data) {
-        window.history.pushState({ entityId: id }, "", urlForEntity(data, id))
+        window.location.href = urlForEntity(data, id)
       }
     },
     [data],

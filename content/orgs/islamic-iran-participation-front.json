@@ -1,0 +1,21 @@
+{
+  "entity_id": "islamic-iran-participation-front",
+  "slug": "islamic-iran-participation-front",
+  "name_en": "Islamic Iran Participation Front",
+  "name_fa": "جبهه مشارکت ایران اسلامی",
+  "has_native_fa_name": true,
+  "type": "political-party",
+  "founded": 1998,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Islamic Iran Participation Front (Jebhe-ye Mosharekat-e Iran-e Eslami), abbreviated IIPF, was the largest and most prominent reformist political party in post-revolutionary Iran. Founded in 1998 by [Mohammad-Reza Khatami](/people/mohammad-reza-khatami), it was the main vehicle for the reformist 2nd Khordad movement that swept the 6th [Majlis](/orgs/islamic-consultative-assembly) in 2000. The [Guardian Council](/orgs/guardian-council) barred all IIPF candidates from running in the 2004 parliamentary election, effectively eliminating the party from parliament. It was formally suspended by the government in 2010 following the [Green Movement](/events/green-movement-protests-2009) protests. The party advocated political pluralism, civil society, rule of law, and engagement with the West.",
+  "faction": "reformist",
+  "tags": [
+    "reformist",
+    "party",
+    "2nd-khordad",
+    "banned",
+    "6th-majlis"
+  ],
+  "editorial_notes": "Founded 1998 by Mohammad-Reza Khatami. All candidates barred from 2004 election by Guardian Council. Suspended by Interior Ministry in 2010."
+}

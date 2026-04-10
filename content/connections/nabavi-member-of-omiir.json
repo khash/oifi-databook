@@ -1,0 +1,21 @@
+{
+  "entity_id": "nabavi-member-of-omiir",
+  "from_entity": "behzad-nabavi",
+  "to_entity": "mojahedin-of-islamic-revolution-organization",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": "1991",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://irandataportal.syr.edu/organization-of-the-mojahedin-of-the-islamic-revolution-of-iran",
+      "source_title": "OMIIR profile",
+      "source_date": "2024-01-01",
+      "description": "Nabavi is a founding member and central committee member of OMIIR."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

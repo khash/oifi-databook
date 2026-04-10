@@ -1,0 +1,21 @@
+{
+  "entity_id": "nabavi-founded-omiir",
+  "from_entity": "behzad-nabavi",
+  "to_entity": "mojahedin-of-islamic-revolution-organization",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "1991",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Behzad_Nabavi",
+      "source_title": "Behzad Nabavi",
+      "source_date": "2024-01-01",
+      "description": "Nabavi was one of the co-founders of the reconstituted OMIIR in 1991."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "motahari-opposed-ahmadinejad",
+  "from_entity": "ali-motahari",
+  "to_entity": "mahmoud-ahmadinejad",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": "2008",
+  "date_to": "2013",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Motahari",
+      "source_title": "Ali Motahari",
+      "source_date": "2024-01-01",
+      "description": "Motahari was a persistent and public critic of Ahmadinejad, attempting to summon him to parliament for questioning."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Motahari tried repeatedly to summon Ahmadinejad for parliamentary questioning despite being a fellow principlist."
+}

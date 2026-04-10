@@ -1,0 +1,21 @@
+{
+  "entity_id": "nabavi-participated-2000-election",
+  "from_entity": "behzad-nabavi",
+  "to_entity": "parliamentary-election-iran-2000",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2000-02-18",
+  "date_to": "2000-02-18",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Behzad_Nabavi",
+      "source_title": "Behzad Nabavi",
+      "source_date": "2024-01-01",
+      "description": "Nabavi was elected to the 6th Majlis in the 2000 election."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

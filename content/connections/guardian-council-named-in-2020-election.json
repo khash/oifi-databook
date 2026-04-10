@@ -1,0 +1,21 @@
+{
+  "entity_id": "guardian-council-named-in-2020-election",
+  "from_entity": "guardian-council",
+  "to_entity": "parliamentary-election-iran-2020",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2019-12",
+  "date_to": "2020-02",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2020_Iranian_legislative_election",
+      "source_title": "2020 Iranian legislative election",
+      "source_date": "2024-01-01",
+      "description": "The Guardian Council disqualified over 9,000 candidates in the run-up to the 2020 election."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

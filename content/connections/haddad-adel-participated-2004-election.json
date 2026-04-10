@@ -1,0 +1,21 @@
+{
+  "entity_id": "haddad-adel-participated-2004-election",
+  "from_entity": "gholam-ali-haddad-adel",
+  "to_entity": "parliamentary-election-iran-2004",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2004-02-20",
+  "date_to": "2004-02-20",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Gholam-Ali_Haddad-Adel",
+      "source_title": "Gholam-Ali Haddad-Adel",
+      "source_date": "2024-01-01",
+      "description": "Haddad-Adel topped the Tehran ballot in the 2004 election and was subsequently elected Speaker."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Topped the Tehran ballot after Guardian Council disqualified reformist candidates."
+}

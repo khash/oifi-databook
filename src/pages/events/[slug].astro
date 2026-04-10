@@ -71,12 +71,12 @@ const jsonLd = {
                 ? `/orgs/${other.slug}`
                 : `/events/${other.slug}`
             return (
-              <li class="flex items-start gap-2 text-sm">
-                <a href={href} class="font-medium hover:underline">
-                  {"name_en" in other ? other.name_en : other.name}
-                </a>
-                <span class="text-muted-foreground">&middot; {conn.type.replace(/-/g, " ")}</span>
-                <ConfidenceBadge client:load confidence={conn.confidence} />
+              <li>
+                <a href={href} class="text-sm font-medium hover:underline">{"name_en" in other ? other.name_en : other.name}</a>
+                <div class="flex items-center gap-1 text-xs text-muted-foreground">
+                  <span>{conn.type.replace(/-/g, " ")}</span>
+                  <ConfidenceBadge client:load confidence={conn.confidence} />
+                </div>
               </li>
             )
           })}

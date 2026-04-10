@@ -1,5 +1,6 @@
 ---
 import "@/styles/global.css"
+import { ClientRouter } from "astro:transitions"
 
 interface Props {
   title?: string
@@ -24,6 +25,7 @@ const fullTitle = title === "OIFI Databook" ? title : `${title} | OIFI Databook`
 
 <html lang="en">
   <head>
+    <ClientRouter />
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />

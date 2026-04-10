@@ -1,0 +1,21 @@
+{
+  "entity_id": "rouhani-served-in-majlis-4th",
+  "from_entity": "hassan-rouhani",
+  "to_entity": "islamic-consultative-assembly",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1992",
+  "date_to": "1996",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Behzad_Nabavi",
+      "source_title": "Behzad Nabavi",
+      "source_date": "2024-01-01",
+      "description": "Nabavi's Wikipedia page lists Hassan Rouhani as his predecessor as First Deputy Speaker, placing Rouhani in the 4th Majlis deputy role."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "First Deputy Speaker of the 4th Majlis under Speaker Nategh-Nouri (1992–1996). This predates his role as SNSC secretary and chief nuclear negotiator."
+}

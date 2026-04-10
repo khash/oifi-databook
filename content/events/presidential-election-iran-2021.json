@@ -1,0 +1,24 @@
+{
+  "entity_id": "presidential-election-iran-2021",
+  "slug": "presidential-election-iran-2021",
+  "name": "2021 Iranian Presidential Election",
+  "date": "2021-06-18",
+  "type": "election",
+  "description": "The 2021 presidential election was marked by the [Guardian Council](/orgs/guardian-council)'s disqualification of all major moderate and reformist candidates, including [Ali Larijani](/people/ali-larijani) and [Mostafa Tajzadeh](/people/mostafa-tajzadeh). Only seven of 592 applicants were approved to run. [Ebrahim Raisi](/people/ebrahim-raisi) won with 62% of the vote, but turnout was a record-low 48.8%, with widespread calls for boycott. The election was widely seen as engineered to ensure Raisi's victory and consolidate hardliner control of all branches of government.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/2021_Iranian_presidential_election",
+      "title": "2021 Iranian presidential election",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": [
+    "election",
+    "low-turnout",
+    "engineered",
+    "2021"
+  ],
+  "editorial_notes": "Record-low turnout. Widely seen as engineered outcome."
+}

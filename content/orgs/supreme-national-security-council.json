@@ -1,0 +1,19 @@
+{
+  "entity_id": "supreme-national-security-council",
+  "slug": "supreme-national-security-council",
+  "name_en": "Supreme National Security Council",
+  "name_fa": "شورای عالی امنیت ملی",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 1989,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Supreme National Security Council (SNSC) is Iran's top security and foreign policy decision-making body, chaired by the president. Its decisions require ratification by the Supreme Leader. Members include the heads of the three branches of government, the chief of the Supreme Command Council of the Armed Forces, military commanders, and the foreign and interior ministers. The secretary of the SNSC is one of the most powerful positions in Iran.",
+  "faction": null,
+  "tags": [
+    "security",
+    "foreign-policy",
+    "constitutional-body"
+  ],
+  "editorial_notes": "Established by the 1989 constitutional revision."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "motahari-served-in-majlis-10th",
+  "from_entity": "ali-motahari",
+  "to_entity": "islamic-consultative-assembly",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2008",
+  "date_to": "2020",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Motahari",
+      "source_title": "Ali Motahari",
+      "source_date": "2024-01-01",
+      "description": "Motahari was Second Deputy Speaker of the 10th Majlis (2016–2019) and MP for Tehran across three sessions (2008–2020)."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "MP across 8th, 9th and 10th Majlis. Second Deputy Speaker only in 10th (2016–2019). Disqualified from 2020 election."
+}

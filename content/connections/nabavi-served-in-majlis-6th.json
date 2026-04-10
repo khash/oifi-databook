@@ -1,0 +1,21 @@
+{
+  "entity_id": "nabavi-served-in-majlis-6th",
+  "from_entity": "behzad-nabavi",
+  "to_entity": "islamic-consultative-assembly",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2000",
+  "date_to": "2004",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Behzad_Nabavi",
+      "source_title": "Behzad Nabavi",
+      "source_date": "2024-01-01",
+      "description": "Nabavi served as First Deputy Speaker of the 6th Majlis in years 1 and 3 of the session."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Deputy Speaker in years 1 (2000–01) and 3 (2002–03) of the 6th Majlis. MR Khatami held the role in years 2 and 4."
+}

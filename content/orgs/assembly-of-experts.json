@@ -1,0 +1,19 @@
+{
+  "entity_id": "assembly-of-experts",
+  "slug": "assembly-of-experts",
+  "name_en": "Assembly of Experts",
+  "name_fa": "مجلس خبرگان رهبری",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 1983,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Assembly of Experts (Majles-e Khobregan-e Rahbari) is an 88-member body of senior clerics elected by popular vote for eight-year terms. Its constitutional mandate is to select, supervise, and if necessary dismiss the Supreme Leader. All candidates must be vetted by the [Guardian Council](/orgs/guardian-council). In practice, it has never exercised its supervisory or dismissal powers. It is chaired by a speaker elected from among its members.",
+  "faction": null,
+  "tags": [
+    "supreme-leader",
+    "constitutional-body",
+    "clerical"
+  ],
+  "editorial_notes": "Members elected by popular vote but heavily vetted by Guardian Council."
+}

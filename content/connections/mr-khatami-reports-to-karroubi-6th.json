@@ -1,0 +1,21 @@
+{
+  "entity_id": "mr-khatami-reports-to-karroubi-6th",
+  "from_entity": "mohammad-reza-khatami",
+  "to_entity": "mehdi-karroubi",
+  "type": "reports-to",
+  "confidence": "confirmed",
+  "date_from": "2000",
+  "date_to": "2004",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad-Reza_Khatami",
+      "source_title": "Mohammad-Reza Khatami",
+      "source_date": "2024-01-01",
+      "description": "Khatami was Deputy Speaker under Karroubi in the 6th Majlis (2000–2004)."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

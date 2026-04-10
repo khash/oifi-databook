@@ -1,0 +1,19 @@
+{
+  "entity_id": "hezbollah",
+  "slug": "hezbollah",
+  "name_en": "Hezbollah",
+  "name_fa": "حزب‌الله",
+  "has_native_fa_name": true,
+  "type": "military",
+  "founded": 1982,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Hezbollah (Party of God) is a Lebanese Shia Islamist political party and militant group founded with the support of Iran's [Islamic Revolutionary Guard Corps](/orgs/islamic-revolutionary-guard-corps) during the Lebanese Civil War. It is the most powerful of Iran's regional proxies and receives extensive financial, military, and logistical support from the [IRGC Quds Force](/orgs/irgc-quds-force). It operates as both a political party in Lebanese parliament and a military force with an arsenal that surpasses the Lebanese Armed Forces.",
+  "faction": null,
+  "tags": [
+    "proxy",
+    "lebanon",
+    "axis-of-resistance"
+  ],
+  "editorial_notes": "Primary Iranian proxy in the Levant."
+}

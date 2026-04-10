@@ -1,0 +1,24 @@
+{
+  "entity_id": "presidential-election-iran-2005",
+  "slug": "presidential-election-iran-2005",
+  "name": "2005 Iranian Presidential Election",
+  "date": "2005-06-17",
+  "type": "election",
+  "description": "The 2005 presidential election resulted in the surprise victory of Tehran mayor [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad) over [Akbar Hashemi Rafsanjani](/people/akbar-hashemi-rafsanjani) in a run-off. Ahmadinejad ran as a populist outsider against the establishment, backed by the [Alliance of Builders of Islamic Iran](/orgs/alliance-of-builders-of-islamic-iran) and networks within the [Islamic Revolutionary Guard Corps](/orgs/islamic-revolutionary-guard-corps) and [Basij](/orgs/basij). [Mehdi Karroubi](/people/mehdi-karroubi), who initially led in first-round results before official tallies shifted, alleged fraud. The election marked the beginning of a sharp turn toward hardline populism.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/2005_Iranian_presidential_election",
+      "title": "2005 Iranian presidential election",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": [
+    "election",
+    "ahmadinejad",
+    "2005",
+    "runoff"
+  ],
+  "editorial_notes": "Ahmadinejad defeated Rafsanjani in runoff."
+}

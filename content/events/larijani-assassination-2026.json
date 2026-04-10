@@ -1,0 +1,25 @@
+{
+  "entity_id": "larijani-assassination-2026",
+  "slug": "larijani-assassination-2026",
+  "name": "Assassination of Ali Larijani",
+  "date": "2026-03-17",
+  "type": "death",
+  "description": "Former [Majlis](/orgs/islamic-consultative-assembly) Speaker and senior establishment figure [Ali Larijani](/people/ali-larijani) was killed in an Israeli airstrike on Tehran on 17 March 2026. His son Morteza Larijani and office chief Alireza Bayat were also killed in the attack. The killing came weeks after the death of [Supreme Leader Khamenei](/people/ali-khamenei) and amid an ongoing Israeli-Iranian conflict that had severely degraded Iran's military and nuclear infrastructure. Iran officially declared Larijani a martyr. The assassination removed one of the Islamic Republic's most experienced diplomatic and legislative figures at a critical moment of regime transition.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.majalla.com/node/329988/profiles/iran%E2%80%99s-wartime-leader-isn%E2%80%99t-dealmaker",
+      "title": "Iran's wartime leader isn't a dealmaker",
+      "date": "2026-03-08",
+      "publisher": "Al Majalla"
+    }
+  ],
+  "tags": [
+    "assassination",
+    "larijani",
+    "israeli-strike",
+    "2026",
+    "deceased"
+  ],
+  "editorial_notes": "Part of broader Israeli strikes on Iranian leadership figures in 2025–2026. Larijani was 67 at time of death."
+}

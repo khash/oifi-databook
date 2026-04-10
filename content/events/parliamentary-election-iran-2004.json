@@ -1,0 +1,28 @@
+{
+  "entity_id": "parliamentary-election-iran-2004",
+  "slug": "parliamentary-election-iran-2004",
+  "name": "2004 Iranian Parliamentary Election (7th Majlis)",
+  "date": "2004-02-20",
+  "type": "election",
+  "description": "The February 2004 parliamentary election was marked by the [Guardian Council](/orgs/guardian-council)'s mass disqualification of approximately 2,400 candidates, including most reformist incumbents and all candidates of the [Islamic Iran Participation Front](/orgs/islamic-iran-participation-front). Approximately 80 sitting MPs were barred from seeking re-election. The result was a sweeping conservative victory, with the [Abadgaran](/orgs/alliance-of-builders-of-islamic-iran) coalition winning over 190 seats. Speaker [Gholam-Ali Haddad-Adel](/people/gholam-ali-haddad-adel) was elected with 226 of 259 votes, becoming the first non-clerical Speaker since the revolution. Turnout collapsed to around 51%.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/2004_Iranian_legislative_election",
+      "title": "2004 Iranian legislative election",
+      "date": "2004-02-20",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": [
+    "election",
+    "parliamentary-election",
+    "conservative",
+    "2004",
+    "7th-majlis",
+    "abadgaran",
+    "guardian-council",
+    "disqualification"
+  ],
+  "editorial_notes": "Key event demonstrating Guardian Council as electoral engineering body. Triggered mass reformist calls to boycott or protest the election. Khatami condemned the election as unfair but allowed it to proceed."
+}

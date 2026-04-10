@@ -1,0 +1,21 @@
+{
+  "entity_id": "ghalibaf-participated-2020-election",
+  "from_entity": "mohammad-bagher-ghalibaf",
+  "to_entity": "parliamentary-election-iran-2020",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2020-02-21",
+  "date_to": "2020-02-21",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Bagher_Ghalibaf",
+      "source_title": "Mohammad Bagher Ghalibaf",
+      "source_date": "2024-01-01",
+      "description": "Ghalibaf was elected to the 11th Majlis in 2020 and subsequently chosen as Speaker."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

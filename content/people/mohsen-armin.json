@@ -1,0 +1,28 @@
+{
+  "entity_id": "mohsen-armin",
+  "slug": "mohsen-armin",
+  "name_en": "Mohsen Armin",
+  "name_fa": "محسن آرمین",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Armin"
+  ],
+  "born": 1955,
+  "birthplace": "Isfahan, Isfahan Province",
+  "role": "Reformist politician and journalist; member of the 6th Majlis",
+  "faction": "reformist",
+  "bio": "Mohsen Armin is a reformist politician, journalist, and key figure in the [Mojahedin of the Islamic Revolution Organization](/orgs/mojahedin-of-islamic-revolution-organization). He served as a member of parliament in the reformist 6th [Majlis](/orgs/islamic-consultative-assembly). He has been active in political journalism and the reform movement, advocating for political openness and democratic governance within the Islamic Republic framework.",
+  "expertise": [
+    "political journalism",
+    "parliamentary affairs",
+    "reform politics"
+  ],
+  "tags": [
+    "reformist",
+    "journalist",
+    "omiir",
+    "6th-majlis"
+  ],
+  "photo": null,
+  "editorial_notes": ""
+}

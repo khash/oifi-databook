@@ -1,0 +1,27 @@
+{
+  "entity_id": "parliamentary-election-iran-2020",
+  "slug": "parliamentary-election-iran-2020",
+  "name": "2020 Iranian Parliamentary Election (11th Majlis)",
+  "date": "2020-02-21",
+  "type": "election",
+  "description": "The February 2020 parliamentary election produced another conservative sweep, with the [Guardian Council](/orgs/guardian-council) disqualifying over 9,000 candidates including many moderate incumbents. Turnout was a record low of approximately 42% nationally and around 25% in Tehran. The principlist coalition won a large majority, and [IRGC](/orgs/islamic-revolutionary-guard-corps)-aligned figure [Mohammad Bagher Ghalibaf](/people/mohammad-bagher-ghalibaf) was elected Speaker days later. The election represented the full consolidation of hardliner control over the legislature.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/2020_Iranian_legislative_election",
+      "title": "2020 Iranian legislative election",
+      "date": "2020-02-21",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": [
+    "election",
+    "parliamentary-election",
+    "principlist",
+    "2020",
+    "11th-majlis",
+    "low-turnout",
+    "ghalibaf"
+  ],
+  "editorial_notes": "Record low turnout. Over 9,000 candidates disqualified by Guardian Council. Ghalibaf elected Speaker 28 May 2020."
+}

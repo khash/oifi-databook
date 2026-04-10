@@ -1,0 +1,24 @@
+{
+  "entity_id": "iran-iraq-war",
+  "slug": "iran-iraq-war",
+  "name": "Iran-Iraq War",
+  "date": "1980-09-22",
+  "type": "policy",
+  "description": "The Iran-Iraq War (1980–1988) was an eight-year conflict initiated by Iraq's invasion of Iran in September 1980. It was the longest conventional war of the twentieth century, killing an estimated 500,000 to 1 million people on both sides. The war shaped a generation of Iranian military and political leaders, particularly those who went on to lead the [Islamic Revolutionary Guard Corps](/orgs/islamic-revolutionary-guard-corps). [Mir-Hossein Mousavi](/people/mir-hossein-mousavi) served as prime minister throughout the conflict. The war ended with UN-brokered ceasefire Resolution 598, which [Ruhollah Khomeini](/people/ruhollah-khomeini) accepted, comparing it to 'drinking poison'.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+      "title": "Iran-Iraq War",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": [
+    "war",
+    "1980s",
+    "iraq",
+    "founding-conflict"
+  ],
+  "editorial_notes": "1980-1988. Defining event for IRGC generation."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "larijani-named-in-larijani-assassination",
+  "from_entity": "ali-larijani",
+  "to_entity": "larijani-assassination-2026",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2026-03-17",
+  "date_to": "2026-03-17",
+  "evidence": [
+    {
+      "source_url": "https://en.majalla.com/node/329988/profiles/iran%E2%80%99s-wartime-leader-isn%E2%80%99t-dealmaker",
+      "source_title": "Iran's wartime leader isn't a dealmaker",
+      "source_date": "2026-03-08",
+      "description": "Larijani was killed in an Israeli airstrike on Tehran on 17 March 2026."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Larijani was the primary target. His son Morteza and office chief Alireza Bayat were also killed."
+}

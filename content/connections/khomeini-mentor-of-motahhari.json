@@ -1,0 +1,21 @@
+{
+  "entity_id": "khomeini-mentor-of-motahhari",
+  "from_entity": "ruhollah-khomeini",
+  "to_entity": "morteza-motahhari",
+  "type": "mentor-of",
+  "confidence": "confirmed",
+  "date_from": "1944",
+  "date_to": "1979",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Morteza_Motahhari",
+      "source_title": "Morteza Motahhari",
+      "source_date": "2024-01-01",
+      "description": "Motahhari studied under Khomeini at the Qom seminary from 1944 and remained a devoted disciple until his assassination."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Motahhari studied under Khomeini at Qom and was the closest intellectual disciple."
+}

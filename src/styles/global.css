@@ -138,3 +138,7 @@
     @apply font-sans;
     }
 }
+
+.prose a {
+  @apply underline decoration-muted-foreground/40 underline-offset-2 hover:decoration-foreground;
+}

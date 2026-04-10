@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-motahari-family-of-morteza-motahhari",
+  "from_entity": "ali-motahari",
+  "to_entity": "morteza-motahhari",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Motahari",
+      "source_title": "Ali Motahari",
+      "source_date": "2024-01-01",
+      "description": "Ali Motahari is the son of Morteza Motahhari."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "child",
+  "editorial_notes": "Ali is a child of Morteza. (Store as child from Ali's perspective; renders as parent on Morteza's profile.)"
+}

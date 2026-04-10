@@ -1,0 +1,24 @@
+{
+  "entity_id": "constitutional-revision-1989",
+  "slug": "constitutional-revision-1989",
+  "name": "1989 Constitutional Revision",
+  "date": "1989-07-28",
+  "type": "policy",
+  "description": "The 1989 constitutional revision amended the Constitution of the Islamic Republic shortly before [Ruhollah Khomeini](/people/ruhollah-khomeini)'s death. Key changes included abolishing the position of prime minister and merging its powers into the presidency, establishing the [Supreme National Security Council](/orgs/supreme-national-security-council) and the [Expediency Discernment Council](/orgs/expediency-discernment-council) as constitutional bodies, removing the requirement that the Supreme Leader be a marja (senior religious authority), and expanding the Supreme Leader's powers. The revision was approved by referendum on 28 July 1989, the same day as the presidential election that brought [Akbar Hashemi Rafsanjani](/people/akbar-hashemi-rafsanjani) to office.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/1989_Iranian_constitutional_referendum",
+      "title": "1989 Iranian constitutional referendum",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": [
+    "constitution",
+    "1989",
+    "reform",
+    "institutional"
+  ],
+  "editorial_notes": "Abolished PM role. Enabled Khamenei to become Supreme Leader despite not being a marja."
+}

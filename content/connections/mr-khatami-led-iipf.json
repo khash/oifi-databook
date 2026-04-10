@@ -1,0 +1,21 @@
+{
+  "entity_id": "mr-khatami-led-iipf",
+  "from_entity": "mohammad-reza-khatami",
+  "to_entity": "islamic-iran-participation-front",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "1998",
+  "date_to": "2010",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad-Reza_Khatami",
+      "source_title": "Mohammad-Reza Khatami",
+      "source_date": "2024-01-01",
+      "description": "Khatami served as first Secretary-General of the IIPF from its founding until its suppression."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Party suspended by Interior Ministry 2010."
+}

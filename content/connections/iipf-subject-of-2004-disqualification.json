@@ -1,0 +1,21 @@
+{
+  "entity_id": "iipf-subject-of-2004-disqualification",
+  "from_entity": "islamic-iran-participation-front",
+  "to_entity": "parliamentary-election-iran-2004",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2004-01",
+  "date_to": "2004-02",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2004_Iranian_legislative_election",
+      "source_title": "2004 Iranian legislative election",
+      "source_date": "2024-01-01",
+      "description": "The Guardian Council barred all IIPF candidates from running in the 2004 election."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Entire party blanket-barred by the Guardian Council from the 2004 election."
+}

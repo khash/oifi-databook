@@ -1,0 +1,21 @@
+{
+  "entity_id": "nikzad-served-in-majlis-11th-12th",
+  "from_entity": "ali-nikzad",
+  "to_entity": "islamic-consultative-assembly",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2020",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_speakers_of_the_Parliament_of_Iran",
+      "source_title": "List of speakers of the Parliament of Iran",
+      "source_date": "2024-01-01",
+      "description": "Nikzad served as Second Deputy Speaker in the 11th and 12th Majlis under Ghalibaf."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Second Deputy Speaker in both 11th (2020–2024) and 12th (2024–present) Majlis."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "ghazizadeh-reports-to-ghalibaf-11th",
+  "from_entity": "amir-hossein-ghazizadeh-hashemi",
+  "to_entity": "mohammad-bagher-ghalibaf",
+  "type": "reports-to",
+  "confidence": "confirmed",
+  "date_from": "2020",
+  "date_to": "2024",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Islamic_Consultative_Assembly",
+      "source_title": "Islamic Consultative Assembly",
+      "source_date": "2024-01-01",
+      "description": "Ghazizadeh Hashemi was First Deputy Speaker under Ghalibaf in the 11th Majlis."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

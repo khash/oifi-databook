@@ -1,0 +1,21 @@
+{
+  "entity_id": "motahhari-mentor-of-larijani",
+  "from_entity": "morteza-motahhari",
+  "to_entity": "ali-larijani",
+  "type": "mentor-of",
+  "confidence": "confirmed",
+  "date_from": "1977",
+  "date_to": "1979",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Larijani",
+      "source_title": "Ali Larijani",
+      "source_date": "2024-01-01",
+      "description": "Larijani changed his graduate studies from computer science to Western philosophy on Morteza Motahhari's advice."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Motahhari's intellectual influence on Larijani is documented; he advised the subject change that shaped Larijani's philosophical career."
+}

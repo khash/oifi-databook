@@ -1,0 +1,21 @@
+{
+  "entity_id": "ghazizadeh-served-in-majlis-11th",
+  "from_entity": "amir-hossein-ghazizadeh-hashemi",
+  "to_entity": "islamic-consultative-assembly",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2020",
+  "date_to": "2024",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Islamic_Consultative_Assembly",
+      "source_title": "Islamic Consultative Assembly",
+      "source_date": "2024-01-01",
+      "description": "Ghazizadeh Hashemi served as First Deputy Speaker of the 11th Majlis (2020–2024) under Ghalibaf."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "First Deputy Speaker, 11th Majlis."
+}

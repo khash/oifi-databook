@@ -1,0 +1,21 @@
+{
+  "entity_id": "haji-babaee-reports-to-ghalibaf-12th",
+  "from_entity": "hamid-reza-haji-babaee",
+  "to_entity": "mohammad-bagher-ghalibaf",
+  "type": "reports-to",
+  "confidence": "confirmed",
+  "date_from": "2024",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_speakers_of_the_Parliament_of_Iran",
+      "source_title": "List of speakers of the Parliament of Iran",
+      "source_date": "2024-01-01",
+      "description": "Haji Babaee is First Deputy Speaker under Ghalibaf in the 12th Majlis."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

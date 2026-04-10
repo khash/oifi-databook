@@ -1,0 +1,21 @@
+{
+  "entity_id": "mr-khatami-served-in-majlis-6th",
+  "from_entity": "mohammad-reza-khatami",
+  "to_entity": "islamic-consultative-assembly",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2000",
+  "date_to": "2004",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad-Reza_Khatami",
+      "source_title": "Mohammad-Reza Khatami",
+      "source_date": "2024-01-01",
+      "description": "Khatami served as First Deputy Speaker of the 6th Majlis (2000–2004)."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Alternated as First Deputy Speaker with Behzad Nabavi across the four one-year terms."
+}

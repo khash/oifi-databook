@@ -1,0 +1,21 @@
+{
+  "entity_id": "haddad-adel-aligned-abadgaran",
+  "from_entity": "gholam-ali-haddad-adel",
+  "to_entity": "alliance-of-builders-of-islamic-iran",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "2003",
+  "date_to": "2008",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Gholam-Ali_Haddad-Adel",
+      "source_title": "Gholam-Ali Haddad-Adel",
+      "source_date": "2024-01-01",
+      "description": "Haddad-Adel is described as a senior member of the Alliance of Builders of Islamic Iran."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "karroubi-participated-2000-election",
+  "from_entity": "mehdi-karroubi",
+  "to_entity": "parliamentary-election-iran-2000",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2000-02-18",
+  "date_to": "2000-02-18",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mehdi_Karroubi",
+      "source_title": "Mehdi Karroubi",
+      "source_date": "2024-01-01",
+      "description": "Karroubi was elected to the 6th Majlis in 2000 and subsequently chosen as Speaker."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

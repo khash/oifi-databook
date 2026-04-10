@@ -1,0 +1,24 @@
+{
+  "entity_id": "presidential-election-iran-2009",
+  "slug": "presidential-election-iran-2009",
+  "name": "2009 Iranian Presidential Election",
+  "date": "2009-06-12",
+  "type": "election",
+  "description": "The June 2009 presidential election was one of the most consequential and disputed in the Islamic Republic's history. Incumbent [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad) was declared the winner with 63% of the vote over reformist challenger [Mir-Hossein Mousavi](/people/mir-hossein-mousavi) and [Mehdi Karroubi](/people/mehdi-karroubi). The opposition alleged massive fraud, and the disputed results triggered the [Green Movement](/events/green-movement-protests-2009) — the largest protests Iran had seen since the 1979 revolution. The [Guardian Council](/orgs/guardian-council) certified the results after a partial recount.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/2009_Iranian_presidential_election",
+      "title": "2009 Iranian presidential election",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": [
+    "election",
+    "disputed",
+    "green-movement",
+    "2009"
+  ],
+  "editorial_notes": "Triggered the Green Movement."
+}

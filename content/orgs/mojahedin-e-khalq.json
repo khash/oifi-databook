@@ -1,0 +1,19 @@
+{
+  "entity_id": "mojahedin-e-khalq",
+  "slug": "mojahedin-e-khalq",
+  "name_en": "Mojahedin-e Khalq",
+  "name_fa": "سازمان مجاهدین خلق ایران",
+  "has_native_fa_name": true,
+  "type": "military",
+  "founded": 1965,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Mojahedin-e Khalq (MEK), also known as the People's Mojahedin Organization of Iran (PMOI), is an Iranian opposition group that combines Islamism with Marxist ideology. It participated in the 1979 revolution but was violently suppressed by the new Islamic Republic. It was responsible for the 1981 bombing that killed [President Mohammad-Ali Rajai](/people/mohammad-ali-rajai) and Prime Minister [Mohammad-Javad Bahonar](/people/mohammad-javad-bahonar). It relocated to Iraq under Saddam Hussein's patronage and fought alongside Iraq in the [Iran-Iraq War](/events/iran-iraq-war). It is now based in Albania and advocates regime change.",
+  "faction": null,
+  "tags": [
+    "opposition",
+    "exile",
+    "designated-terrorist-formerly"
+  ],
+  "editorial_notes": "Removed from US terrorist list in 2012. Based in Albania since 2016."
+}

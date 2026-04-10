@@ -1,0 +1,27 @@
+{
+  "entity_id": "mostafa-tajzadeh",
+  "slug": "mostafa-tajzadeh",
+  "name_en": "Mostafa Tajzadeh",
+  "name_fa": "مصطفی تاج‌زاده",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Tajzadeh"
+  ],
+  "born": 1956,
+  "birthplace": "Tehran",
+  "role": "Reformist politician; former Deputy Interior Minister",
+  "faction": "reformist",
+  "bio": "Mostafa Tajzadeh is a prominent reformist politician and member of the [Mojahedin of the Islamic Revolution Organization](/orgs/mojahedin-of-islamic-revolution-organization). He served as deputy interior minister under [President Mohammad Khatami](/people/mohammad-khatami). He was arrested after the 2009 [Green Movement](/events/green-movement-protests-2009) protests and sentenced to six years in prison. He attempted to run for president in 2021 but was disqualified by the [Guardian Council](/orgs/guardian-council). He was re-arrested in 2022 during the Mahsa Amini protests.",
+  "expertise": [
+    "political reform",
+    "electoral politics",
+    "interior affairs"
+  ],
+  "tags": [
+    "reformist",
+    "political-prisoner",
+    "omiir"
+  ],
+  "photo": null,
+  "editorial_notes": "Imprisoned multiple times. Disqualified from 2021 presidential election."
+}

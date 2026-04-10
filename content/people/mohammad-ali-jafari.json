@@ -1,0 +1,26 @@
+{
+  "entity_id": "mohammad-ali-jafari",
+  "slug": "mohammad-ali-jafari",
+  "name_en": "Mohammad Ali Jafari",
+  "name_fa": "محمدعلی جعفری",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Jafari"
+  ],
+  "born": 1957,
+  "birthplace": "Isfahan, Isfahan Province",
+  "role": "Commander-in-Chief of the IRGC (2007–2019)",
+  "faction": "military-irgc",
+  "bio": "Mohammad Ali Jafari served as Commander-in-Chief of the [Islamic Revolutionary Guard Corps](/orgs/islamic-revolutionary-guard-corps) from 2007 to 2019. He reorganised the IRGC's command structure and expanded its internal security role, particularly the [Basij](/orgs/basij) militia. He oversaw IRGC operations during the Syrian civil war and the expansion of Iran's ballistic missile programme. He was replaced by [Hossein Salami](/people/hossein-salami) in April 2019.",
+  "expertise": [
+    "military command",
+    "IRGC operations",
+    "internal security"
+  ],
+  "tags": [
+    "irgc",
+    "commander-in-chief"
+  ],
+  "photo": null,
+  "editorial_notes": "Replaced by Hossein Salami in 2019."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "mr-khatami-founded-iipf",
+  "from_entity": "mohammad-reza-khatami",
+  "to_entity": "islamic-iran-participation-front",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "1998",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad-Reza_Khatami",
+      "source_title": "Mohammad-Reza Khatami",
+      "source_date": "2024-01-01",
+      "description": "Khatami was the founding Secretary-General of the Islamic Iran Participation Front in 1998."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,12 +1,14 @@
-import { useMemo, useCallback } from "react"
+import { useMemo, useCallback, useState } from "react"
 import {
   ReactFlow,
   ReactFlowProvider,
   Background,
   useReactFlow,
+  applyNodeChanges,
   type Node,
   type Edge,
   type NodeMouseHandler,
+  type NodeChange,
   type ReactFlowInstance,
   Position,
   MarkerType,
@@ -102,9 +104,20 @@ interface FlowGraphProps {
 }
 
 function FlowGraphInner({ nodes: graphNodes, edges: graphEdges, selectedId, onNodeClick }: FlowGraphProps) {
-  const { nodes, edges } = useMemo(
+  const layout = useMemo(
     () => layoutGraph(graphNodes, graphEdges, selectedId),
     [graphNodes, graphEdges, selectedId],
+  )
+
+  const [nodes, setNodes] = useState<Node[]>(layout.nodes)
+  const edges = layout.edges
+
+  // Re-sync when layout changes (e.g. new entity selected)
+  useMemo(() => { setNodes(layout.nodes) }, [layout])
+
+  const handleNodesChange = useCallback(
+    (changes: NodeChange[]) => setNodes((nds) => applyNodeChanges(changes, nds)),
+    [],
   )
 
   const handleNodeClick: NodeMouseHandler = useCallback(
@@ -136,14 +149,15 @@ function FlowGraphInner({ nodes: graphNodes, edges: graphEdges, selectedId, onNo
       nodes={nodes}
       edges={edges}
       nodeTypes={nodeTypes}
+      onNodesChange={handleNodesChange}
       onNodeClick={handleNodeClick}
       onInit={handleInit}
       minZoom={0.2}
       maxZoom={1.5}
       proOptions={{ hideAttribution: true }}
-      nodesDraggable={false}
+      nodesDraggable
       nodesConnectable={false}
-      elementsSelectable={false}
+      elementsSelectable
     >
       <Background gap={20} size={1} color="#f1f5f9" />
     </ReactFlow>

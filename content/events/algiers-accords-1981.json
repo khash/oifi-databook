@@ -1,0 +1,24 @@
+{
+  "entity_id": "algiers-accords-1981",
+  "slug": "algiers-accords-1981",
+  "name": "Algiers Accords",
+  "date": "1981-01-19",
+  "type": "policy",
+  "description": "The Algiers Accords were agreements between Iran and the United States, mediated by Algeria, that resolved the Iran hostage crisis and secured the release of 52 American embassy staff held in Tehran for 444 days. [Behzad Nabavi](/people/behzad-nabavi) served as Iran's chief negotiator. The accords were signed on 19 January 1981, and the hostages were released on 20 January, minutes after Ronald Reagan's inauguration as US president.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Algiers_Accords_(1981)",
+      "title": "Algiers Accords (1981)",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": [
+    "diplomacy",
+    "hostage-crisis",
+    "us-iran",
+    "1981"
+  ],
+  "editorial_notes": "Ended the 444-day Iran hostage crisis."
+}

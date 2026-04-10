@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-motahari-family-of-larijani",
+  "from_entity": "ali-motahari",
+  "to_entity": "ali-larijani",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": "1977",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Motahari",
+      "source_title": "Ali Motahari",
+      "source_date": "2024-01-01",
+      "description": "Motahari is Ali Larijani's brother-in-law — Larijani married his sister Farideh."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "in-law",
+  "editorial_notes": "Larijani's wife Farideh is Ali Motahari's sister."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "hamshahri-newspaper-named-in-ettelaat-newspaper",
+  "from_entity": "hamshahri-newspaper",
+  "to_entity": "ettelaat-newspaper",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Hamshahri was founded to rival the dominant Kayhan and Ettelaat dailies"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,17 @@
+{
+  "entity_id": "fath-newspaper",
+  "slug": "fath-newspaper",
+  "name_en": "Fath",
+  "name_fa": "فتح",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 2000,
+  "dissolved": 2000,
+  "parent_org": null,
+  "faction": "reformist",
+  "description": "Fath (فتح, 'Victory') was a short-lived reformist daily on whose editorial board [Akbar Ganji](/people/akbar-ganji) and [Emadeddin Baghi](/people/emadeddin-baghi) served. Closed in the April 2000 crackdown; both Ganji (22 April) and Baghi (29 May) were arrested for their Fath and [Sobh-e Emroz](/orgs/sobh-e-emroz-newspaper) articles.",
+  "tags": [
+    "chain-murders",
+    "defunct"
+  ]
+}

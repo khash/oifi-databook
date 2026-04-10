@@ -1,0 +1,24 @@
+{
+  "entity_id": "akbar-ganji",
+  "slug": "akbar-ganji",
+  "name_en": "Akbar Ganji",
+  "name_fa": "اکبر گنجی",
+  "has_native_fa_name": true,
+  "born": 1960,
+  "birthplace": "Tehran",
+  "role": "Investigative journalist; chain murders exposé author; political dissident",
+  "faction": "reformist",
+  "irgc_member": false,
+  "bio": "Akbar Ganji (born 31 January 1960) is described as 'Iran's preeminent political dissident' — a journalist and writer whose investigative work on the [chain murders of 1998](/events/chain-murders-iran-1998) made him a national figure and whose subsequent imprisonment transformed him into an international human rights symbol. He grew up in a poor, religious family in south Tehran; as a young man he joined the IRGC and the Ministry of Culture during the early Islamic Republic's consolidation. By the mid-1990s he had become disillusioned with what he called 'the rise of Fascism.' He wrote for [Kian](/orgs/kian-magazine), [Sobh-e Emroz](/orgs/sobh-e-emroz-newspaper), [Fath](/orgs/fath-newspaper), and [Asr-e Azadegan](/orgs/asr-e-azadegan-newspaper). His chain murders investigation used code names — 'Excellency Red Garmented' for Rafsanjani, 'Master Key' for [Ali Fallahian](/people/ali-fallahian) — later published in the books *Dungeon of Ghosts* (1999) and *The Red Eminence and the Grey Eminences* (2000), the latter described by the Washington Post as 'the Iranian equivalent of the Gulag Archipelago.' Arrested 22 April 2000 at the Berlin Conference, sentenced to 6 years in Evin Prison. He went on multiple hunger strikes lasting over 80 days, sustaining permanent neurological damage. Released 18 March 2006, he went into exile and continues writing from Europe and North America.",
+  "expertise": [
+    "investigative journalism",
+    "political dissent",
+    "democratic theory",
+    "chain murders"
+  ],
+  "tags": [
+    "chain-murders",
+    "political-prisoner"
+  ],
+  "editorial_notes": "Born 31 January 1960 in south Tehran. IRGC member and Ministry of Culture early 1980s; disillusioned mid-1990s. Berlin Conference April 2000. Arrested 22 April 2000. Sentenced 6 years. Two major hunger strikes 2005. Released 18 March 2006. Went into exile 2006."
+}

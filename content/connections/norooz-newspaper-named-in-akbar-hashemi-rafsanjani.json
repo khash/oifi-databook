@@ -1,0 +1,21 @@
+{
+  "entity_id": "norooz-newspaper-named-in-akbar-hashemi-rafsanjani",
+  "from_entity": "norooz-newspaper",
+  "to_entity": "akbar-hashemi-rafsanjani",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Norooz was associated with Rafsanjani's Executives of Construction party"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

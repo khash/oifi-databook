@@ -1,0 +1,21 @@
+{
+  "entity_id": "shargh-named-mahsa-amini",
+  "from_entity": "shargh-newspaper",
+  "to_entity": "mahsa-amini-protests-2022",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2022-09",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Niloofar_Hamedi",
+      "source_title": "Niloofar Hamedi",
+      "source_date": null,
+      "description": "Shargh journalists Niloofar Hamedi and Elaheh Mohammadi broke the Mahsa Amini story and were imprisoned 17 months."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

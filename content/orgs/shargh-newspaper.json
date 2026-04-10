@@ -1,0 +1,16 @@
+{
+  "entity_id": "shargh-newspaper",
+  "slug": "shargh-newspaper",
+  "name_en": "Shargh",
+  "name_fa": "شرق",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 2003,
+  "dissolved": null,
+  "parent_org": null,
+  "faction": "reformist",
+  "description": "Shargh (شرق, 'East') is the most durable reformist daily of the post-Khatami era, founded in 2003. Suspended multiple times — most notably in September 2006 simultaneously with the lifting of the *Iran* newspaper ban, and after the [2009 Green Movement](/events/green-movement-protests-2009) — yet consistently resumed. Journalists Niloofar Hamedi and Elaheh Mohammadi of Shargh broke the Mahsa Amini story in September 2022 and were imprisoned 17 months for it.",
+  "tags": [
+    "woman-life-freedom"
+  ]
+}

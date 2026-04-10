@@ -1,0 +1,17 @@
+{
+  "entity_id": "sobh-e-emroz-newspaper",
+  "slug": "sobh-e-emroz-newspaper",
+  "name_en": "Sobh-e Emroz",
+  "name_fa": "صبح امروز",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 1997,
+  "dissolved": 2000,
+  "parent_org": null,
+  "faction": "reformist",
+  "description": "Sobh-e Emroz (صبح امروز, 'This Morning') was founded by [Saeed Hajjarian](/people/saeed-hajjarian), Khatami's chief political strategist and a former deputy Minister of Intelligence. It was the investigative flagship of the reformist press, publishing [Akbar Ganji](/people/akbar-ganji) and [Emadeddin Baghi](/people/emadeddin-baghi)'s landmark series on the [chain murders of 1998](/events/chain-murders-iran-1998) using code names ('Excellency Red Garmented' for Rafsanjani, 'Master Key' for [Ali Fallahian](/people/ali-fallahian)). This reporting forced the government to admit Ministry of Intelligence 'rogue elements' were responsible. On 12 March 2000, Hajjarian was shot in the face outside Tehran City Council by a Basij gunman, leaving him permanently disabled. Sobh-e Emroz was among the 16 papers closed in the 24 April 2000 crackdown.",
+  "tags": [
+    "chain-murders",
+    "defunct"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "entity_id": "resalat-newspaper",
+  "slug": "resalat-newspaper",
+  "name_en": "Resalat",
+  "name_fa": "رسالت",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 1985,
+  "dissolved": null,
+  "parent_org": null,
+  "faction": "conservative",
+  "description": "Resalat (رسالت, 'Mission') was founded in 1985 as the organ of traditional conservative Islamic politics, closely tied to the Tehran Bazaar and the Islamic Coalition Party (Hezb-e Mo'talefeh). Alongside [Kayhan](/orgs/kayhan-newspaper), it is one of the two leading hardline-conservative dailies but is editorially independent of direct Supreme Leader control.",
+  "tags": []
+}

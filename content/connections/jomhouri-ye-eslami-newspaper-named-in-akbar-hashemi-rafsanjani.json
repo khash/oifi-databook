@@ -1,0 +1,21 @@
+{
+  "entity_id": "jomhouri-ye-eslami-newspaper-named-in-akbar-hashemi-rafsanjani",
+  "from_entity": "jomhouri-ye-eslami-newspaper",
+  "to_entity": "akbar-hashemi-rafsanjani",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Rafsanjani was associated with the newspaper in its early years"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

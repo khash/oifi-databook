@@ -1,0 +1,21 @@
+{
+  "entity_id": "saeed-mortazavi-named-in-saeed-hajjarian",
+  "from_entity": "saeed-mortazavi",
+  "to_entity": "saeed-hajjarian",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Hajjarian was shot in the same week as Mortazavi's April 2000 press crackdown"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

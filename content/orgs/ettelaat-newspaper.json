@@ -1,0 +1,14 @@
+{
+  "entity_id": "ettelaat-newspaper",
+  "slug": "ettelaat-newspaper",
+  "name_en": "Ettelaat",
+  "name_fa": "اطلاعات",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 1926,
+  "dissolved": null,
+  "parent_org": "office-of-the-supreme-leader",
+  "faction": "conservative",
+  "description": "Ettelaat (اطلاعات, 'Information') is the oldest continuously-published Persian-language daily newspaper in the world, founded in 1926. Under the Shah it was the newspaper of record. On 6 January 1978 it published an article attacking [Ruhollah Khomeini](/people/ruhollah-khomeini) as a British agent — triggering the Qom protests that opened the revolutionary cycle. After the revolution it was seized and placed under the [Office of the Supreme Leader](/orgs/office-of-the-supreme-leader).",
+  "tags": []
+}

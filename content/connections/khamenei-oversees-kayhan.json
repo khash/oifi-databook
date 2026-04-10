@@ -1,0 +1,21 @@
+{
+  "entity_id": "khamenei-oversees-kayhan",
+  "from_entity": "ali-khamenei",
+  "to_entity": "kayhan-newspaper",
+  "type": "oversees",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Kayhan",
+      "source_title": "Kayhan newspaper",
+      "source_date": null,
+      "description": "Kayhan is directly under the Supreme Leader's office, who appoints the managing editor."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

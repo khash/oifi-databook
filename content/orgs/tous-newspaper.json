@@ -1,0 +1,16 @@
+{
+  "entity_id": "tous-newspaper",
+  "slug": "tous-newspaper",
+  "name_en": "Tous",
+  "name_fa": "طوس",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 1998,
+  "dissolved": 1998,
+  "parent_org": null,
+  "faction": "reformist",
+  "description": "Tous (طوس) was the direct successor to [Jame'eh](/orgs/jameeh-newspaper), relaunched by [Mashallah Shamsolvaezin](/people/mashallah-shamsolvaezin) and [Hamid Reza Jalalipour](/people/hamid-reza-jalalipour) with the same staff under a new masthead and dormant license. Tous was also closed within months, and Shamsolvaezin immediately relaunched as [Neshat](/orgs/neshat-newspaper). The pattern — acquire a dormant license and restart with the same team — became the defining structural feature of Khatami-era reformist journalism.",
+  "tags": [
+    "defunct"
+  ]
+}

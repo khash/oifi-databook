@@ -1,0 +1,21 @@
+{
+  "entity_id": "neshat-newspaper-named-in-jameeh-newspaper",
+  "from_entity": "neshat-newspaper",
+  "to_entity": "jameeh-newspaper",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Neshat was a continuation of Jame'eh after its closure (serial newspaper chain)"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

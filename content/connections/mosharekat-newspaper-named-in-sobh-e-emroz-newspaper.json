@@ -1,0 +1,21 @@
+{
+  "entity_id": "mosharekat-newspaper-named-in-sobh-e-emroz-newspaper",
+  "from_entity": "mosharekat-newspaper",
+  "to_entity": "sobh-e-emroz-newspaper",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Both were major reformist papers closed in the April 2000 crackdown"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

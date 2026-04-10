@@ -1,0 +1,21 @@
+{
+  "entity_id": "khoeiniha-named-hostage-crisis",
+  "from_entity": "mohammad-mousavi-khoeiniha",
+  "to_entity": "iran-hostage-crisis-1979",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1979-11-04",
+  "date_to": "1981-01-20",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Mousavi_Khoeiniha",
+      "source_title": "Mohammad Mousavi Khoeiniha",
+      "source_date": null,
+      "description": "Khoeiniha was the spiritual patron of the 1979 US Embassy hostage-takers."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

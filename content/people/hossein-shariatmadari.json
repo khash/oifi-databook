@@ -1,0 +1,22 @@
+{
+  "entity_id": "hossein-shariatmadari",
+  "slug": "hossein-shariatmadari",
+  "name_en": "Hossein Shariatmadari",
+  "name_fa": "حسین شریعتمداری",
+  "has_native_fa_name": true,
+  "born": null,
+  "birthplace": "Iran",
+  "role": "Managing editor of Kayhan since 1993; Khamenei appointee; former MOIS interrogator",
+  "faction": "hardliner",
+  "irgc_member": false,
+  "bio": "Hossein Shariatmadari has been the managing editor of [Kayhan](/orgs/kayhan-newspaper) since 1993, appointed directly by [Ali Khamenei](/people/ali-khamenei), whose views Kayhan consistently reflects. He was a student activist in the 1970s who printed leaflets denouncing the Shah and was arrested by SAVAK, tortured (including having his nails pulled out and receiving electric shocks), and sentenced to life imprisonment — freed when the Shah fell. After the revolution he worked as an interrogator for the Ministry of Intelligence and Security (MOIS), where he is reported to have tortured dissidents to extract false confessions and to have produced state television programmes broadcasting those confessions. Under his editorship Kayhan has called for the prosecution of reformist presidents, denied the Holocaust (he stated in 2020 that the Holocaust 'was falsely claimed by Zionist and Western governments'), called for taking EU nationals hostage, incited violence against Baha'is, and attacked journalists. Shamsolvaezin considers him personally responsible for Neshat's closure.",
+  "expertise": [
+    "journalism",
+    "propaganda",
+    "intelligence"
+  ],
+  "tags": [
+    "intelligence"
+  ],
+  "editorial_notes": "Kayhan editor since 1993. Appointed by Khamenei. Former MOIS interrogator. SAVAK prisoner pre-revolution. Holocaust denial 2020. Called for EU hostages. Sanctioned by several countries."
+}

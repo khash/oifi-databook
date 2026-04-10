@@ -1,0 +1,22 @@
+{
+  "entity_id": "hamid-reza-jalalipour",
+  "slug": "hamid-reza-jalalipour",
+  "name_en": "Hamid Reza Jalalipour",
+  "name_fa": "حمیدرضا جلایی‌پور",
+  "has_native_fa_name": true,
+  "born": null,
+  "birthplace": "Iran",
+  "role": "Co-director, Jame'eh, Tous, Neshat; reformist political analyst",
+  "faction": "reformist",
+  "irgc_member": false,
+  "bio": "Hamid Reza Jalalipour was the co-director and publishing head of the company behind [Jame'eh](/orgs/jameeh-newspaper), [Tous](/orgs/tous-newspaper), and [Neshat](/orgs/neshat-newspaper), working alongside [Mashallah Shamsolvaezin](/people/mashallah-shamsolvaezin). He and Shamsolvaezin were jailed together without charges for 35 days after Jame'eh's closure in 1998. Jalalipour is also a sociologist and political analyst associated with Tehran University, one of the academic-reformist intellectuals who staffed the Khatami-era press.",
+  "expertise": [
+    "journalism",
+    "sociology",
+    "political analysis"
+  ],
+  "tags": [
+    "political-prisoner"
+  ],
+  "editorial_notes": "Jailed with Shamsolvaezin 35 days after Jame'eh closure. Sociologist by training. Also involved with Participation Front."
+}

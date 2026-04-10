@@ -1,0 +1,21 @@
+{
+  "entity_id": "ettelaat-newspaper-named-in-office-of-the-supreme-leader",
+  "from_entity": "ettelaat-newspaper",
+  "to_entity": "office-of-the-supreme-leader",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Ettelaat operates under the supervision of the Supreme Leader's office"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,25 @@
+{
+  "entity_id": "emadeddin-baghi",
+  "slug": "emadeddin-baghi",
+  "name_en": "Emadeddin Baghi",
+  "name_fa": "عمادالدین باقی",
+  "has_native_fa_name": true,
+  "born": null,
+  "birthplace": "Iran",
+  "role": "Investigative journalist; human rights activist; writer for Neshat and Fath on chain murders",
+  "faction": "reformist",
+  "irgc_member": false,
+  "bio": "Emadeddin Baghi is an investigative journalist and human rights defender who co-authored, alongside [Akbar Ganji](/people/akbar-ganji), the landmark chain murders investigations in [Sobh-e Emroz](/orgs/sobh-e-emroz-newspaper), [Neshat](/orgs/neshat-newspaper), and [Fath](/orgs/fath-newspaper). He was a key source alongside [Saeed Hajjarian](/people/saeed-hajjarian). His September 1999 article in Neshat criticising capital punishment was the stated pretext for that paper's closure and for Shamsolvaezin's prosecution. Baghi himself was arrested on 29 May 2000 and sentenced to five and a half years in prison for 'undermining national security,' later reduced on appeal to three years. He went on to found the Society for the Defense of Prisoners' Rights in Iran, becoming a leading human rights NGO figure.",
+  "expertise": [
+    "investigative journalism",
+    "human rights",
+    "prison rights",
+    "chain murders"
+  ],
+  "tags": [
+    "chain-murders",
+    "human-rights",
+    "political-prisoner"
+  ],
+  "editorial_notes": "Article in Neshat on capital punishment triggered Shamsolvaezin's prosecution. Arrested 29 May 2000. 5.5 year sentence, reduced to 3 years. Later founded Society for Defense of Prisoners' Rights."
+}

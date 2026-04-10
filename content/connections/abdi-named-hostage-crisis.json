@@ -1,0 +1,21 @@
+{
+  "entity_id": "abdi-named-hostage-crisis",
+  "from_entity": "abbas-abdi",
+  "to_entity": "iran-hostage-crisis-1979",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1979-11-04",
+  "date_to": "1981-01-20",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abbas_Abdi",
+      "source_title": "Abbas Abdi",
+      "source_date": null,
+      "description": "Abdi was one of the first students to storm the US Embassy in 1979 — later became a reformist journalist."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

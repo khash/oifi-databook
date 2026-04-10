@@ -1,0 +1,21 @@
+{
+  "entity_id": "etemaad-newspaper-named-in-mehdi-karroubi",
+  "from_entity": "etemaad-newspaper",
+  "to_entity": "mehdi-karroubi",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Etemaad is closely associated with Karroubi"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

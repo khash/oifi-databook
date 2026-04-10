@@ -1,0 +1,21 @@
+{
+  "entity_id": "ganji-named-chain-murders",
+  "from_entity": "akbar-ganji",
+  "to_entity": "chain-murders-iran-1998",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1999",
+  "date_to": "2000",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Akbar_Ganji",
+      "source_title": "Akbar Ganji",
+      "source_date": null,
+      "description": "Ganji wrote the landmark chain murders investigative series, for which he was imprisoned 6 years."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,22 @@
+{
+  "entity_id": "abbas-abdi",
+  "slug": "abbas-abdi",
+  "name_en": "Abbas Abdi",
+  "name_fa": "عباس عبدی",
+  "has_native_fa_name": true,
+  "born": null,
+  "birthplace": "Iran",
+  "role": "Editor-in-chief, Salam and Khordad; former US Embassy hostage-taker turned reformist",
+  "faction": "reformist",
+  "irgc_member": false,
+  "bio": "Abbas Abdi's personal trajectory encapsulates the contradictions of Iran's reform generation: he was one of the students who stormed the US Embassy in November 1979, and later became editor-in-chief of the reformist [Salam](/orgs/salam-newspaper) newspaper and [Khordad](/orgs/khordad-newspaper), both eventually closed by the judiciary he had once served. He was arrested in 1993 for his reformist writings at Salam and spent eight months in prison. The July 1999 closure of Salam — triggered by his publication of a leaked MOIS document — directly ignited the student uprising. He was a founder of Khatami's Islamic Iran Participation Party. In 2002 he was arrested again after Salam's successor Ayandeh published a public opinion poll showing majority Iranian support for resuming US-Iran talks; this constituted 'illegal' contact with American pollsters. He was sentenced to multiple years in prison.",
+  "expertise": [
+    "journalism",
+    "political activism",
+    "press freedom"
+  ],
+  "tags": [
+    "political-prisoner"
+  ],
+  "editorial_notes": "One of the leaders of the 1979 US Embassy takeover. Editor Salam and Khordad. Arrested 1993 (8 months), arrested 2002 for US-Iran polling controversy."
+}

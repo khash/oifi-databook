@@ -1,0 +1,16 @@
+{
+  "entity_id": "jameeh-newspaper",
+  "slug": "jameeh-newspaper",
+  "name_en": "Jame'eh",
+  "name_fa": "جامعه",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 1998,
+  "dissolved": 1998,
+  "parent_org": null,
+  "faction": "reformist",
+  "description": "Jame'eh (جامعه, 'Society') was the first of the 'serial newspapers' — the chain of reformist dailies run by [Mashallah Shamsolvaezin](/people/mashallah-shamsolvaezin) and co-directed by [Hamid Reza Jalalipour](/people/hamid-reza-jalalipour) that were successively closed and immediately relaunched under new names. Founded in early 1998, it ran a headline quoting Khatami's challenge to the IRGC: 'Society cannot be moved forward by instilling fear.' After suspension and permanent closure, Shamsolvaezin and Jalalipour were jailed 35 days without charge. Upon release, Shamsolvaezin immediately relaunched as [Tous](/orgs/tous-newspaper).",
+  "tags": [
+    "defunct"
+  ]
+}

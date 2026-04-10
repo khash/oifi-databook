@@ -1,0 +1,21 @@
+{
+  "entity_id": "serial-chain-jameeh-newspape-tous-newspaper",
+  "from_entity": "jameeh-newspaper",
+  "to_entity": "tous-newspaper",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "1998",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mashallah_Shamsolvaezin",
+      "source_title": "Mashallah Shamsolvaezin",
+      "source_date": "2001-01-01",
+      "description": "Tous directly succeeded Jame'eh — same staff, same editors, dormant license acquired immediately after Jame'eh's closure."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Tous directly succeeded Jame'eh — same staff, same editors, dormant license acquired immediately after Jame'eh's closure."
+}

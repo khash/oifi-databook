@@ -1,0 +1,21 @@
+{
+  "entity_id": "karbaschi-founded-hamshahri",
+  "from_entity": "gholamhossein-karbaschi",
+  "to_entity": "hamshahri-newspaper",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "1992",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hamshahri",
+      "source_title": "Hamshahri",
+      "source_date": null,
+      "description": "Karbaschi founded Hamshahri as Mayor of Tehran in 1992."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

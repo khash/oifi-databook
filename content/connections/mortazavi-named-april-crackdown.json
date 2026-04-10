@@ -1,0 +1,21 @@
+{
+  "entity_id": "mortazavi-named-april-crackdown",
+  "from_entity": "saeed-mortazavi",
+  "to_entity": "iran-press-crackdown-april-2000",
+  "type": "organized",
+  "confidence": "confirmed",
+  "date_from": "2000-04-24",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Saeed_Mortazavi",
+      "source_title": "Saeed Mortazavi",
+      "source_date": null,
+      "description": "Mortazavi was the Press Court judge who issued the orders closing 16-21 newspapers in April 2000."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

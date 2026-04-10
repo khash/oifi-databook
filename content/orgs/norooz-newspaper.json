@@ -1,0 +1,16 @@
+{
+  "entity_id": "norooz-newspaper",
+  "slug": "norooz-newspaper",
+  "name_en": "Norooz",
+  "name_fa": "نوروز",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 2001,
+  "dissolved": 2003,
+  "parent_org": null,
+  "faction": "pragmatist",
+  "description": "Norooz (نوروز, 'New Year') was a reformist daily of the Executives of Construction Party (Hezb-e Kargozaran-e Sazandegi), a technocratic reformist party linked to [Rafsanjani](/people/akbar-hashemi-rafsanjani). Closed 2003.",
+  "tags": [
+    "defunct"
+  ]
+}

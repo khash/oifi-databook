@@ -1,0 +1,21 @@
+{
+  "entity_id": "ganji-wrote-asr-azadegan",
+  "from_entity": "akbar-ganji",
+  "to_entity": "asr-e-azadegan-newspaper",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1999",
+  "date_to": "2000",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Akbar_Ganji",
+      "source_title": "Akbar Ganji",
+      "source_date": null,
+      "description": "Ganji wrote investigative columns on chain murders in Asr-e Azadegan."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

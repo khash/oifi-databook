@@ -1,0 +1,21 @@
+{
+  "entity_id": "karbaschi-led-ham-mihan",
+  "from_entity": "gholamhossein-karbaschi",
+  "to_entity": "ham-mihan-newspaper",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "1999",
+  "date_to": "2000",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ham-Mihan",
+      "source_title": "Ham-Mihan newspaper",
+      "source_date": null,
+      "description": "Karbaschi ran Ham-Mihan after his jailing."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

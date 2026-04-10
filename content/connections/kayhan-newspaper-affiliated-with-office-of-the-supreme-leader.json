@@ -1,0 +1,21 @@
+{
+  "entity_id": "kayhan-newspaper-affiliated-with-office-of-the-supreme-leader",
+  "from_entity": "kayhan-newspaper",
+  "to_entity": "office-of-the-supreme-leader",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Kayhan's managing editor is directly appointed by the Supreme Leader"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

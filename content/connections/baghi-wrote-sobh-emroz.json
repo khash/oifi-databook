@@ -1,0 +1,21 @@
+{
+  "entity_id": "baghi-wrote-sobh-emroz",
+  "from_entity": "emadeddin-baghi",
+  "to_entity": "sobh-e-emroz-newspaper",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1998",
+  "date_to": "2000",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Emadeddin_Baghi",
+      "source_title": "Emadeddin Baghi",
+      "source_date": null,
+      "description": "Baghi co-wrote chain murders investigations with Ganji in Sobh-e Emroz."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,19 @@
+{
+  "entity_id": "iran-hostage-crisis-1979",
+  "slug": "iran-hostage-crisis-1979",
+  "name": "Iran Hostage Crisis",
+  "date": "1979-11-04",
+  "type": "protest",
+  "description": "On 4 November 1979, a group of Islamist students calling themselves 'Muslim Student Followers of the Imam's Line,' led by [Mohammad Mousavi Khoeiniha](/people/mohammad-mousavi-khoeiniha), stormed the US Embassy in Tehran and took 52 American diplomats and citizens hostage. The crisis lasted 444 days, ending with the release of the hostages on 20 January 1981 under the [Algiers Accords](/events/algiers-accords-1981). [Abbas Abdi](/people/abbas-abdi) was among the prominent student participants. The crisis cemented the revolutionary regime's anti-American identity and led to the severing of US-Iran diplomatic relations.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Iran_hostage_crisis",
+      "title": "Iran hostage crisis",
+      "date": null,
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": [],
+  "editorial_notes": "444 days. Led by Khoeiniha. Abdi was a key participant. Ended with Algiers Accords 1981."
+}

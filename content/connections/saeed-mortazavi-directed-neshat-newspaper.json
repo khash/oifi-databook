@@ -1,0 +1,21 @@
+{
+  "entity_id": "saeed-mortazavi-directed-neshat-newspaper",
+  "from_entity": "saeed-mortazavi",
+  "to_entity": "neshat-newspaper",
+  "type": "directed",
+  "confidence": "confirmed",
+  "date_from": "1999-09",
+  "date_to": "1999-09",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Saeed_Mortazavi",
+      "source_title": "Saeed Mortazavi",
+      "source_date": null,
+      "description": "Mortazavi signed the closure order for Neshat in September 1999."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,16 @@
+{
+  "entity_id": "ham-mihan-newspaper",
+  "slug": "ham-mihan-newspaper",
+  "name_en": "Ham-Mihan",
+  "name_fa": "همیهن",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 1999,
+  "dissolved": 2000,
+  "parent_org": null,
+  "faction": "reformist",
+  "description": "Ham-Mihan (همیهن, 'Compatriots') was a reformist daily operated by [Gholamhossein Karbaschi](/people/gholamhossein-karbaschi) after he was jailed in 1999 on politically-motivated corruption charges. Closed by Tehran's Press Court on 16 May 2000. Briefly relaunched in 2007.",
+  "tags": [
+    "defunct"
+  ]
+}

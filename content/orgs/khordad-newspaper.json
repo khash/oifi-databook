@@ -1,0 +1,16 @@
+{
+  "entity_id": "khordad-newspaper",
+  "slug": "khordad-newspaper",
+  "name_en": "Khordad",
+  "name_fa": "خرداد",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 1997,
+  "dissolved": 1999,
+  "parent_org": null,
+  "faction": "reformist",
+  "description": "Khordad (خرداد) was the flagship newspaper of the '2nd of Khordad' reformist movement, named for the date of Khatami's election. Published by the Islamic Iran Participation Front, editor-in-chief [Abbas Abdi](/people/abbas-abdi). Closed in 1999 as one of the most politically explicit press suppressions of the era.",
+  "tags": [
+    "defunct"
+  ]
+}

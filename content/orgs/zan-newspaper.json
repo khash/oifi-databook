@@ -1,0 +1,16 @@
+{
+  "entity_id": "zan-newspaper",
+  "slug": "zan-newspaper",
+  "name_en": "Zan",
+  "name_fa": "زن",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 1998,
+  "dissolved": 1999,
+  "parent_org": null,
+  "faction": "reformist",
+  "description": "Zan (زن, 'Woman') was a reformist daily founded by Faezeh Hashemi Rafsanjani, daughter of [Akbar Hashemi Rafsanjani](/people/akbar-hashemi-rafsanjani) and a reformist MP. Closed by Islamic Revolutionary Court in April 1999 for publishing a cartoon satirising blood money laws (which valued a woman's life at half a man's), and for reprinting a New Year's greeting from Empress Farah Pahlavi. Demonstrated that even publications with powerful family connections were not immune.",
+  "tags": [
+    "defunct"
+  ]
+}

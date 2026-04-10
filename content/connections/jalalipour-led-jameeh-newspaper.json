@@ -1,0 +1,21 @@
+{
+  "entity_id": "jalalipour-led-jameeh-newspaper",
+  "from_entity": "hamid-reza-jalalipour",
+  "to_entity": "jameeh-newspaper",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mashallah_Shamsolvaezin",
+      "source_title": "Mashallah Shamsolvaezin",
+      "source_date": null,
+      "description": "Jalalipour was co-director of jameeh-newspaper with Shamsolvaezin."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,22 @@
+{
+  "entity_id": "mashallah-shamsolvaezin",
+  "slug": "mashallah-shamsolvaezin",
+  "name_en": "Mashallah Shamsolvaezin",
+  "name_fa": "مشاالله شمس‌الواعظین",
+  "has_native_fa_name": true,
+  "born": null,
+  "birthplace": "Iran",
+  "role": "Journalist and serial newspaper editor; editor of Kiyan, Jame'eh, Tous, Neshat, Asr-e Azadegan",
+  "faction": "reformist",
+  "irgc_member": false,
+  "bio": "Mashallah Shamsolvaezin (also known by the pen name Mahmoud Shams) is the defining figure of the Khatami-era reformist press — a journalist who pioneered and perfected the 'serial newspaper' technique of keeping reformist journalism alive by immediately relaunching closed papers under new names. He began editing [Kian](/orgs/kian-magazine) in 1991, the intellectual magazine whose circle formed the intellectual core of the reform movement. After Kian was closed in 1998 he founded and edited [Jame'eh](/orgs/jameeh-newspaper), then [Tous](/orgs/tous-newspaper) after Jame'eh was closed, then [Neshat](/orgs/neshat-newspaper), then [Asr-e Azadegan](/orgs/asr-e-azadegan-newspaper) — four successive newspapers, each closed by the judiciary, each relaunched under a dormant license with the same editorial team. In November 2000 CPJ awarded him its International Press Freedom Award, calling him the 'dean of Iran's reformist press.' He was sentenced to 30 months in prison for [Neshat](/orgs/neshat-newspaper)'s capital-punishment article and spent time in Evin in solitary confinement. He serves as spokesman for the Iranian Committee for the Defense of Freedom of the Press and vice president of the Association of Iranian Journalists.",
+  "expertise": [
+    "journalism",
+    "newspaper editing",
+    "press freedom"
+  ],
+  "tags": [
+    "political-prisoner"
+  ],
+  "editorial_notes": "Also known as Mahmoud Shams. CPJ International Press Freedom Award 2000. Jailed multiple times. Co-director of Jame'eh/Tous/Neshat with Hamid Reza Jalalipour."
+}

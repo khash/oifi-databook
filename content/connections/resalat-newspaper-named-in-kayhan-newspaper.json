@@ -1,0 +1,21 @@
+{
+  "entity_id": "resalat-newspaper-named-in-kayhan-newspaper",
+  "from_entity": "resalat-newspaper",
+  "to_entity": "kayhan-newspaper",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Resalat and Kayhan are both major conservative publications"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

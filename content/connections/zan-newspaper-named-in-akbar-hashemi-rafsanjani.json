@@ -1,0 +1,21 @@
+{
+  "entity_id": "zan-newspaper-named-in-akbar-hashemi-rafsanjani",
+  "from_entity": "zan-newspaper",
+  "to_entity": "akbar-hashemi-rafsanjani",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Zan was published by Faezeh Hashemi, Rafsanjani's daughter"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

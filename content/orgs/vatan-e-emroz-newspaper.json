@@ -1,0 +1,14 @@
+{
+  "entity_id": "vatan-e-emroz-newspaper",
+  "slug": "vatan-e-emroz-newspaper",
+  "name_en": "Vatan-e Emroz",
+  "name_fa": "وطن امروز",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 2008,
+  "dissolved": null,
+  "parent_org": null,
+  "faction": "hardliner",
+  "description": "Vatan-e Emroz (وطن امروز, 'Today's Homeland') is a hardline daily in the IRGC-linked neo-radical media ecosystem, alongside the Fars and Tasnim news agencies and the Mashregh and Raja news websites. It was a strong Ahmadinejad supporter.",
+  "tags": []
+}

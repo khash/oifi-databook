@@ -1,0 +1,16 @@
+{
+  "entity_id": "neshat-newspaper",
+  "slug": "neshat-newspaper",
+  "name_en": "Neshat",
+  "name_fa": "نشاط",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 1999,
+  "dissolved": 1999,
+  "parent_org": null,
+  "faction": "reformist",
+  "description": "Neshat (نشاط, 'Joy/Happiness') was the third iteration of [Mashallah Shamsolvaezin](/people/mashallah-shamsolvaezin)'s serial chain, built on the dormant *Akhbar* license. Staff from [Tous](/orgs/tous-newspaper) and [Jame'eh](/orgs/jameeh-newspaper) formed the core. In September 1999 Press Court Judge [Saeed Mortazavi](/people/saeed-mortazavi) closed it after it published an open letter urging Khamenei to distance himself from hardliners, and [Emadeddin Baghi](/people/emadeddin-baghi)'s article criticising capital punishment. Shamsolvaezin was sentenced to 30 months — but founded [Asr-e Azadegan](/orgs/asr-e-azadegan-newspaper) before he could be imprisoned.",
+  "tags": [
+    "defunct"
+  ]
+}

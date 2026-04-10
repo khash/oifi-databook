@@ -1,0 +1,21 @@
+{
+  "entity_id": "mousavi-led-jomhouri",
+  "from_entity": "mir-hossein-mousavi",
+  "to_entity": "jomhouri-ye-eslami-newspaper",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1981",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Islamic_Republican_(newspaper)",
+      "source_title": "Jomhouri-ye Eslami",
+      "source_date": null,
+      "description": "Mir-Hossein Mousavi was the first editor-in-chief of Jomhouri-ye Eslami."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

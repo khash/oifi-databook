@@ -1,0 +1,14 @@
+{
+  "entity_id": "kayhan-newspaper",
+  "slug": "kayhan-newspaper",
+  "name_en": "Kayhan",
+  "name_fa": "کیهان",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 1941,
+  "dissolved": null,
+  "parent_org": "office-of-the-supreme-leader",
+  "faction": "hardliner",
+  "description": "Kayhan (کیهان, 'Universe') is Iran's most prominent hardline daily newspaper, founded in 1941 as a private paper. After the revolution its owner Mostafa Mesbahzadeh fled abroad and the paper was seized and placed directly under the [Office of the Supreme Leader](/orgs/office-of-the-supreme-leader). Since 1993 the managing editor has been [Hossein Shariatmadari](/people/hossein-shariatmadari), a Khamenei appointee and former MOIS interrogator who is regarded as the Supreme Leader's direct mouthpiece in the press. Kayhan regularly calls for the prosecution of reformist politicians and journalists, denies the Holocaust, and attacks critical media. In the early 1990s it published *Kayhan-e Farhangi*, an intellectual magazine hosting Abdolkarim Soroush's circle, until Khatami's 1992 resignation from the Culture Ministry forced that group out to found [Kian](/orgs/kian-magazine).",
+  "tags": []
+}

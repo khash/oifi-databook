@@ -1,0 +1,21 @@
+{
+  "entity_id": "shamsolvaezin-named-april-crackdown",
+  "from_entity": "mashallah-shamsolvaezin",
+  "to_entity": "iran-press-crackdown-april-2000",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2000-04-10",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mashallah_Shamsolvaezin",
+      "source_title": "Mashallah Shamsolvaezin",
+      "source_date": null,
+      "description": "Shamsolvaezin was sentenced to 30 months and imprisoned as part of the crackdown."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

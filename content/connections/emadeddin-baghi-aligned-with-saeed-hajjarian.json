@@ -1,0 +1,21 @@
+{
+  "entity_id": "emadeddin-baghi-aligned-with-saeed-hajjarian",
+  "from_entity": "emadeddin-baghi",
+  "to_entity": "saeed-hajjarian",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Both reformist press figures targeted in the April 2000 crackdown"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

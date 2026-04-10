@@ -1,0 +1,21 @@
+{
+  "entity_id": "iran-hostage-crisis-1979-named-in-algiers-accords-1981",
+  "from_entity": "iran-hostage-crisis-1979",
+  "to_entity": "algiers-accords-1981",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "The hostage crisis ended with the Algiers Accords"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

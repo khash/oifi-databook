@@ -1,0 +1,19 @@
+{
+  "entity_id": "iran-student-uprising-july-1999",
+  "slug": "iran-student-uprising-july-1999",
+  "name": "Iran Student Uprising — July 1999",
+  "date": "1999-07-07",
+  "type": "protest",
+  "description": "The July 1999 student uprising was the largest protests in Iran since the 1979 revolution, directly triggered by the closure of the reformist newspaper [Salam](/orgs/salam-newspaper). On 7 July 1999, the Special Court for the Clergy closed Salam after it published a leaked MOIS document suggesting the Ministry of Intelligence had recommended restricting the press and may have been involved in the [chain murders of 1998](/events/chain-murders-iran-1998). That night, riot police and Basij attacked the dormitories at Tehran University where students were protesting the closure, forcing entry at 1am and beating students in their beds. At least four students were killed and hundreds injured over six days of protests that spread to multiple cities. Among those who played central roles in the dormitory attacks were three IRGC commanders: Brigadier General Mohammad Bagher Zolghadr, Brigadier General Mohammad Reza Naghdi (later commander of the Basij), and Brigadier General Hossein Nejat. The protests were suppressed within six days. None of the commanders responsible for the dormitory attacks were prosecuted during the Khatami era, a failure that became a defining symbol of reformist political impotence.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/1999_Iranian_student_protests",
+      "title": "1999 Iranian student protests",
+      "date": "1999-07-07",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": [],
+  "editorial_notes": "7–12 July 1999. Triggered by Salam closure on 7 July. Dormitory attack 7–8 July 1am. At least 4 dead. IRGC commanders Zolghadr, Naghdi, Nejat played key roles. No prosecutions under Khatami. Annual commemorations since became sites of further protest."
+}

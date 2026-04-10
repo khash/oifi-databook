@@ -1,0 +1,21 @@
+{
+  "entity_id": "serial-chain-tous-newspaper-neshat-newspape",
+  "from_entity": "tous-newspaper",
+  "to_entity": "neshat-newspaper",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "1998",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mashallah_Shamsolvaezin",
+      "source_title": "Mashallah Shamsolvaezin",
+      "source_date": "2001-01-01",
+      "description": "Neshat directly succeeded Tous — same staff, acquired dormant Akhbar license."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Neshat directly succeeded Tous — same staff, acquired dormant Akhbar license."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "ettelaat-newspaper-named-in-ruhollah-khomeini",
+  "from_entity": "ettelaat-newspaper",
+  "to_entity": "ruhollah-khomeini",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Ettelaat published anti-Khomeini article in 1978 that triggered revolutionary protests"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

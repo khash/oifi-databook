@@ -1,0 +1,16 @@
+{
+  "entity_id": "asr-e-azadegan-newspaper",
+  "slug": "asr-e-azadegan-newspaper",
+  "name_en": "Asr-e Azadegan",
+  "name_fa": "عصر آزادگان",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 1999,
+  "dissolved": 2000,
+  "parent_org": null,
+  "faction": "reformist",
+  "description": "Asr-e Azadegan (عصر آزادگان, 'Age of the Free People') was the fourth and final iteration of [Mashallah Shamsolvaezin](/people/mashallah-shamsolvaezin)'s serial newspaper chain, assembling staff from all three predecessors. [Akbar Ganji](/people/akbar-ganji) wrote landmark investigative columns on the chain murders of 1998 in its pages. Closed in the April 2000 crackdown. It was succeeded by the weekly *Gunagoun* under editor Fatemeh Farahmandpour — which the Press Court explicitly closed for 'closely resembling Jame'eh, Tous, Neshat, and Asr-e Azadegan.'",
+  "tags": [
+    "defunct"
+  ]
+}

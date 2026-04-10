@@ -1,0 +1,21 @@
+{
+  "entity_id": "april2000-closed-asr-e-azadegan-newspaper",
+  "from_entity": "asr-e-azadegan-newspaper",
+  "to_entity": "iran-press-crackdown-april-2000",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2000-04-24",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://cpj.org/2001/03/attacks-on-the-press-2000-iran/",
+      "source_title": "CPJ Attacks on the Press 2000",
+      "source_date": "2001-03-01",
+      "description": "asr-e-azadegan-newspaper was closed in the April 2000 press crackdown."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

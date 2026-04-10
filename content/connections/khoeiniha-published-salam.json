@@ -1,0 +1,21 @@
+{
+  "entity_id": "khoeiniha-published-salam",
+  "from_entity": "mohammad-mousavi-khoeiniha",
+  "to_entity": "salam-newspaper",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "1991",
+  "date_to": "1999",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Salam_(newspaper)",
+      "source_title": "Salam newspaper",
+      "source_date": null,
+      "description": "Khoeiniha was the publisher of Salam throughout its existence."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,14 @@
+{
+  "entity_id": "iran-newspaper",
+  "slug": "iran-newspaper",
+  "name_en": "Iran",
+  "name_fa": "ایران",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 1995,
+  "dissolved": null,
+  "parent_org": null,
+  "faction": "pragmatist",
+  "description": "Iran (ایران) is the primary government-owned daily, published since 1995 by the state news agency IRNA. It supports the presidency. English-language edition: *Iran Daily*. In September 2006 it was banned on the same day [Shargh](/orgs/shargh-newspaper) was closed; the Iran ban was quickly lifted while Shargh remained suspended.",
+  "tags": []
+}

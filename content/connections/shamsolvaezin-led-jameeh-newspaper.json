@@ -1,0 +1,21 @@
+{
+  "entity_id": "shamsolvaezin-led-jameeh-newspaper",
+  "from_entity": "mashallah-shamsolvaezin",
+  "to_entity": "jameeh-newspaper",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mashallah_Shamsolvaezin",
+      "source_title": "Mashallah Shamsolvaezin",
+      "source_date": null,
+      "description": "Shamsolvaezin edited/led jameeh-newspaper."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "kian-magazine-named-in-saeed-hajjarian",
+  "from_entity": "kian-magazine",
+  "to_entity": "saeed-hajjarian",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Kian was part of the same reformist intellectual circle as Hajjarian"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

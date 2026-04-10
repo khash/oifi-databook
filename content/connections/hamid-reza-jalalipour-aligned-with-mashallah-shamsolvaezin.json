@@ -1,0 +1,21 @@
+{
+  "entity_id": "hamid-reza-jalalipour-aligned-with-mashallah-shamsolvaezin",
+  "from_entity": "hamid-reza-jalalipour",
+  "to_entity": "mashallah-shamsolvaezin",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Co-directed serial newspapers Jame'eh, Tous, Neshat together"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

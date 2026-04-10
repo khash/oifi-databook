@@ -1,0 +1,21 @@
+{
+  "entity_id": "baghi-named-chain-murders",
+  "from_entity": "emadeddin-baghi",
+  "to_entity": "chain-murders-iran-1998",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1999",
+  "date_to": "2000",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Emadeddin_Baghi",
+      "source_title": "Emadeddin Baghi",
+      "source_date": null,
+      "description": "Baghi co-wrote the chain murders investigative series."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

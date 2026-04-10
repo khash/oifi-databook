@@ -1,0 +1,21 @@
+{
+  "entity_id": "fath-newspaper-named-in-sobh-e-emroz-newspaper",
+  "from_entity": "fath-newspaper",
+  "to_entity": "sobh-e-emroz-newspaper",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Fath was a sister publication emerging from the same reformist press circle"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "ganji-wrote-fath",
+  "from_entity": "akbar-ganji",
+  "to_entity": "fath-newspaper",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2000",
+  "date_to": "2000",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Akbar_Ganji",
+      "source_title": "Akbar Ganji",
+      "source_date": null,
+      "description": "Ganji was on the editorial board of Fath."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "ganji-wrote-sobh-emroz",
+  "from_entity": "akbar-ganji",
+  "to_entity": "sobh-e-emroz-newspaper",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1998",
+  "date_to": "2000",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Akbar_Ganji",
+      "source_title": "Akbar Ganji",
+      "source_date": null,
+      "description": "Ganji was the leading investigative journalist at Sobh-e Emroz, publishing the chain murders series."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "shargh-newspaper-named-in-green-movement-protests-2009",
+  "from_entity": "shargh-newspaper",
+  "to_entity": "green-movement-protests-2009",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Shargh covered the Green Movement and faced suspension"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

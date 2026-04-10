@@ -1,0 +1,21 @@
+{
+  "entity_id": "ganji-wrote-kian",
+  "from_entity": "akbar-ganji",
+  "to_entity": "kian-magazine",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1991",
+  "date_to": "1998",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Akbar_Ganji",
+      "source_title": "Akbar Ganji",
+      "source_date": null,
+      "description": "Ganji was part of the Kian circle and wrote for the magazine."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

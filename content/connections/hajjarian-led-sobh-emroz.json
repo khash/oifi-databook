@@ -1,0 +1,21 @@
+{
+  "entity_id": "hajjarian-led-sobh-emroz",
+  "from_entity": "saeed-hajjarian",
+  "to_entity": "sobh-e-emroz-newspaper",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "1997",
+  "date_to": "2000",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Saeed_Hajjarian",
+      "source_title": "Saeed Hajjarian",
+      "source_date": null,
+      "description": "Hajjarian founded and was the publisher/editor of Sobh-e Emroz."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

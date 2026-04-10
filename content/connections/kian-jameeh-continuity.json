@@ -1,0 +1,21 @@
+{
+  "entity_id": "kian-jameeh-continuity",
+  "from_entity": "kian-magazine",
+  "to_entity": "jameeh-newspaper",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "1997",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mashallah_Shamsolvaezin",
+      "source_title": "Mashallah Shamsolvaezin",
+      "source_date": null,
+      "description": "The Kian circle's journalists and intellectual framework fed directly into Jame'eh and the Khatami-era serial newspapers."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Shamsolvaezin edited both; Ganji wrote for both; the Kian circle was the intellectual predecessor to the Khatami-era reformist press."
+}

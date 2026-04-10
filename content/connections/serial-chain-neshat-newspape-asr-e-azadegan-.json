@@ -1,0 +1,21 @@
+{
+  "entity_id": "serial-chain-neshat-newspape-asr-e-azadegan-",
+  "from_entity": "neshat-newspaper",
+  "to_entity": "asr-e-azadegan-newspaper",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "1999",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mashallah_Shamsolvaezin",
+      "source_title": "Mashallah Shamsolvaezin",
+      "source_date": "2001-01-01",
+      "description": "Asr-e Azadegan directly succeeded Neshat — same staff from all three predecessors assembled."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Asr-e Azadegan directly succeeded Neshat — same staff from all three predecessors assembled."
+}

@@ -1,0 +1,16 @@
+{
+  "entity_id": "salam-newspaper",
+  "slug": "salam-newspaper",
+  "name_en": "Salam",
+  "name_fa": "سلام",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 1991,
+  "dissolved": 1999,
+  "parent_org": null,
+  "faction": "reformist",
+  "description": "Salam (سلام, 'Hello/Peace') was a highly influential reformist daily published from 9 February 1991 to 7 July 1999. Its name was given by Ahmad Khomeini, son of the Supreme Leader. Publisher was reformist cleric Mohammad Mousavi Khoeiniha; editor-in-chief was [Abbas Abdi](/people/abbas-abdi). Salam built reformist momentum ahead of Khatami's 1997 election. Its closure on 7 July 1999 — after publishing a leaked MOIS document about plans to restrict the press — directly ignited the [July 1999 student uprising](/events/iran-student-uprising-july-1999), the largest protests in Iran since 1979. At least four students were killed when security forces attacked Tehran University dormitories.",
+  "tags": [
+    "defunct"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "entity_id": "bonyan-newspaper",
+  "slug": "bonyan-newspaper",
+  "name_en": "Bonyan",
+  "name_fa": "بنیان",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 2000,
+  "dissolved": 2002,
+  "parent_org": null,
+  "faction": "reformist",
+  "description": "Bonyan (بنیان, 'Foundation') absorbed journalists displaced by the April 2000 closures. Journalist Ahmad Zeidabadi received a 23-month sentence for an interview in Bonyan — charged as 'insulting the Supreme Leader' for condemning Palestinian suicide bombings. Closed 2002.",
+  "tags": [
+    "defunct"
+  ]
+}

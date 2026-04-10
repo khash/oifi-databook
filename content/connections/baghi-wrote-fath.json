@@ -1,0 +1,21 @@
+{
+  "entity_id": "baghi-wrote-fath",
+  "from_entity": "emadeddin-baghi",
+  "to_entity": "fath-newspaper",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2000",
+  "date_to": "2000",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Emadeddin_Baghi",
+      "source_title": "Emadeddin Baghi",
+      "source_date": null,
+      "description": "Baghi was on the editorial board of Fath; arrested May 2000 for Fath articles."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

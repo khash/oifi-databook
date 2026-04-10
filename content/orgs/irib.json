@@ -1,0 +1,16 @@
+{
+  "entity_id": "irib",
+  "slug": "irib",
+  "name_en": "Islamic Republic of Iran Broadcasting (IRIB)",
+  "name_fa": "صدا و سیما",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 1979,
+  "dissolved": null,
+  "parent_org": "office-of-the-supreme-leader",
+  "faction": "hardliner",
+  "description": "IRIB (Seda va Sima) holds a constitutional monopoly on all radio and television broadcasting in Iran, directly controlled by the [Office of the Supreme Leader](/orgs/office-of-the-supreme-leader). Its director is appointed by the Supreme Leader. During the Khatami era it was controlled by [Ali Larijani](/people/ali-larijani) (1994–2004) as an explicit hardline counterweight to the reformist press. IRIB has conducted systematic 'Confession TV' programmes broadcasting forced confessions by political prisoners and journalists. IRIB also publishes the daily newspaper *Jam-e Jam*.",
+  "tags": [
+    "human-rights"
+  ]
+}

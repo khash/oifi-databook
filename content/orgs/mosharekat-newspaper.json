@@ -1,0 +1,16 @@
+{
+  "entity_id": "mosharekat-newspaper",
+  "slug": "mosharekat-newspaper",
+  "name_en": "Mosharekat",
+  "name_fa": "مشارکت",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 1999,
+  "dissolved": 2000,
+  "parent_org": null,
+  "faction": "reformist",
+  "description": "Mosharekat (مشارکت, 'Participation') was the newspaper of the Islamic Iran Participation Front — the party of Mohammad Reza Khatami, brother of President Khatami. Closed without stated justification on 27 April 2000, simultaneously with [Sobh-e Emroz](/orgs/sobh-e-emroz-newspaper), as part of the mass April 2000 crackdown following the reformists' parliamentary election landslide.",
+  "tags": [
+    "defunct"
+  ]
+}

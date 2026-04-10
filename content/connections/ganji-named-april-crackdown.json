@@ -1,0 +1,21 @@
+{
+  "entity_id": "ganji-named-april-crackdown",
+  "from_entity": "akbar-ganji",
+  "to_entity": "iran-press-crackdown-april-2000",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2000-04-22",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Akbar_Ganji",
+      "source_title": "Akbar Ganji",
+      "source_date": null,
+      "description": "Ganji was arrested on 22 April 2000, part of the crackdown on the reformist press."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

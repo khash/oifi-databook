@@ -1,0 +1,21 @@
+{
+  "entity_id": "iran-newspaper-named-in-shargh-newspaper",
+  "from_entity": "iran-newspaper",
+  "to_entity": "shargh-newspaper",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Iran and Shargh are both significant reformist-leaning publications"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

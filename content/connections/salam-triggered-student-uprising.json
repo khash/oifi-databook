@@ -1,0 +1,21 @@
+{
+  "entity_id": "salam-triggered-student-uprising",
+  "from_entity": "salam-newspaper",
+  "to_entity": "iran-student-uprising-july-1999",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1999-07-07",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/1999_Iranian_student_protests",
+      "source_title": "1999 Iranian student protests",
+      "source_date": "1999-07-07",
+      "description": "The closure of Salam on 7 July 1999 directly triggered the student uprising."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

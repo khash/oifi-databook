@@ -1,0 +1,21 @@
+{
+  "entity_id": "irib-affiliated-with-office-of-the-supreme-leader",
+  "from_entity": "irib",
+  "to_entity": "office-of-the-supreme-leader",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "IRIB is directly controlled by the Supreme Leader's office"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

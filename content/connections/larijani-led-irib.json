@@ -1,0 +1,21 @@
+{
+  "entity_id": "larijani-led-irib",
+  "from_entity": "ali-larijani",
+  "to_entity": "irib",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "1994",
+  "date_to": "2004",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Larijani",
+      "source_title": "Ali Larijani",
+      "source_date": null,
+      "description": "Ali Larijani directed IRIB from 1994 to 2004, using it as a hardline counterweight to the reformist press."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "shariatmadari-led-kayhan",
+  "from_entity": "hossein-shariatmadari",
+  "to_entity": "kayhan-newspaper",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "1993",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hossein_Shariatmadari",
+      "source_title": "Hossein Shariatmadari",
+      "source_date": null,
+      "description": "Shariatmadari has been managing editor of Kayhan since 1993, appointed by Khamenei."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

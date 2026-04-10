@@ -1,0 +1,21 @@
+{
+  "entity_id": "saeed-hajjarian-aligned-with-akbar-ganji",
+  "from_entity": "saeed-hajjarian",
+  "to_entity": "akbar-ganji",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Both reformist press figures, Ganji wrote for Hajjarian's Sobh-e Emroz"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

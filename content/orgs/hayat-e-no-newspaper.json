@@ -1,0 +1,14 @@
+{
+  "entity_id": "hayat-e-no-newspaper",
+  "slug": "hayat-e-no-newspaper",
+  "name_en": "Hayat-e No",
+  "name_fa": "حیات نو",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 2000,
+  "dissolved": 2004,
+  "parent_org": null,
+  "faction": "reformist",
+  "description": "Hayat-e No (حیات نو, 'New Life') emerged from the wreckage of the April 2000 closures and continued through Khatami's second term under repeated suspensions.",
+  "tags": []
+}

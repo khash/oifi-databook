@@ -1,0 +1,21 @@
+{
+  "entity_id": "jalalipour-led-neshat-newspaper",
+  "from_entity": "hamid-reza-jalalipour",
+  "to_entity": "neshat-newspaper",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mashallah_Shamsolvaezin",
+      "source_title": "Mashallah Shamsolvaezin",
+      "source_date": null,
+      "description": "Jalalipour was co-director of neshat-newspaper with Shamsolvaezin."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

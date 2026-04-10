@@ -1,0 +1,21 @@
+{
+  "entity_id": "iran-student-uprising-july-1999-named-in-chain-murders-iran-1998",
+  "from_entity": "iran-student-uprising-july-1999",
+  "to_entity": "chain-murders-iran-1998",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Salam's publication of leaked MOIS document about chain murders triggered the uprising"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

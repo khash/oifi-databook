@@ -1,0 +1,16 @@
+{
+  "entity_id": "kian-magazine",
+  "slug": "kian-magazine",
+  "name_en": "Kian",
+  "name_fa": "کیان",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 1991,
+  "dissolved": 1998,
+  "parent_org": null,
+  "faction": "reformist",
+  "description": "Kian (کیان) was the most influential intellectual magazine of the pre-Khatami reform era, founded in November 1991 by publisher Mostafa Rokh-Sefat with [Mashallah Shamsolvaezin](/people/mashallah-shamsolvaezin) as editor. Its circle (*halgheh-ye Kian*) included Abdolkarim Soroush, [Saeed Hajjarian](/people/saeed-hajjarian), [Akbar Ganji](/people/akbar-ganji), and others who became the intellectual architects of the reform movement. Kian emerged when Khatami's 1992 resignation from the Culture Ministry forced Soroush's circle out of *Kayhan-e Farhangi*. Closed by judicial order in 1998.",
+  "tags": [
+    "defunct"
+  ]
+}

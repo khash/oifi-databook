@@ -1,0 +1,21 @@
+{
+  "entity_id": "hajjarian-named-april-crackdown",
+  "from_entity": "saeed-hajjarian",
+  "to_entity": "iran-press-crackdown-april-2000",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2000-03-12",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Saeed_Hajjarian",
+      "source_title": "Saeed Hajjarian",
+      "source_date": null,
+      "description": "Hajjarian was shot on 12 March 2000 — part of the same wave of hardline violence against the reformist press."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

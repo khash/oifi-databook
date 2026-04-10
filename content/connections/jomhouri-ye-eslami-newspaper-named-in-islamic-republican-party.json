@@ -1,0 +1,21 @@
+{
+  "entity_id": "jomhouri-ye-eslami-newspaper-named-in-islamic-republican-party",
+  "from_entity": "jomhouri-ye-eslami-newspaper",
+  "to_entity": "islamic-republican-party",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Founded as the newspaper of the Islamic Republican Party"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-beheshti-subject-of-hafte-tir-bombing-1981",
+  "from_entity": "mohammad-beheshti",
+  "to_entity": "hafte-tir-bombing-1981",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "1981-06-28",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hafte_Tir_bombing",
+      "source_title": "Hafte Tir bombing — Wikipedia",
+      "source_date": null,
+      "description": "Killed in the Hafte Tir bombing on 28 June 1981 at IRP headquarters in Tehran."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

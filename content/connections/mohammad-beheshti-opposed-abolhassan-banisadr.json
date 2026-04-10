@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-beheshti-opposed-abolhassan-banisadr",
+  "from_entity": "mohammad-beheshti",
+  "to_entity": "abolhassan-banisadr",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": "1980",
+  "date_to": "1981",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Beheshti",
+      "source_title": "Mohammad Beheshti — Wikipedia",
+      "source_date": null,
+      "description": "Led the IRP's campaign against President Banisadr, culminating in Banisadr's impeachment on 21 June 1981."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

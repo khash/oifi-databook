@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-beheshti-aligned-with-mohammad-taqi-mesbah-yazdi",
+  "from_entity": "mohammad-beheshti",
+  "to_entity": "mohammad-taqi-mesbah-yazdi",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "1964",
+  "date_to": "1981",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Beheshti",
+      "source_title": "Mohammad Beheshti — Wikipedia",
+      "source_date": null,
+      "description": "Co-founded the Haghani Seminary together in the 1960s; fellow hardline clerics within the revolutionary establishment."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

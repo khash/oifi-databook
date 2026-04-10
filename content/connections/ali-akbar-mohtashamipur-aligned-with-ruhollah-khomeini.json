@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-akbar-mohtashamipur-aligned-with-ruhollah-khomeini",
+  "from_entity": "ali-akbar-mohtashamipur",
+  "to_entity": "ruhollah-khomeini",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Akbar_Mohtashamipur",
+      "source_title": "Ali Akbar Mohtashamipur — Wikipedia",
+      "source_date": "2024",
+      "description": "Mohtashamipur accompanied Khomeini during his exile in both Iraq and France."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": "Accompanied Khomeini in exile in Iraq and France."
+}

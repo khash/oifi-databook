@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-javad-bahonar-subject-of-hafte-tir-bombing-1981",
+  "from_entity": "mohammad-javad-bahonar",
+  "to_entity": "hafte-tir-bombing-1981",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1981-06-28",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hafte_Tir_bombing",
+      "source_title": "Hafte Tir bombing — Wikipedia",
+      "source_date": null,
+      "description": "Bahonar succeeded Beheshti as effective IRP leader after the bombing; mentioned in the event body as himself assassinated two months later."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

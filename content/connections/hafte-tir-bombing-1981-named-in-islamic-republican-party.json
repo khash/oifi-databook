@@ -1,0 +1,21 @@
+{
+  "entity_id": "hafte-tir-bombing-1981-named-in-islamic-republican-party",
+  "from_entity": "hafte-tir-bombing-1981",
+  "to_entity": "islamic-republican-party",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1981-06-28",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hafte_Tir_bombing",
+      "source_title": "Hafte Tir bombing — Wikipedia",
+      "source_date": null,
+      "description": "The bombing took place at the IRP headquarters during a party leadership meeting."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,27 @@
+{
+  "entity_id": "mostafa-chamran-coordinated-with-musa-al-sadr",
+  "from_entity": "mostafa-chamran",
+  "to_entity": "musa-al-sadr",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "1971",
+  "date_to": "1978",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mostafa_Chamran",
+      "source_title": "Mostafa Chamran — Wikipedia",
+      "source_date": "2024",
+      "description": "Chamran actively cooperated with Musa al-Sadr during the Lebanese Civil War and became known as his right-hand man."
+    },
+    {
+      "source_url": "https://english.khamenei.ir/news/9049/From-Texas-to-Dehlavieh-A-look-at-the-life-of-Martyr-Mustafa",
+      "source_title": "From Texas to Dehlavieh — Khamenei.ir",
+      "source_date": "2021",
+      "description": "Chamran trained manpower in southern Lebanon in cooperation with Imam Musa Sadr."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Chamran was Sadr's military right-hand man in Lebanon from 1971 until Sadr's disappearance in 1978."
+}

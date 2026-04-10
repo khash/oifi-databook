@@ -1,0 +1,21 @@
+{
+  "entity_id": "musa-al-sadr-affiliated-with-hezbollah",
+  "from_entity": "musa-al-sadr",
+  "to_entity": "hezbollah",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hezbollah",
+      "source_title": "Hezbollah — Wikipedia",
+      "source_date": "2024",
+      "description": "Hezbollah emerged from the Shia political movement mobilized by Musa al-Sadr's Movement of the Deprived and its militia, the Amal Movement."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Precursor relationship. Sadr disappeared in 1978, four years before Hezbollah was founded. His social mobilization of Lebanese Shia was foundational."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "amal-movement-affiliated-with-hezbollah",
+  "from_entity": "amal-movement",
+  "to_entity": "hezbollah",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "1982",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Amal_Movement",
+      "source_title": "Amal Movement — Wikipedia",
+      "source_date": "2024",
+      "description": "In 1982, a faction led by Husayn al-Musawi split from Amal to form Islamic Amal, which later merged into Hezbollah."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Islamic Amal splinter faction merged into Hezbollah. Amal and Hezbollah have been both rivals and allies since."
+}

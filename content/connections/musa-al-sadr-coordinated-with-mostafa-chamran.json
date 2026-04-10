@@ -1,0 +1,21 @@
+{
+  "entity_id": "musa-al-sadr-coordinated-with-mostafa-chamran",
+  "from_entity": "musa-al-sadr",
+  "to_entity": "mostafa-chamran",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "1971",
+  "date_to": "1978",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mostafa_Chamran",
+      "source_title": "Mostafa Chamran — Wikipedia",
+      "source_date": "2024",
+      "description": "Chamran was Musa al-Sadr's right-hand man in Lebanon."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Reverse direction of mostafa-chamran-coordinated-with-musa-al-sadr for the link from Sadr's bio."
+}

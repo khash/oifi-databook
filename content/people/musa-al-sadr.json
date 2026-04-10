@@ -1,0 +1,18 @@
+{
+  "entity_id": "musa-al-sadr",
+  "slug": "musa-al-sadr",
+  "name_en": "Musa al-Sadr",
+  "name_fa": "موسی صدر",
+  "has_native_fa_name": true,
+  "aliases": ["Imam Musa Sadr", "Imam Musa al-Sadr"],
+  "born": 1928,
+  "birthplace": "Qom, Iran",
+  "role": "Lebanese-Iranian Shia cleric; founder of the Amal Movement",
+  "faction": "pragmatist",
+  "bio": "Musa al-Sadr was an Iranian-born Lebanese Shia cleric who became the most prominent leader of Lebanon's Shia community in the 1960s and 1970s. He founded the Movement of the Deprived in 1974 and co-founded its military wing, the [Amal Movement](/orgs/amal-movement), with [Mostafa Chamran](/people/mostafa-chamran). He worked closely with Chamran to establish training facilities for Shia fighters in southern Lebanon. His political mobilization of the Shia community laid the social and organizational groundwork from which [Hezbollah](/orgs/hezbollah) later emerged. He disappeared during a visit to Libya on 31 August 1978 under mysterious circumstances widely attributed to Muammar Gaddafi, and is presumed dead.",
+  "irgc_member": false,
+  "expertise": ["Shia theology", "community organizing", "Lebanese politics"],
+  "tags": ["deceased", "clerical"],
+  "photo": null,
+  "editorial_notes": "Disappeared in Libya 31 August 1978. Presumed assassinated on orders of Gaddafi. His disappearance remains unresolved."
+}

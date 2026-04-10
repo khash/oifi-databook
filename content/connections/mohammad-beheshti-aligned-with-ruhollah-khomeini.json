@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-beheshti-aligned-with-ruhollah-khomeini",
+  "from_entity": "mohammad-beheshti",
+  "to_entity": "ruhollah-khomeini",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Beheshti",
+      "source_title": "Mohammad Beheshti — Wikipedia",
+      "source_date": null,
+      "description": "One of Khomeini's most trusted lieutenants; joined him in exile in Najaf, served as chairman of the Council of Revolution, and built the institutional framework of the Islamic Republic."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

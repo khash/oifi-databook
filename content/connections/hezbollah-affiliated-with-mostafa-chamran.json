@@ -1,0 +1,21 @@
+{
+  "entity_id": "hezbollah-affiliated-with-mostafa-chamran",
+  "from_entity": "hezbollah",
+  "to_entity": "mostafa-chamran",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.fdd.org/analysis/2013/11/18/the-secret-history-of-hezbollah/",
+      "source_title": "The Secret History of Hezbollah — FDD",
+      "source_date": "2013",
+      "description": "Chamran trained the Shia fighters in Lebanon whose networks later became Hezbollah."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Reverse direction for Hezbollah description link to Chamran."
+}

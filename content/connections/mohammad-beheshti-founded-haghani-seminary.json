@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-beheshti-founded-haghani-seminary",
+  "from_entity": "mohammad-beheshti",
+  "to_entity": "haghani-seminary",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "1964",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Beheshti",
+      "source_title": "Mohammad Beheshti — Wikipedia",
+      "source_date": null,
+      "description": "Co-founded the Haghani Seminary (originally Montazeriyeh School) in Qom in the 1960s."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

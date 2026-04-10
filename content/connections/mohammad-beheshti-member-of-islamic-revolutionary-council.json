@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-beheshti-member-of-islamic-revolutionary-council",
+  "from_entity": "mohammad-beheshti",
+  "to_entity": "islamic-revolutionary-council",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1980",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Beheshti",
+      "source_title": "Mohammad Beheshti — Wikipedia",
+      "source_date": null,
+      "description": "Member and chairman of the Council of the Islamic Revolution established by Khomeini in 1979."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

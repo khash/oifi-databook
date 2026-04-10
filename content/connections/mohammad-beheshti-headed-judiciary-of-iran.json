@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-beheshti-headed-judiciary-of-iran",
+  "from_entity": "mohammad-beheshti",
+  "to_entity": "judiciary-of-iran",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1981",
+  "evidence": [
+    {
+      "source_url": "https://www.britannica.com/biography/Mohammad-Hosayn-Beheshti",
+      "source_title": "Mohammad Hosayn Beheshti — Britannica",
+      "source_date": null,
+      "description": "Appointed as the first Chief Justice (head of the judiciary) of the Islamic Republic in 1979, serving until his assassination in 1981."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

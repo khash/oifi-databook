@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-beheshti-founded-islamic-republican-party",
+  "from_entity": "mohammad-beheshti",
+  "to_entity": "islamic-republican-party",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Islamic_Republican_Party",
+      "source_title": "Islamic Republican Party — Wikipedia",
+      "source_date": null,
+      "description": "Co-founded the IRP in 1979 alongside Khamenei, Rafsanjani, Bahonar, and Mousavi-Ardabili."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

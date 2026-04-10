@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-akbar-mohtashamipur-participated-in-iranian-revolution-1979",
+  "from_entity": "ali-akbar-mohtashamipur",
+  "to_entity": "iranian-revolution-1979",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1979",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Akbar_Mohtashamipur",
+      "source_title": "Ali Akbar Mohtashamipur — Wikipedia",
+      "source_date": "2024",
+      "description": "Mohtashamipur accompanied Khomeini during his exile and was part of the revolutionary leadership."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

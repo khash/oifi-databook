@@ -1,0 +1,21 @@
+{
+  "entity_id": "hafte-tir-bombing-1981-named-in-ruhollah-khomeini",
+  "from_entity": "hafte-tir-bombing-1981",
+  "to_entity": "ruhollah-khomeini",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hafte_Tir_bombing",
+      "source_title": "Hafte Tir bombing — Wikipedia",
+      "source_date": null,
+      "description": "Khomeini referenced in event body as the figure who considered Beheshti the second most powerful man in Iran."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

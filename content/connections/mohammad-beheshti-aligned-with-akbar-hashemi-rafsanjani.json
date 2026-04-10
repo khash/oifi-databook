@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-beheshti-aligned-with-akbar-hashemi-rafsanjani",
+  "from_entity": "mohammad-beheshti",
+  "to_entity": "akbar-hashemi-rafsanjani",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1981",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Islamic_Republican_Party",
+      "source_title": "Islamic Republican Party — Wikipedia",
+      "source_date": null,
+      "description": "Co-founders of the Islamic Republican Party; political allies within the early revolutionary leadership."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

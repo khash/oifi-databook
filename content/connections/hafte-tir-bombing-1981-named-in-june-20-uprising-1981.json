@@ -1,0 +1,21 @@
+{
+  "entity_id": "hafte-tir-bombing-1981-named-in-june-20-uprising-1981",
+  "from_entity": "hafte-tir-bombing-1981",
+  "to_entity": "june-20-uprising-1981",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hafte_Tir_bombing",
+      "source_title": "Hafte Tir bombing — Wikipedia",
+      "source_date": null,
+      "description": "The Hafte Tir bombing occurred eight days after the June 20 uprising, which marked the beginning of the MEK's open armed conflict with the state."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

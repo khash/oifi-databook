@@ -1,0 +1,27 @@
+{
+  "entity_id": "mostafa-chamran-affiliated-with-hezbollah",
+  "from_entity": "mostafa-chamran",
+  "to_entity": "hezbollah",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "1971",
+  "date_to": "1981",
+  "evidence": [
+    {
+      "source_url": "https://www.fdd.org/analysis/2013/11/18/the-secret-history-of-hezbollah/",
+      "source_title": "The Secret History of Hezbollah — Foundation for Defense of Democracies",
+      "source_date": "2013",
+      "description": "Chamran trained in Lebanon with the PLO and later joined the Lebanese Shia resistance that produced Amal and Hezbollah."
+    },
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mostafa_Chamran",
+      "source_title": "Mostafa Chamran — Wikipedia",
+      "source_date": "2024",
+      "description": "Chamran established Shia fighter training infrastructure in southern Lebanon. His protégé Husayn al-Musawi later led the Islamic Amal split that merged into Hezbollah."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Precursor relationship. Chamran died in June 1981, before Hezbollah was formally founded in 1982. His training camps, fighter networks, and organizational methods in Lebanon were foundational to Hezbollah's creation."
+}

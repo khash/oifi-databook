@@ -1,0 +1,21 @@
+{
+  "entity_id": "hezbollah-affiliated-with-musa-al-sadr",
+  "from_entity": "hezbollah",
+  "to_entity": "musa-al-sadr",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hezbollah",
+      "source_title": "Hezbollah — Wikipedia",
+      "source_date": "2024",
+      "description": "Hezbollah's organizational roots trace to the Shia political movement mobilized by Musa al-Sadr."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Precursor relationship. Sadr's movement laid the groundwork for Hezbollah."
+}

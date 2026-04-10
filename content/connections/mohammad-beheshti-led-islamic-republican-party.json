@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-beheshti-led-islamic-republican-party",
+  "from_entity": "mohammad-beheshti",
+  "to_entity": "islamic-republican-party",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1981",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Beheshti",
+      "source_title": "Mohammad Beheshti — Wikipedia",
+      "source_date": null,
+      "description": "Served as Secretary-General of the Islamic Republican Party from its founding until his assassination in 1981."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

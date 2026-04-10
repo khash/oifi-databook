@@ -1,0 +1,21 @@
+{
+  "entity_id": "mojahedin-e-khalq-organized-hafte-tir-bombing-1981",
+  "from_entity": "mojahedin-e-khalq",
+  "to_entity": "hafte-tir-bombing-1981",
+  "type": "organized",
+  "confidence": "alleged",
+  "date_from": "1981-06-28",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hafte_Tir_bombing",
+      "source_title": "Hafte Tir bombing — Wikipedia",
+      "source_date": null,
+      "description": "The bombing is generally attributed to the MEK by Iranian authorities and most analysts, though the MEK has denied responsibility."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Attribution disputed. MEK denies responsibility; some analysts have also suggested SAVAMA or internal factions."
+}

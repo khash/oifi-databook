@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-beheshti-subject-of-mojahedin-e-khalq",
+  "from_entity": "mohammad-beheshti",
+  "to_entity": "mojahedin-e-khalq",
+  "type": "subject-of",
+  "confidence": "alleged",
+  "date_from": "1981-06-28",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hafte_Tir_bombing",
+      "source_title": "Hafte Tir bombing — Wikipedia",
+      "source_date": null,
+      "description": "Beheshti was assassinated in the Hafte Tir bombing, which is generally attributed to the MEK."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Attribution disputed; MEK denies responsibility."
+}

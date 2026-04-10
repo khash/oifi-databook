@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-akbar-mohtashamipur-affiliated-with-islamic-revolutionary-guard-corps",
+  "from_entity": "ali-akbar-mohtashamipur",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "1982",
+  "date_to": "1986",
+  "evidence": [
+    {
+      "source_url": "https://www.washingtonpost.com/local/obituaries/ali-akbar-mohtashamipour-dead/2021/06/07/2ce247c0-c793-11eb-a11b-6c6191ccd599_story.html",
+      "source_title": "Ali Akbar Mohtashamipour obituary — Washington Post",
+      "source_date": "2021-06-07",
+      "description": "Mohtashamipur worked within the IRGC framework for Islamic Liberation Movements to create Hezbollah."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Worked within IRGC Department for Islamic Liberation Movements while ambassador to Syria."
+}

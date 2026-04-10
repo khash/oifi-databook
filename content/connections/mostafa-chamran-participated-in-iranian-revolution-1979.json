@@ -1,0 +1,21 @@
+{
+  "entity_id": "mostafa-chamran-participated-in-iranian-revolution-1979",
+  "from_entity": "mostafa-chamran",
+  "to_entity": "iranian-revolution-1979",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1979",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mostafa_Chamran",
+      "source_title": "Mostafa Chamran — Wikipedia",
+      "source_date": "2024",
+      "description": "Chamran returned to Iran after the revolution and was appointed the first post-revolution Minister of Defence."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Returned from Lebanon to Iran for the revolution."
+}

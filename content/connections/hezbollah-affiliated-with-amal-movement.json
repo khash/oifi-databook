@@ -1,0 +1,21 @@
+{
+  "entity_id": "hezbollah-affiliated-with-amal-movement",
+  "from_entity": "hezbollah",
+  "to_entity": "amal-movement",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "1982",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hezbollah",
+      "source_title": "Hezbollah — Wikipedia",
+      "source_date": "2024",
+      "description": "Hezbollah emerged partly from the Islamic Amal splinter faction of the Amal Movement."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Reverse direction for Hezbollah description linking to Amal Movement."
+}

@@ -33,14 +33,15 @@ const jsonLd = {
   breadcrumb={{ label: "Events", href: "/events" }}
 >
   <div data-pagefind-body>
-    <div class="flex flex-wrap items-center gap-3">
+    <h1 class="text-2xl font-bold" data-pagefind-meta="title">{event.name}</h1>
+    <p class="mt-1 text-sm text-muted-foreground">{event.date}</p>
+
+    <div class="mt-2 flex flex-wrap items-center gap-2">
       <Badge variant="secondary">{event.type.replace(/-/g, " ")}</Badge>
       {event.tags.map((tag) => (
         <Badge variant="outline">{tag.replace(/-/g, " ")}</Badge>
       ))}
-      <span class="text-sm text-muted-foreground">{event.date}</span>
     </div>
-    <h1 class="mt-2 text-2xl font-bold" data-pagefind-meta="title">{event.name}</h1>
 
     <Separator className="my-6" />
 

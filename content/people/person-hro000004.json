@@ -3,6 +3,7 @@
   "slug": "hassan-rouhani",
   "name_en": "Hassan Rouhani",
   "name_fa": "حسن روحانی",
+  "has_native_fa_name": true,
   "aliases": [
     "Hassan Feridon"
   ],
@@ -17,5 +18,6 @@
     "islamic-jurisprudence"
   ],
   "photo": null,
+  "tags": [],
   "editorial_notes": ""
 }

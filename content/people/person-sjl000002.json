@@ -3,6 +3,7 @@
   "slug": "saeed-jalili",
   "name_en": "Saeed Jalili",
   "name_fa": "سعید جلیلی",
+  "has_native_fa_name": true,
   "aliases": [],
   "born": 1965,
   "birthplace": "Mashhad",
@@ -14,5 +15,6 @@
     "national-security"
   ],
   "photo": null,
+  "tags": [],
   "editorial_notes": ""
 }

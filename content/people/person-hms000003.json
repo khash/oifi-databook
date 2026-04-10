@@ -3,6 +3,7 @@
   "slug": "hossein-mousavian",
   "name_en": "Hossein Mousavian",
   "name_fa": "حسین موسویان",
+  "has_native_fa_name": true,
   "aliases": [
     "Seyed Hossein Mousavian"
   ],
@@ -17,5 +18,6 @@
     "arms-control"
   ],
   "photo": null,
+  "tags": [],
   "editorial_notes": "Central figure in IEI leaked emails. Multiple references in Semafor investigation."
 }

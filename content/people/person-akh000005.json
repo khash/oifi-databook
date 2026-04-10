@@ -3,6 +3,7 @@
   "slug": "ali-khamenei",
   "name_en": "Ali Khamenei",
   "name_fa": "علی خامنه‌ای",
+  "has_native_fa_name": true,
   "aliases": [
     "Ayatollah Khamenei",
     "Supreme Leader"
@@ -18,5 +19,6 @@
     "national-security"
   ],
   "photo": null,
+  "tags": [],
   "editorial_notes": ""
 }

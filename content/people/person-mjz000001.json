@@ -3,6 +3,7 @@
   "slug": "mohammad-javad-zarif",
   "name_en": "Mohammad Javad Zarif",
   "name_fa": "محمدجواد ظریف",
+  "has_native_fa_name": true,
   "aliases": [
     "Javad Zarif"
   ],
@@ -17,5 +18,6 @@
     "international-law"
   ],
   "photo": null,
+  "tags": [],
   "editorial_notes": "Key figure in IEI network. Cross-reference with Semafor reporting on email leaks."
 }

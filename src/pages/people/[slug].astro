@@ -21,7 +21,7 @@ const jsonLd = {
   "@context": "https://schema.org",
   "@type": "Person",
   name: person.name_en,
-  alternateName: person.name_fa,
+  alternateName: person.has_native_fa_name ? person.name_fa : undefined,
   jobTitle: person.role,
   description: person.bio,
   birthDate: person.born ? String(person.born) : undefined,
@@ -39,7 +39,7 @@ const jsonLd = {
   <article data-pagefind-body>
     <div class="flex flex-wrap items-baseline gap-3">
       <h1 class="text-2xl font-bold" data-pagefind-meta="title">{person.name_en}</h1>
-      <span class="text-lg text-muted-foreground" dir="rtl" lang="fa">{person.name_fa}</span>
+      {person.has_native_fa_name && <span class="text-lg text-muted-foreground" dir="rtl" lang="fa">{person.name_fa}</span>}
     </div>
 
     <p class="mt-1 text-sm text-muted-foreground">{person.role}</p>

@@ -33,6 +33,7 @@ export interface Person {
   slug: string;
   name_en: string;
   name_fa: string;
+  has_native_fa_name: boolean;
   aliases: string[];
   born: number | null;
   birthplace: string | null;
@@ -40,6 +41,7 @@ export interface Person {
   faction: Faction;
   bio: string;
   expertise: string[];
+  tags: string[];
   photo: string | null;
 }
 
@@ -48,12 +50,14 @@ export interface Org {
   slug: string;
   name_en: string;
   name_fa: string;
+  has_native_fa_name: boolean;
   type: OrgType;
   founded: number | null;
   dissolved: number | null;
   parent_org: string | null;
   description: string;
   faction: Faction | null;
+  tags: string[];
 }
 
 export interface Event {
@@ -65,6 +69,7 @@ export interface Event {
   description: string;
   body: string | null;
   sources: Source[];
+  tags: string[];
 }
 
 export interface Connection {

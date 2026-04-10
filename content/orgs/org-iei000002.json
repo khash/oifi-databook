@@ -3,11 +3,13 @@
   "slug": "iran-experts-initiative",
   "name_en": "Iran Experts Initiative",
   "name_fa": "طرح کارشناسان ایران",
+  "has_native_fa_name": true,
   "type": "ngo",
   "founded": 2014,
   "dissolved": null,
   "parent_org": null,
   "description": "An informal network established by the Iranian Foreign Ministry to cultivate relationships with academics and policy experts of Iranian heritage in Western countries. Revealed through leaked emails published by Semafor and Iran International in 2023. Participants were provided talking points and guidance aligned with Iranian government positions, particularly around the JCPOA nuclear negotiations.",
   "faction": "reformist",
+  "tags": [],
   "editorial_notes": "Classification as NGO is debatable — it operated informally under MFA direction. The 'ngo' type is the closest fit given the controlled vocabulary."
 }

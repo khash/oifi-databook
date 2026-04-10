@@ -30,6 +30,7 @@ const personCollection: Collection = {
     { type: "string", name: "slug", label: "URL Slug", required: true },
     { type: "string", name: "name_en", label: "Name (English)", required: true },
     { type: "string", name: "name_fa", label: "Name (Persian)", required: true },
+    { type: "boolean", name: "has_native_fa_name", label: "Has Native Persian Name" },
     {
       type: "string",
       name: "aliases",
@@ -74,6 +75,7 @@ const orgCollection: Collection = {
     { type: "string", name: "slug", label: "URL Slug", required: true },
     { type: "string", name: "name_en", label: "Name (English)", required: true },
     { type: "string", name: "name_fa", label: "Name (Persian)", required: true },
+    { type: "boolean", name: "has_native_fa_name", label: "Has Native Persian Name" },
     {
       type: "string",
       name: "type",

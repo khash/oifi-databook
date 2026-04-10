@@ -1,6 +1,6 @@
 ---
 import Layout from "@/layouts/main.astro"
-import { Badge } from "@/components/ui/badge"
+import { FactionSpectrum } from "@/components/FactionSpectrum"
 import { ThemeToggle } from "@/components/ThemeToggle"
 import { getOrgs } from "@/lib/content"
 
@@ -27,9 +27,11 @@ const jsonLd = {
     {orgs.map((o) => (
       <li>
         <a href={`/orgs/${o.slug}`} class="group flex items-center gap-3">
-          <span class="font-medium group-hover:underline">{o.name_en}</span>
-          <Badge variant="secondary">{o.type.replace(/-/g, " ")}</Badge>
-          {o.faction && <Badge variant="outline" className="ml-auto">{o.faction.replace(/-/g, " ")}</Badge>}
+          <div class="flex flex-col">
+            <span class="font-medium group-hover:underline">{o.name_en}</span>
+            <span class="text-sm text-muted-foreground">{o.type.replace(/-/g, " ")}</span>
+          </div>
+          {o.faction && <span class="ml-auto"><FactionSpectrum faction={o.faction} client:load /></span>}
         </a>
       </li>
     ))}

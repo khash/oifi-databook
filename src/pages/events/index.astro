@@ -1,6 +1,5 @@
 ---
 import Layout from "@/layouts/main.astro"
-import { Badge } from "@/components/ui/badge"
 import { ThemeToggle } from "@/components/ThemeToggle"
 import { getEvents } from "@/lib/content"
 
@@ -27,9 +26,10 @@ const jsonLd = {
     {events.map((e) => (
       <li>
         <a href={`/events/${e.slug}`} class="group flex items-center gap-3">
-          <span class="font-medium group-hover:underline">{e.name}</span>
-          <span class="text-sm text-muted-foreground">{e.date}</span>
-          <Badge variant="secondary" className="ml-auto">{e.type.replace(/-/g, " ")}</Badge>
+          <div class="flex flex-col">
+            <span class="font-medium group-hover:underline">{e.name}</span>
+            <span class="text-sm text-muted-foreground">{e.date} · {e.type.replace(/-/g, " ")}</span>
+          </div>
         </a>
       </li>
     ))}

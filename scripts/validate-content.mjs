@@ -14,7 +14,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const CONTENT = path.resolve(__dirname, "..", "content");
 
 const FACTIONS = [
-  "pragmatist", "reformist", "conservative", "hardliner",
+  "opposition", "pragmatist", "reformist", "conservative", "hardliner",
   "military-irgc", "technocrat", "clerical",
 ];
 const ORG_TYPES = [

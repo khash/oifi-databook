@@ -2,7 +2,7 @@
   "entity_id": "mir-hossein-mousavi-family-of-ali-khamenei",
   "from_entity": "mir-hossein-mousavi",
   "to_entity": "ali-khamenei",
-  "type": "family-of",
+  "type": "named-in",
   "confidence": "confirmed",
   "date_from": null,
   "date_to": null,
@@ -15,7 +15,7 @@
     }
   ],
   "intermediaries": [],
-  "symmetric": true,
+  "symmetric": false,
   "family_subtype": null,
   "editorial_notes": ""
 }

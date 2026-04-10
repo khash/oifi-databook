@@ -15,7 +15,7 @@
     }
   ],
   "intermediaries": [],
-  "symmetric": false,
+  "symmetric": true,
   "family_subtype": null,
   "editorial_notes": ""
 }

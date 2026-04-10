@@ -1,0 +1,27 @@
+{
+  "entity_id": "saeed-jalili",
+  "slug": "saeed-jalili",
+  "name_en": "Saeed Jalili",
+  "name_fa": "سعید جلیلی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1965,
+  "birthplace": "Mashhad, Iran",
+  "role": "Secretary of the Supreme National Security Council (2007–2013); presidential candidate",
+  "faction": "hardliner",
+  "bio": "Saeed Jalili is an Iranian hardline politician who served as secretary of the [Supreme National Security Council](/orgs/supreme-national-security-council) from 2007 to 2013, appointed by [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad). He was Iran's chief nuclear negotiator during that period, taking a confrontational stance toward Western powers. He ran unsuccessfully in the 2013 presidential election and was a leading candidate in the [2024 snap presidential election](/events/presidential-election-iran-2024-snap), finishing second to [Masoud Pezeshkian](/people/masoud-pezeshkian) in the runoff. He is closely aligned with the [Front of Islamic Revolution Stability](/orgs/front-of-islamic-revolution-stability) and was endorsed by [Mohammad-Taqi Mesbah-Yazdi](/people/mohammad-taqi-mesbah-yazdi). He lost part of his right leg during the [Iran–Iraq War](/events/iran-iraq-war).",
+  "irgc_member": false,
+  "expertise": [
+    "nuclear negotiations",
+    "national security",
+    "foreign policy"
+  ],
+  "tags": [
+    "hardliner",
+    "nuclear-negotiations",
+    "snsc",
+    "presidential-candidate"
+  ],
+  "photo": null,
+  "editorial_notes": "Lost right leg in Iran-Iraq War. Ran in 2013 and 2024 presidential elections. Also participated in 2021 election."
+}

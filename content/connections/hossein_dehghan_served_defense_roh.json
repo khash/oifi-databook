@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein_dehghan_served_defense_roh",
+  "from_entity": "hossein-dehghan",
+  "to_entity": "ministry-of-defense",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2013",
+  "date_to": "2017",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/",
+      "source_title": "Hassan Rouhani",
+      "source_date": "2024-01-01",
+      "description": "hossein-dehghan served under Rouhani."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

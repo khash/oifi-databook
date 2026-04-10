@@ -1,0 +1,21 @@
+{
+  "entity_id": "qorbanali_dorri_najafabadi_served_intelligence_kh",
+  "from_entity": "qorbanali-dorri-najafabadi",
+  "to_entity": "ministry-of-intelligence",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1997",
+  "date_to": "1999",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/",
+      "source_title": "Mohammad Khatami",
+      "source_date": "2024-01-01",
+      "description": "qorbanali-dorri-najafabadi served under Khatami."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Resigned over chain murders of 1998."
+}

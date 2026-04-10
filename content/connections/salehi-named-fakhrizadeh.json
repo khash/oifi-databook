@@ -1,0 +1,21 @@
+{
+  "entity_id": "salehi-named-fakhrizadeh",
+  "from_entity": "ali-akbar-salehi",
+  "to_entity": "fakhrizadeh-assassination-2020",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2020-11-27",
+  "date_to": "2020-11-27",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohsen_Fakhrizadeh",
+      "source_title": "Mohsen Fakhrizadeh",
+      "source_date": "2020-11-27",
+      "description": "Salehi described Fakhrizadeh as the 'shahid of science' following his assassination."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

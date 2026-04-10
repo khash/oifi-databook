@@ -1,0 +1,25 @@
+{
+  "entity_id": "chain-murders-iran-1998",
+  "slug": "chain-murders-iran-1998",
+  "name": "Chain Murders of Iranian Intellectuals (1998)",
+  "date": "1998-11-01",
+  "type": "purge",
+  "description": "Between late 1998 and early 1999, a series of murders of Iranian intellectuals, writers, and political activists — dubbed the 'chain murders' (ghatlha-ye zanjire'i) — were carried out by agents of the [Ministry of Intelligence](/orgs/ministry-of-intelligence) under [Ali Fallahian](/people/ali-fallahian)'s successors. Key victims included political couple Dariush and Parvaneh Foruhar (stabbed in their home, November 1998), writer Mohammad Mokhtari (strangled, December 1998), and translator Mohammad Jafar Pouyandeh (strangled, December 1998). The killings were eventually traced to a rogue unit within the Ministry of Intelligence, led by MOIS deputy Saeed Emami, who later died in custody (officially 'suicide'). Intelligence Minister [Qorbanali Dorri-Najafabadi](/people/qorbanali-dorri-najafabadi) resigned. [Hossein Taeb](/people/hossein-taeb) is reported to have been involved in the chain murders through his MOIS counter-intelligence role under [Ali Fallahian](/people/ali-fallahian). The murders severely damaged [Mohammad Khatami](/people/mohammad-khatami)'s reformist credibility and exposed the existence of rogue killing units within the security services.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Chain_murders_of_Iran",
+      "title": "Chain murders of Iran",
+      "date": "1998-11-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": [
+    "chain-murders",
+    "political-violence",
+    "ministry-of-intelligence",
+    "khatami-era",
+    "impunity"
+  ],
+  "editorial_notes": "Murders carried out November 1998 – January 1999. Saeed Emami (MOIS deputy) confessed and died in custody. Dorri-Najafabadi resigned as Intelligence Minister 1999. Official investigation never fully prosecuted."
+}

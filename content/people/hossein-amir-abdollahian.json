@@ -5,24 +5,34 @@
   "name_fa": "حسین امیرعبداللهیان",
   "has_native_fa_name": true,
   "aliases": [
+    "Amir Abdollahian",
+    "Abdollahian",
     "Amir-Abdollahian"
   ],
   "born": 1964,
-  "birthplace": "Damascus, Syria",
-  "role": "Minister of Foreign Affairs (2021–2024)",
+  "birthplace": "Damghan, Semnan Province",
+  "role": "Former Minister of Foreign Affairs (2021–2024); died in helicopter crash",
   "faction": "hardliner",
-  "bio": "Hossein Amir-Abdollahian served as Iran's Minister of Foreign Affairs under President Ebrahim Raisi from 2021 until his death in the helicopter crash of May 2024. A career diplomat close to the [IRGC Quds Force](/orgs/irgc-quds-force), he had previously served as deputy foreign minister for Arab and African affairs. He was killed alongside [President Raisi](/people/ebrahim-raisi) when their helicopter crashed in foggy conditions in East Azerbaijan Province.",
+  "bio": "Hossein Amir-Abdollahian was Iran's Foreign Minister under [Ebrahim Raisi](/people/ebrahim-raisi) from August 2021 until his death in May 2024. He died alongside Raisi in the helicopter crash on 19 May 2024 in East Azerbaijan. A career diplomat who specialised in Arab and African affairs, he served as Deputy Foreign Minister for Arab and African Affairs under [Manouchehr Mottaki](/people/manouchehr-mottaki) (2011–2016) and was known for his close ties to Hezbollah, Hamas, and the [IRGC Quds Force](/orgs/irgc-quds-force). He was removed from his deputy role by [Mohammad Javad Zarif](/people/javad-zarif) in 2016, then became a senior adviser to [Mohammad Bagher Ghalibaf](/people/mohammad-bagher-ghalibaf) at the Majlis. His foreign policy prioritised the 'resistance axis' and East-facing engagement with Russia and China.",
   "expertise": [
+    "Arab world affairs",
+    "Lebanon/Palestine",
     "diplomacy",
     "Arab affairs",
-    "regional security"
+    "regional diplomacy",
+    "regional security",
+    "resistance axis"
   ],
   "tags": [
+    "resistance-axis",
+    "helicopter-crash",
     "foreign-minister",
     "deceased",
-    "killed-in-crash"
+    "killed-in-crash",
+    "sanctions",
+    "raisi-cabinet"
   ],
   "photo": null,
-  "editorial_notes": "Killed 19 May 2024 in same helicopter crash as President Raisi.",
+  "editorial_notes": "Born 1964. Died 19 May 2024 in helicopter crash alongside Raisi and others. Removed from deputy FM role by Zarif in 2016. Sanctioned by US and EU.",
   "irgc_member": false
 }

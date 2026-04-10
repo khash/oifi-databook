@@ -1,0 +1,21 @@
+{
+  "entity_id": "dehghan-member-irgc",
+  "from_entity": "hossein-dehghan",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hossein_Dehghan",
+      "source_title": "Hossein Dehghan",
+      "source_date": "2024-01-01",
+      "description": "Dehghan joined the IRGC at its founding and rose to brigadier general."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

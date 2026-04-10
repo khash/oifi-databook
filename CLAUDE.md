@@ -54,6 +54,18 @@ Three entity types: **Person**, **Org**, **Event** — each with `entity_id` and
 - **FactionSpectrum.tsx** — visual political spectrum slider
 - **ThemeToggle.tsx** — light/dark mode with localStorage persistence
 
+## Enum Values — Closed Sets
+
+The following enums in `src/lib/constants.ts` are **closed sets**. Never add, remove, or rename values without explicit user approval:
+
+- **SPECTRUM_FACTIONS**: opposition, reformist, pragmatist, conservative, hardliner
+- **INSTITUTIONAL_FACTIONS**: technocrat, clerical
+- **ORG_TYPES**: political-party, state-institution, military, media, business, ngo, religious
+- **EVENT_TYPES**: election, appointment, purge, protest, leak, sanctions, indictment, policy, death
+- **CONFIDENCE_LEVELS**: confirmed, alleged, disputed, denied
+
+When assigning values to new entities, choose from existing options. If none fit, ask the user before proposing a new value.
+
 ## Conventions
 
 - Bilingual: English primary, Persian (`name_fa`) secondary with `dir="rtl" lang="fa"`

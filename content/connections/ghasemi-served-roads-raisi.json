@@ -1,0 +1,21 @@
+{
+  "entity_id": "ghasemi-served-roads-raisi",
+  "from_entity": "rostam-ghasemi",
+  "to_entity": "ministry-of-interior",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2021",
+  "date_to": "2023",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Rostam_Ghasemi",
+      "source_title": "Rostam Ghasemi",
+      "source_date": "2024-01-01",
+      "description": "Ghasemi served as Minister of Roads and Urban Development under Raisi 2021–2023."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Roads ministry, not interior — editorial note."
+}

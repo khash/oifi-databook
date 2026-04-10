@@ -1,0 +1,26 @@
+{
+  "entity_id": "eskandar-momeni",
+  "slug": "eskandar-momeni",
+  "name_en": "Eskandar Momeni",
+  "name_fa": "اسکندر مومنی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1965,
+  "birthplace": "Iran",
+  "role": "Minister of Interior (2024–present)",
+  "faction": "hardliner",
+  "bio": "Eskandar Momeni is Iran's Minister of Interior under [Masoud Pezeshkian](/people/masoud-pezeshkian), appointed in August 2024. A senior security official with a military background, he previously served in senior positions in law enforcement and security agencies. He superseded [Ahmad Vahidi](/people/ahmad-vahidi)'s hardline tenure at the Interior Ministry.",
+  "irgc_member": true,
+  "expertise": [
+    "interior security",
+    "law enforcement",
+    "provincial governance"
+  ],
+  "tags": [
+    "interior-minister",
+    "pezeshkian-cabinet",
+    "military"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 1965. Military background. Appointed Interior Minister August 2024."
+}

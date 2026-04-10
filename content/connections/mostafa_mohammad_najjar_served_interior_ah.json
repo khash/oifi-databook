@@ -1,0 +1,21 @@
+{
+  "entity_id": "mostafa_mohammad_najjar_served_interior_ah",
+  "from_entity": "mostafa-mohammad-najjar",
+  "to_entity": "ministry-of-interior",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": "2013",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/",
+      "source_title": "Mahmoud Ahmadinejad",
+      "source_date": "2024-01-01",
+      "description": "mostafa-mohammad-najjar served under Ahmadinejad."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Supervised disputed 2009 election."
+}

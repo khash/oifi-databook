@@ -1,0 +1,21 @@
+{
+  "entity_id": "esmaeil_khatib_served_intelligence_pez",
+  "from_entity": "esmaeil-khatib",
+  "to_entity": "ministry-of-intelligence",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2024",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/",
+      "source_title": "Presidency of Masoud Pezeshkian",
+      "source_date": "2024-01-01",
+      "description": "esmaeil-khatib serves in ministry-of-intelligence under Pezeshkian."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Retained from Raisi cabinet."
+}

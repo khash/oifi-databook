@@ -1,0 +1,21 @@
+{
+  "entity_id": "khamenei-appointed-hajizadeh",
+  "from_entity": "ali-khamenei",
+  "to_entity": "amir-ali-hajizadeh",
+  "type": "appointed",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Amir_Ali_Hajizadeh",
+      "source_title": "Amir Ali Hajizadeh",
+      "source_date": "2025-06-13",
+      "description": "Khamenei promoted Hajizadeh to command the IRGC Aerospace Force in 2009."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

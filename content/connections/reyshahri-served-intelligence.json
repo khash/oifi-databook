@@ -1,0 +1,21 @@
+{
+  "entity_id": "reyshahri-served-intelligence",
+  "from_entity": "mohammad-reyshahri",
+  "to_entity": "ministry-of-intelligence",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1984",
+  "date_to": "1989",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Mohammadi_Reyshahri",
+      "source_title": "Mohammad Reyshahri",
+      "source_date": "2024-01-01",
+      "description": "Reyshahri was the founding Minister of Intelligence, serving 1984–1989 under PM Mousavi and President Khamenei."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Established MOIS as an institutional entity. Ministry formally founded 1983."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "morteza-eshraqi-family-of-ruhollah-khomeini",
+  "from_entity": "morteza-eshraqi",
+  "to_entity": "ruhollah-khomeini",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Referenced in entity description"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "in-law",
+  "editorial_notes": ""
+}

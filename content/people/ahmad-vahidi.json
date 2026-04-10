@@ -1,0 +1,32 @@
+{
+  "entity_id": "ahmad-vahidi",
+  "slug": "ahmad-vahidi",
+  "name_en": "Ahmad Vahidi",
+  "name_fa": "احمد وحیدی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Vahidi"
+  ],
+  "born": 1958,
+  "birthplace": "Shiraz, Fars Province",
+  "role": "Former Minister of Interior (2021–2024); former Minister of Defense (2009–2013)",
+  "faction": "hardliner",
+  "bio": "Ahmad Vahidi is one of the most internationally wanted figures in the Iranian establishment. A founding member of the [IRGC Quds Force](/orgs/irgc-quds-force) and its early commander, he was later appointed Defense Minister under [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad) (2009–2013). Under [Ebrahim Raisi](/people/ebrahim-raisi) he became Interior Minister (2021–2024), supervising Iran's domestic security apparatus and election administration. Argentina issued an Interpol red notice against Vahidi for alleged planning of the 1994 AMIA bombing in Buenos Aires that killed 85 people. He is subject to US and EU sanctions. He is a Brigadier General of the IRGC.",
+  "irgc_member": true,
+  "expertise": [
+    "intelligence operations",
+    "defense logistics",
+    "IRGC command",
+    "interior security"
+  ],
+  "tags": [
+    "irgc",
+    "defense-minister",
+    "interior-minister",
+    "amia-bombing",
+    "sanctions",
+    "quds-force"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 1958 in Shiraz. IRGC Quds Force founder and early commander. Defense Minister 2009–2013 under Ahmadinejad. Interior Minister 2021–2024 under Raisi. Interpol red notice since 2007."
+}

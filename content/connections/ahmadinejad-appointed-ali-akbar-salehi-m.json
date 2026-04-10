@@ -1,0 +1,21 @@
+{
+  "entity_id": "ahmadinejad-appointed-ali-akbar-salehi-m",
+  "from_entity": "mahmoud-ahmadinejad",
+  "to_entity": "ali-akbar-salehi",
+  "type": "appointed",
+  "confidence": "confirmed",
+  "date_from": "2010",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/",
+      "source_title": "Mahmoud Ahmadinejad",
+      "source_date": "2024-01-01",
+      "description": "Ahmadinejad appointed ali-akbar-salehi."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Replaced Mottaki who was fired."
+}

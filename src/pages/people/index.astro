@@ -1,11 +1,25 @@
 ---
 import Layout from "@/layouts/main.astro"
-import { FactionSpectrum } from "@/components/FactionSpectrum"
 import { ThemeToggle } from "@/components/ThemeToggle"
-import { Badge } from "@/components/ui/badge"
-import { getPeople } from "@/lib/content"
+import { PeopleIndex } from "@/components/PeopleIndex"
+import { getPeople, getConnections } from "@/lib/content"
 
-const people = getPeople().sort((a, b) => a.name_en.localeCompare(b.name_en))
+const connections = getConnections()
+const connectionCounts = new Map<string, number>()
+for (const c of connections) {
+  connectionCounts.set(c.from_entity, (connectionCounts.get(c.from_entity) ?? 0) + 1)
+  connectionCounts.set(c.to_entity, (connectionCounts.get(c.to_entity) ?? 0) + 1)
+}
+
+const people = getPeople().map((p) => ({
+  slug: p.slug,
+  name_en: p.name_en,
+  name_fa: p.name_fa,
+  role: p.role,
+  faction: p.faction,
+  irgc_member: p.irgc_member,
+  connectionCount: connectionCounts.get(p.entity_id) ?? 0,
+}))
 
 const jsonLd = {
   "@context": "https://schema.org",
@@ -13,32 +27,18 @@ const jsonLd = {
   name: "People",
   description: "People in the OIFI Databook",
   numberOfItems: people.length,
-  itemListElement: people.map((p, i) => ({
-    "@type": "ListItem",
-    position: i + 1,
-    url: `https://databook.oifi.org/people/${p.slug}`,
-    name: p.name_en,
-  })),
+  itemListElement: people
+    .sort((a, b) => a.name_en.localeCompare(b.name_en))
+    .map((p, i) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      url: `https://databook.oifi.org/people/${p.slug}`,
+      name: p.name_en,
+    })),
 }
 ---
 
 <Layout title="People" description="People in the OIFI Databook" canonicalPath="/people" jsonLd={jsonLd}>
-  <div class="mx-auto max-w-2xl">
-  <h1 class="mb-6 text-2xl font-bold">People</h1>
-  <ul class="space-y-3">
-    {people.map((p) => (
-      <li>
-        <a href={`/people/${p.slug}`} class="group flex items-center gap-3">
-          <div class="flex flex-col">
-            <span class="font-medium group-hover:underline">{p.name_en}</span>
-            <span class="text-sm text-muted-foreground">{p.role}</span>
-            {p.irgc_member && <Badge className="mt-0.5 w-fit bg-green-800 text-white hover:bg-green-900">IRGC</Badge>}
-          </div>
-          <span class="ml-auto"><FactionSpectrum faction={p.faction} client:load /></span>
-        </a>
-      </li>
-    ))}
-  </ul>
-  </div>
+  <PeopleIndex people={people} client:load />
   <ThemeToggle client:load slot="header-actions" />
 </Layout>

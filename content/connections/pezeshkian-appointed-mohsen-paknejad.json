@@ -1,0 +1,21 @@
+{
+  "entity_id": "pezeshkian-appointed-mohsen-paknejad",
+  "from_entity": "masoud-pezeshkian",
+  "to_entity": "mohsen-paknejad",
+  "type": "appointed",
+  "confidence": "confirmed",
+  "date_from": "2024",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/",
+      "source_title": "Presidency of Masoud Pezeshkian",
+      "source_date": "2024-01-01",
+      "description": "Pezeshkian appointed mohsen-paknejad."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

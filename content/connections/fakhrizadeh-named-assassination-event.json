@@ -1,0 +1,21 @@
+{
+  "entity_id": "fakhrizadeh-named-assassination-event",
+  "from_entity": "mohsen-fakhrizadeh",
+  "to_entity": "fakhrizadeh-assassination-2020",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2020-11-27",
+  "date_to": "2020-11-27",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohsen_Fakhrizadeh",
+      "source_title": "Mohsen Fakhrizadeh",
+      "source_date": "2020-11-27",
+      "description": "Fakhrizadeh was the victim of the assassination on 27 November 2020."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

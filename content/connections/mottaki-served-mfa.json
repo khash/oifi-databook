@@ -1,0 +1,21 @@
+{
+  "entity_id": "mottaki-served-mfa",
+  "from_entity": "manouchehr-mottaki",
+  "to_entity": "ministry-of-foreign-affairs",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2005",
+  "date_to": "2010",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Manouchehr_Mottaki",
+      "source_title": "Manouchehr Mottaki",
+      "source_date": "2024-01-01",
+      "description": "Mottaki served as FM under Ahmadinejad 2005–2010."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Dismissed by Ahmadinejad by text message while on a visit to Senegal."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "velayati-adviser-to-khamenei",
+  "from_entity": "ali-akbar-velayati",
+  "to_entity": "office-of-the-supreme-leader",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1997",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Akbar_Velayati",
+      "source_title": "Ali Akbar Velayati",
+      "source_date": "2024-01-01",
+      "description": "Since 1997 Velayati has been Khamenei's personal adviser on international affairs."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

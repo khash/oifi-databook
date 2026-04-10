@@ -1,0 +1,31 @@
+{
+  "entity_id": "esmaeil-khatib",
+  "slug": "esmaeil-khatib",
+  "name_en": "Esmaeil Khatib",
+  "name_fa": "اسماعیل خطیب",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Ismail Khatib"
+  ],
+  "born": 1961,
+  "birthplace": "Qom",
+  "role": "Minister of Intelligence (2021–present)",
+  "faction": "hardliner",
+  "bio": "Esmaeil Khatib is Iran's Minister of Intelligence, appointed by [Ebrahim Raisi](/people/ebrahim-raisi) in 2021 and retained by [Masoud Pezeshkian](/people/masoud-pezeshkian) in 2024. He joined the [IRGC](/orgs/islamic-revolutionary-guard-corps) intelligence wing in 1980 and built a career spanning the Ministry of Intelligence, the [IRGC](/orgs/islamic-revolutionary-guard-corps) intelligence apparatus, and the [Office of the Supreme Leader](/orgs/office-of-the-supreme-leader). Under [Ebrahim Raisi](/people/ebrahim-raisi) as Judiciary chief, Khatib headed the Judiciary's Protection and Intelligence Centre. He studied jurisprudence under [Ali Khamenei](/people/ali-khamenei) himself, giving him direct personal ties to the Supreme Leader network. The Intelligence Ministry under Khatib has overseen intensified suppression of protest movements including the [2022 Mahsa Amini protests](/events/mahsa-amini-protests-2022).",
+  "irgc_member": true,
+  "expertise": [
+    "intelligence",
+    "counter-intelligence",
+    "IRGC security",
+    "judicial intelligence"
+  ],
+  "tags": [
+    "intelligence-minister",
+    "irgc",
+    "raisi-cabinet",
+    "pezeshkian-cabinet",
+    "khamenei-network"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 1961 in Qom. Joined IRGC intelligence 1980. Head of Judiciary Intelligence Protection Centre under Raisi. Appointed Intelligence Minister August 2021. Retained by Pezeshkian 2024."
+}

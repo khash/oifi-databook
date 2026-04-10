@@ -1,0 +1,21 @@
+{
+  "entity_id": "fakhrizadeh-led-aeoi-amad",
+  "from_entity": "mohsen-fakhrizadeh",
+  "to_entity": "atomic-energy-organisation-of-iran",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2020",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohsen_Fakhrizadeh",
+      "source_title": "Mohsen Fakhrizadeh",
+      "source_date": "2020-11-27",
+      "description": "Fakhrizadeh served as Deputy Defence Minister and headed the Amad Project, working closely with the AEOI."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

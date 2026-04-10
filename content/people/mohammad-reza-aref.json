@@ -1,0 +1,31 @@
+{
+  "entity_id": "mohammad-reza-aref",
+  "slug": "mohammad-reza-aref",
+  "name_en": "Mohammad-Reza Aref",
+  "name_fa": "محمدرضا عارف",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Aref"
+  ],
+  "born": 1951,
+  "birthplace": "Yazd",
+  "role": "First Vice President (2024–present); former First Vice President (2013); former reformist presidential candidate",
+  "faction": "reformist",
+  "bio": "Mohammad-Reza Aref is a reformist politician and electrical engineer who served briefly as First Vice President under [Hassan Rouhani](/people/hassan-rouhani) (2013) before stepping aside at [Mohammad Khatami](/people/mohammad-khatami)'s request to consolidate the reformist vote behind Rouhani in 2013. He had previously served as First Vice President under Khatami (2001–2005), where he oversaw technology and infrastructure policy. A former Minister of ICT under Khatami, he is now First Vice President under [Masoud Pezeshkian](/people/masoud-pezeshkian) (2024–present). He has been an MP for Tehran and heads the reformist parliamentary faction.",
+  "irgc_member": false,
+  "expertise": [
+    "electrical engineering",
+    "ICT policy",
+    "technology",
+    "economic planning"
+  ],
+  "tags": [
+    "first-vice-president",
+    "reformist",
+    "khatami-era",
+    "pezeshkian-cabinet",
+    "tehran-mp"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 1951 in Yazd. PhD in electrical engineering from Stanford University. ICT Minister under Khatami 1997–2000. First VP under Khatami 2001–05. Briefly First VP under Rouhani 2013. Now First VP under Pezeshkian 2024–present."
+}

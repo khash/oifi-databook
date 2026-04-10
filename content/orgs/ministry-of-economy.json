@@ -1,0 +1,20 @@
+{
+  "entity_id": "ministry-of-economy",
+  "slug": "ministry-of-economy",
+  "name_en": "Ministry of Economic Affairs and Finance",
+  "name_fa": "وزارت امور اقتصادی و دارایی",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 1979,
+  "dissolved": null,
+  "parent_org": "office-of-the-president",
+  "description": "Iran's Ministry of Economic Affairs and Finance (Vezarat-e Omur-e Eqtesadi va Daraii) manages the state budget, tax policy, financial regulation, and oversees state-owned enterprises. Key ministers: Ali Tayyebnia (2013–2017), Masoud Karbasian (2017–2018), Farhad Dejpasand (2018–2021), Ehsan Khandouzi (2021–2024), [Abdolnaser Hemmati](/people/abdolnaser-hemmati) (2024, briefly).",
+  "faction": null,
+  "tags": [
+    "state-institution",
+    "economy",
+    "finance",
+    "budget"
+  ],
+  "editorial_notes": ""
+}

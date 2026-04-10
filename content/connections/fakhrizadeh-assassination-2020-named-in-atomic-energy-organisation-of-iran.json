@@ -1,0 +1,21 @@
+{
+  "entity_id": "fakhrizadeh-assassination-2020-named-in-atomic-energy-organisation-of-iran",
+  "from_entity": "fakhrizadeh-assassination-2020",
+  "to_entity": "atomic-energy-organisation-of-iran",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Referenced in entity description"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

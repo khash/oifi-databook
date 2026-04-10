@@ -1,0 +1,21 @@
+{
+  "entity_id": "aref-first-vp-khatami",
+  "from_entity": "mohammad-reza-aref",
+  "to_entity": "office-of-the-president",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2001",
+  "date_to": "2005",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad-Reza_Aref",
+      "source_title": "Mohammad-Reza Aref",
+      "source_date": "2024-01-01",
+      "description": "Aref served as First Vice President under Khatami 2001–2005."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

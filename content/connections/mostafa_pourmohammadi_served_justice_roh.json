@@ -1,0 +1,21 @@
+{
+  "entity_id": "mostafa_pourmohammadi_served_justice_roh",
+  "from_entity": "mostafa-pourmohammadi",
+  "to_entity": "ministry-of-justice",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2013",
+  "date_to": "2017",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/",
+      "source_title": "Hassan Rouhani",
+      "source_date": "2024-01-01",
+      "description": "mostafa-pourmohammadi served under Rouhani."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Controversial appointment; implicated in 1988 massacre."
+}

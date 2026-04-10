@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein_amir_abdollahian_served_foreign_affai_raisi",
+  "from_entity": "hossein-amir-abdollahian",
+  "to_entity": "ministry-of-foreign-affairs",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2021",
+  "date_to": "2024",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/",
+      "source_title": "Presidency of Ebrahim Raisi",
+      "source_date": "2024-01-01",
+      "description": "hossein-amir-abdollahian served as minister under Raisi."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Died in helicopter crash with Raisi 19 May 2024."
+}

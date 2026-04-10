@@ -1,0 +1,21 @@
+{
+  "entity_id": "vahidi-served-defense-ahmadinejad",
+  "from_entity": "ahmad-vahidi",
+  "to_entity": "ministry-of-defense",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": "2013",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ahmad_Vahidi",
+      "source_title": "Ahmad Vahidi",
+      "source_date": "2024-01-01",
+      "description": "Vahidi served as Defense Minister under Ahmadinejad 2009–2013."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

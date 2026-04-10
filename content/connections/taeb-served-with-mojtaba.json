@@ -1,0 +1,21 @@
+{
+  "entity_id": "taeb-served-with-mojtaba",
+  "from_entity": "hossein-taeb",
+  "to_entity": "mojtaba-khamenei",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "1980",
+  "date_to": "1988",
+  "evidence": [
+    {
+      "source_url": "https://www.unitedagainstnucleariran.com/blog/islamic-revolutionary-guard-corps-intelligence-organization-transition",
+      "source_title": "IRGC-IO in Transition",
+      "source_date": "2022-06-23",
+      "description": "Taeb served alongside Mojtaba Khamenei in the IRGC Habib Battalion during the Iran-Iraq War."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

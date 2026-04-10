@@ -1,0 +1,21 @@
+{
+  "entity_id": "nayyeri-reports-to-eshraqi",
+  "from_entity": "hossein-ali-nayyeri",
+  "to_entity": "morteza-eshraqi",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "1988-07",
+  "date_to": "1988-11",
+  "evidence": [
+    {
+      "source_url": "https://iranprimer.usip.org/blog/2021/jul/21/raisi-role-1988-massacre",
+      "source_title": "Raisi: Role in 1988 Massacre",
+      "source_date": "2021-07-21",
+      "description": "Nayyeri and Eshraqi worked together on the Tehran Death Committee — Nayyeri as Sharia judge, Eshraqi as prosecutor."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

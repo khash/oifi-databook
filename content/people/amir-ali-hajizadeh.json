@@ -1,0 +1,32 @@
+{
+  "entity_id": "amir-ali-hajizadeh",
+  "slug": "amir-ali-hajizadeh",
+  "name_en": "Amir Ali Hajizadeh",
+  "name_fa": "امیرعلی حاجی‌زاده",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Hajizadeh"
+  ],
+  "born": 1962,
+  "birthplace": "Tehran",
+  "role": "Former Commander, IRGC Aerospace Force (2009–2025); killed in Israeli airstrike June 2025",
+  "faction": "hardliner",
+  "bio": "Amir Ali Hajizadeh commanded the [IRGC Aerospace Force](/orgs/irgc-aerospace-force) from 2009 until his death in an Israeli airstrike on 13 June 2025, as part of the large-scale Israeli operation that also killed [Hossein Salami](/people/hossein-salami) and other senior commanders. He joined the [IRGC](/orgs/islamic-revolutionary-guard-corps) in 1980 as a sniper during the Iran–Iraq War and was mentored by Hassan Tehrani Moghaddam — the 'Father of Iran's Missile Program' — who brought him into the nascent missile programme. He organised Iran's first missile unit 'Hadid' and rose to command Iran's entire ballistic missile and UAV arsenal. He directed the January 2020 missile strikes against US bases in Iraq following [Qasem Soleimani](/people/qasem-soleimani)'s assassination, and oversaw Iran's April and October 2024 direct missile and drone strikes against Israel. He was in command when IRGC missiles shot down Ukrainian flight PS752 on 8 January 2020, killing all 176 aboard — he admitted 'full responsibility' three days later. [Ali Khamenei](/people/ali-khamenei) awarded him the Order of Fath in October 2024 for the strikes on Israel.",
+  "irgc_member": true,
+  "expertise": [
+    "ballistic missiles",
+    "UAV warfare",
+    "aerospace command",
+    "nuclear delivery systems"
+  ],
+  "tags": [
+    "irgc",
+    "aerospace-force",
+    "missile-programme",
+    "killed-2025",
+    "ps752",
+    "sanctions"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 28 February 1962. Killed 13 June 2025 in Israeli airstrike. Admitted responsibility for PS752 downing. Awarded Order of Fath by Khamenei October 2024."
+}

@@ -4,7 +4,7 @@
   "name": "1988 Mass Executions of Political Prisoners",
   "date": "1988-07-01",
   "type": "purge",
-  "description": "In the summer of 1988, following the end of the [Iran-Iraq War](/events/iran-iraq-war), the Islamic Republic carried out the mass execution of thousands of political prisoners across Iran. The killings were ordered by a fatwa from [Ruhollah Khomeini](/people/ruhollah-khomeini) and carried out by 'Death Commissions' (committees of three or four officials) in prisons throughout the country. Estimates of those killed range from 2,800 to 30,000. [Ebrahim Raisi](/people/ebrahim-raisi) is alleged to have served on the Tehran Death Commission. The executions targeted primarily members of the [Mojahedin-e Khalq](/orgs/mojahedin-e-khalq) and leftist groups.",
+  "description": "In late July 1988, [Ruhollah Khomeini](/people/ruhollah-khomeini) issued a secret fatwa ordering the execution of political prisoners across Iran who remained loyal to the Mojahedin-e Khalq (MEK/PMOI) or refused to renounce their political beliefs. Three-person 'Death Commissions' were established in prisons throughout Iran, each comprising a Sharia judge, a prosecutor, and an intelligence representative. In Tehran, the commission — chaired by [Hossein-Ali Nayyeri](/people/hossein-ali-nayyeri), with [Morteza Eshraqi](/people/morteza-eshraqi) as prosecutor, [Ebrahim Raisi](/people/ebrahim-raisi) as deputy prosecutor, and [Mostafa Pourmohammadi](/people/mostafa-pourmohammadi) as Intelligence Ministry representative — processed prisoners in minutes. Estimated deaths range from 2,800 to 5,000 (UN, HRW, Amnesty) or higher. The victims were buried in secret mass graves. Ayatollah Montazeri, then designated successor to Khomeini, protested and was subsequently dismissed as heir. In 2016 his family released an audio recording of his 15 August 1988 meeting with Death Committee members in which he said: 'The greatest crime committed during the reign of the Islamic Republic... has been committed by you.' The UN Special Rapporteur on Iran concluded in a 2024 report that the executions constituted crimes against humanity and genocide. None of the perpetrators has faced legal accountability.",
   "body": null,
   "sources": [
     {
@@ -12,13 +12,24 @@
       "title": "1988 executions of Iranian political prisoners",
       "date": "2024-01-01",
       "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.hrw.org/news/2022/06/08/irans-1988-mass-executions",
+      "title": "Iran's 1988 Mass Executions",
+      "date": "2022-06-08",
+      "publisher": "Human Rights Watch"
     }
   ],
   "tags": [
     "human-rights",
     "executions",
     "1988",
-    "political-prisoners"
+    "political-prisoners",
+    "1988-massacre",
+    "purge",
+    "crimes-against-humanity",
+    "death-committee",
+    "impunity"
   ],
-  "editorial_notes": "One of the most significant human rights atrocities of the Islamic Republic."
+  "editorial_notes": "Fatwa estimated issued 28 July 1988. Executions ran through approximately November 1988. Montazeri audio published August 2016. UN 2024 report: classified as crimes against humanity and genocide."
 }

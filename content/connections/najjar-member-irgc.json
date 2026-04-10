@@ -1,0 +1,21 @@
+{
+  "entity_id": "najjar-member-irgc",
+  "from_entity": "mostafa-mohammad-najjar",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mostafa_Mohammad-Najjar",
+      "source_title": "Mostafa Mohammad-Najjar",
+      "source_date": "2024-01-01",
+      "description": "Mohammad-Najjar joined the IRGC in 1979."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

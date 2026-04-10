@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-akbar-salehi-named-in-hassan-rouhani",
+  "from_entity": "ali-akbar-salehi",
+  "to_entity": "hassan-rouhani",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Referenced in person description"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

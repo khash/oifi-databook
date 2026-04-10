@@ -1,0 +1,21 @@
+{
+  "entity_id": "reyshahri-named-1988",
+  "from_entity": "mohammad-reyshahri",
+  "to_entity": "mass-executions-1988",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1988-07",
+  "date_to": "1988-11",
+  "evidence": [
+    {
+      "source_url": "https://www.iranrights.org/library/document/1380",
+      "source_title": "The Massacre of Political Prisoners in Iran, 1988",
+      "source_date": "2010-01-01",
+      "description": "Reyshahri as Minister of Intelligence must have played a role appointing ministry representatives on Death Committees."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Confidence confirmed: as Intelligence Minister he appointed provincial intelligence representatives to Death Commissions. His autobiography does not mention the events."
+}

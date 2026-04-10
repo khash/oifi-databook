@@ -1,0 +1,21 @@
+{
+  "entity_id": "ahmadinejad-appointed-vahidi-defense",
+  "from_entity": "mahmoud-ahmadinejad",
+  "to_entity": "ahmad-vahidi",
+  "type": "appointed",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ahmad_Vahidi",
+      "source_title": "Ahmad Vahidi",
+      "source_date": "2024-01-01",
+      "description": "Ahmadinejad appointed Vahidi as Defense Minister in 2009."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

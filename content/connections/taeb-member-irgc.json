@@ -1,0 +1,21 @@
+{
+  "entity_id": "taeb-member-irgc",
+  "from_entity": "hossein-taeb",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1982",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hossein_Taeb",
+      "source_title": "Hossein Taeb",
+      "source_date": "2022-06-23",
+      "description": "Taeb joined the IRGC in 1982 and built a career across IRGC and MOIS intelligence roles."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

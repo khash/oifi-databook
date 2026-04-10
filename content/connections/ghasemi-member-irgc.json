@@ -1,0 +1,21 @@
+{
+  "entity_id": "ghasemi-member-irgc",
+  "from_entity": "rostam-ghasemi",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Rostam_Ghasemi",
+      "source_title": "Rostam Ghasemi",
+      "source_date": "2024-01-01",
+      "description": "Ghasemi is an IRGC brigadier general."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

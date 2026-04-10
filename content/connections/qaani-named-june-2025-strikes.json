@@ -1,0 +1,21 @@
+{
+  "entity_id": "qaani-named-june-2025-strikes",
+  "from_entity": "esmail-qaani",
+  "to_entity": "israeli-strikes-iran-june-2025",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2025-06-13",
+  "date_to": "2025-06-13",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Islamic_Revolutionary_Guard_Corps",
+      "source_title": "IRGC",
+      "source_date": "2025-06-13",
+      "description": "Esmail Qaani, Quds Force commander, was killed in the Israeli strikes of 13 June 2025."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

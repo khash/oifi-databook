@@ -1,0 +1,27 @@
+{
+  "entity_id": "israeli-strikes-iran-june-2025",
+  "slug": "israeli-strikes-iran-june-2025",
+  "name": "Israeli Strikes on Iran — Operation Rising Lion (June 2025)",
+  "date": "2025-06-13",
+  "type": "purge",
+  "description": "On 13 June 2025, Israel launched large-scale airstrikes on Iran targeting military command centres, nuclear infrastructure, and senior IRGC leadership — an operation Israel called 'Operation Rising Lion'. The strikes, described as pre-emptive, killed approximately 30 IRGC generals in the opening attack, including [Hossein Salami](/people/hossein-salami) (IRGC Commander-in-Chief), [Amir Ali Hajizadeh](/people/amir-ali-hajizadeh) (Aerospace Force commander), [Esmail Qaani](/people/esmail-qaani) (Quds Force commander), and Mohammad Bagheri (Chief of Staff of the Armed Forces). US airstrikes simultaneously damaged nuclear facilities at Natanz, Isfahan, and Fordow. The strikes initiated what became known as the 'Twelve-Day War'. [Ali Khamenei](/people/ali-khamenei) was killed in a subsequent strike on 28 February 2026, triggering the [succession crisis](/events/mojtaba-khamenei-supreme-leader-2026) that resulted in [Mojtaba Khamenei](/people/mojtaba-khamenei) becoming Supreme Leader.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Islamic_Revolutionary_Guard_Corps",
+      "title": "Islamic Revolutionary Guard Corps",
+      "date": "2025-06-13",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": [
+    "israel",
+    "military-strikes",
+    "irgc",
+    "nuclear",
+    "2025",
+    "twelve-day-war",
+    "operation-rising-lion"
+  ],
+  "editorial_notes": "13 June 2025. Combined Israeli and US strikes. Killed approximately 30 IRGC generals including Salami, Hajizadeh, Qaani, Bagheri. Damaged Natanz, Isfahan, Fordow nuclear facilities."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "rouhani-appointed-zarif",
+  "from_entity": "hassan-rouhani",
+  "to_entity": "javad-zarif",
+  "type": "appointed",
+  "confidence": "confirmed",
+  "date_from": "2013",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Javad_Zarif",
+      "source_title": "Mohammad Javad Zarif",
+      "source_date": "2024-01-01",
+      "description": "Rouhani appointed Zarif as Foreign Minister in 2013."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

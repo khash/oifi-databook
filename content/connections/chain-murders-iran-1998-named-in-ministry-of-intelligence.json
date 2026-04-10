@@ -1,0 +1,21 @@
+{
+  "entity_id": "chain-murders-iran-1998-named-in-ministry-of-intelligence",
+  "from_entity": "chain-murders-iran-1998",
+  "to_entity": "ministry-of-intelligence",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Referenced in entity description"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

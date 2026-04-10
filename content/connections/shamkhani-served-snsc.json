@@ -1,0 +1,21 @@
+{
+  "entity_id": "shamkhani-served-snsc",
+  "from_entity": "ali-shamkhani",
+  "to_entity": "supreme-national-security-council",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "2013",
+  "date_to": "2023",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Shamkhani",
+      "source_title": "Ali Shamkhani",
+      "source_date": "2024-01-01",
+      "description": "Shamkhani served as SNSC Secretary under Rouhani and Raisi 2013–2023."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Replaced by Ali Akbar Ahmadian in 2023."
+}

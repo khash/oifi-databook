@@ -1,0 +1,31 @@
+{
+  "entity_id": "mohsen-fakhrizadeh",
+  "slug": "mohsen-fakhrizadeh",
+  "name_en": "Mohsen Fakhrizadeh",
+  "name_fa": "محسن فخری‌زاده",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Fakhrizadeh-Mahabadi"
+  ],
+  "born": 1958,
+  "birthplace": "Qom",
+  "role": "Head, IRGC Amad Project (nuclear weapons programme); IRGC Brigadier General; assassinated 2020",
+  "faction": "hardliner",
+  "bio": "Mohsen Fakhrizadeh was Iran's foremost nuclear weapons scientist and the head of the Amad Project — the Islamic Republic's clandestine nuclear weapons research programme, which the IAEA documented as pursuing warhead miniaturisation, implosion tests, and delivery system integration. He held the rank of Brigadier General in the [IRGC](/orgs/islamic-revolutionary-guard-corps) and served simultaneously as Deputy Defence Minister for Research and Innovation. The IAEA identified him as the scientist 'orchestrating' Iran's military nuclear work in classified annex documents leaked in 2011. He was the target of [Amir Ali Hajizadeh](/people/amir-ali-hajizadeh)'s aerospace programme's delivery systems. He was assassinated on 27 November 2020 near Absard, east of Tehran, in a sophisticated remote-controlled ambush widely attributed to Israeli intelligence. His killing triggered calls in the Iranian Majlis to accelerate uranium enrichment and contributed to further JCPOA collapse. [Ali Akbar Salehi](/people/ali-akbar-salehi), then head of the [Atomic Energy Organisation of Iran](/orgs/atomic-energy-organisation-of-iran), described him as the 'shahid of science'.",
+  "irgc_member": true,
+  "expertise": [
+    "nuclear physics",
+    "nuclear weapons research",
+    "enrichment",
+    "defence R&D"
+  ],
+  "tags": [
+    "nuclear",
+    "amad-project",
+    "assassination",
+    "irgc",
+    "mossad"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 1958 in Qom. IRGC Brigadier General. Head of Amad Project. Assassinated 27 November 2020. Killing widely attributed to Mossad."
+}

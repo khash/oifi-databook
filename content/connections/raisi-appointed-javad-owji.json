@@ -1,0 +1,21 @@
+{
+  "entity_id": "raisi-appointed-javad-owji",
+  "from_entity": "ebrahim-raisi",
+  "to_entity": "javad-owji",
+  "type": "appointed",
+  "confidence": "confirmed",
+  "date_from": "2021",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/",
+      "source_title": "Presidency of Ebrahim Raisi",
+      "source_date": "2024-01-01",
+      "description": "Raisi appointed javad-owji."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

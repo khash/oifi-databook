@@ -1,0 +1,21 @@
+{
+  "entity_id": "taeb-named-chain-murders",
+  "from_entity": "hossein-taeb",
+  "to_entity": "chain-murders-iran-1998",
+  "type": "named-in",
+  "confidence": "alleged",
+  "date_from": "1998-11",
+  "date_to": "1999-01",
+  "evidence": [
+    {
+      "source_url": "https://www.ncr-iran.org/en/news/anews/who-is-who/who-is-hossein-taeb-recently-booted-from-irans-irgc-intelligence-unit/",
+      "source_title": "Who Is Hossein Taeb",
+      "source_date": "2022-06-30",
+      "description": "Taeb is reported to have played a role in the 1990s chain murders through his MOIS counter-intelligence position."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Confidence 'alleged' — sourced from NCRI."
+}

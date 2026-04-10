@@ -1,0 +1,30 @@
+{
+  "entity_id": "ali-akbar-velayati",
+  "slug": "ali-akbar-velayati",
+  "name_en": "Ali Akbar Velayati",
+  "name_fa": "علی‌اکبر ولایتی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Velayati"
+  ],
+  "born": 1945,
+  "birthplace": "Tehran",
+  "role": "Foreign Policy Adviser to the Supreme Leader (1997–present); former Foreign Minister (1981–1997)",
+  "faction": "conservative",
+  "bio": "Ali Akbar Velayati is a physician-turned-diplomat who served as Iran's Foreign Minister for over fifteen years — the longest tenure in the Islamic Republic's history — spanning the prime ministership of [Mir-Hossein Mousavi](/people/mir-hossein-mousavi), the presidency of [Ali Khamenei](/people/ali-khamenei), and two terms of [Akbar Hashemi Rafsanjani](/people/akbar-hashemi-rafsanjani). Since 1997 he has been [Ali Khamenei](/people/ali-khamenei)'s personal adviser on international affairs, making him arguably more influential than many sitting foreign ministers. An Argentine court issued an international arrest warrant against him in 2006 for his alleged role in planning the 1994 AMIA bombing in Buenos Aires that killed 85 people, and the US Treasury sanctioned him in 2019. He is a member of the [Expediency Discernment Council](/orgs/expediency-discernment-council) and head of the board of the Islamic Azad University.",
+  "irgc_member": false,
+  "expertise": [
+    "diplomacy",
+    "foreign policy",
+    "pediatric medicine"
+  ],
+  "tags": [
+    "foreign-minister",
+    "sanctions",
+    "amia-bombing",
+    "khamenei-adviser",
+    "expediency-council"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 24 June 1945 in Tehran. FM 1 December 1981 – 20 August 1997 under Mousavi PM, Khamenei presidency, and Rafsanjani. AMIA arrest warrant issued 2006, Interpol red notice 2007, US sanctions 2019."
+}

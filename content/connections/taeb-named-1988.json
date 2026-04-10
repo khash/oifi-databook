@@ -1,0 +1,21 @@
+{
+  "entity_id": "taeb-named-1988",
+  "from_entity": "hossein-taeb",
+  "to_entity": "mass-executions-1988",
+  "type": "named-in",
+  "confidence": "alleged",
+  "date_from": "1988-07",
+  "date_to": "1988-11",
+  "evidence": [
+    {
+      "source_url": "https://www.ncr-iran.org/en/news/anews/who-is-who/who-is-hossein-taeb-recently-booted-from-irans-irgc-intelligence-unit/",
+      "source_title": "Who Is Hossein Taeb",
+      "source_date": "2022-06-30",
+      "description": "NCRI reports that Taeb participated in mass killings of 1988 as an IRGC member."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Confidence 'alleged' — sourced from NCRI, which has an opposition perspective. Taeb was an IRGC member in 1988 but his specific role in the Tehran Death Committee is not independently corroborated."
+}

@@ -1,0 +1,19 @@
+{
+  "entity_id": "ministry-of-defense",
+  "slug": "ministry-of-defense",
+  "name_en": "Ministry of Defense and Armed Forces Logistics",
+  "name_fa": "وزارت دفاع و پشتیبانی نیروهای مسلح",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 1979,
+  "dissolved": null,
+  "parent_org": "office-of-the-president",
+  "description": "Iran's Defense Ministry (Vezarat-e Defa va Poshtibani-ye Niruhaye Mosallah) manages defense procurement, arms production, and logistics for Iran's armed forces. It does not command operational forces; that function resides with the General Staff and IRGC command. Key ministers: [Ali Shamkhani](/people/ali-shamkhani) (1997–2005), [Mostafa Mohammad-Najjar](/people/mostafa-mohammad-najjar) (2005–2009), [Ahmad Vahidi](/people/ahmad-vahidi) (2009–2013), [Hossein Dehghan](/people/hossein-dehghan) (2013–2017), Amir Hatami (2017–2021), [Mohammad Reza Ashtiani](/people/mohammad-reza-ashtiani) (2021–2024), [Aziz Nasirzadeh](/people/aziz-nasirzadeh) (2024–present).",
+  "faction": null,
+  "tags": [
+    "state-institution",
+    "defense",
+    "military"
+  ],
+  "editorial_notes": "Supreme Leader has direct approval over Defense Minister appointment. The ministry merged with the IRGC general staff in 1989 under Rafsanjani."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "rostam_ghasemi_served_petroleum_ah",
+  "from_entity": "rostam-ghasemi",
+  "to_entity": "ministry-of-petroleum",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2011",
+  "date_to": "2013",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/",
+      "source_title": "Mahmoud Ahmadinejad",
+      "source_date": "2024-01-01",
+      "description": "rostam-ghasemi served under Ahmadinejad."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

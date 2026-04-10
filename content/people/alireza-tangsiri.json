@@ -1,0 +1,31 @@
+{
+  "entity_id": "alireza-tangsiri",
+  "slug": "alireza-tangsiri",
+  "name_en": "Alireza Tangsiri",
+  "name_fa": "علیرضا تنگسیری",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Tangsiri"
+  ],
+  "born": 1962,
+  "birthplace": "Arvandkenar, Bushehr Province",
+  "role": "Former Commander, IRGC Navy (2018–2026); killed in Israeli airstrike March 2026",
+  "faction": "hardliner",
+  "bio": "Alireza Tangsiri commanded the IRGC Navy from August 2018, personally appointed by [Ali Khamenei](/people/ali-khamenei) to replace [Ali Fadavi](/people/ali-fadavi). Born in a Persian Gulf fishing community, he built the IRGC Navy's 'swarm tactics' doctrine — coordinated attacks by hundreds of fast-attack craft and missiles designed to overwhelm US carrier groups. He was the public face of Iran's de facto blockade of the Strait of Hormuz during the 2026 Iran war. He was killed on 26 March 2026 in an Israeli airstrike at the port of Bandar Abbas, alongside other senior IRGC Navy commanders. The US Treasury had designated him a Specially Designated Global Terrorist in 2019.",
+  "irgc_member": true,
+  "expertise": [
+    "naval strategy",
+    "asymmetric warfare",
+    "Strait of Hormuz",
+    "fast-attack doctrine"
+  ],
+  "tags": [
+    "irgc",
+    "irgc-navy",
+    "strait-of-hormuz",
+    "killed-2026",
+    "sanctions"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 1962. Appointed IRGC Navy commander August 2018. US-designated Global Terrorist June 2019. Killed 26 March 2026 in Israeli airstrike at Bandar Abbas."
+}

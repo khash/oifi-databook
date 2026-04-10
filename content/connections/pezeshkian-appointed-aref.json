@@ -1,0 +1,21 @@
+{
+  "entity_id": "pezeshkian-appointed-aref",
+  "from_entity": "masoud-pezeshkian",
+  "to_entity": "mohammad-reza-aref",
+  "type": "appointed",
+  "confidence": "confirmed",
+  "date_from": "2024",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad-Reza_Aref",
+      "source_title": "Mohammad-Reza Aref",
+      "source_date": "2024-01-01",
+      "description": "Pezeshkian named Aref as his First Vice President."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

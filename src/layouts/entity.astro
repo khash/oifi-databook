@@ -47,7 +47,7 @@ const combinedJsonLd = jsonLd ? [jsonLd, breadcrumbLd] : [breadcrumbLd]
       <div>
         <slot />
       </div>
-      <aside class="hidden lg:block overflow-hidden">
+      <aside class="overflow-hidden">
         <div class="lg:sticky lg:top-16 space-y-6">
           <slot name="sidebar" />
         </div>
@@ -55,12 +55,6 @@ const combinedJsonLd = jsonLd ? [jsonLd, breadcrumbLd] : [breadcrumbLd]
     </div>
   ) : (
     <slot />
-  )}
-
-  {Astro.slots.has("bottom") && (
-    <div class="mt-10">
-      <slot name="bottom" />
-    </div>
   )}
 
   <ThemeToggle client:load slot="header-actions" />

@@ -1,0 +1,32 @@
+{
+  "entity_id": "ali-akbar-salehi",
+  "slug": "ali-akbar-salehi",
+  "name_en": "Ali Akbar Salehi",
+  "name_fa": "علی‌اکبر صالحی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Salehi"
+  ],
+  "born": 1949,
+  "birthplace": "Karbala, Iraq",
+  "role": "Former Minister of Foreign Affairs (2010–2013); former head of Atomic Energy Organisation (2009–2013, 2015–2021)",
+  "faction": "pragmatist",
+  "bio": "Ali Akbar Salehi is a nuclear physicist and diplomat who served as [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad)'s Foreign Minister (2010–2013) after [Manouchehr Mottaki](/people/manouchehr-mottaki) was abruptly dismissed. He simultaneously headed the Atomic Energy Organisation of Iran (AEOI). He led Iran's nuclear delegation in early negotiations with world powers. He was Iran's ambassador to the International Atomic Energy Agency (IAEA) 2006–2009. Under [Hassan Rouhani](/people/hassan-rouhani) he returned as AEOI head (2015–2021), overseeing the nuclear programme through the JCPOA period and its collapse. He is sanctioned by the US.",
+  "irgc_member": false,
+  "expertise": [
+    "nuclear physics",
+    "nuclear diplomacy",
+    "international law",
+    "IAEA relations"
+  ],
+  "tags": [
+    "foreign-minister",
+    "aeoi-head",
+    "nuclear-negotiations",
+    "ahmadinejad-cabinet",
+    "rouhani-era",
+    "sanctions"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 1949 in Karbala. PhD in nuclear engineering from MIT. IAEA ambassador 2006–09. FM 2010–2013. AEOI head 2009–13 and 2015–2021."
+}

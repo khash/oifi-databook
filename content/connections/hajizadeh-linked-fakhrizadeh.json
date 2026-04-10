@@ -1,0 +1,21 @@
+{
+  "entity_id": "hajizadeh-linked-fakhrizadeh",
+  "from_entity": "amir-ali-hajizadeh",
+  "to_entity": "fakhrizadeh-assassination-2020",
+  "type": "named-in",
+  "confidence": "alleged",
+  "date_from": "2020-11-27",
+  "date_to": "2020-11-27",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohsen_Fakhrizadeh",
+      "source_title": "Mohsen Fakhrizadeh",
+      "source_date": "2020-11-27",
+      "description": "Fakhrizadeh's assassination was part of a series of Israeli strikes on Iran's nuclear and military programmes that ultimately culminated in strikes that killed Hajizadeh in 2025."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Connection is contextual — both figures were targets of the same Israeli campaign."
+}

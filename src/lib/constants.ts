@@ -9,7 +9,6 @@ export const SPECTRUM_FACTIONS = [
 ] as const;
 
 export const INSTITUTIONAL_FACTIONS = [
-  "military-irgc",
   "technocrat",
   "clerical",
 ] as const;

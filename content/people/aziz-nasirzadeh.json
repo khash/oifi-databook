@@ -1,0 +1,27 @@
+{
+  "entity_id": "aziz-nasirzadeh",
+  "slug": "aziz-nasirzadeh",
+  "name_en": "Aziz Nasirzadeh",
+  "name_fa": "عزیز نصیرزاده",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1963,
+  "birthplace": "Iran",
+  "role": "Minister of Defense (2024–present)",
+  "faction": "conservative",
+  "bio": "Aziz Nasirzadeh is Iran's Minister of Defense under [Masoud Pezeshkian](/people/masoud-pezeshkian), appointed in August 2024. A senior air force commander, he previously served as commander of the Iranian Air Force and as deputy chief of staff of the armed forces. His appointment to the defense portfolio followed the tenure of [Mohammad Reza Ashtiani](/people/mohammad-reza-ashtiani) under [Ebrahim Raisi](/people/ebrahim-raisi).",
+  "irgc_member": false,
+  "expertise": [
+    "air force command",
+    "military aviation",
+    "defense logistics"
+  ],
+  "tags": [
+    "defense-minister",
+    "pezeshkian-cabinet",
+    "regular-army",
+    "air-force"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 1963. Former Commander of the Iranian Air Force. Not IRGC — Artesh (regular army) officer."
+}

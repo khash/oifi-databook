@@ -1,0 +1,21 @@
+{
+  "entity_id": "zarif-served-mfa-rouhani",
+  "from_entity": "javad-zarif",
+  "to_entity": "ministry-of-foreign-affairs",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2013",
+  "date_to": "2021",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Javad_Zarif",
+      "source_title": "Mohammad Javad Zarif",
+      "source_date": "2024-01-01",
+      "description": "Zarif served as Foreign Minister under Rouhani for both terms 2013–2021."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Resigned briefly during Ahmadinejad-era leaked audio crisis but was persuaded to stay."
+}

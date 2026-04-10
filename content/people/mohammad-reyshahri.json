@@ -1,0 +1,31 @@
+{
+  "entity_id": "mohammad-reyshahri",
+  "slug": "mohammad-reyshahri",
+  "name_en": "Mohammad Reyshahri",
+  "name_fa": "محمد ری‌شهری",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Rey-Shahri",
+    "Mohammadi Rey Shahri"
+  ],
+  "born": 1946,
+  "birthplace": "Rey, Tehran Province",
+  "role": "Former Minister of Intelligence (1984–1989); head of Hajj and Pilgrimage Organisation",
+  "faction": "hardliner",
+  "bio": "Mohammad Reyshahri was Iran's first dedicated Minister of Intelligence, serving under Prime Minister [Mir-Hossein Mousavi](/people/mir-hossein-mousavi) and President [Ali Khamenei](/people/ali-khamenei) from 1984 to 1989. He established the Ministry of Intelligence (MOIS) as an institutional entity and presided over it during the 1988 mass executions of political prisoners — the bloodiest period of internal repression in the Islamic Republic's history. He later headed the Hajj and Pilgrimage Organisation. He ran for president in 1997 but received less than 0.5% of the vote. He is regarded as a founding architect of Iran's security state.",
+  "irgc_member": false,
+  "expertise": [
+    "intelligence",
+    "internal security",
+    "Islamic jurisprudence"
+  ],
+  "tags": [
+    "intelligence-minister",
+    "1988-massacre",
+    "founding-republic",
+    "khamenei-presidency",
+    "hardliner"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 1946 in Rey. Established MOIS as minister 1984–1989. Oversaw ministry during 1988 political prisoner massacre. Ran in 1997 presidential election, received minimal votes."
+}

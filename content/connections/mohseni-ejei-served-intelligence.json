@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohseni-ejei-served-intelligence",
+  "from_entity": "gholam-hossein-mohseni-ejei",
+  "to_entity": "ministry-of-intelligence",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2005",
+  "date_to": "2009",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Gholam-Hossein_Mohseni-Ejei",
+      "source_title": "Gholam-Hossein Mohseni-Ejei",
+      "source_date": "2024-01-01",
+      "description": "Mohseni-Ejei served as Intelligence Minister under Ahmadinejad 2005–2009 before being fired."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Fired by Ahmadinejad in 2009 in the Mashaei affair."
+}

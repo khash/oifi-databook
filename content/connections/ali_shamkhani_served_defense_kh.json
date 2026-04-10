@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali_shamkhani_served_defense_kh",
+  "from_entity": "ali-shamkhani",
+  "to_entity": "ministry-of-defense",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1997",
+  "date_to": "2005",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/",
+      "source_title": "Mohammad Khatami",
+      "source_date": "2024-01-01",
+      "description": "ali-shamkhani served under Khatami."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

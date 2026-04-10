@@ -1,0 +1,21 @@
+{
+  "entity_id": "nayyeri-named-1988",
+  "from_entity": "hossein-ali-nayyeri",
+  "to_entity": "mass-executions-1988",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1988-07",
+  "date_to": "1988-11",
+  "evidence": [
+    {
+      "source_url": "https://www.hrw.org/news/2022/06/08/irans-1988-mass-executions",
+      "source_title": "Iran's 1988 Mass Executions",
+      "source_date": "2022-06-08",
+      "description": "Nayyeri is explicitly named in Khomeini's fatwa as the Sharia judge responsible for the Tehran Death Committee."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Told Montazeri 750 already executed in Tehran as of 15 August 1988."
+}

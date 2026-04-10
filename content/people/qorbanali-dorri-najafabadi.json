@@ -1,0 +1,30 @@
+{
+  "entity_id": "qorbanali-dorri-najafabadi",
+  "slug": "qorbanali-dorri-najafabadi",
+  "name_en": "Qorbanali Dorri-Najafabadi",
+  "name_fa": "قربانعلی درّی نجف‌آبادی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Dorri Najafabadi"
+  ],
+  "born": 1947,
+  "birthplace": "Najafabad, Isfahan Province",
+  "role": "Former Minister of Intelligence (1997–1999); former Prosecutor General",
+  "faction": "hardliner",
+  "bio": "Qorbanali Dorri-Najafabadi was [Mohammad Khatami](/people/mohammad-khatami)'s first Intelligence Minister, appointed in 1997 as a compromise candidate after hardliners blocked Khatami's preferred choice. His tenure coincided with the 1998 'chain murders' — the serial killing of reformist intellectuals, writers, and political activists by rogue elements of the [Ministry of Intelligence](/orgs/ministry-of-intelligence). When evidence implicated the ministry itself, Dorri-Najafabadi resigned in 1999. He later served as Iran's Prosecutor General (2008–2009) and as a member of the [Assembly of Experts](/orgs/assembly-of-experts). He was a member of the [Guardian Council](/orgs/guardian-council) before his intelligence appointment.",
+  "irgc_member": false,
+  "expertise": [
+    "intelligence",
+    "judiciary",
+    "Islamic jurisprudence"
+  ],
+  "tags": [
+    "intelligence-minister",
+    "khatami-cabinet",
+    "chain-murders",
+    "hardliner",
+    "assembly-of-experts"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 1947. Prior to Intelligence Ministry was an MP and member of the Guardian Council. Resigned as Intelligence Minister 1999 following chain murders scandal."
+}

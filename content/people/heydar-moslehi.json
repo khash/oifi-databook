@@ -1,0 +1,30 @@
+{
+  "entity_id": "heydar-moslehi",
+  "slug": "heydar-moslehi",
+  "name_en": "Heydar Moslehi",
+  "name_fa": "حیدر مصلحی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Heyder Moslehi",
+    "Moslehi"
+  ],
+  "born": 1956,
+  "birthplace": "Isfahan Province",
+  "role": "Former Minister of Intelligence (2009–2013)",
+  "faction": "hardliner",
+  "bio": "Heydar Moslehi served as Iran's Minister of Intelligence during [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad)'s second term (2009–2013). His appointment became the epicentre of the Ahmadinejad–Khamenei power struggle: Ahmadinejad attempted to dismiss Moslehi in 2011, but [Ali Khamenei](/people/ali-khamenei) publicly overruled the dismissal — prompting Ahmadinejad to boycott cabinet meetings for eleven days. This was the most visible public rupture in the Ahmadinejad–Khamenei relationship. A mid-ranking cleric, Moslehi had previously been head of the Organisation of Islamic Endowments and was an Ahmadinejad loyalist until the falling out.",
+  "irgc_member": false,
+  "expertise": [
+    "intelligence",
+    "Islamic endowments",
+    "clerical administration"
+  ],
+  "tags": [
+    "intelligence-minister",
+    "ahmadinejad-cabinet",
+    "khamenei-ahmadinejad-rift",
+    "hardliner"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 1956. Intelligence Minister 2009–2013. His dismissal by Ahmadinejad was overruled by Khamenei in 2011, triggering the biggest constitutional standoff of Ahmadinejad's presidency."
+}

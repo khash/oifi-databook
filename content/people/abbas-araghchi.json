@@ -1,0 +1,31 @@
+{
+  "entity_id": "abbas-araghchi",
+  "slug": "abbas-araghchi",
+  "name_en": "Abbas Araghchi",
+  "name_fa": "عباس عراقچی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Araqchi",
+    "Araghchi"
+  ],
+  "born": 1966,
+  "birthplace": "Isfahan",
+  "role": "Minister of Foreign Affairs (2024–present); lead nuclear negotiator",
+  "faction": "pragmatist",
+  "bio": "Abbas Araghchi is Iran's current Foreign Minister under [Masoud Pezeshkian](/people/masoud-pezeshkian). A career diplomat, he served as Deputy Foreign Minister for Legal and International Affairs and was Iran's lead technical nuclear negotiator during the JCPOA talks under [Mohammad Javad Zarif](/people/javad-zarif). He was one of the architects of the 2015 nuclear deal. After the deal's collapse he remained at the [Ministry of Foreign Affairs](/orgs/ministry-of-foreign-affairs) as a senior official. His appointment as FM under Pezeshkian was seen as a signal of continuity with the reformist-era foreign policy school. His early tenure has been shaped by the post-2026 succession crisis and Iran's recalibrated position under [Mojtaba Khamenei](/people/mojtaba-khamenei).",
+  "irgc_member": false,
+  "expertise": [
+    "nuclear negotiations",
+    "international law",
+    "multilateral diplomacy"
+  ],
+  "tags": [
+    "foreign-minister",
+    "pezeshkian-cabinet",
+    "jcpoa",
+    "nuclear-negotiations",
+    "pragmatist"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 1966 in Isfahan. Lead nuclear negotiator 2013–2021. Appointed FM August 2024 by Pezeshkian."
+}

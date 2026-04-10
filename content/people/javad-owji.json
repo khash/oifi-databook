@@ -1,0 +1,30 @@
+{
+  "entity_id": "javad-owji",
+  "slug": "javad-owji",
+  "name_en": "Javad Owji",
+  "name_fa": "جواد اوجی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Javad Owji",
+    "Owji"
+  ],
+  "born": 1961,
+  "birthplace": "Iran",
+  "role": "Former Minister of Petroleum (2021–2024)",
+  "faction": "hardliner",
+  "bio": "Javad Owji served as Iran's Minister of Petroleum under [Ebrahim Raisi](/people/ebrahim-raisi) from 2021 to 2024. A longtime executive in the oil and gas sector, he previously served as Deputy Oil Minister and managing director of the National Iranian Gas Company (NIGC). His appointment was influenced by First Vice President [Mohammad Mokhber](/people/mohammad-mokhber), given Owji's connections to Setad subsidiaries. He is sanctioned by the US Treasury. His predecessor [Bijan Namdar Zanganeh](/people/bijan-namdar-zanganeh) is regarded as one of Iran's most capable oil technocrats, a standard Owji found difficult to match. He was replaced by [Mohsen Paknejad](/people/mohsen-paknejad) under [Masoud Pezeshkian](/people/masoud-pezeshkian).",
+  "irgc_member": false,
+  "expertise": [
+    "petroleum engineering",
+    "gas industry",
+    "energy management"
+  ],
+  "tags": [
+    "oil-minister",
+    "raisi-cabinet",
+    "sanctions",
+    "setad-network"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 1961. Deputy Oil Minister under Ahmadinejad. Managing Director of NIGC. US sanctioned under EO 13876."
+}

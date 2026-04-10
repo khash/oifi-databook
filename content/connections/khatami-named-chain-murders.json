@@ -1,0 +1,21 @@
+{
+  "entity_id": "khatami-named-chain-murders",
+  "from_entity": "mohammad-khatami",
+  "to_entity": "chain-murders-iran-1998",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1998-11",
+  "date_to": "1999-01",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Chain_murders_of_Iran",
+      "source_title": "Chain murders of Iran",
+      "source_date": "2024-01-01",
+      "description": "The chain murders occurred under Khatami's presidency and severely damaged his reformist agenda."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Khatami replaced the implicated Dorri-Najafabadi with Ali Younessi as Intelligence Minister."
+}

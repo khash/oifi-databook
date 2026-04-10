@@ -1,0 +1,21 @@
+{
+  "entity_id": "fadavi-led-irgc-navy",
+  "from_entity": "ali-fadavi",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1983",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Fadavi",
+      "source_title": "Ali Fadavi",
+      "source_date": "2024-01-01",
+      "description": "Fadavi joined the IRGC in 1983 and commanded its Navy 2010–2018, then became Deputy CiC."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

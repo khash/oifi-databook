@@ -1,0 +1,27 @@
+{
+  "entity_id": "mahmoud-alavi",
+  "slug": "mahmoud-alavi",
+  "name_en": "Mahmoud Alavi",
+  "name_fa": "محمود علوی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1954,
+  "birthplace": "Iran",
+  "role": "Former Minister of Intelligence (2013–2021)",
+  "faction": "conservative",
+  "bio": "Mahmoud Alavi served as Iran's Minister of Intelligence for both terms of [Hassan Rouhani](/people/hassan-rouhani) (2013–2021). A cleric with a military background, he was previously head of the Political and Ideological Organisation of the Iranian Army — a post to which [Ali Khamenei](/people/ali-khamenei) had appointed him directly. He had also served as a deputy Defense Minister. As Intelligence Minister he navigated the tension between Rouhani's détente agenda and the hardline security establishment, and managed the period of the JCPOA negotiations and their aftermath.",
+  "irgc_member": false,
+  "expertise": [
+    "intelligence",
+    "military ideology",
+    "internal security"
+  ],
+  "tags": [
+    "intelligence-minister",
+    "rouhani-cabinet",
+    "conservative",
+    "khamenei-appointee"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 1954. Head of Army Political-Ideological Organisation before appointment. Intelligence Minister 2013–2021 under both Rouhani terms."
+}

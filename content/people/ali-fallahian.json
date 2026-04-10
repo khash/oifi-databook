@@ -1,0 +1,30 @@
+{
+  "entity_id": "ali-fallahian",
+  "slug": "ali-fallahian",
+  "name_en": "Ali Fallahian",
+  "name_fa": "علی فلاحیان",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Fallahiyan"
+  ],
+  "born": 1949,
+  "birthplace": "Najafabad, Isfahan Province",
+  "role": "Former Minister of Intelligence (1989–1997)",
+  "faction": "hardliner",
+  "bio": "Ali Fallahian served as Iran's Minister of Intelligence under [Akbar Hashemi Rafsanjani](/people/akbar-hashemi-rafsanjani) for the full eight years of his presidency (1989–1997). He is widely believed to have directed Iran's covert assassination programme against dissidents abroad during this period, including the 1992 Mykonos restaurant murders in Berlin — for which a German court in 1997 issued a warrant naming Fallahian — and the 1994 AMIA bombing in Buenos Aires. A second German arrest warrant was issued in 1996. He was replaced when [Mohammad Khatami](/people/mohammad-khatami) took office. He later served in the [Assembly of Experts](/orgs/assembly-of-experts) and has been subject to international sanctions by the EU and US.",
+  "irgc_member": false,
+  "expertise": [
+    "intelligence",
+    "covert operations",
+    "counterintelligence"
+  ],
+  "tags": [
+    "intelligence-minister",
+    "sanctions",
+    "mykonos-murders",
+    "amia-bombing",
+    "rafsanjani-era"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 1949 in Najafabad. Intelligence Minister 1989–1997. German arrest warrant 1997 for Mykonos murders. Argentine arrest warrant for AMIA bombing. EU and US sanctioned."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "mahmoud_alavi_served_intelligence_roh",
+  "from_entity": "mahmoud-alavi",
+  "to_entity": "ministry-of-intelligence",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2013",
+  "date_to": "2021",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/",
+      "source_title": "Hassan Rouhani",
+      "source_date": "2024-01-01",
+      "description": "mahmoud-alavi served under Rouhani."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

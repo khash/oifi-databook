@@ -1,0 +1,21 @@
+{
+  "entity_id": "eskandar-momeni-named-in-ahmad-vahidi",
+  "from_entity": "eskandar-momeni",
+  "to_entity": "ahmad-vahidi",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Referenced in person description"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

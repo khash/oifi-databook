@@ -1,0 +1,33 @@
+{
+  "entity_id": "ali-shamkhani",
+  "slug": "ali-shamkhani",
+  "name_en": "Ali Shamkhani",
+  "name_fa": "علی شمخانی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Shamkani",
+    "Chamkhani"
+  ],
+  "born": 1955,
+  "birthplace": "Ahvaz, Khuzestan Province",
+  "role": "Former SNSC Secretary (2013–2023); former Defense Minister (1997–2005)",
+  "faction": "pragmatist",
+  "bio": "Ali Shamkhani is an ethnic Arab from Khuzestan who rose through the [Islamic Revolutionary Guard Corps](/orgs/islamic-revolutionary-guard-corps) Navy to become one of Iran's most senior security officials. He commanded the IRGC Navy during the Iran–Iraq War and later served as combined IRGC/Regular Navy commander. [Mohammad Khatami](/people/mohammad-khatami) appointed him Defense Minister in 1997 — a moderate appointment widely seen as signalling detente — and he served for the full eight years. [Hassan Rouhani](/people/hassan-rouhani) appointed him Secretary of the [Supreme National Security Council](/orgs/supreme-national-security-council) in 2013, where he served until 2023. He brokered the 2023 China-mediated Iran–Saudi Arabia normalisation agreement. He was replaced as SNSC Secretary by Ali Akbar Ahmadian in 2023.",
+  "irgc_member": true,
+  "expertise": [
+    "military strategy",
+    "regional security",
+    "diplomacy",
+    "navy"
+  ],
+  "tags": [
+    "defense-minister",
+    "snsc-secretary",
+    "irgc",
+    "khatami-era",
+    "rouhani-era",
+    "iran-saudi-normalisation"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 1955 in Ahvaz. IRGC Navy commander. Defense Minister 1997–2005. SNSC Secretary 2013–2023. Brokered China-mediated Iran–Saudi normalisation in March 2023."
+}

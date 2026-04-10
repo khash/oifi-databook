@@ -1,0 +1,21 @@
+{
+  "entity_id": "salehi-named-jcpoa",
+  "from_entity": "ali-akbar-salehi",
+  "to_entity": "jcpoa-nuclear-deal-2015",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2015",
+  "date_to": "2015-07-14",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Iran_nuclear_deal",
+      "source_title": "Iran nuclear deal",
+      "source_date": "2015-07-14",
+      "description": "Salehi as AEOI head oversaw the technical implementation of JCPOA nuclear commitments."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

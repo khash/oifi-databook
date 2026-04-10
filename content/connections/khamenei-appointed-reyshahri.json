@@ -1,0 +1,21 @@
+{
+  "entity_id": "khamenei-appointed-reyshahri",
+  "from_entity": "ali-khamenei",
+  "to_entity": "mohammad-reyshahri",
+  "type": "appointed",
+  "confidence": "confirmed",
+  "date_from": "1985",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Mohammadi_Reyshahri",
+      "source_title": "Mohammad Reyshahri",
+      "source_date": "2024-01-01",
+      "description": "Khamenei retained Reyshahri as Intelligence Minister during his presidency 1981–1989."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

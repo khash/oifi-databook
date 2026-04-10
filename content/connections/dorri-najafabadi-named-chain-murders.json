@@ -1,0 +1,21 @@
+{
+  "entity_id": "dorri-najafabadi-named-chain-murders",
+  "from_entity": "qorbanali-dorri-najafabadi",
+  "to_entity": "chain-murders-iran-1998",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1998-11",
+  "date_to": "1999-01",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Chain_murders_of_Iran",
+      "source_title": "Chain murders of Iran",
+      "source_date": "2024-01-01",
+      "description": "Dorri-Najafabadi resigned as Intelligence Minister in 1999 after the chain murders were traced to his ministry."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Resigned 1999."
+}

@@ -1,0 +1,28 @@
+{
+  "entity_id": "ali-younessi",
+  "slug": "ali-younessi",
+  "name_en": "Ali Younessi",
+  "name_fa": "علی یونسی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Yunesi"
+  ],
+  "born": 1956,
+  "birthplace": "Malayer, Hamadan Province",
+  "role": "Former Minister of Intelligence (1999–2005)",
+  "faction": "reformist",
+  "bio": "Ali Younessi served as Iran's Minister of Intelligence for most of [Mohammad Khatami](/people/mohammad-khatami)'s presidency (1999–2005), replacing [Qorbanali Dorri-Najafabadi](/people/qorbanali-dorri-najafabadi) who resigned over the 1998 chain murders of dissidents. A cleric and jurist, Younessi was seen as a reformist appointment and took steps to investigate intelligence operations that had targeted journalists and intellectuals. He was later appointed as [Hassan Rouhani](/people/hassan-rouhani)'s special assistant for ethnic minorities and religious affairs (2014–2021). In 2020 he was arrested on charges of espionage but released.",
+  "irgc_member": false,
+  "expertise": [
+    "intelligence",
+    "Islamic jurisprudence",
+    "ethnic minority affairs"
+  ],
+  "tags": [
+    "intelligence-minister",
+    "khatami-cabinet",
+    "reformist"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 1956. Intelligence Minister 1999–2005. Special assistant to Rouhani 2014–2021. Arrested on espionage charges 2020, later released."
+}

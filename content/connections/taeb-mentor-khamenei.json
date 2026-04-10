@@ -1,0 +1,21 @@
+{
+  "entity_id": "taeb-mentor-khamenei",
+  "from_entity": "ali-khamenei",
+  "to_entity": "hossein-taeb",
+  "type": "mentor-of",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.unitedagainstnucleariran.com/blog/islamic-revolutionary-guard-corps-intelligence-organization-transition",
+      "source_title": "IRGC-IO in Transition",
+      "source_date": "2022-06-23",
+      "description": "Taeb received his clerical education partly from Khamenei and was described as a 'longtime favored disciple' of the Supreme Leader."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

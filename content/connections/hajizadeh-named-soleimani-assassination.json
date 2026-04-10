@@ -1,0 +1,21 @@
+{
+  "entity_id": "hajizadeh-named-soleimani-assassination",
+  "from_entity": "amir-ali-hajizadeh",
+  "to_entity": "soleimani-assassination-2020",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2020-01-08",
+  "date_to": "2020-01-08",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Amir_Ali_Hajizadeh",
+      "source_title": "Amir Ali Hajizadeh",
+      "source_date": "2025-06-13",
+      "description": "Hajizadeh directed the January 2020 missile strikes on US bases in Iraq in retaliation for Soleimani's assassination."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

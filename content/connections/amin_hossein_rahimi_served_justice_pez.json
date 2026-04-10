@@ -1,0 +1,21 @@
+{
+  "entity_id": "amin_hossein_rahimi_served_justice_pez",
+  "from_entity": "amin-hossein-rahimi",
+  "to_entity": "ministry-of-justice",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2024",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/",
+      "source_title": "Presidency of Masoud Pezeshkian",
+      "source_date": "2024-01-01",
+      "description": "amin-hossein-rahimi serves in ministry-of-justice under Pezeshkian."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Retained from Raisi cabinet."
+}

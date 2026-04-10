@@ -1,0 +1,21 @@
+{
+  "entity_id": "rouhani-appointed-zanganeh",
+  "from_entity": "hassan-rouhani",
+  "to_entity": "bijan-namdar-zanganeh",
+  "type": "appointed",
+  "confidence": "confirmed",
+  "date_from": "2013",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Bijan_Namdar_Zanganeh",
+      "source_title": "Bijan Namdar Zanganeh",
+      "source_date": "2024-01-01",
+      "description": "Rouhani reappointed Zanganeh as Oil Minister in 2013 and again for his second term in 2017."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Appointment was criticised by hardline newspaper Kayhan."
+}

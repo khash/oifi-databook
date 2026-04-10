@@ -1,0 +1,21 @@
+{
+  "entity_id": "salehi-led-aeoi",
+  "from_entity": "ali-akbar-salehi",
+  "to_entity": "supreme-national-security-council",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": "2021",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Akbar_Salehi",
+      "source_title": "Ali Akbar Salehi",
+      "source_date": "2024-01-01",
+      "description": "Salehi headed the Atomic Energy Organisation of Iran 2009–2013 and again 2015–2021."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "AEOI not yet in DB; using SNSC as proxy for nuclear-policy node."
+}

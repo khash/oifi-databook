@@ -1,0 +1,21 @@
+{
+  "entity_id": "khomeini-organized-1988",
+  "from_entity": "ruhollah-khomeini",
+  "to_entity": "mass-executions-1988",
+  "type": "organized",
+  "confidence": "confirmed",
+  "date_from": "1988-07-28",
+  "date_to": "1988",
+  "evidence": [
+    {
+      "source_url": "https://www.hrw.org/news/2022/06/08/irans-1988-mass-executions",
+      "source_title": "Iran's 1988 Mass Executions",
+      "source_date": "2022-06-08",
+      "description": "Khomeini issued the secret fatwa ordering the mass executions; the written fatwa was later published in Montazeri's memoirs."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

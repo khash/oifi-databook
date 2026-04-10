@@ -1,0 +1,21 @@
+{
+  "entity_id": "fadavi-reports-to-salami",
+  "from_entity": "ali-fadavi",
+  "to_entity": "hossein-salami",
+  "type": "reports-to",
+  "confidence": "confirmed",
+  "date_from": "2019",
+  "date_to": "2025",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Fadavi",
+      "source_title": "Ali Fadavi",
+      "source_date": "2024-01-01",
+      "description": "Fadavi served as IRGC Deputy Commander under Commander-in-Chief Hossein Salami from 2019."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

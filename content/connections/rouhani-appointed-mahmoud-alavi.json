@@ -1,0 +1,21 @@
+{
+  "entity_id": "rouhani-appointed-mahmoud-alavi",
+  "from_entity": "hassan-rouhani",
+  "to_entity": "mahmoud-alavi",
+  "type": "appointed",
+  "confidence": "confirmed",
+  "date_from": "2013",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/",
+      "source_title": "Hassan Rouhani",
+      "source_date": "2024-01-01",
+      "description": "Rouhani appointed mahmoud-alavi."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

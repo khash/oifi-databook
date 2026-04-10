@@ -1,0 +1,33 @@
+{
+  "entity_id": "mostafa-mohammad-najjar",
+  "slug": "mostafa-mohammad-najjar",
+  "name_en": "Mostafa Mohammad-Najjar",
+  "name_fa": "مصطفی محمدنجار",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Mohammad Najjar"
+  ],
+  "born": 1956,
+  "birthplace": "Tehran",
+  "role": "Former Minister of Defense (2005–2009); former Minister of Interior (2009–2013)",
+  "faction": "hardliner",
+  "bio": "Mostafa Mohammad-Najjar is an IRGC brigadier general who served as Defense Minister in [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad)'s first term (2005–2009) and then transferred to the Interior Ministry in the second term (2009–2013). As Defense Minister he presided over the rapid advancement of Iran's missile programme. As Interior Minister he supervised the disputed 2009 presidential election that triggered the [Green Movement protests](/events/green-movement-protests-2009). He is subject to US and EU sanctions.",
+  "irgc_member": true,
+  "expertise": [
+    "IRGC operations",
+    "defense procurement",
+    "interior security",
+    "election administration"
+  ],
+  "tags": [
+    "defense-minister",
+    "interior-minister",
+    "irgc",
+    "ahmadinejad-cabinet",
+    "2009-election",
+    "green-movement",
+    "sanctions"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 1956 in Tehran. IRGC since 1979. Defense Minister 2005–2009. Interior Minister 2009–2013. Oversaw controversial 2009 election as Interior Minister."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "amir-ali-hajizadeh-named-in-qasem-soleimani",
+  "from_entity": "amir-ali-hajizadeh",
+  "to_entity": "qasem-soleimani",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Referenced in entity description"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

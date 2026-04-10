@@ -1,0 +1,30 @@
+{
+  "entity_id": "amin-hossein-rahimi",
+  "slug": "amin-hossein-rahimi",
+  "name_en": "Amin Hossein Rahimi",
+  "name_fa": "امین‌حسین رحیمی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Rahimi"
+  ],
+  "born": 1967,
+  "birthplace": "Iran",
+  "role": "Minister of Justice (2021–present)",
+  "faction": "hardliner",
+  "bio": "Amin Hossein Rahimi has served as Iran's Minister of Justice since [Ebrahim Raisi](/people/ebrahim-raisi)'s cabinet in 2021, retained by [Masoud Pezeshkian](/people/masoud-pezeshkian) in 2024. He is a career jurist who began working in Iran's judiciary at age 18. He served as Chief of the General and Revolutionary Courts in Tehran and as Political and Security Deputy of the Prosecutor General before his ministerial appointment. He is regarded as a loyalist of [Ali Khamenei](/people/ali-khamenei) and a product of the hardliner judicial network associated with [Ebrahim Raisi](/people/ebrahim-raisi).",
+  "irgc_member": false,
+  "expertise": [
+    "Islamic jurisprudence",
+    "criminal law",
+    "revolutionary courts"
+  ],
+  "tags": [
+    "justice-minister",
+    "raisi-cabinet",
+    "pezeshkian-cabinet",
+    "judiciary",
+    "hardliner"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 1967. Career jurist. Justice Minister 2021–present, retained by Pezeshkian. Senior Advisor to Judiciary Chief before appointment."
+}

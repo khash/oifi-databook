@@ -1,0 +1,21 @@
+{
+  "entity_id": "mahsouli-served-interior",
+  "from_entity": "sadegh-mahsouli",
+  "to_entity": "ministry-of-interior",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2008",
+  "date_to": "2009",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Sadegh_Mahsouli",
+      "source_title": "Sadegh Mahsouli",
+      "source_date": "2024-01-01",
+      "description": "Mahsouli served as Interior Minister under Ahmadinejad 2008–2009."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Then transferred to Welfare Minister 2009–2010."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "ahmad_vahidi_served_interior_raisi",
+  "from_entity": "ahmad-vahidi",
+  "to_entity": "ministry-of-interior",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2021",
+  "date_to": "2024",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/",
+      "source_title": "Presidency of Ebrahim Raisi",
+      "source_date": "2024-01-01",
+      "description": "ahmad-vahidi served as minister under Raisi."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

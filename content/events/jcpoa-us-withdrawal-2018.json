@@ -1,0 +1,27 @@
+{
+  "entity_id": "jcpoa-us-withdrawal-2018",
+  "slug": "jcpoa-us-withdrawal-2018",
+  "name": "US Withdrawal from JCPOA",
+  "date": "2018-05-08",
+  "type": "policy",
+  "description": "On 8 May 2018, President Donald Trump announced US withdrawal from the JCPOA, reimposing all sanctions and adding new ones under a 'maximum pressure' campaign. The US re-designated Iran's oil, banking, shipping, and petrochemical sectors. The withdrawal triggered a cascade: European signatories (UK, France, Germany) attempted to sustain the deal through the Instex mechanism, but US secondary sanctions deterred European businesses from trading with Iran. Iran responded by gradually stepping down its JCPOA commitments from May 2019 onward, enriching uranium above the 3.67% cap, exceeding the stockpile limit, and eventually restricting IAEA inspector access. By January 2020, following [Qasem Soleimani](/people/qasem-soleimani)'s assassination, Iran announced it would no longer observe any JCPOA limits. The deal's collapse significantly accelerated Iran's uranium enrichment programme, which reached 60% purity by 2021 — a short technical step from the 90% weapons-grade level.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Iran_nuclear_deal",
+      "title": "Iran nuclear deal",
+      "date": "2018-05-08",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": [
+    "jcpoa",
+    "us-withdrawal",
+    "trump",
+    "maximum-pressure",
+    "nuclear",
+    "sanctions",
+    "2018"
+  ],
+  "editorial_notes": "Announced 8 May 2018. Iran began stepping back from JCPOA commitments May 2019. After Soleimani assassination, Iran declared full withdrawal from JCPOA limits January 2020."
+}

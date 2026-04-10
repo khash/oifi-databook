@@ -1,0 +1,21 @@
+{
+  "entity_id": "khamenei-appointed-tangsiri-navy",
+  "from_entity": "ali-khamenei",
+  "to_entity": "alireza-tangsiri",
+  "type": "appointed",
+  "confidence": "confirmed",
+  "date_from": "2018",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Alireza_Tangsiri",
+      "source_title": "Alireza Tangsiri",
+      "source_date": "2026-03-26",
+      "description": "Khamenei personally appointed Tangsiri as IRGC Navy commander in August 2018, replacing Fadavi."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

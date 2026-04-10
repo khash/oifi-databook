@@ -1,0 +1,19 @@
+{
+  "entity_id": "ministry-of-intelligence",
+  "slug": "ministry-of-intelligence",
+  "name_en": "Ministry of Intelligence",
+  "name_fa": "وزارت اطلاعات",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 1983,
+  "dissolved": null,
+  "parent_org": "office-of-the-president",
+  "description": "The Ministry of Intelligence (Vezarat-e Ettelaat, VAJA / formerly MOIS) is Iran's primary civilian intelligence service, established in 1983 from several post-revolution intelligence bodies. The Minister of Intelligence must be a qualified Islamic jurist (mojtahed). The Supreme Leader has historically exercised direct influence over this appointment. Ministers: Mohammad Reyshahri (1984–1989), [Ali Fallahian](/people/ali-fallahian) (1989–1997), [Qorbanali Dorri-Najafabadi](/people/qorbanali-dorri-najafabadi) (1997–1999), Ali Younessi (1999–2005), [Gholam-Hossein Mohseni-Ejei](/people/gholam-hossein-mohseni-ejei) (2005–2009), [Heydar Moslehi](/people/heydar-moslehi) (2009–2013), [Mahmoud Alavi](/people/mahmoud-alavi) (2013–2021), [Esmaeil Khatib](/people/esmaeil-khatib) (2021–present).",
+  "faction": null,
+  "tags": [
+    "state-institution",
+    "intelligence",
+    "security"
+  ],
+  "editorial_notes": "Minister must be a mojtahed (religious scholar) per Iranian law. Ahmadinejad's 2011 attempt to dismiss Heydar Moslehi over Mashaei affair triggered a constitutional crisis."
+}

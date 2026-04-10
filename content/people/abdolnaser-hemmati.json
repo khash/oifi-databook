@@ -1,0 +1,31 @@
+{
+  "entity_id": "abdolnaser-hemmati",
+  "slug": "abdolnaser-hemmati",
+  "name_en": "Abdolnaser Hemmati",
+  "name_fa": "عبدالناصر همتی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Hemmati"
+  ],
+  "born": 1957,
+  "birthplace": "Iran",
+  "role": "Former Finance Minister (2024, briefly); former Central Bank Governor (2018–2021)",
+  "faction": "pragmatist",
+  "bio": "Abdolnaser Hemmati is an economist who served as Governor of the Central Bank of Iran (2018–2021) and ran as a presidential candidate in the 2021 election. [Masoud Pezeshkian](/people/masoud-pezeshkian) appointed him Finance Minister in August 2024, but he resigned in March 2025. As Central Bank Governor he navigated the severe economic pressure of US sanctions after 2018. His 2021 presidential candidacy was approved by the [Guardian Council](/orgs/guardian-council), making him one of the more moderate candidates allowed to run.",
+  "irgc_member": false,
+  "expertise": [
+    "monetary policy",
+    "central banking",
+    "macroeconomics",
+    "sanctions management"
+  ],
+  "tags": [
+    "finance-minister",
+    "central-bank-governor",
+    "pragmatist",
+    "pezeshkian-cabinet",
+    "2021-presidential-candidate"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 1957. Central Bank Governor 2018–2021. Finance Minister August 2024 – March 2025 under Pezeshkian. Resigned March 2025."
+}

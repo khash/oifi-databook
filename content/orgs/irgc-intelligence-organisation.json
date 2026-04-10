@@ -1,0 +1,20 @@
+{
+  "entity_id": "irgc-intelligence-organisation",
+  "slug": "irgc-intelligence-organisation",
+  "name_en": "IRGC Intelligence Organisation",
+  "name_fa": "سازمان اطلاعات سپاه",
+  "has_native_fa_name": true,
+  "type": "military",
+  "founded": 2009,
+  "dissolved": null,
+  "parent_org": "islamic-revolutionary-guard-corps",
+  "description": "The IRGC Intelligence Organisation (Sazman-e Ettelaat-e Sepah, IRGC-IO) is a parallel intelligence service operating alongside the civilian [Ministry of Intelligence](/orgs/ministry-of-intelligence). Formally restructured in its current form in 2009 following the [Green Movement protests](/events/green-movement-protests-2009), it handles counter-intelligence within the IRGC, surveillance of political dissidents, arrests of dual nationals and foreign journalists, and covert operations abroad. It is distinct from the IRGC Quds Force's external operations wing but overlaps in function. It was headed by [Hossein Taeb](/people/hossein-taeb) from 2009 to 2022, then by General Mohammad Kazemi. The organisation has been sanctioned by the US, EU, and UK for its role in arresting and torturing activists during the 2009, 2019, and 2022 protest waves.",
+  "faction": "hardliner",
+  "tags": [
+    "irgc",
+    "intelligence",
+    "counter-intelligence",
+    "internal-security"
+  ],
+  "editorial_notes": "Restructured in current form 2009. Headed by Taeb 2009–2022, then Kazemi. Distinct from Ministry of Intelligence (MOIS/VAJA) which is civilian."
+}

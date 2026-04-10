@@ -1,0 +1,26 @@
+{
+  "entity_id": "fakhrizadeh-assassination-2020",
+  "slug": "fakhrizadeh-assassination-2020",
+  "name": "Assassination of Mohsen Fakhrizadeh",
+  "date": "2020-11-27",
+  "type": "death",
+  "description": "Mohsen Fakhrizadeh, head of the IRGC's clandestine Amad nuclear weapons research programme and deputy Defence Minister, was assassinated on 27 November 2020 near Absard, east of Tehran. A sophisticated remote-controlled ambush used a weapon mounted on a truck to target his vehicle. Iran and Western intelligence attributed the killing to Israeli intelligence (Mossad), though Israel did not officially claim responsibility. Fakhrizadeh had been identified by the IAEA as the central figure in Iran's military nuclear work. His death was the most high-profile in a series of targeted killings of Iranian nuclear scientists and defence officials attributed to Israel since 2010. The Majlis responded by passing legislation requiring the government to increase enrichment to 20% and restrict IAEA inspector access — accelerating the nuclear programme and hastening the JCPOA's collapse. [Ali Akbar Salehi](/people/ali-akbar-salehi) at the [Atomic Energy Organisation of Iran](/orgs/atomic-energy-organisation-of-iran) described him as the 'shahid of science'.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mohsen_Fakhrizadeh",
+      "title": "Mohsen Fakhrizadeh",
+      "date": "2020-11-27",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": [
+    "assassination",
+    "nuclear",
+    "amad-project",
+    "mossad",
+    "israel",
+    "2020"
+  ],
+  "editorial_notes": "27 November 2020. Remote-controlled weapon on truck. Attributed to Mossad. Majlis responded by accelerating enrichment. Part of a wider series of killings of Iranian nuclear scientists since 2010."
+}

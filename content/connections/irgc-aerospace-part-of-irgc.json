@@ -1,0 +1,21 @@
+{
+  "entity_id": "irgc-aerospace-part-of-irgc",
+  "from_entity": "irgc-aerospace-force",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "subsidiary-of",
+  "confidence": "confirmed",
+  "date_from": "1985",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/IRGC_Aerospace_Force",
+      "source_title": "IRGC Aerospace Force",
+      "source_date": "2024-01-01",
+      "description": "The Aerospace Force is a branch of the IRGC."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

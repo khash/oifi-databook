@@ -1,0 +1,21 @@
+{
+  "entity_id": "irgc-io-part-of-irgc",
+  "from_entity": "irgc-intelligence-organisation",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "subsidiary-of",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/IRGC_Intelligence_Organisation",
+      "source_title": "IRGC Intelligence Organisation",
+      "source_date": "2024-01-01",
+      "description": "The IRGC-IO is a branch of the IRGC."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

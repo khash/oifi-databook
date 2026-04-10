@@ -1,0 +1,21 @@
+{
+  "entity_id": "fallahian-served-intelligence-rafsanjani",
+  "from_entity": "ali-fallahian",
+  "to_entity": "ministry-of-intelligence",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1989",
+  "date_to": "1997",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Fallahian",
+      "source_title": "Ali Fallahian",
+      "source_date": "2024-01-01",
+      "description": "Fallahian served as Intelligence Minister under Rafsanjani for the full 8 years."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

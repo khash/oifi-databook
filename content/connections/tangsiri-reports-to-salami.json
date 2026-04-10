@@ -1,0 +1,21 @@
+{
+  "entity_id": "tangsiri-reports-to-salami",
+  "from_entity": "alireza-tangsiri",
+  "to_entity": "hossein-salami",
+  "type": "reports-to",
+  "confidence": "confirmed",
+  "date_from": "2019",
+  "date_to": "2026",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Alireza_Tangsiri",
+      "source_title": "Alireza Tangsiri",
+      "source_date": "2026-03-26",
+      "description": "Tangsiri commanded the IRGC Navy reporting to Commander-in-Chief Hossein Salami."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

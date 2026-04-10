@@ -1,0 +1,21 @@
+{
+  "entity_id": "khatami-appointed-ali-younessi",
+  "from_entity": "mohammad-khatami",
+  "to_entity": "ali-younessi",
+  "type": "appointed",
+  "confidence": "confirmed",
+  "date_from": "1999",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/",
+      "source_title": "Mohammad Khatami",
+      "source_date": "2024-01-01",
+      "description": "Khatami appointed ali-younessi."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

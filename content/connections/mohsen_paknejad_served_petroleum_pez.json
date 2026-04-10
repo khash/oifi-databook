@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohsen_paknejad_served_petroleum_pez",
+  "from_entity": "mohsen-paknejad",
+  "to_entity": "ministry-of-petroleum",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2024",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/",
+      "source_title": "Presidency of Masoud Pezeshkian",
+      "source_date": "2024-01-01",
+      "description": "mohsen-paknejad serves in ministry-of-petroleum under Pezeshkian."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

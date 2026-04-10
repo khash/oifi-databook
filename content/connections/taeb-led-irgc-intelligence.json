@@ -1,0 +1,21 @@
+{
+  "entity_id": "taeb-led-irgc-intelligence",
+  "from_entity": "hossein-taeb",
+  "to_entity": "irgc-intelligence-organisation",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": "2022",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hossein_Taeb",
+      "source_title": "Hossein Taeb",
+      "source_date": "2022-06-23",
+      "description": "Taeb headed the IRGC Intelligence Organisation from October 2009 to June 2022."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Dismissed June 2022 after series of Israeli intelligence successes inside Iran."
+}

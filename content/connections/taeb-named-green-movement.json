@@ -1,0 +1,21 @@
+{
+  "entity_id": "taeb-named-green-movement",
+  "from_entity": "hossein-taeb",
+  "to_entity": "green-movement-protests-2009",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": "2009",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hossein_Taeb",
+      "source_title": "Hossein Taeb",
+      "source_date": "2022-06-23",
+      "description": "Taeb became IRGC-IO chief in October 2009 in the aftermath of the Green Movement, playing a key role in suppressing and monitoring protest networks."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

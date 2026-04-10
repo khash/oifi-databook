@@ -1,0 +1,30 @@
+{
+  "entity_id": "morteza-eshraqi",
+  "slug": "morteza-eshraqi",
+  "name_en": "Morteza Eshraqi",
+  "name_fa": "مرتضی اشراقی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Eshraghi"
+  ],
+  "born": null,
+  "birthplace": "Iran",
+  "role": "Former Tehran Prosecutor General; member, Death Committee (1988)",
+  "faction": "hardliner",
+  "bio": "Morteza Eshraqi was Tehran's Prosecutor General in 1988 and is one of two officials explicitly named in [Ruhollah Khomeini](/people/ruhollah-khomeini)'s fatwa as responsible for implementing the mass execution of political prisoners in Tehran — an event the UN classifies as crimes against humanity. His deputy, [Ebrahim Raisi](/people/ebrahim-raisi), also sat on the committee. His presence at the committee's 15 August 1988 meeting with Ayatollah Montazeri is captured on audio recordings published in 2016. He subsequently served as a judge on the Supreme Court from 1989 to 1998.",
+  "irgc_member": false,
+  "expertise": [
+    "Islamic jurisprudence",
+    "prosecution",
+    "revolutionary courts"
+  ],
+  "tags": [
+    "1988-massacre",
+    "death-committee",
+    "judiciary",
+    "hardliner",
+    "impunity"
+  ],
+  "photo": null,
+  "editorial_notes": "Birth year not publicly confirmed. Tehran Prosecutor General 1988. Named in Khomeini's fatwa alongside Nayyeri. Supreme Court judge 1989–1998. Voice on published audio from 15 August 1988."
+}

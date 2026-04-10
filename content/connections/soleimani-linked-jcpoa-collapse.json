@@ -1,0 +1,21 @@
+{
+  "entity_id": "soleimani-linked-jcpoa-collapse",
+  "from_entity": "qasem-soleimani",
+  "to_entity": "jcpoa-us-withdrawal-2018",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2020-01-03",
+  "date_to": "2020-01-05",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Iran_nuclear_deal",
+      "source_title": "Iran nuclear deal",
+      "source_date": "2020-01-05",
+      "description": "Iran's response to Soleimani's assassination in January 2020 included announcing full withdrawal from all JCPOA limits."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Soleimani's assassination triggered Iran's formal announcement of full JCPOA withdrawal."
+}

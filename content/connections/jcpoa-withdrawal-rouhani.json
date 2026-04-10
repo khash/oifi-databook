@@ -1,0 +1,21 @@
+{
+  "entity_id": "jcpoa-withdrawal-rouhani",
+  "from_entity": "hassan-rouhani",
+  "to_entity": "jcpoa-us-withdrawal-2018",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2018-05",
+  "date_to": "2021",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Iran_nuclear_deal",
+      "source_title": "Iran nuclear deal",
+      "source_date": "2018-05-08",
+      "description": "US withdrawal gutted the JCPOA's economic benefits for Iran under Rouhani's watch."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Rouhani tried to sustain the deal with E3; Iran began stepping back May 2019."
+}

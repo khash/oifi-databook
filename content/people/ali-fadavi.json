@@ -1,0 +1,30 @@
+{
+  "entity_id": "ali-fadavi",
+  "slug": "ali-fadavi",
+  "name_en": "Ali Fadavi",
+  "name_fa": "علی فدوی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Fadavi"
+  ],
+  "born": 1961,
+  "birthplace": "Ardestan, Isfahan Province",
+  "role": "Former IRGC Deputy Commander-in-Chief (2019–2025); former IRGC Navy Commander (2010–2018)",
+  "faction": "hardliner",
+  "bio": "Ali Fadavi commanded the IRGC Navy from 2010 to 2018, then became Deputy Commander-in-Chief of the entire [IRGC](/orgs/islamic-revolutionary-guard-corps) from 2019. A veteran of the Iran–Iraq War with an intelligence background, he was known for bellicose rhetoric against the US Navy and repeatedly threatened to destroy American vessels in the Persian Gulf. In January 2016 he received the Fath Medal from [Ali Khamenei](/people/ali-khamenei) for arresting ten US Navy sailors in the Persian Gulf. He was replaced as IRGC Navy commander by [Alireza Tangsiri](/people/alireza-tangsiri) in 2018. He was sanctioned by the US, EU, and multiple allied governments.",
+  "irgc_member": true,
+  "expertise": [
+    "naval strategy",
+    "asymmetric warfare",
+    "intelligence",
+    "Persian Gulf operations"
+  ],
+  "tags": [
+    "irgc",
+    "irgc-navy",
+    "deputy-commander",
+    "sanctions"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 13 March 1961 in Ardestan. Electrical engineering degree. IRGC Navy Commander 2010–2018. IRGC Deputy CiC 2019–2025."
+}

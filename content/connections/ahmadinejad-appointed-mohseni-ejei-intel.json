@@ -1,0 +1,21 @@
+{
+  "entity_id": "ahmadinejad-appointed-mohseni-ejei-intel",
+  "from_entity": "mahmoud-ahmadinejad",
+  "to_entity": "gholam-hossein-mohseni-ejei",
+  "type": "appointed",
+  "confidence": "confirmed",
+  "date_from": "2005",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Gholam-Hossein_Mohseni-Ejei",
+      "source_title": "Gholam-Hossein Mohseni-Ejei",
+      "source_date": "2024-01-01",
+      "description": "Ahmadinejad appointed Mohseni-Ejei as Intelligence Minister in 2005."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

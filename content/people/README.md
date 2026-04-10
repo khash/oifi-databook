@@ -16,7 +16,7 @@ Each file is a single Person entity as JSON.
 | born        | number     | no       | Birth year                                                   |
 | birthplace  | string     | no       |                                                              |
 | role        | string     | yes      | Current or most recent role                                  |
-| faction     | enum       | yes      | pragmatist, reformist, conservative, hardliner, military-irgc, technocrat, clerical |
+| faction     | enum       | yes      | pragmatist, reformist, conservative, hardliner, technocrat, clerical |
 | bio         | markdown   | yes      | Short editorial biography                                    |
 | expertise   | string[]   | yes      | Controlled tags                                              |
 | photo       | url        | no       |                                                              |

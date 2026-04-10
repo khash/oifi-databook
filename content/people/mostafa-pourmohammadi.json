@@ -1,0 +1,31 @@
+{
+  "entity_id": "mostafa-pourmohammadi",
+  "slug": "mostafa-pourmohammadi",
+  "name_en": "Mostafa Pourmohammadi",
+  "name_fa": "مصطفی پورمحمدی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Pour-Mohammadi"
+  ],
+  "born": 1960,
+  "birthplace": "Yazd",
+  "role": "Former Minister of Justice (2013–2017); former Minister of Interior (2005–2008)",
+  "faction": "hardliner",
+  "bio": "Mostafa Pourmohammadi is a cleric who served as Interior Minister under [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad) (2005–2008) and later as Justice Minister under [Hassan Rouhani](/people/hassan-rouhani) (2013–2017). His appointment by Rouhani was controversial and drew protests from human rights organisations, as Pourmohammadi had served as a member of the 'Death Committee' — the three-person panel in Tehran that approved the mass execution of thousands of political prisoners in 1988 following [Ruhollah Khomeini](/people/ruhollah-khomeini)'s fatwa. He later explicitly defended the executions. He ran in the 2024 presidential election.",
+  "irgc_member": false,
+  "expertise": [
+    "Islamic jurisprudence",
+    "interior affairs",
+    "judicial administration"
+  ],
+  "tags": [
+    "interior-minister",
+    "justice-minister",
+    "1988-massacre",
+    "ahmadinejad-cabinet",
+    "rouhani-cabinet",
+    "hardliner"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 1960. Member of 1988 Death Committee in Tehran. Interior Minister 2005–2008. Justice Minister 2013–2017. Ran in 2024 presidential election. Defended 1988 executions publicly."
+}

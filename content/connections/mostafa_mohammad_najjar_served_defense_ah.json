@@ -1,0 +1,21 @@
+{
+  "entity_id": "mostafa_mohammad_najjar_served_defense_ah",
+  "from_entity": "mostafa-mohammad-najjar",
+  "to_entity": "ministry-of-defense",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2005",
+  "date_to": "2009",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/",
+      "source_title": "Mahmoud Ahmadinejad",
+      "source_date": "2024-01-01",
+      "description": "mostafa-mohammad-najjar served under Ahmadinejad."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

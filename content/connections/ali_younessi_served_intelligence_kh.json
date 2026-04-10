@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali_younessi_served_intelligence_kh",
+  "from_entity": "ali-younessi",
+  "to_entity": "ministry-of-intelligence",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1999",
+  "date_to": "2005",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/",
+      "source_title": "Mohammad Khatami",
+      "source_date": "2024-01-01",
+      "description": "ali-younessi served under Khatami."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

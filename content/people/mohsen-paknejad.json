@@ -1,0 +1,26 @@
+{
+  "entity_id": "mohsen-paknejad",
+  "slug": "mohsen-paknejad",
+  "name_en": "Mohsen Paknejad",
+  "name_fa": "محسن پاک‌نژاد",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1970,
+  "birthplace": "Iran",
+  "role": "Minister of Petroleum (2024–present)",
+  "faction": "pragmatist",
+  "bio": "Mohsen Paknejad is Iran's current Minister of Petroleum, appointed by [Masoud Pezeshkian](/people/masoud-pezeshkian) in August 2024. A petroleum engineer, he previously served in various management roles within the national oil sector, including at the National Iranian Oil Company (NIOC). His appointment was seen as a technocratic choice aimed at improving production efficiency and attracting investment to the oil sector.",
+  "irgc_member": false,
+  "expertise": [
+    "petroleum engineering",
+    "oil sector management",
+    "NIOC"
+  ],
+  "tags": [
+    "oil-minister",
+    "pezeshkian-cabinet",
+    "technocrat"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 1970. Career technocrat in the oil sector."
+}

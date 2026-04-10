@@ -1,0 +1,29 @@
+{
+  "entity_id": "mohammad-reza-ashtiani",
+  "slug": "mohammad-reza-ashtiani",
+  "name_en": "Mohammad Reza Ashtiani",
+  "name_fa": "محمدرضا آشتیانی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Ashtiani"
+  ],
+  "born": 1960,
+  "birthplace": "Iran",
+  "role": "Former Minister of Defense (2021–2024)",
+  "faction": "conservative",
+  "bio": "Mohammad Reza Ashtiani served as Minister of Defense under [Ebrahim Raisi](/people/ebrahim-raisi) from 2021 to 2024. A senior military officer, he previously served as Deputy Chief of Staff of the Iranian Armed Forces. He oversaw a period of accelerated missile and drone program development, including the April 2024 direct Iranian attack on Israel. He was replaced by [Aziz Nasirzadeh](/people/aziz-nasirzadeh) under [Masoud Pezeshkian](/people/masoud-pezeshkian).",
+  "irgc_member": false,
+  "expertise": [
+    "military strategy",
+    "defense procurement",
+    "armed forces logistics"
+  ],
+  "tags": [
+    "defense-minister",
+    "raisi-cabinet",
+    "regular-army",
+    "artesh"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 1960. Senior Artesh officer, not IRGC. Deputy Chief of Staff before appointment. Replaced by Nasirzadeh in August 2024."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "hajizadeh-member-irgc",
+  "from_entity": "amir-ali-hajizadeh",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1980",
+  "date_to": "2025",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Amir_Ali_Hajizadeh",
+      "source_title": "Amir Ali Hajizadeh",
+      "source_date": "2025-06-13",
+      "description": "Hajizadeh joined the IRGC in 1980 and rose to command its Aerospace Force."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

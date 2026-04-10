@@ -1,0 +1,31 @@
+{
+  "entity_id": "hossein-dehghan",
+  "slug": "hossein-dehghan",
+  "name_en": "Hossein Dehghan",
+  "name_fa": "حسین دهقان",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Dehqan"
+  ],
+  "born": 1957,
+  "birthplace": "Iran",
+  "role": "Former Minister of Defense (2013–2017); IRGC Aerospace Force veteran",
+  "faction": "hardliner",
+  "bio": "Hossein Dehghan is an IRGC brigadier general who served as Defense Minister in [Hassan Rouhani](/people/hassan-rouhani)'s first cabinet (2013–2017). He joined the IRGC at its founding and commanded contingents in Lebanon and Syria in the early 1980s. He was Deputy Defense Minister under [Mohammad Khatami](/people/mohammad-khatami). Under Rouhani's second term he was replaced by Amir Hatami. He ran as a presidential candidate in 2021. He is subject to US and EU sanctions. He was a military adviser to [Ali Khamenei](/people/ali-khamenei) before his cabinet appointment.",
+  "irgc_member": true,
+  "expertise": [
+    "defense procurement",
+    "IRGC operations",
+    "aerospace",
+    "Lebanon/Syria"
+  ],
+  "tags": [
+    "defense-minister",
+    "irgc",
+    "rouhani-cabinet",
+    "sanctions",
+    "aerospace"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 1957. IRGC since founding. Commanded IRGC in Lebanon 1982–84. Deputy Defense Minister under Khatami. Defense Minister 2013–2017. Ran in 2021 presidential election."
+}

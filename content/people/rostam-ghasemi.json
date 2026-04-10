@@ -1,0 +1,33 @@
+{
+  "entity_id": "rostam-ghasemi",
+  "slug": "rostam-ghasemi",
+  "name_en": "Rostam Ghasemi",
+  "name_fa": "رستم قاسمی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Ghasemi"
+  ],
+  "born": 1961,
+  "birthplace": "Tabriz, East Azerbaijan Province",
+  "role": "Former Minister of Petroleum (2011–2013); former Minister of Roads (2021–2023)",
+  "faction": "hardliner",
+  "bio": "Rostam Ghasemi is an IRGC brigadier general and oil sector executive who served as Minister of Petroleum in [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad)'s second term (2011–2013) and then as Minister of Roads and Urban Development under [Ebrahim Raisi](/people/ebrahim-raisi) (2021–2023). He was previously managing director of the IRGC engineering arm Khatam al-Anbiya — the massive construction and contracting conglomerate that controls much of Iran's infrastructure market. He was replaced as Roads Minister in 2023. He is subject to US, EU, and UN sanctions.",
+  "irgc_member": true,
+  "expertise": [
+    "petroleum",
+    "IRGC engineering",
+    "infrastructure",
+    "oil sector management"
+  ],
+  "tags": [
+    "oil-minister",
+    "roads-minister",
+    "irgc",
+    "khatam-al-anbiya",
+    "sanctions",
+    "ahmadinejad-cabinet",
+    "raisi-cabinet"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 1961 in Tabriz. IRGC Brigadier General. Head of Khatam al-Anbiya construction arm. Oil Minister 2011–2013. Roads Minister 2021–2023. Replaced mid-Raisi term."
+}

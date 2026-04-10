@@ -68,6 +68,13 @@ const jsonLd = {
     <span data-pagefind-meta={`type:event`} class="hidden" />
   </div>
 
+  <div class="mt-8">
+    <h2 class="mb-3 text-sm font-medium text-muted-foreground">Network Graph</h2>
+    <div class="h-[500px]">
+      <GraphExplorer client:load initialEntityId={event.entity_id} />
+    </div>
+  </div>
+
   <Fragment slot="sidebar">
     {connectionItems.length > 0 && (
       <ConnectionsList client:load connections={connectionItems} />
@@ -90,10 +97,4 @@ const jsonLd = {
     )}
   </Fragment>
 
-  <div slot="bottom">
-    <h2 class="mb-3 text-sm font-medium text-muted-foreground">Network Graph</h2>
-    <div class="h-[500px]">
-      <GraphExplorer client:load initialEntityId={event.entity_id} />
-    </div>
-  </div>
 </EntityLayout>

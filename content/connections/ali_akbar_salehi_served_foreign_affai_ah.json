@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali_akbar_salehi_served_foreign_affai_ah",
+  "from_entity": "ali-akbar-salehi",
+  "to_entity": "ministry-of-foreign-affairs",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2010",
+  "date_to": "2013",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/",
+      "source_title": "Mahmoud Ahmadinejad",
+      "source_date": "2024-01-01",
+      "description": "ali-akbar-salehi served under Ahmadinejad."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Replaced Mottaki who was fired."
+}

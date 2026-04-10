@@ -1,0 +1,21 @@
+{
+  "entity_id": "saeed-jalili-aligned-with-masoud-pezeshkian",
+  "from_entity": "saeed-jalili",
+  "to_entity": "masoud-pezeshkian",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "",
+      "source_title": "Derived from entity descriptions",
+      "source_date": "2026-04-10",
+      "description": "Referenced in person description"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

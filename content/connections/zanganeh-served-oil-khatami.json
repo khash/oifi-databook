@@ -1,0 +1,21 @@
+{
+  "entity_id": "zanganeh-served-oil-khatami",
+  "from_entity": "bijan-namdar-zanganeh",
+  "to_entity": "ministry-of-petroleum",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1997",
+  "date_to": "2005",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Bijan_Namdar_Zanganeh",
+      "source_title": "Bijan Namdar Zanganeh",
+      "source_date": "2024-01-01",
+      "description": "Zanganeh served as Oil Minister under Khatami 1997–2005."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

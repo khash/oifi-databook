@@ -1,0 +1,21 @@
+{
+  "entity_id": "velayati-served-fm-khamenei-president",
+  "from_entity": "ali-akbar-velayati",
+  "to_entity": "ministry-of-foreign-affairs",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1981",
+  "date_to": "1989",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Akbar_Velayati",
+      "source_title": "Ali Akbar Velayati",
+      "source_date": "2024-01-01",
+      "description": "Velayati was FM during Khamenei's presidency 1981–1989."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Continuation from Mousavi PM era."
+}

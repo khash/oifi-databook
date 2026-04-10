@@ -1,0 +1,21 @@
+{
+  "entity_id": "taeb-named-mahsa-protests",
+  "from_entity": "hossein-taeb",
+  "to_entity": "mahsa-amini-protests-2022",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2022-09",
+  "date_to": "2022-11",
+  "evidence": [
+    {
+      "source_url": "https://www.axios.com/2022/06/23/iran-irgc-intelligence-chief-taeb-israel-turkey",
+      "source_title": "Iran dismisses IRGC intelligence chief",
+      "source_date": "2022-06-23",
+      "description": "EU sanctions cited IRGC-IO under Taeb for 'mass beatings, murders, detentions and tortures of peaceful protestors' during 2022 protests."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Taeb was actually dismissed in June 2022, before the September 2022 protests — the EU sanction references ongoing protest suppression."
+}

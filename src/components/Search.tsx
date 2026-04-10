@@ -1,5 +1,13 @@
 import { useState, useEffect, useRef, useCallback } from "react"
-import { Input } from "@/components/ui/input"
+import {
+  Command,
+  CommandInput,
+  CommandList,
+  CommandEmpty,
+  CommandGroup,
+  CommandItem,
+} from "@/components/ui/command"
+import { UserIcon, BuildingIcon, CalendarIcon, HelpCircleIcon } from "lucide-react"
 
 interface PagefindResult {
   id: string
@@ -22,10 +30,10 @@ type Pagefind = {
   search: (query: string) => Promise<PagefindResponse>
 }
 
-const typeColors: Record<string, string> = {
-  person: "bg-blue-100 text-blue-800",
-  org: "bg-emerald-100 text-emerald-800",
-  event: "bg-amber-100 text-amber-800",
+const typeIcons: Record<string, React.ComponentType<{ className?: string }>> = {
+  person: UserIcon,
+  org: BuildingIcon,
+  event: CalendarIcon,
 }
 
 export function Search({ centered = false, onSelect }: { centered?: boolean; onSelect?: (url: string) => void }) {
@@ -36,8 +44,6 @@ export function Search({ centered = false, onSelect }: { centered?: boolean; onS
   const debounceRef = useRef<ReturnType<typeof setTimeout>>(undefined)
 
   useEffect(() => {
-    // Pagefind is loaded via an inline script in the layout to avoid Vite
-    // intercepting the import. Poll briefly for it to become available.
     let attempts = 0
     const interval = setInterval(() => {
       // eslint-disable-next-line @typescript-eslint/no-explicit-any
@@ -65,15 +71,22 @@ export function Search({ centered = false, onSelect }: { centered?: boolean; onS
     setLoading(false)
   }, [])
 
-  const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-    const val = e.target.value
-    setQuery(val)
+  const handleValueChange = (value: string) => {
+    setQuery(value)
     clearTimeout(debounceRef.current)
-    debounceRef.current = setTimeout(() => doSearch(val), 150)
+    debounceRef.current = setTimeout(() => doSearch(value), 150)
+  }
+
+  const handleSelect = (url: string) => {
+    if (onSelect) {
+      onSelect(url)
+    } else {
+      window.location.href = url
+    }
   }
 
   return (
-    <div className={centered ? "flex min-h-[60vh] flex-col items-center justify-center px-4" : "w-full"}>
+    <div className={centered ? "flex min-h-[60vh] flex-col items-center px-4 pt-[28vh]" : "w-full"}>
       <div className={centered ? "w-full max-w-lg" : "w-full"}>
         {centered && (
           <h1 className="mb-2 text-center text-2xl font-bold">OIFI Databook</h1>
@@ -83,55 +96,55 @@ export function Search({ centered = false, onSelect }: { centered?: boolean; onS
             Iranian political actors, organizations and events
           </p>
         )}
-        <Input
-          type="search"
-          placeholder="Search for a person, organization, or event…"
-          value={query}
-          onChange={handleChange}
-          className="h-11 text-sm"
-        />
-      </div>
-
-      {query.trim() && (
-        <div className={centered ? "mt-4 w-full max-w-lg" : "mt-4 w-full"}>
-          {loading && <p className="text-sm text-muted-foreground">Searching…</p>}
-          {!loading && results.length === 0 && (
-            <p className="text-sm text-muted-foreground">No results found for "{query}"</p>
-          )}
-          {!loading && results.length > 0 && (
-            <ul className="space-y-2">
-              {results.map((r) => (
-                <li key={r.id}>
-                  <a
-                    href={r.url}
-                    onClick={onSelect ? (e) => { e.preventDefault(); onSelect(r.url) } : undefined}
-                    className="group flex items-center gap-3 rounded-lg border border-border p-3 transition-colors hover:bg-muted"
-                  >
-                    <div className="min-w-0 flex-1">
-                      <div className="flex items-center gap-2">
-                        <span className="truncate font-medium group-hover:underline">
-                          {r.meta.title}
-                        </span>
-                        {r.meta.type && (
-                          <span className={`inline-flex items-center rounded-full px-2 py-0.5 text-xs font-medium ${typeColors[r.meta.type] ?? "bg-gray-100 text-gray-800"}`}>
-                            {r.meta.type}
+        <Command shouldFilter={false} className="rounded-lg border shadow-sm p-0! [&_[data-slot=command-input-wrapper]]:p-0 [&_[data-slot=input-group]]:border-0 [&_[data-slot=input-group]]:bg-transparent [&_[data-slot=input-group]]:shadow-none [&_[data-slot=input-group]]:h-11!">
+          <CommandInput
+            placeholder="Search for a person, organization, or event…"
+            value={query}
+            onValueChange={handleValueChange}
+          />
+          {query.trim() && (
+            <CommandList>
+              {loading && (
+                <div className="py-6 text-center text-sm text-muted-foreground">
+                  Searching…
+                </div>
+              )}
+              {!loading && results.length === 0 && (
+                <CommandEmpty>No results found for &ldquo;{query}&rdquo;</CommandEmpty>
+              )}
+              {!loading && results.length > 0 && (
+                <CommandGroup heading="Results">
+                  {results.map((r) => (
+                    <CommandItem
+                      key={r.id}
+                      value={r.url}
+                      onSelect={() => handleSelect(r.url)}
+                    >
+                      {(() => {
+                        const Icon = typeIcons[r.meta.type ?? ""] ?? HelpCircleIcon
+                        return <Icon className="size-4 shrink-0 text-muted-foreground" />
+                      })()}
+                      <div className="min-w-0 flex-1">
+                        <div className="flex items-center gap-2">
+                          <span className="truncate font-medium">
+                            {r.meta.title}
                           </span>
+                        </div>
+                        {r.meta.role && (
+                          <p className="mt-0.5 truncate text-sm text-muted-foreground">{r.meta.role}</p>
+                        )}
+                        {r.meta.faction && (
+                          <span className="text-xs text-muted-foreground">{r.meta.faction.replace(/-/g, " ")}</span>
                         )}
                       </div>
-                      {r.meta.role && (
-                        <p className="mt-0.5 truncate text-sm text-muted-foreground">{r.meta.role}</p>
-                      )}
-                      {r.meta.faction && (
-                        <span className="text-xs text-muted-foreground">{r.meta.faction.replace(/-/g, " ")}</span>
-                      )}
-                    </div>
-                  </a>
-                </li>
-              ))}
-            </ul>
+                    </CommandItem>
+                  ))}
+                </CommandGroup>
+              )}
+            </CommandList>
           )}
-        </div>
-      )}
+        </Command>
+      </div>
     </div>
   )
 }

@@ -12,7 +12,7 @@ function graphDataIntegration() {
       /** Generate graph-data.json before pages are built */
       async "astro:build:start"() {
         const { generateGraphData } = await import(
-          "./src/scripts/generate-graph-data.ts"
+          "./src/scripts/generate-graph-data.mjs"
         )
         generateGraphData()
         console.log("[graph-data] public/graph-data.json generated")
@@ -20,7 +20,7 @@ function graphDataIntegration() {
       /** Also generate on dev server start */
       async "astro:server:start"() {
         const { generateGraphData } = await import(
-          "./src/scripts/generate-graph-data.ts"
+          "./src/scripts/generate-graph-data.mjs"
         )
         generateGraphData()
         console.log("[graph-data] public/graph-data.json generated (dev)")

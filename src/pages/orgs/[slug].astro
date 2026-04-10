@@ -46,6 +46,9 @@ const jsonLd = {
     <div class="mt-2 flex flex-wrap items-center gap-2">
       <Badge variant="secondary">{org.type.replace(/-/g, " ")}</Badge>
       {org.faction && <FactionSpectrum client:load faction={org.faction} />}
+      {org.tags.map((tag) => (
+        <Badge variant="outline">{tag.replace(/-/g, " ")}</Badge>
+      ))}
       <span class="text-sm text-muted-foreground">
         {org.founded && <span>Founded {org.founded}</span>}
         {org.dissolved && <span> &middot; Dissolved {org.dissolved}</span>}
@@ -64,8 +67,13 @@ const jsonLd = {
       <p>{org.description}</p>
     </div>
 
+    <span data-pagefind-meta={`type:org`} class="hidden" />
+    {org.faction && <span data-pagefind-meta={`faction:${org.faction}`} class="hidden" />}
+  </article>
+
+  <Fragment slot="sidebar">
     {connections.length > 0 && (
-      <div class="mt-8">
+      <div>
         <h2 class="mb-3 text-sm font-medium text-muted-foreground">Connections</h2>
         <ul class="space-y-2">
           {connections.map((conn) => {
@@ -81,7 +89,7 @@ const jsonLd = {
               ? conn.type.replace(/-/g, " ")
               : INVERSE_LABELS[conn.type] ?? conn.type.replace(/-/g, " ")
             return (
-              <li class="flex items-center gap-2 text-sm">
+              <li class="flex items-start gap-2 text-sm">
                 <a href={href} class="font-medium hover:underline">
                   {"name_en" in other ? other.name_en : other.name}
                 </a>
@@ -93,12 +101,12 @@ const jsonLd = {
         </ul>
       </div>
     )}
-
-    <span data-pagefind-meta={`type:org`} class="hidden" />
-    {org.faction && <span data-pagefind-meta={`faction:${org.faction}`} class="hidden" />}
-  </article>
-
-  <Fragment slot="sidebar">
-    <GraphExplorer client:load initialEntityId={org.entity_id} />
   </Fragment>
+
+  <div slot="bottom">
+    <h2 class="mb-3 text-sm font-medium text-muted-foreground">Network Graph</h2>
+    <div class="h-[500px]">
+      <GraphExplorer client:load initialEntityId={org.entity_id} />
+    </div>
+  </div>
 </EntityLayout>

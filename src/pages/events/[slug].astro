@@ -3,6 +3,7 @@ import EntityLayout from "@/layouts/entity.astro"
 import { Badge } from "@/components/ui/badge"
 import { Separator } from "@/components/ui/separator"
 import { getEvents, getConnectionsForEntity, getEntityById } from "@/lib/content"
+import { GraphExplorer } from "@/components/GraphExplorer"
 import type { Event } from "@/lib/types"
 import { ConfidenceBadge } from "@/components/ConfidenceBadge"
 
@@ -34,6 +35,9 @@ const jsonLd = {
   <div data-pagefind-body>
     <div class="flex flex-wrap items-center gap-3">
       <Badge variant="secondary">{event.type.replace(/-/g, " ")}</Badge>
+      {event.tags.map((tag) => (
+        <Badge variant="outline">{tag.replace(/-/g, " ")}</Badge>
+      ))}
       <span class="text-sm text-muted-foreground">{event.date}</span>
     </div>
     <h1 class="mt-2 text-2xl font-bold" data-pagefind-meta="title">{event.name}</h1>
@@ -48,8 +52,39 @@ const jsonLd = {
       <div class="prose prose-sm mt-6 max-w-none" set:html={event.body} />
     )}
 
+    <span data-pagefind-meta={`type:event`} class="hidden" />
+  </div>
+
+  <Fragment slot="sidebar">
+    {connections.length > 0 && (
+      <div>
+        <h2 class="mb-3 text-sm font-medium text-muted-foreground">Related Entities</h2>
+        <ul class="space-y-2">
+          {connections.map((conn) => {
+            const otherId = conn.from_entity === event.entity_id ? conn.to_entity : conn.from_entity
+            const other = getEntityById(otherId)
+            if (!other) return null
+            const href = otherId.startsWith("person-")
+              ? `/people/${other.slug}`
+              : otherId.startsWith("org-")
+                ? `/orgs/${other.slug}`
+                : `/events/${other.slug}`
+            return (
+              <li class="flex items-start gap-2 text-sm">
+                <a href={href} class="font-medium hover:underline">
+                  {"name_en" in other ? other.name_en : other.name}
+                </a>
+                <span class="text-muted-foreground">&middot; {conn.type.replace(/-/g, " ")}</span>
+                <ConfidenceBadge client:load confidence={conn.confidence} />
+              </li>
+            )
+          })}
+        </ul>
+      </div>
+    )}
+
     {event.sources.length > 0 && (
-      <div class="mt-8">
+      <div>
         <h2 class="mb-3 text-sm font-medium text-muted-foreground">Sources</h2>
         <ul class="space-y-2">
           {event.sources.map((src) => (
@@ -63,34 +98,12 @@ const jsonLd = {
         </ul>
       </div>
     )}
+  </Fragment>
 
-    {connections.length > 0 && (
-      <div class="mt-8">
-        <h2 class="mb-3 text-sm font-medium text-muted-foreground">Related Entities</h2>
-        <ul class="space-y-2">
-          {connections.map((conn) => {
-            const otherId = conn.from_entity === event.entity_id ? conn.to_entity : conn.from_entity
-            const other = getEntityById(otherId)
-            if (!other) return null
-            const href = otherId.startsWith("person-")
-              ? `/people/${other.slug}`
-              : otherId.startsWith("org-")
-                ? `/orgs/${other.slug}`
-                : `/events/${other.slug}`
-            return (
-              <li class="flex items-center gap-2 text-sm">
-                <a href={href} class="font-medium hover:underline">
-                  {"name_en" in other ? other.name_en : other.name}
-                </a>
-                <span class="text-muted-foreground">&middot; {conn.type.replace(/-/g, " ")}</span>
-                <ConfidenceBadge client:load confidence={conn.confidence} />
-              </li>
-            )
-          })}
-        </ul>
-      </div>
-    )}
-
-    <span data-pagefind-meta={`type:event`} class="hidden" />
+  <div slot="bottom">
+    <h2 class="mb-3 text-sm font-medium text-muted-foreground">Network Graph</h2>
+    <div class="h-[500px]">
+      <GraphExplorer client:load initialEntityId={event.entity_id} />
+    </div>
   </div>
 </EntityLayout>

@@ -64,11 +64,11 @@ export function GraphExplorer({ initialEntityId }: GraphExplorerProps) {
   }
 
   return (
-    <Card className="flex h-full flex-col overflow-hidden bg-muted/50">
+    <Card className="relative flex h-full flex-col overflow-hidden bg-muted/50">
       <div className="absolute top-2 right-2 z-10">
         <DepthToggle depth={depth} onChange={setDepth} />
       </div>
-      <div className="relative flex-1 min-h-0 overflow-hidden">
+      <div className="flex-1 min-h-0 overflow-hidden">
         <FlowGraph
           nodes={subgraph.nodes}
           edges={subgraph.edges}

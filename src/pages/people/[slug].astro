@@ -42,16 +42,16 @@ const jsonLd = {
       <span class="text-lg text-muted-foreground" dir="rtl" lang="fa">{person.name_fa}</span>
     </div>
 
+    <p class="mt-1 text-sm text-muted-foreground">{person.role}</p>
+
     <div class="mt-2 flex flex-wrap items-center gap-2">
       {(SPECTRUM_FACTIONS as readonly string[]).includes(person.faction)
         ? <FactionSpectrum faction={person.faction} />
         : <Badge variant="secondary">{person.faction.replace(/-/g, " ")}</Badge>
       }
-      <span class="text-sm text-muted-foreground">
-        {person.role}
-        {person.born && <span> &middot; Born {person.born}</span>}
-        {person.birthplace && <span> &middot; {person.birthplace}</span>}
-      </span>
+      {person.tags.map((tag) => (
+        <Badge variant="outline">{tag.replace(/-/g, " ")}</Badge>
+      ))}
     </div>
 
     <Separator className="my-6" />
@@ -60,8 +60,14 @@ const jsonLd = {
       <p>{person.bio}</p>
     </div>
 
+    <span data-pagefind-meta={`type:person`} class="hidden" />
+    <span data-pagefind-meta={`faction:${person.faction}`} class="hidden" />
+    <span data-pagefind-meta={`role:${person.role}`} class="hidden" />
+  </article>
+
+  <Fragment slot="sidebar">
     {person.expertise.length > 0 && (
-      <div class="mt-6">
+      <div>
         <h2 class="mb-2 text-sm font-medium text-muted-foreground">Expertise</h2>
         <div class="flex flex-wrap gap-1.5">
           {person.expertise.map((tag) => (
@@ -72,7 +78,7 @@ const jsonLd = {
     )}
 
     {connections.length > 0 && (
-      <div class="mt-8">
+      <div>
         <h2 class="mb-3 text-sm font-medium text-muted-foreground">Connections</h2>
         <ul class="space-y-2">
           {connections.map((conn) => {
@@ -88,7 +94,7 @@ const jsonLd = {
               ? conn.type.replace(/-/g, " ")
               : INVERSE_LABELS[conn.type] ?? conn.type.replace(/-/g, " ")
             return (
-              <li class="flex items-center gap-2 text-sm">
+              <li class="flex items-start gap-2 text-sm">
                 <a href={href} class="font-medium hover:underline">
                   {"name_en" in other ? other.name_en : other.name}
                 </a>
@@ -100,13 +106,12 @@ const jsonLd = {
         </ul>
       </div>
     )}
-
-    <span data-pagefind-meta={`type:person`} class="hidden" />
-    <span data-pagefind-meta={`faction:${person.faction}`} class="hidden" />
-    <span data-pagefind-meta={`role:${person.role}`} class="hidden" />
-  </article>
-
-  <Fragment slot="sidebar">
-    <GraphExplorer client:load initialEntityId={person.entity_id} />
   </Fragment>
+
+  <div slot="bottom">
+    <h2 class="mb-3 text-sm font-medium text-muted-foreground">Network Graph</h2>
+    <div class="h-[500px]">
+      <GraphExplorer client:load initialEntityId={person.entity_id} />
+    </div>
+  </div>
 </EntityLayout>

@@ -8,19 +8,17 @@ const orgs = getOrgs().sort((a, b) => a.name_en.localeCompare(b.name_en))
 ---
 
 <Layout title="Organisations" description="Organisations in the OIFI Databook" canonicalPath="/orgs">
-  <div class="mx-auto max-w-6xl px-4 py-8">
-    <h1 class="mb-6 text-2xl font-bold">Organisations</h1>
-    <ul class="space-y-3">
-      {orgs.map((o) => (
-        <li>
-          <a href={`/orgs/${o.slug}`} class="group flex items-center gap-3">
-            <span class="font-medium group-hover:underline">{o.name_en}</span>
-            <Badge variant="secondary">{o.type.replace(/-/g, " ")}</Badge>
-            {o.faction && <Badge variant="outline" className="ml-auto">{o.faction.replace(/-/g, " ")}</Badge>}
-          </a>
-        </li>
-      ))}
-    </ul>
-  </div>
+  <h1 class="mb-6 text-2xl font-bold">Organisations</h1>
+  <ul class="space-y-3">
+    {orgs.map((o) => (
+      <li>
+        <a href={`/orgs/${o.slug}`} class="group flex items-center gap-3">
+          <span class="font-medium group-hover:underline">{o.name_en}</span>
+          <Badge variant="secondary">{o.type.replace(/-/g, " ")}</Badge>
+          {o.faction && <Badge variant="outline" className="ml-auto">{o.faction.replace(/-/g, " ")}</Badge>}
+        </a>
+      </li>
+    ))}
+  </ul>
   <ThemeToggle client:load slot="header-actions" />
 </Layout>

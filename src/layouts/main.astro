@@ -43,10 +43,19 @@ const fullTitle = title === "OIFI Databook" ? title : `${title} | OIFI Databook`
     {jsonLd && (
       <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
     )}
+    <script is:inline>
+      (async () => {
+        try {
+          const pf = await import("/pagefind/pagefind.js");
+          await pf.init();
+          window.__pagefind = pf;
+        } catch {}
+      })();
+    </script>
   </head>
   <body>
     <header class="border-b border-border">
-      <div class="mx-auto flex h-12 max-w-6xl items-center gap-6 px-4">
+      <div class="mx-auto flex h-12 max-w-7xl items-center gap-6 px-4 sm:px-6 lg:px-8">
         <a href="/" class="text-sm font-semibold tracking-tight">OIFI Databook</a>
         <nav class="flex gap-4 text-sm text-muted-foreground">
           <a href="/people" class="hover:text-foreground">People</a>
@@ -58,7 +67,7 @@ const fullTitle = title === "OIFI Databook" ? title : `${title} | OIFI Databook`
         </div>
       </div>
     </header>
-    <main>
+    <main class="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8">
       <slot />
     </main>
   </body>

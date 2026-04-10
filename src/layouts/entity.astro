@@ -1,0 +1,47 @@
+---
+import Layout from "@/layouts/main.astro"
+import { ThemeToggle } from "@/components/ThemeToggle"
+
+interface Props {
+  title: string
+  description: string
+  ogType?: string
+  canonicalPath: string
+  jsonLd?: object
+  breadcrumb: { label: string; href: string }
+}
+
+const { title, description, ogType, canonicalPath, jsonLd, breadcrumb } = Astro.props
+const hasSidebar = Astro.slots.has("sidebar")
+---
+
+<Layout title={title} description={description} ogType={ogType} canonicalPath={canonicalPath} jsonLd={jsonLd}>
+  <nav aria-label="breadcrumb" class="mb-4">
+    <ol class="flex flex-wrap items-center gap-1.5 text-sm text-muted-foreground">
+      <li class="inline-flex items-center gap-1">
+        <a href={breadcrumb.href} class="transition-colors hover:text-foreground">{breadcrumb.label}</a>
+      </li>
+      <li role="presentation" aria-hidden="true" class="[&>svg]:size-3.5">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
+      </li>
+      <li class="inline-flex items-center gap-1">
+        <span role="link" aria-disabled="true" aria-current="page" class="font-normal text-foreground">{title}</span>
+      </li>
+    </ol>
+  </nav>
+
+  {hasSidebar ? (
+    <div class="grid grid-cols-1 gap-8 lg:grid-cols-[1fr_400px]">
+      <div>
+        <slot />
+      </div>
+      <div class="hidden lg:block lg:h-[calc(100vh-8rem)] lg:sticky lg:top-16">
+        <slot name="sidebar" />
+      </div>
+    </div>
+  ) : (
+    <slot />
+  )}
+
+  <ThemeToggle client:load slot="header-actions" />
+</Layout>

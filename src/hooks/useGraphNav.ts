@@ -20,7 +20,6 @@ export function useGraphNav(
   const selectEntity = useCallback(
     (id: string, pushToHistory = true) => {
       setSelectedId(id)
-      setDepth(1)
       setBreadcrumbs((prev) => {
         const idx = prev.indexOf(id)
         if (idx >= 0) return prev.slice(0, idx + 1)
@@ -36,7 +35,6 @@ export function useGraphNav(
   const resetBreadcrumbs = useCallback((id: string) => {
     setSelectedId(id)
     setBreadcrumbs([id])
-    setDepth(1)
   }, [])
 
   useEffect(() => {
@@ -44,7 +42,6 @@ export function useGraphNav(
       const entityId = e.state?.entityId
       if (entityId) {
         setSelectedId(entityId)
-        setDepth(1)
         setBreadcrumbs((prev) => {
           const idx = prev.indexOf(entityId)
           if (idx >= 0) return prev.slice(0, idx + 1)

@@ -16,6 +16,9 @@ pnpm-debug.log*
 tina/__generated__/
 public/admin/
 
+# pagefind (copied into public for dev)
+public/pagefind/
+
 # environment variables
 .env
 .env.production

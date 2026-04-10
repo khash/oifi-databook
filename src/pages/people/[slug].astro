@@ -1,10 +1,9 @@
 ---
-import Layout from "@/layouts/main.astro"
+import EntityLayout from "@/layouts/entity.astro"
 import { Badge } from "@/components/ui/badge"
 import { Separator } from "@/components/ui/separator"
 import { getPeople, getConnectionsForEntity, getEntityById } from "@/lib/content"
 import { GraphExplorer } from "@/components/GraphExplorer"
-import { ThemeToggle } from "@/components/ThemeToggle"
 import type { Person } from "@/lib/types"
 
 export function getStaticPaths() {
@@ -26,95 +25,92 @@ const jsonLd = {
 }
 ---
 
-<Layout
+<EntityLayout
   title={person.name_en}
   description={desc}
   ogType="profile"
   canonicalPath={`/people/${person.slug}`}
   jsonLd={jsonLd}
+  breadcrumb={{ label: "People", href: "/people" }}
 >
-  <div class="mx-auto max-w-6xl px-4 py-8">
-    <div class="grid grid-cols-1 gap-8 lg:grid-cols-[1fr_400px]">
-      <article data-pagefind-body>
-        <div class="flex flex-wrap items-center gap-3">
-          <h1 class="text-2xl font-bold" data-pagefind-meta="title">{person.name_en}</h1>
-          <Badge variant="secondary">{person.faction.replace(/-/g, " ")}</Badge>
-        </div>
-        <p class="mt-1 text-lg text-muted-foreground" dir="rtl" lang="fa">{person.name_fa}</p>
-
-        <p class="mt-1 text-sm text-muted-foreground">
-          {person.role}
-          {person.born && <span> &middot; Born {person.born}</span>}
-          {person.birthplace && <span> &middot; {person.birthplace}</span>}
-        </p>
-
-        <Separator className="my-6" />
-
-        <div class="prose prose-sm max-w-none">
-          <p>{person.bio}</p>
-        </div>
-
-        {person.expertise.length > 0 && (
-          <div class="mt-6">
-            <h2 class="mb-2 text-sm font-medium text-muted-foreground">Expertise</h2>
-            <div class="flex flex-wrap gap-1.5">
-              {person.expertise.map((tag) => (
-                <Badge variant="outline">{tag.replace(/-/g, " ")}</Badge>
-              ))}
-            </div>
-          </div>
-        )}
-
-        {connections.length > 0 && (
-          <div class="mt-8">
-            <h2 class="mb-3 text-sm font-medium text-muted-foreground">Connections</h2>
-            <ul class="space-y-2">
-              {connections.map((conn) => {
-                const otherId = conn.from_entity === person.id ? conn.to_entity : conn.from_entity
-                const other = getEntityById(otherId)
-                if (!other) return null
-                const href = otherId.startsWith("person-")
-                  ? `/people/${other.slug}`
-                  : otherId.startsWith("org-")
-                    ? `/orgs/${other.slug}`
-                    : `/events/${other.slug}`
-                const label = conn.from_entity === person.id
-                  ? conn.type.replace(/-/g, " ")
-                  : conn.type.replace(/-/g, " ") + " (inverse)"
-                return (
-                  <li class="flex items-center gap-2 text-sm">
-                    <a href={href} class="font-medium hover:underline">
-                      {"name_en" in other ? other.name_en : other.name}
-                    </a>
-                    <span class="text-muted-foreground">&middot; {label}</span>
-                    <Badge
-                      variant="outline"
-                      className={
-                        conn.confidence === "confirmed" ? "border-teal-500 text-teal-700" :
-                        conn.confidence === "alleged" ? "border-amber-500 text-amber-700" :
-                        conn.confidence === "disputed" ? "border-blue-500 text-blue-700" :
-                        "border-gray-400 text-gray-500"
-                      }
-                    >
-                      {conn.confidence}
-                    </Badge>
-                  </li>
-                )
-              })}
-            </ul>
-          </div>
-        )}
-
-        <span data-pagefind-meta={`type:person`} class="hidden" />
-        <span data-pagefind-meta={`faction:${person.faction}`} class="hidden" />
-        <span data-pagefind-meta={`role:${person.role}`} class="hidden" />
-      </article>
-
-      <!-- Graph panel — React island takes over on hydration -->
-      <div id="graph-explorer" class="hidden lg:block lg:h-[calc(100vh-8rem)] lg:sticky lg:top-16">
-        <GraphExplorer client:load initialEntityId={person.id} />
-      </div>
+  <article data-pagefind-body>
+    <div class="flex flex-wrap items-baseline gap-3">
+      <h1 class="text-2xl font-bold" data-pagefind-meta="title">{person.name_en}</h1>
+      <span class="text-lg text-muted-foreground" dir="rtl" lang="fa">{person.name_fa}</span>
     </div>
-  </div>
-  <ThemeToggle client:load slot="header-actions" />
-</Layout>
+
+    <div class="mt-2 flex flex-wrap items-center gap-2">
+      <Badge variant="secondary">{person.faction.replace(/-/g, " ")}</Badge>
+      <span class="text-sm text-muted-foreground">
+        {person.role}
+        {person.born && <span> &middot; Born {person.born}</span>}
+        {person.birthplace && <span> &middot; {person.birthplace}</span>}
+      </span>
+    </div>
+
+    <Separator className="my-6" />
+
+    <div class="prose prose-sm max-w-none">
+      <p>{person.bio}</p>
+    </div>
+
+    {person.expertise.length > 0 && (
+      <div class="mt-6">
+        <h2 class="mb-2 text-sm font-medium text-muted-foreground">Expertise</h2>
+        <div class="flex flex-wrap gap-1.5">
+          {person.expertise.map((tag) => (
+            <Badge variant="outline">{tag.replace(/-/g, " ")}</Badge>
+          ))}
+        </div>
+      </div>
+    )}
+
+    {connections.length > 0 && (
+      <div class="mt-8">
+        <h2 class="mb-3 text-sm font-medium text-muted-foreground">Connections</h2>
+        <ul class="space-y-2">
+          {connections.map((conn) => {
+            const otherId = conn.from_entity === person.id ? conn.to_entity : conn.from_entity
+            const other = getEntityById(otherId)
+            if (!other) return null
+            const href = otherId.startsWith("person-")
+              ? `/people/${other.slug}`
+              : otherId.startsWith("org-")
+                ? `/orgs/${other.slug}`
+                : `/events/${other.slug}`
+            const label = conn.from_entity === person.id
+              ? conn.type.replace(/-/g, " ")
+              : conn.type.replace(/-/g, " ") + " (inverse)"
+            return (
+              <li class="flex items-center gap-2 text-sm">
+                <a href={href} class="font-medium hover:underline">
+                  {"name_en" in other ? other.name_en : other.name}
+                </a>
+                <span class="text-muted-foreground">&middot; {label}</span>
+                <Badge
+                  variant="outline"
+                  className={
+                    conn.confidence === "confirmed" ? "border-teal-500 text-teal-700" :
+                    conn.confidence === "alleged" ? "border-amber-500 text-amber-700" :
+                    conn.confidence === "disputed" ? "border-blue-500 text-blue-700" :
+                    "border-gray-400 text-gray-500"
+                  }
+                >
+                  {conn.confidence}
+                </Badge>
+              </li>
+            )
+          })}
+        </ul>
+      </div>
+    )}
+
+    <span data-pagefind-meta={`type:person`} class="hidden" />
+    <span data-pagefind-meta={`faction:${person.faction}`} class="hidden" />
+    <span data-pagefind-meta={`role:${person.role}`} class="hidden" />
+  </article>
+
+  <Fragment slot="sidebar">
+    <GraphExplorer client:load initialEntityId={person.id} />
+  </Fragment>
+</EntityLayout>

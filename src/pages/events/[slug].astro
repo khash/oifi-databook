@@ -1,8 +1,7 @@
 ---
-import Layout from "@/layouts/main.astro"
+import EntityLayout from "@/layouts/entity.astro"
 import { Badge } from "@/components/ui/badge"
 import { Separator } from "@/components/ui/separator"
-import { ThemeToggle } from "@/components/ThemeToggle"
 import { getEvents, getConnectionsForEntity, getEntityById } from "@/lib/content"
 import type { Event } from "@/lib/types"
 
@@ -23,14 +22,15 @@ const jsonLd = {
 }
 ---
 
-<Layout
+<EntityLayout
   title={event.name}
   description={desc}
   ogType="website"
   canonicalPath={`/events/${event.slug}`}
   jsonLd={jsonLd}
+  breadcrumb={{ label: "Events", href: "/events" }}
 >
-  <div class="mx-auto max-w-3xl px-4 py-8" data-pagefind-body>
+  <div data-pagefind-body>
     <div class="flex flex-wrap items-center gap-3">
       <Badge variant="secondary">{event.type.replace(/-/g, " ")}</Badge>
       <span class="text-sm text-muted-foreground">{event.date}</span>
@@ -102,5 +102,4 @@ const jsonLd = {
 
     <span data-pagefind-meta={`type:event`} class="hidden" />
   </div>
-  <ThemeToggle client:load slot="header-actions" />
-</Layout>
+</EntityLayout>

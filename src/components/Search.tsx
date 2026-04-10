@@ -36,19 +36,20 @@ export function Search({ centered = false, onSelect }: { centered?: boolean; onS
   const debounceRef = useRef<ReturnType<typeof setTimeout>>(undefined)
 
   useEffect(() => {
-    async function loadPagefind() {
-      try {
-        // Dynamic path prevents Vite from analyzing this import at dev time.
-        // Pagefind JS only exists after `pnpm build` generates the index.
-        const pagefindPath = "/pagefind/pagefind.js"
-        const pf = await import(/* @vite-ignore */ pagefindPath)
-        await pf.init()
-        pagefindRef.current = pf
-      } catch {
-        // Pagefind not available in dev mode — that's ok
+    // Pagefind is loaded via an inline script in the layout to avoid Vite
+    // intercepting the import. Poll briefly for it to become available.
+    let attempts = 0
+    const interval = setInterval(() => {
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
+      if ((window as any).__pagefind) {
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
+        pagefindRef.current = (window as any).__pagefind
+        clearInterval(interval)
+      } else if (++attempts > 20) {
+        clearInterval(interval)
       }
-    }
-    loadPagefind()
+    }, 100)
+    return () => clearInterval(interval)
   }, [])
 
   const doSearch = useCallback(async (q: string) => {

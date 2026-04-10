@@ -79,13 +79,13 @@ export function CytoscapeGraph({ nodes, edges, selectedId, onNodeClick }: Cytosc
             label: "data(label)",
             "text-valign": "bottom",
             "text-margin-y": 4,
-            "font-size": 10,
-            "font-family": "var(--font-geist-sans, sans-serif)",
-            width: 32,
-            height: 32,
+            "font-size": 9,
+            "font-family": "'Geist Variable', sans-serif",
+            width: 28,
+            height: 28,
             "background-color": (ele: cytoscape.NodeSingular) =>
               NODE_COLORS[ele.data("entityType")]?.bg ?? "#e5e7eb",
-            "border-width": 2,
+            "border-width": 1.5,
             "border-color": (ele: cytoscape.NodeSingular) =>
               NODE_COLORS[ele.data("entityType")]?.border ?? "#6b7280",
             shape: (ele: cytoscape.NodeSingular) =>
@@ -95,7 +95,7 @@ export function CytoscapeGraph({ nodes, edges, selectedId, onNodeClick }: Cytosc
         {
           selector: "node:selected",
           style: {
-            "border-width": 4,
+            "border-width": 2,
             "border-style": "dashed",
             "overlay-opacity": 0,
           } as cytoscape.Css.Node,
@@ -103,7 +103,7 @@ export function CytoscapeGraph({ nodes, edges, selectedId, onNodeClick }: Cytosc
         {
           selector: "edge",
           style: {
-            width: 2,
+            width: 1,
             "curve-style": "bezier",
             "target-arrow-shape": "triangle",
             "target-arrow-color": (ele: cytoscape.EdgeSingular) =>
@@ -115,7 +115,9 @@ export function CytoscapeGraph({ nodes, edges, selectedId, onNodeClick }: Cytosc
             "line-opacity": (ele: cytoscape.EdgeSingular) =>
               CONFIDENCE_STYLES[ele.data("confidence")]?.opacity ?? 1,
             label: "",
-            "font-size": 9,
+            "font-size": 7,
+            "font-family": "'Geist Variable', sans-serif",
+            "color": "#9ca3af",
             "text-background-color": "white",
             "text-background-opacity": 0.9,
             "text-background-padding": "2px",
@@ -128,14 +130,39 @@ export function CytoscapeGraph({ nodes, edges, selectedId, onNodeClick }: Cytosc
           } as cytoscape.Css.Edge,
         },
       ] as unknown as cytoscape.StylesheetCSS[],
-      layout: { name: "fcose", animate: false } as cytoscape.LayoutOptions,
+      layout: { name: "fcose", animate: false, padding: 40, quality: "proof", randomize: true, fit: true, idealEdgeLength: 150, nodeRepulsion: 10000, nodeSeparation: 80 } as cytoscape.LayoutOptions,
+      maxZoom: 1.5,
+      minZoom: 0.3,
       userZoomingEnabled: true,
       userPanningEnabled: true,
       boxSelectionEnabled: false,
     })
 
+    // Fit all elements then center on selected node
+    cy.fit(undefined, 40)
+    const selected = cy.getElementById(selectedId)
+    if (selected.length) {
+      cy.center(selected)
+    }
+
     cy.on("tap", "node", (evt) => {
       onNodeClickRef.current(evt.target.id())
+    })
+
+    // Show edge labels on hover
+    cy.on("mouseover", "edge", (evt) => {
+      evt.target.data("showLabel", true)
+    })
+    cy.on("mouseout", "edge", (evt) => {
+      evt.target.data("showLabel", false)
+    })
+
+    // Show connected edge labels on node hover
+    cy.on("mouseover", "node", (evt) => {
+      evt.target.connectedEdges().data("showLabel", true)
+    })
+    cy.on("mouseout", "node", (evt) => {
+      evt.target.connectedEdges().data("showLabel", false)
     })
 
     cyRef.current = cy
@@ -191,10 +218,15 @@ export function CytoscapeGraph({ nodes, edges, selectedId, onNodeClick }: Cytosc
 
     // Re-run layout on visible elements
     const visible = cy.elements().filter((ele) => ele.style("display") !== "none")
-    visible
-      .layout({ name: "fcose", animate: true, animationDuration: 300 } as cytoscape.LayoutOptions)
-      .run()
-  }, [nodes, edges])
+    const layout = visible
+      .layout({ name: "fcose", animate: true, animationDuration: 300, padding: 40, quality: "proof", randomize: true, fit: true, idealEdgeLength: 150, nodeRepulsion: 10000, nodeSeparation: 80 } as cytoscape.LayoutOptions)
+    layout.on("layoutstop", () => {
+      cy.fit(undefined, 40)
+      const sel = cy.getElementById(selectedId)
+      if (sel.length) cy.center(sel)
+    })
+    layout.run()
+  }, [nodes, edges, selectedId])
 
   // Update selection and edge labels
   useEffect(() => {
@@ -206,10 +238,6 @@ export function CytoscapeGraph({ nodes, edges, selectedId, onNodeClick }: Cytosc
     const node = cy.getElementById(selectedId)
     if (node.length) {
       node.select()
-
-      // Show labels only on edges connected to selected node
-      cy.edges().data("showLabel", false)
-      node.connectedEdges().filter((e) => e.style("display") !== "none").data("showLabel", true)
 
       // Animate to center on the selected node
       cy.animate({

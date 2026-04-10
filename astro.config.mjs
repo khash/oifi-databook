@@ -5,6 +5,8 @@ import { defineConfig } from "astro/config"
 import react from "@astrojs/react"
 import sitemap from "@astrojs/sitemap"
 
+import cloudflare from "@astrojs/cloudflare";
+
 function unlinkCheckIntegration() {
   return {
     name: "unlink-check",
@@ -52,11 +54,15 @@ function graphDataIntegration() {
 // https://astro.build/config
 export default defineConfig({
   site: "https://databook.oifi.org",
+
   server: {
     port: 8321,
   },
+
   vite: {
     plugins: [tailwindcss()],
   },
+
   integrations: [react(), sitemap(), graphDataIntegration(), unlinkCheckIntegration()],
+  adapter: cloudflare()
 })

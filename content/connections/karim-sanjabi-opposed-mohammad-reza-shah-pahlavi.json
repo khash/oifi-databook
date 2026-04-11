@@ -1,0 +1,21 @@
+{
+  "entity_id": "karim-sanjabi-opposed-mohammad-reza-shah-pahlavi",
+  "from_entity": "karim-sanjabi",
+  "to_entity": "mohammad-reza-shah-pahlavi",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "1979",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Karim_Sanjabi",
+      "source_title": "Karim Sanjabi - Wikipedia",
+      "source_date": "2024",
+      "description": "Sanjabi was imprisoned multiple times by the Shah's regime and called for his overthrow in the 1978 Three-Point Declaration."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

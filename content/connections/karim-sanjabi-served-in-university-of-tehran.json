@@ -1,0 +1,21 @@
+{
+  "entity_id": "karim-sanjabi-served-in-university-of-tehran",
+  "from_entity": "karim-sanjabi",
+  "to_entity": "university-of-tehran",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "1979",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Karim_Sanjabi",
+      "source_title": "Karim Sanjabi - Wikipedia",
+      "source_date": "2024",
+      "description": "Sanjabi was a professor of law at the University of Tehran."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Professor of law."
+}

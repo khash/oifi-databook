@@ -1,0 +1,21 @@
+{
+  "entity_id": "maryam-firouz-family-of-nureddin-kianouri",
+  "from_entity": "maryam-firouz",
+  "to_entity": "nureddin-kianouri",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": "1949",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Maryam_Firouz",
+      "source_title": "Maryam Farman Farmaian — Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "Married Noureddin Kianouri in 1949."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "spouse",
+  "editorial_notes": null
+}

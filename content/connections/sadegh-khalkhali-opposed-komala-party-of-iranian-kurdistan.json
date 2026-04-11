@@ -1,0 +1,21 @@
+{
+  "entity_id": "sadegh-khalkhali-opposed-komala-party-of-iranian-kurdistan",
+  "from_entity": "sadegh-khalkhali",
+  "to_entity": "komala-party-of-iranian-kurdistan",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": "1979-08",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Sadegh_Khalkhali",
+      "source_title": "Sadegh Khalkhali — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Khalkhali held summary courts targeting Komala-affiliated political prisoners during the Kurdistan campaign."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": null
+}

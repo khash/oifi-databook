@@ -1,0 +1,21 @@
+{
+  "entity_id": "sadegh-khalkhali-opposed-savak",
+  "from_entity": "sadegh-khalkhali",
+  "to_entity": "savak",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Sadegh_Khalkhali",
+      "source_title": "Sadegh Khalkhali — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Khalkhali tried and executed senior SAVAK officials including its last chief Nasser Moghadam in the revolutionary courts."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": null
+}

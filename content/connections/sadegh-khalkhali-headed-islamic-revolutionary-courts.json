@@ -1,0 +1,21 @@
+{
+  "entity_id": "sadegh-khalkhali-headed-islamic-revolutionary-courts",
+  "from_entity": "sadegh-khalkhali",
+  "to_entity": "islamic-revolutionary-courts",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "1979-02",
+  "date_to": "1981",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Sadegh_Khalkhali",
+      "source_title": "Sadegh Khalkhali — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Khalkhali served as the chief judge (Hakim-e Shar') of the Islamic Revolutionary Courts from February 1979 to approximately 1981."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": null
+}

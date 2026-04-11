@@ -1,0 +1,21 @@
+{
+  "entity_id": "karim-sanjabi-opposed-shapour-bakhtiar",
+  "from_entity": "karim-sanjabi",
+  "to_entity": "shapour-bakhtiar",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Shapour_Bakhtiar",
+      "source_title": "Shapour Bakhtiar - Wikipedia",
+      "source_date": "2024",
+      "description": "Sanjabi and the National Front expelled Bakhtiar for accepting the Shah's appointment as Prime Minister in January 1979."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Former NF colleagues who split over Bakhtiar's acceptance of PM role."
+}

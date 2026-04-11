@@ -1,0 +1,27 @@
+{
+  "entity_id": "maryam-firouz-member-of-tudeh-party-of-iran",
+  "from_entity": "maryam-firouz",
+  "to_entity": "tudeh-party-of-iran",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": "1941",
+  "date_to": "2008",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Maryam_Firouz",
+      "source_title": "Maryam Farman Farmaian — Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "Joined the Tudeh Party in the 1940s and remained a lifelong member, founding the party's women's section."
+    },
+    {
+      "source_url": "https://iranwire.com/en/influential-women/118210-iranian-influential-women-maryam-firouz-1913-2008/",
+      "source_title": "Iranian Influential Women: Maryam Firouz (1913-2008) — IranWire",
+      "source_date": "2026-04-11",
+      "description": "Details her role as founder of the Tudeh women's organization."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": null
+}

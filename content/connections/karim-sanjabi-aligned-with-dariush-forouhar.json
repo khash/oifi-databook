@@ -1,0 +1,21 @@
+{
+  "entity_id": "karim-sanjabi-aligned-with-dariush-forouhar",
+  "from_entity": "karim-sanjabi",
+  "to_entity": "dariush-forouhar",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/National_Front_(Iran)",
+      "source_title": "National Front (Iran) - Wikipedia",
+      "source_date": "2024",
+      "description": "Both were leaders within the National Front coalition. Forouhar's Nation of Iran Party was a constituent party of the National Front."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": "Fellow National Front leaders."
+}

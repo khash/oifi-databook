@@ -1,0 +1,21 @@
+{
+  "entity_id": "sadegh-khalkhali-appointed-by-ruhollah-khomeini",
+  "from_entity": "sadegh-khalkhali",
+  "to_entity": "ruhollah-khomeini",
+  "type": "appointed-by",
+  "confidence": "confirmed",
+  "date_from": "1979-02",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Sadegh_Khalkhali",
+      "source_title": "Sadegh Khalkhali — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Khalkhali was appointed by Khomeini as the head of the Islamic Revolutionary Courts in February 1979."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": null
+}

@@ -1,0 +1,18 @@
+{
+  "entity_id": "islamic-revolutionary-courts",
+  "slug": "islamic-revolutionary-courts",
+  "name_en": "Islamic Revolutionary Courts",
+  "name_fa": "دادگاه‌های انقلاب اسلامی",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 1979,
+  "dissolved": null,
+  "parent_org": "judiciary-of-iran",
+  "description": "The Islamic Revolutionary Courts (Dadgah-ha-ye Enqelab-e Eslami) were established in February 1979 immediately after the [Iranian Revolution](/events/iranian-revolution-1979) to try individuals accused of crimes against the revolution, including former officials of the Pahlavi regime, political dissidents, and those charged with \"corruption on earth\" (mofsed-e fel-arz) or \"enmity against God\" (moharebeh). Initially presided over by Sadegh Khalkhali under the authority of [Ruhollah Khomeini](/people/ruhollah-khomeini), the courts conducted summary trials with minimal due process. The courts remain an active part of Iran's [judiciary](/orgs/judiciary-of-iran), handling cases involving national security, narcotics, and political offences.",
+  "faction": null,
+  "tags": [
+    "judiciary",
+    "human-rights"
+  ],
+  "editorial_notes": "Still active as of 2026. Handles political cases, drug offences, and national security cases."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "karim-sanjabi-participated-in-iranian-revolution-1979",
+  "from_entity": "karim-sanjabi",
+  "to_entity": "iranian-revolution-1979",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1978",
+  "date_to": "1979",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Karim_Sanjabi",
+      "source_title": "Karim Sanjabi - Wikipedia",
+      "source_date": "2024",
+      "description": "Sanjabi played a key role in the revolution by forging the National Front–Khomeini alliance via the Three-Point Declaration of November 1978."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

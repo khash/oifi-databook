@@ -1,0 +1,21 @@
+{
+  "entity_id": "islamic-revolutionary-courts-subsidiary-of-judiciary-of-iran",
+  "from_entity": "islamic-revolutionary-courts",
+  "to_entity": "judiciary-of-iran",
+  "type": "subsidiary-of",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Islamic_Revolutionary_Court",
+      "source_title": "Islamic Revolutionary Court — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "The Islamic Revolutionary Courts operate as a branch of the Iranian judiciary, handling political, national security, and narcotics cases."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": null
+}

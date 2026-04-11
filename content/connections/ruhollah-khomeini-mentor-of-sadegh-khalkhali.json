@@ -1,0 +1,21 @@
+{
+  "entity_id": "ruhollah-khomeini-mentor-of-sadegh-khalkhali",
+  "from_entity": "ruhollah-khomeini",
+  "to_entity": "sadegh-khalkhali",
+  "type": "mentor-of",
+  "confidence": "confirmed",
+  "date_from": "1950",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Sadegh_Khalkhali",
+      "source_title": "Sadegh Khalkhali — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Khalkhali studied under Khomeini at the Qom seminaries in the 1950s and became one of his loyal followers."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": null
+}

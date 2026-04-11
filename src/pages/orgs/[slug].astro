@@ -88,6 +88,7 @@ const jsonLd = {
 
     <span data-pagefind-meta={`type:org`} class="hidden" />
     {org.faction && <span data-pagefind-meta={`faction:${org.faction}`} class="hidden" />}
+    {org.has_native_fa_name && org.name_fa && <span data-pagefind-meta={`name_fa:${org.name_fa}`} class="hidden" />}
   </article>
 
   <div class="mt-8">

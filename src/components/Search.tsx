@@ -18,6 +18,7 @@ interface PagefindResult {
     type?: string
     faction?: string
     role?: string
+    name_fa?: string
   }
 }
 
@@ -124,11 +125,14 @@ export function Search({ centered = false, onSelect }: { centered?: boolean; onS
                         const Icon = typeIcons[r.meta.type ?? ""] ?? HelpCircleIcon
                         return <Icon className="size-4 shrink-0 text-muted-foreground" />
                       })()}
-                      <div className="min-w-0 flex-1">
+                      <div className="min-w-0 flex-1 text-left">
                         <div className="flex items-center gap-2">
                           <span className="truncate font-medium">
                             {r.meta.title}
                           </span>
+                          {r.meta.name_fa && (
+                            <span className="shrink-0 text-sm text-muted-foreground" dir="rtl" lang="fa">{r.meta.name_fa}</span>
+                          )}
                         </div>
                         {r.meta.role && (
                           <p className="mt-0.5 truncate text-sm text-muted-foreground">{r.meta.role}</p>

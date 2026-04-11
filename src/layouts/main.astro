@@ -73,10 +73,15 @@ const fullTitle = title === "OIFI Databook" ? title : `${title} | OIFI Databook`
       })();
     </script>
   </head>
-  <body>
+  <body class="flex flex-col min-h-screen">
     <header class="border-b border-border">
       <div class="mx-auto flex h-12 max-w-7xl items-center gap-6 px-4 sm:px-6 lg:px-8">
-        <a href="/" class="text-sm font-semibold tracking-tight">OIFI Databook</a>
+        <a href="https://oifi.org" class="flex items-center gap-1.5 text-sm font-semibold tracking-tight text-muted-foreground hover:text-foreground transition-colors">
+          <img src="/oifi-icon.png" alt="OIFI" class="h-5 w-5 opacity-60 dark:invert" />
+          OIFI
+        </a>
+        <span class="text-muted-foreground/40 text-sm">/</span>
+        <a href="/" class="text-sm font-semibold tracking-tight">Databook</a>
         <nav class="flex gap-4 text-sm text-muted-foreground">
           <a href="/people" class="hover:text-foreground">People</a>
           <a href="/orgs" class="hover:text-foreground">Orgs</a>
@@ -90,5 +95,20 @@ const fullTitle = title === "OIFI Databook" ? title : `${title} | OIFI Databook`
     <main class="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8">
       <slot />
     </main>
+    <footer class="border-t border-border mt-auto">
+      <div class="mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-sm text-muted-foreground">
+        <a href="https://oifi.org" class="flex items-center gap-1.5 hover:text-foreground transition-colors">
+          <img src="/oifi-icon.png" alt="OIFI" class="h-4 w-4 dark:invert" />
+          <span>Open Information For Iran</span>
+        </a>
+        <p>© {new Date().getFullYear()} OIFI. Research tool — not a legal record.</p>
+        <nav class="flex gap-4">
+          <a href="/people" class="hover:text-foreground">People</a>
+          <a href="/orgs" class="hover:text-foreground">Organizations</a>
+          <a href="/events" class="hover:text-foreground">Events</a>
+          <a href="https://oifi.org" class="hover:text-foreground">About OIFI</a>
+        </nav>
+      </div>
+    </footer>
   </body>
 </html>

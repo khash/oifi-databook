@@ -15,7 +15,7 @@ export function useGraphNav(
 ) {
   const [selectedId, setSelectedId] = useState(initialEntityId)
   const [breadcrumbs, setBreadcrumbs] = useState<string[]>([initialEntityId])
-  const [depth, setDepth] = useState<1 | 2 | 3>(1)
+  const [depth, setDepth] = useState<1 | 2>(1)
 
   const selectEntity = useCallback(
     (id: string, pushToHistory = true) => {

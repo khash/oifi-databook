@@ -2,11 +2,11 @@ import { useState, useRef, useEffect } from "react"
 import { Button } from "@/components/ui/button"
 
 interface DepthToggleProps {
-  depth: 1 | 2 | 3
-  onChange: (d: 1 | 2 | 3) => void
+  depth: 1 | 2
+  onChange: (d: 1 | 2) => void
 }
 
-const OPTIONS = [1, 2, 3] as const
+const OPTIONS = [1, 2] as const
 
 export function DepthToggle({ depth, onChange }: DepthToggleProps) {
   const [open, setOpen] = useState(false)

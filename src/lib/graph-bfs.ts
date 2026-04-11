@@ -2,15 +2,13 @@ import type { GraphData, GraphNode, GraphEdge } from "./graph-types"
 
 /**
  * BFS from `rootId` up to `depth` hops. Returns the subgraph of visible nodes and edges.
- * Depth 3 returns the full graph.
+ * Returns the subgraph reachable within the given number of hops.
  */
 export function getSubgraph(
   data: GraphData,
   rootId: string,
-  depth: 1 | 2 | 3,
+  depth: 1 | 2,
 ): { nodes: GraphNode[]; edges: GraphEdge[] } {
-  if (depth === 3) return data
-
   const visited = new Set<string>([rootId])
   let frontier = [rootId]
 

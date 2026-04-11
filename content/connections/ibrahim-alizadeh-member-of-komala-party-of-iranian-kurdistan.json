@@ -1,0 +1,14 @@
+{
+  "entity_id": "ibrahim-alizadeh-member-of-komala-party-of-iranian-kurdistan",
+  "from_entity": "ibrahim-alizadeh",
+  "to_entity": "komala-party-of-iranian-kurdistan",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [{"description": "Leader of the CPI-affiliated Komala faction"}],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": null
+}

@@ -1,0 +1,18 @@
+{
+  "entity_id": "bijan-jazani",
+  "slug": "bijan-jazani",
+  "name_en": "Bijan Jazani",
+  "name_fa": "بیژن جزنی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1938,
+  "birthplace": "Tehran",
+  "role": "Intellectual founder of the Organization of Iranian People's Fadai Guerrillas",
+  "faction": "opposition",
+  "bio": "Bijan Jazani (1938–1975) was an Iranian Marxist theorist and revolutionary who is regarded as the intellectual father of the [Organization of Iranian People's Fadai Guerrillas](/orgs/organization-of-iranian-peoples-fadai-guerrillas). Born into a family with ties to the [Tudeh Party](/orgs/tudeh-party-of-iran), he studied political science and became politically active in the 1950s. In 1963 he founded the underground group that would later merge with the Ahmadzadeh-Pouyan group to form the Fadaiyan-e Khalq in 1971. Arrested by [SAVAK](/orgs/savak) in 1968, Jazani continued his theoretical work from prison, writing influential pamphlets on armed struggle and mass mobilisation. Unlike some contemporaries, he argued that armed propaganda should serve as a catalyst for broader working-class political organisation rather than an end in itself. He was executed on 19 April 1975 in Evin prison, along with eight other political prisoners, under circumstances widely regarded as extrajudicial killing.",
+  "irgc_member": false,
+  "expertise": ["political science", "guerrilla theory"],
+  "tags": ["deceased", "political-prisoner"],
+  "photo": null,
+  "editorial_notes": "Intellectual father of Fadaiyan. Killed in Evin 1975. Major theorist of Iranian guerrilla movement."
+}

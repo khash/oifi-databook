@@ -1,0 +1,14 @@
+{
+  "entity_id": "abdul-rahman-ghassemlou-named-in-ghassemlou-assassination-1989",
+  "from_entity": "abdul-rahman-ghassemlou",
+  "to_entity": "ghassemlou-assassination-1989",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [{"description": "Assassinated on 13 July 1989 in Vienna during peace negotiations with Iranian envoys"}],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": null
+}

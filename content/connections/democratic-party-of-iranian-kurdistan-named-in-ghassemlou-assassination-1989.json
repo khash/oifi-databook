@@ -1,0 +1,14 @@
+{
+  "entity_id": "democratic-party-of-iranian-kurdistan-named-in-ghassemlou-assassination-1989",
+  "from_entity": "democratic-party-of-iranian-kurdistan",
+  "to_entity": "ghassemlou-assassination-1989",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [{"description": "Ghassemlou was assassinated while serving as PDKI Secretary-General"}],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": null
+}

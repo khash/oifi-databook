@@ -1,0 +1,14 @@
+{
+  "entity_id": "farzad-kamangar-subject-of-pjak",
+  "from_entity": "farzad-kamangar",
+  "to_entity": "pjak",
+  "type": "subject-of",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Charged with PJAK membership, which he denied. Conviction widely condemned as unfair."
+}

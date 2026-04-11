@@ -1,0 +1,15 @@
+{
+  "entity_id": "pjak",
+  "slug": "pjak",
+  "name_en": "Kurdistan Free Life Party",
+  "name_fa": "حزب حیات آزاد کردستان",
+  "has_native_fa_name": true,
+  "type": "military",
+  "founded": 2004,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "PJAK (Partiya Jiyana Azad a Kurdistanê) is an Iranian Kurdish militant and political organisation founded in 2004, operating primarily from the Qandil Mountains along the Iran-Iraq border. Ideologically and organisationally linked to the Kurdistan Workers' Party (PKK), PJAK follows the democratic confederalism philosophy of Abdullah Öcalan. The group has conducted armed operations against [Islamic Revolutionary Guard Corps](/orgs/islamic-revolutionary-guard-corps) forces in the border regions of Kurdistan and Kermanshah provinces. Iran and Turkey have designated it a terrorist organisation. PJAK advocates for Kurdish self-governance within Iran through a decentralised, non-state model.",
+  "faction": "opposition",
+  "tags": ["banned"],
+  "editorial_notes": "PKK-linked Iranian Kurdish armed group. Based in Qandil Mountains. Designated terrorist by Iran, Turkey. Farzad Kamangar was accused of membership."
+}

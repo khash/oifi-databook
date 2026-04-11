@@ -1,0 +1,14 @@
+{
+  "entity_id": "sadegh-sharafkandi-named-in-ghassemlou-assassination-1989",
+  "from_entity": "sadegh-sharafkandi",
+  "to_entity": "ghassemlou-assassination-1989",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [{"description": "Succeeded Ghassemlou as PDKI leader after his assassination"}],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": null
+}

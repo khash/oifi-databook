@@ -1,0 +1,14 @@
+{
+  "entity_id": "mustafa-hijri-led-democratic-party-of-iranian-kurdistan",
+  "from_entity": "mustafa-hijri",
+  "to_entity": "democratic-party-of-iranian-kurdistan",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "2006",
+  "date_to": null,
+  "evidence": [{"description": "Secretary-General of PDKI since 2006"}],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": null
+}

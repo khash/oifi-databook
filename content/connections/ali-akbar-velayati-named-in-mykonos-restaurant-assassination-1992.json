@@ -1,0 +1,14 @@
+{
+  "entity_id": "ali-akbar-velayati-named-in-mykonos-restaurant-assassination-1992",
+  "from_entity": "ali-akbar-velayati",
+  "to_entity": "mykonos-restaurant-assassination-1992",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [{"description": "German court verdict of 10 April 1997 found the assassination was ordered by the Committee for Special Operations including Foreign Minister Velayati"}],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": null
+}

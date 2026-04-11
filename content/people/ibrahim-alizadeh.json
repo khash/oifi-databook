@@ -1,0 +1,18 @@
+{
+  "entity_id": "ibrahim-alizadeh",
+  "slug": "ibrahim-alizadeh",
+  "name_en": "Ibrahim Alizadeh",
+  "name_fa": "ابراهیم علیزاده",
+  "has_native_fa_name": true,
+  "aliases": ["Ebrahim Alizadeh"],
+  "born": 1950,
+  "birthplace": "Kurdistan Province",
+  "role": "First Secretary of the Communist Party of Iran",
+  "faction": "opposition",
+  "bio": "Ibrahim Alizadeh (born c. 1950) is the First Secretary of the [Communist Party of Iran](/orgs/communist-party-of-iran) and leader of the CPI-affiliated [Komala](/orgs/komala-party-of-iranian-kurdistan) faction. After the 2000 split in which [Abdullah Mohtadi](/people/abdullah-mohtadi) led one wing of Komala out of the CPI, Alizadeh maintained the party's communist ideological orientation and its affiliation with the CPI. He has led the organisation from exile in Iraqi Kurdistan, continuing to advocate for Kurdish rights and working-class politics within the framework of Marxism-Leninism.",
+  "irgc_member": false,
+  "expertise": ["Kurdish politics", "communist organizing"],
+  "tags": ["in-exile"],
+  "photo": null,
+  "editorial_notes": "Leads the CPI-affiliated Komala faction, as distinct from Abdullah Mohtadi's independent Komala Party. Birth year approximate."
+}

@@ -1,0 +1,15 @@
+{
+  "entity_id": "union-of-iranian-communists-sarbedaran",
+  "slug": "union-of-iranian-communists-sarbedaran",
+  "name_en": "Union of Iranian Communists (Sarbedaran)",
+  "name_fa": "اتحادیه کمونیست‌های ایران (سربداران)",
+  "has_native_fa_name": true,
+  "type": "political-party",
+  "founded": 1976,
+  "dissolved": 1982,
+  "parent_org": null,
+  "description": "The Union of Iranian Communists, known as Sarbedaran (a reference to the medieval Sarbedaran revolt against Mongol rule), was a Maoist organization formed in 1976 from the alliance of several militant communist groups operating inside Iran. The organization is best known for its January 1982 armed uprising in Amol, a city in northern Iran, where Sarbedaran fighters attempted to seize control in an insurrection against the Islamic Republic. The uprising was quickly crushed by government forces and [IRGC](/orgs/islamic-revolutionary-guard-corps) units, and most of the organization's members were killed or arrested and subsequently executed. The Sarbedaran's Amol uprising was the only significant armed communist insurrection attempted inside Iran after the revolution. In 2001, remnants reconstituted as the Communist Party of Iran (Marxist-Leninist-Maoist).",
+  "faction": "opposition",
+  "tags": ["banned", "defunct"],
+  "editorial_notes": "Maoist group. Best known for failed 1982 Amol uprising. Reconstituted as CPI(MLM) in 2001."
+}

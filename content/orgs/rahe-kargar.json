@@ -1,0 +1,15 @@
+{
+  "entity_id": "rahe-kargar",
+  "slug": "rahe-kargar",
+  "name_en": "Organization of Revolutionary Workers of Iran (Rahe Kargar)",
+  "name_fa": "سازمان کارگران انقلابی ایران (راه کارگر)",
+  "has_native_fa_name": true,
+  "type": "political-party",
+  "founded": 1979,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Rahe Kargar (Worker's Path) was formed during the [1979 revolution](/events/iranian-revolution-1979) as a Marxist political organization with close ties to the [Fadaiyan-e Khalq](/orgs/organization-of-iranian-peoples-fadai-guerrillas) movement. The organization distinguished itself from the pro-Soviet [Tudeh Party](/orgs/tudeh-party-of-iran) by maintaining an independent socialist line critical of both superpowers. Rahe Kargar published a newspaper of the same name and was active in labour organizing and political education. Like other leftist groups, it was suppressed in the early 1980s crackdown. Many members were executed in the [1988 mass executions](/events/mass-executions-1988). The organization continues in exile.",
+  "faction": "opposition",
+  "tags": ["banned", "in-exile"],
+  "editorial_notes": "Independent Marxist organization. Close to Fadaiyan tradition. Active in exile."
+}

@@ -1,0 +1,15 @@
+{
+  "entity_id": "tudeh-party-of-iran",
+  "slug": "tudeh-party-of-iran",
+  "name_en": "Tudeh Party of Iran",
+  "name_fa": "حزب توده ایران",
+  "has_native_fa_name": true,
+  "type": "political-party",
+  "founded": 1941,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Tudeh Party of Iran (Party of the Masses of Iran) is the oldest communist party in Iran, founded on 29 September 1941 by a group of Marxist intellectuals released from prison after the Allied invasion of Iran. Under [Iraj Eskandari](/people/iraj-eskandari)'s early leadership, the party grew into Iran's largest political organization by the mid-1940s, with some 25,000 members and 400,000 affiliated trade unionists. The party was banned in 1949 after an assassination attempt on [Mohammad Reza Shah](/people/mohammad-reza-shah-pahlavi) and driven fully underground after the 1953 coup. Following the [1979 revolution](/events/iranian-revolution-1979), the Tudeh initially supported [Khomeini](/people/ruhollah-khomeini)'s government under the leadership of [Nureddin Kianouri](/people/nureddin-kianouri), who advocated alliance with the Islamic Republic against imperialism. This strategy proved catastrophic: in 1983 the regime arrested the entire party leadership, tortured members into televised confessions, and executed an estimated 163 cadres. The party's chief ideologue [Ehsan Tabari](/people/ehsan-tabari) died in prison. Surviving leaders fled to Western Europe, where the party continues to operate in exile, publishing its newspaper Nameh-ye Mardom.",
+  "faction": "opposition",
+  "tags": ["banned", "in-exile"],
+  "editorial_notes": "Iran's historic communist party. Pro-Soviet orientation. Effectively destroyed in 1983 crackdown. Continues in exile."
+}

@@ -1,0 +1,18 @@
+{
+  "entity_id": "mansoor-hekmat",
+  "slug": "mansoor-hekmat",
+  "name_en": "Mansoor Hekmat",
+  "name_fa": "منصور حکمت",
+  "has_native_fa_name": true,
+  "aliases": ["Zhoobin Razani"],
+  "born": 1951,
+  "birthplace": "Tehran",
+  "role": "Founder of the Worker-communist Party of Iran",
+  "faction": "opposition",
+  "bio": "Mansoor Hekmat (1951–2002), born Zhoobin Razani, was an Iranian Marxist revolutionary and the founder of the worker-communist movement. After the [1979 revolution](/events/iranian-revolution-1979), he established the movement of Revolutionary Marxism and in 1983 co-founded the [Communist Party of Iran](/orgs/communist-party-of-iran) together with the [Komala](/orgs/komala-party-of-iranian-kurdistan) movement. In 1991 he broke away to found the [Worker-communist Party of Iran](/orgs/worker-communist-party-of-iran), rejecting both the Soviet model and Third World nationalism in favour of a humanist Marxism centred on working-class self-emancipation. Hekmat was a prolific writer and theorist whose works criticised nationalism, political Islam, and identity politics from a universalist perspective. He led the WPI from exile until his death from cancer on 4 July 2002 in London. His death triggered a leadership crisis that split the party into rival factions.",
+  "irgc_member": false,
+  "expertise": ["Marxist theory", "political philosophy"],
+  "tags": ["deceased", "in-exile"],
+  "photo": null,
+  "editorial_notes": "Born Zhoobin Razani. Major Iranian Marxist theorist. Died in London 2002."
+}

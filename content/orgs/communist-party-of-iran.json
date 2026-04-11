@@ -1,0 +1,15 @@
+{
+  "entity_id": "communist-party-of-iran",
+  "slug": "communist-party-of-iran",
+  "name_en": "Communist Party of Iran",
+  "name_fa": "حزب کمونیست ایران",
+  "has_native_fa_name": true,
+  "type": "political-party",
+  "founded": 1983,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Communist Party of Iran (CPI) was founded on 2 September 1983 through the merger of the [Komala Party of Iranian Kurdistan](/orgs/komala-party-of-iranian-kurdistan) with several Iranian leftist organizations, including the Union of Communist Militants and a faction of the [Peykar Organization](/orgs/peykar-organization). [Mansoor Hekmat](/people/mansoor-hekmat) was a co-founder and leading theoretician of the party. The CPI opposed both the Islamic Republic and the Soviet model of socialism, advocating worker-council communism. In 1991, Hekmat and a significant portion of the membership left to form the [Worker-communist Party of Iran](/orgs/worker-communist-party-of-iran). In 2000, the [Komala](/orgs/komala-party-of-iranian-kurdistan) wing under [Abdullah Mohtadi](/people/abdullah-mohtadi) also split, further weakening the party. The CPI continues to operate in exile.",
+  "faction": "opposition",
+  "tags": ["banned", "in-exile"],
+  "editorial_notes": "Founded 1983 from Komala + other groups. Significantly weakened by 1991 and 2000 splits."
+}

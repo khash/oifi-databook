@@ -1,0 +1,15 @@
+{
+  "entity_id": "worker-communist-party-of-iran",
+  "slug": "worker-communist-party-of-iran",
+  "name_en": "Worker-communist Party of Iran",
+  "name_fa": "حزب کمونیست کارگری ایران",
+  "has_native_fa_name": true,
+  "type": "political-party",
+  "founded": 1991,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Worker-communist Party of Iran (WPI) was founded in 1991 by [Mansoor Hekmat](/people/mansoor-hekmat) and other members who split from the [Communist Party of Iran](/orgs/communist-party-of-iran). The party rejects both the Soviet model and Third World nationalism, advocating instead for a form of Marxism centred on working-class self-emancipation and secularism. Its primary slogans are 'Liberty, Equality, Workers' Rule' and 'For a Socialist Republic.' Hekmat led the party until his death in 2002, after which a leadership dispute split the WPI into two factions: one under Hamid Taqvaee and another under Koorosh Modarresi, who founded a separate Worker-communist Party (Hekmatist). The WPI has been active in international solidarity campaigns, particularly around women's rights, and opposed the Islamic Republic from exile.",
+  "faction": "opposition",
+  "tags": ["banned", "in-exile"],
+  "editorial_notes": "Founded by Mansoor Hekmat. Split after his death in 2002. Active in exile."
+}

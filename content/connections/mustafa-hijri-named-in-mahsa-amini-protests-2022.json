@@ -1,0 +1,14 @@
+{
+  "entity_id": "mustafa-hijri-named-in-mahsa-amini-protests-2022",
+  "from_entity": "mustafa-hijri",
+  "to_entity": "mahsa-amini-protests-2022",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [{"description": "Called for united Iranian opposition front during the 2022 Mahsa Amini protests"}],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": null
+}

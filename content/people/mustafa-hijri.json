@@ -1,0 +1,18 @@
+{
+  "entity_id": "mustafa-hijri",
+  "slug": "mustafa-hijri",
+  "name_en": "Mustafa Hijri",
+  "name_fa": "مصطفی هجری",
+  "has_native_fa_name": true,
+  "aliases": ["Mostafa Hejri"],
+  "born": 1948,
+  "birthplace": "Mahabad",
+  "role": "Secretary-General of the Democratic Party of Iranian Kurdistan",
+  "faction": "opposition",
+  "bio": "Mustafa Hijri (born 1948) is the current Secretary-General of the [Democratic Party of Iranian Kurdistan](/orgs/democratic-party-of-iranian-kurdistan), a position he has held since 2006. A lifelong party member, he joined the PDKI during the Kurdish armed struggle in the 1970s and rose through its political and military ranks. Operating from Iraqi Kurdistan, he has continued to advocate for Kurdish self-determination within a federal democratic Iran. During the [Mahsa Amini protests](/events/mahsa-amini-protests-2022) of 2022, he called for a united front among Iranian opposition groups and the PDKI's Kurdistan branch saw significant mobilisation.",
+  "irgc_member": false,
+  "expertise": ["Kurdish politics", "political leadership"],
+  "tags": ["in-exile"],
+  "photo": null,
+  "editorial_notes": "Current PDKI leader since 2006. Based in Kurdistan Region of Iraq."
+}

@@ -1,0 +1,15 @@
+{
+  "entity_id": "confederation-of-iranian-students",
+  "slug": "confederation-of-iranian-students",
+  "name_en": "Confederation of Iranian Students (National Union)",
+  "name_fa": "کنفدراسیون جهانی محصلین و دانشجویان ایرانی (اتحادیه ملی)",
+  "has_native_fa_name": true,
+  "type": "ngo",
+  "founded": 1960,
+  "dissolved": 1979,
+  "parent_org": null,
+  "description": "The Confederation of Iranian Students, National Union (CISNU) was the first universal Iranian student organization, established in 1960 in Heidelberg, Germany. Initially influenced by [National Front](/orgs/national-front-iran) and [Tudeh Party](/orgs/tudeh-party-of-iran) sympathizers, the Confederation progressively radicalized throughout the 1960s and 1970s, eventually embracing Marxist, Maoist, and pro-guerrilla positions. CISNU played a prominent role in the international student protests of 1967-1969, particularly demonstrations against the Shah's state visits to Western Europe. The Iranian government declared CISNU illegal in 1971. By 1975, the Confederation had fragmented into competing Maoist and pro-guerrilla factions. CISNU was a key incubator of the Iranian left abroad, with many of its members joining organizations like the [Fadaiyan-e Khalq](/orgs/organization-of-iranian-peoples-fadai-guerrillas) and other revolutionary groups. The organization dissolved after the [1979 revolution](/events/iranian-revolution-1979) as members returned to Iran.",
+  "faction": "opposition",
+  "tags": ["banned", "defunct"],
+  "editorial_notes": "Key incubator of Iranian left abroad. Illegal after 1971. Dissolved 1979."
+}

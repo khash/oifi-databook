@@ -1,0 +1,14 @@
+{
+  "entity_id": "sadegh-sharafkandi-led-democratic-party-of-iranian-kurdistan",
+  "from_entity": "sadegh-sharafkandi",
+  "to_entity": "democratic-party-of-iranian-kurdistan",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "1989",
+  "date_to": "1992",
+  "evidence": [{"description": "Became PDKI Secretary-General after Ghassemlou's assassination in 1989, served until his own assassination in 1992"}],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": null
+}

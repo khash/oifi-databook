@@ -1,0 +1,14 @@
+{
+  "entity_id": "qazi-muhammad-participated-in-republic-of-mahabad-1946",
+  "from_entity": "qazi-muhammad",
+  "to_entity": "republic-of-mahabad-1946",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [{"description": "Served as president of the Republic of Mahabad in 1946"}],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": null
+}

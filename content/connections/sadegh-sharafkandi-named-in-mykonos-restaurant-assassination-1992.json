@@ -1,0 +1,14 @@
+{
+  "entity_id": "sadegh-sharafkandi-named-in-mykonos-restaurant-assassination-1992",
+  "from_entity": "sadegh-sharafkandi",
+  "to_entity": "mykonos-restaurant-assassination-1992",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [{"description": "Primary target of the Mykonos restaurant assassination on 17 September 1992"}],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": null
+}

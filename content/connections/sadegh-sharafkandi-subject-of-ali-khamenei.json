@@ -1,0 +1,14 @@
+{
+  "entity_id": "sadegh-sharafkandi-subject-of-ali-khamenei",
+  "from_entity": "sadegh-sharafkandi",
+  "to_entity": "ali-khamenei",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [{"description": "German Mykonos trial verdict found Khamenei was part of the Committee for Special Operations that ordered Sharafkandi's assassination"}],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": null
+}

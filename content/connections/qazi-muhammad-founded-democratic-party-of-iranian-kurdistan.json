@@ -1,0 +1,14 @@
+{
+  "entity_id": "qazi-muhammad-founded-democratic-party-of-iranian-kurdistan",
+  "from_entity": "qazi-muhammad",
+  "to_entity": "democratic-party-of-iranian-kurdistan",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "1945",
+  "date_to": null,
+  "evidence": [{"description": "Founded the Kurdistan Democratic Party (predecessor to PDKI) in August 1945"}],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": null
+}

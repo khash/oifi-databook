@@ -1,0 +1,18 @@
+{
+  "entity_id": "qazi-muhammad",
+  "slug": "qazi-muhammad",
+  "name_en": "Qazi Muhammad",
+  "name_fa": "قاضی محمد",
+  "has_native_fa_name": true,
+  "aliases": ["Qazi Mohammed", "Ghazi Mohammad"],
+  "born": 1893,
+  "birthplace": "Mahabad",
+  "role": "President of the Republic of Mahabad",
+  "faction": "opposition",
+  "bio": "Qazi Muhammad (1893–1947) was a Kurdish judge, religious leader, and politician who served as president of the short-lived [Republic of Mahabad](/events/republic-of-mahabad-1946) in 1946. He founded the Kurdistan Democratic Party (later the [Democratic Party of Iranian Kurdistan](/orgs/democratic-party-of-iranian-kurdistan)) in August 1945. When Soviet forces withdrew from northwestern Iran under international pressure in May 1946, the republic lost its military backing and collapsed in December 1946. Qazi Muhammad was arrested, tried by a military tribunal, and hanged in Mahabad's Chia Chira Square on 31 March 1947. He remains an iconic figure in Kurdish nationalism.",
+  "irgc_member": false,
+  "expertise": ["Kurdish politics", "jurisprudence"],
+  "tags": ["deceased"],
+  "photo": null,
+  "editorial_notes": "Executed 31 March 1947. Founded KDPI predecessor. President of Republic of Mahabad (Jan-Dec 1946)."
+}

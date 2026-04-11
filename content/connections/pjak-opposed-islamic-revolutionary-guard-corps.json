@@ -1,0 +1,14 @@
+{
+  "entity_id": "pjak-opposed-islamic-revolutionary-guard-corps",
+  "from_entity": "pjak",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [{"description": "PJAK has conducted armed operations against IRGC forces in Iranian Kurdistan border regions"}],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": null
+}

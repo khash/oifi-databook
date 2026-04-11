@@ -1,0 +1,15 @@
+{
+  "entity_id": "komala-party-of-iranian-kurdistan",
+  "slug": "komala-party-of-iranian-kurdistan",
+  "name_en": "Komala Party of Iranian Kurdistan",
+  "name_fa": "حزب کومه‌له کردستان ایران",
+  "has_native_fa_name": true,
+  "type": "political-party",
+  "founded": 1969,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Komala (meaning 'association' in Kurdish) was founded in 1969 by Kurdish student leaders and intellectuals in Tehran. Initially Maoist in orientation, it operated underground until the [1979 revolution](/events/iranian-revolution-1979), after which it became a major force in the Kurdish resistance to the Islamic Republic. Komala fought alongside the [Democratic Party of Iranian Kurdistan](/orgs/democratic-party-of-iranian-kurdistan) against the central government's military campaigns in Kurdistan. In 1983, Komala merged with several other leftist groups to form the [Communist Party of Iran](/orgs/communist-party-of-iran), serving as its Kurdish branch. In 2000, the faction led by [Abdullah Mohtadi](/people/abdullah-mohtadi) split from the CPI and reconstituted itself as the independent Komala Party, gradually evolving from Marxism toward social democracy. The organization advocates Kurdish self-determination and federalism in Iran.",
+  "faction": "opposition",
+  "tags": ["banned", "in-exile"],
+  "editorial_notes": "Originally Maoist. Split from CPI in 2000 under Mohtadi. Now social-democratic. Designated terrorist by Iran and Japan."
+}

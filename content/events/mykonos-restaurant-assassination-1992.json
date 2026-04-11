@@ -1,0 +1,21 @@
+{
+  "entity_id": "mykonos-restaurant-assassination-1992",
+  "slug": "mykonos-restaurant-assassination-1992",
+  "name": "Mykonos Restaurant Assassination",
+  "date": "1992-09-17",
+  "type": "death",
+  "description": "On 17 September 1992, gunmen entered the Mykonos Greek restaurant in Berlin and shot dead [Sadegh Sharafkandi](/people/sadegh-sharafkandi), Secretary-General of the [Democratic Party of Iranian Kurdistan](/orgs/democratic-party-of-iranian-kurdistan), along with PDKI representatives Fattah Abdoli and Homayoun Ardalan, and their translator Nouri Dehkordi. The assassination was carried out by Kazem Darabi, an Iranian national, and Abbas Rhayel, a Lebanese associate. The subsequent trial (1993–1997) produced a landmark verdict finding that the killings were ordered by the Committee for Special Operations, which included [Ali Khamenei](/people/ali-khamenei), [Akbar Hashemi Rafsanjani](/people/akbar-hashemi-rafsanjani), [Ali Fallahian](/people/ali-fallahian), and [Ali Akbar Velayati](/people/ali-akbar-velayati). This was the first time a European court officially attributed state-sponsored terrorism to the highest levels of the Iranian government, triggering the recall of all EU ambassadors from Tehran.",
+  "body": null,
+  "sources": [
+    {
+      "name": "Wikipedia — Mykonos restaurant assassinations",
+      "url": "https://en.wikipedia.org/wiki/Mykonos_restaurant_assassinations"
+    },
+    {
+      "name": "Human Rights Watch — State-sponsored assassinations report",
+      "url": "https://www.hrw.org/reports/1997/iran/"
+    }
+  ],
+  "tags": [],
+  "editorial_notes": "Landmark German court verdict 10 April 1997 implicated Khamenei, Rafsanjani, Fallahian, Velayati. All EU ambassadors recalled from Tehran."
+}

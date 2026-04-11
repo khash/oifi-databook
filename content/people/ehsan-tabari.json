@@ -1,0 +1,18 @@
+{
+  "entity_id": "ehsan-tabari",
+  "slug": "ehsan-tabari",
+  "name_en": "Ehsan Tabari",
+  "name_fa": "احسان طبری",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1917,
+  "birthplace": "Sari",
+  "role": "Chief ideologue of the Tudeh Party of Iran",
+  "faction": "opposition",
+  "bio": "Ehsan Tabari (1917–1989) was Iran's most prominent Marxist intellectual and the chief ideologue of the [Tudeh Party of Iran](/orgs/tudeh-party-of-iran). A member of the famous Group of Fifty-Three arrested in 1937, he was among the founders of the Tudeh Party upon his release in 1941. Over four decades he produced an extensive body of Marxist philosophical and literary criticism that profoundly influenced Iranian intellectual life. After the [1979 revolution](/events/iranian-revolution-1979), Tabari was arrested alongside other Tudeh leaders in 1983 and subjected to torture and forced confessions. He appeared on state television renouncing Marxism and praising Islam, confessions widely understood to have been extracted under duress. He died in Evin prison in 1989 from heart failure.",
+  "irgc_member": false,
+  "expertise": ["Marxist philosophy", "literary criticism"],
+  "tags": ["deceased", "political-prisoner"],
+  "photo": null,
+  "editorial_notes": "Iran's most important Marxist intellectual. Died in Evin prison 1989. Forced televised recantation."
+}

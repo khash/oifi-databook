@@ -1,0 +1,18 @@
+{
+  "entity_id": "farzad-kamangar",
+  "slug": "farzad-kamangar",
+  "name_en": "Farzad Kamangar",
+  "name_fa": "فرزاد کمانگر",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1975,
+  "birthplace": "Kamyaran",
+  "role": "Kurdish teacher and political prisoner",
+  "faction": "opposition",
+  "bio": "Farzad Kamangar (1975–2010) was a Kurdish schoolteacher from Kamyaran who became an international symbol of political repression in Iran. Arrested in 2006, he was charged with moharebeh (enmity against God) for alleged membership in [PJAK](/orgs/pjak), charges he denied. His trial lasted only minutes and was condemned by Amnesty International and Human Rights Watch as lacking due process. He was secretly executed on 9 May 2010 in Evin prison, along with four other political prisoners, without his family or lawyer being notified. His letters from prison gained widespread circulation and he became a symbol of the Kurdish rights struggle in Iran.",
+  "irgc_member": false,
+  "expertise": ["education"],
+  "tags": ["deceased", "political-prisoner"],
+  "photo": null,
+  "editorial_notes": "Executed 9 May 2010. Trial widely condemned as unfair. Symbol of Kurdish political repression."
+}

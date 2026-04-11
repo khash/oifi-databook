@@ -1,0 +1,14 @@
+{
+  "entity_id": "abdul-rahman-ghassemlou-coordinated-with-sadegh-sharafkandi",
+  "from_entity": "abdul-rahman-ghassemlou",
+  "to_entity": "sadegh-sharafkandi",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "1989",
+  "evidence": [{"description": "Sharafkandi was a senior PDKI figure and succeeded Ghassemlou as Secretary-General after his assassination in 1989"}],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": null
+}

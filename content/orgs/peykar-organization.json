@@ -1,0 +1,15 @@
+{
+  "entity_id": "peykar-organization",
+  "slug": "peykar-organization",
+  "name_en": "Peykar Organization",
+  "name_fa": "سازمان پیکار در راه آزادی طبقه کارگر",
+  "has_native_fa_name": true,
+  "type": "political-party",
+  "founded": 1978,
+  "dissolved": 1982,
+  "parent_org": null,
+  "description": "The Peykar Organization (Organization of Struggle for the Emancipation of the Working Class), also known as the Marxist Mojahedin, was a Maoist splinter group from the [Mojahedin-e Khalq](/orgs/mojahedin-e-khalq). The ideological split originated in 1975 when a faction within the MEK, led by Taghi Shahram, declared that they had abandoned Islam in favour of Marxism-Leninism. This schism triggered violent internal conflict, including the murder of MEK members who refused to convert. The Marxist faction formally renamed itself Peykar in 1978 shortly before the [revolution](/events/iranian-revolution-1979). Considered the most radical of Iran's communist groups, Peykar was rapidly suppressed by the Islamic Republic through mass arrests and executions in the early 1980s, and ceased to exist by 1982.",
+  "faction": "opposition",
+  "tags": ["banned", "defunct"],
+  "editorial_notes": "Marxist splinter from MEK. Violently suppressed by early 1980s. Considered the most extreme Iranian communist group."
+}

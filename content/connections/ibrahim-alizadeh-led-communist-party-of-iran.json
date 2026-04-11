@@ -1,0 +1,14 @@
+{
+  "entity_id": "ibrahim-alizadeh-led-communist-party-of-iran",
+  "from_entity": "ibrahim-alizadeh",
+  "to_entity": "communist-party-of-iran",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [{"description": "First Secretary of the Communist Party of Iran"}],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": null
+}

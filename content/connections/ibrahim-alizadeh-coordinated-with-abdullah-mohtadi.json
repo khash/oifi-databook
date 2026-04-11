@@ -1,0 +1,14 @@
+{
+  "entity_id": "ibrahim-alizadeh-coordinated-with-abdullah-mohtadi",
+  "from_entity": "ibrahim-alizadeh",
+  "to_entity": "abdullah-mohtadi",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [{"description": "Both led factions of Komala after the 2000 split from the CPI"}],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Co-leaders of Komala until the 2000 split into CPI-affiliated and independent factions"
+}

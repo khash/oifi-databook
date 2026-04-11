@@ -1,0 +1,15 @@
+{
+  "entity_id": "organization-of-iranian-peoples-fadai-guerrillas",
+  "slug": "organization-of-iranian-peoples-fadai-guerrillas",
+  "name_en": "Organization of Iranian People's Fadai Guerrillas",
+  "name_fa": "سازمان چریک‌های فدایی خلق ایران",
+  "has_native_fa_name": true,
+  "type": "political-party",
+  "founded": 1971,
+  "dissolved": 1980,
+  "parent_org": null,
+  "description": "The Organization of Iranian People's Fadai Guerrillas (OIPFG), commonly known as Fadaiyan-e Khalq, was a Marxist-Leninist guerrilla organization founded in 1971 from the merger of two underground communist groups: the Jazani-Zarifi group led by [Bijan Jazani](/people/bijan-jazani), and the Ahmadzadeh-Pouyan group. The organization's founding is marked by the attack on the Siahkal gendarmerie post in February 1971, an event celebrated by Iranian dissidents as a catalyst for armed resistance against the Shah's regime. Inspired by Che Guevara, Mao Zedong, and the theory of armed propaganda, the Fadaiyan waged guerrilla warfare against the Pahlavi monarchy throughout the 1970s, suffering heavy losses to [SAVAK](/orgs/savak). After the [1979 revolution](/events/iranian-revolution-1979), the organization participated in political life but faced internal crises that led to its split in 1980 into the [Fadaiyan-e Khalq (Majority)](/orgs/fadaiyan-e-khalq-majority) and [Fadaiyan-e Khalq (Minority)](/orgs/fadaiyan-e-khalq-minority) factions.",
+  "faction": "opposition",
+  "tags": ["banned", "defunct"],
+  "editorial_notes": "Split into Majority and Minority factions in 1980. One of the most important armed leftist groups pre-revolution."
+}

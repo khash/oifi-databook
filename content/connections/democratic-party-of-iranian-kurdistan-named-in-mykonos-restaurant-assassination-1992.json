@@ -1,0 +1,14 @@
+{
+  "entity_id": "democratic-party-of-iranian-kurdistan-named-in-mykonos-restaurant-assassination-1992",
+  "from_entity": "democratic-party-of-iranian-kurdistan",
+  "to_entity": "mykonos-restaurant-assassination-1992",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [{"description": "Sharafkandi was assassinated while serving as PDKI Secretary-General"}],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": null
+}

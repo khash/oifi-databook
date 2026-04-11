@@ -1,0 +1,15 @@
+{
+  "entity_id": "fadaiyan-e-khalq-minority",
+  "slug": "fadaiyan-e-khalq-minority",
+  "name_en": "Organization of Iranian People's Fadaian (Minority)",
+  "name_fa": "سازمان فداییان خلق ایران (اقلیت)",
+  "has_native_fa_name": true,
+  "type": "political-party",
+  "founded": 1980,
+  "dissolved": null,
+  "parent_org": "organization-of-iranian-peoples-fadai-guerrillas",
+  "description": "The Fadaiyan-e Khalq (Minority) split from the [Organization of Iranian People's Fadai Guerrillas](/orgs/organization-of-iranian-peoples-fadai-guerrillas) in 1980, rejecting the pro-Soviet line adopted by the [Majority faction](/orgs/fadaiyan-e-khalq-majority). The Minority maintained an anti-imperialist stance critical of both the Soviet Union and the Islamic Republic, and continued to advocate armed struggle. The faction opposed the regime from the outset and was among the first leftist groups targeted in the post-revolution crackdown. Many of its members were executed in the early 1980s and in the [1988 mass executions](/events/mass-executions-1988). The organization continues in exile.",
+  "faction": "opposition",
+  "tags": ["banned", "in-exile"],
+  "editorial_notes": "Anti-Soviet faction. Rejected collaboration with Islamic Republic. Heavily repressed."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_id": "abdul-rahman-ghassemlou-named-in-mykonos-restaurant-assassination-1992",
+  "from_entity": "abdul-rahman-ghassemlou",
+  "to_entity": "mykonos-restaurant-assassination-1992",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [{"description": "The Mykonos assassination of his successor Sharafkandi was a direct continuation of the pattern that began with Ghassemlou's own assassination"}],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": null
+}

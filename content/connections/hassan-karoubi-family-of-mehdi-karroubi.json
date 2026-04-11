@@ -1,0 +1,21 @@
+{
+  "entity_id": "hassan-karoubi-family-of-mehdi-karroubi",
+  "from_entity": "hassan-karoubi",
+  "to_entity": "mehdi-karroubi",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://irp.fas.org/offdocs/walsh/part_i.htm",
+      "source_title": "Walsh Iran-Contra Report — Part I: The Underlying Facts",
+      "source_date": null,
+      "description": "Hassan Karoubi is the brother of Mehdi Karroubi."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "sibling",
+  "editorial_notes": "Brothers. Hassan was the intermediary in Iran-Contra; Mehdi became a major reformist political figure."
+}

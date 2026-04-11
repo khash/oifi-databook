@@ -1,0 +1,21 @@
+{
+  "entity_id": "mehdi-hashemi-served-in-islamic-revolutionary-guard-corps",
+  "from_entity": "mehdi-hashemi",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1980",
+  "date_to": "1986",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mehdi_Hashemi",
+      "source_title": "Mehdi Hashemi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Hashemi headed the IRGC's Bureau for Liberation Movements, overseeing Iran's revolutionary export operations."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Head of the Bureau for Liberation Movements (also called Office for Liberation Movements). Arrested October 1986."
+}

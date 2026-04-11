@@ -1,0 +1,21 @@
+{
+  "entity_id": "rafsanjani-participated-in-iran-contra-affair-1985",
+  "from_entity": "akbar-hashemi-rafsanjani",
+  "to_entity": "iran-contra-affair-1985",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1985",
+  "date_to": "1986",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Contra_affair",
+      "source_title": "Iran-Contra affair — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Rafsanjani was identified by U.S. officials as the principal Iranian interlocutor and leader of the 'moderate' faction with whom they sought rapprochement. He was the key decision-maker on the Iranian side of the arms-for-hostages arrangement."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Rafsanjani was Speaker of the Majlis and the main Iranian figure the Reagan administration dealt with through intermediaries."
+}

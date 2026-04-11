@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-ali-montazeri-named-in-iran-contra-affair-1985",
+  "from_entity": "hossein-ali-montazeri",
+  "to_entity": "iran-contra-affair-1985",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1986",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Contra_affair",
+      "source_title": "Iran-Contra affair — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Montazeri's protégé Mehdi Hashemi leaked the affair. The scandal and Hashemi's execution weakened Montazeri's political position."
+    }
+  ],
+  "intermediaries": ["mehdi-hashemi"],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Montazeri was indirectly involved through Mehdi Hashemi, who headed the IRGC Liberation Movements bureau under Montazeri's patronage."
+}

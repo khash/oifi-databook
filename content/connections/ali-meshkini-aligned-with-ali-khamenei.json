@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-meshkini-aligned-with-ali-khamenei",
+  "from_entity": "ali-meshkini",
+  "to_entity": "ali-khamenei",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Meshkini",
+      "source_title": "Ali Meshkini — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Meshkini was a loyal supporter of Ali Khamenei and served as chairman of the Assembly of Experts that supervised the Supreme Leader."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

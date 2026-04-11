@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-ali-montazeri-aligned-with-mehdi-karroubi",
+  "from_entity": "hossein-ali-montazeri",
+  "to_entity": "mehdi-karroubi",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2009",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hussein-Ali_Montazeri",
+      "source_title": "Hussein-Ali Montazeri — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Montazeri and Karroubi shared concerns about political prisoners and human rights. Both supported the Green Movement in 2009."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": "Both clerics, both Green Movement supporters. Karroubi publicly honored Montazeri."
+}

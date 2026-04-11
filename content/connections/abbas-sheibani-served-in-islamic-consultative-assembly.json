@@ -1,0 +1,21 @@
+{
+  "entity_id": "abbas-sheibani-served-in-islamic-consultative-assembly",
+  "from_entity": "abbas-sheibani",
+  "to_entity": "islamic-consultative-assembly",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1984",
+  "date_to": "2000",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abbas_Sheibani",
+      "source_title": "Abbas Sheibani — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Served five terms in the Islamic Consultative Assembly representing Tehran (1984–2000)."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "5 terms (2nd through 6th Majles), 19 years total."
+}

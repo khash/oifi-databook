@@ -1,0 +1,21 @@
+{
+  "entity_id": "mojahedin-e-khalq-named-in-constitutional-referendum-1979",
+  "from_entity": "mojahedin-e-khalq",
+  "to_entity": "constitutional-referendum-1979",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/1979_Iranian_constitutional_referendum",
+      "source_title": "1979 Iranian constitutional referendum — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "The Mojahedin-e Khalq boycotted the constitutional referendum."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

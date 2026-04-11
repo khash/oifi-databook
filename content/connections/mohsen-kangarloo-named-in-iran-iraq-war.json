@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohsen-kangarloo-named-in-iran-iraq-war",
+  "from_entity": "mohsen-kangarloo",
+  "to_entity": "iran-iraq-war",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1986",
+  "date_to": "1986",
+  "evidence": [
+    {
+      "source_url": "https://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/i-theexpansion.php",
+      "source_title": "Understanding the Iran-Contra Affairs — Brown University",
+      "source_date": null,
+      "description": "Kangarloo negotiated for advanced air-to-air missiles for Iran's F-14 fleet, needed for the Iran-Iraq War effort."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Pushed for Phoenix and Sidewinder missiles for wartime F-14 operations."
+}

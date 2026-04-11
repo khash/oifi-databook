@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-yazdi-headed-judiciary-of-iran",
+  "from_entity": "mohammad-yazdi",
+  "to_entity": "judiciary-of-iran",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "1989",
+  "date_to": "1999",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Yazdi",
+      "source_title": "Mohammad Yazdi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Served as Chief Justice of Iran from 1989 to 1999."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

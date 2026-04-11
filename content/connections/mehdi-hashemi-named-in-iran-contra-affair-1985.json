@@ -1,0 +1,27 @@
+{
+  "entity_id": "mehdi-hashemi-named-in-iran-contra-affair-1985",
+  "from_entity": "mehdi-hashemi",
+  "to_entity": "iran-contra-affair-1985",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1986",
+  "date_to": "1987",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mehdi_Hashemi",
+      "source_title": "Mehdi Hashemi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Hashemi leaked details of Iran's secret arms dealings with the U.S., including McFarlane's May 1986 Tehran visit, to the Lebanese magazine Ash-Shiraa, whose publication on 3 November 1986 triggered the scandal."
+    },
+    {
+      "source_url": "https://yris.yira.org/essays/importing-arms-exporting-the-revolution-mehdi-hashemi-and-his-fatal-leak-to-ash-shiraa/",
+      "source_title": "Importing Arms, Exporting The Revolution: Mehdi Hashemi And His Fatal Leak To Ash-Shiraa — Yale Review of International Studies",
+      "source_date": null,
+      "description": "Hashemi's ideological opposition to the arms deals and his role in exposing them to the Lebanese press."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Hashemi leaked the affair. Arrested October 1986, executed September 1987."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "montazeri-dismissal-1989-named-in-mass-executions-1988",
+  "from_entity": "montazeri-dismissal-1989",
+  "to_entity": "mass-executions-1988",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hussein-Ali_Montazeri",
+      "source_title": "Hussein-Ali Montazeri — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Montazeri's opposition to the 1988 mass executions was the primary cause of his dismissal as successor."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

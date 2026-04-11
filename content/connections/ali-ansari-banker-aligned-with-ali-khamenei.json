@@ -1,0 +1,23 @@
+{
+  "entity_id": "ali-ansari-banker-aligned-with-ali-khamenei",
+  "from_entity": "ali-ansari-banker",
+  "to_entity": "ali-khamenei",
+  "type": "aligned-with",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://kayhanlife.com/authors/analysis-why-uk-is-imposing-sanctions-on-founder-of-ayandeh-bank/",
+      "source_title": "Why UK Is Imposing Sanctions on Founder of Ayandeh Bank - Kayhan Life",
+      "source_date": "2025-10-30",
+      "description": "Reports link Iran Mall International Development Company to a financial network around the Khamenei family. Mojtaba Khamenei attended the funeral of Ansari's father."
+    }
+  ],
+  "intermediaries": [
+    "mojtaba-khamenei"
+  ],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": "Connection is indirect, through Mojtaba Khamenei. Ali Khamenei is mentioned in the bio as Supreme Leader whose son has alleged ties to Ansari."
+}

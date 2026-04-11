@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-aliabadi-served-in-ministry-of-petroleum",
+  "from_entity": "mohammad-aliabadi",
+  "to_entity": "ministry-of-petroleum",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2011-06",
+  "date_to": "2011-08",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Aliabadi",
+      "source_title": "Mohammad Aliabadi - Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "Ahmadinejad appointed Aliabadi as caretaker Minister of Petroleum from 2 June 2011 to 3 August 2011, after sacking the incumbent. He was replaced by Rostam Ghasemi."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

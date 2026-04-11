@@ -1,0 +1,17 @@
+{
+  "entity_id": "ayandeh-bank",
+  "slug": "ayandeh-bank",
+  "name_en": "Ayandeh Bank",
+  "name_fa": "بانک آینده",
+  "has_native_fa_name": true,
+  "type": "business",
+  "founded": 2012,
+  "dissolved": 2025,
+  "parent_org": null,
+  "description": "Ayandeh Bank was a private Iranian bank formed in 2012 through the merger of Tat Bank, Salehin Credit Institution, and ATI Credit Institution, orchestrated by founder [Ali Ansari](/people/ali-ansari-banker). Operations began in March 2015 and the bank grew to 270 branches across Iran.\n\nThe bank's lending was heavily concentrated in [Iran Mall](/orgs/iran-mall), with approximately 70 percent of its loans directed to entities linked to the mall's development. By 2024, the bank had accumulated $5.1 billion in losses, $2.9 billion in overdrafts from the [Central Bank of Iran](/orgs/central-bank-of-iran), and a capital adequacy ratio of negative 600 percent. Iranian authorities accused the bank of operating as a de facto Ponzi scheme.\n\nOn 23 October 2025, the Central Bank of Iran revoked Ayandeh Bank's operating licence and merged its assets and deposits into state-owned [Bank Melli Iran](/orgs/bank-melli-iran). The collapse contributed to broader public protests over Iran's banking sector. The [United Kingdom](/events/uk-sanctions-ali-ansari-2025) sanctioned founder Ali Ansari one week later for alleged [IRGC](/orgs/islamic-revolutionary-guard-corps) financing.",
+  "faction": null,
+  "tags": [
+    "sanctions"
+  ],
+  "editorial_notes": "Traded on Iran Fara Bourse (ISIN: IRO7AYNP0001). CEO was Farshad Heydari. Former central bank governor Mohammad-Reza Farzin announced the dissolution figures. 61 individuals received ~$1.2B in unsecured loans with no repayment."
+}

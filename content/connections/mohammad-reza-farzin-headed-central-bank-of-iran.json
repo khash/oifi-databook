@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-reza-farzin-headed-central-bank-of-iran",
+  "from_entity": "mohammad-reza-farzin",
+  "to_entity": "central-bank-of-iran",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2023-01",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ayandeh_Bank",
+      "source_title": "Ayandeh Bank - Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "Mohammad-Reza Farzin serves as Governor of the Central Bank of Iran, appointed January 2023 by President Raisi."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

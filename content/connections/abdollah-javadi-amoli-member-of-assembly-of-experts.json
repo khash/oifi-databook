@@ -1,0 +1,21 @@
+{
+  "entity_id": "abdollah-javadi-amoli-member-of-assembly-of-experts",
+  "from_entity": "abdollah-javadi-amoli",
+  "to_entity": "assembly-of-experts",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": "1983",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abdollah_Javadi_Amoli",
+      "source_title": "Abdollah Javadi Amoli — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Served in the Assembly of Experts for Leadership."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

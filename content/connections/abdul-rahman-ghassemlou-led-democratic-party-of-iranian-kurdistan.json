@@ -1,0 +1,21 @@
+{
+  "entity_id": "abdul-rahman-ghassemlou-led-democratic-party-of-iranian-kurdistan",
+  "from_entity": "abdul-rahman-ghassemlou",
+  "to_entity": "democratic-party-of-iranian-kurdistan",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "1973",
+  "date_to": "1989",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abdul_Rahman_Ghassemlou",
+      "source_title": "Abdul Rahman Ghassemlou — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Led the PDKI from 1973 until his assassination in 1989."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

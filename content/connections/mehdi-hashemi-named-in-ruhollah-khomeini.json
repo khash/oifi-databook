@@ -1,0 +1,21 @@
+{
+  "entity_id": "mehdi-hashemi-named-in-ruhollah-khomeini",
+  "from_entity": "mehdi-hashemi",
+  "to_entity": "ruhollah-khomeini",
+  "type": "appointed-by",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "1987",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mehdi_Hashemi_(cleric)",
+      "source_title": "Mehdi Hashemi (cleric) — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Hashemi operated within the revolutionary system under Khomeini's overall authority. His trial and execution were sanctioned by the regime."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Hashemi was part of the revolutionary establishment under Khomeini."
+}

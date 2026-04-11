@@ -1,0 +1,21 @@
+{
+  "entity_id": "assembly-of-experts-for-constitution-affiliated-with-assembly-of-experts",
+  "from_entity": "assembly-of-experts-for-constitution",
+  "to_entity": "assembly-of-experts",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Assembly_of_Experts",
+      "source_title": "Assembly of Experts — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "The Assembly of Experts for the Constitution created the constitutional framework that established the Assembly of Experts for Leadership."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

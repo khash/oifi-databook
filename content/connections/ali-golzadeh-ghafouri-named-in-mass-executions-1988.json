@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-golzadeh-ghafouri-named-in-mass-executions-1988",
+  "from_entity": "ali-golzadeh-ghafouri",
+  "to_entity": "mass-executions-1988",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Golzadeh_Ghafouri",
+      "source_title": "Ali Golzadeh Ghafouri — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Ghafouri's daughter and son-in-law were executed during the 1988 mass executions."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

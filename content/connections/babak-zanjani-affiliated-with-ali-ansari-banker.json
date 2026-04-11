@@ -1,0 +1,21 @@
+{
+  "entity_id": "babak-zanjani-affiliated-with-ali-ansari-banker",
+  "from_entity": "babak-zanjani",
+  "to_entity": "ali-ansari-banker",
+  "type": "affiliated-with",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://kayhanlife.com/authors/analysis-why-uk-is-imposing-sanctions-on-founder-of-ayandeh-bank/",
+      "source_title": "Why UK Is Imposing Sanctions on Founder of Ayandeh Bank - Kayhan Life",
+      "source_date": "2025-10-30",
+      "description": "Babak Zanjani reportedly attended the funeral of Ali Ansari's father in June 2025, indicating a connection between the two sanctioned businessmen."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Both are sanctioned businessmen who operated within IRGC-connected economic networks during the Ahmadinejad era."
+}

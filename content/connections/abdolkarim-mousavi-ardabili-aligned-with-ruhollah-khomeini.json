@@ -1,0 +1,21 @@
+{
+  "entity_id": "abdolkarim-mousavi-ardabili-aligned-with-ruhollah-khomeini",
+  "from_entity": "abdolkarim-mousavi-ardabili",
+  "to_entity": "ruhollah-khomeini",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abdul-Karim_Mousavi_Ardebili",
+      "source_title": "Abdul-Karim Mousavi Ardebili — Wikipedia",
+      "source_date": null,
+      "description": "Longtime supporter of Khomeini; appointed by him to the Council of the Islamic Revolution and later as Chief Justice."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "akbar-hashemi-rafsanjani-participated-in-montazeri-dismissal-1989",
+  "from_entity": "akbar-hashemi-rafsanjani",
+  "to_entity": "montazeri-dismissal-1989",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1989",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Akbar_Hashemi_Rafsanjani",
+      "source_title": "Akbar Hashemi Rafsanjani — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Rafsanjani, then Speaker of the Majles, supported Montazeri's dismissal and benefited from it — the subsequent constitutional revisions gave him expanded presidential powers."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Rafsanjani's role documented in his published diaries (Obour az Bohran)."
+}

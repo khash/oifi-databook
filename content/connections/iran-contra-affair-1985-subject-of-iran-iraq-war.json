@@ -1,0 +1,21 @@
+{
+  "entity_id": "iran-contra-affair-1985-subject-of-iran-iraq-war",
+  "from_entity": "iran-contra-affair-1985",
+  "to_entity": "iran-iraq-war",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "1985",
+  "date_to": "1986",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Contra_affair",
+      "source_title": "Iran-Contra affair — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Iran's desperate need for weapons and spare parts during the Iran-Iraq War was the primary driver of the arms-for-hostages arrangement."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "The Iran-Iraq War created Iran's urgent demand for U.S. weapons, making the arms-for-hostages deal possible."
+}

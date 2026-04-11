@@ -1,0 +1,21 @@
+{
+  "entity_id": "montazeri-dismissal-1989-named-in-constitutional-revision-1989",
+  "from_entity": "montazeri-dismissal-1989",
+  "to_entity": "constitutional-revision-1989",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/1989_Iranian_constitutional_referendum",
+      "source_title": "1989 Iranian constitutional referendum — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "The constitutional revision removing the marja requirement was a direct consequence of Montazeri's dismissal."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

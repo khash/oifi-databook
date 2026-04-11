@@ -1,0 +1,21 @@
+{
+  "entity_id": "vahid-haghanian-aligned-with-ali-khamenei",
+  "from_entity": "vahid-haghanian",
+  "to_entity": "ali-khamenei",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://home.treasury.gov/news/press-releases/sm824",
+      "source_title": "Treasury Designates Members of Khamenei Inner Circle - US Treasury",
+      "source_date": "2019-11-04",
+      "description": "Haghanian has served Khamenei since 1979, first as his personal driver then as executive deputy. The US Treasury described him as 'the Supreme Leader's right hand.'"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

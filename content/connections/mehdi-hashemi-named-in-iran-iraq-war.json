@@ -1,0 +1,21 @@
+{
+  "entity_id": "mehdi-hashemi-named-in-iran-iraq-war",
+  "from_entity": "mehdi-hashemi",
+  "to_entity": "iran-iraq-war",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1985",
+  "date_to": "1986",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mehdi_Hashemi",
+      "source_title": "Mehdi Hashemi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Hashemi opposed the secret U.S. arms deals that were motivated by Iran's wartime need for weapons during the Iran-Iraq War."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Hashemi's opposition to the arms deals was rooted in ideology — he saw dealing with the U.S. as betrayal of revolutionary principles."
+}

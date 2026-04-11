@@ -1,0 +1,21 @@
+{
+  "entity_id": "babak-zanjani-affiliated-with-ministry-of-petroleum",
+  "from_entity": "babak-zanjani",
+  "to_entity": "ministry-of-petroleum",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "2010",
+  "date_to": "2013",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Babak_Zanjani",
+      "source_title": "Babak Zanjani - Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "Zanjani sold millions of barrels of oil on behalf of the Ministry of Petroleum/NIOC, generating $17.5 billion in revenue. Accused of withholding $2.7 billion owed to the state."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

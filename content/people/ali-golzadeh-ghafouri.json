@@ -1,0 +1,18 @@
+{
+  "entity_id": "ali-golzadeh-ghafouri",
+  "slug": "ali-golzadeh-ghafouri",
+  "name_en": "Ali Golzadeh Ghafouri",
+  "name_fa": "علی گلزاده غفوری",
+  "has_native_fa_name": true,
+  "aliases": ["Golzadeh-Ghafouri"],
+  "born": 1923,
+  "birthplace": null,
+  "role": "Progressive cleric; member of the Assembly of Experts for the Constitution",
+  "faction": "opposition",
+  "bio": "Ali Golzadeh Ghafouri was a progressive Shia cleric who was elected to the [Assembly of Experts for the Constitution](/orgs/assembly-of-experts-for-constitution) in 1979 as an independent from Tehran Province with over 1.5 million votes. He opposed the doctrine of velayat-e faqih and the concentration of power in the hands of a Supreme Leader. After the consolidation of clerical power, he withdrew from politics in 1981. His family suffered severe repression: two of his sons were executed in 1981, and his daughter and son-in-law were executed during the [1988 mass executions](/events/mass-executions-1988).",
+  "irgc_member": false,
+  "expertise": ["Islamic theology", "progressive Islam"],
+  "tags": ["deceased", "clerical", "human-rights"],
+  "photo": null,
+  "editorial_notes": "Born 1923, died 2010. One of the highest vote-getters in Tehran in the 1979 assembly election (1,560,970 votes). Withdrew from politics after 1981 crackdown."
+}

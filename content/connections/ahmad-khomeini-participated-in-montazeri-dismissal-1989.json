@@ -1,0 +1,21 @@
+{
+  "entity_id": "ahmad-khomeini-participated-in-montazeri-dismissal-1989",
+  "from_entity": "ahmad-khomeini",
+  "to_entity": "montazeri-dismissal-1989",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1989",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ahmad_Khomeini",
+      "source_title": "Ahmad Khomeini — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Ahmad Khomeini, as his father's chief of staff and gatekeeper, played a central role in turning Khomeini against Montazeri by controlling access and amplifying negative reports."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Ahmad is widely considered a principal architect of Montazeri's downfall."
+}

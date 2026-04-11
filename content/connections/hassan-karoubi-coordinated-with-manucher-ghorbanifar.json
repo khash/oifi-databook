@@ -1,0 +1,21 @@
+{
+  "entity_id": "hassan-karoubi-coordinated-with-manucher-ghorbanifar",
+  "from_entity": "hassan-karoubi",
+  "to_entity": "manucher-ghorbanifar",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "1985",
+  "date_to": "1985",
+  "evidence": [
+    {
+      "source_url": "https://irp.fas.org/offdocs/walsh/part_i.htm",
+      "source_title": "Walsh Iran-Contra Report — Part I: The Underlying Facts",
+      "source_date": null,
+      "description": "Hassan Karoubi met with Ghorbanifar and Ledeen in Geneva in late October 1985 to discuss arms-for-hostages arrangements."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Met at Geneva October 1985."
+}

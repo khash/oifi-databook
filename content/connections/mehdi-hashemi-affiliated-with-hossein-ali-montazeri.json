@@ -1,0 +1,21 @@
+{
+  "entity_id": "mehdi-hashemi-affiliated-with-hossein-ali-montazeri",
+  "from_entity": "mehdi-hashemi",
+  "to_entity": "hossein-ali-montazeri",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "1986",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mehdi_Hashemi",
+      "source_title": "Mehdi Hashemi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Hashemi was a close confidant of Montazeri's circle. His brother Hadi was Montazeri's son-in-law. After the death of Montazeri's son Mohammad in 1981, Hashemi took control of Montazeri's armed followers."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Brother Hadi married into Montazeri family. Hashemi controlled Montazeri's armed followers after death of Montazeri's son Mohammad (1981)."
+}

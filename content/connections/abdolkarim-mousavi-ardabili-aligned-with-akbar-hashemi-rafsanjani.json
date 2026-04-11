@@ -1,0 +1,21 @@
+{
+  "entity_id": "abdolkarim-mousavi-ardabili-aligned-with-akbar-hashemi-rafsanjani",
+  "from_entity": "abdolkarim-mousavi-ardabili",
+  "to_entity": "akbar-hashemi-rafsanjani",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Islamic_Republican_Party",
+      "source_title": "Islamic Republican Party — Wikipedia",
+      "source_date": null,
+      "description": "Fellow co-founders of the Islamic Republican Party and contemporaries in the senior revolutionary leadership."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

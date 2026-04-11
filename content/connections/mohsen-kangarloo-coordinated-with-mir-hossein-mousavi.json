@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohsen-kangarloo-coordinated-with-mir-hossein-mousavi",
+  "from_entity": "mohsen-kangarloo",
+  "to_entity": "mir-hossein-mousavi",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "1982",
+  "date_to": "1989",
+  "evidence": [
+    {
+      "source_url": "https://abdimedia.net/en/memory-past/mausoleum-mohsen-kangarlo",
+      "source_title": "Tomb of Mohsen Kangarloo — Abdi Media",
+      "source_date": null,
+      "description": "Kangarloo served as security adviser to Prime Minister Mir-Hossein Mousavi from 1982 to 1989."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Security adviser to PM Mousavi 1982–1989."
+}

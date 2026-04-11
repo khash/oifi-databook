@@ -1,0 +1,27 @@
+{
+  "entity_id": "ali-ansari-banker-founded-iran-mall",
+  "from_entity": "ali-ansari-banker",
+  "to_entity": "iran-mall",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "2012",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Ansari_(banker)",
+      "source_title": "Ali Ansari (banker) - Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "Ali Ansari conceived and developed Iran Mall, the world's largest shopping mall."
+    },
+    {
+      "source_url": "https://www.iranmall.com/en/node/2583",
+      "source_title": "The Iranmall founder hosts top Iranian entrepreneurs",
+      "source_date": "2025-01-01",
+      "description": "Iran Mall's own website identifies Ali Ansari as its founder."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

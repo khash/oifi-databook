@@ -1,0 +1,21 @@
+{
+  "entity_id": "vahid-haghanian-aligned-with-mojtaba-khamenei",
+  "from_entity": "vahid-haghanian",
+  "to_entity": "mojtaba-khamenei",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://home.treasury.gov/news/press-releases/sm824",
+      "source_title": "Treasury Designates Members of Khamenei Inner Circle - US Treasury",
+      "source_date": "2019-11-04",
+      "description": "Both Haghanian and Mojtaba Khamenei were designated in the same US Treasury action as members of the Supreme Leader's inner circle. Both attended the funeral of Ali Ansari's father in June 2025."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

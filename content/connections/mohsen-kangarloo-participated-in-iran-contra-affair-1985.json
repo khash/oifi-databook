@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohsen-kangarloo-participated-in-iran-contra-affair-1985",
+  "from_entity": "mohsen-kangarloo",
+  "to_entity": "iran-contra-affair-1985",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1986",
+  "date_to": "1986",
+  "evidence": [
+    {
+      "source_url": "https://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/i-theexpansion.php",
+      "source_title": "Understanding the Iran-Contra Affairs — Brown University",
+      "source_date": null,
+      "description": "Kangarloo participated in the February 1986 meeting in Germany with Oliver North, Ghorbanifar, and Hakim to discuss weapons transfers and hostage releases."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Key Iranian negotiator. Met with North in Germany February 1986. Pushed for advanced air-to-air missiles for Iran's F-14s."
+}

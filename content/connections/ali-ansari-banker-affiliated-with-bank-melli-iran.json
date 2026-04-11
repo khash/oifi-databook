@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-ansari-banker-affiliated-with-bank-melli-iran",
+  "from_entity": "ali-ansari-banker",
+  "to_entity": "bank-melli-iran",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "2025-10-23",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ayandeh_Bank",
+      "source_title": "Ayandeh Bank - Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "Ayandeh Bank, founded by Ansari, was absorbed into Bank Melli Iran upon dissolution in October 2025."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Indirect connection — Ansari's bank was merged into Bank Melli."
+}

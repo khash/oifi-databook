@@ -1,0 +1,21 @@
+{
+  "entity_id": "abdolkarim-mousavi-ardabili-named-in-iran-iraq-war",
+  "from_entity": "abdolkarim-mousavi-ardabili",
+  "to_entity": "iran-iraq-war",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1981",
+  "date_to": "1988",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abdul-Karim_Mousavi_Ardebili",
+      "source_title": "Abdul-Karim Mousavi Ardebili — Wikipedia",
+      "source_date": null,
+      "description": "Served as Chief Justice throughout the Iran-Iraq War, overseeing the revolutionary courts during wartime."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

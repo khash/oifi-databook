@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-khamenei-named-in-montazeri-dismissal-1989",
+  "from_entity": "ali-khamenei",
+  "to_entity": "montazeri-dismissal-1989",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1989",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hussein-Ali_Montazeri",
+      "source_title": "Hussein-Ali Montazeri — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Khamenei was the primary beneficiary of Montazeri's dismissal, becoming Supreme Leader after Khomeini's death in June 1989."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Khamenei was only a Hojatoleslam; the constitutional revision removing the marja requirement was needed for him to succeed Khomeini."
+}

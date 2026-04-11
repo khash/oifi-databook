@@ -1,0 +1,21 @@
+{
+  "entity_id": "ruhollah-khomeini-mentor-of-hossein-ali-montazeri",
+  "from_entity": "ruhollah-khomeini",
+  "to_entity": "hossein-ali-montazeri",
+  "type": "mentor-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "1989",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hussein-Ali_Montazeri",
+      "source_title": "Hussein-Ali Montazeri — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Montazeri studied under Khomeini in Qom seminaries and was one of his most prominent students."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Montazeri was Khomeini's student in Qom. Relationship ended with dismissal in March 1989."
+}

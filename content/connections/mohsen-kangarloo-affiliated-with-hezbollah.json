@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohsen-kangarloo-affiliated-with-hezbollah",
+  "from_entity": "mohsen-kangarloo",
+  "to_entity": "hezbollah",
+  "type": "affiliated-with",
+  "confidence": "alleged",
+  "date_from": "1982",
+  "date_to": "1989",
+  "evidence": [
+    {
+      "source_url": "https://x.com/YasamanFlower/status/1333952210456211459",
+      "source_title": "Kangarloo 2018 interview excerpt",
+      "source_date": "2018",
+      "description": "In a 2018 interview, Kangarloo stated regarding Hezbollah's hostage-taking: 'We take hostages because it can be useful for us,' suggesting operational coordination with Hezbollah's activities."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Kangarloo's 2018 statement suggests he had operational awareness of and involvement in Hezbollah's hostage strategy. Confidence set to alleged as the exact nature of the relationship is not fully documented."
+}

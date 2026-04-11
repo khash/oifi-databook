@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-ali-montazeri-opposed-ali-khamenei",
+  "from_entity": "hossein-ali-montazeri",
+  "to_entity": "ali-khamenei",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": "1989",
+  "date_to": "2009",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hussein-Ali_Montazeri",
+      "source_title": "Hussein-Ali Montazeri — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Montazeri publicly questioned Khamenei's religious qualifications as Supreme Leader, leading to his house arrest in 1997. He continued criticizing Khamenei until his death in 2009."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Montazeri argued Khamenei lacked the rank of marja required for Supreme Leadership. House arrest imposed November 1997."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohsen-rezaei-led-islamic-revolutionary-guard-corps",
+  "from_entity": "mohsen-rezaei",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "1981",
+  "date_to": "1997",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohsen_Rezaee",
+      "source_title": "Mohsen Rezaee — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Rezaei served as Commander-in-Chief of the IRGC from September 1981 to 1997, the longest tenure of any IRGC commander."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Appointed by Khomeini at age 27. Commander-in-Chief 20 September 1981 to 1997."
+}

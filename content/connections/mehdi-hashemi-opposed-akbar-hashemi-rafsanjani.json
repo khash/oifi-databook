@@ -1,0 +1,21 @@
+{
+  "entity_id": "mehdi-hashemi-opposed-akbar-hashemi-rafsanjani",
+  "from_entity": "mehdi-hashemi",
+  "to_entity": "akbar-hashemi-rafsanjani",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": "1985",
+  "date_to": "1987",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mehdi_Hashemi",
+      "source_title": "Mehdi Hashemi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Hashemi's revolutionary-export faction opposed Rafsanjani's pragmatist camp and the secret U.S. arms dealings that Rafsanjani oversaw. The power struggle culminated in Hashemi's arrest and execution."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Ideological rivalry: revolutionary export vs pragmatist dealmaking with the U.S."
+}

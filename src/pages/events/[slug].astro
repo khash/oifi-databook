@@ -9,6 +9,7 @@ import type { Event } from "@/lib/types"
 import { ConnectionsList } from "@/components/ConnectionsList"
 import FormattedDate from "@/components/FormattedDate.astro"
 import { INVERSE_LABELS } from "@/lib/constants"
+import AskChatGPT from "@/components/AskChatGPT.astro"
 
 export function getStaticPaths() {
   return getEvents().map((e) => ({ params: { slug: e.slug }, props: { event: e } }))
@@ -96,6 +97,8 @@ const jsonLd = {
         </ul>
       </div>
     )}
+
+    <AskChatGPT entityName={event.name} entityType="event" context={event.date ? `Date: ${event.date}.` : undefined} />
   </Fragment>
 
 </EntityLayout>

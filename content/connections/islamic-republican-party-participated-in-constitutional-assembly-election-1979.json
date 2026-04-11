@@ -1,0 +1,21 @@
+{
+  "entity_id": "islamic-republican-party-participated-in-constitutional-assembly-election-1979",
+  "from_entity": "islamic-republican-party",
+  "to_entity": "constitutional-assembly-election-1979",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/1979_Iranian_Constitutional_Assembly_election",
+      "source_title": "1979 Iranian Constitutional Assembly election — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "The IRP and Khomeini-aligned candidates won approximately 55 of 73 seats."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-hashemi-bahramani-named-in-iran-iraq-war",
+  "from_entity": "ali-hashemi-bahramani",
+  "to_entity": "iran-iraq-war",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1986",
+  "date_to": "1986",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Contra_affair",
+      "source_title": "Iran-Contra affair — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Bahramani discussed potential U.S.-Iranian cooperation against Iraq during the Iran-Iraq War with Oliver North."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Discussed overthrow of Saddam Hussein with North during 1986 meetings."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "vahid-haghanian-named-in-green-movement-protests-2009",
+  "from_entity": "vahid-haghanian",
+  "to_entity": "green-movement-protests-2009",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://english.shabtabnews.com/2021/06/24/vahid-haghanian-ali-khameneis-lackey-comes-out-of-obscurity/",
+      "source_title": "Vahid Haghanian — Khamenei's Lackey Comes Out of Obscurity - Shabtabnews",
+      "source_date": "2021-06-24",
+      "description": "Haghanian served as the formal communication channel between Mousavi's campaign and the Supreme Leader's office during the 2009 presidential election and its aftermath."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

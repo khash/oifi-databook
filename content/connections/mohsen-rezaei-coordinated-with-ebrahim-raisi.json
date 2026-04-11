@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohsen-rezaei-coordinated-with-ebrahim-raisi",
+  "from_entity": "mohsen-rezaei",
+  "to_entity": "ebrahim-raisi",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "2021",
+  "date_to": "2024",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohsen_Rezaee",
+      "source_title": "Mohsen Rezaee — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Rezaei served as Vice President for Economic Affairs in Raisi's government from 2021."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Rezaei served as VP for Economic Affairs under Raisi 2021–2024."
+}

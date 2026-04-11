@@ -1,0 +1,21 @@
+{
+  "entity_id": "hassan-ayat-subject-of-mojahedin-e-khalq",
+  "from_entity": "hassan-ayat",
+  "to_entity": "mojahedin-e-khalq",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hassan_Ayat",
+      "source_title": "Hassan Ayat — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Hassan Ayat was assassinated on 5 August 1981 in an attack attributed to the Mojahedin-e Khalq."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

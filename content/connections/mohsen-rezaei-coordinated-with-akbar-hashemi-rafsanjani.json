@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohsen-rezaei-coordinated-with-akbar-hashemi-rafsanjani",
+  "from_entity": "mohsen-rezaei",
+  "to_entity": "akbar-hashemi-rafsanjani",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "1981",
+  "date_to": "1997",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohsen_Rezaee",
+      "source_title": "Mohsen Rezaee — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "As IRGC commander and Speaker of the Majlis respectively, Rezaei and Rafsanjani were key figures in Iran's war effort and political establishment throughout the 1980s and 1990s. Rezaei later served as EDC Secretary under Rafsanjani's chairmanship."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Worked closely during Iran-Iraq War and post-war period. Rezaei succeeded into EDC secretary role."
+}

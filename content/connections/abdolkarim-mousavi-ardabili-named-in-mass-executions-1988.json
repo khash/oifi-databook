@@ -1,0 +1,27 @@
+{
+  "entity_id": "abdolkarim-mousavi-ardabili-named-in-mass-executions-1988",
+  "from_entity": "abdolkarim-mousavi-ardabili",
+  "to_entity": "mass-executions-1988",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1988",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://iran1988.org/seyyed-abdulkarim-mousavi-ardabili/",
+      "source_title": "Seyyed Abdulkarim Mousavi Ardabili — Iran 1988 Massacre",
+      "source_date": null,
+      "description": "As Chief Justice and head of the Supreme Judicial Council, oversaw the judicial apparatus that enabled the Death Commissions. Publicly advocated for execution of MEK prisoners at Friday prayers on 5 August 1988."
+    },
+    {
+      "source_url": "https://irantribunal.com/iran-watch/list-of-perpetrators/",
+      "source_title": "List of Perpetrators — Iran Tribunal",
+      "source_date": null,
+      "description": "Listed on the Iran Tribunal's List of Perpetrators for the 1988 mass executions."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Was the highest judicial authority during the executions. Not a direct member of the Tehran Death Commission but oversaw the system."
+}

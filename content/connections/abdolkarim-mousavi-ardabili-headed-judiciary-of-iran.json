@@ -1,0 +1,27 @@
+{
+  "entity_id": "abdolkarim-mousavi-ardabili-headed-judiciary-of-iran",
+  "from_entity": "abdolkarim-mousavi-ardabili",
+  "to_entity": "judiciary-of-iran",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "1981",
+  "date_to": "1989",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abdul-Karim_Mousavi_Ardebili",
+      "source_title": "Abdul-Karim Mousavi Ardebili — Wikipedia",
+      "source_date": null,
+      "description": "Appointed by Khomeini as Chief Justice (head of the judiciary) in June 1981, serving until 1989."
+    },
+    {
+      "source_url": "https://www.britannica.com/topic/judicial-system-of-Iran",
+      "source_title": "Judicial system of Iran — Britannica",
+      "source_date": null,
+      "description": "Served as head of the Supreme Judicial Council, the highest judicial authority under the 1979 constitution."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

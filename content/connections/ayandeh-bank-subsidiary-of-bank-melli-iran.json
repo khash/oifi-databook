@@ -1,0 +1,21 @@
+{
+  "entity_id": "ayandeh-bank-subsidiary-of-bank-melli-iran",
+  "from_entity": "ayandeh-bank",
+  "to_entity": "bank-melli-iran",
+  "type": "subsidiary-of",
+  "confidence": "confirmed",
+  "date_from": "2025-10-23",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ayandeh_Bank",
+      "source_title": "Ayandeh Bank - Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "On 23 October 2025, the Central Bank of Iran revoked Ayandeh Bank's operating licence and merged its assets and deposits into state-owned Bank Melli Iran."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

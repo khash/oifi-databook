@@ -1,0 +1,21 @@
+{
+  "entity_id": "society-of-seminary-teachers-of-qom-participated-in-iranian-revolution-1979",
+  "from_entity": "society-of-seminary-teachers-of-qom",
+  "to_entity": "iranian-revolution-1979",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Society_of_Seminary_Teachers_of_Qom",
+      "source_title": "Society of Seminary Teachers of Qom — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Played a central role in the Iranian Revolution."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

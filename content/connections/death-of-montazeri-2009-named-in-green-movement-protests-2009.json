@@ -1,0 +1,21 @@
+{
+  "entity_id": "death-of-montazeri-2009-named-in-green-movement-protests-2009",
+  "from_entity": "death-of-montazeri-2009",
+  "to_entity": "green-movement-protests-2009",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2009-12",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hussein-Ali_Montazeri",
+      "source_title": "Hussein-Ali Montazeri — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Montazeri's death triggered mourning gatherings that became major Green Movement protests, particularly the Ashura clashes on 27 December 2009."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

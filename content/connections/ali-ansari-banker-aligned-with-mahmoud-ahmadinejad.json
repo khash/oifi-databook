@@ -1,0 +1,27 @@
+{
+  "entity_id": "ali-ansari-banker-aligned-with-mahmoud-ahmadinejad",
+  "from_entity": "ali-ansari-banker",
+  "to_entity": "mahmoud-ahmadinejad",
+  "type": "aligned-with",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.radiozamaneh.com/37363/",
+      "source_title": "Ayandeh Bank: How One Family Built a Bank to Feed Its Own Empire - Zamaneh Media",
+      "source_date": "2025-10-01",
+      "description": "Ansari's banking licence was widely described as a political gift to an Ahmadinejad campaign supporter. Tat Bank was reportedly established with assistance from Mohammad Aliabadi, Ahmadinejad's deputy."
+    },
+    {
+      "source_url": "https://www.aljazeera.com/news/2025/10/27/corruption-mismanagement-in-spotlight-as-iran-dissolves-major-private-bank",
+      "source_title": "Corruption, mismanagement in spotlight as Iran dissolves major private bank - Al Jazeera",
+      "source_date": "2025-10-27",
+      "description": "Ansari is described as close to former president Mahmoud Ahmadinejad."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

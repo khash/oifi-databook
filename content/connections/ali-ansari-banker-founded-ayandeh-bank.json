@@ -1,0 +1,27 @@
+{
+  "entity_id": "ali-ansari-banker-founded-ayandeh-bank",
+  "from_entity": "ali-ansari-banker",
+  "to_entity": "ayandeh-bank",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "2012",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Ansari_(banker)",
+      "source_title": "Ali Ansari (banker) - Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "Ali Ansari is identified as the founder and principal shareholder of Bank Ayandeh, formed through the merger of Tat Bank with other institutions in 2012-2013."
+    },
+    {
+      "source_url": "https://en.radiozamaneh.com/37363/",
+      "source_title": "Ayandeh Bank: How One Family Built a Bank to Feed Its Own Empire - Zamaneh Media",
+      "source_date": "2025-10-01",
+      "description": "Detailed investigation into how Ansari created Tat Bank and orchestrated its merger into Ayandeh Bank."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

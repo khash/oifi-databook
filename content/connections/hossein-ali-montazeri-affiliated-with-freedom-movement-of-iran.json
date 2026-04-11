@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-ali-montazeri-affiliated-with-freedom-movement-of-iran",
+  "from_entity": "hossein-ali-montazeri",
+  "to_entity": "freedom-movement-of-iran",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hussein-Ali_Montazeri",
+      "source_title": "Hussein-Ali Montazeri — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Montazeri had ideological affinity with the Freedom Movement on democratic governance and human rights, though he was not a formal member."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Not a member but shared common ground on democratic governance with Bazargan and Yazdi."
+}

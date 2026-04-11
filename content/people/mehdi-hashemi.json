@@ -1,0 +1,26 @@
+{
+  "entity_id": "mehdi-hashemi",
+  "slug": "mehdi-hashemi",
+  "name_en": "Mehdi Hashemi",
+  "name_fa": "مهدی هاشمی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1944,
+  "birthplace": "Qahderijan, Isfahan Province",
+  "role": "Head of IRGC Bureau for Liberation Movements; cleric executed for leaking Iran-Contra affair",
+  "faction": "hardliner",
+  "bio": "Mehdi Hashemi was a Shia cleric who headed the [Islamic Revolutionary Guard Corps](/orgs/islamic-revolutionary-guard-corps) Bureau for Liberation Movements, overseeing Iran's revolutionary export operations including support for [Hezbollah](/orgs/hezbollah) and Afghan mujahideen groups. A close associate of [Hossein-Ali Montazeri](/people/hossein-ali-montazeri) — his brother Hadi was Montazeri's son-in-law — Hashemi opposed Iran's secret arms dealings with the United States during the [Iran-Iraq War](/events/iran-iraq-war). He leaked details of the covert arrangement, including Robert McFarlane's May 1986 visit to Tehran, to the Lebanese magazine Ash-Shiraa, whose publication on 3 November 1986 triggered the [Iran-Contra affair](/events/iran-contra-affair-1985) scandal. Arrested in October 1986 on charges including treason, sedition, and murder, he was tried by a Special Clerical Court and executed on 28 September 1987. His prosecution and execution weakened the political position of his patron Montazeri and is widely seen as part of the power struggle between [Akbar Hashemi Rafsanjani](/people/akbar-hashemi-rafsanjani)'s pragmatist camp and the revolutionary-export faction.",
+  "irgc_member": true,
+  "expertise": [
+    "revolutionary export",
+    "liberation movements",
+    "Shia mobilization"
+  ],
+  "tags": [
+    "deceased",
+    "intelligence",
+    "proxy-warfare"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 1944 in Qahderijan. Arrested October 1986. Executed 28 September 1987. Brother Hadi was Montazeri's son-in-law. Leaked McFarlane visit to Ash-Shiraa. Officially convicted of sedition/murder but widely seen as punished for the leak."
+}

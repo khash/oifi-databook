@@ -1,0 +1,21 @@
+{
+  "entity_id": "abdolkarim-mousavi-ardabili-aligned-with-mohammad-beheshti",
+  "from_entity": "abdolkarim-mousavi-ardabili",
+  "to_entity": "mohammad-beheshti",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1981",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Islamic_Republican_Party",
+      "source_title": "Islamic Republican Party — Wikipedia",
+      "source_date": null,
+      "description": "Fellow IRP co-founders; Mousavi-Ardabili succeeded Beheshti as Chief Justice after his assassination."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

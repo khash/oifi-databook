@@ -1,0 +1,21 @@
+{
+  "entity_id": "abdolkarim-mousavi-ardabili-member-of-expediency-discernment-council",
+  "from_entity": "abdolkarim-mousavi-ardabili",
+  "to_entity": "expediency-discernment-council",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": "1988",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abdul-Karim_Mousavi_Ardebili",
+      "source_title": "Abdul-Karim Mousavi Ardebili — Wikipedia",
+      "source_date": null,
+      "description": "Founding member of the Expediency Discernment Council established by Khomeini in 1988."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

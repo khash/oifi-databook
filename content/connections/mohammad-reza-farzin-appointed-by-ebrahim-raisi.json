@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-reza-farzin-appointed-by-ebrahim-raisi",
+  "from_entity": "mohammad-reza-farzin",
+  "to_entity": "ebrahim-raisi",
+  "type": "appointed-by",
+  "confidence": "confirmed",
+  "date_from": "2023-01",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ayandeh_Bank",
+      "source_title": "Ayandeh Bank - Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "President Ebrahim Raisi appointed Farzin as Central Bank governor in January 2023."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-ansari-banker-led-ayandeh-bank",
+  "from_entity": "ali-ansari-banker",
+  "to_entity": "ayandeh-bank",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "2012",
+  "date_to": "2025",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Ansari_(banker)",
+      "source_title": "Ali Ansari (banker) - Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "Ansari served as principal shareholder and chairman of Bank Ayandeh until its dissolution in October 2025."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

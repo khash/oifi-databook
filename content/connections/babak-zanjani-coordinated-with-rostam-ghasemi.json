@@ -1,0 +1,21 @@
+{
+  "entity_id": "babak-zanjani-coordinated-with-rostam-ghasemi",
+  "from_entity": "babak-zanjani",
+  "to_entity": "rostam-ghasemi",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "2011",
+  "date_to": "2013",
+  "evidence": [
+    {
+      "source_url": "https://english.alarabiya.net/features/2019/04/15/Rostam-Ghasemi-The-brigadier-general-of-sanctions-evasion",
+      "source_title": "Rostam Ghasemi: The brigadier general of sanctions evasion - Al Arabiya",
+      "source_date": "2019-04-15",
+      "description": "As Oil Minister (2011-2013) and former head of Khatam al-Anbiya, Ghasemi was a key enabler who transferred large portions of petroleum revenues to Zanjani."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

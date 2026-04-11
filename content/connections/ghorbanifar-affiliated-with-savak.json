@@ -1,0 +1,21 @@
+{
+  "entity_id": "ghorbanifar-affiliated-with-savak",
+  "from_entity": "manucher-ghorbanifar",
+  "to_entity": "savak",
+  "type": "affiliated-with",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": "1979",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Manucher_Ghorbanifar",
+      "source_title": "Manucher Ghorbanifar — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Ghorbanifar was associated with SAVAK, the Shah's intelligence service, prior to the 1979 revolution."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Pre-revolution SAVAK associate. Exact nature of relationship unclear."
+}

@@ -15,8 +15,8 @@ interface ConnectionItem {
   label: string;
   otherName: string;
   href: string;
-  dateFrom?: string;
-  dateTo?: string;
+  dateFrom?: string | null;
+  dateTo?: string | null;
 }
 
 export function ConnectionsList({ connections }: { connections: ConnectionItem[] }) {

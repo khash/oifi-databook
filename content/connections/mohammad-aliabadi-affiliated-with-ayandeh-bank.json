@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-aliabadi-affiliated-with-ayandeh-bank",
+  "from_entity": "mohammad-aliabadi",
+  "to_entity": "ayandeh-bank",
+  "type": "affiliated-with",
+  "confidence": "alleged",
+  "date_from": "2009",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.radiozamaneh.com/37363/",
+      "source_title": "Ayandeh Bank: How One Family Built a Bank to Feed Its Own Empire - Zamaneh Media",
+      "source_date": "2025-10-01",
+      "description": "Tat Bank (precursor to Ayandeh Bank) was reportedly established with assistance from Aliabadi. Sports federations under his authority appeared among main shareholders, and the league organisation directed funds to the bank."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

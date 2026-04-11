@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohsen-rezaei-appointed-by-ruhollah-khomeini",
+  "from_entity": "mohsen-rezaei",
+  "to_entity": "ruhollah-khomeini",
+  "type": "appointed-by",
+  "confidence": "confirmed",
+  "date_from": "1981",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohsen_Rezaee",
+      "source_title": "Mohsen Rezaee — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Khomeini appointed Rezaei as IRGC commander in 1980, and he assumed the office of commander-in-chief on 20 September 1981."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Appointed at age 27 to command the IRGC."
+}

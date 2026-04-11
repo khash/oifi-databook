@@ -1,0 +1,18 @@
+{
+  "entity_id": "mohammad-khamenei",
+  "slug": "mohammad-khamenei",
+  "name_en": "Mohammad Khamenei",
+  "name_fa": "محمد خامنه‌ای",
+  "has_native_fa_name": true,
+  "aliases": ["Hojjat al-Islam Mohammad Khamenei"],
+  "born": 1935,
+  "birthplace": "Mashhad",
+  "role": "Cleric; member of the Assembly of Experts for the Constitution; brother of Ali Khamenei",
+  "faction": "conservative",
+  "bio": "Mohammad Khamenei is a Shia cleric and the brother of Supreme Leader [Ali Khamenei](/people/ali-khamenei). He was elected to the [Assembly of Experts for the Constitution](/orgs/assembly-of-experts-for-constitution) in 1979, representing Khorasan Province with over 60% of the vote. He was among the 53 assembly members who voted in favor of the velayat-e faqih provisions that granted sweeping powers to the Supreme Leader. He has maintained a relatively low political profile compared to his brother.",
+  "irgc_member": false,
+  "expertise": ["Islamic jurisprudence"],
+  "tags": ["clerical"],
+  "photo": null,
+  "editorial_notes": "Born 1935 in Mashhad. Brother of Ali Khamenei. Elected from Khorasan Province in 1979 with 640,958 votes (60.3%)."
+}

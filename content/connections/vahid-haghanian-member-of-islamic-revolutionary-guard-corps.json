@@ -1,0 +1,21 @@
+{
+  "entity_id": "vahid-haghanian-member-of-islamic-revolutionary-guard-corps",
+  "from_entity": "vahid-haghanian",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": "1984",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202406012710",
+      "source_title": "Senior Khamenei Official Enters Presidential Race - Iran International",
+      "source_date": "2024-06-01",
+      "description": "Haghanian joined the IRGC in 1984, commanded Sarallah security patrols in Tehran, was wounded in Iran-Iraq War 1987, and served as IRGC Quds Force commander 1988-1992."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

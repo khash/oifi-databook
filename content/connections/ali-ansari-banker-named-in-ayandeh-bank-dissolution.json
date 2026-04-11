@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-ansari-banker-named-in-ayandeh-bank-dissolution",
+  "from_entity": "ali-ansari-banker",
+  "to_entity": "central-bank-of-iran",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2025-10-23",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ayandeh_Bank",
+      "source_title": "Ayandeh Bank - Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "The Central Bank of Iran revoked Ayandeh Bank's operating licence in October 2025, directly affecting Ansari as its founder and principal shareholder."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

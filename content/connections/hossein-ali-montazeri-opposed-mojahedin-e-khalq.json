@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-ali-montazeri-opposed-mojahedin-e-khalq",
+  "from_entity": "hossein-ali-montazeri",
+  "to_entity": "mojahedin-e-khalq",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hussein-Ali_Montazeri",
+      "source_title": "Hossein-Ali Montazeri — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "While Montazeri opposed the regime politically, he also opposed the MEK. His 1988 protest was specifically about the illegality of executing MEK prisoners who had already been tried and sentenced, not about supporting the MEK's cause."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Montazeri defended MEK prisoners' legal rights during 1988 executions but was not aligned with MEK ideology."
+}

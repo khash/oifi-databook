@@ -1,0 +1,26 @@
+{
+  "entity_id": "uk-sanctions-ali-ansari-2025",
+  "slug": "uk-sanctions-ali-ansari-2025",
+  "name": "UK Sanctions Against Ali Ansari",
+  "name_fa": null,
+  "date": "2025-10-30",
+  "type": "sanctions",
+  "description": "The United Kingdom designated [Ali Ansari](/people/ali-ansari-banker) under the Iran Sanctions Regulations (2023) for his alleged role in financially enabling the [Islamic Revolutionary Guard Corps](/orgs/islamic-revolutionary-guard-corps). The sanctions included an asset freeze, travel ban, and director disqualification. Minister Hamish Falconer described Ansari as a 'corrupt Iranian banker and businessman.' This brought the UK's total Iran-related designations to over 500 individuals and entities. The designation came one week after the [Central Bank of Iran](/orgs/central-bank-of-iran) dissolved [Ayandeh Bank](/orgs/ayandeh-bank), which Ansari had founded.",
+  "body": null,
+  "tags": [
+    "sanctions"
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.gov.uk/government/news/uk-announces-sanctions-against-those-who-fund-the-work-of-the-irgc",
+      "source_title": "UK announces sanctions against individual who funds the work of the IRGC",
+      "source_date": "2025-10-30"
+    },
+    {
+      "source_url": "https://kayhanlife.com/authors/analysis-why-uk-is-imposing-sanctions-on-founder-of-ayandeh-bank/",
+      "source_title": "Why UK Is Imposing Sanctions on Founder of Ayandeh Bank - Kayhan Life",
+      "source_date": "2025-10-30"
+    }
+  ],
+  "editorial_notes": "Full sanctioned name: Ali Aliakbar Ansari. OCCRP and Iran International subsequently reported on his €400M European property portfolio."
+}

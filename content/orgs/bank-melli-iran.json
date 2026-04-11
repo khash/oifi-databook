@@ -1,0 +1,17 @@
+{
+  "entity_id": "bank-melli-iran",
+  "slug": "bank-melli-iran",
+  "name_en": "Bank Melli Iran",
+  "name_fa": "بانک ملی ایران",
+  "has_native_fa_name": true,
+  "type": "business",
+  "founded": 1927,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Bank Melli Iran is Iran's first national bank and one of the largest state-owned commercial banks in the country. Founded in 1927, it operates hundreds of branches domestically and maintains an international presence. In October 2025, it absorbed the assets and deposits of the dissolved [Ayandeh Bank](/orgs/ayandeh-bank) on the order of the [Central Bank of Iran](/orgs/central-bank-of-iran).",
+  "faction": null,
+  "tags": [
+    "sanctions"
+  ],
+  "editorial_notes": "Sanctioned by the US (OFAC SDN list) and EU. Headquarters in Tehran."
+}

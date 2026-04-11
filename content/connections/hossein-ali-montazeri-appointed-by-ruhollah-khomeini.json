@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-ali-montazeri-appointed-by-ruhollah-khomeini",
+  "from_entity": "hossein-ali-montazeri",
+  "to_entity": "ruhollah-khomeini",
+  "type": "appointed-by",
+  "confidence": "confirmed",
+  "date_from": "1985",
+  "date_to": "1989",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hussein-Ali_Montazeri",
+      "source_title": "Hussein-Ali Montazeri — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Assembly of Experts designated Montazeri as Khomeini's successor in November 1985; Khomeini stripped the designation on 28 March 1989."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Designated successor November 1985, dismissed 28 March 1989."
+}

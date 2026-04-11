@@ -1,0 +1,21 @@
+{
+  "entity_id": "abdolkarim-mousavi-ardabili-named-in-green-movement-protests-2009",
+  "from_entity": "abdolkarim-mousavi-ardabili",
+  "to_entity": "green-movement-protests-2009",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abdul-Karim_Mousavi_Ardebili",
+      "source_title": "Abdul-Karim Mousavi Ardebili — Wikipedia",
+      "source_date": null,
+      "description": "Publicly called for the state to give Green Movement protesters legal voice and criticized the Ahmadinejad government's handling of the protests."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

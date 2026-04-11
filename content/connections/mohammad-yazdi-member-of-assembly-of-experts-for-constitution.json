@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-yazdi-member-of-assembly-of-experts-for-constitution",
+  "from_entity": "mohammad-yazdi",
+  "to_entity": "assembly-of-experts-for-constitution",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1979",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Assembly_of_Experts_for_Constitution",
+      "source_title": "Assembly of Experts for the Constitution — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Elected from Kermanshah Province with 46% of the vote."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

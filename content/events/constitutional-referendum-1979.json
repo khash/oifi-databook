@@ -1,0 +1,19 @@
+{
+  "entity_id": "constitutional-referendum-1979",
+  "slug": "constitutional-referendum-1979",
+  "name": "1979 Iranian Constitutional Referendum",
+  "date": "1979-12-02",
+  "type": "election",
+  "description": "The constitutional referendum held on 2–3 December 1979 submitted the draft constitution produced by the [Assembly of Experts for the Constitution](/orgs/assembly-of-experts-for-constitution) to a popular vote. The constitution, which embedded the doctrine of velayat-e faqih and granted sweeping powers to a Supreme Leader, was approved with 99.5% of votes cast. Turnout was 75.2% (15.7 million voters). The referendum was boycotted by leftist parties, secular nationalists, Kurdish autonomy movements including the [Democratic Party of Iranian Kurdistan](/orgs/democratic-party-of-iranian-kurdistan), followers of Ayatollah Shariatmadari, and the [Mojahedin-e Khalq](/orgs/mojahedin-e-khalq). Turnout was notably low in Kurdistan, Sistan-Baluchestan, and Azerbaijan provinces.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/1979_Iranian_constitutional_referendum",
+      "title": "1979 Iranian constitutional referendum",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": [],
+  "editorial_notes": "15,690,142 voters. Timing: held during Iran hostage crisis (began 4 November 1979), which may have boosted nationalist sentiment and turnout."
+}

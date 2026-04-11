@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohsen-rezaei-appointed-by-mojtaba-khamenei",
+  "from_entity": "mohsen-rezaei",
+  "to_entity": "mojtaba-khamenei",
+  "type": "appointed-by",
+  "confidence": "confirmed",
+  "date_from": "2026-03",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.wionews.com/world/who-is-mohsen-rezaee-former-irgc-commander-appointed-as-military-adviser-to-mojtaba-khamenei-1773674742629",
+      "source_title": "Who is Mohsen Rezaee? Former IRGC commander appointed as military adviser to Mojtaba Khamenei — WION News",
+      "source_date": "2026-03",
+      "description": "In March 2026, Supreme Leader Mojtaba Khamenei appointed Mohsen Rezaei as his military adviser."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Appointed military adviser to the Supreme Leader, March 2026."
+}

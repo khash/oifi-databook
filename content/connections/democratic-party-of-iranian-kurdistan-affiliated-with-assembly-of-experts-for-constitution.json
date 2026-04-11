@@ -1,0 +1,21 @@
+{
+  "entity_id": "democratic-party-of-iranian-kurdistan-affiliated-with-assembly-of-experts-for-constitution",
+  "from_entity": "democratic-party-of-iranian-kurdistan",
+  "to_entity": "assembly-of-experts-for-constitution",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1979",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/1979_Iranian_Constitutional_Assembly_election",
+      "source_title": "1979 Iranian Constitutional Assembly election — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "The PDKI's leader was elected to the assembly but had his credentials rejected."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "abbas-sheibani-member-of-national-front-iran",
+  "from_entity": "abbas-sheibani",
+  "to_entity": "national-front-iran",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": "1950",
+  "date_to": "1961",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abbas_Sheibani",
+      "source_title": "Abbas Sheibani — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Member of the National Front from approximately 1950 before co-founding the Freedom Movement in 1961."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

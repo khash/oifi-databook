@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-ali-montazeri-opposed-ahmad-khomeini",
+  "from_entity": "hossein-ali-montazeri",
+  "to_entity": "ahmad-khomeini",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": "1988",
+  "date_to": "1989",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hussein-Ali_Montazeri",
+      "source_title": "Hossein-Ali Montazeri — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Ahmad Khomeini, who controlled access to his father, worked to isolate Montazeri during the succession crisis of 1988–1989, contributing to his dismissal as designated successor."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Ahmad Khomeini used his role as gatekeeper to his father to undermine Montazeri's position."
+}

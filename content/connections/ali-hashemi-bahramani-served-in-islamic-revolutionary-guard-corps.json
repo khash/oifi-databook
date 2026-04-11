@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-hashemi-bahramani-served-in-islamic-revolutionary-guard-corps",
+  "from_entity": "ali-hashemi-bahramani",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Contra_affair",
+      "source_title": "Iran-Contra affair — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Bahramani was described as a Revolutionary Guard officer."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "IRGC officer. Exact rank and dates of service not documented in available sources."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-aliabadi-coordinated-with-rostam-ghasemi",
+  "from_entity": "mohammad-aliabadi",
+  "to_entity": "rostam-ghasemi",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "2011",
+  "date_to": "2011",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Aliabadi",
+      "source_title": "Mohammad Aliabadi - Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "Aliabadi served as caretaker Oil Minister until Rostam Ghasemi was appointed permanent minister in August 2011, indicating a transition/coordination between the two."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

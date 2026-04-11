@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-reza-farzin-served-in-ayandeh-bank",
+  "from_entity": "mohammad-reza-farzin",
+  "to_entity": "ayandeh-bank",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2023",
+  "evidence": [
+    {
+      "source_url": "https://kayhanlife.com/authors/analysis-why-uk-is-imposing-sanctions-on-founder-of-ayandeh-bank/",
+      "source_title": "Why UK Is Imposing Sanctions on Founder of Ayandeh Bank - Kayhan Life",
+      "source_date": "2025-10-30",
+      "description": "Farzin served as chairman of the board of Ayandeh Bank before his appointment as Central Bank governor."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "His previous role at Ayandeh Bank and subsequent decision to dissolve it raised conflict-of-interest questions."
+}

@@ -1,0 +1,27 @@
+{
+  "entity_id": "manucher-ghorbanifar",
+  "slug": "manucher-ghorbanifar",
+  "name_en": "Manucher Ghorbanifar",
+  "name_fa": "منوچهر قربانی‌فر",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Manuchehr Ghorbanifar"
+  ],
+  "born": 1945,
+  "birthplace": "Iran",
+  "role": "Iranian arms dealer; key intermediary in the Iran-Contra affair",
+  "faction": null,
+  "bio": "Manucher Ghorbanifar is an expatriate Iranian arms dealer who served as the principal intermediary in the [Iran-Contra affair](/events/iran-contra-affair-1985). A former [SAVAK](/orgs/savak) associate under the Shah, he built a fortune in shipping before the [Iranian Revolution](/events/iranian-revolution-1979) and relocated to France after his assets were seized. In 1985, Ghorbanifar proposed the arms-for-hostages arrangement to U.S. and Israeli officials, brokering the initial shipments of TOW missiles and Hawk missile parts to Iran during the [Iran-Iraq War](/events/iran-iraq-war). He added a 41-percent markup to arms prices and was described by American officials as playing both sides for commercial advantage. The CIA issued a 'burn notice' on Ghorbanifar in 1984 after he failed multiple polygraph tests, labeling him an unreliable source. He re-emerged as a back-channel intelligence source to Pentagon officials during the lead-up to the 2003 Iraq War.",
+  "irgc_member": false,
+  "expertise": [
+    "arms dealing",
+    "intelligence",
+    "back-channel diplomacy"
+  ],
+  "tags": [
+    "intelligence",
+    "diplomacy"
+  ],
+  "photo": null,
+  "editorial_notes": "Born c. 1945. Former SAVAK associate. CIA burn notice 1984. Key intermediary 1985–1986. Added 41% markup. Resurfaced c. 2003 with Pentagon contacts re: Iran regime change."
+}

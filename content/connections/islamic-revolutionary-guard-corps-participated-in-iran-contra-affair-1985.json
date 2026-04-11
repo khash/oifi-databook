@@ -1,0 +1,21 @@
+{
+  "entity_id": "islamic-revolutionary-guard-corps-participated-in-iran-contra-affair-1985",
+  "from_entity": "islamic-revolutionary-guard-corps",
+  "to_entity": "iran-contra-affair-1985",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1985",
+  "date_to": "1986",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Contra_affair",
+      "source_title": "Iran-Contra affair — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "The IRGC was the primary military recipient of the U.S. arms shipments. Rafsanjani's nephew, a Revolutionary Guard officer, served as a contact for the arms negotiations."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "IRGC received the weapons. Ali Hashemi Bahramani (Rafsanjani's nephew, IRGC officer) served as contact from August 1986."
+}

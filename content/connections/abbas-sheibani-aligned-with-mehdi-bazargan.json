@@ -1,0 +1,21 @@
+{
+  "entity_id": "abbas-sheibani-aligned-with-mehdi-bazargan",
+  "from_entity": "abbas-sheibani",
+  "to_entity": "mehdi-bazargan",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "1961",
+  "date_to": "1979",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abbas_Sheibani",
+      "source_title": "Abbas Sheibani — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Co-founded the Freedom Movement of Iran with Mehdi Bazargan in 1961. Broke with him politically after the revolution."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": "Political allies from 1961 until the revolution; Sheibani broke with Freedom Movement and joined IRP post-1979."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "mir-hossein-mousavi-named-in-iran-contra-affair-1985",
+  "from_entity": "mir-hossein-mousavi",
+  "to_entity": "iran-contra-affair-1985",
+  "type": "named-in",
+  "confidence": "alleged",
+  "date_from": "1985",
+  "date_to": "1986",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mir-Hossein_Mousavi",
+      "source_title": "Mir-Hossein Mousavi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Mousavi was Prime Minister during the Iran-Contra affair. His security adviser Mohsen Kangarloo was a key negotiator. Sources conflict on whether Mousavi was directly involved in the negotiations."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Mousavi was PM 1981–1989. His security adviser Kangarloo negotiated arms transfers. Sources conflict on Mousavi's direct involvement — set to alleged."
+}

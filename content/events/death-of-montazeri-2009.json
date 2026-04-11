@@ -1,0 +1,28 @@
+{
+  "entity_id": "death-of-montazeri-2009",
+  "slug": "death-of-montazeri-2009",
+  "name": "Death of Grand Ayatollah Montazeri",
+  "date": "2009-12-19",
+  "type": "death",
+  "description": "Grand Ayatollah [Hossein-Ali Montazeri](/people/hossein-ali-montazeri) died on 19 December 2009 at his home in Qom at the age of 87. As the most senior clerical critic of the Islamic Republic and the most authoritative religious voice supporting the [Green Movement](/events/green-movement-protests-2009), his death triggered massive mourning gatherings in Qom, Isfahan, and his hometown Najafabad that became political protests. The regime attempted to suppress the ceremonies but could not prevent them. The fortieth-day mourning coincided with Ashura (27 December 2009), leading to some of the most violent clashes of the Green Movement. His death removed the highest-ranking clerical opponent of [Ali Khamenei](/people/ali-khamenei)'s leadership.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Hussein-Ali_Montazeri",
+      "title": "Hussein-Ali Montazeri",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.bbc.com/news/world-middle-east-10755498",
+      "title": "Profile: Grand Ayatollah Hossein Ali Montazeri",
+      "date": "2009-12-20",
+      "publisher": "BBC News"
+    }
+  ],
+  "tags": [
+    "green-movement",
+    "clerical"
+  ],
+  "editorial_notes": "Died 19 December 2009 in Qom. Fortieth-day mourning fell on Ashura, 27 December 2009. State media gave minimal coverage."
+}

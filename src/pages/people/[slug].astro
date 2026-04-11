@@ -10,6 +10,7 @@ import { SPECTRUM_FACTIONS, INVERSE_LABELS } from "@/lib/constants"
 import { renderMarkdown, stripMarkdown } from "@/lib/markdown"
 import { annotateDatesInHtml } from "@/lib/date"
 import type { Person } from "@/lib/types"
+import AskChatGPT from "@/components/AskChatGPT.astro"
 
 export function getStaticPaths() {
   return getPeople().map((p) => ({ params: { slug: p.slug }, props: { person: p } }))
@@ -103,6 +104,8 @@ const jsonLd = {
     {connectionItems.length > 0 && (
       <ConnectionsList client:load connections={connectionItems} />
     )}
+
+    <AskChatGPT entityName={person.name_en} entityType="person" context={person.role ? `Role: ${person.role}.` : undefined} />
   </Fragment>
 
 </EntityLayout>

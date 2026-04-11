@@ -1,0 +1,21 @@
+{
+  "entity_id": "mehdi-hashemi-affiliated-with-hezbollah",
+  "from_entity": "mehdi-hashemi",
+  "to_entity": "hezbollah",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "1982",
+  "date_to": "1986",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mehdi_Hashemi",
+      "source_title": "Mehdi Hashemi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "As head of the IRGC Bureau for Liberation Movements, Hashemi oversaw Iran's support for Hezbollah and other Shia militant groups."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Managed Hezbollah support through IRGC Bureau for Liberation Movements."
+}

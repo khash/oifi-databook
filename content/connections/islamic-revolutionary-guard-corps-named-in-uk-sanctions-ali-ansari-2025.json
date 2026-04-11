@@ -1,0 +1,21 @@
+{
+  "entity_id": "islamic-revolutionary-guard-corps-named-in-uk-sanctions-ali-ansari-2025",
+  "from_entity": "islamic-revolutionary-guard-corps",
+  "to_entity": "uk-sanctions-ali-ansari-2025",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2025-10-30",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.gov.uk/government/news/uk-announces-sanctions-against-those-who-fund-the-work-of-the-irgc",
+      "source_title": "UK announces sanctions against individual who funds the work of the IRGC - GOV.UK",
+      "source_date": "2025-10-30",
+      "description": "The IRGC is the central entity referenced in the UK sanctions designation — Ansari was sanctioned specifically for financially enabling the IRGC."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

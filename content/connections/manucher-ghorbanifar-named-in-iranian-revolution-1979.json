@@ -1,0 +1,21 @@
+{
+  "entity_id": "manucher-ghorbanifar-named-in-iranian-revolution-1979",
+  "from_entity": "manucher-ghorbanifar",
+  "to_entity": "iranian-revolution-1979",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1979",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Manucher_Ghorbanifar",
+      "source_title": "Manucher Ghorbanifar — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "The revolution led to the seizure of Ghorbanifar's assets and his relocation to France, transforming him from a shipping magnate into an expatriate arms dealer."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Lost assets in revolution, relocated to France. Former SAVAK associate."
+}

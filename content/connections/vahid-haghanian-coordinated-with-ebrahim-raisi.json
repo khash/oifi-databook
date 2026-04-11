@@ -1,0 +1,21 @@
+{
+  "entity_id": "vahid-haghanian-coordinated-with-ebrahim-raisi",
+  "from_entity": "vahid-haghanian",
+  "to_entity": "ebrahim-raisi",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "2021",
+  "date_to": "2024",
+  "evidence": [
+    {
+      "source_url": "https://www.ncr-iran.org/en/news/iran-election/confidential-documents-reveal-vahid-haghanians-high-ranking-position-in-raisis-administration-in-iran/",
+      "source_title": "Confidential Documents Reveal Haghanian's High-Ranking Position in Raisi's Administration - NCRI",
+      "source_date": "2023-01-01",
+      "description": "Haghanian held a dual role under Raisi — simultaneously serving in the president's administration at a rank higher than minister while maintaining his position in Khamenei's office."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

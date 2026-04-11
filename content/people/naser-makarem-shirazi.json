@@ -1,0 +1,18 @@
+{
+  "entity_id": "naser-makarem-shirazi",
+  "slug": "naser-makarem-shirazi",
+  "name_en": "Naser Makarem Shirazi",
+  "name_fa": "ناصر مکارم شیرازی",
+  "has_native_fa_name": true,
+  "aliases": ["Grand Ayatollah Makarem Shirazi", "Makarem-Shirazi"],
+  "born": 1927,
+  "birthplace": "Shiraz",
+  "role": "Grand Ayatollah; Shia marja' (source of emulation)",
+  "faction": "conservative",
+  "bio": "Grand Ayatollah Naser Makarem Shirazi is one of the most prominent Shia scholars and marjas (sources of emulation) in Iran. He was elected to the [Assembly of Experts for the Constitution](/orgs/assembly-of-experts-for-constitution) in 1979, representing Fars Province with over 84% of the vote. Based in Qom, he is the author of the influential Tafsir Nemooneh (Exemplary Commentary), a multi-volume Quranic exegesis. He has served as a member of the [Society of Seminary Teachers of Qom](/orgs/society-of-seminary-teachers-of-qom) and is known for issuing fatwas on social and economic matters. While broadly supportive of the Islamic Republic's system, he has occasionally criticized economic policies and corruption.",
+  "irgc_member": false,
+  "expertise": ["Quranic exegesis", "Islamic jurisprudence", "Shia theology"],
+  "tags": ["clerical"],
+  "photo": null,
+  "editorial_notes": "Born 1927 in Shiraz. One of the most widely followed marjas in Iran. His Tafsir Nemooneh is one of the most popular Quran commentaries in Farsi."
+}

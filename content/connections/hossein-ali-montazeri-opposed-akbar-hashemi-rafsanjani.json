@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-ali-montazeri-opposed-akbar-hashemi-rafsanjani",
+  "from_entity": "hossein-ali-montazeri",
+  "to_entity": "akbar-hashemi-rafsanjani",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": "1989",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hussein-Ali_Montazeri",
+      "source_title": "Hussein-Ali Montazeri — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Rafsanjani played a role in Montazeri's dismissal and the two were political adversaries. Rafsanjani supported the constitutional changes that sidelined Montazeri."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Rafsanjani was more pragmatic and calculating; Montazeri prioritized principle over political survival."
+}

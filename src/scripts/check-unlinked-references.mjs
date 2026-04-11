@@ -11,8 +11,6 @@ import path from "node:path"
 
 const LINK_RE = /\[([^\]]+)\]\(\/(people|orgs|events)\/([^)]+)\)/g
 
-const TYPE_TO_DIR = { people: "people", orgs: "orgs", events: "events" }
-
 function loadJson(dir) {
   if (!fs.existsSync(dir)) return []
   return fs

@@ -1,0 +1,21 @@
+{
+  "entity_id": "vahid-haghanian-coordinated-with-mir-hossein-mousavi",
+  "from_entity": "vahid-haghanian",
+  "to_entity": "mir-hossein-mousavi",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": "2009",
+  "evidence": [
+    {
+      "source_url": "https://english.shabtabnews.com/2021/06/24/vahid-haghanian-ali-khameneis-lackey-comes-out-of-obscurity/",
+      "source_title": "Vahid Haghanian — Khamenei's Lackey - Shabtabnews",
+      "source_date": "2021-06-24",
+      "description": "During the 2009 presidential election, Haghanian was the formal communication channel between Mousavi's campaign and the Supreme Leader's office."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "This was an official liaison role, not ideological alignment."
+}

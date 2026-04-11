@@ -1,0 +1,27 @@
+{
+  "entity_id": "ali-hashemi-bahramani-participated-in-iran-contra-affair-1985",
+  "from_entity": "ali-hashemi-bahramani",
+  "to_entity": "iran-contra-affair-1985",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1986-08",
+  "date_to": "1986-11",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Contra_affair",
+      "source_title": "Iran-Contra affair — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Bahramani was established as a new Iranian contact in August 1986, meeting frequently with Oliver North in West Germany to discuss arms sales, hostage releases, and cooperation against Iraq."
+    },
+    {
+      "source_url": "https://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/i-theexpansion.php",
+      "source_title": "Understanding the Iran-Contra Affairs — Brown University",
+      "source_date": null,
+      "description": "Described as 'a relative of the Speaker of the Iranian Parliament,' Bahramani served as the 'second channel' after American frustration with Ghorbanifar."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Known as 'the Relative' or 'second channel' in U.S. documents. Met North in West Germany. Given midnight White House tour. Approx. 20 years old."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "lotfollah-safi-golpaygani-served-in-guardian-council",
+  "from_entity": "lotfollah-safi-golpaygani",
+  "to_entity": "guardian-council",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1980",
+  "date_to": "1988",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Lotfollah_Safi_Golpaygani",
+      "source_title": "Lotfollah Safi Golpaygani — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Served as the first Secretary of the Guardian Council from 1980 to 1988."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "manucher-ghorbanifar-named-in-iran-iraq-war",
+  "from_entity": "manucher-ghorbanifar",
+  "to_entity": "iran-iraq-war",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1985",
+  "date_to": "1986",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Manucher_Ghorbanifar",
+      "source_title": "Manucher Ghorbanifar — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Ghorbanifar brokered arms sales to Iran during the Iran-Iraq War, facilitating weapons Iran desperately needed for its war effort."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Brokered TOW missiles and Hawk parts that Iran needed for war against Iraq."
+}

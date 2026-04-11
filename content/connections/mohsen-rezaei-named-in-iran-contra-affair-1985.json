@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohsen-rezaei-named-in-iran-contra-affair-1985",
+  "from_entity": "mohsen-rezaei",
+  "to_entity": "iran-contra-affair-1985",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1985",
+  "date_to": "1986",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Contra_affair",
+      "source_title": "Iran-Contra affair — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "As IRGC commander-in-chief during the affair, Rezaei oversaw the military organization that was the ultimate recipient of the U.S. arms shipments, including TOW missiles and Hawk missile parts needed for the Iran-Iraq War effort."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "IRGC commander during the affair. The weapons shipped went to IRGC forces fighting in the Iran-Iraq War."
+}

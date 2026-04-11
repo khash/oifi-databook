@@ -1,0 +1,21 @@
+{
+  "entity_id": "abbas-sheibani-headed-university-of-tehran",
+  "from_entity": "abbas-sheibani",
+  "to_entity": "university-of-tehran",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "1983",
+  "date_to": "1984",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abbas_Sheibani",
+      "source_title": "Abbas Sheibani — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Served as president of the University of Tehran from 1983 to 1984."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "ayandeh-bank-funded-by-central-bank-of-iran",
+  "from_entity": "ayandeh-bank",
+  "to_entity": "central-bank-of-iran",
+  "type": "funded-by",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2025",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ayandeh_Bank",
+      "source_title": "Ayandeh Bank - Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "Ayandeh Bank accumulated $2.9 billion in overdrafts from the Central Bank of Iran before its dissolution."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

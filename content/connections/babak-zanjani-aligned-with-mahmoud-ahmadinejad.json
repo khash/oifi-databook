@@ -1,0 +1,21 @@
+{
+  "entity_id": "babak-zanjani-aligned-with-mahmoud-ahmadinejad",
+  "from_entity": "babak-zanjani",
+  "to_entity": "mahmoud-ahmadinejad",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": "2013",
+  "evidence": [
+    {
+      "source_url": "https://www.aljazeera.com/opinions/2016/3/10/babak-zanjani-and-the-complicity-of-iran",
+      "source_title": "Babak Zanjani and the complicity of Iran - Al Jazeera",
+      "source_date": "2016-03-10",
+      "description": "Zanjani operated as sanctions-busting oil dealer during Ahmadinejad's presidency; multiple cabinet ministers formally authorized his dealings on 27 June 2012."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

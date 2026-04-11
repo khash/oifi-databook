@@ -1,0 +1,21 @@
+{
+  "entity_id": "ruhollah-khomeini-directed-montazeri-dismissal-1989",
+  "from_entity": "ruhollah-khomeini",
+  "to_entity": "montazeri-dismissal-1989",
+  "type": "directed",
+  "confidence": "confirmed",
+  "date_from": "1989-03-28",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hussein-Ali_Montazeri",
+      "source_title": "Hussein-Ali Montazeri — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Khomeini wrote and issued the letter of dismissal, accusing Montazeri of being manipulated by 'hypocrites.'"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

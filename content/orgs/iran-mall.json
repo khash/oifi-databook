@@ -1,0 +1,15 @@
+{
+  "entity_id": "iran-mall",
+  "slug": "iran-mall",
+  "name_en": "Iran Mall",
+  "name_fa": "ایران مال",
+  "has_native_fa_name": true,
+  "type": "business",
+  "founded": 2018,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Iran Mall is the world's largest shopping mall by area, located in northwest Tehran by Chitgar Lake. Conceived by [Ali Ansari](/people/ali-ansari-banker) around 2000, construction began in 2012 and the first phase opened on 1 May 2018 with 267,000 square metres of gross leasable area and 708 retail units.\n\nThe project was financed primarily through [Ayandeh Bank](/orgs/ayandeh-bank), which directed approximately 70 percent of its total lending — some 97 thousand billion tomans — to Iran Mall and related entities. The majority of these loans became non-performing. In December 2020, the complex was announced for sale at $3.5 billion. Over 1,200 contractors and 25,000 workers participated in its construction.",
+  "faction": null,
+  "tags": [],
+  "editorial_notes": "Owned by Iran Mall International Development Company. Reports have linked the development company to a financial network around Mojtaba Khamenei, though this is disputed."
+}

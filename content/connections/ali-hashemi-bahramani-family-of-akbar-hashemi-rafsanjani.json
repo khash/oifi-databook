@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-hashemi-bahramani-family-of-akbar-hashemi-rafsanjani",
+  "from_entity": "ali-hashemi-bahramani",
+  "to_entity": "akbar-hashemi-rafsanjani",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Contra_affair",
+      "source_title": "Iran-Contra affair — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Ali Hashemi Bahramani was identified as Rafsanjani's nephew and an IRGC officer."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "in-law",
+  "editorial_notes": "Nephew of Rafsanjani. The exact family relationship is described as 'nephew' in sources; using in-law as closest available subtype for extended family."
+}

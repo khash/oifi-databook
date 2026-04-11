@@ -1,0 +1,18 @@
+{
+  "entity_id": "hassan-ayat",
+  "slug": "hassan-ayat",
+  "name_en": "Hassan Ayat",
+  "name_fa": "حسن آیت",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1938,
+  "birthplace": null,
+  "role": "Secretary of the Assembly of Experts for the Constitution; IRP central committee member",
+  "faction": "hardliner",
+  "bio": "Hassan Ayat was a lawyer and political activist who served as secretary of the [Assembly of Experts for the Constitution](/orgs/assembly-of-experts-for-constitution) in 1979. A member of the [Islamic Republican Party](/orgs/islamic-republican-party) central committee, he played a key role in inserting the doctrine of velayat-e faqih into the constitution, arguing forcefully for broad powers for the Supreme Leader. He was elected to the first [Islamic Consultative Assembly](/orgs/islamic-consultative-assembly) (Majles) in 1980. He was assassinated on 5 August 1981, an attack attributed to the [Mojahedin-e Khalq](/orgs/mojahedin-e-khalq).",
+  "irgc_member": false,
+  "expertise": ["constitutional law", "political activism"],
+  "tags": ["assassinated"],
+  "photo": null,
+  "editorial_notes": "Born 1938. Assassinated 5 August 1981 by MEK. One of the most vocal advocates for absolute velayat-e faqih in the constitutional assembly debates."
+}

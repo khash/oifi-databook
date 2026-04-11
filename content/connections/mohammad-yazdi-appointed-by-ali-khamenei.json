@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-yazdi-appointed-by-ali-khamenei",
+  "from_entity": "mohammad-yazdi",
+  "to_entity": "ali-khamenei",
+  "type": "appointed-by",
+  "confidence": "confirmed",
+  "date_from": "1989",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Yazdi",
+      "source_title": "Mohammad Yazdi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Appointed Chief Justice of Iran by Ali Khamenei in 1989."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

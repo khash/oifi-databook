@@ -1,0 +1,21 @@
+{
+  "entity_id": "ghorbanifar-participated-in-iran-contra-affair-1985",
+  "from_entity": "manucher-ghorbanifar",
+  "to_entity": "iran-contra-affair-1985",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1985",
+  "date_to": "1986",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Manucher_Ghorbanifar",
+      "source_title": "Manucher Ghorbanifar — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Ghorbanifar proposed the arms-for-hostages arrangement and served as the principal intermediary for the initial Israeli-brokered and subsequent direct U.S. arms shipments to Iran."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Proposed the deal, brokered initial shipments, added 41% markup. CIA had previously issued a burn notice on him in 1984."
+}

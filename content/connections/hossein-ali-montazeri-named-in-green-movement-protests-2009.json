@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-ali-montazeri-named-in-green-movement-protests-2009",
+  "from_entity": "hossein-ali-montazeri",
+  "to_entity": "green-movement-protests-2009",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": "2009",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hussein-Ali_Montazeri",
+      "source_title": "Hussein-Ali Montazeri — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Montazeri issued a fatwa declaring the disputed 2009 election results illegitimate. He was the most senior clerical voice supporting the Green Movement protesters."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Issued fatwa supporting protesters after June 2009 disputed election. His death in December 2009 triggered mourning protests that sustained the movement."
+}

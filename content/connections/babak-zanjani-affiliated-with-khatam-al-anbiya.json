@@ -1,0 +1,23 @@
+{
+  "entity_id": "babak-zanjani-affiliated-with-khatam-al-anbiya",
+  "from_entity": "babak-zanjani",
+  "to_entity": "khatam-al-anbiya",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://english.alarabiya.net/features/2019/04/15/Rostam-Ghasemi-The-brigadier-general-of-sanctions-evasion",
+      "source_title": "Rostam Ghasemi: The brigadier general of sanctions evasion - Al Arabiya",
+      "source_date": "2019-04-15",
+      "description": "Zanjani's sanctions-evasion operations were connected to Khatam al-Anbiya through its former head Rostam Ghasemi, who became Oil Minister and authorized Zanjani's dealings."
+    }
+  ],
+  "intermediaries": [
+    "rostam-ghasemi"
+  ],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

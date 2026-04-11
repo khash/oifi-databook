@@ -1,0 +1,21 @@
+{
+  "entity_id": "vahid-haghanian-served-in-irgc-quds-force",
+  "from_entity": "vahid-haghanian",
+  "to_entity": "irgc-quds-force",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1988",
+  "date_to": "1992",
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202406012710",
+      "source_title": "Senior Khamenei Official Enters Presidential Race - Iran International",
+      "source_date": "2024-06-01",
+      "description": "Haghanian transferred to IRGC Quds Force in late 1988 and served as commander for approximately four years, focusing on Eastern Bloc countries."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

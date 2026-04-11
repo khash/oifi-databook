@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-ali-montazeri-aligned-with-mohammad-beheshti",
+  "from_entity": "hossein-ali-montazeri",
+  "to_entity": "mohammad-beheshti",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1981",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Assembly_of_Experts_for_the_Constitution",
+      "source_title": "Assembly of Experts for the Constitution — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Montazeri chaired the 1979 Assembly of Experts for the Constitution with Beheshti as deputy chairman. Both were core architects of the Islamic Republic's constitutional framework."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": "Both killed/removed from the revolutionary establishment — Beheshti assassinated 1981, Montazeri dismissed 1989."
+}

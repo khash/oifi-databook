@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-ansari-banker-aligned-with-mojtaba-khamenei",
+  "from_entity": "ali-ansari-banker",
+  "to_entity": "mojtaba-khamenei",
+  "type": "aligned-with",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://kayhanlife.com/authors/analysis-why-uk-is-imposing-sanctions-on-founder-of-ayandeh-bank/",
+      "source_title": "Why UK Is Imposing Sanctions on Founder of Ayandeh Bank - Kayhan Life",
+      "source_date": "2025-10-30",
+      "description": "Reports suggest Iran Mall International Development Company serves as a financial front linked to the Khamenei network. Mojtaba Khamenei (identified as Meysam Khamenei in some sources) attended the funeral of Ansari's father in June 2025."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

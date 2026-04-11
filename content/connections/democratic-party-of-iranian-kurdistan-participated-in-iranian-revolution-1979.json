@@ -1,0 +1,21 @@
+{
+  "entity_id": "democratic-party-of-iranian-kurdistan-participated-in-iranian-revolution-1979",
+  "from_entity": "democratic-party-of-iranian-kurdistan",
+  "to_entity": "iranian-revolution-1979",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1979",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Democratic_Party_of_Iranian_Kurdistan",
+      "source_title": "Democratic Party of Iranian Kurdistan — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "The PDKI participated in the revolutionary process but was subsequently banned."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

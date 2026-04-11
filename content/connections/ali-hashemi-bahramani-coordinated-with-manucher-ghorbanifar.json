@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-hashemi-bahramani-coordinated-with-manucher-ghorbanifar",
+  "from_entity": "ali-hashemi-bahramani",
+  "to_entity": "manucher-ghorbanifar",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "1986",
+  "date_to": "1986",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Contra_affair",
+      "source_title": "Iran-Contra affair — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Bahramani replaced Ghorbanifar as the primary Iranian contact after American frustration with Ghorbanifar's unreliability."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Bahramani was the 'second channel' replacing Ghorbanifar."
+}

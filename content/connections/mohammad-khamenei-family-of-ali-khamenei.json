@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-khamenei-family-of-ali-khamenei",
+  "from_entity": "mohammad-khamenei",
+  "to_entity": "ali-khamenei",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Khamenei",
+      "source_title": "Mohammad Khamenei — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Mohammad Khamenei is the brother of Ali Khamenei."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "sibling",
+  "editorial_notes": ""
+}

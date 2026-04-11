@@ -1,0 +1,21 @@
+{
+  "entity_id": "society-of-seminary-teachers-of-qom-affiliated-with-assembly-of-experts-for-constitution",
+  "from_entity": "society-of-seminary-teachers-of-qom",
+  "to_entity": "assembly-of-experts-for-constitution",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1979",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Society_of_Seminary_Teachers_of_Qom",
+      "source_title": "Society of Seminary Teachers of Qom — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Members of the society dominated the Assembly of Experts for the Constitution."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

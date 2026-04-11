@@ -1,0 +1,15 @@
+{
+  "entity_id": "assembly-of-experts-for-constitution",
+  "slug": "assembly-of-experts-for-constitution",
+  "name_en": "Assembly of Experts for the Constitution",
+  "name_fa": "مجلس خبرگان قانون اساسی",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 1979,
+  "dissolved": 1979,
+  "parent_org": null,
+  "description": "The Assembly of Experts for the Constitution (Majles-e Khobregan-e Qanun-e Asasi) was a 73-member body convened in 1979 to draft the Constitution of the Islamic Republic of Iran. Elected on 3 August 1979, the assembly was dominated by clerics aligned with the [Islamic Republican Party](/orgs/islamic-republican-party), who won approximately 55 of 73 seats. Chaired by [Hossein-Ali Montazeri](/people/hossein-ali-montazeri) with [Mohammad Beheshti](/people/mohammad-beheshti) as deputy speaker, the assembly met from 18 August to 15 November 1979 at the former Senate building in Tehran. Its most consequential act was embedding the doctrine of velayat-e faqih (Guardianship of the Islamic Jurist) into the constitution, granting sweeping powers to a Supreme Leader — a provision that went far beyond the original draft prepared by the provisional government. Opposition members, including figures from the [Freedom Movement of Iran](/orgs/freedom-movement-of-iran) and secular nationalists, were outnumbered and unable to block the clerical majority. The resulting constitution was approved in a national referendum on 2–3 December 1979 with 99.5% approval on 75% turnout, though the referendum was boycotted by leftists, Kurdish groups, and followers of Ayatollah Shariatmadari. This body is distinct from the [Assembly of Experts](/orgs/assembly-of-experts) (Majles-e Khobregan-e Rahbari), the permanent body established in 1982 to select and supervise the Supreme Leader.",
+  "faction": "hardliner",
+  "tags": [],
+  "editorial_notes": "73 seats: 69 provincial constituencies + 4 reserved religious minority seats (Armenian, Assyrian, Jewish, Zoroastrian). 55 of 73 members were mojtaheds. Sessions 18 Aug – 15 Nov 1979. Abdul Rahman Ghassemlou (PDKI) elected from West Azerbaijan but credentials rejected on Khomeini's orders."
+}

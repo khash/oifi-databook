@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-aliabadi-coordinated-with-ali-ansari-banker",
+  "from_entity": "mohammad-aliabadi",
+  "to_entity": "ali-ansari-banker",
+  "type": "coordinated-with",
+  "confidence": "alleged",
+  "date_from": "2009",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.radiozamaneh.com/37363/",
+      "source_title": "Ayandeh Bank: How One Family Built a Bank to Feed Its Own Empire - Zamaneh Media",
+      "source_date": "2025-10-01",
+      "description": "Aliabadi, as head of the Physical Education Organization, reportedly facilitated Ansari's entry into banking by channelling sports federation resources to Tat Bank. Ansari was subsequently appointed to the board of Esteghlal FC and headed the Cycling Federation through these connections."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,17 @@
+{
+  "entity_id": "central-bank-of-iran",
+  "slug": "central-bank-of-iran",
+  "name_en": "Central Bank of Iran",
+  "name_fa": "بانک مرکزی جمهوری اسلامی ایران",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 1960,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Central Bank of the Islamic Republic of Iran (Bank Markazi) is Iran's central bank and monetary authority, responsible for maintaining monetary and financial stability, regulating the banking sector, and managing foreign exchange reserves. In October 2025, it revoked the operating licence of [Ayandeh Bank](/orgs/ayandeh-bank) and ordered its merger into [Bank Melli Iran](/orgs/bank-melli-iran).",
+  "faction": null,
+  "tags": [
+    "sanctions"
+  ],
+  "editorial_notes": "Also known as Bank Markazi. Governor as of 2025: Mohammad-Reza Farzin. Sanctioned by the US."
+}

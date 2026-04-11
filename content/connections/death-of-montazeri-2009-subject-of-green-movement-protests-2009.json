@@ -1,0 +1,21 @@
+{
+  "entity_id": "death-of-montazeri-2009-subject-of-green-movement-protests-2009",
+  "from_entity": "death-of-montazeri-2009",
+  "to_entity": "green-movement-protests-2009",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2009-12",
+  "date_to": "2009-12",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hussein-Ali_Montazeri",
+      "source_title": "Hussein-Ali Montazeri — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Montazeri's death triggered massive mourning gatherings that became political protests, sustaining the Green Movement. The fortieth-day mourning on Ashura led to violent clashes."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Death on 19 December 2009. Fortieth-day mourning coincided with Ashura (27 December 2009)."
+}

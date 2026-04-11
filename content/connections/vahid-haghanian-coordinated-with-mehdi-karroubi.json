@@ -1,0 +1,21 @@
+{
+  "entity_id": "vahid-haghanian-coordinated-with-mehdi-karroubi",
+  "from_entity": "vahid-haghanian",
+  "to_entity": "mehdi-karroubi",
+  "type": "coordinated-with",
+  "confidence": "alleged",
+  "date_from": "2011",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://english.shabtabnews.com/2021/06/24/vahid-haghanian-ali-khameneis-lackey-comes-out-of-obscurity/",
+      "source_title": "Vahid Haghanian — Khamenei's Lackey - Shabtabnews",
+      "source_date": "2021-06-24",
+      "description": "Haghanian was reportedly involved in the arrest and detention of Mehdi Karroubi in 2011, escorting him to Heshmatieh Prison."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "This represents Haghanian's role in Karroubi's detention, not a cooperative relationship."
+}

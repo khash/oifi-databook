@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-yazdi-served-in-guardian-council",
+  "from_entity": "mohammad-yazdi",
+  "to_entity": "guardian-council",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1999",
+  "date_to": "2020",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Yazdi",
+      "source_title": "Mohammad Yazdi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Served on the Guardian Council for multiple terms after leaving the judiciary."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "abdolkarim-mousavi-ardabili-opposed-hossein-ali-montazeri",
+  "from_entity": "abdolkarim-mousavi-ardabili",
+  "to_entity": "hossein-ali-montazeri",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": "1988",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.iranhrs.org/chapter-8-reactions-within-the-velayat-al-faghih-system-about-executions-of-political-prisoners-in-1988/",
+      "source_title": "Reactions within the Velayat al-Faghih system about 1988 executions — Iran HRS",
+      "source_date": null,
+      "description": "Montazeri sent letters to Mousavi-Ardabili criticizing his role in pressuring for the execution of political prisoners during the 1988 mass executions, including questioning whether he had personally instructed officials about executions in cities like Kashan and Isfahan."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Montazeri criticized Ardabili; Ardabili was on the side of the executions while Montazeri opposed them."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohsen-kangarloo-coordinated-with-manucher-ghorbanifar",
+  "from_entity": "mohsen-kangarloo",
+  "to_entity": "manucher-ghorbanifar",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "1986",
+  "date_to": "1986",
+  "evidence": [
+    {
+      "source_url": "https://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/i-theexpansion.php",
+      "source_title": "Understanding the Iran-Contra Affairs — Brown University",
+      "source_date": null,
+      "description": "Kangarloo met with Ghorbanifar, North, and Hakim in Germany in February 1986 to discuss arms transfers."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Met at February 1986 Frankfurt negotiations."
+}

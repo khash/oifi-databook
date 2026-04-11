@@ -1,0 +1,21 @@
+{
+  "entity_id": "abbas-sheibani-aligned-with-yadollah-sahabi",
+  "from_entity": "abbas-sheibani",
+  "to_entity": "yadollah-sahabi",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "1961",
+  "date_to": "1979",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abbas_Sheibani",
+      "source_title": "Abbas Sheibani — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Co-founded the Freedom Movement of Iran alongside Yadollah Sahabi in 1961."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

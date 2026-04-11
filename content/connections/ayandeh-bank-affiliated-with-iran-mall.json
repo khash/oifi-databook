@@ -1,0 +1,21 @@
+{
+  "entity_id": "ayandeh-bank-affiliated-with-iran-mall",
+  "from_entity": "ayandeh-bank",
+  "to_entity": "iran-mall",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "2012",
+  "date_to": "2025",
+  "evidence": [
+    {
+      "source_url": "https://en.radiozamaneh.com/37363/",
+      "source_title": "Ayandeh Bank: How One Family Built a Bank to Feed Its Own Empire - Zamaneh Media",
+      "source_date": "2025-10-01",
+      "description": "Approximately 70 percent of Ayandeh Bank's lending was directed to Iran Mall and related entities, with 97 thousand billion tomans across 135 separate loans."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

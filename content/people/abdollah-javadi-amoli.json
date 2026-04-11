@@ -1,0 +1,18 @@
+{
+  "entity_id": "abdollah-javadi-amoli",
+  "slug": "abdollah-javadi-amoli",
+  "name_en": "Abdollah Javadi Amoli",
+  "name_fa": "عبدالله جوادی آملی",
+  "has_native_fa_name": true,
+  "aliases": ["Grand Ayatollah Javadi Amoli", "Javadi-Amoli"],
+  "born": 1933,
+  "birthplace": "Amol, Mazandaran Province",
+  "role": "Grand Ayatollah; Shia philosopher and marja'",
+  "faction": "conservative",
+  "bio": "Grand Ayatollah Abdollah Javadi Amoli is a prominent Shia scholar, philosopher, and marja' (source of emulation) based in Qom. He was elected to the [Assembly of Experts for the Constitution](/orgs/assembly-of-experts-for-constitution) in 1979 and participated in drafting the Islamic Republic's constitution. A professor at the Qom seminary and a member of the [Society of Seminary Teachers of Qom](/orgs/society-of-seminary-teachers-of-qom), he is known for his extensive works on Islamic philosophy, ethics, and Quranic exegesis. He has also served in the [Assembly of Experts](/orgs/assembly-of-experts) for Leadership. In 1989, he was part of the delegation that delivered [Ruhollah Khomeini](/people/ruhollah-khomeini)'s message to Soviet leader Mikhail Gorbachev.",
+  "irgc_member": false,
+  "expertise": ["Islamic philosophy", "Quranic exegesis", "Shia theology"],
+  "tags": ["clerical"],
+  "photo": null,
+  "editorial_notes": "Born 1933 in Amol. Prolific author and lecturer. Known for the multi-volume Tafsir Tasnim. Delivered Khomeini's letter to Gorbachev in January 1989."
+}

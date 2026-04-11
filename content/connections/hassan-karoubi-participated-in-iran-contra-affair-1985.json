@@ -1,0 +1,21 @@
+{
+  "entity_id": "hassan-karoubi-participated-in-iran-contra-affair-1985",
+  "from_entity": "hassan-karoubi",
+  "to_entity": "iran-contra-affair-1985",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1985",
+  "date_to": "1985",
+  "evidence": [
+    {
+      "source_url": "https://irp.fas.org/offdocs/walsh/part_i.htm",
+      "source_title": "Walsh Iran-Contra Report — Part I: The Underlying Facts",
+      "source_date": null,
+      "description": "Hassan Karoubi met with Ghorbanifar and Michael Ledeen in Geneva in late October 1985, proposing a staggered exchange of hostages for Hawk, Sidewinder, and Phoenix missiles."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Met Ledeen and Ghorbanifar in Geneva c. 27 October 1985. Proposed hostage-for-missile exchange."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-ali-montazeri-subject-of-death-of-montazeri-2009",
+  "from_entity": "hossein-ali-montazeri",
+  "to_entity": "death-of-montazeri-2009",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2009-12-19",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.bbc.com/news/world-middle-east-10755498",
+      "source_title": "Profile: Grand Ayatollah Hossein Ali Montazeri — BBC",
+      "source_date": "2009-12-20",
+      "description": "Montazeri died on 19 December 2009 at his home in Qom."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

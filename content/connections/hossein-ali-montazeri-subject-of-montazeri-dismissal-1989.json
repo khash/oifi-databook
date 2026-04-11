@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-ali-montazeri-subject-of-montazeri-dismissal-1989",
+  "from_entity": "hossein-ali-montazeri",
+  "to_entity": "montazeri-dismissal-1989",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "1989-03-28",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hussein-Ali_Montazeri",
+      "source_title": "Hussein-Ali Montazeri — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Khomeini formally stripped Montazeri of his successor-designate status on 28 March 1989."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

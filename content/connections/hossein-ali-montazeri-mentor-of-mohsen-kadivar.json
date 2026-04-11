@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-ali-montazeri-mentor-of-mohsen-kadivar",
+  "from_entity": "hossein-ali-montazeri",
+  "to_entity": "mohsen-kadivar",
+  "type": "mentor-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohsen_Kadivar",
+      "source_title": "Mohsen Kadivar — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Kadivar studied under Montazeri in the Qom seminaries."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Kadivar's editorial notes confirm he studied under Montazeri in Qom."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "ayandeh-bank-named-in-uk-sanctions-ali-ansari-2025",
+  "from_entity": "ayandeh-bank",
+  "to_entity": "uk-sanctions-ali-ansari-2025",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2025-10-30",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.gov.uk/government/news/uk-announces-sanctions-against-those-who-fund-the-work-of-the-irgc",
+      "source_title": "UK announces sanctions against individual who funds the work of the IRGC - GOV.UK",
+      "source_date": "2025-10-30",
+      "description": "Ayandeh Bank is referenced in the UK sanctions designation against its founder Ali Ansari."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

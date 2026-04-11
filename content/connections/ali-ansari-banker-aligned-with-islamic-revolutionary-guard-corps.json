@@ -1,0 +1,27 @@
+{
+  "entity_id": "ali-ansari-banker-aligned-with-islamic-revolutionary-guard-corps",
+  "from_entity": "ali-ansari-banker",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "aligned-with",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.gov.uk/government/news/uk-announces-sanctions-against-those-who-fund-the-work-of-the-irgc",
+      "source_title": "UK announces sanctions against individual who funds the work of the IRGC - GOV.UK",
+      "source_date": "2025-10-30",
+      "description": "UK government sanctioned Ali Aliakbar Ansari for 'his role in financially enabling the work of the Islamic Revolutionary Guard Corps (IRGC).'"
+    },
+    {
+      "source_url": "https://kayhanlife.com/authors/analysis-why-uk-is-imposing-sanctions-on-founder-of-ayandeh-bank/",
+      "source_title": "Why UK Is Imposing Sanctions on Founder of Ayandeh Bank - Kayhan Life",
+      "source_date": "2025-10-30",
+      "description": "Analysis of UK sanctions alleging Ansari financed IRGC operations abroad."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": "Ansari's lawyer Roger Gherson has stated his client 'strongly denies he has ever had any financial relationship with the IRGC in Iran.'"
+}

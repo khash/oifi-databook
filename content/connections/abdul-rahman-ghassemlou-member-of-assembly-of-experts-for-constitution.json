@@ -1,0 +1,21 @@
+{
+  "entity_id": "abdul-rahman-ghassemlou-member-of-assembly-of-experts-for-constitution",
+  "from_entity": "abdul-rahman-ghassemlou",
+  "to_entity": "assembly-of-experts-for-constitution",
+  "type": "member-of",
+  "confidence": "disputed",
+  "date_from": "1979",
+  "date_to": "1979",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/1979_Iranian_Constitutional_Assembly_election",
+      "source_title": "1979 Iranian Constitutional Assembly election — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Ghassemlou won over 80% of votes in West Azerbaijan but his credentials were rejected on Khomeini's orders."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Elected but credentials rejected. Never seated."
+}

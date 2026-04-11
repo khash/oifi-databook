@@ -1,0 +1,21 @@
+{
+  "entity_id": "babak-zanjani-subject-of-ali-khamenei",
+  "from_entity": "babak-zanjani",
+  "to_entity": "ali-khamenei",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2024-04-30",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202404308410",
+      "source_title": "Iranian Oil Tycoon's Death Sentence Commuted To 20 Years - Iran International",
+      "source_date": "2024-04-30",
+      "description": "Ali Khamenei approved clemency commuting Zanjani's death sentence to 20 years imprisonment in April 2024."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Clemency approved by both judiciary chief and Supreme Leader."
+}

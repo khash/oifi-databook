@@ -1,0 +1,21 @@
+{
+  "entity_id": "abbas-sheibani-founded-freedom-movement-of-iran",
+  "from_entity": "abbas-sheibani",
+  "to_entity": "freedom-movement-of-iran",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "1961",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abbas_Sheibani",
+      "source_title": "Abbas Sheibani — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Founding member of the Freedom Movement of Iran in 1961 alongside Mehdi Bazargan and Mahmoud Taleghani."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Broke with Freedom Movement post-revolution and joined IRP."
+}

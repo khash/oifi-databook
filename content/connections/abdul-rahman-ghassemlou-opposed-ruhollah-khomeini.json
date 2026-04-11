@@ -1,0 +1,21 @@
+{
+  "entity_id": "abdul-rahman-ghassemlou-opposed-ruhollah-khomeini",
+  "from_entity": "abdul-rahman-ghassemlou",
+  "to_entity": "ruhollah-khomeini",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abdul_Rahman_Ghassemlou",
+      "source_title": "Abdul Rahman Ghassemlou — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Khomeini personally ordered Ghassemlou's credentials rejected and banned the PDKI."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "vahid-haghanian-participated-in-iran-iraq-war",
+  "from_entity": "vahid-haghanian",
+  "to_entity": "iran-iraq-war",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "1987",
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202406012710",
+      "source_title": "Senior Khamenei Official Enters Presidential Race - Iran International",
+      "source_date": "2024-06-01",
+      "description": "Haghanian was wounded in the Battle of Beit-ol-Moqaddas III in 1987, sustaining abdominal and leg wounds."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

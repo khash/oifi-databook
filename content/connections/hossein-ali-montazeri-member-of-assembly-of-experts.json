@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-ali-montazeri-member-of-assembly-of-experts",
+  "from_entity": "hossein-ali-montazeri",
+  "to_entity": "assembly-of-experts",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": "1982",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hussein-Ali_Montazeri",
+      "source_title": "Hussein-Ali Montazeri — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Montazeri was a member of the Assembly of Experts and chaired it in its early years."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Also served as chairman in early 1980s."
+}

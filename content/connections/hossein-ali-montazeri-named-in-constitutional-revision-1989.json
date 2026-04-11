@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-ali-montazeri-named-in-constitutional-revision-1989",
+  "from_entity": "hossein-ali-montazeri",
+  "to_entity": "constitutional-revision-1989",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1989",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/1989_Iranian_constitutional_referendum",
+      "source_title": "1989 Iranian constitutional referendum — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "The 1989 constitutional revision removed the marja requirement for Supreme Leader, a direct consequence of Montazeri's dismissal. Montazeri opposed the revisions."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Revision was prompted by need to allow non-marja Khamenei to become Supreme Leader after Montazeri was removed."
+}

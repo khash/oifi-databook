@@ -1,0 +1,15 @@
+{
+  "entity_id": "society-of-seminary-teachers-of-qom",
+  "slug": "society-of-seminary-teachers-of-qom",
+  "name_en": "Society of Seminary Teachers of Qom",
+  "name_fa": "جامعه مدرسین حوزه علمیه قم",
+  "has_native_fa_name": true,
+  "type": "religious",
+  "founded": 1961,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Society of Seminary Teachers of Qom (Jame'eh-ye Modarresin-e Howzeh-ye Elmiyyeh-ye Qom) is an influential association of Shia clerics based in the Qom seminary. Founded in 1961, it became a key vehicle for [Ruhollah Khomeini](/people/ruhollah-khomeini)'s political movement and played a central role in the [Iranian Revolution](/events/iranian-revolution-1979). The society's members dominated the [Assembly of Experts for the Constitution](/orgs/assembly-of-experts-for-constitution) in 1979 and have maintained significant influence over the [Guardian Council](/orgs/guardian-council) and the [Assembly of Experts](/orgs/assembly-of-experts). It is considered a conservative-to-hardline clerical body closely aligned with the ruling establishment.",
+  "faction": "hardliner",
+  "tags": ["clerical"],
+  "editorial_notes": "Politically active since the 1960s. Not to be confused with the Society of Qom Seminary Scholars (Majma-ye Modarresin), a separate group."
+}

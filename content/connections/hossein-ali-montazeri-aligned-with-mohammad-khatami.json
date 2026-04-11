@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-ali-montazeri-aligned-with-mohammad-khatami",
+  "from_entity": "hossein-ali-montazeri",
+  "to_entity": "mohammad-khatami",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "1997",
+  "date_to": "2009",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hussein-Ali_Montazeri",
+      "source_title": "Hussein-Ali Montazeri — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Montazeri broadly supported the reformist agenda during Khatami's presidency, particularly on civil liberties and rule of law."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": "Shared commitment to civil liberties and a more tolerant interpretation of Islamic governance."
+}

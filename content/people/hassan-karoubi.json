@@ -1,0 +1,25 @@
+{
+  "entity_id": "hassan-karoubi",
+  "slug": "hassan-karoubi",
+  "name_en": "Hassan Karoubi",
+  "name_fa": "حسن کروبی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Hassan Karrubi",
+    "Hasan Karoubi"
+  ],
+  "born": null,
+  "birthplace": "Iran",
+  "role": "Iranian cleric; intermediary in the Iran-Contra affair",
+  "faction": null,
+  "bio": "Hassan Karoubi is a Shia cleric and brother of [Mehdi Karroubi](/people/mehdi-karroubi). He served as an intermediary in the early stages of the [Iran-Contra affair](/events/iran-contra-affair-1985). In late October 1985, he met with [Manucher Ghorbanifar](/people/manucher-ghorbanifar) and U.S. consultant Michael Ledeen in Geneva, presenting himself as a member of a 'moderate' faction within the Iranian establishment and proposing a staggered exchange of American hostages for Hawk, Sidewinder, and Phoenix missiles. He had previously been reported in contact with U.S. intelligence figures as early as 1980. His exact rank within the Iranian government was uncertain to American officials at the time.",
+  "irgc_member": false,
+  "expertise": [
+    "back-channel diplomacy"
+  ],
+  "tags": [
+    "diplomacy"
+  ],
+  "photo": null,
+  "editorial_notes": "Brother of Mehdi Karroubi. Met Ledeen and Ghorbanifar in Geneva c. 27 October 1985. Proposed hostage-for-missile exchange. Alleged earlier contacts with U.S. intelligence in Madrid July-August 1980 (disputed 'October Surprise' context)."
+}

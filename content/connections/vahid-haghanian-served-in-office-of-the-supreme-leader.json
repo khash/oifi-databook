@@ -1,0 +1,21 @@
+{
+  "entity_id": "vahid-haghanian-served-in-office-of-the-supreme-leader",
+  "from_entity": "vahid-haghanian",
+  "to_entity": "office-of-the-supreme-leader",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1989",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://home.treasury.gov/news/press-releases/sm824",
+      "source_title": "Treasury Designates Members of Khamenei Inner Circle - US Treasury",
+      "source_date": "2019-11-04",
+      "description": "US Treasury designated Haghanian as executive deputy of the Office of the Supreme Leader, describing him as 'the Supreme Leader's right hand.'"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-ali-montazeri-named-in-mass-executions-1988",
+  "from_entity": "hossein-ali-montazeri",
+  "to_entity": "mass-executions-1988",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1988",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/1988_executions_of_Iranian_political_prisoners",
+      "source_title": "1988 executions of Iranian political prisoners — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Montazeri wrote letters to Khomeini protesting the executions and confronted Death Committee members directly. His opposition led to his dismissal as successor."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Montazeri opposed the executions. Audio of his 15 August 1988 confrontation with Death Committee published 2016."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "hassan-ayat-served-in-islamic-consultative-assembly",
+  "from_entity": "hassan-ayat",
+  "to_entity": "islamic-consultative-assembly",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1980",
+  "date_to": "1981",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Assembly_of_Experts_for_Constitution",
+      "source_title": "Assembly of Experts for the Constitution — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Elected to the first Islamic Consultative Assembly (Majles) in 1980."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

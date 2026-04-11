@@ -1,0 +1,21 @@
+{
+  "entity_id": "abbas-sheibani-aligned-with-ali-khamenei",
+  "from_entity": "abbas-sheibani",
+  "to_entity": "ali-khamenei",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://english.khamenei.ir/news/9358/",
+      "source_title": "Khamenei leads funeral prayers for Abbas Sheibani",
+      "source_date": "2022-12-23",
+      "description": "Ali Khamenei personally led funeral prayers at Sheibani's death, calling him a 'long-time friend and sincere believer.'"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

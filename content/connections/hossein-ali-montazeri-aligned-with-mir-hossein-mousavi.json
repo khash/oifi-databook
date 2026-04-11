@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-ali-montazeri-aligned-with-mir-hossein-mousavi",
+  "from_entity": "hossein-ali-montazeri",
+  "to_entity": "mir-hossein-mousavi",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": "2009",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hussein-Ali_Montazeri",
+      "source_title": "Hussein-Ali Montazeri — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Montazeri supported Mousavi during the 2009 Green Movement, issuing fatwas declaring the disputed election illegitimate."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": "Aligned during 2009 Green Movement. Montazeri provided clerical legitimacy to the protest movement led by Mousavi."
+}

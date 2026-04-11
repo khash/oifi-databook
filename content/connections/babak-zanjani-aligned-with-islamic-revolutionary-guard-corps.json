@@ -1,0 +1,21 @@
+{
+  "entity_id": "babak-zanjani-aligned-with-islamic-revolutionary-guard-corps",
+  "from_entity": "babak-zanjani",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0375",
+      "source_title": "Treasury Sanctions Iranian Regime Officials - US Treasury",
+      "source_date": "2025-01-01",
+      "description": "US Treasury stated Zanjani was 'freed from imprisonment in order to launder money for the regime' and has 'provided financial backing for major projects that support the IRGC.'"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

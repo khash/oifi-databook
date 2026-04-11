@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohsen-rezaei-served-in-expediency-discernment-council",
+  "from_entity": "mohsen-rezaei",
+  "to_entity": "expediency-discernment-council",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1997",
+  "date_to": "2021",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohsen_Rezaee",
+      "source_title": "Mohsen Rezaee — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Rezaei served as Secretary of the Expediency Discernment Council from 1997 to 2021."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Secretary of the EDC 1997–2021, succeeding Rafsanjani's chairmanship structure."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-aliabadi-aligned-with-mahmoud-ahmadinejad",
+  "from_entity": "mohammad-aliabadi",
+  "to_entity": "mahmoud-ahmadinejad",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "2005",
+  "date_to": "2013",
+  "evidence": [
+    {
+      "source_url": "https://en.radiozamaneh.com/37363/",
+      "source_title": "Ayandeh Bank: How One Family Built a Bank to Feed Its Own Empire - Zamaneh Media",
+      "source_date": "2025-10-01",
+      "description": "Aliabadi was appointed Vice President by Ahmadinejad in 2005 and served as caretaker Oil Minister in 2011. He was a close ally who facilitated key regime economic projects."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

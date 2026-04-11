@@ -1,0 +1,25 @@
+{
+  "entity_id": "constitutional-assembly-election-1979",
+  "slug": "constitutional-assembly-election-1979",
+  "name": "1979 Constitutional Assembly Election",
+  "date": "1979-08-03",
+  "type": "election",
+  "description": "The election for the [Assembly of Experts for the Constitution](/orgs/assembly-of-experts-for-constitution) was held on 3–4 August 1979, six months after the [Iranian Revolution](/events/iranian-revolution-1979). Voters chose 73 members to draft the new constitution. Of 428 registered candidates, the [Islamic Republican Party](/orgs/islamic-republican-party) and Khomeini-aligned clerics won approximately 55 seats. Turnout was 51.7% (10.8 million of 20.9 million eligible voters). The [Freedom Movement of Iran](/orgs/freedom-movement-of-iran) and secular nationalists won a small minority of seats. [Abdul Rahman Ghassemlou](/people/abdul-rahman-ghassemlou), leader of the [Democratic Party of Iranian Kurdistan](/orgs/democratic-party-of-iranian-kurdistan), won over 80% of the vote in West Azerbaijan but his credentials were rejected on [Khomeini](/people/ruhollah-khomeini)'s orders.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/1979_Iranian_Constitutional_Assembly_election",
+      "title": "1979 Iranian Constitutional Assembly election",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://irandataportal.syr.edu/the-1979-assembly-of-experts-for-the-drafting-of-the-constitution-election",
+      "title": "The 1979 Assembly of Experts for the Drafting of the Constitution Election",
+      "date": "2024-01-01",
+      "publisher": "Iran Data Portal, Syracuse University"
+    }
+  ],
+  "tags": [],
+  "editorial_notes": "73 seats: 69 provincial + 4 religious minority. IRP won ~55 seats. 15 ayatollahs, 40 hojjat al-Islams elected. Top vote-getter: Mahmoud Taleghani (2,016,801 in Tehran)."
+}

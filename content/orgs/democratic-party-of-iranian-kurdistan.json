@@ -1,0 +1,15 @@
+{
+  "entity_id": "democratic-party-of-iranian-kurdistan",
+  "slug": "democratic-party-of-iranian-kurdistan",
+  "name_en": "Democratic Party of Iranian Kurdistan",
+  "name_fa": "حزب دموکرات کردستان ایران",
+  "has_native_fa_name": true,
+  "type": "political-party",
+  "founded": 1945,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Democratic Party of Iranian Kurdistan (PDKI) is a Kurdish political party founded in 1945 in Mahabad. It played a central role in the short-lived Republic of Mahabad (1946) and has been a leading voice for Kurdish autonomy within Iran ever since. After the [Iranian Revolution](/events/iranian-revolution-1979), the party initially participated in the new political process — its leader [Abdul Rahman Ghassemlou](/people/abdul-rahman-ghassemlou) was elected to the [Assembly of Experts for the Constitution](/orgs/assembly-of-experts-for-constitution) in August 1979 with over 80% of the vote in West Azerbaijan — but the Islamic Republic banned the party, rejected Ghassemlou's credentials, and launched a military campaign against Kurdish regions. The party has operated in exile since the early 1980s.",
+  "faction": "opposition",
+  "tags": ["banned"],
+  "editorial_notes": "Known by acronym PDKI (or KDPI in Kurdish: Parti Demoqrati Kurdistani Eran). Ghassemlou assassinated by Iranian agents in Vienna 1989. His successor Sadegh Sharafkandi also assassinated in Berlin 1992 (Mykonos restaurant)."
+}

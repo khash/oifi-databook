@@ -1,0 +1,21 @@
+{
+  "entity_id": "bank-melli-iran-affiliated-with-central-bank-of-iran",
+  "from_entity": "bank-melli-iran",
+  "to_entity": "central-bank-of-iran",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ayandeh_Bank",
+      "source_title": "Ayandeh Bank - Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "Bank Melli Iran, as a state-owned bank, operates under the regulatory authority of the Central Bank of Iran, which directed the merger of Ayandeh Bank into Bank Melli in October 2025."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

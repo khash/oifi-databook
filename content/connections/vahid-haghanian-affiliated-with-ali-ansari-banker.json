@@ -1,0 +1,21 @@
+{
+  "entity_id": "vahid-haghanian-affiliated-with-ali-ansari-banker",
+  "from_entity": "vahid-haghanian",
+  "to_entity": "ali-ansari-banker",
+  "type": "affiliated-with",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.radiozamaneh.com/37363/",
+      "source_title": "Ayandeh Bank: How One Family Built a Bank to Feed Its Own Empire - Zamaneh Media",
+      "source_date": "2025-10-01",
+      "description": "Haghanian attended the funeral of Ali Ansari's father (Ali-Akbar Ansari) at Iran Mall in June 2025, signalling the Supreme Leader's office's connection to Ansari's business network."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,23 @@
+{
+  "entity_id": "ali-ansari-banker",
+  "slug": "ali-ansari-banker",
+  "name_en": "Ali Ansari",
+  "name_fa": "علی انصاری",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Ali Aliakbar Ansari",
+    "Ali Ansary"
+  ],
+  "born": 1962,
+  "birthplace": "Tehran, Iran",
+  "role": "Founder of Ayandeh Bank and developer of Iran Mall; UK-sanctioned businessman alleged to have financed the IRGC",
+  "faction": "hardliner",
+  "bio": "Ali Ansari is an Iranian banker and businessman born in December 1962 in Mehrabad, southern Tehran. He served in the [Iran-Iraq War](/events/iran-iraq-war) before entering business, establishing a wholesale iron distribution centre in Tehran's Shadabad district in 1993.\n\nIn the 2000s he built a conglomerate spanning Tehran's mobile market, furniture retail, and real estate. He founded Tat Bank around 2009 and orchestrated its merger with Salehin Credit Institution and ATI Credit Institution to form [Ayandeh Bank](/orgs/ayandeh-bank) in 2012. Despite regulatory caps of 25 percent per shareholder, Ansari reportedly controlled approximately 65 percent of Ayandeh Bank's shares through affiliated companies.\n\nHis signature project was [Iran Mall](/orgs/iran-mall), the world's largest shopping mall by area, located in northwest Tehran. Approximately 70 percent of Ayandeh Bank's lending — some 97 thousand billion tomans — was directed to Iran Mall and related entities, the bulk of which became non-performing loans.\n\nAnsari is considered close to former president [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad), and Ayandeh Bank's licence was widely seen as a political gift to a campaign supporter. Reports have also linked the Iran Mall development to a financial network around [Mojtaba Khamenei](/people/mojtaba-khamenei), son of Supreme Leader [Ali Khamenei](/people/ali-khamenei), though Ansari's lawyers have denied any relationship with the [IRGC](/orgs/islamic-revolutionary-guard-corps).\n\nIn October 2025, the [Central Bank of Iran](/orgs/central-bank-of-iran) revoked Ayandeh Bank's operating licence after finding $5.1 billion in accumulated losses, $2.9 billion in overdrafts, and a capital adequacy ratio of negative 600 percent. The bank's assets and deposits were absorbed into [Bank Melli Iran](/orgs/bank-melli-iran). One week later, on 30 October 2025, the United Kingdom sanctioned Ansari for financially enabling the IRGC, imposing an asset freeze, travel ban, and director disqualification. Investigations revealed a European property portfolio worth approximately €400 million, including luxury hotels in Mallorca, Kitzbühel, and Frankfurt.",
+  "irgc_member": false,
+  "expertise": [],
+  "tags": [
+    "sanctions"
+  ],
+  "photo": null,
+  "editorial_notes": "Full name per UK sanctions: Ali Aliakbar Ansari. Not to be confused with Ali M. Ansari (ali-m-ansari), the British-Iranian academic at University of St Andrews. Father: Ali-Akbar Ansari, died June 2025; funeral attended by Mojtaba Khamenei, Vahid Haghanian, Mahmoud Alavi, Babak Zanjani. European assets include Steigenberger Golf and Spa Resort (Mallorca), Schlosshotel Kitzbühel (Austria), Hilton Frankfurt City Center, Hilton Frankfurt Gravenbruch. Also developed Mashhad Mall, Rotana Hotel, Farmaniyeh Mall."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "ayandeh-bank-affiliated-with-islamic-revolutionary-guard-corps",
+  "from_entity": "ayandeh-bank",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "affiliated-with",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.gov.uk/government/news/uk-announces-sanctions-against-those-who-fund-the-work-of-the-irgc",
+      "source_title": "UK announces sanctions against individual who funds the work of the IRGC - GOV.UK",
+      "source_date": "2025-10-30",
+      "description": "UK sanctions against Ayandeh Bank's founder cite IRGC financing, implicating the bank as a vehicle for those activities."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-reza-farzin-aligned-with-masoud-pezeshkian",
+  "from_entity": "mohammad-reza-farzin",
+  "to_entity": "masoud-pezeshkian",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "2024",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ayandeh_Bank",
+      "source_title": "Ayandeh Bank - Wikipedia",
+      "source_date": "2026-04-11",
+      "description": "President Pezeshkian retained Farzin as CBI governor after Raisi's death in May 2024, indicating cross-factional confidence in his technocratic competence."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

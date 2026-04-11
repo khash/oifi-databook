@@ -1,0 +1,21 @@
+{
+  "entity_id": "mahmoud-taleghani-member-of-assembly-of-experts-for-constitution",
+  "from_entity": "mahmoud-taleghani",
+  "to_entity": "assembly-of-experts-for-constitution",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1979",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Assembly_of_Experts_for_Constitution",
+      "source_title": "Assembly of Experts for the Constitution — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Elected with highest vote count in Tehran Province (2,016,801 votes). Died 9 September 1979 during the assembly's sessions."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

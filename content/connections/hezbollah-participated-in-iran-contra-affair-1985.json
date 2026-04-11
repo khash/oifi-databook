@@ -1,0 +1,21 @@
+{
+  "entity_id": "hezbollah-participated-in-iran-contra-affair-1985",
+  "from_entity": "hezbollah",
+  "to_entity": "iran-contra-affair-1985",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1985",
+  "date_to": "1986",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Contra_affair",
+      "source_title": "Iran-Contra affair — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Hezbollah held seven American hostages in Lebanon. The arms-for-hostages arrangement was predicated on Iran using its influence over Hezbollah to secure their release."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Hezbollah held the U.S. hostages in Lebanon. Some hostages were released as part of the deal (Benjamin Weir, Lawrence Jenco, David Jacobsen)."
+}

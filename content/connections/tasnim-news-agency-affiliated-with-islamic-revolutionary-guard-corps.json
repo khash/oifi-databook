@@ -1,0 +1,21 @@
+{
+  "entity_id": "tasnim-news-agency-affiliated-with-islamic-revolutionary-guard-corps",
+  "from_entity": "tasnim-news-agency",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "2012",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Tasnim_News_Agency",
+      "source_title": "Tasnim News Agency",
+      "source_date": null,
+      "description": "Tasnim is widely documented as closely affiliated with the IRGC."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "bbc-persian-participated-in-mahsa-amini-protests",
+  "from_entity": "bbc-persian",
+  "to_entity": "mahsa-amini-protests-2022",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2022",
+  "date_to": "2023",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/BBC_Persian_Television",
+      "source_title": "BBC Persian Television",
+      "source_date": null,
+      "description": "BBC Persian provided extensive coverage during the 2022 Mahsa Amini protests."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,15 @@
+{
+  "entity_id": "hispantv",
+  "slug": "hispantv",
+  "name_en": "HispanTV",
+  "name_fa": "هیسپان‌تی‌وی",
+  "has_native_fa_name": false,
+  "type": "media",
+  "founded": 2012,
+  "dissolved": null,
+  "parent_org": "irib",
+  "faction": "hardliner",
+  "description": "HispanTV is [IRIB](/orgs/irib)'s Spanish-language television channel, launched in 2012 to target Latin American audiences. The channel frames content through an anti-US, anti-imperialist lens and seeks to extend Iranian soft power in the Spanish-speaking world. Its YouTube and social media channels have been periodically suspended by platforms.",
+  "tags": [],
+  "editorial_notes": "IRIB subsidiary. Limited reach. Spanish-language."
+}

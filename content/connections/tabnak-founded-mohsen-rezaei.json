@@ -1,0 +1,21 @@
+{
+  "entity_id": "tabnak-founded-mohsen-rezaei",
+  "from_entity": "mohsen-rezaei",
+  "to_entity": "tabnak",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "2007",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Tabnak",
+      "source_title": "Tabnak",
+      "source_date": null,
+      "description": "Tabnak was founded in 2007 by Mohsen Rezaei, former IRGC commander."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

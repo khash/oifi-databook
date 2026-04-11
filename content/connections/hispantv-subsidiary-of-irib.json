@@ -1,0 +1,21 @@
+{
+  "entity_id": "hispantv-subsidiary-of-irib",
+  "from_entity": "hispantv",
+  "to_entity": "irib",
+  "type": "subsidiary-of",
+  "confidence": "confirmed",
+  "date_from": "2012",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/HispanTV",
+      "source_title": "HispanTV",
+      "source_date": null,
+      "description": "HispanTV is IRIB's Spanish-language television channel."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

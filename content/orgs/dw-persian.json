@@ -1,0 +1,15 @@
+{
+  "entity_id": "dw-persian",
+  "slug": "dw-persian",
+  "name_en": "Deutsche Welle Persian",
+  "name_fa": "دی‌دبلیو فارسی",
+  "has_native_fa_name": false,
+  "type": "media",
+  "founded": 1962,
+  "dissolved": null,
+  "parent_org": null,
+  "faction": null,
+  "description": "Deutsche Welle Persian is the Persian-language service of Deutsche Welle, Germany's international public broadcaster. Operating since 1962, DW Persian provides radio, television, and digital content funded by the German federal government. Like other international Persian-language outlets, DW Persian staff and their families in Iran have faced harassment by Iranian authorities, and the regime has banned DW correspondents from operating inside the country.",
+  "tags": [],
+  "editorial_notes": "German publicly funded broadcaster. Persian service since 1962."
+}

@@ -1,0 +1,17 @@
+{
+  "entity_id": "radio-zamaneh",
+  "slug": "radio-zamaneh",
+  "name_en": "Radio Zamaneh",
+  "name_fa": "رادیو زمانه",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 2006,
+  "dissolved": null,
+  "parent_org": null,
+  "faction": null,
+  "description": "Radio Zamaneh is a Persian-language online media outlet founded in 2006 in Amsterdam by journalist Mehdi Jami. Initially funded by the Dutch Foreign Ministry through its MATRA program for democratic transitions, Radio Zamaneh focuses on civil society, human rights, women's issues, and minority rights in Iran. The outlet faced significant funding cuts around 2013–2014 when Dutch government support was reduced, but continues to operate online with diminished capacity.",
+  "tags": [
+    "human-rights"
+  ],
+  "editorial_notes": "Founded by Mehdi Jami. Dutch government initially funded. Reduced operations after funding cuts ~2013."
+}

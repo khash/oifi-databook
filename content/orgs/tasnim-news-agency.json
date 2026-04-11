@@ -1,0 +1,18 @@
+{
+  "entity_id": "tasnim-news-agency",
+  "slug": "tasnim-news-agency",
+  "name_en": "Tasnim News Agency",
+  "name_fa": "خبرگزاری تسنیم",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 2012,
+  "dissolved": null,
+  "parent_org": null,
+  "faction": "hardliner",
+  "description": "Tasnim News Agency is a hardline news agency closely affiliated with the [IRGC](/orgs/islamic-revolutionary-guard-corps), launched in 2012 as a complement to [Fars News Agency](/orgs/fars-news-agency). Together with Fars and [Mashregh News](/orgs/mashregh-news), Tasnim forms an IRGC-aligned media triangle used for regime messaging, discrediting opposition figures, and publishing intelligence-style content. The agency produces multilingual output and has been sanctioned by the United States.",
+  "tags": [
+    "sanctions",
+    "intelligence"
+  ],
+  "editorial_notes": "IRGC-affiliated. US-sanctioned."
+}

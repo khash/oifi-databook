@@ -1,0 +1,17 @@
+{
+  "entity_id": "khabar-online",
+  "slug": "khabar-online",
+  "name_en": "Khabar Online",
+  "name_fa": "خبرآنلاین",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 2006,
+  "dissolved": null,
+  "parent_org": null,
+  "faction": "pragmatist",
+  "description": "Khabar Online is an Iranian online news outlet associated with [Ali Larijani](/people/ali-larijani) and the pragmatist-conservative wing of the establishment. Founded around 2006, it occupies a relatively moderate position within the regime media spectrum, covering political and parliamentary news.",
+  "tags": [
+    "parliament"
+  ],
+  "editorial_notes": "Connected to the Larijani family network."
+}

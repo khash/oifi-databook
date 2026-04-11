@@ -1,0 +1,21 @@
+{
+  "entity_id": "fars-news-agency-affiliated-with-islamic-revolutionary-guard-corps",
+  "from_entity": "fars-news-agency",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "2003",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://home.treasury.gov/news/press-releases/tg1422",
+      "source_title": "US Treasury designates Fars News Agency as IRGC front",
+      "source_date": "2012",
+      "description": "In 2012 the US Treasury sanctioned Fars News Agency as an entity acting for or on behalf of the IRGC."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

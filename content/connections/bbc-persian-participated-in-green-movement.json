@@ -1,0 +1,21 @@
+{
+  "entity_id": "bbc-persian-participated-in-green-movement",
+  "from_entity": "bbc-persian",
+  "to_entity": "green-movement-protests-2009",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": "2010",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/BBC_Persian_Television",
+      "source_title": "BBC Persian Television",
+      "source_date": null,
+      "description": "BBC Persian was a critical information conduit during the 2009 Green Movement protests."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,15 @@
+{
+  "entity_id": "radio-farda",
+  "slug": "radio-farda",
+  "name_en": "Radio Farda",
+  "name_fa": "رادیو فردا",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 2002,
+  "dissolved": null,
+  "parent_org": null,
+  "faction": null,
+  "description": "Radio Farda (Radio Tomorrow) is a Persian-language radio station operated by Radio Free Europe/Radio Liberty (RFE/RL), headquartered in Prague. Launched in 2002, it is funded by the US Congress through the US Agency for Global Media with an annual budget of approximately $7–8 million. Radio Farda broadcasts 24/7 radio programming and maintains a significant online presence, covering Iranian politics, human rights, and cultural affairs. The Iranian regime considers Radio Farda hostile and routinely jams its broadcasts.",
+  "tags": [],
+  "editorial_notes": "RFE/RL subsidiary. US-funded. HQ in Prague."
+}

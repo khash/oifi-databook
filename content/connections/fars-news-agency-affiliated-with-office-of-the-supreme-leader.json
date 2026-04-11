@@ -1,0 +1,21 @@
+{
+  "entity_id": "fars-news-agency-affiliated-with-office-of-the-supreme-leader",
+  "from_entity": "fars-news-agency",
+  "to_entity": "office-of-the-supreme-leader",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "2003",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Fars_News_Agency",
+      "source_title": "Fars News Agency",
+      "source_date": null,
+      "description": "Fars amplifies Supreme Leader-aligned narratives as part of the IRGC media ecosystem."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

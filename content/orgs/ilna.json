@@ -1,0 +1,15 @@
+{
+  "entity_id": "ilna",
+  "slug": "ilna",
+  "name_en": "Iranian Labour News Agency (ILNA)",
+  "name_fa": "خبرگزاری ایلنا",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 2003,
+  "dissolved": null,
+  "parent_org": null,
+  "faction": "reformist",
+  "description": "ILNA is an Iranian news agency connected to the Workers' House (Khaneh Kargar), a reformist-leaning labour institution. Founded in 2003, it is notable for covering labour protests, workers' rights, and trade union issues — topics that most Iranian state media avoid or downplay. ILNA occupies a reformist position in the regime media spectrum and has periodically faced pressure from hardline factions.",
+  "tags": [],
+  "editorial_notes": "Connected to Workers' House (Khaneh Kargar). One of the few outlets covering labour issues."
+}

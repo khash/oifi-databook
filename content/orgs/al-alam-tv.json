@@ -1,0 +1,15 @@
+{
+  "entity_id": "al-alam-tv",
+  "slug": "al-alam-tv",
+  "name_en": "Al-Alam TV",
+  "name_fa": "العالم",
+  "has_native_fa_name": false,
+  "type": "media",
+  "founded": 2003,
+  "dissolved": null,
+  "parent_org": "irib",
+  "faction": "hardliner",
+  "description": "Al-Alam is [IRIB](/orgs/irib)'s Arabic-language 24-hour news channel, launched in 2003 to project Iranian soft power and the regime's perspective to Arab audiences across the Middle East. The channel promotes pro-resistance-axis narratives and covers events in Iraq, Syria, Lebanon, Yemen, and Palestine from an Iranian-aligned viewpoint.",
+  "tags": [],
+  "editorial_notes": "IRIB subsidiary. Arabic-language propaganda arm."
+}

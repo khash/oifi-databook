@@ -1,0 +1,15 @@
+{
+  "entity_id": "isna",
+  "slug": "isna",
+  "name_en": "Iranian Students News Agency (ISNA)",
+  "name_fa": "خبرگزاری ایسنا",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 1999,
+  "dissolved": null,
+  "parent_org": null,
+  "faction": null,
+  "description": "ISNA is an Iranian news agency established in 1999 under the auspices of the Ministry of Science, Research and Technology, linked to regime-aligned student organizations. Among Iranian state-adjacent media, ISNA has at times published relatively more open reporting, occupying a centrist position in the regime media spectrum. It covers education, science, and general news.",
+  "tags": [],
+  "editorial_notes": "Linked to the Ministry of Science and Islamic student associations. Relatively moderate within regime bounds."
+}

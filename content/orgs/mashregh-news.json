@@ -1,0 +1,18 @@
+{
+  "entity_id": "mashregh-news",
+  "slug": "mashregh-news",
+  "name_en": "Mashregh News",
+  "name_fa": "مشرق‌نیوز",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 2010,
+  "dissolved": null,
+  "parent_org": null,
+  "faction": "hardliner",
+  "description": "Mashregh News is a hardline online news outlet widely attributed to IRGC-linked circles. Launched around 2010, it is known for publishing intelligence-style exposés targeting reformists, dissidents, dual nationals, and diaspora activists — effectively functioning as a doxxing and information-warfare platform. Together with [Fars News Agency](/orgs/fars-news-agency) and [Tasnim News Agency](/orgs/tasnim-news-agency), Mashregh forms an [IRGC](/orgs/islamic-revolutionary-guard-corps)-aligned media triangle.",
+  "tags": [
+    "intelligence",
+    "human-rights"
+  ],
+  "editorial_notes": "IRGC-linked. Known for doxxing dissidents and publishing intelligence-style content."
+}

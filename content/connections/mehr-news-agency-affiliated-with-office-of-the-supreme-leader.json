@@ -1,0 +1,21 @@
+{
+  "entity_id": "mehr-news-agency-affiliated-with-office-of-the-supreme-leader",
+  "from_entity": "mehr-news-agency",
+  "to_entity": "office-of-the-supreme-leader",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "2003",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mehr_News_Agency",
+      "source_title": "Mehr News Agency",
+      "source_date": null,
+      "description": "Mehr News is affiliated with the Islamic Ideology Dissemination Organization, which reports to the Supreme Leader's office."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Via IIDO (Sazman-e Tablighat-e Eslami)"
+}

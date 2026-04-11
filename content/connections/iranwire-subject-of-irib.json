@@ -1,0 +1,21 @@
+{
+  "entity_id": "iranwire-subject-of-irib",
+  "from_entity": "iranwire",
+  "to_entity": "irib",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": "2014",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Maziar_Bahari",
+      "source_title": "Maziar Bahari",
+      "source_date": null,
+      "description": "IranWire was founded by Maziar Bahari, who was imprisoned and coerced into a televised confession on IRIB."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

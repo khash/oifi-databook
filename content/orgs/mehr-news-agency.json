@@ -1,0 +1,15 @@
+{
+  "entity_id": "mehr-news-agency",
+  "slug": "mehr-news-agency",
+  "name_en": "Mehr News Agency",
+  "name_fa": "خبرگزاری مهر",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 2003,
+  "dissolved": null,
+  "parent_org": null,
+  "faction": "conservative",
+  "description": "Mehr News Agency is an Iranian news agency affiliated with the Islamic Ideology Dissemination Organization (Sazman-e Tablighat-e Eslami), a body under the [Office of the Supreme Leader](/orgs/office-of-the-supreme-leader). Founded in 2003, Mehr produces multilingual content in English, Arabic, Turkish, and other languages. It occupies a conservative to hardliner position in the Iranian media spectrum, promoting the regime's cultural and ideological messaging.",
+  "tags": [],
+  "editorial_notes": "Affiliated with the Islamic Ideology Dissemination Organization (IIDO/Sazman-e Tablighat-e Eslami)."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "raja-news-affiliated-with-saeed-jalili",
+  "from_entity": "raja-news",
+  "to_entity": "saeed-jalili",
+  "type": "affiliated-with",
+  "confidence": "alleged",
+  "date_from": "2008",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Raja_News",
+      "source_title": "Raja News",
+      "source_date": null,
+      "description": "Raja News is linked to hardliner political circles, particularly those around Saeed Jalili's faction."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

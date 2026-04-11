@@ -1,0 +1,21 @@
+{
+  "entity_id": "khabar-online-affiliated-with-ali-larijani",
+  "from_entity": "khabar-online",
+  "to_entity": "ali-larijani",
+  "type": "affiliated-with",
+  "confidence": "alleged",
+  "date_from": "2006",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Khabar_Online",
+      "source_title": "Khabar Online",
+      "source_date": null,
+      "description": "Khabar Online is associated with Ali Larijani and the pragmatist-conservative wing."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

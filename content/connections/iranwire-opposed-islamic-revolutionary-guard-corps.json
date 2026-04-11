@@ -1,0 +1,21 @@
+{
+  "entity_id": "iranwire-opposed-islamic-revolutionary-guard-corps",
+  "from_entity": "iranwire",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": "2014",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://iranwire.com/en/about",
+      "source_title": "IranWire About",
+      "source_date": null,
+      "description": "IranWire produces investigative journalism on IRGC corruption and human rights abuses."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

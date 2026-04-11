@@ -1,0 +1,15 @@
+{
+  "entity_id": "tabnak",
+  "slug": "tabnak",
+  "name_en": "Tabnak",
+  "name_fa": "تابناک",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 2007,
+  "dissolved": null,
+  "parent_org": null,
+  "faction": "conservative",
+  "description": "Tabnak is an online news outlet founded in 2007 by [Mohsen Rezaei](/people/mohsen-rezaei), the former IRGC commander and secretary of the [Expediency Discernment Council](/orgs/expediency-discernment-council). While conservative, Tabnak has occasionally taken independent editorial positions, reflecting Rezaei's pragmatist-conservative political positioning that sometimes diverges from the hardline mainstream.",
+  "tags": [],
+  "editorial_notes": "Founded by Mohsen Rezaei. More independent than other conservative outlets."
+}

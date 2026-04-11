@@ -1,0 +1,15 @@
+{
+  "entity_id": "irna",
+  "slug": "irna",
+  "name_en": "Islamic Republic News Agency (IRNA)",
+  "name_fa": "خبرگزاری جمهوری اسلامی",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 1934,
+  "dissolved": null,
+  "parent_org": null,
+  "faction": null,
+  "description": "IRNA is Iran's official state news agency, originally established in 1934 as the Pars Agency and renamed after the [1979 revolution](/events/iranian-revolution-1979). As a government-owned agency under the executive branch, IRNA's editorial orientation shifts with the sitting president — it leaned pragmatist under Rouhani and hardliner under Raisi. IRNA serves as the primary wire service for official government statements and is one of the oldest news agencies in the Middle East.",
+  "tags": [],
+  "editorial_notes": "Government-owned (executive branch), not under the Supreme Leader like IRIB. Founded 1934 as Pars Agency."
+}

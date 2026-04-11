@@ -1,0 +1,15 @@
+{
+  "entity_id": "manoto-tv",
+  "slug": "manoto-tv",
+  "name_en": "Manoto TV",
+  "name_fa": "من‌وتو",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 2010,
+  "dissolved": null,
+  "parent_org": null,
+  "faction": null,
+  "description": "Manoto (Me and You) was a Persian-language satellite television channel founded in 2010 by Kayvan and Marjan Abbassi, an Iranian-British couple, and headquartered in London. Privately funded with no confirmed state backing, Manoto became one of the most-watched Persian-language channels globally, combining entertainment programming with news and current affairs coverage. The channel maintained a secular, anti-regime editorial line and attracted a broad audience inside Iran despite satellite jamming. The Iranian regime alleged MI6 and Mossad connections to the channel — claims that remain unsubstantiated. In 2024 Manoto ceased live broadcasting and shifted to on-demand digital content.",
+  "tags": [],
+  "editorial_notes": "Ceased live broadcasting 2024. Founded by Kayvan and Marjan Abbassi. Privately funded."
+}

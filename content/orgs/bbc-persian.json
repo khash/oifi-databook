@@ -1,0 +1,17 @@
+{
+  "entity_id": "bbc-persian",
+  "slug": "bbc-persian",
+  "name_en": "BBC Persian",
+  "name_fa": "بی‌بی‌سی فارسی",
+  "has_native_fa_name": false,
+  "type": "media",
+  "founded": 1940,
+  "dissolved": null,
+  "parent_org": null,
+  "faction": null,
+  "description": "BBC Persian is the Persian-language service of the BBC World Service, broadcasting radio since 1940 and television since 2009. Funded by the UK Foreign, Commonwealth and Development Office, it is one of the most trusted and widely consumed Persian-language media outlets, particularly during periods of political crisis. The Islamic Republic has consistently attempted to disrupt BBC Persian's broadcasts, jammed its satellite signals, and harassed and arrested family members of its staff inside Iran. During the [2009 Green Movement](/events/green-movement-protests-2009) and [2022 Mahsa Amini protests](/events/mahsa-amini-protests-2022), BBC Persian was a critical information conduit for Iranians. In 2023 the BBC announced cuts to Persian TV broadcasting, shifting to digital-first content.",
+  "tags": [
+    "human-rights"
+  ],
+  "editorial_notes": "Funded by UK FCDO. Persian TV launched 2009, cut back 2023. Staff families routinely targeted by regime."
+}

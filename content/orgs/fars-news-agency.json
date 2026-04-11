@@ -1,0 +1,18 @@
+{
+  "entity_id": "fars-news-agency",
+  "slug": "fars-news-agency",
+  "name_en": "Fars News Agency",
+  "name_fa": "خبرگزاری فارس",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 2003,
+  "dissolved": null,
+  "parent_org": null,
+  "faction": "hardliner",
+  "description": "Fars News Agency is a hardline news agency widely considered to be the media arm of the [IRGC](/orgs/islamic-revolutionary-guard-corps). Launched in 2003, it rapidly became one of Iran's most prominent wire services, consistently amplifying principlist and [Supreme Leader](/orgs/office-of-the-supreme-leader)-aligned narratives. Fars has published forced confessions of political prisoners and served as a platform for information warfare against reformists, dissidents, and Western governments. In 2012 the US Treasury sanctioned Fars as an IRGC front entity, and it was subsequently included in EU sanctions. The agency is known for publishing unverified intelligence-style exposés and targeting diaspora activists and dual nationals.",
+  "tags": [
+    "sanctions",
+    "intelligence"
+  ],
+  "editorial_notes": "Formally registered as private but universally regarded as IRGC-controlled. US Treasury designated 2012."
+}

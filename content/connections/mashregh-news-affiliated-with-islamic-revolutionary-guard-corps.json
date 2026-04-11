@@ -1,0 +1,21 @@
+{
+  "entity_id": "mashregh-news-affiliated-with-islamic-revolutionary-guard-corps",
+  "from_entity": "mashregh-news",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "affiliated-with",
+  "confidence": "alleged",
+  "date_from": "2010",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mashregh_News",
+      "source_title": "Mashregh News",
+      "source_date": null,
+      "description": "Mashregh News is widely attributed to IRGC-linked circles, though exact ownership is opaque."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Exact ownership structure not publicly confirmed, but attribution to IRGC is near-universal."
+}

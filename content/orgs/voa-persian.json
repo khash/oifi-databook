@@ -1,0 +1,15 @@
+{
+  "entity_id": "voa-persian",
+  "slug": "voa-persian",
+  "name_en": "Voice of America Persian",
+  "name_fa": "صدای آمریکا",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 1942,
+  "dissolved": null,
+  "parent_org": null,
+  "faction": null,
+  "description": "Voice of America Persian (Sedaye America) is the Persian-language service of Voice of America, the US government's international broadcaster. Broadcasting radio since 1942 and later expanding to television and digital platforms, VOA Persian is funded by the US Congress through the US Agency for Global Media (USAGM). While governed by a statutory editorial firewall, it is perceived inside Iran as US state media. VOA Persian covers Iranian politics, human rights, and US-Iran relations, and has been a target of regime jamming and content blocking.",
+  "tags": [],
+  "editorial_notes": "US Congress-funded via USAGM. Firewall charter governs editorial independence."
+}

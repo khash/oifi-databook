@@ -1,0 +1,15 @@
+{
+  "entity_id": "raja-news",
+  "slug": "raja-news",
+  "name_en": "Raja News",
+  "name_fa": "رجانیوز",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 2008,
+  "dissolved": null,
+  "parent_org": null,
+  "faction": "hardliner",
+  "description": "Raja News is a hardline online news outlet linked to principlist political circles, particularly those around [Saeed Jalili](/people/saeed-jalili)'s faction. Founded around 2008, it serves as a platform for ultra-conservative viewpoints and has been used to attack reformist and pragmatist politicians.",
+  "tags": [],
+  "editorial_notes": "Lower profile than Fars/Tasnim. Linked to Jalili faction."
+}

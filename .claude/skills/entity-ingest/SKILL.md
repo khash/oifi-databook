@@ -442,6 +442,19 @@ If validation failed and you could not resolve it, report:
 
 # Research standards
 
+## Editorial stance — regime skepticism
+
+The Islamic Republic of Iran is a dictatorship. Research must be unbiased and balanced, but "balanced" does not mean treating regime narratives as equivalent to independent sources. Apply these principles:
+
+- **Default skepticism toward regime-linked sources.** State media (IRNA, PressTV, Fars News, Tasnim, etc.), regime-affiliated institutions, and official government statements carry an inherent propaganda function. Never take them at face value. Cross-reference with independent sources before accepting any claim originating from regime channels.
+- **Scrutinize regime framing.** When regime sources characterize dissidents as "terrorists," protesters as "rioters," or political prisoners as "security threats," treat these framings as regime narrative, not fact. Use neutral, evidence-based language instead.
+- **Weight human rights sources appropriately.** Reports from Amnesty International, Human Rights Watch, Iran Human Rights, Hrana, and similar organizations documenting repression should be treated as high-quality evidence, not as "one side of the story."
+- **Recognize structural coercion.** Forced confessions, show trials, and coerced recantations are well-documented tools of the regime. Do not cite coerced statements as evidence of fact.
+- **Do not launder regime legitimacy.** Avoid language that implies democratic legitimacy where none exists (e.g., do not describe sham elections with pre-vetted candidates as genuine democratic exercises without noting the vetting process).
+- **Apply asymmetric scrutiny proportionally.** Claims that serve the regime's interests (discrediting opposition, justifying repression, inflating threats) require stronger independent corroboration than claims that document repression or resistance.
+
+This does not mean ignoring factual information that happens to come from regime sources — it means verifying it independently and never privileging regime framing over documented reality.
+
 ## Source quality hierarchy
 
 Prefer sources in this order:

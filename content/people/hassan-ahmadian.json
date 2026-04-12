@@ -1,0 +1,26 @@
+{
+  "entity_id": "hassan-ahmadian",
+  "slug": "hassan-ahmadian",
+  "name_en": "Hassan Ahmadian",
+  "name_fa": "حسن احمدیان",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Assistant Professor, Department of West Asia and North Africa, University of Tehran",
+  "faction": "conservative",
+  "bio": "Hassan Ahmadian is an assistant professor in the Department of West Asia and North Africa at the [University of Tehran](/orgs/university-of-tehran). He appears on BBC World Service Newshour and other international outlets commenting on Middle East affairs, Iranian regional policy, and the Islamic Republic's relationships with non-state actors.\n\nAhmadian is based in Tehran and his institutional position gives him access to regime interlocutors on regional affairs. His research focus on West Asia and North Africa aligns closely with the Islamic Republic's areas of strategic interest — Iraq, Syria, Lebanon, Yemen, and Palestine — and his commentary tracks closely with the regime's positions on these theatres.\n\nHe should be understood as an academic whose institutional position is inside the Islamic Republic's educational system, with access shaped by that context.",
+  "irgc_member": false,
+  "expertise": [
+    "Middle East regional affairs",
+    "non-state actors",
+    "Iranian foreign policy"
+  ],
+  "sources": [],
+  "tags": [
+    "diplomacy",
+    "proxy-warfare"
+  ],
+  "photo": null,
+  "editorial_notes": "Appears on BBC World Service Newshour. Dept of West Asia & North Africa, U Tehran. Document access to regime interlocutors and institutional position."
+}

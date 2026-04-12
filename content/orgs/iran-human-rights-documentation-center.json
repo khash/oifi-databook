@@ -1,0 +1,19 @@
+{
+  "entity_id": "iran-human-rights-documentation-center",
+  "slug": "iran-human-rights-documentation-center",
+  "name_en": "Iran Human Rights Documentation Center",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 2004,
+  "dissolved": null,
+  "parent_org": null,
+  "faction": null,
+  "description": "The Iran Human Rights Documentation Center (IHRDC) is a New Haven-based nonprofit organization founded in 2004 to document human rights violations in Iran. It has produced detailed reports on the 1988 mass executions, the chain murders of the 1990s, and ongoing political repression. Its founding board included prominent Iranian-American academics and activists.",
+  "tags": [
+    "human-rights",
+    "1988-massacre",
+    "chain-murders"
+  ],
+  "editorial_notes": "Roya Hakakian is a founding board member."
+}

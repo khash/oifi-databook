@@ -1,0 +1,21 @@
+{
+  "entity_id": "afshon-ostovar-subject-of-quds-force",
+  "from_entity": "afshon-ostovar",
+  "to_entity": "irgc-quds-force",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://faculty.nps.edu/aostovar",
+      "source_title": "Afshon Ostovar — Naval Postgraduate School",
+      "source_date": "2024-01-01",
+      "description": "Vanguard of the Imam covers the Quds Force's role in Iran's regional operations."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

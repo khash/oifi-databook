@@ -1,0 +1,33 @@
+{
+  "entity_id": "nazila-fathi",
+  "slug": "nazila-fathi",
+  "name_en": "Nazila Fathi",
+  "name_fa": "نازیلا فتحی",
+  "has_native_fa_name": true,
+  "born": "1968",
+  "birthplace": "Tehran, Iran",
+  "role": "Former New York Times Tehran bureau correspondent; author of The Lonely War; journalist forced into exile in 2009",
+  "faction": "opposition",
+  "irgc_member": false,
+  "bio": "Nazila Fathi is an Iranian journalist who served as Tehran correspondent and bureau chief for the New York Times from the late 1990s through 2009. She covered the [presidential election of 2009](/events/presidential-election-iran-2009) and the subsequent [Green Movement protests](/events/green-movement-protests-2009), providing some of the most detailed on-the-ground reporting from inside Iran during the uprising. Following threats to her safety as the crackdown intensified, Fathi was forced to flee Iran in 2009.\n\nShe is the author of *The Lonely War: One Woman's Account of the Struggle for Modern Iran* (2014), a memoir combining personal experience with political history, tracing the arc of the Islamic Republic from revolutionary promise to authoritarian consolidation. Since leaving Iran, Fathi has continued to write about Iranian affairs from exile and has taught journalism and contributed to policy discussions on Iran.",
+  "expertise": [
+    "Iranian domestic politics",
+    "Green Movement",
+    "press freedom",
+    "Iranian society"
+  ],
+  "tags": [
+    "in-exile",
+    "green-movement",
+    "human-rights"
+  ],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Nazila_Fathi",
+      "title": "Nazila Fathi — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "NYT Tehran bureau correspondent. Fled Iran 2009 after Green Movement coverage. Author of The Lonely War (2014)."
+}

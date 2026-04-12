@@ -1,0 +1,21 @@
+{
+  "entity_id": "mehdi-khalaji-studied-at-qom-seminary",
+  "from_entity": "mehdi-khalaji",
+  "to_entity": "society-of-seminary-teachers-of-qom",
+  "type": "studied-at",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.washingtoninstitute.org/experts/mehdi-khalaji",
+      "source_title": "Mehdi Khalaji — Washington Institute for Near East Policy",
+      "source_date": "2024-01-01",
+      "description": "Mehdi Khalaji spent fourteen years training as a Shia cleric in the Qom seminary system."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

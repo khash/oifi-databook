@@ -1,0 +1,21 @@
+{
+  "entity_id": "vali-nasr-affiliated-with-council-on-foreign-relations",
+  "from_entity": "vali-nasr",
+  "to_entity": "council-on-foreign-relations",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.cfr.org/experts/vali-nasr",
+      "source_title": "Vali Nasr — Council on Foreign Relations",
+      "source_date": "2016-01-01",
+      "description": "Vali Nasr is listed as a member and expert at the Council on Foreign Relations."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

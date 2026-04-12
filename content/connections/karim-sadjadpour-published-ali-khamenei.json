@@ -1,0 +1,21 @@
+{
+  "entity_id": "karim-sadjadpour-published-ali-khamenei",
+  "from_entity": "karim-sadjadpour",
+  "to_entity": "ali-khamenei",
+  "type": "published",
+  "confidence": "confirmed",
+  "date_from": "2008",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://carnegieendowment.org/2008/03/18/reading-khamenei-world-view-of-iran-s-most-powerful-leader",
+      "source_title": "Reading Khamenei — Carnegie Endowment",
+      "source_date": "2008-03-18",
+      "description": "Sadjadpour's 2008 monograph Reading Khamenei: The World View of Iran's Most Powerful Leader is a systematic analysis of Ali Khamenei's political thought based on his speeches."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

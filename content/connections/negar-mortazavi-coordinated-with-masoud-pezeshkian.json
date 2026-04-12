@@ -1,0 +1,17 @@
+{
+  "entity_id": "negar-mortazavi-coordinated-with-masoud-pezeshkian",
+  "from_entity": "negar-mortazavi",
+  "to_entity": "masoud-pezeshkian",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "notes": "In September 2024, Mortazavi met with Iranian President Masoud Pezeshkian at his hotel during his visit to New York for the UN General Assembly — an unusual level of direct access to an Iranian head of state for a diaspora journalist.",
+  "evidence": [
+    {
+      "description": "Iran International report on Mortazavi's meeting with President Pezeshkian in New York.",
+      "url": "https://www.iranintl.com/en/202409269913",
+      "date": "2024-09-26"
+    }
+  ],
+  "symmetric": false,
+  "family_subtype": null
+}

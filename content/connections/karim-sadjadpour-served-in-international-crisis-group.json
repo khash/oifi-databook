@@ -1,0 +1,21 @@
+{
+  "entity_id": "karim-sadjadpour-served-in-international-crisis-group",
+  "from_entity": "karim-sadjadpour",
+  "to_entity": "international-crisis-group",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2009",
+  "evidence": [
+    {
+      "source_url": "https://carnegieendowment.org/experts/karim-sadjadpour",
+      "source_title": "Karim Sadjadpour — Carnegie Endowment",
+      "source_date": "2024-01-01",
+      "description": "Before joining Carnegie, Sadjadpour served as the International Crisis Group's chief Iran analyst, based in Tehran."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

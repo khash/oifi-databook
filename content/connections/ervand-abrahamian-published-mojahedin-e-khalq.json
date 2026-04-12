@@ -1,0 +1,21 @@
+{
+  "entity_id": "ervand-abrahamian-published-mojahedin-e-khalq",
+  "from_entity": "ervand-abrahamian",
+  "to_entity": "mojahedin-e-khalq",
+  "type": "published",
+  "confidence": "confirmed",
+  "date_from": "1989",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://yalebooks.yale.edu/book/9780300052671/radical-islam",
+      "source_title": "The Iranian Mojahedin — Yale University Press",
+      "source_date": "1989-01-01",
+      "description": "Abrahamian's The Iranian Mojahedin (1989) was the first serious academic study of the Mojahedin-e Khalq."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

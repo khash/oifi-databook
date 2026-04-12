@@ -309,24 +309,59 @@ Internal links use the format `[Display Name](/people/slug)`, `[Display Name](/o
 
 2. **Every markdown link must have a corresponding connection file.** If entity A's bio links to entity B, then a connection file must exist in `content/connections/` that connects A and B (in either direction). If no connection exists, create one with the appropriate relationship type.
 
-3. **Every entity mentioned in research that warrants a link should become a link.** When writing bios/descriptions, use markdown links for any person, org, or event that exists (or that you are creating) in the database. Plain-text mentions of entities that have files are missed connections.
+3. **Every entity mentioned in text that exists in the DB MUST be a link, not plain text.** A plain-text mention of a DB-resident entity is a silent failure: it breaks graph connectivity, misses a relationship, and launders a relevant affiliation into invisible prose. This is editorially and structurally unacceptable. Plain-text entity mentions are treated as bugs.
 
 4. **Never create a link without both the entity and the connection.** These three things are a unit:
    - The markdown link in the text field
    - The entity JSON file for the target
    - The connection JSON file linking source to target
 
+### Mandatory entity-mention audit (DO NOT SKIP)
+
+Before finalizing any bio, description, or body field, you MUST perform an entity-mention audit. The validator catches *broken* links — it does not catch *missing* links. Missing links are the failure mode this audit exists to prevent.
+
+**Pre-write scan (before you draft the bio):**
+
+List every entity you plan to mention in the prose — every person, organization, event, ministry, party, university, prison, publication, think tank, protest, war, election, and so on. For each one:
+
+1. Check if an entity file already exists. Use `ls content/people/ | grep <slug-fragment>`, `ls content/orgs/`, `ls content/events/`. Try common transliterations and slug variants (e.g. `ali-khamenei`, `khamenei`).
+2. If the file exists: **commit to linking it** in the bio. Note the exact slug.
+3. If the file does not exist: decide now whether to create it in this run or leave it plain text and add it to the Research Inbox. Do not leave a linkable gap silently.
+
+**Post-write scan (after drafting the bio):**
+
+Re-read every sentence of the bio you just wrote and highlight every proper noun. For each proper noun:
+
+1. Is it a person, org, or event? If yes, it is a link candidate.
+2. Is there a matching file in `content/`? If yes, it MUST be a markdown link.
+3. Does a connection file link this entity to the target? If no, create one using the appropriate relationship type from the closed set.
+
+**Categories that almost always warrant a link check:**
+
+- Every named person (Khamenei, Khomeini, Soleimani, Mossadegh, the Shah, presidents, FMs, cabinet members, mentioned analysts and authors)
+- Every named organization (IRGC, Basij, Quds Force, MOIS, SAVAK, ministries, state media, political parties, think tanks, universities, NGOs, foreign intelligence agencies)
+- Every named event (revolutions, wars, coups, elections, protests, assassinations, mass executions, sanctions events, prisoner releases)
+- Every named publication or book — if the subject of the book is a DB entity, use `published` to link the author to the subject
+- Every named prison, university, or location if it has an entity file (Evin Prison, University of Tehran, Qom)
+- Every foreign government or intelligence agency mentioned (CIA, MI6, Mossad, etc.) if they have files
+
+**Common failure pattern to avoid:**
+
+Writing a sentence like *"She served as media and communications assistant at NIAC, founded by Trita Parsi, and met with Javad Zarif in 2014."* where NIAC, Trita Parsi, and Javad Zarif all exist in the DB. All three are unlinkable bugs in the prose — and three missing connections in the graph. The corrected sentence is *"She served as media and communications assistant at [NIAC](/orgs/niac), founded by [Trita Parsi](/people/trita-parsi), and met with [Javad Zarif](/people/javad-zarif) in 2014."* with three matching connection files.
+
 ### Workflow for this step
 
 After creating the target entity and all related entities (Step 5):
 
-1. Review every bio, description, and body field you wrote or modified.
-2. For each internal markdown link, verify:
+1. Run the pre-write scan before drafting any bio.
+2. Draft the bio using markdown links for every DB-resident mention.
+3. Run the post-write scan on every bio, description, and body field you wrote or modified.
+4. For each internal markdown link, verify:
    - The target entity file exists in the correct `content/` subdirectory
    - A connection file exists linking the two entities
-3. For each entity you created or found in research, check whether it should be linked from the target entity's text fields.
-4. Create any missing connection files using the most appropriate relationship type from the closed set.
-5. When linking to an existing entity, reuse its exact slug — do not create a duplicate.
+5. For each entity you created or found in research, check whether it should be linked from the target entity's text fields.
+6. Create any missing connection files using the most appropriate relationship type from the closed set.
+7. When linking to an existing entity, reuse its exact slug — do not create a duplicate.
 
 ### Connection file naming convention
 
@@ -443,6 +478,36 @@ If validation failed and you could not resolve it, report:
 
 # Research standards
 
+## Regime-affiliated figures — never drop, always label (MANDATORY)
+
+Figures who present themselves as independent analysts, academics, or journalists but who are in fact regime spokespersons, state-media surrogates, or covert agents **must be included in the graph** — not excluded. The goal is media literacy: when a user looks up Mohammad Marandi, they should immediately understand how to weight his public statements.
+
+### Rule
+**Do not discard an entity merely because it is regime-affiliated.** Affiliation is not a reason to omit — it is a reason to document carefully.
+
+### Required documentation when ingesting a regime-affiliated analyst figure
+The bio must include explicit, sourced evidence of affiliation. Include at minimum:
+- Their institutional position (e.g. University of Tehran professor, IRGC advisory role)
+- Specific documented evidence of regime ties: official adviser roles, IRGC uniform appearances, DOJ or other legal findings, named roles in state media or negotiations
+- Which Western outlets have platformmed them as if they were independent (BBC, CNN, Al Jazeera, etc.) — this documents the gap between their public presentation and their actual status
+- A clear statement in the bio that they are a regime spokesperson/surrogate, grounded in named sources (IranWire, Iran International, court filings, etc.)
+
+### Spectrum of cases
+These figures exist on a spectrum — apply proportionate documentation:
+
+| Type | Examples | What to document |
+|---|---|---|
+| **Covert agents** | Kaveh Afrasiabi (DOJ-indicted 2021) | Indictment, charges, specific activities |
+| **Official regime spokespersons** | Mohammad Marandi (nuclear talks adviser, IRGC-linked) | Advisory role, IRGC uniform evidence, IranWire/Iran International characterisation |
+| **State-media surrogates** | Foad Izadi | Specific claims made on Western outlets; links to regime positions |
+| **Regime-adjacent academics** | Nasser Hadian, Hassan Ahmadian | Institutional ties; note the bounds of their independence explicitly |
+| **Former officials turned analysts** | Hossein Mousavian (ex-nuclear negotiator) | Former regime role; note it prominently so the institutional lens is clear |
+
+### Tagging
+Use the most appropriate existing tags. If a figure has documented intelligence or IRGC links, use `intelligence` or `military`. For media surrogates, `media`-adjacent tagging on their org. Do not invent new tag values.
+
+---
+
 ## Editorial stance — regime skepticism
 
 The Islamic Republic of Iran is a dictatorship. Research must be unbiased and balanced, but "balanced" does not mean treating regime narratives as equivalent to independent sources. Apply these principles:
@@ -515,12 +580,15 @@ Follow the existing house style exactly.
 3. research target thoroughly
 4. assemble candidate entities/edges
 5. deduplicate against existing records
-6. create missing entities
-7. create relationships
-8. run build/validation
-9. fix issues
-10. update Research Inbox with follow-up leads
-11. summarize
+6. **pre-write entity-mention scan** — list every entity you plan to mention, check which ones are already in the DB, commit to linking each
+7. create missing entities
+8. draft bios using markdown links for every DB-resident mention (never plain text)
+9. **post-write entity-mention audit** — re-read each bio and highlight every proper noun; confirm each DB-resident entity is linked and has a connection file
+10. create relationships
+11. run build/validation
+12. fix issues
+13. update Research Inbox with follow-up leads
+14. summarize
 
 ## Editing strategy
 
@@ -554,11 +622,15 @@ A successful run should leave the repository with:
 - Adding duplicate entities due to transliteration differences
 - Creating edges without evidence
 - Writing a markdown link without creating the corresponding entity and connection files
-- Mentioning an entity in plain text when it has a file in the database (should be a link)
+- **Mentioning an entity in plain text when it has a file in the database** — the single most common failure mode. Plain-text mentions are invisible to the graph and launder real connections into prose. Always run the pre-write and post-write entity-mention audits described in Step 6.
+- Skipping the pre-write entity-mention scan and drafting the bio first — once the prose exists it is easy to miss plain-text mentions
+- Relying on `check:content` to catch missing links — the validator catches broken links, not missing links. Missing links pass validation silently and must be caught by the audit
 - Creating an entity without connecting it to anything (orphan nodes)
 - Stopping before `pnpm build` succeeds (graph-data.json won't be regenerated)
 - Stopping with `[unlinked-refs]` warnings for entities you created or modified
 - Creating people or orgs without a `sources` array — sources are displayed in the entity sidebar and must be populated from research
+- **Dropping a regime-affiliated analyst figure** — include them; document affiliation explicitly with sources
+- **Writing a neutral academic bio for a regime spokesperson** without naming their actual status — this launders their credibility in the DB
 
 ---
 

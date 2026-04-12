@@ -1,0 +1,21 @@
+{
+  "entity_id": "nasser-hadian-affiliated-with-international-crisis-group",
+  "from_entity": "nasser-hadian",
+  "to_entity": "international-crisis-group",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.crisisgroup.org",
+      "source_title": "International Crisis Group — Iran contributors",
+      "source_date": "2023-01-01",
+      "description": "Nasser Hadian is a regular interlocutor and contributor to International Crisis Group reporting on Iran."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,33 @@
+{
+  "entity_id": "sina-toossi",
+  "slug": "sina-toossi",
+  "name_en": "Sina Toossi",
+  "name_fa": "سینا طوسی",
+  "has_native_fa_name": true,
+  "born": null,
+  "birthplace": null,
+  "role": "Senior nonresident fellow at the Center for International Policy; former NIAC research analyst; commentator on US-Iran diplomacy",
+  "faction": "opposition",
+  "irgc_member": false,
+  "bio": "Sina Toossi is an Iranian-American policy analyst who focuses on U.S.-Iran relations, sanctions, and diplomacy. He serves as a senior nonresident fellow at the [Center for International Policy](/orgs/center-for-international-policy) and previously worked as a research analyst at the [National Iranian American Council](/orgs/niac). He is a consistent advocate for diplomatic engagement between Washington and Tehran, opposing sanctions-heavy approaches and military escalation.\n\nToossi writes and comments regularly on Iran nuclear negotiations, JCPOA diplomacy, and the impact of U.S. sanctions policy on Iranian civil society and the diplomatic track. He has contributed to outlets including Foreign Policy, The Nation, and Al-Monitor, and has appeared as an analyst on major broadcast and online media.",
+  "expertise": [
+    "US-Iran diplomacy",
+    "sanctions policy",
+    "nuclear negotiations",
+    "Iranian-American advocacy"
+  ],
+  "tags": [
+    "diplomacy",
+    "jcpoa",
+    "sanctions"
+  ],
+  "sources": [
+    {
+      "url": "https://internationalpolicy.org/people/sina-toossi/",
+      "title": "Sina Toossi — Center for International Policy",
+      "date": "2024-01-01",
+      "publisher": "Center for International Policy"
+    }
+  ],
+  "editorial_notes": "Dovish on Iran. Former NIAC analyst. Senior fellow at CIP. Pro-diplomacy commentator."
+}

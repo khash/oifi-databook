@@ -1,0 +1,21 @@
+{
+  "entity_id": "ray-takeyh-published-iranian-revolution-1979",
+  "from_entity": "ray-takeyh",
+  "to_entity": "iranian-revolution-1979",
+  "type": "published",
+  "confidence": "confirmed",
+  "date_from": "2021",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://yalebooks.yale.edu/book/9780300217797/the-last-shah/",
+      "source_title": "The Last Shah — Yale University Press",
+      "source_date": "2021-01-01",
+      "description": "Takeyh's The Last Shah (2021) offered a revisionist account of the 1979 Revolution emphasising Mohammad Reza Shah's own political failures."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

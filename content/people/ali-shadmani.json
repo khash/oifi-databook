@@ -1,0 +1,38 @@
+{
+  "entity_id": "ali-shadmani",
+  "slug": "ali-shadmani",
+  "name_en": "Ali Shadmani",
+  "name_fa": "علی شادمانی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1962,
+  "birthplace": "Heyran, Hamedan, Iran",
+  "role": "Commander, Khatam al-Anbiya Central Headquarters (interim, June 2025)",
+  "faction": "hardliner",
+  "bio": "Major General Ali Shadmani was a senior [IRGC](/orgs/islamic-revolutionary-guard-corps) commander who briefly held command of the [Khatam al-Anbiya Central Headquarters](/orgs/khatam-al-anbiya-central-headquarters) following the killing of [Gholam Ali Rashid](/people/gholam-ali-rashid) on 13 June 2025. Supreme Leader [Ali Khamenei](/people/ali-khamenei) appointed Shadmani as Rashid's successor on the same day. The IDF described Shadmani as Khamenei's closest military adviser and the de facto commander of both the Revolutionary Guards and regular armed forces. He was a veteran of the [Iran–Iraq War](/events/iran-iraq-war), commanding the 32nd Corps of Ansar al-Hussein during that conflict. He joined the IRGC in 1979 following the [Islamic Revolution](/events/iranian-revolution-1979). Shadmani was killed in an Israeli airstrike on a command facility in Tehran on 17 June 2025, just four days after his appointment, as part of the [Israeli strikes on Iran](/events/israeli-strikes-iran-june-2025). He was succeeded by [Ali Abdollahi Aliabadi](/people/ali-abdollahi-aliabadi).",
+  "irgc_member": true,
+  "expertise": ["military command", "joint operations"],
+  "tags": ["military", "killed-in-action", "deceased"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ali_Shadmani",
+      "title": "Ali Shadmani — Wikipedia",
+      "date": "2025-06-17",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://english.alarabiya.net/News/middle-east/2025/06/25/irgc-commander-ali-shadmani-dies-of-injuries-from-israeli-attacks-iran-confirms",
+      "title": "Senior IRGC commander dies of injuries from Israeli attacks, Iran confirms",
+      "date": "2025-06-25",
+      "publisher": "Al Arabiya"
+    },
+    {
+      "url": "https://www.longwarjournal.org/archives/2025/06/israeli-airstrikes-eliminate-senior-iranian-military-officials.php",
+      "title": "Israeli airstrikes eliminate senior Iranian military officials",
+      "date": "2025-06-17",
+      "publisher": "FDD's Long War Journal"
+    }
+  ],
+  "editorial_notes": "Appointed KCHQ commander 13 June 2025; killed 17 June 2025. Born 21 September 1962, Heyran, Hamedan. Initial reports said killed 17 June; Iran confirmed death of injuries 25 June."
+}

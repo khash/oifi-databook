@@ -1,0 +1,44 @@
+{
+  "entity_id": "vali-nasr",
+  "slug": "vali-nasr",
+  "name_en": "Vali Nasr",
+  "name_fa": "ولی نصر",
+  "has_native_fa_name": false,
+  "aliases": ["Seyyed Vali Reza Nasr"],
+  "born": 1960,
+  "birthplace": "Tehran",
+  "role": "Professor of international affairs and Middle East studies, Johns Hopkins SAIS; former dean of SAIS (2012–2019)",
+  "faction": "pragmatist",
+  "irgc_member": false,
+  "bio": "Vali Nasr (born 1960 in Tehran) is a professor of international affairs and Middle East studies at the Johns Hopkins School of Advanced International Studies (SAIS), where he served as dean from 2012 to 2019. He is one of the foremost scholars of Shia Islam and its political dimensions in the Muslim world.\n\nNasr left Iran after the [1979 Revolution](/events/iranian-revolution-1979) and was educated in the United States, receiving his doctorate from MIT. His breakthrough scholarly work *The Shia Revival: How Conflicts within Islam Will Shape the Future* (2006) argued that the US invasion of Iraq had inadvertently empowered Shia Muslim communities across the Middle East, reshaping regional geopolitics in ways that benefited Iran. The book became required reading in Washington policy circles and helped mainstream the concept of a 'Shia crescent.'\n\nFrom 2009 to 2011, Nasr served as senior adviser to Richard Holbrooke, the US Special Representative for Afghanistan and Pakistan. In that role he was deeply involved in US strategy toward Af-Pak policy during the Obama administration's first term, giving him unusual insider experience of US diplomatic policymaking. He described his disillusionment with the Obama administration's policymaking process in *The Dispensable Nation: American Foreign Policy in Retreat* (2013).\n\nNasr is a consistent advocate for engagement with Iran over sanctions and military pressure. His positions on nuclear diplomacy, the [JCPOA](/events/jcpoa-nuclear-deal-2015), and sanctions relief have consistently aligned with Iranian government preferences on these issues. He co-authored *How Sanctions Work: Iran and the Impact of Economic Warfare* (2023, Stanford University Press) with [Ali Vaez](/people/ali-vaez) — who was subsequently identified by [Semafor](/orgs/semafor) and [Iran International](/orgs/iran-international) as a participant in the [Iran Experts Initiative](/orgs/iran-experts-initiative) (IEI), a covert Iranian Foreign Ministry influence operation targeting Western-based analysts. Nasr himself has not been named in the IEI leaked cables; the co-authorship with a documented IEI participant on a topic where both authors' conclusions align with Iranian government preferences is a relevant editorial fact. His work has been translated and amplified by irdiplomacy.ir, a website affiliated with the Iranian Foreign Ministry.\n\nNasr is a pro-engagement, sanctions-skeptic scholar whose policy positions do not constitute opposition to the Islamic Republic. He should be understood in that context when his analysis is cited in Western media.",
+  "expertise": [
+    "Shia Islam and politics",
+    "Iran foreign policy",
+    "Middle East geopolitics",
+    "US foreign policy",
+    "Afghanistan-Pakistan policy"
+  ],
+  "sources": [
+    {
+      "url": "https://sais.jhu.edu/users/vnasr1",
+      "title": "Vali Nasr — Johns Hopkins SAIS",
+      "date": "2024-01-01",
+      "publisher": "Johns Hopkins SAIS"
+    },
+    {
+      "url": "https://www.cfr.org/experts/vali-nasr",
+      "title": "Vali Nasr — Council on Foreign Relations",
+      "date": "2016-01-01",
+      "publisher": "Council on Foreign Relations"
+    },
+    {
+      "url": "https://www.semafor.com/article/09/25/2023/inside-irans-influence-operation",
+      "title": "Inside Iran's Influence Operation",
+      "date": "2023-09-25",
+      "publisher": "Semafor"
+    }
+  ],
+  "tags": ["in-exile"],
+  "photo": null,
+  "editorial_notes": "Born 1960 Tehran. Left Iran after 1979 Revolution. PhD MIT. Taught at Naval Postgraduate School, Fletcher School (Tufts) before SAIS. Dean of SAIS 2012-2019. Senior adviser to Richard Holbrooke 2009-2011. Major works: The Shia Revival (2006), The Dispensable Nation (2013). Also a CFR member. Alive as of April 2026."
+}

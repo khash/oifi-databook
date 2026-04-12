@@ -1,0 +1,31 @@
+{
+  "entity_id": "mehdi-khalaji",
+  "slug": "mehdi-khalaji",
+  "name_en": "Mehdi Khalaji",
+  "name_fa": "مهدی خلجی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1973,
+  "birthplace": "Qom, Iran",
+  "role": "Libitzky Family Fellow, Washington Institute for Near East Policy",
+  "faction": "opposition",
+  "bio": "Mehdi Khalaji is the Libitzky Family Fellow at the [Washington Institute for Near East Policy](/orgs/washington-institute-for-near-east-policy). Born in Qom in 1973, he spent fourteen years training as a Shia cleric in the Qom seminary system, studying under senior marjas before leaving Iran and abandoning the clerical path. His insider formation makes him one of the foremost Western analysts of the Iranian clerical establishment, the marja system, and velayat-e faqih doctrine. He writes extensively on the political economy of the hawza, the role of clerics in regime legitimacy, and the relationship between [the Supreme Leader](/people/ali-khamenei) and the senior marjas in [Qom](/orgs/society-of-seminary-teachers-of-qom). He is also a poet and writer in Persian and has contributed commentary on Iranian domestic politics, the [Basij](/orgs/basij), and post-revolutionary Islamic thought.",
+  "irgc_member": false,
+  "expertise": [
+    "Shia clerical establishment",
+    "marja system",
+    "velayat-e faqih",
+    "Iranian religious politics"
+  ],
+  "sources": [
+    {
+      "url": "https://www.washingtoninstitute.org/experts/mehdi-khalaji",
+      "title": "Mehdi Khalaji — Washington Institute for Near East Policy",
+      "date": "2024-01-01",
+      "publisher": "Washington Institute for Near East Policy"
+    }
+  ],
+  "tags": [],
+  "photo": null,
+  "editorial_notes": "Qom-trained cleric, 14 years in hawza. Left Iran and clerical path. Born 1973. WINEP fellow. Key analyst on marjas and clerical politics."
+}

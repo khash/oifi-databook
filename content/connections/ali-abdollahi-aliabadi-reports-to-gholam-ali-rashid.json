@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-abdollahi-aliabadi-reports-to-gholam-ali-rashid",
+  "from_entity": "ali-abdollahi-aliabadi",
+  "to_entity": "gholam-ali-rashid",
+  "type": "reports-to",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": "2025-06-13",
+  "evidence": [
+    {
+      "source_url": "https://iranwire.com/en/news/144584-irgc-appoints-ali-abdollahi-as-new-commander-of-khatam-al-anbiya-headquarters/",
+      "source_title": "IRGC Appoints Ali Abdollahi as New Commander of Khatam al-Anbiya Headquarters",
+      "source_date": "2025-09-04",
+      "description": "Aliabadi ultimately succeeded both Rashid and Shadmani as KCHQ commander; his exact relationship to Rashid during Rashid's tenure is not fully documented."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Connection inferred from succession chain. Aliabadi's role before becoming full KCHQ commander in September 2025 is not fully documented."
+}

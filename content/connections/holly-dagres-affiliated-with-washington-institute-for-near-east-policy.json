@@ -1,0 +1,17 @@
+{
+  "entity_id": "holly-dagres-affiliated-with-washington-institute-for-near-east-policy",
+  "from_entity": "holly-dagres",
+  "to_entity": "washington-institute-for-near-east-policy",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "notes": "Dagres is Libitzky Family Senior Fellow in the Washington Institute's Viterbi Program on Iran.",
+  "evidence": [
+    {
+      "description": "Washington Institute for Near East Policy profile: Holly Dagres.",
+      "url": "https://www.washingtoninstitute.org/scholars/holly-dagres",
+      "date": "2023-01-01"
+    }
+  ],
+  "symmetric": false,
+  "family_subtype": null
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "narges-bajoghli-subject-of-irgc",
+  "from_entity": "narges-bajoghli",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://sais.jhu.edu/users/nbajoghli",
+      "source_title": "Narges Bajoghli — Johns Hopkins SAIS",
+      "source_date": "2024-01-01",
+      "description": "Narges Bajoghli's Iran Reframed documents fieldwork with IRGC cultural producers."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

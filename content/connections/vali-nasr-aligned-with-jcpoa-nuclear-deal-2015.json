@@ -1,0 +1,21 @@
+{
+  "entity_id": "vali-nasr-aligned-with-jcpoa-nuclear-deal-2015",
+  "from_entity": "vali-nasr",
+  "to_entity": "jcpoa-nuclear-deal-2015",
+  "type": "endorsed",
+  "confidence": "confirmed",
+  "date_from": "2015",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://sais.jhu.edu/users/vnasr1",
+      "source_title": "Vali Nasr — Johns Hopkins SAIS",
+      "source_date": "2024-01-01",
+      "description": "Nasr has been a consistent public advocate for engagement with Iran over sanctions and military pressure, including support for the JCPOA nuclear deal."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

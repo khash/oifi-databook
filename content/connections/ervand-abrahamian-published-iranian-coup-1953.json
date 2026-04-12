@@ -1,0 +1,21 @@
+{
+  "entity_id": "ervand-abrahamian-published-iranian-coup-1953",
+  "from_entity": "ervand-abrahamian",
+  "to_entity": "iranian-coup-1953",
+  "type": "published",
+  "confidence": "confirmed",
+  "date_from": "2013",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://thenewpress.com/books/coup",
+      "source_title": "The Coup — The New Press",
+      "source_date": "2013-01-01",
+      "description": "Abrahamian's The Coup (2013) argued that the 1953 overthrow of Prime Minister Mohammad Mosaddegh was primarily a CIA and British intelligence operation."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

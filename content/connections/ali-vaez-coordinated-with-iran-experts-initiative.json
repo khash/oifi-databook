@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-vaez-coordinated-with-iran-experts-initiative",
+  "from_entity": "ali-vaez",
+  "to_entity": "iran-experts-initiative",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "2014",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.semafor.com/article/09/25/2023/inside-irans-influence-operation",
+      "source_title": "Inside Iran's Influence Operation",
+      "source_date": "2023-09-25",
+      "description": "Vaez was identified as an IEI member. Leaked emails showed he shared a draft nuclear policy article with IPIS head Zahrani before publication and attended the inaugural IEI meeting in Vienna in May 2014. He stated it was his 'national and patriotic duty' to oppose the breakout-time concept in negotiations."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

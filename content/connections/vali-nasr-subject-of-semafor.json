@@ -1,0 +1,21 @@
+{
+  "entity_id": "vali-nasr-subject-of-semafor",
+  "from_entity": "vali-nasr",
+  "to_entity": "semafor",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2023-09-25",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.semafor.com/article/09/25/2023/inside-irans-influence-operation",
+      "source_title": "Inside Iran's Influence Operation",
+      "source_date": "2023-09-25",
+      "description": "Semafor's IEI exposé noted that Nasr co-authored a 2023 book with Ali Vaez, a documented IEI participant, on sanctions relief for Iran."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

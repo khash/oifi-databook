@@ -1,0 +1,21 @@
+{
+  "entity_id": "esfandyar-batmanghelidj-affiliated-with-chatham-house",
+  "from_entity": "esfandyar-batmanghelidj",
+  "to_entity": "chatham-house",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.bourseandbazaar.com/about",
+      "source_title": "About Bourse & Bazaar Foundation",
+      "source_date": "2024-01-01",
+      "description": "Esfandyar Batmanghelidj contributes to Chatham House and other policy forums as a commentator on Iranian political economy and sanctions."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

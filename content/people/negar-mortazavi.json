@@ -1,0 +1,40 @@
+{
+  "entity_id": "negar-mortazavi",
+  "slug": "negar-mortazavi",
+  "name_en": "Negar Mortazavi",
+  "name_fa": "نگار مرتضوی",
+  "has_native_fa_name": true,
+  "born": "1981",
+  "birthplace": "Iran",
+  "role": "Journalist; host of The Iran Podcast; senior fellow at the Center for International Policy",
+  "faction": "reformist",
+  "irgc_member": false,
+  "bio": "Negar Mortazavi is an Iranian journalist and media commentator who has been based in the United States since going into exile following the [Green Movement protests of 2009](/events/green-movement-protests-2009). She is the host and producer of The Iran Podcast, which covers Iranian politics, society, and U.S.-Iran relations with a focus on diplomatic engagement. She serves as a senior fellow at the [Center for International Policy](/orgs/center-for-international-policy), where she works on Iran policy issues.\n\nMortazavi worked as a media and communications assistant at the [National Iranian American Council (NIAC)](/orgs/niac) in 2014, an organization whose founder [Trita Parsi](/people/trita-parsi) was described by Iranian Foreign Minister [Javad Zarif](/people/javad-zarif) in 2013 parliamentary testimony as his \"main partner\" in the United States, and which a US federal court found it \"reasonable to assert\" was \"lobbying on behalf of the Iranian government\" (Hassan Dai v. NIAC, 2015). In September 2024, Mortazavi met with Iranian President [Masoud Pezeshkian](/people/masoud-pezeshkian) at his hotel during his visit to New York for the UN General Assembly — an unusual level of direct access to an Iranian head of state for a diaspora journalist.\n\nMortazavi is consistently dovish on Iran, advocating for diplomacy over sanctions. She is not an opposition figure in any political sense — she has not aligned with dissident movements, exile political organizations, or the protest waves inside Iran. Her institutional positioning at NIAC and CIP, and her access to Iranian officials, place her in a pro-engagement lane that should be understood when her analysis is cited.",
+  "expertise": [
+    "US-Iran relations",
+    "Iranian domestic politics",
+    "diaspora journalism",
+    "diplomacy"
+  ],
+  "tags": [
+    "in-exile",
+    "green-movement",
+    "jcpoa",
+    "diplomacy"
+  ],
+  "sources": [
+    {
+      "url": "https://internationalpolicy.org/people/negar-mortazavi/",
+      "title": "Negar Mortazavi — Center for International Policy",
+      "date": "2024-01-01",
+      "publisher": "Center for International Policy"
+    },
+    {
+      "url": "https://www.iranintl.com/en/202409269913",
+      "title": "Mortazavi meets Iranian President Pezeshkian in New York",
+      "date": "2024-09-26",
+      "publisher": "Iran International"
+    }
+  ],
+  "editorial_notes": "Dovish; pro-diplomacy. In exile since 2009 Green Movement. Host of The Iran Podcast. Senior fellow at CIP."
+}

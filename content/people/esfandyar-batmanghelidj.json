@@ -1,0 +1,35 @@
+{
+  "entity_id": "esfandyar-batmanghelidj",
+  "slug": "esfandyar-batmanghelidj",
+  "name_en": "Esfandyar Batmanghelidj",
+  "name_fa": "اسفندیار بتمانقلیج",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Esfandyar Batmanghelich"
+  ],
+  "born": null,
+  "birthplace": null,
+  "role": "Founder and CEO, Bourse & Bazaar Foundation",
+  "faction": "opposition",
+  "bio": "Esfandyar Batmanghelidj is the founder and CEO of the [Bourse & Bazaar Foundation](/orgs/bourse-and-bazaar-foundation), a London-based think tank focused on Iran's economy, trade, and the impact of international sanctions. He is widely regarded as the leading independent analyst of Iranian political economy and sanctions in the Western policy world. His research challenges the effectiveness of maximum-pressure sanctions as a tool for political change, arguing they harm Iranian civil society while strengthening regime-connected economic actors. He co-authored *How Sanctions Work: Iran and the Impact of Economic Warfare* (2023) with [Narges Bajoghli](/people/narges-bajoghli) and others. He publishes regularly in Foreign Affairs, the Financial Times, and contributes to [Chatham House](/orgs/chatham-house) and other policy forums.",
+  "irgc_member": false,
+  "expertise": [
+    "Iranian political economy",
+    "sanctions",
+    "Iran trade",
+    "business and civil society"
+  ],
+  "sources": [
+    {
+      "url": "https://www.bourseandbazaar.com/about",
+      "title": "About Bourse & Bazaar Foundation",
+      "date": "2024-01-01",
+      "publisher": "Bourse & Bazaar Foundation"
+    }
+  ],
+  "tags": [
+    "sanctions"
+  ],
+  "photo": null,
+  "editorial_notes": "Founder of Bourse & Bazaar Foundation. Co-author of How Sanctions Work (2023) with Narges Bajoghli et al."
+}

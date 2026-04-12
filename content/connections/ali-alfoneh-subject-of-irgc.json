@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-alfoneh-subject-of-irgc",
+  "from_entity": "ali-alfoneh",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://agsiw.org/experts/ali-alfoneh/",
+      "source_title": "Ali Alfoneh — Arab Gulf States Institute",
+      "source_date": "2024-01-01",
+      "description": "Ali Alfoneh's primary scholarly focus is the IRGC; his book Iran Unveiled documents the IRGC's transformation of the Islamic Republic."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

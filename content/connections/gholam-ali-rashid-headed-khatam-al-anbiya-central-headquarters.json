@@ -1,0 +1,21 @@
+{
+  "entity_id": "gholam-ali-rashid-headed-khatam-al-anbiya-central-headquarters",
+  "from_entity": "gholam-ali-rashid",
+  "to_entity": "khatam-al-anbiya-central-headquarters",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2015",
+  "date_to": "2025-06-13",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Gholam_Ali_Rashid",
+      "source_title": "Gholam Ali Rashid — Wikipedia",
+      "source_date": "2025-06-13",
+      "description": "Rashid commanded KCHQ from 2015 until his death in Israeli strikes on 13 June 2025."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

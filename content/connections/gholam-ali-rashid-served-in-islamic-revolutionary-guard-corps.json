@@ -1,0 +1,21 @@
+{
+  "entity_id": "gholam-ali-rashid-served-in-islamic-revolutionary-guard-corps",
+  "from_entity": "gholam-ali-rashid",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "2025-06-13",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Gholam_Ali_Rashid",
+      "source_title": "Gholam Ali Rashid — Wikipedia",
+      "source_date": "2025-06-13",
+      "description": "Rashid was a senior IRGC officer who participated in all major IRGC operations during the Iran–Iraq War and rose to Major General."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

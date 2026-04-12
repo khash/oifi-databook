@@ -1,0 +1,19 @@
+{
+  "entity_id": "center-for-international-policy",
+  "slug": "center-for-international-policy",
+  "name_en": "Center for International Policy",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 1975,
+  "dissolved": null,
+  "parent_org": null,
+  "faction": null,
+  "description": "The Center for International Policy (CIP) is a Washington D.C.-based progressive think tank founded in 1975 focused on U.S. foreign policy, military spending, and diplomacy. Its Iran program publishes analysis advocating for diplomatic engagement and sanctions relief. CIP fellows have been prominent voices for reviving the JCPOA nuclear deal and opposing military confrontation with Iran.",
+  "tags": [
+    "diplomacy",
+    "jcpoa",
+    "sanctions"
+  ],
+  "editorial_notes": "Progressive think tank; dovish on Iran. Hosts Negar Mortazavi and Sina Toossi."
+}

@@ -1,0 +1,26 @@
+{
+  "entity_id": "nasser-hadian",
+  "slug": "nasser-hadian",
+  "name_en": "Nasser Hadian",
+  "name_fa": "ناصر هادیان",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Professor of Political Science, University of Tehran",
+  "faction": "reformist",
+  "bio": "Nasser Hadian is a professor of political science at the [University of Tehran](/orgs/university-of-tehran). He is a regular interlocutor with Western think tanks, having engaged with institutions including the Atlantic Council and the [International Crisis Group](/orgs/international-crisis-group). He is often characterised as reformist-adjacent in his political outlook.\n\nHadian represents a category of Iranian academics who operate within regime-permissible bounds: able to engage with Western institutions and articulate positions that differ at the margins from hardline orthodoxy, but dependent on the continued tolerance of the state for their platform and position. His academic tenure and ability to travel for international engagements indicates he has not crossed lines the Islamic Republic regards as unacceptable.\n\nHis commentary on nuclear negotiations, US–Iran relations, and Iranian domestic politics is informed by genuine academic analysis but is constrained by the institutional reality that severe dissent would end his career or worse. He should not be read as a fully independent voice, though he is a meaningfully different type of figure from overt propagandists embedded in the regime's formal apparatus.",
+  "irgc_member": false,
+  "expertise": [
+    "nuclear negotiations",
+    "US–Iran relations",
+    "Iranian domestic politics"
+  ],
+  "sources": [],
+  "tags": [
+    "diplomacy",
+    "nuclear"
+  ],
+  "photo": null,
+  "editorial_notes": "Reformist-adjacent; engages Atlantic Council, Crisis Group. Operates within regime-permissible space. Nuanced case — document institutional bounds, do not overclaim regime ties."
+}

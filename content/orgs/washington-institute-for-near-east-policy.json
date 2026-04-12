@@ -1,0 +1,23 @@
+{
+  "entity_id": "washington-institute-for-near-east-policy",
+  "slug": "washington-institute-for-near-east-policy",
+  "name_en": "Washington Institute for Near East Policy",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 1985,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Washington think tank focused on US policy in the Middle East. Founded in 1985, it hosts scholars and former officials who produce analysis and policy recommendations on Iran, Israel, Arab states, and counterterrorism. Its Iran work includes the Libitzky Family Fellowship, held by [Holly Dagres](/people/holly-dagres), and technical analysis on the IRGC and Iran's missile programs by [Farzin Nadimi](/people/farzin-nadimi).",
+  "faction": null,
+  "sources": [
+    {
+      "url": "https://www.washingtoninstitute.org/about",
+      "title": "About WINEP",
+      "date": "2024-01-01",
+      "publisher": "Washington Institute for Near East Policy"
+    }
+  ],
+  "tags": [],
+  "editorial_notes": "WINEP is perceived as centre-right and broadly pro-Israel. Not to be confused with WINEP's Fikra Forum, its Arabic-language platform."
+}

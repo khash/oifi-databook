@@ -1,0 +1,23 @@
+{
+  "entity_id": "arab-gulf-states-institute",
+  "slug": "arab-gulf-states-institute",
+  "name_en": "Arab Gulf States Institute in Washington",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 2014,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Washington-based research institution focused on the Arab Gulf states and their relationship with the United States. Hosts fellows studying Gulf politics, security, and economy, including senior fellow [Ali Alfoneh](/people/ali-alfoneh) whose work on the IRGC has been influential in policy circles.",
+  "faction": null,
+  "sources": [
+    {
+      "url": "https://agsiw.org/about/",
+      "title": "About AGSIW",
+      "date": "2024-01-01",
+      "publisher": "Arab Gulf States Institute in Washington"
+    }
+  ],
+  "tags": [],
+  "editorial_notes": ""
+}

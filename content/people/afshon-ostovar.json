@@ -1,0 +1,31 @@
+{
+  "entity_id": "afshon-ostovar",
+  "slug": "afshon-ostovar",
+  "name_en": "Afshon Ostovar",
+  "name_fa": "افشون استوار",
+  "has_native_fa_name": false,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Associate Professor, Naval Postgraduate School",
+  "faction": "opposition",
+  "bio": "Afshon Ostovar is an associate professor at the Naval Postgraduate School in Monterey, California. He is the author of *Vanguard of the Imam: Religion, Politics, and Iran's Revolutionary Guards* (2016), widely regarded as the definitive English-language scholarly history of the [Islamic Revolutionary Guard Corps](/orgs/islamic-revolutionary-guard-corps) — tracing its ideological origins, institutional development, and operational expansion from 1979 to the present. Ostovar situates the IRGC within the broader religious-ideological framework of the Islamic Republic, examining how its self-conception as the 'vanguard of the Imam' shaped both its internal culture and its external operations including the [Quds Force](/orgs/irgc-quds-force). His research spans Iranian security institutions, proxy networks, and the intersection of religion and military power.",
+  "irgc_member": false,
+  "expertise": [
+    "IRGC",
+    "Iranian security institutions",
+    "proxy warfare",
+    "religion and military power"
+  ],
+  "sources": [
+    {
+      "url": "https://faculty.nps.edu/aostovar",
+      "title": "Afshon Ostovar — Naval Postgraduate School",
+      "date": "2024-01-01",
+      "publisher": "Naval Postgraduate School"
+    }
+  ],
+  "tags": [],
+  "photo": null,
+  "editorial_notes": "Author of Vanguard of the Imam (2016) — standard scholarly history of IRGC. Associate professor at NPS Monterey."
+}

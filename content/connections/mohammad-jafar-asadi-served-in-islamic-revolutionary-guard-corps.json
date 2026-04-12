@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-jafar-asadi-served-in-islamic-revolutionary-guard-corps",
+  "from_entity": "mohammad-jafar-asadi",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1980",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Jafar_Asadi",
+      "source_title": "Mohammad Jafar Asadi — Wikipedia",
+      "source_date": "2025-06-01",
+      "description": "Asadi joined the IRGC in March 1980 and served as IRGC Ground Forces commander 2008–2009."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

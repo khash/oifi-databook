@@ -1,0 +1,21 @@
+{
+  "entity_id": "esfandyar-batmanghelidj-founded-bourse-and-bazaar",
+  "from_entity": "esfandyar-batmanghelidj",
+  "to_entity": "bourse-and-bazaar-foundation",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "2016",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.bourseandbazaar.com/about",
+      "source_title": "About Bourse & Bazaar Foundation",
+      "source_date": "2024-01-01",
+      "description": "Esfandyar Batmanghelidj founded and leads the Bourse & Bazaar Foundation."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

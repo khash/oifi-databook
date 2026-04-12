@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-abdollahi-aliabadi-headed-khatam-al-anbiya-central-headquarters",
+  "from_entity": "ali-abdollahi-aliabadi",
+  "to_entity": "khatam-al-anbiya-central-headquarters",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2025-09",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://iranwire.com/en/news/144584-irgc-appoints-ali-abdollahi-as-new-commander-of-khatam-al-anbiya-headquarters/",
+      "source_title": "IRGC Appoints Ali Abdollahi as New Commander of Khatam al-Anbiya Headquarters",
+      "source_date": "2025-09-04",
+      "description": "Tasnim News Agency confirmed Aliabadi's appointment as KCHQ commander on 4 September 2025, promoted to Major General for the role."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

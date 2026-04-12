@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-abdollahi-aliabadi-served-in-law-enforcement-command",
+  "from_entity": "ali-abdollahi-aliabadi",
+  "to_entity": "law-enforcement-command",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Abdollahi_Aliabadi",
+      "source_title": "Ali Abdollahi Aliabadi — Wikipedia",
+      "source_date": "2025-09-04",
+      "description": "Served successive positions as deputy and acting commander of Iran's Law Enforcement Force."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

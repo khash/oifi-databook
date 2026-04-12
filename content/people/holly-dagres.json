@@ -1,0 +1,32 @@
+{
+  "entity_id": "holly-dagres",
+  "slug": "holly-dagres",
+  "name_en": "Holly Dagres",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "born": null,
+  "birthplace": null,
+  "role": "Libitzky Family Senior Fellow at the Washington Institute for Near East Policy; specialist on Iranian social media, youth politics, and US-Iran relations",
+  "faction": "opposition",
+  "irgc_member": false,
+  "bio": "Holly Dagres is an Iranian-American analyst and journalist who specializes in Iranian social media, youth culture, and U.S.-Iran relations. She holds the Libitzky Family Senior Fellowship in the Viterbi Program on Iran and U.S.-Iran Relations at the [Washington Institute for Near East Policy](/orgs/washington-institute-for-near-east-policy). Previously she was a senior fellow at the Atlantic Council's Middle East Programs.\n\nDagres is the founder and editor of The Iranist, a newsletter tracking Iranian social and political trends. She is known for her close attention to the Iranian public sphere, including Persian-language social media, youth movements, and diaspora dynamics. Her work bridges analytical commentary and accessible journalism aimed at policy audiences, and she has appeared frequently in international media as a commentator on Iranian affairs.",
+  "expertise": [
+    "Iranian social media",
+    "Iranian youth politics",
+    "US-Iran relations",
+    "diaspora politics"
+  ],
+  "tags": [
+    "diplomacy",
+    "woman-life-freedom"
+  ],
+  "sources": [
+    {
+      "url": "https://www.washingtoninstitute.org/scholars/holly-dagres",
+      "title": "Holly Dagres — Washington Institute for Near East Policy",
+      "date": "2024-01-01",
+      "publisher": "Washington Institute for Near East Policy"
+    }
+  ],
+  "editorial_notes": "Libitzky Family Senior Fellow at WINEP. Previously Atlantic Council. Founder of The Iranist newsletter."
+}

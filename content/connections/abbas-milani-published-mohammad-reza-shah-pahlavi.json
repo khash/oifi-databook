@@ -1,0 +1,21 @@
+{
+  "entity_id": "abbas-milani-published-mohammad-reza-shah-pahlavi",
+  "from_entity": "abbas-milani",
+  "to_entity": "mohammad-reza-shah-pahlavi",
+  "type": "published",
+  "confidence": "confirmed",
+  "date_from": "2011",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.hoover.org/profiles/abbas-milani",
+      "source_title": "Abbas Milani — Hoover Institution",
+      "source_date": "2011-01-01",
+      "description": "Milani's biography The Shah (2011) is widely considered the leading Western biography of Mohammad Reza Shah Pahlavi."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

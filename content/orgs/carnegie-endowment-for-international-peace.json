@@ -1,0 +1,23 @@
+{
+  "entity_id": "carnegie-endowment-for-international-peace",
+  "slug": "carnegie-endowment-for-international-peace",
+  "name_en": "Carnegie Endowment for International Peace",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 1910,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Washington, DC-based nonpartisan think tank dedicated to the advancement of international peace and active international engagement by the United States. One of the oldest international affairs think tanks in the world, with offices in Washington, Moscow, Beijing, Brussels, Beirut, and New Delhi. Known for independent policy research on issues including nuclear policy, democracy, and Middle East affairs.",
+  "faction": null,
+  "sources": [
+    {
+      "url": "https://carnegieendowment.org/about/",
+      "title": "About Carnegie Endowment for International Peace",
+      "date": "2024-01-01",
+      "publisher": "Carnegie Endowment for International Peace"
+    }
+  ],
+  "tags": [],
+  "editorial_notes": "Founded 1910 by Andrew Carnegie. Karim Sadjadpour is a senior fellow there."
+}

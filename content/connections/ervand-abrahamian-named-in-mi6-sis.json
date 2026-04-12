@@ -1,0 +1,21 @@
+{
+  "entity_id": "ervand-abrahamian-named-in-mi6-sis",
+  "from_entity": "ervand-abrahamian",
+  "to_entity": "mi6-sis",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2013",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://thenewpress.com/books/coup",
+      "source_title": "The Coup — The New Press",
+      "source_date": "2013-01-01",
+      "description": "Abrahamian's The Coup (2013) documented British intelligence (SIS/MI6) involvement alongside the CIA in the 1953 overthrow of Mosaddegh."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

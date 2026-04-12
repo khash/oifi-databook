@@ -1,0 +1,21 @@
+{
+  "entity_id": "gholam-ali-rashid-subject-of-israeli-strikes-iran-june-2025",
+  "from_entity": "gholam-ali-rashid",
+  "to_entity": "israeli-strikes-iran-june-2025",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2025-06-13",
+  "date_to": "2025-06-13",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Gholam_Ali_Rashid",
+      "source_title": "Gholam Ali Rashid — Wikipedia",
+      "source_date": "2025-06-13",
+      "description": "Rashid was killed in Israeli airstrikes on 13 June 2025, the opening day of Operation Rising Lion."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

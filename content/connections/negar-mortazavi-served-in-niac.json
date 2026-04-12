@@ -1,0 +1,17 @@
+{
+  "entity_id": "negar-mortazavi-served-in-niac",
+  "from_entity": "negar-mortazavi",
+  "to_entity": "niac",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "notes": "Mortazavi worked as a media and communications assistant at the National Iranian American Council (NIAC) in 2014.",
+  "evidence": [
+    {
+      "description": "Mortazavi's LinkedIn and professional biographies reference her 2014 NIAC role.",
+      "url": "https://internationalpolicy.org/people/negar-mortazavi/",
+      "date": "2014-01-01"
+    }
+  ],
+  "symmetric": false,
+  "family_subtype": null
+}

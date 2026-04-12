@@ -1,0 +1,21 @@
+{
+  "entity_id": "foad-izadi-served-in-university-of-tehran",
+  "from_entity": "foad-izadi",
+  "to_entity": "university-of-tehran",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://ut.ac.ir/en",
+      "source_title": "University of Tehran, Faculty of World Studies",
+      "source_date": "2023-01-01",
+      "description": "Foad Izadi is an associate professor at the Faculty of World Studies, University of Tehran."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

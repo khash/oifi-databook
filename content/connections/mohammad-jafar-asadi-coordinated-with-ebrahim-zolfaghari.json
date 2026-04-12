@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-jafar-asadi-coordinated-with-ebrahim-zolfaghari",
+  "from_entity": "mohammad-jafar-asadi",
+  "to_entity": "ebrahim-zolfaghari",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Jafar_Asadi",
+      "source_title": "Mohammad Jafar Asadi — Wikipedia",
+      "source_date": "2025-06-01",
+      "description": "Both Asadi (deputy commander) and Zolfaghari (spokesperson) serve within the Khatam al-Anbiya Central Headquarters leadership."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

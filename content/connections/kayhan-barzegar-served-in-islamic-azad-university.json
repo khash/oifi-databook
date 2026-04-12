@@ -1,0 +1,21 @@
+{
+  "entity_id": "kayhan-barzegar-served-in-islamic-azad-university",
+  "from_entity": "kayhan-barzegar",
+  "to_entity": "islamic-azad-university",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.iau.ac.ir",
+      "source_title": "Islamic Azad University faculty",
+      "source_date": "2023-01-01",
+      "description": "Kayhan Barzegar is an assistant professor at Islamic Azad University."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

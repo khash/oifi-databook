@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-marandi-served-in-university-of-tehran",
+  "from_entity": "mohammad-marandi",
+  "to_entity": "university-of-tehran",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://ut.ac.ir/en",
+      "source_title": "University of Tehran faculty profile",
+      "source_date": "2023-01-01",
+      "description": "Marandi is a professor of English literature at the University of Tehran."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

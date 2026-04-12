@@ -1,0 +1,21 @@
+{
+  "entity_id": "ariane-tabatabai-coordinated-with-iran-experts-initiative",
+  "from_entity": "ariane-tabatabai",
+  "to_entity": "iran-experts-initiative",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "2014",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.semafor.com/article/09/25/2023/inside-irans-influence-operation",
+      "source_title": "Inside Iran's Influence Operation",
+      "source_date": "2023-09-25",
+      "description": "Ariane Tabatabai was recruited as a core IEI member by Khatibzadeh in Prague in March 2014 and attended the inaugural IEI meeting in Vienna."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

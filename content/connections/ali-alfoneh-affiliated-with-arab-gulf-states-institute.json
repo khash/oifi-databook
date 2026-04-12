@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-alfoneh-affiliated-with-arab-gulf-states-institute",
+  "from_entity": "ali-alfoneh",
+  "to_entity": "arab-gulf-states-institute",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://agsiw.org/experts/ali-alfoneh/",
+      "source_title": "Ali Alfoneh — Arab Gulf States Institute",
+      "source_date": "2024-01-01",
+      "description": "Ali Alfoneh is a senior fellow at the Arab Gulf States Institute in Washington."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

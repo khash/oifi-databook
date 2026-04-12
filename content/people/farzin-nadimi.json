@@ -1,0 +1,33 @@
+{
+  "entity_id": "farzin-nadimi",
+  "slug": "farzin-nadimi",
+  "name_en": "Farzin Nadimi",
+  "name_fa": "فرزین ندیمی",
+  "has_native_fa_name": true,
+  "born": null,
+  "birthplace": null,
+  "role": "Senior fellow at the Washington Institute for Near East Policy; specialist on Iran and Gulf defense, ballistic missiles, and IRGC military capabilities",
+  "faction": "opposition",
+  "irgc_member": false,
+  "bio": "Farzin Nadimi is a London-based defense and security analyst who serves as a senior fellow at the [Washington Institute for Near East Policy](/orgs/washington-institute-for-near-east-policy). He specializes in Iran and Gulf security, with particular focus on the [IRGC](/orgs/islamic-revolutionary-guard-corps)'s military capabilities, Iran's ballistic missile and drone programs, and the regional projection of Iranian military power.\n\nNadimi has produced some of the most technically detailed open-source analysis of Iran's missile tests, including the Shahab-3 and Sejjil programs, and has tracked the IRGC's weapons transfers to regional proxies including Hezbollah and the Houthis. His work is widely cited by policymakers, journalists, and intelligence analysts seeking to understand the operational dimensions of Iran's defense posture. He has testified before the U.S. Congress and briefed European governments on Iran's military programs.",
+  "expertise": [
+    "IRGC military capabilities",
+    "Iranian ballistic missiles",
+    "Iran-Gulf security",
+    "proxy warfare"
+  ],
+  "tags": [
+    "military",
+    "nuclear",
+    "proxy-warfare"
+  ],
+  "sources": [
+    {
+      "url": "https://www.washingtoninstitute.org/scholars/farzin-nadimi",
+      "title": "Farzin Nadimi — Washington Institute for Near East Policy",
+      "date": "2024-01-01",
+      "publisher": "Washington Institute for Near East Policy"
+    }
+  ],
+  "editorial_notes": "London-based. Technical analyst of IRGC capabilities. Senior fellow at WINEP."
+}

@@ -1,0 +1,38 @@
+{
+  "entity_id": "abbas-milani",
+  "slug": "abbas-milani",
+  "name_en": "Abbas Milani",
+  "name_fa": "عباس میلانی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1949,
+  "birthplace": "Tehran",
+  "role": "Hamid and Christina Moghadam Director of Iranian Studies, Stanford University; co-director, Iran Democracy Project at Hoover Institution",
+  "faction": "opposition",
+  "irgc_member": false,
+  "bio": "Abbas Milani (born 1949) is the Hamid and Christina Moghadam Director of Iranian Studies at Stanford University and co-director of the [Hoover Institution — Iran Democracy Project](/orgs/hoover-institution-iran-democracy-project). He is one of the most prominent Iranian-American historians of modern Iran and has been described as the leading Western biographer of [Mohammad Reza Shah Pahlavi](/people/mohammad-reza-shah-pahlavi).\n\nMilani was born in Tehran and educated in the United States before returning to Iran after the [1979 Revolution](/events/iranian-revolution-1979). He was imprisoned under both the Shah and, separately, under the Islamic Republic — an experience that gave him unusual firsthand knowledge of political repression across two very different Iranian regimes. After his release he left Iran and eventually joined Stanford, where he has taught for more than two decades.\n\nHis scholarly output spans political biography, intellectual history, and policy analysis. His biography *The Shah* (2011) drew on previously classified documents and private family correspondence to offer a nuanced reassessment of [Mohammad Reza Pahlavi](/people/mohammad-reza-shah-pahlavi)'s personality, decision-making, and ultimate political failure. His two-volume *Eminent Persians* (2008) profiled 150 men and women who shaped modern Iran, providing a panoramic portrait of twentieth-century Iranian intellectual, political, and cultural life. Earlier works include *Lost Wisdom: Rethinking Modernity in Iran* (2004), which examined the lineage of Iranian democratic and modernist thought.\n\nMilani has been an outspoken critic of the Islamic Republic throughout his exile career. Through the [Hoover Institution — Iran Democracy Project](/orgs/hoover-institution-iran-democracy-project), which he co-directs, he has produced extensive research on prospects for democratic transition and the state of civil society inside Iran. He is a regular commentator in US media and policy circles on Iranian affairs.",
+  "expertise": [
+    "modern Iranian history",
+    "political biography",
+    "Iranian intellectual history",
+    "democratic transitions",
+    "Pahlavi dynasty"
+  ],
+  "sources": [
+    {
+      "url": "https://fsi.stanford.edu/people/abbas-milani",
+      "title": "Abbas Milani — Stanford Freeman Spogli Institute",
+      "date": "2024-01-01",
+      "publisher": "Stanford University"
+    },
+    {
+      "url": "https://www.hoover.org/profiles/abbas-milani",
+      "title": "Abbas Milani — Hoover Institution",
+      "date": "2024-01-01",
+      "publisher": "Hoover Institution"
+    }
+  ],
+  "tags": ["in-exile", "political-prisoner"],
+  "photo": null,
+  "editorial_notes": "Born 1949 Tehran. Imprisoned under Shah and IRI. At Stanford since ~2000s. Moghadam Director of Iranian Studies. Co-director Iran Democracy Project. Major works: Eminent Persians (2008), The Shah (2011). Alive as of April 2026."
+}

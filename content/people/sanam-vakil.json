@@ -1,0 +1,39 @@
+{
+  "entity_id": "sanam-vakil",
+  "slug": "sanam-vakil",
+  "name_en": "Sanam Vakil",
+  "name_fa": "صنم وکیل",
+  "has_native_fa_name": true,
+  "born": "1975",
+  "birthplace": "United States",
+  "role": "Director of the Middle East and North Africa Programme at Chatham House; British-Iranian scholar on Iranian politics",
+  "faction": "opposition",
+  "irgc_member": false,
+  "bio": "Sanam Vakil is a British-Iranian academic and policy analyst who serves as Director of the Middle East and North Africa Programme at [Chatham House](/orgs/chatham-house) (the Royal Institute of International Affairs) in London. She is one of the most prominent Iran scholars at a major European think tank. She is the author of *Women and Politics in the Islamic Republic of Iran: Action and Reaction* (2011), a study of Iranian women's political participation and their negotiation of space within the Islamic Republic's structures.\n\nVakil regularly advises governments and international organisations on Iranian politics, US-Iran negotiations, and regional security. She has testified before the European Parliament and the UK Parliament on Iran-related policy questions. Her analysis tends toward understanding Iranian political actors within their structural context rather than advocacy positions, and she has commented extensively on nuclear negotiations, internal Iranian factional dynamics, and the impact of sanctions on Iranian society.",
+  "expertise": [
+    "Iranian politics",
+    "gender and politics in Iran",
+    "Middle East security",
+    "nuclear negotiations"
+  ],
+  "tags": [
+    "diplomacy",
+    "jcpoa",
+    "woman-life-freedom"
+  ],
+  "sources": [
+    {
+      "url": "https://www.chathamhouse.org/about-us/our-people/sanam-vakil",
+      "title": "Sanam Vakil — Chatham House",
+      "date": "2024-01-01",
+      "publisher": "Chatham House"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sanam_Vakil",
+      "title": "Sanam Vakil — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "Director of MENA programme at Chatham House. Author of Women and Politics in the Islamic Republic of Iran."
+}

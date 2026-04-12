@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-shadmani-subject-of-israeli-strikes-iran-june-2025",
+  "from_entity": "ali-shadmani",
+  "to_entity": "israeli-strikes-iran-june-2025",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2025-06-17",
+  "date_to": "2025-06-17",
+  "evidence": [
+    {
+      "source_url": "https://english.alarabiya.net/News/middle-east/2025/06/25/irgc-commander-ali-shadmani-dies-of-injuries-from-israeli-attacks-iran-confirms",
+      "source_title": "Senior IRGC commander dies of injuries from Israeli attacks, Iran confirms",
+      "source_date": "2025-06-25",
+      "description": "Shadmani was struck in an Israeli airstrike on 17 June 2025 and died of his injuries, confirmed by Iran on 25 June 2025."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

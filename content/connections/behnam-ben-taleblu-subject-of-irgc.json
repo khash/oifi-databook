@@ -1,0 +1,21 @@
+{
+  "entity_id": "behnam-ben-taleblu-subject-of-irgc",
+  "from_entity": "behnam-ben-taleblu",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.fdd.org/team/behnam-ben-taleblu/",
+      "source_title": "Behnam Ben Taleblu — Foundation for Defense of Democracies",
+      "source_date": "2024-01-01",
+      "description": "Behnam Ben Taleblu tracks IRGC proxy networks and capabilities as part of his Iran Program work at FDD."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

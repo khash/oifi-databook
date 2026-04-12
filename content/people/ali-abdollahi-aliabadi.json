@@ -1,0 +1,38 @@
+{
+  "entity_id": "ali-abdollahi-aliabadi",
+  "slug": "ali-abdollahi-aliabadi",
+  "name_en": "Ali Abdollahi Aliabadi",
+  "name_fa": "علی عبداللهی علی‌آبادی",
+  "has_native_fa_name": true,
+  "aliases": ["Ali Abdollahi"],
+  "born": 1959,
+  "birthplace": "Iran",
+  "role": "Commander, Khatam al-Anbiya Central Headquarters",
+  "faction": "hardliner",
+  "bio": "Major General Ali Abdollahi Aliabadi is the commander of the [Khatam al-Anbiya Central Headquarters](/orgs/khatam-al-anbiya-central-headquarters), appointed in September 2025 following the deaths of predecessors [Gholam Ali Rashid](/people/gholam-ali-rashid) and [Ali Shadmani](/people/ali-shadmani) during the Twelve-Day War. He began his career in the Revolutionary Committees after the [1979 Islamic Revolution](/events/iranian-revolution-1979) before joining the [IRGC](/orgs/islamic-revolutionary-guard-corps). He held senior posts including command of the IRGC's 16th Qods Division of Gilan, Chief of Staff of the IRGC Ground Forces, Deputy Commander of the IRGC Air Force, and successive positions as deputy and acting commander of Iran's [Law Enforcement Force](/orgs/law-enforcement-command). He was promoted to Major General upon assuming command of KCHQ. Israel's Mossad publicly revealed his identity after Iran attempted to conceal it. Abdollahi was sanctioned by the US Treasury's OFAC in 2019. He is subject to EU and Swiss sanctions as well.",
+  "irgc_member": true,
+  "expertise": ["military command", "ground forces", "law enforcement"],
+  "tags": ["military", "sanctions"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ali_Abdollahi_Aliabadi",
+      "title": "Ali Abdollahi Aliabadi — Wikipedia",
+      "date": "2025-09-04",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://iranwire.com/en/news/144584-irgc-appoints-ali-abdollahi-as-new-commander-of-khatam-al-anbiya-headquarters/",
+      "title": "IRGC Appoints Ali Abdollahi as New Commander of Khatam al-Anbiya Headquarters",
+      "date": "2025-09-04",
+      "publisher": "IranWire"
+    },
+    {
+      "url": "https://www.opensanctions.org/entities/Q25858199/",
+      "title": "Ali Abdollahi Aliabadi — OpenSanctions",
+      "date": "2025-09-04",
+      "publisher": "OpenSanctions"
+    }
+  ],
+  "editorial_notes": "Appointed KCHQ commander September 2025 (IRGC-affiliated Tasnim confirmed 4 September 2025). Identity was briefly hidden by Iran; revealed by Israeli Mossad on X. Sanctioned by OFAC 2019, also under EU and Swiss sanctions."
+}

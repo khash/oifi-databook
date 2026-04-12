@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-shadmani-participated-in-iran-iraq-war",
+  "from_entity": "ali-shadmani",
+  "to_entity": "iran-iraq-war",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1980",
+  "date_to": "1988",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Shadmani",
+      "source_title": "Ali Shadmani — Wikipedia",
+      "source_date": "2025-06-17",
+      "description": "Veteran of the Iran–Iraq War; commanded the 32nd Corps of Ansar al-Hussein during that conflict."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

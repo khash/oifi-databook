@@ -1,0 +1,17 @@
+{
+  "entity_id": "nazila-fathi-participated-in-green-movement-protests-2009",
+  "from_entity": "nazila-fathi",
+  "to_entity": "green-movement-protests-2009",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "notes": "Fathi covered the 2009 Green Movement protests as the New York Times Tehran bureau correspondent and was forced to flee Iran due to threats.",
+  "evidence": [
+    {
+      "description": "Nazila Fathi, The Lonely War (2014), Basic Books — documents her coverage of and flight from Iran during the 2009 crackdown.",
+      "url": "https://www.basicbooks.com/titles/nazila-fathi/the-lonely-war/9780465064021/",
+      "date": "2014-01-01"
+    }
+  ],
+  "symmetric": false,
+  "family_subtype": null
+}

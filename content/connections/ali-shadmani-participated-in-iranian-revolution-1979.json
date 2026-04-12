@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-shadmani-participated-in-iranian-revolution-1979",
+  "from_entity": "ali-shadmani",
+  "to_entity": "iranian-revolution-1979",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1979",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Shadmani",
+      "source_title": "Ali Shadmani — Wikipedia",
+      "source_date": "2025-06-17",
+      "description": "Joined the IRGC in 1979 following the Islamic Revolution."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

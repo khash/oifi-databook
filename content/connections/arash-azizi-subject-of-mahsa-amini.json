@@ -1,0 +1,21 @@
+{
+  "entity_id": "arash-azizi-subject-of-mahsa-amini",
+  "from_entity": "arash-azizi",
+  "to_entity": "mahsa-amini-protests-2022",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2022",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.oneworld-publications.com/trade/what-iranians-want.html",
+      "source_title": "What Iranians Want: Women, Life, Freedom",
+      "source_date": "2023-01-01",
+      "description": "Arash Azizi's book What Iranians Want (2023) is an account of the 2022 Mahsa Amini protests and their significance."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

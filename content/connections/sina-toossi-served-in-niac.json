@@ -1,0 +1,17 @@
+{
+  "entity_id": "sina-toossi-served-in-niac",
+  "from_entity": "sina-toossi",
+  "to_entity": "niac",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "notes": "Toossi was previously a research analyst at the National Iranian American Council (NIAC).",
+  "evidence": [
+    {
+      "description": "Toossi's biography references prior NIAC research analyst role.",
+      "url": "https://internationalpolicy.org/people/sina-toossi/",
+      "date": "2021-01-01"
+    }
+  ],
+  "symmetric": false,
+  "family_subtype": null
+}

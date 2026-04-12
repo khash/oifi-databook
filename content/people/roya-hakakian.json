@@ -1,0 +1,33 @@
+{
+  "entity_id": "roya-hakakian",
+  "slug": "roya-hakakian",
+  "name_en": "Roya Hakakian",
+  "name_fa": "رویا حقیقیان",
+  "has_native_fa_name": true,
+  "born": "1966",
+  "birthplace": "Tehran, Iran",
+  "role": "Iranian-American-Jewish author and journalist; founding board member of the Iran Human Rights Documentation Center",
+  "faction": "opposition",
+  "irgc_member": false,
+  "bio": "Roya Hakakian (born 1966) is an Iranian-American Jewish author, poet, and journalist who fled Iran in 1985. She is the author of *Journey from the Land of No* (2004), a memoir of growing up Jewish in post-revolutionary Iran, and *Assassins of the Turquoise Palace* (2011), a detailed account of the [Mykonos restaurant assassination](/events/mykonos-restaurant-assassination-1992) in which [Sadegh Sharafkandi](/people/sadegh-sharafkandi) and three other Kurdish opposition leaders were killed by Iranian agents in Berlin in 1992.\n\nHakakian is a founding board member of the [Iran Human Rights Documentation Center](/orgs/iran-human-rights-documentation-center), which she helped establish in 2004 to document abuses by the Islamic Republic. She has contributed to major American publications including the New York Times, Time, and NPR, and has testified before the U.S. Congress on Iranian human rights issues. Her work as a documentarian and journalist has placed her at the intersection of the Iranian diaspora's literary, human rights, and political advocacy communities.",
+  "expertise": [
+    "Iranian human rights",
+    "Iranian-Jewish diaspora",
+    "state-sponsored terrorism",
+    "press freedom"
+  ],
+  "tags": [
+    "in-exile",
+    "human-rights",
+    "chain-murders"
+  ],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Roya_Hakakian",
+      "title": "Roya Hakakian — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "Author of Assassins of the Turquoise Palace — directly links to Mykonos event. Jewish Iranian-American. Founding board member IHRDC 2004."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-marandi-named-in-iran-international",
+  "from_entity": "mohammad-marandi",
+  "to_entity": "iran-international",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://iranwire.com/en/features/67965",
+      "source_title": "Seyyed Mohammad Marandi: Iran's Chief Propagandist in English",
+      "source_date": "2022-01-01",
+      "description": "Iran International has characterised Marandi as a regime 'mouthpiece.'"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

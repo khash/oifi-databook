@@ -1,0 +1,21 @@
+{
+  "entity_id": "ervand-abrahamian-subject-of-mohammad-mossadegh",
+  "from_entity": "ervand-abrahamian",
+  "to_entity": "mohammad-mossadegh",
+  "type": "published",
+  "confidence": "confirmed",
+  "date_from": "2013",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://thenewpress.com/books/coup",
+      "source_title": "The Coup — The New Press",
+      "source_date": "2013-01-01",
+      "description": "Abrahamian's The Coup (2013) centred on the overthrow of Prime Minister Mohammad Mosaddegh and the foreign intelligence role in engineering it."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

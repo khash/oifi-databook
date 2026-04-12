@@ -1,0 +1,21 @@
+{
+  "entity_id": "gholam-ali-rashid-subject-of-savak",
+  "from_entity": "gholam-ali-rashid",
+  "to_entity": "savak",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "1978",
+  "date_to": "1979",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Gholam_Ali_Rashid",
+      "source_title": "Gholam Ali Rashid — Wikipedia",
+      "source_date": "2025-06-13",
+      "description": "Imprisoned twice by SAVAK before the 1979 Islamic Revolution."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

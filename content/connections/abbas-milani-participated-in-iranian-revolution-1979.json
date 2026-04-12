@@ -1,0 +1,21 @@
+{
+  "entity_id": "abbas-milani-participated-in-iranian-revolution-1979",
+  "from_entity": "abbas-milani",
+  "to_entity": "iranian-revolution-1979",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://fsi.stanford.edu/people/abbas-milani",
+      "source_title": "Abbas Milani — Stanford Freeman Spogli Institute",
+      "source_date": "2024-01-01",
+      "description": "Milani returned to Iran around the 1979 Revolution and was subsequently imprisoned under the Islamic Republic."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

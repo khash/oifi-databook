@@ -1,0 +1,17 @@
+{
+  "entity_id": "sanam-vakil-led-chatham-house",
+  "from_entity": "sanam-vakil",
+  "to_entity": "chatham-house",
+  "type": "led",
+  "confidence": "confirmed",
+  "notes": "Vakil serves as Director of the Middle East and North Africa Programme at Chatham House.",
+  "evidence": [
+    {
+      "description": "Chatham House profile: Sanam Vakil, Director, Middle East and North Africa Programme.",
+      "url": "https://www.chathamhouse.org/about-us/our-people/sanam-vakil",
+      "date": "2023-01-01"
+    }
+  ],
+  "symmetric": false,
+  "family_subtype": null
+}

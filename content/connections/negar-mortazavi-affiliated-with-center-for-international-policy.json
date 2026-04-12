@@ -1,0 +1,17 @@
+{
+  "entity_id": "negar-mortazavi-affiliated-with-center-for-international-policy",
+  "from_entity": "negar-mortazavi",
+  "to_entity": "center-for-international-policy",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "notes": "Mortazavi is a senior fellow at the Center for International Policy's Iran program.",
+  "evidence": [
+    {
+      "description": "Center for International Policy staff page listing Negar Mortazavi as senior fellow.",
+      "url": "https://internationalpolicy.org/people/negar-mortazavi/",
+      "date": "2023-01-01"
+    }
+  ],
+  "symmetric": false,
+  "family_subtype": null
+}

@@ -1,0 +1,26 @@
+{
+  "entity_id": "kayhan-barzegar",
+  "slug": "kayhan-barzegar",
+  "name_en": "Kayhan Barzegar",
+  "name_fa": "کیهان برزگر",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Assistant Professor, Islamic Azad University; Senior Research Fellow, Center for Middle East Strategic Studies, Tehran",
+  "faction": "conservative",
+  "bio": "Kayhan Barzegar is an assistant professor at [Islamic Azad University](/orgs/islamic-azad-university) and a senior research fellow at the Center for Middle East Strategic Studies in Tehran — an institution that articulates and disseminates the Islamic Republic's strategic worldview for international audiences. He has also held a fellowship at the Belfer Center for Science and International Affairs at Harvard University.\n\nBarzegar's work packages regime foreign policy rationales in the language of academic international relations. His output on Iranian strategic interests, nuclear policy, and regional security consistently reflects and legitimises Islamic Republic positions while gaining credibility through association with Western academic institutions.\n\nHis Belfer Center fellowship allowed him to engage with US policy circles directly. This combination — Tehran-based institutional affiliation with the Centre for Middle East Strategic Studies, plus Harvard access — makes him an effective articulator of regime positions in Western policy and academic contexts.",
+  "irgc_member": false,
+  "expertise": [
+    "Iranian foreign policy",
+    "nuclear strategy",
+    "Middle East security"
+  ],
+  "sources": [],
+  "tags": [
+    "diplomacy",
+    "nuclear"
+  ],
+  "photo": null,
+  "editorial_notes": "Senior fellow at Center for Middle East Strategic Studies (Tehran state-adjacent). Belfer Center fellow. Asst Prof Islamic Azad University. Packages regime foreign policy in academic language."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-marandi-affiliated-with-irgc",
+  "from_entity": "mohammad-marandi",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.thejc.com/news/world/irans-nuclear-negotiator-photographed-in-irgc-uniform-vqvimqoh",
+      "source_title": "Iran's nuclear negotiator photographed in IRGC uniform",
+      "source_date": "2023-01-01",
+      "description": "The Jewish Chronicle published a photograph of Mohammad Marandi wearing IRGC military uniform."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

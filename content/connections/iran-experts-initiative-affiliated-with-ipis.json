@@ -1,0 +1,21 @@
+{
+  "entity_id": "iran-experts-initiative-affiliated-with-ipis",
+  "from_entity": "iran-experts-initiative",
+  "to_entity": "ipis",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "2014",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.semafor.com/article/09/25/2023/inside-irans-influence-operation",
+      "source_title": "Inside Iran's Influence Operation",
+      "source_date": "2023-09-25",
+      "description": "IPIS was the operational hub for the Iran Experts Initiative, described in internal emails as 'one of the fundamental initiatives of the IPIS.' IPIS director Mostafa Zahrani oversaw the network and coordinated with participants."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

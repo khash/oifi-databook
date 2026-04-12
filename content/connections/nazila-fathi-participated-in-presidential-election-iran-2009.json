@@ -1,0 +1,17 @@
+{
+  "entity_id": "nazila-fathi-participated-in-presidential-election-iran-2009",
+  "from_entity": "nazila-fathi",
+  "to_entity": "presidential-election-iran-2009",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "notes": "Fathi covered the disputed 2009 Iranian presidential election as the New York Times Tehran bureau correspondent before being forced to flee Iran.",
+  "evidence": [
+    {
+      "description": "Nazila Fathi, The Lonely War (2014), Basic Books — documents her coverage of the 2009 election and its aftermath.",
+      "url": "https://www.basicbooks.com/titles/nazila-fathi/the-lonely-war/9780465064021/",
+      "date": "2014-01-01"
+    }
+  ],
+  "symmetric": false,
+  "family_subtype": null
+}

@@ -1,0 +1,17 @@
+{
+  "entity_id": "negar-mortazavi-participated-in-green-movement-protests-2009",
+  "from_entity": "negar-mortazavi",
+  "to_entity": "green-movement-protests-2009",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "notes": "Mortazavi covered the 2009 Green Movement protests and was subsequently forced into exile.",
+  "evidence": [
+    {
+      "description": "Mortazavi's own accounts of her coverage of the 2009 protests and subsequent exile referenced in her journalistic work.",
+      "url": "https://theiranpodcast.com/about/",
+      "date": "2020-01-01"
+    }
+  ],
+  "symmetric": false,
+  "family_subtype": null
+}

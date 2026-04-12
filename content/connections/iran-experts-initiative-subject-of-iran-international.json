@@ -1,0 +1,21 @@
+{
+  "entity_id": "iran-experts-initiative-subject-of-iran-international",
+  "from_entity": "iran-experts-initiative",
+  "to_entity": "iran-international",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2023-09-25",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202309258800",
+      "source_title": "Iran International investigative series on the Iran Experts Initiative",
+      "source_date": "2023-09-25",
+      "description": "Iran International obtained and published thousands of leaked Iranian Foreign Ministry emails revealing the IEI influence operation."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

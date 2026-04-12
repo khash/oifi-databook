@@ -1,0 +1,34 @@
+{
+  "entity_id": "mnar-muhawesh-adley",
+  "slug": "mnar-muhawesh-adley",
+  "name_en": "Mnar Muhawesh Adley",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "born": null,
+  "birthplace": "United States",
+  "role": "Founder and CEO of MintPress News; studied in Qom under Grand Ayatollah Jafar Sobhani",
+  "faction": null,
+  "irgc_member": false,
+  "bio": "Mnar Muhawesh Adley is the founder and CEO of [MintPress News](/orgs/mintpress-news), a Minneapolis-based online outlet she founded in 2011. MintPress presents itself as an independent progressive news organization, but has been consistently identified by media analysts, BuzzFeed News, and NewsGuard as publishing content sympathetic to the Islamic Republic of Iran, the Syrian government of Bashar al-Assad, and hostile to U.S. and Gulf state foreign policy.\n\nAdley has studied in Qom under Grand Ayatollah Jafar Sobhani, a leading Iranian Shia theologian closely associated with the Islamic Republic's ideological establishment. This study connection is significant context for understanding MintPress's editorial orientation, which has functioned as a platform laundering pro-Iran narratives into Western alternative media. MintPress was one of several English-language outlets — alongside [Press TV](/orgs/press-tv) — through which regime-aligned framing on sanctions, proxy conflicts, and Iranian dissident figures was disseminated to Western audiences. [Catherine Perez-Shakdam](/people/catherine-perez-shakdam) contributed to MintPress between 2014 and 2017.",
+  "expertise": [
+    "alternative media",
+    "pro-Iran media ecosystem",
+    "US foreign policy commentary"
+  ],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://www.buzzfeednews.com/article/sheerafrenkel/mintpress-news-iran-story",
+      "title": "BuzzFeed News — MintPress editorial orientation analysis",
+      "date": "2013-09-01",
+      "publisher": "BuzzFeed News"
+    },
+    {
+      "url": "https://www.mintpressnews.com/about",
+      "title": "About MintPress News",
+      "date": "2024-01-01",
+      "publisher": "MintPress News"
+    }
+  ],
+  "editorial_notes": "Studied in Qom under Grand Ayatollah Jafar Sobhani. Faction set to null — she operates as nominally independent but with clear pro-Iran editorial slant. Present with evidence and framing; avoid unsupported characterizations."
+}

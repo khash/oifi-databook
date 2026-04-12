@@ -1,0 +1,21 @@
+{
+  "entity_id": "rouzbeh-parsi-coordinated-with-iran-experts-initiative",
+  "from_entity": "rouzbeh-parsi",
+  "to_entity": "iran-experts-initiative",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "2014",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.semafor.com/article/09/25/2023/inside-irans-influence-operation",
+      "source_title": "Inside Iran's Influence Operation",
+      "source_date": "2023-09-25",
+      "description": "Rouzbeh Parsi was identified in leaked Foreign Ministry emails as a participant in the Iran Experts Initiative."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "arash-azizi-published-shadow-commander",
+  "from_entity": "arash-azizi",
+  "to_entity": "qasem-soleimani",
+  "type": "published",
+  "confidence": "confirmed",
+  "date_from": "2020",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.oneworld-publications.com/trade/the-shadow-commander.html",
+      "source_title": "The Shadow Commander: Soleimani, the US, and Iran's Global Ambitions",
+      "source_date": "2020-01-01",
+      "description": "Arash Azizi authored The Shadow Commander, a biography of Qasem Soleimani published in 2020."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

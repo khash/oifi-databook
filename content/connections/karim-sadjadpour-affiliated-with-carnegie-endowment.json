@@ -1,0 +1,21 @@
+{
+  "entity_id": "karim-sadjadpour-affiliated-with-carnegie-endowment",
+  "from_entity": "karim-sadjadpour",
+  "to_entity": "carnegie-endowment-for-international-peace",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://carnegieendowment.org/experts/karim-sadjadpour",
+      "source_title": "Karim Sadjadpour — Carnegie Endowment",
+      "source_date": "2024-01-01",
+      "description": "Sadjadpour is listed as a senior fellow at Carnegie Endowment for International Peace."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

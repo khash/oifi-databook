@@ -1,0 +1,21 @@
+{
+  "entity_id": "narges-bajoghli-affiliated-with-basij-research",
+  "from_entity": "narges-bajoghli",
+  "to_entity": "basij",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://sais.jhu.edu/users/nbajoghli",
+      "source_title": "Narges Bajoghli — Johns Hopkins SAIS",
+      "source_date": "2024-01-01",
+      "description": "Narges Bajoghli conducted fieldwork with Basij and IRGC cultural producers; her book Iran Reframed documents this research."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "This connection records that Basij is the subject of Bajoghli's primary fieldwork and book Iran Reframed (2019)."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-marandi-named-in-iranwire",
+  "from_entity": "mohammad-marandi",
+  "to_entity": "iranwire",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2022-01-01",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://iranwire.com/en/features/67965",
+      "source_title": "Seyyed Mohammad Marandi: Iran's Chief Propagandist in English",
+      "source_date": "2022-01-01",
+      "description": "IranWire profiled Marandi and described him as 'Iran's chief propagandist in English.'"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

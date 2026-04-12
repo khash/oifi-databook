@@ -1,0 +1,21 @@
+{
+  "entity_id": "ray-takeyh-affiliated-with-council-on-foreign-relations",
+  "from_entity": "ray-takeyh",
+  "to_entity": "council-on-foreign-relations",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.cfr.org/expert/ray-takeyh",
+      "source_title": "Ray Takeyh — Council on Foreign Relations",
+      "source_date": "2024-01-01",
+      "description": "Takeyh is a senior fellow for Middle East studies at the Council on Foreign Relations."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

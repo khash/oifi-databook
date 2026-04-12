@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-abdollahi-aliabadi-reports-to-ali-shadmani",
+  "from_entity": "ali-abdollahi-aliabadi",
+  "to_entity": "ali-shadmani",
+  "type": "reports-to",
+  "confidence": "alleged",
+  "date_from": "2025-06-13",
+  "date_to": "2025-06-17",
+  "evidence": [
+    {
+      "source_url": "https://iranwire.com/en/news/144584-irgc-appoints-ali-abdollahi-as-new-commander-of-khatam-al-anbiya-headquarters/",
+      "source_title": "IRGC Appoints Ali Abdollahi as New Commander of Khatam al-Anbiya Headquarters",
+      "source_date": "2025-09-04",
+      "description": "Aliabadi succeeded Shadmani as KCHQ commander after Shadmani was killed, suggesting Shadmani held command authority over the KCHQ structure during his brief tenure."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Aliabadi's exact position during Shadmani's brief command is uncertain; he was appointed as full commander only in September 2025."
+}

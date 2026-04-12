@@ -1,0 +1,21 @@
+{
+  "entity_id": "iran-experts-initiative-subject-of-semafor",
+  "from_entity": "iran-experts-initiative",
+  "to_entity": "semafor",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2023-09-25",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.semafor.com/article/09/25/2023/inside-irans-influence-operation",
+      "source_title": "Inside Iran's Influence Operation",
+      "source_date": "2023-09-25",
+      "description": "Semafor published the exposé of the Iran Experts Initiative on September 25, 2023, co-reporting with Iran International."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

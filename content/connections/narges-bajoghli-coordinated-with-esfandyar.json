@@ -1,0 +1,21 @@
+{
+  "entity_id": "narges-bajoghli-coordinated-with-esfandyar",
+  "from_entity": "narges-bajoghli",
+  "to_entity": "esfandyar-batmanghelidj",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "2023",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.bourseandbazaar.com/how-sanctions-work",
+      "source_title": "How Sanctions Work: Iran and the Impact of Economic Warfare",
+      "source_date": "2023-01-01",
+      "description": "Narges Bajoghli and Esfandyar Batmanghelidj co-authored How Sanctions Work (2023)."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

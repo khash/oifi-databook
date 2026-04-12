@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-abdollahi-aliabadi-participated-in-iranian-revolution-1979",
+  "from_entity": "ali-abdollahi-aliabadi",
+  "to_entity": "iranian-revolution-1979",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1979",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Abdollahi_Aliabadi",
+      "source_title": "Ali Abdollahi Aliabadi — Wikipedia",
+      "source_date": "2025-09-04",
+      "description": "Began his career in the Revolutionary Committees after the 1979 Islamic Revolution."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

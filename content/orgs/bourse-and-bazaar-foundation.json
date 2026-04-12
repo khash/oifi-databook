@@ -1,0 +1,23 @@
+{
+  "entity_id": "bourse-and-bazaar-foundation",
+  "slug": "bourse-and-bazaar-foundation",
+  "name_en": "Bourse & Bazaar Foundation",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 2016,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "London-based independent think tank focused on Iran's economy, business environment, and the impact of international sanctions. Founded by [Esfandyar Batmanghelidj](/people/esfandyar-batmanghelidj). Publishes research and hosts events bridging Western policymakers with Iranian civil society and business voices.",
+  "faction": null,
+  "sources": [
+    {
+      "url": "https://www.bourseandbazaar.com/about",
+      "title": "About Bourse & Bazaar Foundation",
+      "date": "2024-01-01",
+      "publisher": "Bourse & Bazaar Foundation"
+    }
+  ],
+  "tags": [],
+  "editorial_notes": ""
+}

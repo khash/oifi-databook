@@ -1,0 +1,17 @@
+{
+  "entity_id": "mnar-muhawesh-adley-affiliated-with-press-tv",
+  "from_entity": "mnar-muhawesh-adley",
+  "to_entity": "press-tv",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "notes": "Muhawesh Adley has appeared on Press TV (Iranian state broadcaster) and MintPress News has been cited for amplifying narratives aligned with Iranian state media.",
+  "evidence": [
+    {
+      "description": "Media Bias/Fact Check and various press reports documenting MintPress News's alignment with Press TV narratives.",
+      "url": "https://mediabiasfactcheck.com/mintpress-news/",
+      "date": "2020-01-01"
+    }
+  ],
+  "symmetric": false,
+  "family_subtype": null
+}

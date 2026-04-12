@@ -1,0 +1,34 @@
+{
+  "entity_id": "behnam-ben-taleblu",
+  "slug": "behnam-ben-taleblu",
+  "name_en": "Behnam Ben Taleblu",
+  "name_fa": "بهنام بن طالبلو",
+  "has_native_fa_name": false,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Senior Director, Iran Program, Foundation for Defense of Democracies",
+  "faction": "opposition",
+  "bio": "Behnam Ben Taleblu is senior director of the Iran Program at the [Foundation for Defense of Democracies](/orgs/foundation-for-defense-of-democracies) in Washington. An Iranian-American analyst, he specialises in Iranian ballistic missiles, nuclear weapons-related activities, the [IRGC](/orgs/islamic-revolutionary-guard-corps) and its proxy networks, and US sanctions policy. He is a frequent witness before the US Congress, providing expert testimony on Iran's military capabilities and the effectiveness of maximum-pressure sanctions. His analysis is broadly hawkish, advocating for robust sanctions enforcement and firmness on the nuclear file. He contributes to FDD's Long War Journal and is widely cited in mainstream US media.",
+  "irgc_member": false,
+  "expertise": [
+    "Iranian ballistic missiles",
+    "Iran sanctions",
+    "IRGC proxy networks",
+    "nuclear weapons"
+  ],
+  "sources": [
+    {
+      "url": "https://www.fdd.org/team/behnam-ben-taleblu/",
+      "title": "Behnam Ben Taleblu — Foundation for Defense of Democracies",
+      "date": "2024-01-01",
+      "publisher": "Foundation for Defense of Democracies"
+    }
+  ],
+  "tags": [
+    "sanctions",
+    "nuclear"
+  ],
+  "photo": null,
+  "editorial_notes": "Iranian-American. FDD senior director, Iran Program. Frequent congressional witness. Hawkish/maximum-pressure orientation."
+}

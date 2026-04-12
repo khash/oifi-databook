@@ -1,0 +1,21 @@
+{
+  "entity_id": "dina-esfandiary-coordinated-with-iran-experts-initiative",
+  "from_entity": "dina-esfandiary",
+  "to_entity": "iran-experts-initiative",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "2014",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.semafor.com/article/09/25/2023/inside-irans-influence-operation",
+      "source_title": "Inside Iran's Influence Operation",
+      "source_date": "2023-09-25",
+      "description": "Esfandiary was described as a 'core group' member of the IEI in a March 2014 email from Khatibzadeh. She met Khatibzadeh in Prague in March 2014 and attended the inaugural IEI meeting in Vienna in May 2014."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

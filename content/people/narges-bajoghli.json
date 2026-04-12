@@ -1,0 +1,31 @@
+{
+  "entity_id": "narges-bajoghli",
+  "slug": "narges-bajoghli",
+  "name_en": "Narges Bajoghli",
+  "name_fa": "نرگس باجوقلی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Associate Professor, Johns Hopkins SAIS",
+  "faction": "opposition",
+  "bio": "Narges Bajoghli is an associate professor at Johns Hopkins School of Advanced International Studies (SAIS). She is a political anthropologist whose fieldwork inside Iran examined the cultural and media production of [Basij](/orgs/basij) and [IRGC](/orgs/islamic-revolutionary-guard-corps) loyalists. Her book *Iran Reframed: Anxieties of Power in the Islamic Republic* (2019) documents how the regime's core supporters understand and project their own legitimacy, based on embedded access to IRGC and Basij cultural producers — an unusual level of institutional access that is itself a documented fact of her methodology.\n\nShe is co-author of *How Sanctions Work: Iran and the Impact of Economic Warfare* (2023, Stanford University Press) with [Vali Nasr](/people/vali-nasr), Djavad Salehi-Isfahani, and [Esfandyar Batmanghelidj](/people/esfandyar-batmanghelidj). One of the original co-authors listed in earlier versions of the project was [Ali Vaez](/people/ali-vaez) — subsequently identified by Semafor (September 2023) and Iran International as a participant in the Iran Experts Initiative (IEI), a covert Iranian Foreign Ministry influence operation. The book's central argument — that maximum-pressure sanctions strengthen the regime and harm the civilian population — aligns with the Iranian government's preferred framing on sanctions. The co-authorship with an IEI-documented figure on this specific topic is editorially relevant context, even absent evidence of direct coordination on Bajoghli's part.",
+  "irgc_member": false,
+  "expertise": [
+    "Basij",
+    "IRGC cultural production",
+    "Iranian media",
+    "sanctions impact"
+  ],
+  "sources": [
+    {
+      "url": "https://sais.jhu.edu/users/nbajoghli",
+      "title": "Narges Bajoghli — Johns Hopkins SAIS",
+      "date": "2024-01-01",
+      "publisher": "Johns Hopkins SAIS"
+    }
+  ],
+  "tags": [],
+  "photo": null,
+  "editorial_notes": "Fieldwork inside Iran with Basij/IRGC cultural producers. Author of Iran Reframed (2019). Co-author of How Sanctions Work (2023). SAIS associate professor."
+}

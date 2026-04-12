@@ -1,0 +1,17 @@
+{
+  "entity_id": "mnar-muhawesh-adley-coordinated-with-catherine-perez-shakdam",
+  "from_entity": "mnar-muhawesh-adley",
+  "to_entity": "catherine-perez-shakdam",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "notes": "Perez-Shakdam was a regular contributor to MintPress News from approximately 2014 to 2017, publishing pro-Iranian-regime content under Muhawesh Adley's editorship.",
+  "evidence": [
+    {
+      "description": "MintPress News archives show Catherine Perez-Shakdam as a regular contributor 2014–2017.",
+      "url": "https://www.mintpressnews.com/author/catherine-shakdam/",
+      "date": "2017-01-01"
+    }
+  ],
+  "symmetric": false,
+  "family_subtype": null
+}

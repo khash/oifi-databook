@@ -1,0 +1,21 @@
+{
+  "entity_id": "roya-hakakian-founded-iran-human-rights-documentation-center",
+  "from_entity": "roya-hakakian",
+  "to_entity": "iran-human-rights-documentation-center",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "2004",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Roya_Hakakian",
+      "source_title": "Roya Hakakian — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Hakakian is a founding board member of the Iran Human Rights Documentation Center, established in 2004."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Founding board member, 2004."
+}

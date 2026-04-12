@@ -1,0 +1,21 @@
+{
+  "entity_id": "mehdi-khalaji-subject-of-basij",
+  "from_entity": "mehdi-khalaji",
+  "to_entity": "basij",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.washingtoninstitute.org/experts/mehdi-khalaji",
+      "source_title": "Mehdi Khalaji — Washington Institute for Near East Policy",
+      "source_date": "2024-01-01",
+      "description": "Mehdi Khalaji writes on the Basij as part of his analysis of regime coercive institutions and post-revolutionary Islamic thought."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

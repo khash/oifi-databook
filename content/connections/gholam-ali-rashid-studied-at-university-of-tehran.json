@@ -1,0 +1,21 @@
+{
+  "entity_id": "gholam-ali-rashid-studied-at-university-of-tehran",
+  "from_entity": "gholam-ali-rashid",
+  "to_entity": "university-of-tehran",
+  "type": "studied-at",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Gholam_Ali_Rashid",
+      "source_title": "Gholam Ali Rashid — Wikipedia",
+      "source_date": "2025-06-13",
+      "description": "Earned a master's degree in political geography from the University of Tehran."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

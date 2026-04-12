@@ -1,0 +1,38 @@
+{
+  "entity_id": "gholam-ali-rashid",
+  "slug": "gholam-ali-rashid",
+  "name_en": "Gholam Ali Rashid",
+  "name_fa": "غلامعلی رشید",
+  "has_native_fa_name": true,
+  "aliases": ["Gholamali Rashid"],
+  "born": 1953,
+  "birthplace": "Iran",
+  "role": "Commander, Khatam al-Anbiya Central Headquarters",
+  "faction": "hardliner",
+  "bio": "Major General Gholam Ali Rashid was a senior [IRGC](/orgs/islamic-revolutionary-guard-corps) commander who served as commander of the [Khatam al-Anbiya Central Headquarters](/orgs/khatam-al-anbiya-central-headquarters), the highest joint operational command of Iran's armed forces. He simultaneously held the position of deputy commander-in-chief of the Iranian armed forces. A veteran of the [Iran–Iraq War](/events/iran-iraq-war), Rashid participated in all major IRGC operations during that conflict. He held a master's degree in political geography from the [University of Tehran](/orgs/university-of-tehran) and a doctorate in political geography from Tarbiat Modares University. His political activism began in 1978 against the Pahlavi regime; he was imprisoned twice by [SAVAK](/orgs/savak) before the [1979 Islamic Revolution](/events/iranian-revolution-1979). Rashid was killed on 13 June 2025 in the [Israeli strikes on Iran](/events/israeli-strikes-iran-june-2025) that opened the Twelve-Day War. He was succeeded briefly by [Ali Shadmani](/people/ali-shadmani).",
+  "irgc_member": true,
+  "expertise": ["military strategy", "joint operations", "political geography"],
+  "tags": ["military", "killed-in-action", "deceased"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Gholam_Ali_Rashid",
+      "title": "Gholam Ali Rashid — Wikipedia",
+      "date": "2025-06-13",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://iranwire.com/en/politics/142046-profile-gholamali-rashid-irans-former-war-commander/",
+      "title": "Profile: Gholamali Rashid, Iran's Former War Commander",
+      "date": "2025-06-13",
+      "publisher": "IranWire"
+    },
+    {
+      "url": "https://www.longwarjournal.org/archives/2025/06/israeli-airstrikes-eliminate-senior-iranian-military-officials.php",
+      "title": "Israeli airstrikes eliminate senior Iranian military officials",
+      "date": "2025-06-13",
+      "publisher": "FDD's Long War Journal"
+    }
+  ],
+  "editorial_notes": "Killed 13 June 2025 in Operation Rising Lion Israeli strikes. Had commanded KCHQ since 2015. Born year 1953 from Wikipedia."
+}

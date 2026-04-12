@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-jafar-asadi-reports-to-khatam-al-anbiya-central-headquarters",
+  "from_entity": "mohammad-jafar-asadi",
+  "to_entity": "khatam-al-anbiya-central-headquarters",
+  "type": "reports-to",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Jafar_Asadi",
+      "source_title": "Mohammad Jafar Asadi — Wikipedia",
+      "source_date": "2025-06-01",
+      "description": "Asadi is the deputy commander of Khatam al-Anbiya Central Headquarters."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

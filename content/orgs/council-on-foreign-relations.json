@@ -1,0 +1,23 @@
+{
+  "entity_id": "council-on-foreign-relations",
+  "slug": "council-on-foreign-relations",
+  "name_en": "Council on Foreign Relations",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 1921,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Nonpartisan American think tank and publisher specialising in US foreign policy and international affairs, headquartered in New York with an office in Washington, DC. Publishes Foreign Affairs magazine and hosts an independent Task Force program producing influential policy reports.",
+  "faction": null,
+  "sources": [
+    {
+      "url": "https://www.cfr.org/about",
+      "title": "About CFR",
+      "date": "2024-01-01",
+      "publisher": "Council on Foreign Relations"
+    }
+  ],
+  "tags": [],
+  "editorial_notes": "Ray Takeyh is a senior fellow for Middle East studies."
+}

@@ -1,0 +1,27 @@
+{
+  "entity_id": "iran-experts-initiative",
+  "slug": "iran-experts-initiative",
+  "name_en": "Iran Experts Initiative",
+  "name_fa": "ابتکار کارشناسان ایران",
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 2014,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Iran Experts Initiative (IEI) was a covert Iranian [Ministry of Foreign Affairs](/orgs/ministry-of-foreign-affairs) program to cultivate Western-based Iranian-diaspora academics and analysts as back-channels and influence agents during the JCPOA negotiation period. Conceived in early 2014 by [Saeed Khatibzadeh](/people/saeed-khatibzadeh), then a Berlin-based diplomat, and operated through the [Institute for Political and International Studies (IPIS)](/orgs/ipis), the Foreign Ministry's think tank. Under IPIS director [Mostafa Zahrani](/people/mostafa-zahrani), participants including [Ali Vaez](/people/ali-vaez), [Dina Esfandiary](/people/dina-esfandiary), [Ariane Tabatabai](/people/ariane-tabatabai), [Adnan Tabatabai](/people/adnan-tabatabai), [Ellie Geranmayeh](/people/ellie-geranmayeh), and [Rouzbeh Parsi](/people/rouzbeh-parsi) shared draft publications with Iranian officials before release, sought guidance on congressional testimony and conference attendance, and served as conduits between the Iranian Foreign Ministry and US policymakers. The operation was exposed in September 2023 when [Iran International](/orgs/iran-international) and [Semafor](/orgs/semafor) published thousands of leaked Foreign Ministry emails.",
+  "faction": null,
+  "tags": [
+    "intelligence",
+    "diplomacy",
+    "jcpoa"
+  ],
+  "sources": [
+    {
+      "url": "https://www.semafor.com/article/09/25/2023/inside-irans-influence-operation",
+      "title": "Inside Iran's Influence Operation",
+      "date": "2023-09-25",
+      "publisher": "Semafor"
+    }
+  ],
+  "editorial_notes": "Covert FM influence operation. Exposed 2023-09-25 via Semafor/Iran International email leak."
+}

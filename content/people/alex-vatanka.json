@@ -1,0 +1,31 @@
+{
+  "entity_id": "alex-vatanka",
+  "slug": "alex-vatanka",
+  "name_en": "Alex Vatanka",
+  "name_fa": "الکس واتانکا",
+  "has_native_fa_name": false,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Founding Director, Iran Program, Middle East Institute",
+  "faction": "opposition",
+  "bio": "Alex Vatanka is the founding director of the Iran Program at the [Middle East Institute](/orgs/middle-east-institute) in Washington. A specialist on Iranian foreign policy, IRGC networks, and Iran-Pakistan relations, he has tracked Iranian security and political dynamics for over two decades. He is the author of *Iran and Pakistan: Security, Diplomacy and American Influence* (2015) and *The Battle of the Ayatollahs in Iran: The United States, Foreign Policy and Political Rivalry since 1979* (2021). Vatanka is a frequent analyst in Western media and a regular congressional briefer on Iranian affairs.",
+  "irgc_member": false,
+  "expertise": [
+    "IRGC",
+    "Iran-Pakistan relations",
+    "Iranian foreign policy",
+    "regional security"
+  ],
+  "sources": [
+    {
+      "url": "https://www.mei.edu/profile/alex-vatanka",
+      "title": "Alex Vatanka — Middle East Institute",
+      "date": "2024-01-01",
+      "publisher": "Middle East Institute"
+    }
+  ],
+  "tags": [],
+  "photo": null,
+  "editorial_notes": "Founding director of MEI Iran Program. Author of two books on Iran. Born year not publicly confirmed."
+}

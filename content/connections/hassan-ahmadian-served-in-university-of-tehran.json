@@ -1,0 +1,21 @@
+{
+  "entity_id": "hassan-ahmadian-served-in-university-of-tehran",
+  "from_entity": "hassan-ahmadian",
+  "to_entity": "university-of-tehran",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://ut.ac.ir/en",
+      "source_title": "University of Tehran, Department of West Asia and North Africa",
+      "source_date": "2023-01-01",
+      "description": "Hassan Ahmadian is an assistant professor in the Department of West Asia and North Africa at the University of Tehran."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

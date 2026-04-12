@@ -1,0 +1,17 @@
+{
+  "entity_id": "negar-mortazavi-named-in-javad-zarif",
+  "from_entity": "negar-mortazavi",
+  "to_entity": "javad-zarif",
+  "type": "named-in",
+  "confidence": "alleged",
+  "notes": "Mortazavi's bio cites Zarif's 2013 parliamentary testimony describing NIAC founder Trita Parsi as his 'main partner' in the US, as institutional context for Mortazavi's NIAC affiliation.",
+  "evidence": [
+    {
+      "description": "Zarif 2013 parliamentary testimony referenced in context of NIAC affiliations.",
+      "url": "https://internationalpolicy.org/people/negar-mortazavi/",
+      "date": "2013-01-01"
+    }
+  ],
+  "symmetric": false,
+  "family_subtype": null
+}

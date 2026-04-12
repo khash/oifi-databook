@@ -1,0 +1,31 @@
+{
+  "entity_id": "ali-alfoneh",
+  "slug": "ali-alfoneh",
+  "name_en": "Ali Alfoneh",
+  "name_fa": "علی الفونه",
+  "has_native_fa_name": false,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Senior Fellow, Arab Gulf States Institute in Washington",
+  "faction": "opposition",
+  "bio": "Ali Alfoneh is a Danish-Iranian political scientist and senior fellow at the [Arab Gulf States Institute in Washington](/orgs/arab-gulf-states-institute). He is best known as the originator of the influential thesis — developed across years of primary-source research — that the [Islamic Revolutionary Guard Corps](/orgs/islamic-revolutionary-guard-corps) has transformed the Islamic Republic from a clerical theocracy into a military dictatorship. His book *Iran Unveiled: How the Revolutionary Guards Is Transforming Iran from Theocracy into Military Dictatorship* (2013) is a foundational text in IRGC studies. Alfoneh systematically tracked IRGC officers entering civilian government, the judiciary, and the economy to document this structural transformation. He has previously been a fellow at AEI and has briefed European and US policymakers.",
+  "irgc_member": false,
+  "expertise": [
+    "IRGC",
+    "civil-military relations",
+    "Iranian elite politics",
+    "Gulf security"
+  ],
+  "sources": [
+    {
+      "url": "https://agsiw.org/experts/ali-alfoneh/",
+      "title": "Ali Alfoneh — Arab Gulf States Institute",
+      "date": "2024-01-01",
+      "publisher": "Arab Gulf States Institute in Washington"
+    }
+  ],
+  "tags": [],
+  "photo": null,
+  "editorial_notes": "Danish-Iranian. IRGC-as-military-dictatorship thesis originator. Author of Iran Unveiled (2013). Previously AEI fellow."
+}

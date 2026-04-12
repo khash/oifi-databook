@@ -1,0 +1,21 @@
+{
+  "entity_id": "ray-takeyh-published-green-movement-protests-2009",
+  "from_entity": "ray-takeyh",
+  "to_entity": "green-movement-protests-2009",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.cfr.org/expert/ray-takeyh",
+      "source_title": "Ray Takeyh — Council on Foreign Relations",
+      "source_date": "2024-01-01",
+      "description": "Takeyh served as senior adviser on Iran at the State Department in 2009, during the Green Movement protests, and has written extensively on the episode."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

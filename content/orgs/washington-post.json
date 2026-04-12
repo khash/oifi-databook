@@ -1,0 +1,15 @@
+{
+  "entity_id": "washington-post",
+  "slug": "washington-post",
+  "name_en": "The Washington Post",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "media",
+  "founded": 1877,
+  "dissolved": null,
+  "parent_org": null,
+  "faction": null,
+  "description": "The Washington Post is a major American daily newspaper based in Washington D.C., founded in 1877. It is one of the most widely read English-language newspapers in the United States, covering U.S. politics, international affairs, and national security. Its journalists have faced detention and harassment in Iran; [Jason Rezaian](/people/jason-rezaian) served as the Post's Tehran bureau chief before his arrest by Iranian authorities in 2014.",
+  "tags": [],
+  "editorial_notes": "Jason Rezaian was Tehran bureau chief, arrested 2014, released 2016."
+}

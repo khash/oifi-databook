@@ -1,0 +1,21 @@
+{
+  "entity_id": "afshon-ostovar-subject-of-irgc",
+  "from_entity": "afshon-ostovar",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://faculty.nps.edu/aostovar",
+      "source_title": "Afshon Ostovar — Naval Postgraduate School",
+      "source_date": "2024-01-01",
+      "description": "Afshon Ostovar's book Vanguard of the Imam (2016) is the definitive scholarly history of the IRGC."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

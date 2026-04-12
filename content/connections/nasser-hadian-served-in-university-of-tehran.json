@@ -1,0 +1,21 @@
+{
+  "entity_id": "nasser-hadian-served-in-university-of-tehran",
+  "from_entity": "nasser-hadian",
+  "to_entity": "university-of-tehran",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://ut.ac.ir/en",
+      "source_title": "University of Tehran faculty",
+      "source_date": "2023-01-01",
+      "description": "Nasser Hadian is a professor of political science at the University of Tehran."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

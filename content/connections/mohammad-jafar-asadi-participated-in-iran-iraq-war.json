@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-jafar-asadi-participated-in-iran-iraq-war",
+  "from_entity": "mohammad-jafar-asadi",
+  "to_entity": "iran-iraq-war",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1980",
+  "date_to": "1988",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Jafar_Asadi",
+      "source_title": "Mohammad Jafar Asadi — Wikipedia",
+      "source_date": "2025-06-01",
+      "description": "Veteran of the Iran–Iraq War; commanded the 33rd Al-Mahdi Division."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

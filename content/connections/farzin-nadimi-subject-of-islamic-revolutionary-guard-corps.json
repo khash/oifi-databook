@@ -1,0 +1,17 @@
+{
+  "entity_id": "farzin-nadimi-subject-of-islamic-revolutionary-guard-corps",
+  "from_entity": "farzin-nadimi",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "notes": "Nadimi specializes in IRGC military capabilities, missile programs, and Iranian defense — the IRGC is his primary research subject.",
+  "evidence": [
+    {
+      "description": "Washington Institute for Near East Policy profile noting Nadimi's specialization in IRGC and Iranian military.",
+      "url": "https://www.washingtoninstitute.org/scholars/farzin-nadimi",
+      "date": "2023-01-01"
+    }
+  ],
+  "symmetric": false,
+  "family_subtype": null
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-marandi-family-of-ali-khamenei",
+  "from_entity": "mohammad-marandi",
+  "to_entity": "ali-khamenei",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://iranwire.com/en/features/67965",
+      "source_title": "Seyyed Mohammad Marandi: Iran's Chief Propagandist in English",
+      "source_date": "2022-01-01",
+      "description": "Marandi's father, Seyed Ali Marandi, is Khamenei's personal physician, establishing direct familial proximity to the Supreme Leader."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Marandi's father is Khamenei's personal physician. Connection is institutional proximity via family, not direct family relation between Mohammad Marandi and Khamenei."
+}

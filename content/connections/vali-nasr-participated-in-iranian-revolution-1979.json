@@ -1,0 +1,21 @@
+{
+  "entity_id": "vali-nasr-participated-in-iranian-revolution-1979",
+  "from_entity": "vali-nasr",
+  "to_entity": "iranian-revolution-1979",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://sais.jhu.edu/users/vnasr1",
+      "source_title": "Vali Nasr — Johns Hopkins SAIS",
+      "source_date": "2024-01-01",
+      "description": "Nasr left Iran after the 1979 Revolution and was subsequently educated in the United States."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "ervand-abrahamian-named-in-central-intelligence-agency",
+  "from_entity": "ervand-abrahamian",
+  "to_entity": "central-intelligence-agency",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2013",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://thenewpress.com/books/coup",
+      "source_title": "The Coup — The New Press",
+      "source_date": "2013-01-01",
+      "description": "Abrahamian's The Coup (2013) documented the CIA's central role in the 1953 overthrow of Mosaddegh."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

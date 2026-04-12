@@ -1,0 +1,17 @@
+{
+  "entity_id": "mnar-muhawesh-adley-founded-mintpress-news",
+  "from_entity": "mnar-muhawesh-adley",
+  "to_entity": "mintpress-news",
+  "type": "founded",
+  "confidence": "confirmed",
+  "notes": "Muhawesh Adley founded MintPress News and serves as its CEO and editor-in-chief.",
+  "evidence": [
+    {
+      "description": "MintPress News About page: Mnar Muhawesh Adley, founder and CEO.",
+      "url": "https://www.mintpressnews.com/about-mnar-muhawesh/",
+      "date": "2012-01-01"
+    }
+  ],
+  "symmetric": false,
+  "family_subtype": null
+}

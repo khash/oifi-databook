@@ -1,0 +1,17 @@
+{
+  "entity_id": "roya-hakakian-subject-of-sadegh-sharafkandi",
+  "from_entity": "roya-hakakian",
+  "to_entity": "sadegh-sharafkandi",
+  "type": "published",
+  "confidence": "confirmed",
+  "notes": "Hakakian's book Assassins of the Turquoise Palace (2011) centers on the assassination of PDKI leader Sadegh Sharafkandi at the Mykonos restaurant in 1992.",
+  "evidence": [
+    {
+      "description": "Roya Hakakian, Assassins of the Turquoise Palace (2011) — book about the Mykonos assassination of Sadegh Sharafkandi.",
+      "url": "https://www.penguinrandomhouse.com/books/206455/assassins-of-the-turquoise-palace-by-roya-hakakian/",
+      "date": "2011-01-01"
+    }
+  ],
+  "symmetric": false,
+  "family_subtype": null
+}

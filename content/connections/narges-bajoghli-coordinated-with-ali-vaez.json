@@ -1,0 +1,21 @@
+{
+  "entity_id": "narges-bajoghli-coordinated-with-ali-vaez",
+  "from_entity": "narges-bajoghli",
+  "to_entity": "ali-vaez",
+  "type": "coordinated-with",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.semafor.com/article/09/26/2023/iran-foreign-ministry-experts-group-emails",
+      "source_title": "Iran's Foreign Ministry ran a covert influence operation involving Western experts",
+      "source_date": "2023-09-26",
+      "description": "Ali Vaez was listed as a co-author on early versions of the How Sanctions Work project alongside Narges Bajoghli. Vaez was later identified by Semafor and Iran International as a participant in the Iran Experts Initiative (IEI), a covert Iranian Foreign Ministry influence operation."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Co-authorship with an IEI-documented figure on the sanctions topic is editorially relevant context, absent evidence of direct coordination on Bajoghli's part."
+}

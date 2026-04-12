@@ -1,0 +1,23 @@
+{
+  "entity_id": "foundation-for-defense-of-democracies",
+  "slug": "foundation-for-defense-of-democracies",
+  "name_en": "Foundation for Defense of Democracies",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 2001,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Washington-based hawkish national security think tank founded after 9/11. Known for its Iran sanctions and maximum-pressure advocacy. Hosts the Center on Economic and Financial Power and a dedicated Iran Program. Senior director [Behnam Ben Taleblu](/people/behnam-ben-taleblu) is a frequent congressional witness on Iranian missiles, sanctions, and proxy networks.",
+  "faction": null,
+  "sources": [
+    {
+      "url": "https://www.fdd.org/about/",
+      "title": "About FDD",
+      "date": "2024-01-01",
+      "publisher": "Foundation for Defense of Democracies"
+    }
+  ],
+  "tags": [],
+  "editorial_notes": "FDD is generally considered hawkish/neoconservative on Iran and strongly supportive of Israel. Critics note significant overlap with pro-Israel donor networks."
+}

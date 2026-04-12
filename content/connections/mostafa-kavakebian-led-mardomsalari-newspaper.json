@@ -1,0 +1,17 @@
+{
+  "entity_id": "mostafa-kavakebian-led-mardomsalari-newspaper",
+  "from_entity": "mostafa-kavakebian",
+  "to_entity": "mardomsalari-newspaper",
+  "type": "led",
+  "confidence": "confirmed",
+  "notes": "Kavakebian serves as editor-in-chief of Mardomsalari, the official newspaper of his Democracy Party of Iran.",
+  "evidence": [
+    {
+      "description": "Kavakebian's editorial role at Mardomsalari documented via his public biographical profiles.",
+      "url": "https://en.wikipedia.org/wiki/Mostafa_Kavakebian",
+      "date": "2020-01-01"
+    }
+  ],
+  "symmetric": false,
+  "family_subtype": null
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "narges-bajoghli-coordinated-with-vali-nasr",
+  "from_entity": "narges-bajoghli",
+  "to_entity": "vali-nasr",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "2023",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.sup.org/books/title/?id=34977",
+      "source_title": "How Sanctions Work: Iran and the Impact of Economic Warfare",
+      "source_date": "2023-01-01",
+      "description": "Narges Bajoghli co-authored How Sanctions Work (Stanford University Press, 2023) with Vali Nasr, Djavad Salehi-Isfahani, and Esfandyar Batmanghelidj."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "ray-takeyh-published-mohammad-reza-shah-pahlavi",
+  "from_entity": "ray-takeyh",
+  "to_entity": "mohammad-reza-shah-pahlavi",
+  "type": "published",
+  "confidence": "confirmed",
+  "date_from": "2021",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://yalebooks.yale.edu/book/9780300217797/the-last-shah/",
+      "source_title": "The Last Shah — Yale University Press",
+      "source_date": "2021-01-01",
+      "description": "Takeyh's The Last Shah (2021) centred on Mohammad Reza Shah Pahlavi and his political agency in the fall of the Pahlavi dynasty."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,31 @@
+{
+  "entity_id": "arash-azizi",
+  "slug": "arash-azizi",
+  "name_en": "Arash Azizi",
+  "name_fa": "آرش عزیزی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": "Iran",
+  "role": "Historian and journalist; Lecturer, Clemson University",
+  "faction": "opposition",
+  "bio": "Arash Azizi is an Iranian historian and journalist, currently a lecturer at Clemson University. He is the author of *The Shadow Commander: Soleimani, the US, and Iran's Global Ambitions* (2020), a biography of [Qasem Soleimani](/people/qasem-soleimani) that examines the Quds Force commander's operational career and the strategic logic of Iran's regional expansion. He is also the author of *What Iranians Want: Women, Life, Freedom* (2023), an account of the 2022 [Mahsa Amini protests](/events/mahsa-amini-protests-2022) and the generational shift inside Iran. Azizi is a regular commentator on Iranian politics, the Woman Life Freedom movement, and Iranian diaspora politics, contributing to publications including The Atlantic, Foreign Affairs, and the New York Times.",
+  "irgc_member": false,
+  "expertise": [
+    "contemporary Iranian history",
+    "IRGC Quds Force",
+    "Woman Life Freedom movement",
+    "Iranian diaspora"
+  ],
+  "sources": [
+    {
+      "url": "https://www.oneworld-publications.com/trade/the-shadow-commander.html",
+      "title": "The Shadow Commander — Oneworld Publications",
+      "date": "2020-01-01",
+      "publisher": "Oneworld Publications"
+    }
+  ],
+  "tags": [],
+  "photo": null,
+  "editorial_notes": "Author of The Shadow Commander (Soleimani biography, 2020) and What Iranians Want (2023). Lecturer at Clemson. Previously based in New York."
+}

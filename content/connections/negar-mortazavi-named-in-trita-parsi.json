@@ -1,0 +1,17 @@
+{
+  "entity_id": "negar-mortazavi-named-in-trita-parsi",
+  "from_entity": "negar-mortazavi",
+  "to_entity": "trita-parsi",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "notes": "Mortazavi's bio discusses Trita Parsi, founder of NIAC, in the context of her own affiliation with the organization.",
+  "evidence": [
+    {
+      "description": "Mortazavi's institutional trajectory at NIAC under Parsi's leadership.",
+      "url": "https://internationalpolicy.org/people/negar-mortazavi/",
+      "date": "2014-01-01"
+    }
+  ],
+  "symmetric": false,
+  "family_subtype": null
+}

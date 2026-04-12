@@ -1,0 +1,21 @@
+{
+  "entity_id": "ervand-abrahamian-published-iranian-revolution-1979",
+  "from_entity": "ervand-abrahamian",
+  "to_entity": "iranian-revolution-1979",
+  "type": "published",
+  "confidence": "confirmed",
+  "date_from": "1982",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://press.princeton.edu/books/paperback/9780691101354/iran-between-two-revolutions",
+      "source_title": "Iran Between Two Revolutions — Princeton University Press",
+      "source_date": "1982-01-01",
+      "description": "Abrahamian's Iran Between Two Revolutions (1982) is the standard scholarly account of Iranian political history from the Constitutional Revolution through the 1979 Revolution."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

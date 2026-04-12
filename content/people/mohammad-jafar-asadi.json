@@ -1,0 +1,38 @@
+{
+  "entity_id": "mohammad-jafar-asadi",
+  "slug": "mohammad-jafar-asadi",
+  "name_en": "Mohammad Jafar Asadi",
+  "name_fa": "محمدجعفر اسدی",
+  "has_native_fa_name": true,
+  "aliases": ["Mohammad-Jafar Assadi"],
+  "born": 1958,
+  "birthplace": "Mamasani, Fars Province, Iran",
+  "role": "Deputy Commander, Khatam al-Anbiya Central Headquarters",
+  "faction": "hardliner",
+  "bio": "Brigadier General Mohammad Jafar Asadi is a senior [IRGC](/orgs/islamic-revolutionary-guard-corps) officer serving as deputy commander of the [Khatam al-Anbiya Central Headquarters](/orgs/khatam-al-anbiya-central-headquarters). He joined the IRGC in March 1980 and is a veteran of the [Iran–Iraq War](/events/iran-iraq-war), during which he commanded the 33rd Al-Mahdi Division. He commanded IRGC Ground Forces from 2008 to 2009 and subsequently served as commander of Iran's advisory forces in Syria, where he acknowledged Iran's role in supporting the survival of Bashar al-Assad's government. He has made public statements regarding Iranian Jews and the conflict with Israel. Asadi is part of the core KCHQ leadership alongside [Ebrahim Zolfaghari](/people/ebrahim-zolfaghari).",
+  "irgc_member": true,
+  "expertise": ["ground forces", "proxy warfare", "Syria operations"],
+  "tags": ["military", "proxy-warfare"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mohammad_Jafar_Asadi",
+      "title": "Mohammad Jafar Asadi — Wikipedia",
+      "date": "2025-06-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://abdimedia.net/en/politics/sardar-mohammad-jafar-asadi",
+      "title": "Gen. Mohammad Jafar Asadi, deputy commander of the IRGC's Khatam al-Anbiya Base",
+      "date": "2024-01-01",
+      "publisher": "Abdi Media"
+    },
+    {
+      "url": "https://www.memri.org/tv/irgc-general-mohammad-jafar-asadi-iranian-evil-jews-massacre-action",
+      "title": "IRGC General Mohammad-Jafar Asadi statements",
+      "date": "2024-10-01",
+      "publisher": "MEMRI"
+    }
+  ],
+  "editorial_notes": "Born January 1958, Mamasani, Fars. Served as IRGC Ground Forces commander 2008-2009. Commanded advisory forces in Syria. Some sources list rank as Major General."
+}

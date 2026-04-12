@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-abdollahi-aliabadi-served-in-islamic-revolutionary-guard-corps",
+  "from_entity": "ali-abdollahi-aliabadi",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Abdollahi_Aliabadi",
+      "source_title": "Ali Abdollahi Aliabadi — Wikipedia",
+      "source_date": "2025-09-04",
+      "description": "Aliabadi began his career in the Revolutionary Committees after the 1979 Revolution before joining the IRGC, holding multiple senior positions including IRGC Ground Forces Chief of Staff and IRGC Air Force Deputy Commander."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

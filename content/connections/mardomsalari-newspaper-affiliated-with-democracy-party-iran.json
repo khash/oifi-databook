@@ -1,0 +1,17 @@
+{
+  "entity_id": "mardomsalari-newspaper-affiliated-with-democracy-party-iran",
+  "from_entity": "mardomsalari-newspaper",
+  "to_entity": "democracy-party-iran",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "notes": "Mardomsalari is the official newspaper of the Democracy Party of Iran (Hezb-e Mardomsalari), founded by Mostafa Kavakebian.",
+  "evidence": [
+    {
+      "description": "Mardomsalari newspaper's own masthead and Wikipedia entry confirming its role as the Democracy Party of Iran's official publication.",
+      "url": "https://en.wikipedia.org/wiki/Mardomsalari_(newspaper)",
+      "date": "2022-01-01"
+    }
+  ],
+  "symmetric": false,
+  "family_subtype": null
+}

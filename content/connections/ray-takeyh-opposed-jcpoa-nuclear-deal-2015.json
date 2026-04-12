@@ -1,0 +1,21 @@
+{
+  "entity_id": "ray-takeyh-opposed-jcpoa-nuclear-deal-2015",
+  "from_entity": "ray-takeyh",
+  "to_entity": "jcpoa-nuclear-deal-2015",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": "2015",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.cfr.org/expert/ray-takeyh",
+      "source_title": "Ray Takeyh — Council on Foreign Relations",
+      "source_date": "2024-01-01",
+      "description": "Takeyh publicly criticised the Obama administration's Iran policy and argued the JCPOA insufficiently addressed Iran's regional behaviour and ballistic missile programme."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

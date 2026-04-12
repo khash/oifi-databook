@@ -1,0 +1,31 @@
+{
+  "entity_id": "saeid-golkar",
+  "slug": "saeid-golkar",
+  "name_en": "Saeid Golkar",
+  "name_fa": "سعید گلکار",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": "Iran",
+  "role": "Associate Professor, University of Tennessee at Chattanooga",
+  "faction": "opposition",
+  "bio": "Saeid Golkar is an associate professor at the University of Tennessee at Chattanooga. He is a leading scholar of the regime's coercive and mobilisation infrastructure, with particular expertise on the [Basij](/orgs/basij) militia. His book *Captive Society: The Basij Militia and Social Control in Iran* (2015) is the definitive study of how the Basij functions not merely as a paramilitary force but as a comprehensive system of societal penetration — monitoring workplaces, universities, mosques, and neighbourhoods to enforce ideological conformity and suppress dissent. Golkar draws on original field research to document the Basij's role in the Islamic Republic's coercive apparatus and its relationship with the [IRGC](/orgs/islamic-revolutionary-guard-corps). He has also written on Iranian civil society, the revolutionary ideology of the regime, and the sustainability of authoritarian control.",
+  "irgc_member": false,
+  "expertise": [
+    "Basij militia",
+    "social control",
+    "Iranian coercive institutions",
+    "authoritarian resilience"
+  ],
+  "sources": [
+    {
+      "url": "https://www.utc.edu/faculty/saeid-golkar",
+      "title": "Saeid Golkar — University of Tennessee at Chattanooga",
+      "date": "2024-01-01",
+      "publisher": "University of Tennessee at Chattanooga"
+    }
+  ],
+  "tags": [],
+  "photo": null,
+  "editorial_notes": "Author of Captive Society (2015) — definitive Basij study. Associate professor UTC."
+}

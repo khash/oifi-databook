@@ -1,0 +1,25 @@
+{
+  "entity_id": "foad-izadi",
+  "slug": "foad-izadi",
+  "name_en": "Foad Izadi",
+  "name_fa": "فواد ایزدی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Associate Professor, Faculty of World Studies, University of Tehran; state media surrogate",
+  "faction": "hardliner",
+  "bio": "Foad Izadi is an associate professor at the Faculty of World Studies at the [University of Tehran](/orgs/university-of-tehran). He appears regularly on Western outlets including Channel 4 News and BBC World Service, typically introduced as an Iranian academic analyst. This framing obscures his documented function as a state media surrogate for the Islamic Republic.\n\nIzadi has publicly advocated for **targeting US troops** in the Middle East in comments made during periods of elevated US–Iran tension. He has also been documented in discussions about building an **\"Iran lobby\" in the United States** — an influence operation strategy aimed at shaping American public and policy opinion.\n\nHis public commentary consistently mirrors Islamic Republic official positions on US policy, sanctions, and regional affairs. His appearances on British and international television give these positions a veneer of academic credibility.",
+  "irgc_member": false,
+  "expertise": [
+    "US–Iran relations",
+    "media appearances",
+    "influence operations"
+  ],
+  "sources": [],
+  "tags": [
+    "diplomacy"
+  ],
+  "photo": null,
+  "editorial_notes": "Documented advocating targeting of US troops. Discussed building Iran lobby in US. Platformed by Channel 4, BBC World Service as academic analyst."
+}

@@ -1,0 +1,17 @@
+{
+  "entity_id": "mardomsalari-newspaper",
+  "slug": "mardomsalari-newspaper",
+  "name_en": "Mardomsalari Newspaper",
+  "name_fa": "روزنامه مردم‌سالاری",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 2002,
+  "dissolved": null,
+  "parent_org": "democracy-party-iran",
+  "faction": "reformist",
+  "description": "Mardomsalari (مردم‌سالاری, meaning 'Democracy') is the official newspaper of the [Democracy Party of Iran](/orgs/democracy-party-iran), founded in 2002. It is one of the few reformist-affiliated newspapers still publishing in Iran. [Mostafa Kavakebian](/people/mostafa-kavakebian), the party's founder and secretary-general, serves as editor-in-chief. The paper covers Iranian domestic politics from a reformist perspective and has survived successive press crackdowns that shuttered many reform-era publications.",
+  "tags": [
+    "parliament"
+  ],
+  "editorial_notes": "One of few surviving reformist newspapers. Kavakebian is editor-in-chief."
+}

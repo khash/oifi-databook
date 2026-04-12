@@ -1,0 +1,17 @@
+{
+  "entity_id": "sina-toossi-affiliated-with-center-for-international-policy",
+  "from_entity": "sina-toossi",
+  "to_entity": "center-for-international-policy",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "notes": "Toossi is a senior nonresident fellow at the Center for International Policy focusing on US-Iran diplomacy.",
+  "evidence": [
+    {
+      "description": "Center for International Policy profile: Sina Toossi.",
+      "url": "https://internationalpolicy.org/people/sina-toossi/",
+      "date": "2023-01-01"
+    }
+  ],
+  "symmetric": false,
+  "family_subtype": null
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-shadmani-reports-to-gholam-ali-rashid",
+  "from_entity": "ali-shadmani",
+  "to_entity": "gholam-ali-rashid",
+  "type": "reports-to",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2025-06-13",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Shadmani",
+      "source_title": "Ali Shadmani — Wikipedia",
+      "source_date": "2025-06-17",
+      "description": "Shadmani was appointed KCHQ commander to succeed Rashid on 13 June 2025, indicating Rashid had been his superior within the KCHQ chain of command."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,23 @@
+{
+  "entity_id": "middle-east-institute",
+  "slug": "middle-east-institute",
+  "name_en": "Middle East Institute",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 1946,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Washington-based think tank founded in 1946, one of the oldest US institutions focused on Middle East policy. Hosts subject-matter programs including an Iran Program directed by [Alex Vatanka](/people/alex-vatanka). Publishes analysis and convenes policy discussions bridging government, academia, and the private sector.",
+  "faction": null,
+  "sources": [
+    {
+      "url": "https://www.mei.edu/about",
+      "title": "About MEI",
+      "date": "2024-01-01",
+      "publisher": "Middle East Institute"
+    }
+  ],
+  "tags": [],
+  "editorial_notes": ""
+}

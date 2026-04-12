@@ -1,0 +1,21 @@
+{
+  "entity_id": "alex-vatanka-affiliated-with-middle-east-institute",
+  "from_entity": "alex-vatanka",
+  "to_entity": "middle-east-institute",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.mei.edu/profile/alex-vatanka",
+      "source_title": "Alex Vatanka — Middle East Institute",
+      "source_date": "2024-01-01",
+      "description": "Alex Vatanka is the founding director of the Iran Program at the Middle East Institute."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

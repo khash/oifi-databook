@@ -1,0 +1,18 @@
+{
+  "entity_id": "roya-hakakian-published-mykonos-restaurant-assassination-1992",
+  "from_entity": "roya-hakakian",
+  "to_entity": "mykonos-restaurant-assassination-1992",
+  "type": "published",
+  "confidence": "confirmed",
+  "date_start": "2011",
+  "notes": "Hakakian wrote Assassins of the Turquoise Palace (2011), the definitive English-language account of the Mykonos restaurant assassination.",
+  "evidence": [
+    {
+      "description": "Roya Hakakian, Assassins of the Turquoise Palace (2011), Grove Atlantic.",
+      "url": "https://www.penguinrandomhouse.com/books/206455/assassins-of-the-turquoise-palace-by-roya-hakakian/",
+      "date": "2011-01-01"
+    }
+  ],
+  "symmetric": false,
+  "family_subtype": null
+}

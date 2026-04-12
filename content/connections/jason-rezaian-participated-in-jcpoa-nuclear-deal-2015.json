@@ -1,0 +1,21 @@
+{
+  "entity_id": "jason-rezaian-participated-in-jcpoa-nuclear-deal-2015",
+  "from_entity": "jason-rezaian",
+  "to_entity": "jcpoa-nuclear-deal-2015",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2016-01-16",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Jason_Rezaian",
+      "source_title": "Jason Rezaian — Wikipedia",
+      "source_date": "2016-01-16",
+      "description": "Rezaian was released on 16 January 2016 as part of a prisoner exchange negotiated alongside JCPOA implementation day."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Released on JCPOA implementation day as part of a four-for-seven prisoner swap."
+}

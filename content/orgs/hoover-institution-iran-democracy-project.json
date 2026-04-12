@@ -1,0 +1,23 @@
+{
+  "entity_id": "hoover-institution-iran-democracy-project",
+  "slug": "hoover-institution-iran-democracy-project",
+  "name_en": "Hoover Institution — Iran Democracy Project",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 2002,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "A research initiative at Stanford University's Hoover Institution focused on promoting democratic governance and civil society in Iran. Co-directed by [Abbas Milani](/people/abbas-milani), the project produces research, policy papers, and public programming on Iran's political development, human rights, and prospects for democratic transition.",
+  "faction": "opposition",
+  "sources": [
+    {
+      "url": "https://www.hoover.org/research-teams/iran-democracy-project",
+      "title": "Iran Democracy Project — Hoover Institution",
+      "date": "2024-01-01",
+      "publisher": "Hoover Institution"
+    }
+  ],
+  "tags": [],
+  "editorial_notes": "Co-directed by Abbas Milani. Part of the Hoover Institution at Stanford University."
+}

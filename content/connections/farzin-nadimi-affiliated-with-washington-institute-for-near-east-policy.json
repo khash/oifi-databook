@@ -1,0 +1,17 @@
+{
+  "entity_id": "farzin-nadimi-affiliated-with-washington-institute-for-near-east-policy",
+  "from_entity": "farzin-nadimi",
+  "to_entity": "washington-institute-for-near-east-policy",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "notes": "Nadimi is a senior fellow at the Washington Institute for Near East Policy specializing in Iran and Gulf security.",
+  "evidence": [
+    {
+      "description": "Washington Institute for Near East Policy profile: Farzin Nadimi.",
+      "url": "https://www.washingtoninstitute.org/scholars/farzin-nadimi",
+      "date": "2023-01-01"
+    }
+  ],
+  "symmetric": false,
+  "family_subtype": null
+}

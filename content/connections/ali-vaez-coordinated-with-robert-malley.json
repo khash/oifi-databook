@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-vaez-coordinated-with-robert-malley",
+  "from_entity": "ali-vaez",
+  "to_entity": "robert-malley",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "2014",
+  "date_to": "2023",
+  "evidence": [
+    {
+      "source_url": "https://www.semafor.com/article/09/25/2023/inside-irans-influence-operation",
+      "source_title": "Inside Iran's Influence Operation",
+      "source_date": "2023-09-25",
+      "description": "Vaez worked under Malley at ICG and served on his Iran negotiating team at the State Department. Leaked emails described Vaez as a potential backchannel between the Iranian FM and Malley."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

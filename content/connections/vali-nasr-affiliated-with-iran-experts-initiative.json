@@ -1,0 +1,21 @@
+{
+  "entity_id": "vali-nasr-affiliated-with-iran-experts-initiative",
+  "from_entity": "vali-nasr",
+  "to_entity": "iran-experts-initiative",
+  "type": "affiliated-with",
+  "confidence": "alleged",
+  "date_from": "2023",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.semafor.com/article/09/25/2023/inside-irans-influence-operation",
+      "source_title": "Inside Iran's Influence Operation",
+      "source_date": "2023-09-25",
+      "description": "Nasr co-authored a 2023 book with Ali Vaez, a confirmed IEI member, on sanctions relief for Iran. Nasr himself is not named in the leaked IEI cables; the association is noted as a relevant contextual fact, not a confirmed membership claim."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Nasr is not a confirmed IEI member. Connection is noted due to co-authorship with Vaez and aligned policy positions."
+}

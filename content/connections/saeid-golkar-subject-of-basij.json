@@ -1,0 +1,21 @@
+{
+  "entity_id": "saeid-golkar-subject-of-basij",
+  "from_entity": "saeid-golkar",
+  "to_entity": "basij",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.utc.edu/faculty/saeid-golkar",
+      "source_title": "Saeid Golkar — University of Tennessee at Chattanooga",
+      "source_date": "2024-01-01",
+      "description": "Saeid Golkar's book Captive Society (2015) is the definitive study of the Basij militia and social control in Iran."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Connection records that Basij is the primary subject of Golkar's scholarly work."
+}

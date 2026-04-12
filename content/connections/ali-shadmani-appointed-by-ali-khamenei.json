@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-shadmani-appointed-by-ali-khamenei",
+  "from_entity": "ali-shadmani",
+  "to_entity": "ali-khamenei",
+  "type": "appointed-by",
+  "confidence": "confirmed",
+  "date_from": "2025-06-13",
+  "date_to": "2025-06-13",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Shadmani",
+      "source_title": "Ali Shadmani — Wikipedia",
+      "source_date": "2025-06-17",
+      "description": "Supreme Leader Ali Khamenei appointed Shadmani as commander of Khatam al-Anbiya Central Headquarters on 13 June 2025, succeeding Gholam Ali Rashid."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

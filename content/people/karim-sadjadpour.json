@@ -1,0 +1,32 @@
+{
+  "entity_id": "karim-sadjadpour",
+  "slug": "karim-sadjadpour",
+  "name_en": "Karim Sadjadpour",
+  "name_fa": "کریم سجادپور",
+  "has_native_fa_name": false,
+  "aliases": [],
+  "born": 1977,
+  "birthplace": null,
+  "role": "Senior fellow, Carnegie Endowment for International Peace; Iranian-American Iran analyst",
+  "faction": "opposition",
+  "irgc_member": false,
+  "bio": "Karim Sadjadpour is a senior fellow at the [Carnegie Endowment for International Peace](/orgs/carnegie-endowment-for-international-peace), where he focuses on Iran and US foreign policy in the Middle East. He is widely regarded as one of the most influential Iranian-American foreign policy analysts in Washington.\n\nBefore joining Carnegie, Sadjadpour was based in Tehran as the [International Crisis Group](/orgs/international-crisis-group)'s chief Iran analyst, a posting that gave him rare direct access to senior Iranian officials, reformist politicians, and civil society figures inside the country. That experience underpinned his widely circulated 2008 monograph *Reading Khamenei: The World View of Iran's Most Powerful Leader*, which provided a systematic analysis of Supreme Leader [Ali Khamenei](/people/ali-khamenei)'s political thought drawn from decades of public speeches.\n\nSadjadpour is an adjunct professor at Georgetown University and a contributing writer to *The Atlantic*. He has testified before the US Congress numerous times and is regularly cited in American media on Iranian politics. He has been particularly outspoken on the nature of the Islamic Republic's ruling ideology — arguing that the system is held together less by popular legitimacy than by coercion and the personal power of the Supreme Leader — and on the geopolitical dimensions of Iran's regional policy.",
+  "expertise": [
+    "Iranian foreign policy",
+    "supreme leadership",
+    "US-Iran relations",
+    "Middle East geopolitics",
+    "Iran sanctions policy"
+  ],
+  "sources": [
+    {
+      "url": "https://carnegieendowment.org/experts/karim-sadjadpour",
+      "title": "Karim Sadjadpour — Carnegie Endowment",
+      "date": "2024-01-01",
+      "publisher": "Carnegie Endowment for International Peace"
+    }
+  ],
+  "tags": [],
+  "photo": null,
+  "editorial_notes": "Iranian-American. Born c.1977. Former ICG Tehran analyst. Joined Carnegie c.2009. Adjunct at Georgetown. Atlantic contributing writer. Frequent congressional witness. Alive as of April 2026."
+}

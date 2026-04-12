@@ -1,0 +1,38 @@
+{
+  "entity_id": "ervand-abrahamian",
+  "slug": "ervand-abrahamian",
+  "name_en": "Ervand Abrahamian",
+  "name_fa": "اروند ابراهامیان",
+  "has_native_fa_name": false,
+  "aliases": [],
+  "born": 1940,
+  "birthplace": "Tehran",
+  "role": "Distinguished Professor emeritus of history, CUNY; historian of modern Iran",
+  "faction": "opposition",
+  "irgc_member": false,
+  "bio": "Ervand Abrahamian (born 1940) is widely regarded as the foremost Western historian of modern Iran. Born in Tehran to an Armenian-Iranian family, he received his doctorate from Oxford University and spent the bulk of his career at the City University of New York (CUNY), where he is Distinguished Professor emeritus of history.\n\nHis landmark work *Iran Between Two Revolutions* (1982) remains the standard scholarly reference for Iranian social and political history from the Constitutional Revolution through the [1979 Revolution](/events/iranian-revolution-1979). The book introduced a rigorous class-analysis framework to understanding Iranian political movements and fundamentally shaped how later scholars approached the subject. His follow-up *The Iranian Mojahedin* (1989) was the first serious academic study of the [Mojahedin-e Khalq](/orgs/mojahedin-e-khalq).\n\n*Tortured Confessions: Prisons and Public Recantations in Modern Iran* (1999) examined the use of show trials and forced confessions from the Pahlavi era through the Islamic Republic, documenting patterns of coercion that extended into the [mass executions of 1988](/events/mass-executions-1988). *A History of Modern Iran* (2008) synthesised his decades of research into an accessible single-volume overview. His most controversial work, *The Coup* (2013), argued that [the 1953 overthrow](/events/iranian-coup-1953) of Prime Minister [Mohammad Mosaddegh](/people/mohammad-mossadegh) was primarily a [CIA](/orgs/central-intelligence-agency) and [British intelligence](/orgs/mi6-sis) operation, challenging interpretations that had minimised foreign involvement.\n\nAbrahamian is a critic of the Islamic Republic and has written extensively on its use of political repression, including executions, torture, and forced confessions across the post-revolutionary period. His work serves as a foundational secondary source for virtually every major event and institution in post-1906 Iranian history.",
+  "expertise": [
+    "modern Iranian history",
+    "social history of Iran",
+    "political prisoners",
+    "Iranian left",
+    "1953 coup"
+  ],
+  "sources": [
+    {
+      "url": "https://www.gc.cuny.edu/people/ervand-abrahamian",
+      "title": "Ervand Abrahamian — CUNY Graduate Center",
+      "date": "2024-01-01",
+      "publisher": "CUNY Graduate Center"
+    },
+    {
+      "url": "https://press.princeton.edu/books/paperback/9780691101354/iran-between-two-revolutions",
+      "title": "Iran Between Two Revolutions — Princeton University Press",
+      "date": "1982-01-01",
+      "publisher": "Princeton University Press"
+    }
+  ],
+  "tags": ["in-exile"],
+  "photo": null,
+  "editorial_notes": "Born 1940 in Tehran to Armenian-Iranian family. DPhil Oxford. Distinguished Professor Emeritus, CUNY. Major works: Iran Between Two Revolutions (1982), The Iranian Mojahedin (1989), Tortured Confessions (1999), A History of Modern Iran (2008), The Coup (2013). Alive as of April 2026."
+}

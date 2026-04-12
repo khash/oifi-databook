@@ -1,0 +1,17 @@
+{
+  "entity_id": "kazem-darabi-named-in-akbar-hashemi-rafsanjani",
+  "from_entity": "kazem-darabi",
+  "to_entity": "akbar-hashemi-rafsanjani",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "notes": "German court implicated the Iranian president's office in the Mykonos assassination",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mykonos_restaurant_assassinations",
+      "source_title": "Mykonos restaurant assassinations — Wikipedia",
+      "source_date": "2024-01-01"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "entity_id": "democracy-party-iran",
+  "slug": "democracy-party-iran",
+  "name_en": "Democracy Party of Iran",
+  "name_fa": "حزب مردم‌سالاری",
+  "has_native_fa_name": true,
+  "type": "political-party",
+  "founded": 2000,
+  "dissolved": null,
+  "parent_org": null,
+  "faction": "reformist",
+  "description": "The Democracy Party of Iran (Hezb-e Mardomsalari, حزب مردم‌سالاری) is a reformist political party founded in 2000 by [Mostafa Kavakebian](/people/mostafa-kavakebian), who has served as its secretary-general. The party publishes the Mardomsalari newspaper, which Kavakebian edits. It has participated in reformist electoral coalitions and contested parliamentary elections in 2004, 2008, 2016, and subsequent cycles. The party operates within the reformist camp of the Islamic Republic's political system, advocating for greater civil liberties and democratic governance within the existing constitutional framework.",
+  "tags": [
+    "parliament"
+  ],
+  "editorial_notes": "Small reformist party; significant mainly as Kavakebian's organizational vehicle."
+}

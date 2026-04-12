@@ -1,0 +1,21 @@
+{
+  "entity_id": "hassan-tehrani-moghaddam-member-of-islamic-revolutionary-guard-corps",
+  "from_entity": "hassan-tehrani-moghaddam",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": "1980",
+  "date_to": "2011",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hassan_Tehrani_Moghaddam",
+      "source_title": "Hassan Tehrani Moghaddam — Wikipedia",
+      "source_date": "2011-11-12",
+      "description": "Moghaddam joined the IRGC in 1980 and served as a Brigadier General until his death in 2011."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

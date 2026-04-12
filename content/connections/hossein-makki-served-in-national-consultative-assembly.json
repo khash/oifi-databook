@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-makki-served-in-national-consultative-assembly",
+  "from_entity": "hossein-makki",
+  "to_entity": "national-consultative-assembly",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hossein_Makki",
+      "source_title": "Hossein Makki — Wikipedia",
+      "source_date": "2026-04-12",
+      "description": "Makki served as a member of the Iranian Parliament (National Consultative Assembly/Majlis), where he was a vocal advocate for the nationalisation of the Anglo-Iranian Oil Company in the early 1950s."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

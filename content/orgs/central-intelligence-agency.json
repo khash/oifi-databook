@@ -1,0 +1,15 @@
+{
+  "entity_id": "central-intelligence-agency",
+  "slug": "central-intelligence-agency",
+  "name_en": "Central Intelligence Agency (CIA)",
+  "name_fa": "سازمان اطلاعات مرکزی آمریکا",
+  "has_native_fa_name": false,
+  "type": "state-institution",
+  "founded": 1947,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Central Intelligence Agency (CIA) is the primary foreign intelligence service of the United States government. In the context of Iranian history, the CIA played a decisive role in the [1953 Iranian coup d'état](/events/iranian-coup-1953), orchestrating Operation Ajax (alongside Britain's MI6) to overthrow the democratically-elected government of Prime Minister Mohammad Mossadegh and restore [Mohammad Reza Shah Pahlavi](/people/mohammad-reza-shah-pahlavi) to full power. The agency subsequently assisted in the creation and training of [SAVAK](/orgs/savak), Iran's secret police, in 1957. The CIA's role in the coup was officially acknowledged by the US government in 2013 with the declassification of relevant documents.",
+  "faction": null,
+  "tags": ["intelligence"],
+  "editorial_notes": "CIA role in 1953 coup officially acknowledged by US in 2013. Helped establish and train SAVAK. Operation Ajax = US codename; Operation Boot = UK codename."
+}

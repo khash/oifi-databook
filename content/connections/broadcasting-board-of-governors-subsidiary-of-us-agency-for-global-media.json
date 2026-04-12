@@ -1,0 +1,19 @@
+{
+  "entity_id": "broadcasting-board-of-governors-subsidiary-of-us-agency-for-global-media",
+  "from_entity": "broadcasting-board-of-governors",
+  "to_entity": "us-agency-for-global-media",
+  "type": "subsidiary-of",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": null,
+  "date_end": "2018",
+  "notes": "The BBG was renamed and restructured into the USAGM in 2018.",
+  "evidence": [
+    {
+      "name": "Wikipedia — USAGM",
+      "url": "https://en.wikipedia.org/wiki/United_States_Agency_for_Global_Media"
+    }
+  ],
+  "intermediaries": []
+}

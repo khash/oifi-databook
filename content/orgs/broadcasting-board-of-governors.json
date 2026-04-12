@@ -1,0 +1,15 @@
+{
+  "entity_id": "broadcasting-board-of-governors",
+  "slug": "broadcasting-board-of-governors",
+  "name_en": "Broadcasting Board of Governors (BBG)",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "state-institution",
+  "founded": 1994,
+  "dissolved": 2018,
+  "parent_org": null,
+  "description": "The Broadcasting Board of Governors (BBG) was the US government agency responsible for supervising and funding non-military, international broadcasting by the United States from 1994 to 2018. It oversaw VOA Persian, Radio Farda (via Radio Free Europe/Radio Liberty), and other international broadcasting services targeting audiences in authoritarian states. In 2018, Congress reorganised the BBG into the [US Agency for Global Media (USAGM)](/orgs/us-agency-for-global-media), which assumed all its functions and responsibilities.",
+  "faction": null,
+  "tags": ["defunct"],
+  "editorial_notes": "Predecessor to USAGM (renamed/restructured 2018). Supervised VOA Persian and Radio Farda."
+}

@@ -1,0 +1,15 @@
+{
+  "entity_id": "komala-toilers-party",
+  "slug": "komala-toilers-party",
+  "name_en": "Komala Toilers Party (Zehmetkêshan)",
+  "name_fa": "حزب کومه‌له زحمتکشان کردستان ایران",
+  "has_native_fa_name": true,
+  "type": "political-party",
+  "founded": 2000,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Komala Toilers Party (Zehmetkêshan, meaning 'toilers' or 'labourers' in Kurdish) is the third major faction to emerge from the historic Komala organisation, distinct from both the [Komala Party of Iranian Kurdistan](/orgs/komala-party-of-iranian-kurdistan) led by Abdullah Mohtadi and the Communist Party of Iran-Komala faction led by Ibrahim Alizadeh. It represents a current that broke away during the post-2000 reorganisation of the Kurdish left, maintaining a Marxist orientation while charting an independent course from both of the larger Komala factions. Like the other Komala branches, it operates in exile from Iraqi Kurdistan and advocates Kurdish self-determination within a federal, democratic Iran.",
+  "faction": "opposition",
+  "tags": ["banned", "in-exile"],
+  "editorial_notes": "Third Komala faction. Distinct from Mohtadi's independent Komala and Alizadeh's CPI-Komala. Emerged from post-2000 splits."
+}

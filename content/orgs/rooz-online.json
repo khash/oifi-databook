@@ -1,0 +1,18 @@
+{
+  "entity_id": "rooz-online",
+  "slug": "rooz-online",
+  "name_en": "Rooz Online",
+  "name_fa": "روز آنلاین",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 2004,
+  "dissolved": null,
+  "parent_org": null,
+  "faction": "opposition",
+  "description": "Rooz Online was an Iranian reformist-to-opposition news website founded in 2004 by a collective of Iranian diaspora journalists and former reform-era editors. Operating from outside Iran, it published political analysis, human rights reporting, and news targeting the reformist and opposition readership. Rooz Online was one of the pioneering diaspora digital outlets of the mid-2000s, providing a platform for Iranian journalists who could not work freely inside the country. The outlet became largely inactive after roughly 2012–2014 as funding dried up and staff dispersed, but it remains historically significant as an early model of diaspora opposition media.",
+  "tags": [
+    "defunct",
+    "human-rights"
+  ],
+  "editorial_notes": "Largely inactive since ~2012–2014. Historically significant as early diaspora opposition outlet."
+}

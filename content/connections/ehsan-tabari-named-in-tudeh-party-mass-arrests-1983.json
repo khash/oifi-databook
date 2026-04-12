@@ -1,0 +1,17 @@
+{
+  "entity_id": "ehsan-tabari-named-in-tudeh-party-mass-arrests-1983",
+  "from_entity": "ehsan-tabari",
+  "to_entity": "tudeh-party-mass-arrests-1983",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "notes": "Tabari was among the senior Tudeh figures arrested and forced to make televised confessions in 1983",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ehsan_Tabari",
+      "source_title": "Ehsan Tabari — Wikipedia",
+      "source_date": "2024-01-01"
+    }
+  ]
+}

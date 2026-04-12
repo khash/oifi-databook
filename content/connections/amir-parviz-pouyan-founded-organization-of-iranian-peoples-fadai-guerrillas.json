@@ -1,0 +1,21 @@
+{
+  "entity_id": "amir-parviz-pouyan-founded-organization-of-iranian-peoples-fadai-guerrillas",
+  "from_entity": "amir-parviz-pouyan",
+  "to_entity": "organization-of-iranian-peoples-fadai-guerrillas",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "1971",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Organization_of_Iranian_People%27s_Fadai_Guerrillas",
+      "source_title": "Organization of Iranian People's Fadai Guerrillas — Wikipedia",
+      "source_date": "2026-04-12",
+      "description": "The Ahmadzadeh-Pouyan group co-founded OIPFG in 1971"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

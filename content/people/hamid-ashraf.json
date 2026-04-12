@@ -1,0 +1,19 @@
+{
+  "entity_id": "hamid-ashraf",
+  "slug": "hamid-ashraf",
+  "name_en": "Hamid Ashraf",
+  "name_fa": "حمید اشرف",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1946,
+  "birthplace": "Tehran, Iran",
+  "died": 1976,
+  "role": "Operational leader of the Organization of Iranian People's Fadai Guerrillas, 1971–1976",
+  "faction": "opposition",
+  "bio": "Hamid Ashraf (1946–1976) was the most celebrated operational commander of the [Organization of Iranian People's Fadai Guerrillas](/orgs/organization-of-iranian-peoples-fadai-guerrillas). After the founding generation of the Fadaiyan was decimated — [Amir Parviz Pouyan](/people/amir-parviz-pouyan) killed in 1971, [Bijan Jazani](/people/bijan-jazani) executed in 1975, and [Massoud Ahmadzadeh](/people/massoud-ahmadzadeh) executed in 1972 — Ashraf kept the organisation's underground network operational against sustained [SAVAK](/orgs/savak) pressure for five years. His ability to evade capture despite massive counter-insurgency operations gave him a near-legendary status on the Iranian left. On 29 June 1976, SAVAK forces located a safe house in Tehran; Ashraf and eight comrades were killed in the ensuing raid. His death marked the effective end of the OIPFG's armed campaign before the revolution, though the organisation reconstituted itself politically after 1979.",
+  "irgc_member": false,
+  "expertise": ["guerrilla warfare", "clandestine operations"],
+  "tags": ["deceased", "killed-in-action"],
+  "photo": null,
+  "editorial_notes": "Legendary operational leader. Kept OIPFG alive 1971-1976. Killed by SAVAK June 1976."
+}

@@ -1,0 +1,19 @@
+{
+  "entity_id": "jon-stewart-directed-rosewater-film-2014",
+  "from_entity": "jon-stewart",
+  "to_entity": "rosewater-film-2014",
+  "type": "organized",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": "2014",
+  "date_end": "2014",
+  "notes": "Jon Stewart wrote and directed Rosewater.",
+  "evidence": [
+    {
+      "name": "Wikipedia — Rosewater (film)",
+      "url": "https://en.wikipedia.org/wiki/Rosewater_(film)"
+    }
+  ],
+  "intermediaries": []
+}

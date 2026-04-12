@@ -1,0 +1,17 @@
+{
+  "entity_id": "amir-abbas-hoveyda-reports-to-mohammad-reza-shah-pahlavi",
+  "from_entity": "amir-abbas-hoveyda",
+  "to_entity": "mohammad-reza-shah-pahlavi",
+  "type": "reports-to",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "notes": "",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Amir_Abbas_Hoveyda",
+      "source_title": "Amir Abbas Hoveyda — Wikipedia",
+      "source_date": "2024-01-01"
+    }
+  ]
+}

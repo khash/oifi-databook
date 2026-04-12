@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-makki-participated-in-iranian-coup-1953",
+  "from_entity": "hossein-makki",
+  "to_entity": "iranian-coup-1953",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1953-08-19",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hossein_Makki",
+      "source_title": "Hossein Makki — Wikipedia",
+      "source_date": "2024",
+      "description": "Makki was a prominent National Front figure active during the events of August 1953 and affected by the coup's aftermath."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "National Front co-founder present during the coup period."
+}

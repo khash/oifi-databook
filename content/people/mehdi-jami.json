@@ -1,0 +1,25 @@
+{
+  "entity_id": "mehdi-jami",
+  "slug": "mehdi-jami",
+  "name_en": "Mehdi Jami",
+  "name_fa": "مهدی جامی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": "Iran",
+  "role": "Journalist, filmmaker, and founder of Radio Zamaneh",
+  "faction": "opposition",
+  "bio": "Mehdi Jami is an Iranian journalist, filmmaker, and media entrepreneur based in Amsterdam. He is the founder of [Radio Zamaneh](/orgs/radio-zamaneh), a Persian-language online media outlet launched in 2006 with support from the Dutch Foreign Ministry. Jami worked previously at the BBC Persian Service before establishing Radio Zamaneh as an independent diaspora outlet focused on civil society, women's rights, and minority communities in Iran. He is a pioneer of diaspora-based digital media aimed at Iranian audiences inside the country.",
+  "expertise": [
+    "journalism",
+    "digital media",
+    "civil society"
+  ],
+  "tags": [
+    "in-exile",
+    "human-rights"
+  ],
+  "photo": null,
+  "editorial_notes": "Based in Amsterdam. Former BBC Persian journalist. Founded Radio Zamaneh 2006.",
+  "irgc_member": false
+}

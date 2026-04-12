@@ -1,0 +1,19 @@
+{
+  "entity_id": "donya-journal-affiliated-with-tudeh-party-of-iran",
+  "from_entity": "donya-journal",
+  "to_entity": "tudeh-party-of-iran",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": null,
+  "date_end": null,
+  "notes": "The Donya journal's network formed the nucleus of the Group of Fifty-Three, whose survivors founded the Tudeh Party in 1941.",
+  "evidence": [
+    {
+      "name": "Wikipedia — Taghi Arani",
+      "url": "https://en.wikipedia.org/wiki/Taghi_Arani"
+    }
+  ],
+  "intermediaries": []
+}

@@ -1,0 +1,19 @@
+{
+  "entity_id": "soura-university-subsidiary-of-islamic-propaganda-organization",
+  "from_entity": "soura-university",
+  "to_entity": "islamic-propaganda-organization",
+  "type": "subsidiary-of",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": null,
+  "date_end": null,
+  "notes": null,
+  "evidence": [
+    {
+      "name": "Soura University official website",
+      "url": "https://www.soore.ac.ir"
+    }
+  ],
+  "intermediaries": []
+}

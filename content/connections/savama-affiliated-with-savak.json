@@ -1,0 +1,19 @@
+{
+  "entity_id": "savama-affiliated-with-savak",
+  "from_entity": "savama",
+  "to_entity": "savak",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": "1979",
+  "date_end": null,
+  "notes": "SAVAMA was the direct institutional successor to SAVAK, retaining much of its personnel and methods.",
+  "evidence": [
+    {
+      "name": "Wikipedia — SAVAMA",
+      "url": "https://en.wikipedia.org/wiki/SAVAMA"
+    }
+  ],
+  "intermediaries": []
+}

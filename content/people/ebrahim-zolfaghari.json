@@ -1,0 +1,26 @@
+{
+  "entity_id": "ebrahim-zolfaghari",
+  "slug": "ebrahim-zolfaghari",
+  "name_en": "Ebrahim Zolfaghari",
+  "name_fa": "ابراهیم ذوالفقاری",
+  "has_native_fa_name": true,
+  "role": "Spokesperson, Khatam al-Anbiya Central Headquarters",
+  "bio": "Brigadier General Ebrahim Zolfaghari is the official spokesperson of the [Khatam al-Anbiya Central Headquarters](/orgs/khatam-al-anbiya-central-headquarters), the joint operational command of Iran's armed forces. An IRGC-affiliated officer, Zolfaghari gained international prominence as Iran's primary military spokesperson during periods of heightened tensions with the United States and Israel. He has delivered video addresses to Israeli citizens in broken Hebrew. No individual sanctions designation has been identified.",
+  "faction": "hardliner",
+  "expertise": [
+    "military",
+    "public affairs"
+  ],
+  "tags": [
+    "military"
+  ],
+  "sources": [
+    {
+      "url": "https://www.israelnationalnews.com/news/423536",
+      "title": "Iranian Spokesman's Hebrew Address",
+      "date": "2026-03-22",
+      "publisher": "Arutz Sheva / Israel National News"
+    }
+  ],
+  "editorial_notes": "Rank sometimes reported as Lieutenant Colonel in earlier sources; more recent reporting uses Brigadier General."
+}

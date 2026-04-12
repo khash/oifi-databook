@@ -1,0 +1,21 @@
+{
+  "entity_id": "ebrahim-raisi-subject-of-catherine-perez-shakdam",
+  "from_entity": "ebrahim-raisi",
+  "to_entity": "catherine-perez-shakdam",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2017",
+  "date_to": "2017",
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202203079467",
+      "source_title": "Iranian Officials Deny Ties With 'Infiltrator' Jewish Female — Iran International",
+      "source_date": "2022-03-07",
+      "description": "Iran International confirms that Perez-Shakdam traveled to Iran during the 2017 presidential election and conducted an interview with then-candidate Ebrahim Raisi, gaining access to elite political circles while operating under her Muslim persona."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Raisi was interviewed by Perez-Shakdam during the 2017 presidential election campaign. At the time she was presenting as a Muslim Shia analyst for pro-Iran outlets."
+}

@@ -1,0 +1,17 @@
+{
+  "entity_id": "kazem-darabi-named-in-sadegh-sharafkandi",
+  "from_entity": "kazem-darabi",
+  "to_entity": "sadegh-sharafkandi",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "notes": "Darabi was convicted of assassinating Sharafkandi at the Mykonos restaurant in Berlin",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mykonos_restaurant_assassinations",
+      "source_title": "Mykonos restaurant assassinations — Wikipedia",
+      "source_date": "2024-01-01"
+    }
+  ]
+}

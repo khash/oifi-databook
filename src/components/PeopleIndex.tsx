@@ -106,7 +106,7 @@ export function PeopleIndex({ people }: { people: PersonItem[] }) {
           />
 
           <Select value={factionFilter} onValueChange={setFactionFilter}>
-            <SelectTrigger>
+            <SelectTrigger className="w-36">
               <SelectValue />
             </SelectTrigger>
             <SelectContent>
@@ -120,7 +120,7 @@ export function PeopleIndex({ people }: { people: PersonItem[] }) {
           </Select>
 
           <Select value={sort} onValueChange={(v) => setSort(v as SortKey)}>
-            <SelectTrigger>
+            <SelectTrigger className="w-36">
               <SelectValue />
             </SelectTrigger>
             <SelectContent>

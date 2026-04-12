@@ -1,0 +1,17 @@
+{
+  "entity_id": "ali-jafari-coordinated-with-hassan-tehrani-moghaddam",
+  "from_entity": "ali-jafari",
+  "to_entity": "hassan-tehrani-moghaddam",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "notes": "Jafari recounted early conversations with Moghaddam in Syria about missile development in the 1980s. Worked alongside Moghaddam as IRGC leadership developed Iran's ballistic missile capability.",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hassan_Tehrani_Moghaddam",
+      "source_title": "Hassan Tehrani Moghaddam — Wikipedia",
+      "source_date": "2024-01-01"
+    }
+  ]
+}

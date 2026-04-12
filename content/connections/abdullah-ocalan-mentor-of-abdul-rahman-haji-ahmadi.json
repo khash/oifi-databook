@@ -1,0 +1,19 @@
+{
+  "entity_id": "abdullah-ocalan-mentor-of-abdul-rahman-haji-ahmadi",
+  "from_entity": "abdullah-ocalan",
+  "to_entity": "abdul-rahman-haji-ahmadi",
+  "type": "mentor-of",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": null,
+  "date_end": null,
+  "notes": "PJAK was founded as an affiliate of the PKK under Öcalan's ideological framework. Haji Ahmadi adopted Öcalan's democratic confederalism as PJAK's ideological basis.",
+  "evidence": [
+    {
+      "name": "Wikipedia — PJAK",
+      "url": "https://en.wikipedia.org/wiki/Party_of_Free_Life_of_Kurdistan"
+    }
+  ],
+  "intermediaries": []
+}

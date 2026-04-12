@@ -1,0 +1,21 @@
+{
+  "entity_id": "catherine-perez-shakdam-named-in-kavakebian-indictment-perez-shakdam-2025",
+  "from_entity": "catherine-perez-shakdam",
+  "to_entity": "kavakebian-indictment-perez-shakdam-2025",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2025-07",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://iranwire.com/en/news/143144-iran-charges-former-mp-who-claimed-120-officials-had-sex-with-french-journalist/",
+      "source_title": "Iran Charges Former MP Who Claimed 120 Officials Had Sex With French Journalist",
+      "source_date": "2025-07",
+      "description": "The indictment arose directly from false public claims Kavakebian made about Perez-Shakdam on Iranian state television."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Perez-Shakdam is the subject of the false allegations; Iran's security apparatus confirmed no documents existed to support Kavakebian's claims."
+}

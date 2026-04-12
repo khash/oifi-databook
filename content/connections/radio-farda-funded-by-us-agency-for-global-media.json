@@ -1,0 +1,21 @@
+{
+  "entity_id": "radio-farda-funded-by-us-agency-for-global-media",
+  "from_entity": "radio-farda",
+  "to_entity": "us-agency-for-global-media",
+  "type": "funded-by",
+  "confidence": "confirmed",
+  "date_from": "2002",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Radio_Farda",
+      "source_title": "Radio Farda - Wikipedia",
+      "source_date": null,
+      "description": "Radio Farda is funded by the US Congress through USAGM."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

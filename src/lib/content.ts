@@ -75,6 +75,15 @@ export function getEntityTypeById(
   return undefined;
 }
 
+/** Returns a map of slug → { entity_id, type } for all entities. Used by renderMarkdownWithEntities. */
+export function getEntitySlugIndex(): Map<string, { entity_id: string; type: "person" | "org" | "event" }> {
+  const index = new Map<string, { entity_id: string; type: "person" | "org" | "event" }>();
+  for (const p of getPeople()) index.set(p.slug, { entity_id: p.entity_id, type: "person" });
+  for (const o of getOrgs()) index.set(o.slug, { entity_id: o.entity_id, type: "org" });
+  for (const e of getEvents()) index.set(e.slug, { entity_id: e.entity_id, type: "event" });
+  return index;
+}
+
 /** Returns all connections where the entity appears as from_entity or to_entity. */
 export function getConnectionsForEntity(entityId: string): Connection[] {
   return getConnections().filter(

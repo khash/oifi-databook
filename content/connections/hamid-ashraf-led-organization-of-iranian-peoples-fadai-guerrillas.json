@@ -1,0 +1,21 @@
+{
+  "entity_id": "hamid-ashraf-led-organization-of-iranian-peoples-fadai-guerrillas",
+  "from_entity": "hamid-ashraf",
+  "to_entity": "organization-of-iranian-peoples-fadai-guerrillas",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "1971",
+  "date_to": "1976",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hamid_Ashraf",
+      "source_title": "Hamid Ashraf — Wikipedia",
+      "source_date": "2026-04-12",
+      "description": "Operational leader of the OIPFG from 1971 until his death in June 1976"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,17 @@
+{
+  "entity_id": "mustafa-barzani-coordinated-with-qazi-muhammad",
+  "from_entity": "mustafa-barzani",
+  "to_entity": "qazi-muhammad",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "notes": "Barzani commanded KDP forces supporting the Republic of Mahabad under Qazi Muhammad",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mustafa_Barzani",
+      "source_title": "Mustafa Barzani — Wikipedia",
+      "source_date": "2024-01-01"
+    }
+  ]
+}

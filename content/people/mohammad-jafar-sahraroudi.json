@@ -1,0 +1,18 @@
+{
+  "entity_id": "mohammad-jafar-sahraroudi",
+  "slug": "mohammad-jafar-sahraroudi",
+  "name_en": "Mohammad Jafar Sahraroudi",
+  "name_fa": "محمدجعفر صحراروئی",
+  "has_native_fa_name": true,
+  "aliases": ["Muhammad Jafar Sahraroudi"],
+  "born": null,
+  "birthplace": null,
+  "role": "Iranian intelligence operative",
+  "faction": "hardliner",
+  "bio": "Mohammad Jafar Sahraroudi was an Iranian intelligence operative identified by Austrian investigators as a member of the Iranian delegation present at the apartment in Vienna on 13 July 1989, when PDKI leader [Abdul Rahman Ghassemlou](/people/abdul-rahman-ghassemlou) and two companions were assassinated in the [Ghassemlou assassination](/events/ghassemlou-assassination-1989). Austrian authorities named Sahraroudi as a suspect but controversially allowed him and the other Iranian delegation members to leave the country. He was linked to the [Ministry of Intelligence](/orgs/ministry-of-intelligence) and operated under the cover of peace negotiator. An Austrian arrest warrant was later issued but never executed.",
+  "irgc_member": false,
+  "expertise": ["intelligence operations"],
+  "tags": ["intelligence"],
+  "photo": null,
+  "editorial_notes": "Named by Austrian investigators as part of the assassination team. Allowed to leave Austria. Austrian arrest warrant issued but not executed."
+}

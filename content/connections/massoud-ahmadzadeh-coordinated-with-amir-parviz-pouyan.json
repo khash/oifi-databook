@@ -1,0 +1,21 @@
+{
+  "entity_id": "massoud-ahmadzadeh-coordinated-with-amir-parviz-pouyan",
+  "from_entity": "massoud-ahmadzadeh",
+  "to_entity": "amir-parviz-pouyan",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "1969",
+  "date_to": "1971",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Massoud_Ahmadzadeh",
+      "source_title": "Massoud Ahmadzadeh — Wikipedia",
+      "source_date": "2026-04-12",
+      "description": "Co-founders of the Ahmadzadeh-Pouyan group that merged with Jazani's group to form OIPFG in 1971"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

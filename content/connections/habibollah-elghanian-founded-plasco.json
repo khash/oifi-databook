@@ -1,0 +1,17 @@
+{
+  "entity_id": "habibollah-elghanian-founded-plasco",
+  "from_entity": "habibollah-elghanian",
+  "to_entity": "plasco",
+  "type": "founded",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "notes": "Elghanian founded PLASCO in 1948 as Iran's first major plastics manufacturer; it grew into the largest plastics enterprise in the Middle East",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Habib_Elghanian",
+      "source_title": "Habib Elghanian — Wikipedia",
+      "source_date": "2024-01-01"
+    }
+  ]
+}

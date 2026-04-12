@@ -1,0 +1,16 @@
+{
+  "entity_id": "islamic-propaganda-organization",
+  "slug": "islamic-propaganda-organization",
+  "name_en": "Islamic Propaganda Organization",
+  "name_fa": "سازمان تبلیغات اسلامی",
+  "aliases": ["Islamic Propagation Organization", "IPO"],
+  "type": "state-institution",
+  "founded": 1979,
+  "dissolved": null,
+  "description": "The Islamic Propaganda Organization (سازمان تبلیغات اسلامی) is a quasi-state cultural and religious body established after the 1979 revolution, operating under the direct supervision of the Supreme Leader. It manages religious messaging, cultural production, and arts policy across Iran, including oversight of affiliated institutions such as Soura University and the Arts Organization. Senior clerics and cultural officials have held leadership positions within the organization, which is a key instrument of ideological governance within the Islamic Republic.",
+  "tags": [
+    "clerical"
+  ],
+  "parent_org": null,
+  "editorial_notes": "Operates under Supreme Leader's direct control. Key vehicle for cultural and religious policy."
+}

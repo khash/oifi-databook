@@ -1,0 +1,21 @@
+{
+  "entity_id": "catherine-perez-shakdam-published-mintpress-news",
+  "from_entity": "catherine-perez-shakdam",
+  "to_entity": "mintpress-news",
+  "type": "published",
+  "confidence": "confirmed",
+  "date_from": "2014",
+  "date_to": "2017",
+  "evidence": [
+    {
+      "source_url": "https://www.mintpressnews.com/catherine-shakdam-israeli-spy-infiltrated-mintpress-news/282889/",
+      "source_title": "Catherine Perez-Shakdam: The 'Israeli Spy' Who 'Infiltrated' MintPress",
+      "source_date": "2022-12-14",
+      "description": "MintPress CEO Mnar Adley confirmed Perez-Shakdam was a regular contributor between 2014 and 2017, writing under the name Catherine Shakdam."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "She published under the byline 'Catherine Shakdam'. MintPress later distanced itself by framing her contributions as an 'infiltration'."
+}

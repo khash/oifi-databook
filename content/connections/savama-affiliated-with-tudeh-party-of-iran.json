@@ -1,0 +1,19 @@
+{
+  "entity_id": "savama-affiliated-with-tudeh-party-of-iran",
+  "from_entity": "savama",
+  "to_entity": "tudeh-party-of-iran",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": "1983",
+  "date_end": "1983",
+  "notes": "SAVAMA orchestrated the mass arrest and interrogation of the Tudeh Party leadership in 1983.",
+  "evidence": [
+    {
+      "name": "Wikipedia — Tudeh Party of Iran",
+      "url": "https://en.wikipedia.org/wiki/Tudeh_Party_of_Iran"
+    }
+  ],
+  "intermediaries": []
+}

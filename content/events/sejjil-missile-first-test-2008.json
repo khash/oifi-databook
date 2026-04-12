@@ -1,0 +1,25 @@
+{
+  "entity_id": "sejjil-missile-first-test-2008",
+  "slug": "sejjil-missile-first-test-2008",
+  "name": "Sejjil Missile First Test (2008)",
+  "date": "2008-11",
+  "type": "policy",
+  "description": "In November 2008, Iran successfully test-fired the Sejjil (سجیل), its first two-stage solid-fuelled ballistic missile, marking a major milestone in the programme developed under [Hassan Tehrani Moghaddam](/people/hassan-tehrani-moghaddam). Unlike earlier liquid-fuelled missiles, the Sejjil's solid propellant allowed for faster launch preparation and greater mobility, reducing vulnerability to pre-emptive strikes. The missile has an estimated range of approximately 2,000–2,500 km, placing Israel and much of the Middle East within reach. Development of the solid-fuel technology was assisted by expertise from North Korea. A second test was conducted in May 2009. The Sejjil programme significantly advanced Iran's deterrence posture and was among Moghaddam's most technically ambitious projects.",
+  "tags": [
+    "military",
+    "nuclear"
+  ],
+  "sources": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Sejjil_(missile)",
+      "source_title": "Sejjil missile — Wikipedia",
+      "source_date": "2008-11-12"
+    },
+    {
+      "source_url": "https://missilethreat.csis.org/missile/sejjil/",
+      "source_title": "Sejjil — CSIS Missile Defense Project",
+      "source_date": "2021-01-01"
+    }
+  ],
+  "editorial_notes": "First test dated to November 2008. Some sources give 12 November 2008 as the specific date. North Korean technical assistance is assessed as confirmed by multiple Western intelligence assessments."
+}

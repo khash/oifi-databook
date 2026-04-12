@@ -1,0 +1,17 @@
+{
+  "entity_id": "sadegh-khalkhali-named-in-alavi-school",
+  "from_entity": "sadegh-khalkhali",
+  "to_entity": "alavi-school",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "notes": "Khalkhali presided over the summary trials that resulted in the first four post-revolution executions, carried out on the rooftop of the Alavi School complex on 15–16 February 1979",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Sadegh_Khalkhali",
+      "source_title": "Sadegh Khalkhali — Wikipedia",
+      "source_date": "2024-01-01"
+    }
+  ]
+}

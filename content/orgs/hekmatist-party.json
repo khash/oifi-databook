@@ -1,0 +1,15 @@
+{
+  "entity_id": "hekmatist-party",
+  "slug": "hekmatist-party",
+  "name_en": "Worker-communist Party of Iran — Hekmatist",
+  "name_fa": "حزب کمونیست کارگری ایران — حکمتیست",
+  "has_native_fa_name": true,
+  "type": "political-party",
+  "founded": 2004,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Worker-communist Party of Iran — Hekmatist (WPI-H) is a splinter party that emerged following a leadership dispute after the death of [Mansoor Hekmat](/people/mansoor-hekmat) in 2002. The faction led by Koorosh Modarresi formally split from the [Worker-communist Party of Iran](/orgs/worker-communist-party-of-iran) in 2004, claiming to be the legitimate heir to Hekmat's ideological legacy and accusing the Hamid Taqvaee-led WPI of deviating from Hekmat's line. The party operates in exile and publishes theoretical works positioning itself as the orthodox current of worker-communism. The split reflects personal and political disagreements over party direction following Hekmat's death rather than fundamental ideological divergence.",
+  "faction": "opposition",
+  "tags": ["banned", "in-exile", "defunct"],
+  "editorial_notes": "Koorosh Modarresi-led split from WPI in 2004. Claims Hekmat's legacy. Considered largely defunct by 2010s."
+}

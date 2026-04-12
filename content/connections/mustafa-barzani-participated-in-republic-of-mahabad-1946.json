@@ -1,0 +1,21 @@
+{
+  "entity_id": "mustafa-barzani-participated-in-republic-of-mahabad-1946",
+  "from_entity": "mustafa-barzani",
+  "to_entity": "republic-of-mahabad-1946",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1946-01-22",
+  "date_to": "1946-12",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mustafa_Barzani",
+      "source_title": "Mustafa Barzani — Wikipedia",
+      "source_date": null,
+      "description": "Barzani led the military forces of the Republic of Mahabad in 1946, crossing from Iraq to support the Kurdish state alongside Qazi Muhammad."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Barzani commanded Mahabad's armed forces. After republic's collapse he led a fighting retreat to the Soviet Union."
+}

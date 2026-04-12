@@ -1,0 +1,21 @@
+{
+  "entity_id": "gholam-hossein-sadighi-participated-in-iranian-coup-1953",
+  "from_entity": "gholam-hossein-sadighi",
+  "to_entity": "iranian-coup-1953",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1953-08-19",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Gholam-Hossein_Sadighi",
+      "source_title": "Gholam-Hossein Sadighi — Wikipedia",
+      "source_date": "2024",
+      "description": "As Minister of Interior in Mossadegh's cabinet, Sadighi was directly affected by the coup and was arrested in its aftermath."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Served as Interior Minister when coup occurred; subsequently arrested."
+}

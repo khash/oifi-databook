@@ -1,0 +1,21 @@
+{
+  "entity_id": "gholam-hossein-sadighi-aligned-with-karim-sanjabi",
+  "from_entity": "gholam-hossein-sadighi",
+  "to_entity": "karim-sanjabi",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "1949",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/National_Front_(Iran)",
+      "source_title": "National Front (Iran) — Wikipedia",
+      "source_date": "2024",
+      "description": "Sadighi and Sanjabi were fellow co-founders and senior leaders of the National Front."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": "Fellow National Front co-founders and long-term colleagues."
+}

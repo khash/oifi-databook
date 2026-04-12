@@ -1,0 +1,15 @@
+{
+  "entity_id": "anglo-iranian-oil-company",
+  "slug": "anglo-iranian-oil-company",
+  "name_en": "Anglo-Iranian Oil Company (AIOC)",
+  "name_fa": "شرکت نفت ایران و انگلیس",
+  "has_native_fa_name": false,
+  "type": "business",
+  "founded": 1909,
+  "dissolved": 1954,
+  "parent_org": null,
+  "description": "The Anglo-Iranian Oil Company (AIOC) was a British oil company with a monopoly over Iran's petroleum resources. Formed in 1909 as the Anglo-Persian Oil Company (renamed in 1935), the AIOC was the central grievance of Iran's oil nationalisation movement. Prime Minister Mohammad Mossadegh and the [National Front](/orgs/national-front-iran) led the drive to nationalise the company in 1951, ending British control. The AIOC appealed to the British government, triggering a British oil embargo against Iran and ultimately co-sponsoring with the CIA the [1953 Iranian coup d'état](/events/iranian-coup-1953) that overthrew Mossadegh. After the coup the AIOC was restructured into the British Petroleum Company (BP) and its Iranian assets were returned under a new consortium agreement. [Hossein Makki](/people/hossein-makki) was one of the leading nationalist figures who championed nationalisation in the Majlis.",
+  "faction": null,
+  "tags": ["defunct"],
+  "editorial_notes": "Founded 1909 as Anglo-Persian Oil Company. Renamed AIOC 1935. Nationalised by Mossadegh 1951. Renamed British Petroleum (BP) 1954 after post-coup settlement."
+}

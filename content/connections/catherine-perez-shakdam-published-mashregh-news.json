@@ -1,0 +1,21 @@
+{
+  "entity_id": "catherine-perez-shakdam-published-mashregh-news",
+  "from_entity": "catherine-perez-shakdam",
+  "to_entity": "mashregh-news",
+  "type": "published",
+  "confidence": "confirmed",
+  "date_from": "2013",
+  "date_to": "2021",
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202203079467",
+      "source_title": "Iranian Officials Deny Ties With 'Infiltrator' Jewish Female — Iran International",
+      "source_date": "2022-03-07",
+      "description": "Iran International reports that Perez-Shakdam contributed to Mashregh News and other Iranian state media outlets; content was deleted after her November 2021 disclosure."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Articles deleted by Mashregh News following her November 2021 disclosure."
+}

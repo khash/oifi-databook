@@ -1,0 +1,19 @@
+{
+  "entity_id": "anglo-iranian-oil-company-named-in-iranian-coup-1953",
+  "from_entity": "anglo-iranian-oil-company",
+  "to_entity": "iranian-coup-1953",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": null,
+  "date_end": null,
+  "notes": "The nationalisation of the AIOC was the proximate cause of the coup. The company lobbied the British government and worked with MI6 to orchestrate the overthrow of Mossadegh.",
+  "evidence": [
+    {
+      "name": "Wikipedia — Anglo-Iranian Oil Company",
+      "url": "https://en.wikipedia.org/wiki/Anglo-Iranian_Oil_Company"
+    }
+  ],
+  "intermediaries": []
+}

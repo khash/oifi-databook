@@ -1,0 +1,19 @@
+{
+  "entity_id": "fadel-rasoul-coordinated-with-abdullah-ghaderi-azar",
+  "from_entity": "fadel-rasoul",
+  "to_entity": "abdullah-ghaderi-azar",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": null,
+  "date_end": "1989",
+  "notes": "Both killed in the same Vienna apartment on 13 July 1989.",
+  "evidence": [
+    {
+      "name": "Wikipedia — Assassination of Abdul Rahman Ghassemlou",
+      "url": "https://en.wikipedia.org/wiki/Assassination_of_Abdul_Rahman_Ghassemlou"
+    }
+  ],
+  "intermediaries": []
+}

@@ -7,10 +7,12 @@ import { GraphExplorer } from "@/components/GraphExplorer"
 import { FactionSpectrum } from "@/components/FactionSpectrum"
 import { ConnectionsList } from "@/components/ConnectionsList"
 import { SPECTRUM_FACTIONS, INVERSE_LABELS } from "@/lib/constants"
-import { renderMarkdown, stripMarkdown } from "@/lib/markdown"
+import { renderMarkdownWithEntities, stripMarkdown } from "@/lib/markdown"
+import { getEntitySlugIndex } from "@/lib/content"
 import { annotateDatesInHtml } from "@/lib/date"
 import type { Person } from "@/lib/types"
 import AskChatGPT from "@/components/AskChatGPT.astro"
+import FormattedDate from "@/components/FormattedDate.astro"
 
 export function getStaticPaths() {
   return getPeople().map((p) => ({ params: { slug: p.slug }, props: { person: p } }))
@@ -27,6 +29,7 @@ const connectionItems = connections.map((conn) => {
   const label = conn.from_entity === person.entity_id ? conn.type.replace(/-/g, " ") : INVERSE_LABELS[conn.type] ?? conn.type.replace(/-/g, " ")
   return { type: conn.type, confidence: conn.confidence, label, otherName: "name_en" in other ? other.name_en : other.name, href, dateFrom: conn.date_from, dateTo: conn.date_to }
 }).filter((x): x is NonNullable<typeof x> => x !== null)
+const entityIndex = getEntitySlugIndex()
 const desc = stripMarkdown(person.bio).slice(0, 160)
 
 const jsonLd = {
@@ -51,7 +54,7 @@ const jsonLd = {
   <article data-pagefind-body>
     <div class="flex flex-wrap items-baseline gap-3">
       <h1 class="text-2xl font-bold" data-pagefind-meta="title">{person.name_en}</h1>
-      {person.has_native_fa_name && <span class="text-lg text-muted-foreground" dir="rtl" lang="fa">{person.name_fa}</span>}
+      {person.name_fa && <span class="text-lg text-muted-foreground" dir="rtl" lang="fa">{person.name_fa}</span>}
     </div>
 
     <p class="mt-1 text-sm text-muted-foreground" set:html={annotateDatesInHtml(person.role)} />
@@ -75,7 +78,7 @@ const jsonLd = {
 
     <Separator className="my-6" />
 
-    <div class="prose prose-sm dark:prose-invert max-w-none" set:html={renderMarkdown(person.bio)} />
+    <div class="prose prose-sm dark:prose-invert max-w-none" set:html={renderMarkdownWithEntities(person.bio, entityIndex)} />
 
     <span data-pagefind-meta={`type:person`} class="hidden" />
     {person.faction && <span data-pagefind-meta={`faction:${person.faction}`} class="hidden" />}
@@ -104,6 +107,22 @@ const jsonLd = {
 
     {connectionItems.length > 0 && (
       <ConnectionsList client:load connections={connectionItems} />
+    )}
+
+    {person.sources?.length > 0 && (
+      <div>
+        <h2 class="mt-8 mb-3 text-sm font-medium text-muted-foreground">Sources</h2>
+        <ul class="space-y-2">
+          {person.sources.map((src) => (
+            <li class="text-sm">
+              <a href={src.url} target="_blank" rel="noopener noreferrer" class="font-medium hover:underline">
+                {src.title}
+              </a>
+              <span class="text-muted-foreground"> &middot; {src.publisher}{src.date && <> &middot; <FormattedDate date={src.date} /></>}</span>
+            </li>
+          ))}
+        </ul>
+      </div>
     )}
 
     <AskChatGPT entityName={person.name_en} entityType="person" context={person.role ? `Role: ${person.role}.` : undefined} />

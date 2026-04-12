@@ -4,7 +4,8 @@ import { Badge } from "@/components/ui/badge"
 import { Separator } from "@/components/ui/separator"
 import { getEvents, getConnectionsForEntity, getEntityById, getEntityTypeById } from "@/lib/content"
 import { GraphExplorer } from "@/components/GraphExplorer"
-import { renderMarkdown, stripMarkdown } from "@/lib/markdown"
+import { renderMarkdownWithEntities, stripMarkdown } from "@/lib/markdown"
+import { getEntitySlugIndex } from "@/lib/content"
 import type { Event } from "@/lib/types"
 import { ConnectionsList } from "@/components/ConnectionsList"
 import FormattedDate from "@/components/FormattedDate.astro"
@@ -26,6 +27,7 @@ const connectionItems = connections.map((conn) => {
   const label = conn.from_entity === event.entity_id ? conn.type.replace(/-/g, " ") : INVERSE_LABELS[conn.type] ?? conn.type.replace(/-/g, " ")
   return { type: conn.type, confidence: conn.confidence, label, otherName: "name_en" in other ? other.name_en : other.name, href, dateFrom: conn.date_from, dateTo: conn.date_to }
 }).filter((x): x is NonNullable<typeof x> => x !== null)
+const entityIndex = getEntitySlugIndex()
 const desc = stripMarkdown(event.description).slice(0, 160)
 
 const jsonLd = {
@@ -61,10 +63,10 @@ const jsonLd = {
 
     <Separator className="my-6" />
 
-    <div class="prose prose-sm dark:prose-invert max-w-none" set:html={renderMarkdown(event.description)} />
+    <div class="prose prose-sm dark:prose-invert max-w-none" set:html={renderMarkdownWithEntities(event.description, entityIndex)} />
 
     {event.body && (
-      <div class="prose prose-sm dark:prose-invert mt-6 max-w-none" set:html={renderMarkdown(event.body)} />
+      <div class="prose prose-sm dark:prose-invert mt-6 max-w-none" set:html={renderMarkdownWithEntities(event.body, entityIndex)} />
     )}
 
     <span data-pagefind-meta={`type:event`} class="hidden" />

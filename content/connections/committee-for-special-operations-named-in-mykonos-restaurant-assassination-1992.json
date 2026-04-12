@@ -1,0 +1,19 @@
+{
+  "entity_id": "committee-for-special-operations-named-in-mykonos-restaurant-assassination-1992",
+  "from_entity": "committee-for-special-operations",
+  "to_entity": "mykonos-restaurant-assassination-1992",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": null,
+  "date_end": null,
+  "notes": "The Berlin court verdict explicitly identified the Committee for Special Operations as having ordered the Mykonos killings.",
+  "evidence": [
+    {
+      "name": "Berlin District Court verdict — Mykonos trial (10 April 1997)",
+      "url": "https://en.wikipedia.org/wiki/Mykonos_restaurant_assassinations"
+    }
+  ],
+  "intermediaries": []
+}

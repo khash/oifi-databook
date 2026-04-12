@@ -1,0 +1,19 @@
+{
+  "entity_id": "jon-stewart-affiliated-with-maziar-bahari",
+  "from_entity": "jon-stewart",
+  "to_entity": "maziar-bahari",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": null,
+  "date_end": null,
+  "notes": "Stewart directed Rosewater, a film based on Bahari's memoir about his imprisonment.",
+  "evidence": [
+    {
+      "name": "Wikipedia — Rosewater (film)",
+      "url": "https://en.wikipedia.org/wiki/Rosewater_(film)"
+    }
+  ],
+  "intermediaries": []
+}

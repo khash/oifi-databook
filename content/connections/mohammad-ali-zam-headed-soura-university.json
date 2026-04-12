@@ -1,0 +1,19 @@
+{
+  "entity_id": "mohammad-ali-zam-headed-soura-university",
+  "from_entity": "mohammad-ali-zam",
+  "to_entity": "soura-university",
+  "type": "headed",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": null,
+  "date_end": null,
+  "notes": null,
+  "evidence": [
+    {
+      "name": "IranWire — Mohammad-Ali Zam profile",
+      "url": "https://iranwire.com"
+    }
+  ],
+  "intermediaries": []
+}

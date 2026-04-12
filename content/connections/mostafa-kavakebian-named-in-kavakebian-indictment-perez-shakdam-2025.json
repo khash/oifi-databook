@@ -1,0 +1,21 @@
+{
+  "entity_id": "mostafa-kavakebian-named-in-kavakebian-indictment-perez-shakdam-2025",
+  "from_entity": "mostafa-kavakebian",
+  "to_entity": "kavakebian-indictment-perez-shakdam-2025",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2025-07",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://iranwire.com/en/news/143144-iran-charges-former-mp-who-claimed-120-officials-had-sex-with-french-journalist/",
+      "source_title": "Iran Charges Former MP Who Claimed 120 Officials Had Sex With French Journalist",
+      "source_date": "2025-07",
+      "description": "IranWire confirmed Tehran's prosecutor charged Kavakebian for making unsupported public allegations about Perez-Shakdam on state TV."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Kavakebian is the defendant; he was charged, convicted, and given a suspended sentence plus a two-year media ban."
+}

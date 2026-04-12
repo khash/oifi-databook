@@ -1,0 +1,19 @@
+{
+  "entity_id": "reza-shah-pahlavi-named-in-allied-invasion-of-iran-1941",
+  "from_entity": "reza-shah-pahlavi",
+  "to_entity": "allied-invasion-of-iran-1941",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": null,
+  "date_end": null,
+  "notes": "The Allied invasion directly caused Reza Shah's forced abdication on 16 September 1941.",
+  "evidence": [
+    {
+      "name": "Wikipedia — Anglo-Soviet invasion of Iran",
+      "url": "https://en.wikipedia.org/wiki/Anglo-Soviet_invasion_of_Iran"
+    }
+  ],
+  "intermediaries": []
+}

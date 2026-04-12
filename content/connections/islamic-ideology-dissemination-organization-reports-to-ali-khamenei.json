@@ -1,0 +1,21 @@
+{
+  "entity_id": "islamic-ideology-dissemination-organization-reports-to-ali-khamenei",
+  "from_entity": "islamic-ideology-dissemination-organization",
+  "to_entity": "ali-khamenei",
+  "type": "reports-to",
+  "confidence": "confirmed",
+  "date_from": "1989",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Islamic_Ideology_Dissemination_Organization",
+      "source_title": "Islamic Ideology Dissemination Organization - Wikipedia",
+      "source_date": null,
+      "description": "The IIDO is subordinate to the Supreme Leader's office."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

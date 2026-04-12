@@ -1,0 +1,25 @@
+{
+  "entity_id": "kurdistan-conflict-post-revolution-1979-1983",
+  "slug": "kurdistan-conflict-post-revolution-1979-1983",
+  "name": "Kurdistan Conflict Post-Revolution (1979–1983)",
+  "date": "1979-08",
+  "type": "purge",
+  "description": "Following the [Iranian Revolution of 1979](/events/iranian-revolution-1979), Kurdish political groups — primarily the [Democratic Party of Iranian Kurdistan](/orgs/democratic-party-of-iranian-kurdistan) (PDKI) and [Komala](/orgs/komala-party-of-iranian-kurdistan) — demanded autonomy for the Kurdish regions. When negotiations collapsed and Ruhollah Khomeini issued a fatwa declaring jihad against armed Kurdish groups in August 1979, the [Islamic Revolutionary Guard Corps](/orgs/islamic-revolutionary-guard-corps) launched a sustained military campaign into Kurdistan Province, Kermanshah, and West Azerbaijan. Heavy fighting erupted in Sanandaj, Mahabad, and Paveh. Sadegh Khalkhali, appointed as 'hanging judge,' conducted summary executions in recaptured towns. Tens of thousands were killed, wounded, or displaced over the course of the campaign. PDKI leader [Abdul Rahman Ghassemlou](/people/abdul-rahman-ghassemlou) led armed resistance, while Komala also mounted guerrilla operations. By 1983, the Islamic Republic had established military control over the major urban centres, pushing Kurdish forces into the mountains and ultimately into exile in Iraqi Kurdistan. The conflict effectively ended organised Kurdish armed resistance inside Iran, though low-level clashes continued throughout the Iran-Iraq War period.",
+  "body": null,
+  "sources": [
+    {
+      "name": "Human Rights Watch — Guardians of Thought: Limits on Freedom of Expression in Iran",
+      "url": "https://www.hrw.org/reports/1993/iran/"
+    },
+    {
+      "name": "Wikipedia — KDPI–Islamic Republic conflict",
+      "url": "https://en.wikipedia.org/wiki/KDPI%E2%80%93Islamic_Republic_conflict"
+    },
+    {
+      "name": "Jwaideh, Wadie. The Kurdish National Movement. Syracuse University Press, 2006.",
+      "url": null
+    }
+  ],
+  "tags": ["human-rights", "proxy-warfare"],
+  "editorial_notes": "Major urban fighting 1979-1980. Khalkhali conducted mass executions. PDKI and Komala pushed to exile by 1983. Part of broader pattern of post-revolutionary consolidation."
+}

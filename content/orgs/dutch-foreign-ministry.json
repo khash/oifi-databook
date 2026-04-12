@@ -1,0 +1,15 @@
+{
+  "entity_id": "dutch-foreign-ministry",
+  "slug": "dutch-foreign-ministry",
+  "name_en": "Dutch Ministry of Foreign Affairs",
+  "name_fa": "وزارت امور خارجه هلند",
+  "has_native_fa_name": false,
+  "type": "state-institution",
+  "founded": 1798,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Dutch Ministry of Foreign Affairs (Ministerie van Buitenlandse Zaken) is the Netherlands government department responsible for foreign policy and international relations. In the context of Iranian diaspora media, the Dutch Ministry of Foreign Affairs provided initial funding for the launch of [Radio Zamaneh](/orgs/radio-zamaneh) in Amsterdam in 2006, making the Netherlands government a key early funder of independent Persian-language diaspora media. This support was part of a broader Dutch policy of promoting freedom of information and press freedom in authoritarian states.",
+  "faction": null,
+  "tags": [],
+  "editorial_notes": "Funded Radio Zamaneh launch 2006. Netherlands government foreign policy body."
+}

@@ -1,0 +1,17 @@
+{
+  "entity_id": "habibollah-elghanian-named-in-sadegh-khalkhali",
+  "from_entity": "habibollah-elghanian",
+  "to_entity": "sadegh-khalkhali",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "notes": "Khalkhali presided over Elghanian's revolutionary tribunal",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Habib_Elghanian",
+      "source_title": "Habib Elghanian — Wikipedia",
+      "source_date": "2024-01-01"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "entity_id": "masoud-barzani-named-in-republic-of-mahabad-1946",
+  "from_entity": "masoud-barzani",
+  "to_entity": "republic-of-mahabad-1946",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": "1946",
+  "date_end": "1946",
+  "notes": "Masoud Barzani was born in Mahabad in 1946 during his father Mustafa Barzani's participation in the Republic of Mahabad.",
+  "evidence": [
+    {
+      "name": "Wikipedia — Masoud Barzani",
+      "url": "https://en.wikipedia.org/wiki/Masoud_Barzani"
+    }
+  ],
+  "intermediaries": []
+}

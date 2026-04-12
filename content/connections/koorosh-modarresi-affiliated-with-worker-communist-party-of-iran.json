@@ -1,0 +1,19 @@
+{
+  "entity_id": "koorosh-modarresi-affiliated-with-worker-communist-party-of-iran",
+  "from_entity": "koorosh-modarresi",
+  "to_entity": "worker-communist-party-of-iran",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": null,
+  "date_end": "2004",
+  "notes": "Modarresi was a senior WPI member before leading the 2004 split.",
+  "evidence": [
+    {
+      "name": "Wikipedia — Worker-communist Party of Iran (Hekmatist)",
+      "url": "https://en.wikipedia.org/wiki/Worker-communist_Party_of_Iran_(Hekmatist)"
+    }
+  ],
+  "intermediaries": []
+}

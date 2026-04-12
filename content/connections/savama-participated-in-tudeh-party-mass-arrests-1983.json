@@ -1,0 +1,19 @@
+{
+  "entity_id": "savama-participated-in-tudeh-party-mass-arrests-1983",
+  "from_entity": "savama",
+  "to_entity": "tudeh-party-mass-arrests-1983",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": "1983",
+  "date_end": "1983",
+  "notes": "SAVAMA conducted the surveillance, arrests, and interrogations of the Tudeh Party leadership in 1983.",
+  "evidence": [
+    {
+      "name": "Wikipedia — Tudeh Party of Iran",
+      "url": "https://en.wikipedia.org/wiki/Tudeh_Party_of_Iran"
+    }
+  ],
+  "intermediaries": []
+}

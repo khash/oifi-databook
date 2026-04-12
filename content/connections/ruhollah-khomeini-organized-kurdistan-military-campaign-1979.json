@@ -1,0 +1,17 @@
+{
+  "entity_id": "ruhollah-khomeini-organized-kurdistan-military-campaign-1979",
+  "from_entity": "ruhollah-khomeini",
+  "to_entity": "kurdistan-military-campaign-1979",
+  "type": "organized",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "notes": "Khomeini authorised the military campaign against Kurdish regions",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Sadegh_Khalkhali",
+      "source_title": "Sadegh Khalkhali — Wikipedia",
+      "source_date": "2024-01-01"
+    }
+  ]
+}

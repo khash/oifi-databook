@@ -1,0 +1,21 @@
+{
+  "entity_id": "mozaffar-baghai-aligned-with-karim-sanjabi",
+  "from_entity": "mozaffar-baghai",
+  "to_entity": "karim-sanjabi",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "1949",
+  "date_to": "1952",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/National_Front_(Iran)",
+      "source_title": "National Front (Iran) \u2014 Wikipedia",
+      "source_date": "2024",
+      "description": "Baghai and Sanjabi co-founded the National Front together in 1949."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": "Fellow co-founders; Baghai later broke from the National Front mainstream."
+}

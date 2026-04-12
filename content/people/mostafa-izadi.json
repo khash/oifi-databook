@@ -1,0 +1,25 @@
+{
+  "entity_id": "mostafa-izadi",
+  "slug": "mostafa-izadi",
+  "name_en": "Mostafa Izadi",
+  "name_fa": "مصطفی ایزدی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "died": null,
+  "role": "Senior IRGC commander; close associate of Hassan Tehrani Moghaddam",
+  "faction": "hardliner",
+  "bio": "Mostafa Izadi is a senior commander in the [Islamic Revolutionary Guard Corps](/orgs/islamic-revolutionary-guard-corps) who served alongside [Hassan Tehrani Moghaddam](/people/hassan-tehrani-moghaddam) in the early years of Iran's ballistic missile programme. Izadi testified that Moghaddam pioneered the IRGC's ground-to-ground missile systems from 1984, beginning with the Oghab rocket during the Iran–Iraq War. He has been cited as one of Moghaddam's closest colleagues and provided first-hand accounts of the foundational period of Iran's indigenous missile development effort.",
+  "expertise": [
+    "ballistic missiles",
+    "IRGC operations",
+    "military engineering"
+  ],
+  "tags": [
+    "military"
+  ],
+  "photo": null,
+  "irgc_member": true,
+  "editorial_notes": "Izadi testified publicly that Moghaddam developed ground-to-ground missile systems from 1984. Biographical details are sparse in open sources; role and faction inferred from IRGC affiliation and context."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "gholam-hossein-sadighi-served-in-university-of-tehran",
+  "from_entity": "gholam-hossein-sadighi",
+  "to_entity": "university-of-tehran",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Gholam-Hossein_Sadighi",
+      "source_title": "Gholam-Hossein Sadighi — Wikipedia",
+      "source_date": "2024",
+      "description": "Sadighi was a professor and academic administrator at the University of Tehran."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Professor and rector."
+}

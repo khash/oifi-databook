@@ -1,0 +1,21 @@
+{
+  "entity_id": "catherine-perez-shakdam-subject-of-mostafa-kavakebian",
+  "from_entity": "catherine-perez-shakdam",
+  "to_entity": "mostafa-kavakebian",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2025-07",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://iranwire.com/en/news/143144-iran-charges-former-mp-who-claimed-120-officials-had-sex-with-french-journalist/",
+      "source_title": "Iran Charges Former MP Who Claimed 120 Officials Had Sex With French Journalist",
+      "source_date": "2025-07",
+      "description": "Kavakebian made unsupported public allegations about Perez-Shakdam on Iranian state television in July 2025, claiming she had sexual relationships with 120 senior officials. Iran's security apparatus rejected the claims and Tehran's prosecutor charged him for the statements."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Kavakebian's claims were rejected by Iran's own security and judicial bodies. He was convicted and given a suspended sentence plus two-year media ban."
+}

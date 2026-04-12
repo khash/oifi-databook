@@ -1,0 +1,21 @@
+{
+  "entity_id": "masoud-barzani-organized-kurdistan-independence-referendum-2017",
+  "from_entity": "masoud-barzani",
+  "to_entity": "kurdistan-independence-referendum-2017",
+  "type": "organized",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2017_Kurdistan_Region_independence_referendum",
+      "source_title": "2017 Kurdistan Region independence referendum — Wikipedia",
+      "source_date": "2026-04-12",
+      "description": "The referendum was called and organised by KRG President Masoud Barzani. He stepped down as KRG President on 1 November 2017 following the referendum's political and military fallout."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

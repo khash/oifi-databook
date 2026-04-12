@@ -1,0 +1,19 @@
+{
+  "entity_id": "ahmadzadeh-pouyan-group-aligned-with-organization-of-iranian-peoples-fadai-guerrillas",
+  "from_entity": "ahmadzadeh-pouyan-group",
+  "to_entity": "organization-of-iranian-peoples-fadai-guerrillas",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "symmetric": true,
+  "family_subtype": null,
+  "date_start": "1971",
+  "date_end": null,
+  "notes": "The Ahmadzadeh-Pouyan Group merged with Bijan Jazani's network in 1971 to form the OIPFG, the main Marxist guerrilla organization.",
+  "evidence": [
+    {
+      "name": "Wikipedia — Organization of Iranian People's Fadai Guerrillas",
+      "url": "https://en.wikipedia.org/wiki/Organization_of_Iranian_People%27s_Fadai_Guerrillas"
+    }
+  ],
+  "intermediaries": []
+}

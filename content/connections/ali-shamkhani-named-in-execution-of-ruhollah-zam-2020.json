@@ -1,0 +1,19 @@
+{
+  "entity_id": "ali-shamkhani-named-in-execution-of-ruhollah-zam-2020",
+  "from_entity": "ali-shamkhani",
+  "to_entity": "execution-of-ruhollah-zam-2020",
+  "type": "named-in",
+  "confidence": "alleged",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": null,
+  "date_end": null,
+  "notes": "Mohammad-Ali Zam (Ruhollah Zam's father) publicly accused Shamkhani of ordering the IRGC intelligence operation to lure Ruhollah Zam to Iraq.",
+  "evidence": [
+    {
+      "name": "Iran Wire — Mohammad-Ali Zam interview",
+      "url": "https://iranwire.com"
+    }
+  ],
+  "intermediaries": []
+}

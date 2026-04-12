@@ -1,0 +1,21 @@
+{
+  "entity_id": "murray-bookchin-mentor-of-abdullah-ocalan",
+  "from_entity": "murray-bookchin",
+  "to_entity": "abdullah-ocalan",
+  "type": "mentor-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Democratic_confederalism",
+      "source_title": "Democratic confederalism — Wikipedia",
+      "source_date": "2026-04-12",
+      "description": "Öcalan adapted Bookchin's libertarian municipalism into democratic confederalism while imprisoned on Imrali island after 1999. He described himself as Bookchin's student and attempted to arrange a meeting before Bookchin died in July 2006. The PKK formally adopted democratic confederalism around 2005."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Ideological mentorship — Bookchin's libertarian municipalism became the basis for Öcalan's democratic confederalism."
+}

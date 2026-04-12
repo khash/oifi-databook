@@ -1,0 +1,19 @@
+{
+  "entity_id": "koorosh-modarresi-founded-hekmatist-party",
+  "from_entity": "koorosh-modarresi",
+  "to_entity": "hekmatist-party",
+  "type": "founded",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": "2004",
+  "date_end": null,
+  "notes": null,
+  "evidence": [
+    {
+      "name": "Wikipedia — Worker-communist Party of Iran (Hekmatist)",
+      "url": "https://en.wikipedia.org/wiki/Worker-communist_Party_of_Iran_(Hekmatist)"
+    }
+  ],
+  "intermediaries": []
+}

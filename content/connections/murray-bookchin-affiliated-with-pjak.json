@@ -1,0 +1,21 @@
+{
+  "entity_id": "murray-bookchin-affiliated-with-pjak",
+  "from_entity": "murray-bookchin",
+  "to_entity": "pjak",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Democratic_confederalism",
+      "source_title": "Democratic confederalism — Wikipedia",
+      "source_date": "2026-04-12",
+      "description": "PJAK, as a PKK-affiliated organisation operating within the KCK structure, adopted democratic confederalism as its foundational ideology — an ideology derived from Bookchin's libertarian municipalism via Öcalan."
+    }
+  ],
+  "intermediaries": ["abdullah-ocalan", "pkk"],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Ideological affiliation only — indirect, via PKK and Öcalan."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "siahkal-incident-1971-subject-of-organization-of-iranian-peoples-fadai-guerrillas",
+  "from_entity": "siahkal-incident-1971",
+  "to_entity": "organization-of-iranian-peoples-fadai-guerrillas",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "1971-02-08",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Siahkal_incident",
+      "source_title": "Siahkal incident — Wikipedia",
+      "source_date": "2026-04-12",
+      "description": "The Siahkal attack was the founding act that crystallised the OIPFG as an organisation"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

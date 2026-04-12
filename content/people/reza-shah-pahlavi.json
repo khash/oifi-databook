@@ -1,0 +1,29 @@
+{
+  "entity_id": "reza-shah-pahlavi",
+  "slug": "reza-shah-pahlavi",
+  "name_en": "Reza Shah Pahlavi",
+  "name_fa": "رضا شاه پهلوی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Reza Khan",
+    "Reza Shah",
+    "Reza the Great"
+  ],
+  "born": 1878,
+  "birthplace": "Alasht, Mazandaran, Iran",
+  "role": "Shah of Iran (1925–1941); Founder of the Pahlavi dynasty",
+  "faction": null,
+  "bio": "Reza Shah Pahlavi was the founder of the Pahlavi dynasty and Shah of Iran from 1925 until his forced abdication in 1941. Born Reza Khan in a military family, he rose from a Cossack officer to seize power through the 1921 coup d'état, becoming prime minister and then deposing the last Qajar ruler to declare himself Shah in 1925.\n\nHis reign was marked by rapid secular modernisation — building railways, founding Tehran University, reforming the civil service, introducing conscription, and banning the veil — but also by brutal authoritarian rule, suppression of tribal autonomy, and elimination of political opposition. In 1937 his security services arrested 53 prominent Marxist intellectuals in the crackdown later known as the [Group of Fifty-Three arrests (1937)](/events/group-of-fifty-three-arrests-1937), effectively ending the Communist Party of Iran and setting the stage for the later founding of the Tudeh Party.\n\nFollowing the Anglo-Soviet invasion of Iran in August 1941, the Allied powers forced Reza Shah to abdicate in favour of his eldest son, [Mohammad Reza Shah Pahlavi](/people/mohammad-reza-shah-pahlavi). He died in exile in Johannesburg, South Africa on 26 July 1944.",
+  "expertise": [
+    "military command",
+    "state-building",
+    "modernisation"
+  ],
+  "tags": [
+    "deceased",
+    "military",
+    "executive"
+  ],
+  "photo": null,
+  "editorial_notes": "Born 15 March 1878 in Alasht, Mazandaran. Shah 1925–1941. Abdicated under Allied pressure Aug 1941. Died 26 July 1944 in Johannesburg. Father of Mohammad Reza Shah Pahlavi."
+}

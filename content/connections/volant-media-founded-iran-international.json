@@ -1,0 +1,21 @@
+{
+  "entity_id": "volant-media-founded-iran-international",
+  "from_entity": "volant-media",
+  "to_entity": "iran-international",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "2017",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Iran_International",
+      "source_title": "Iran International - Wikipedia",
+      "source_date": null,
+      "description": "Iran International was founded by Volant Media Ltd in 2017."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

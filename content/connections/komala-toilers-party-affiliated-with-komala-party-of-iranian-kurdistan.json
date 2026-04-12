@@ -1,0 +1,17 @@
+{
+  "entity_id": "komala-toilers-party-affiliated-with-komala-party-of-iranian-kurdistan",
+  "from_entity": "komala-toilers-party",
+  "to_entity": "komala-party-of-iranian-kurdistan",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "notes": "The Komala Toilers Party is one of several factions that split from the original Komala",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Komala_Party_of_Iranian_Kurdistan",
+      "source_title": "Komala — Wikipedia",
+      "source_date": "2024-01-01"
+    }
+  ]
+}

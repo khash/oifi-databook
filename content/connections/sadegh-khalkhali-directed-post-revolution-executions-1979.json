@@ -1,0 +1,17 @@
+{
+  "entity_id": "sadegh-khalkhali-directed-post-revolution-executions-1979",
+  "from_entity": "sadegh-khalkhali",
+  "to_entity": "post-revolution-executions-1979",
+  "type": "directed",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "notes": "Khalkhali headed the revolutionary tribunals that carried out the post-revolution executions",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Sadegh_Khalkhali",
+      "source_title": "Sadegh Khalkhali — Wikipedia",
+      "source_date": "2024-01-01"
+    }
+  ]
+}

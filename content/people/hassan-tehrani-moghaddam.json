@@ -1,0 +1,33 @@
+{
+  "entity_id": "hassan-tehrani-moghaddam",
+  "slug": "hassan-tehrani-moghaddam",
+  "name_en": "Hassan Tehrani Moghaddam",
+  "name_fa": "حسن طهرانی‌مقدم",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Hassan Tehrani-Moghaddam",
+    "Hasan Tehrani Moghaddam",
+    "Father of Iran's Missile Program"
+  ],
+  "born": 1959,
+  "birthplace": "Tehran, Iran",
+  "died": 2011,
+  "role": "Brigadier General, IRGC; founder of Iran's ballistic missile programme",
+  "faction": "hardliner",
+  "bio": "Hassan Tehrani Moghaddam (1959–2011) was an [IRGC](/orgs/islamic-revolutionary-guard-corps) Brigadier General widely regarded as the principal architect of Iran's ballistic missile programme. He joined the IRGC at the outbreak of the Iran–Iraq War in 1980 and by 1982 had established the IRGC's first artillery corps. In October 1983 he founded the IRGC missile command centre and in March 1985 directed Iran's first indigenous missile strike, against Kirkuk, Iraq. He subsequently served as Missile Commander of the [IRGC Aerospace Force](/orgs/irgc-aerospace-force) from 1985 onward, overseeing development of every major Iranian ballistic missile system including the Oghab, Naze'at, Zelzal, Shahab-1, Shahab-2, Shahab-3, Ghadr-110, and Sejjil solid-fuelled missile. In 1986–87 he travelled to Lebanon to establish [Hezbollah](/orgs/hezbollah)'s first missile unit, extending Iran's deterrence architecture into the region. He was killed on 12 November 2011 in the [Bid Kaneh explosion](/events/bid-kaneh-explosion-2011) at the Modarres missile garrison near Shahriar, along with sixteen other IRGC members. Iranian authorities attributed the blast to an accident during munitions handling; Western officials and Israeli signals suggested deliberate sabotage. [Ali Khamenei](/people/ali-khamenei) attended his funeral personally — an exceptional honour reflecting Moghaddam's strategic importance to the regime.",
+  "expertise": [
+    "ballistic missiles",
+    "military engineering",
+    "IRGC operations",
+    "missile programme management"
+  ],
+  "tags": [
+    "military",
+    "nuclear",
+    "deceased",
+    "killed-in-action"
+  ],
+  "photo": null,
+  "irgc_member": true,
+  "editorial_notes": "Known colloquially as 'the father of Iran's missile program.' Killed in the Bid Kaneh explosion, 12 November 2011. Western and Israeli signals strongly implied deliberate sabotage; no definitive public proof. Khamenei's personal attendance at funeral was extraordinary. Do not cite Iranian state media claims about the explosion's accidental nature without noting the contested attribution."
+}

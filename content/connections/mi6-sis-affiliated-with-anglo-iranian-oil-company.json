@@ -1,0 +1,19 @@
+{
+  "entity_id": "mi6-sis-affiliated-with-anglo-iranian-oil-company",
+  "from_entity": "mi6-sis",
+  "to_entity": "anglo-iranian-oil-company",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": "1951",
+  "date_end": "1953",
+  "notes": "MI6 orchestrated the 1953 coup largely at the AIOC's behest and in defence of British oil interests.",
+  "evidence": [
+    {
+      "name": "Wikipedia — Anglo-Iranian Oil Company",
+      "url": "https://en.wikipedia.org/wiki/Anglo-Iranian_Oil_Company"
+    }
+  ],
+  "intermediaries": []
+}

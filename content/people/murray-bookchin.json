@@ -1,0 +1,19 @@
+{
+  "entity_id": "murray-bookchin",
+  "slug": "murray-bookchin",
+  "name_en": "Murray Bookchin",
+  "name_fa": "موری بوکچین",
+  "has_native_fa_name": false,
+  "aliases": [],
+  "born": 1921,
+  "birthplace": "Bronx, New York, USA",
+  "died": 2006,
+  "role": "Political philosopher; founder of social ecology and libertarian municipalism",
+  "faction": null,
+  "bio": "Murray Bookchin (1921–2006) was an American political philosopher and social theorist who developed the theory of **social ecology** — the thesis that ecological crises are rooted in social hierarchies and can only be resolved through fundamentally democratic social reorganisation — and from it derived **libertarian municipalism**: the concept of directly democratic neighbourhood assemblies confederated across cities as an alternative to both capitalism and the centralised nation-state. Born to Russian Jewish immigrants in the Bronx, Bookchin moved through Communist youth organisations and Trotskyism before charting his own course. In 1999 he broke formally with anarchism and named his philosophy **communalism**.\n\nBookchin's most significant indirect impact on Iranian politics came through [Abdullah Öcalan](/people/abdullah-ocalan), the imprisoned founder of the [PKK](/orgs/pkk). Imprisoned on Imrali island after 1999, Öcalan encountered Bookchin's writings and adapted libertarian municipalism into **democratic confederalism** — a bottom-up, feminist, ecologist, and pluralist self-governance model that explicitly rejects the nation-state as a goal. Öcalan described himself as Bookchin's student and attempted to arrange a meeting before Bookchin died in July 2006. The PKK formally adopted democratic confederalism around 2005. Through the PKK-affiliated [PJAK](/orgs/pjak), this ideology became the foundational framework for Iranian Kurdish armed resistance after 2004, giving Bookchin an indirect but documented influence on the Iranian-Kurdish political landscape.",
+  "irgc_member": false,
+  "expertise": ["political philosophy", "social ecology", "libertarian municipalism"],
+  "tags": ["deceased"],
+  "photo": null,
+  "editorial_notes": "Non-Iranian. Included because his political philosophy directly shaped PKK/PJAK ideology via Öcalan's adoption of democratic confederalism. Born 1921, died 2006."
+}

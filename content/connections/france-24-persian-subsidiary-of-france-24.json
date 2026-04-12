@@ -1,0 +1,19 @@
+{
+  "entity_id": "france-24-persian-subsidiary-of-france-24",
+  "from_entity": "france-24-persian",
+  "to_entity": "france-24",
+  "type": "subsidiary-of",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": "2017",
+  "date_end": null,
+  "notes": null,
+  "evidence": [
+    {
+      "name": "France 24 Persian official website",
+      "url": "https://www.france24.com/fa/"
+    }
+  ],
+  "intermediaries": []
+}

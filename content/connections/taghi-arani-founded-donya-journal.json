@@ -1,0 +1,19 @@
+{
+  "entity_id": "taghi-arani-founded-donya-journal",
+  "from_entity": "taghi-arani",
+  "to_entity": "donya-journal",
+  "type": "founded",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": "1934",
+  "date_end": null,
+  "notes": null,
+  "evidence": [
+    {
+      "name": "Wikipedia — Taghi Arani",
+      "url": "https://en.wikipedia.org/wiki/Taghi_Arani"
+    }
+  ],
+  "intermediaries": []
+}

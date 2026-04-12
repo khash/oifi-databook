@@ -1,0 +1,17 @@
+{
+  "entity_id": "nematollah-nassiri-named-in-sadegh-khalkhali",
+  "from_entity": "nematollah-nassiri",
+  "to_entity": "sadegh-khalkhali",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "notes": "Khalkhali presided over Nassiri's trial",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Nematollah_Nassiri",
+      "source_title": "Nematollah Nassiri — Wikipedia",
+      "source_date": "2024-01-01"
+    }
+  ]
+}

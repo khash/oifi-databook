@@ -1,0 +1,19 @@
+{
+  "entity_id": "abdullah-ocalan-founded-pkk",
+  "from_entity": "abdullah-ocalan",
+  "to_entity": "pkk",
+  "type": "founded",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": "1978",
+  "date_end": null,
+  "notes": null,
+  "evidence": [
+    {
+      "name": "Wikipedia — Abdullah Öcalan",
+      "url": "https://en.wikipedia.org/wiki/Abdullah_%C3%96calan"
+    }
+  ],
+  "intermediaries": []
+}

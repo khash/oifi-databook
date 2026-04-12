@@ -1,0 +1,17 @@
+{
+  "entity_id": "alavi-school",
+  "slug": "alavi-school",
+  "name_en": "Alavi School",
+  "name_fa": "مدرسه علوی",
+  "has_native_fa_name": true,
+  "type": "religious",
+  "founded": 1960,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Alavi School is a Tehran institution built and funded by the bazaari merchant class. On 1 February 1979, when [Ruhollah Khomeini](/people/ruhollah-khomeini) returned from exile, the Alavi School complex (together with the adjacent Refah School) became his Tehran headquarters and the operational nerve centre of the revolution. Khomeini resided at the Alavi School while the nearby Refah School was used for press operations and the Islamic Revolutionary Court. It was on the rooftop of this complex that the first four revolutionary executions took place on the night of 15–16 February 1979, when [Nematollah Nassiri](/people/nematollah-nassiri), [Mehdi Rahimi](/people/mehdi-rahimi), [Manouchehr Khosrodad](/people/manouchehr-khosrodad), and [Reza Naji](/people/reza-naji) were shot by firing squad following summary trials presided over by [Sadegh Khalkhali](/people/sadegh-khalkhali).",
+  "faction": "hardliner",
+  "tags": [
+    "clerical"
+  ],
+  "editorial_notes": "Khomeini's Tehran HQ from 1 Feb 1979. Site of first four revolutionary executions on night of 15-16 Feb 1979. Adjacent to Refah School."
+}

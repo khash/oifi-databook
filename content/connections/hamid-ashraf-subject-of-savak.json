@@ -1,0 +1,21 @@
+{
+  "entity_id": "hamid-ashraf-subject-of-savak",
+  "from_entity": "hamid-ashraf",
+  "to_entity": "savak",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "1976",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hamid_Ashraf",
+      "source_title": "Hamid Ashraf — Wikipedia",
+      "source_date": "2026-04-12",
+      "description": "Killed by SAVAK forces in a Tehran safe house raid on 29 June 1976"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

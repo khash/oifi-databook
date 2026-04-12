@@ -1,0 +1,25 @@
+{
+  "entity_id": "amol-uprising-1982",
+  "slug": "amol-uprising-1982",
+  "name": "Amol Uprising (1982)",
+  "date": "1982-01",
+  "type": "protest",
+  "description": "The Amol uprising of January–February 1982 was an armed insurrection launched by the [Union of Iranian Communists (Sarbedaran)](/orgs/union-of-iranian-communists-sarbedaran) against the Islamic Republic — the only significant armed communist insurrection attempted inside Iran after the 1979 revolution. Taking inspiration from their namesake medieval revolt, Sarbedaran fighters descended from bases in the forests of the Alborz mountains on Amol, a city in Mazandaran province in northern Iran, on 25 January 1982. The fighters — numbering in the hundreds — briefly occupied parts of the city, seized the police headquarters, and called on the population to rise against the Islamic Republic. The uprising was swiftly and brutally crushed by [IRGC](/orgs/islamic-revolutionary-guard-corps) forces and Basij militias who responded in strength within days. The majority of the Sarbedaran fighters were killed in combat or captured; those captured were subsequently executed. The organisation was effectively destroyed as an armed force. The failed uprising demonstrated the revolutionary left's inability to mount sustained armed resistance to the Islamic Republic, which by 1982 had consolidated its hold on state power and defeated or suppressed all armed opposition groups.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Amol_uprising",
+      "title": "Amol uprising — Wikipedia",
+      "date": "2026-04-12",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Union_of_Iranian_Communists_(Sarbedaran)",
+      "title": "Union of Iranian Communists (Sarbedaran) — Wikipedia",
+      "date": "2026-04-12",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": ["human-rights"],
+  "editorial_notes": "25 Jan 1982. Sarbedaran fighters seized parts of Amol; crushed by IRGC within days. Effectively ended Sarbedaran as an armed organisation."
+}

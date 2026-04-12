@@ -1,0 +1,19 @@
+{
+  "entity_id": "democratic-party-of-iran-1909-affiliated-with-tudeh-party-of-iran",
+  "from_entity": "democratic-party-of-iran-1909",
+  "to_entity": "tudeh-party-of-iran",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": null,
+  "date_end": null,
+  "notes": "The Democratic Party of Iran (1909) is a genealogical antecedent of the Tudeh Party through the Eskandari family and other constitutionalist lefitst networks.",
+  "evidence": [
+    {
+      "name": "Wikipedia — Tudeh Party of Iran",
+      "url": "https://en.wikipedia.org/wiki/Tudeh_Party_of_Iran"
+    }
+  ],
+  "intermediaries": []
+}

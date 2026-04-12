@@ -1,0 +1,19 @@
+{
+  "entity_id": "abdullah-ocalan-affiliated-with-pjak",
+  "from_entity": "abdullah-ocalan",
+  "to_entity": "pjak",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": null,
+  "date_end": null,
+  "notes": "PJAK was founded as an affiliate of Öcalan's PKK, adopting his democratic confederalism ideology.",
+  "evidence": [
+    {
+      "name": "Wikipedia — Party of Free Life of Kurdistan",
+      "url": "https://en.wikipedia.org/wiki/Party_of_Free_Life_of_Kurdistan"
+    }
+  ],
+  "intermediaries": []
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "murray-bookchin-affiliated-with-pkk",
+  "from_entity": "murray-bookchin",
+  "to_entity": "pkk",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Democratic_confederalism",
+      "source_title": "Democratic confederalism — Wikipedia",
+      "source_date": "2026-04-12",
+      "description": "The PKK formally adopted democratic confederalism around 2005, a political ideology directly derived from Murray Bookchin's libertarian municipalism via Öcalan's adaptation."
+    }
+  ],
+  "intermediaries": ["abdullah-ocalan"],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Ideological affiliation only — Bookchin's philosophy became the PKK's foundational ideology via Öcalan."
+}

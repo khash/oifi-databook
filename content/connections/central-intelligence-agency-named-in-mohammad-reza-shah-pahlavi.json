@@ -1,0 +1,19 @@
+{
+  "entity_id": "central-intelligence-agency-named-in-mohammad-reza-shah-pahlavi",
+  "from_entity": "central-intelligence-agency",
+  "to_entity": "mohammad-reza-shah-pahlavi",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": "1953",
+  "date_end": "1953",
+  "notes": "The CIA's Operation Ajax overthrew Mossadegh and restored the Shah to full autocratic power in 1953.",
+  "evidence": [
+    {
+      "name": "Wikipedia — 1953 Iranian coup d'état",
+      "url": "https://en.wikipedia.org/wiki/1953_Iranian_coup_d%27%C3%A9tat"
+    }
+  ],
+  "intermediaries": []
+}

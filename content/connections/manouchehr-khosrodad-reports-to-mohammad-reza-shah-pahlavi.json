@@ -1,0 +1,17 @@
+{
+  "entity_id": "manouchehr-khosrodad-reports-to-mohammad-reza-shah-pahlavi",
+  "from_entity": "manouchehr-khosrodad",
+  "to_entity": "mohammad-reza-shah-pahlavi",
+  "type": "reports-to",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "notes": "As commander of Army Aviation, Khosrodad served in the Imperial Iranian Army under the Shah's command",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Manouchehr_Khosrodad",
+      "source_title": "Manouchehr Khosrodad — Wikipedia",
+      "source_date": "2024-01-01"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "entity_id": "mozaffar-baghai-founded-toilers-party-of-iran",
+  "from_entity": "mozaffar-baghai",
+  "to_entity": "toilers-party-of-iran",
+  "type": "founded",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": "1951",
+  "date_end": null,
+  "notes": null,
+  "evidence": [
+    {
+      "name": "Wikipedia — Mozaffar Baghai",
+      "url": "https://en.wikipedia.org/wiki/Mozaffar_Baghai"
+    }
+  ],
+  "intermediaries": []
+}

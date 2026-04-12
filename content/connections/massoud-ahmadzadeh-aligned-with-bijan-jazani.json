@@ -1,0 +1,21 @@
+{
+  "entity_id": "massoud-ahmadzadeh-aligned-with-bijan-jazani",
+  "from_entity": "massoud-ahmadzadeh",
+  "to_entity": "bijan-jazani",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "1971",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Organization_of_Iranian_People%27s_Fadai_Guerrillas",
+      "source_title": "Organization of Iranian People's Fadai Guerrillas — Wikipedia",
+      "source_date": "2026-04-12",
+      "description": "The Ahmadzadeh-Pouyan group merged with the Jazani-Zarifi group in 1971 to form OIPFG"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

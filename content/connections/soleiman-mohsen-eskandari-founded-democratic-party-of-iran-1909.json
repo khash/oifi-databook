@@ -1,0 +1,19 @@
+{
+  "entity_id": "soleiman-mohsen-eskandari-founded-democratic-party-of-iran-1909",
+  "from_entity": "soleiman-mohsen-eskandari",
+  "to_entity": "democratic-party-of-iran-1909",
+  "type": "founded",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": "1909",
+  "date_end": null,
+  "notes": null,
+  "evidence": [
+    {
+      "name": "Wikipedia — Soleiman Mohsen Eskandari",
+      "url": "https://en.wikipedia.org/wiki/Soleiman_Mohsen_Eskandari"
+    }
+  ],
+  "intermediaries": []
+}

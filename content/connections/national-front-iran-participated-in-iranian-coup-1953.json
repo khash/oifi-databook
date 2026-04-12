@@ -1,0 +1,21 @@
+{
+  "entity_id": "national-front-iran-participated-in-iranian-coup-1953",
+  "from_entity": "national-front-iran",
+  "to_entity": "iranian-coup-1953",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1953-08-19",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/1953_Iranian_coup_d%27%C3%A9tat",
+      "source_title": "1953 Iranian coup d'état — Wikipedia",
+      "source_date": "2024",
+      "description": "The National Front's government was overthrown; its leaders were arrested in the coup's aftermath."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "National Front was the primary political target of the coup."
+}

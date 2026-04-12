@@ -1,0 +1,19 @@
+{
+  "entity_id": "toilers-party-of-iran-affiliated-with-national-front-iran",
+  "from_entity": "toilers-party-of-iran",
+  "to_entity": "national-front-iran",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": "1951",
+  "date_end": "1953",
+  "notes": "The Toilers' Party was a constituent member of the National Front coalition until Baghai broke with Mossadegh in 1953.",
+  "evidence": [
+    {
+      "name": "Wikipedia — National Front (Iran)",
+      "url": "https://en.wikipedia.org/wiki/National_Front_(Iran)"
+    }
+  ],
+  "intermediaries": []
+}

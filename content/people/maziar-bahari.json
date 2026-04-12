@@ -1,0 +1,26 @@
+{
+  "entity_id": "maziar-bahari",
+  "slug": "maziar-bahari",
+  "name_en": "Maziar Bahari",
+  "name_fa": "مازیار بهاری",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1967,
+  "birthplace": "Tehran, Iran",
+  "role": "Journalist, filmmaker, and founder of IranWire",
+  "faction": "opposition",
+  "bio": "Maziar Bahari is an Iranian-Canadian journalist and documentary filmmaker best known for being imprisoned by the Islamic Republic for 118 days following the disputed 2009 presidential election. Arrested on 21 June 2009, he was held in Evin Prison and subjected to torture and psychological coercion, ultimately delivering a forced confession broadcast on [IRIB](/orgs/irib). His memoir *Then They Came for Me* and Jon Stewart's 2014 film *Rosewater* drew wide international attention to his case. After his release, Bahari became one of the most prominent advocates for press freedom in Iran. In 2014 he founded [IranWire](/orgs/iranwire), an independent investigative journalism platform based in London that trains Iranian citizen journalists and reports on human rights, IRGC corruption, and political repression. Bahari holds Canadian citizenship and has lived in exile since his release.",
+  "expertise": [
+    "investigative journalism",
+    "documentary filmmaking",
+    "press freedom"
+  ],
+  "tags": [
+    "political-prisoner",
+    "in-exile",
+    "human-rights"
+  ],
+  "photo": null,
+  "editorial_notes": "Founded IranWire 2014. Imprisoned 118 days in 2009. Film Rosewater (2014) directed by Jon Stewart.",
+  "irgc_member": false
+}

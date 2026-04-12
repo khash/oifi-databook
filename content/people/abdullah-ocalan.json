@@ -1,0 +1,22 @@
+{
+  "entity_id": "abdullah-ocalan",
+  "slug": "abdullah-ocalan",
+  "name_en": "Abdullah Öcalan",
+  "name_fa": "عبدالله اوجالان",
+  "has_native_fa_name": false,
+  "aliases": ["Apo", "Abdullah Ocalan", "APO"],
+  "born": 1949,
+  "birthplace": "Ömerli, Halfeti, Turkey",
+  "role": "Founder and ideological leader of the PKK (Kurdistan Workers' Party)",
+  "faction": "opposition",
+  "bio": "Abdullah Öcalan is the founder and paramount ideological leader of the [PKK](/orgs/pkk) (Partiya Karkerên Kurdistanê — Kurdistan Workers' Party), founded in 1978. He launched the PKK's armed insurgency against the Turkish state in 1984, initially pursuing an independent Kurdish state and later evolving toward a model of democratic confederalism inspired by the political philosophy of Murray Bookchin. Öcalan was captured in Kenya in February 1999 in a joint Turkish-CIA operation and has been held in solitary confinement on İmralı Island in Turkey ever since, where he remains one of the world's longest-held political prisoners. Despite his imprisonment, he continues to shape PKK and affiliated organisations' ideology and strategy through occasional letters and legal statements. His philosophy of democratic confederalism forms the ideological backbone of the [PKK](/orgs/pkk) and its affiliated groups, including [PJAK](/orgs/pjak), the Iranian Kurdish armed organisation active in Iran's border regions. His writings and prison manifestos remain the defining ideological texts for the broader Kurdish freedom movement.",
+  "expertise": [
+    "Kurdish politics",
+    "political ideology",
+    "armed insurgency"
+  ],
+  "tags": ["political-prisoner"],
+  "photo": null,
+  "editorial_notes": "Captured in Kenya 1999. Held on İmralı Island. Designated terrorist by Turkey, US, EU. Ideological parent of PJAK and PKK.",
+  "irgc_member": false
+}

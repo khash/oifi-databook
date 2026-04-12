@@ -1,0 +1,19 @@
+{
+  "entity_id": "koorosh-modarresi-affiliated-with-mansoor-hekmat",
+  "from_entity": "koorosh-modarresi",
+  "to_entity": "mansoor-hekmat",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": null,
+  "date_end": "2002",
+  "notes": "Modarresi was a leading member of Hekmat's WPI before founding the Hekmatist split in 2004.",
+  "evidence": [
+    {
+      "name": "Wikipedia — Worker-communist Party of Iran (Hekmatist)",
+      "url": "https://en.wikipedia.org/wiki/Worker-communist_Party_of_Iran_(Hekmatist)"
+    }
+  ],
+  "intermediaries": []
+}

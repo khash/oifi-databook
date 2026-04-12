@@ -1,0 +1,14 @@
+{
+  "entity_id": "iranian-peoples-fadai-guerrillas-aligned-with-fadaiyan-e-khalq-minority",
+  "from_entity": "iranian-peoples-fadai-guerrillas",
+  "to_entity": "fadaiyan-e-khalq-minority",
+  "type": "aligned-with",
+  "confidence": "alleged",
+  "date_from": "1980",
+  "date_to": null,
+  "evidence": [],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": "Shared origins in OIPFG split; both maintain opposition line"
+}

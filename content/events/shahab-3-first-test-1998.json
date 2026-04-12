@@ -1,0 +1,26 @@
+{
+  "entity_id": "shahab-3-first-test-1998",
+  "slug": "shahab-3-first-test-1998",
+  "name": "Shahab-3 First Test (1998)",
+  "date": "1998-07",
+  "type": "policy",
+  "description": "In July 1998, Iran conducted the first test flight of the Shahab-3 (شهاب ۳), a medium-range ballistic missile developed under [Hassan Tehrani Moghaddam](/people/hassan-tehrani-moghaddam)'s direction. Based on the North Korean Nodong-1 design, the Shahab-3 had an estimated range of 1,300–1,500 km — sufficient to reach Israel, Saudi Arabia, and U.S. military bases in the Gulf region. The test was a major escalation in Iran's deterrence posture and prompted immediate concern from Western governments and Israel. Further tests followed in 2000 and 2003 before the missile entered operational service with the [IRGC Aerospace Force](/orgs/irgc-aerospace-force). The Shahab-3 formed the backbone of Iran's strategic deterrent for over a decade and was the platform from which later variants, including the Ghadr-110 and Emad, were derived.",
+  "tags": [
+    "military",
+    "nuclear",
+    "sanctions"
+  ],
+  "sources": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Shahab-3",
+      "source_title": "Shahab-3 — Wikipedia",
+      "source_date": "1998-07-22"
+    },
+    {
+      "source_url": "https://missilethreat.csis.org/missile/shahab-3/",
+      "source_title": "Shahab-3 — CSIS Missile Defense Project",
+      "source_date": "2021-01-01"
+    }
+  ],
+  "editorial_notes": "First test conducted 22 July 1998. Development relied heavily on North Korean Nodong technology and Russian technical assistance. Moghaddam's direct role is confirmed by multiple post-2011 IRGC tributes and testimonies."
+}

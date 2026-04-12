@@ -1,0 +1,17 @@
+{
+  "entity_id": "plasco",
+  "slug": "plasco",
+  "name_en": "PLASCO",
+  "name_fa": "پلاسکو",
+  "has_native_fa_name": true,
+  "type": "business",
+  "founded": 1948,
+  "dissolved": 1979,
+  "parent_org": null,
+  "description": "PLASCO (Plāscokār) was [Habibollah Elghanian](/people/habibollah-elghanian)'s flagship industrial conglomerate and the foundation of his business empire. Founded in 1948, it began as Iran's first major plastics manufacturer, operating 270 machines processing 50–60 tons of PVC daily by the mid-1960s and growing into the largest plastics enterprise in the Middle East. The conglomerate diversified into aluminium production, PVC pipes (Louleh Shomal), refrigerators (General Steel), and mining, employing approximately 20,000 workers across all ventures at its peak.\n\nElghanian also constructed the iconic 17-storey Plasco Building in central Tehran in 1962 — Iran's first private high-rise skyscraper — which housed a shopping mall, fashion industry tenants, and commercial offices. After Elghanian's arrest and execution following the [1979 Iranian Revolution](/events/iranian-revolution-1979), all PLASCO assets were confiscated by the state. The Plasco Building, heavily associated with the Elghanian name and pre-revolutionary Tehran, became a cultural landmark before collapsing in a catastrophic fire in January 2017, killing 16 firefighters.",
+  "faction": null,
+  "tags": [
+    "defunct"
+  ],
+  "editorial_notes": "Founded 1948 by Habibollah Elghanian. Confiscated by state after his execution May 1979. Plasco Building constructed 1962, collapsed Jan 2017 fire killing 16 firefighters."
+}

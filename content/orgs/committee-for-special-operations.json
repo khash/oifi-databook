@@ -1,0 +1,15 @@
+{
+  "entity_id": "committee-for-special-operations",
+  "slug": "committee-for-special-operations",
+  "name_en": "Committee for Special Operations",
+  "name_fa": "کمیته عملیات ویژه",
+  "has_native_fa_name": false,
+  "type": "state-institution",
+  "founded": null,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Committee for Special Operations was a covert Iranian state body identified by the Berlin District Court in its landmark April 1997 verdict in the [Mykonos restaurant assassination](/events/mykonos-restaurant-assassination-1992) trial. The court found that the committee ordered the September 1992 assassination of [Sadegh Sharafkandi](/people/sadegh-sharafkandi) and three other Kurdish opposition figures at the Mykonos restaurant in Berlin. According to the verdict, the committee comprised the highest levels of the Islamic Republic, including [Ali Khamenei](/people/ali-khamenei), [Akbar Hashemi Rafsanjani](/people/akbar-hashemi-rafsanjani), [Ali Fallahian](/people/ali-fallahian), and [Ali Akbar Velayati](/people/ali-akbar-velayati). The ruling was the first time a European court officially attributed state-sponsored assassination to the highest echelons of the Iranian government, and triggered the recall of all EU ambassadors from Tehran. It remains a foundational legal document establishing the command structure of Iran's extraterritorial assassination programme.",
+  "faction": "hardliner",
+  "tags": ["intelligence"],
+  "editorial_notes": "Identified by Berlin court verdict 10 April 1997. Members named: Khamenei, Rafsanjani, Fallahian, Velayati. EU ambassadors recalled. Not a formally acknowledged body by IRI."
+}

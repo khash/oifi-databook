@@ -1,0 +1,15 @@
+{
+  "entity_id": "voice-of-america",
+  "slug": "voice-of-america",
+  "name_en": "Voice of America (VOA)",
+  "name_fa": "صدای آمریکا",
+  "has_native_fa_name": false,
+  "type": "media",
+  "founded": 1942,
+  "dissolved": null,
+  "parent_org": "us-agency-for-global-media",
+  "description": "Voice of America (VOA) is the official external broadcasting service of the United States government, funded and supervised by the [US Agency for Global Media (USAGM)](/orgs/us-agency-for-global-media). Founded in 1942 to counter Axis propaganda during World War II, VOA broadcasts in over 40 languages worldwide. In the Iranian context, VOA's Persian-language service — [VOA Persian](/orgs/voa-persian) — is one of the most-watched diaspora media outlets, reaching millions of Iranians via satellite television, radio, and digital platforms. VOA has played a significant role in providing uncensored news to audiences inside Iran, particularly during protest periods such as 2009 (Green Movement) and 2022 (Woman Life Freedom).",
+  "faction": null,
+  "tags": [],
+  "editorial_notes": "Founded 1942. Parent of VOA Persian. Supervised by USAGM (formerly BBG)."
+}

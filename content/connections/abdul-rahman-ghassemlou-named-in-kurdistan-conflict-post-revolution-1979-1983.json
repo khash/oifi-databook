@@ -1,0 +1,17 @@
+{
+  "entity_id": "abdul-rahman-ghassemlou-named-in-kurdistan-conflict-post-revolution-1979-1983",
+  "from_entity": "abdul-rahman-ghassemlou",
+  "to_entity": "kurdistan-conflict-post-revolution-1979-1983",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "notes": "",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abdul_Rahman_Ghassemlou",
+      "source_title": "Abdul Rahman Ghassemlou — Wikipedia",
+      "source_date": "2024-01-01"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "entity_id": "voa-persian-subsidiary-of-voice-of-america",
+  "from_entity": "voa-persian",
+  "to_entity": "voice-of-america",
+  "type": "subsidiary-of",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": null,
+  "date_end": null,
+  "notes": null,
+  "evidence": [
+    {
+      "name": "VOA official website",
+      "url": "https://www.voanews.com/about"
+    }
+  ],
+  "intermediaries": []
+}

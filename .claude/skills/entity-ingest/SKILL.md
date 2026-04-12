@@ -1,6 +1,6 @@
 ---
 name: entity-ingest
-description: Research an Iranian political entity from a name or Wikipedia URL, extract related people, organizations, and events, reconcile them against the local codebase schema and database, create any missing entities and valid relationships, then run the project's validation/build steps.
+description: Research an Iranian political entity from a name or Wikipedia URL, extract related people, organizations, and events, reconcile them against the local codebase schema and database, create any missing entities and valid relationships, then run the project's validation steps.
 argument-hint: [entity name or wikipedia url]
 disable-model-invocation: true
 allowed-tools: Read Grep Glob LS Edit Write Bash WebFetch WebSearch TodoWrite
@@ -22,7 +22,7 @@ The goal is to produce **schema-valid, evidence-backed graph updates**:
 4. reconcile extracted entities against the existing database/codebase
 5. create any missing entities
 6. create all justified relationships using only valid relationship types
-7. run the project's validation/build checks
+7. run the project's validation checks
 8. stop only when the result is clean or report the exact blocker
 
 Do not invent relationship types, tags, or fields. Always discover them from the codebase first.
@@ -40,7 +40,7 @@ Do not invent relationship types, tags, or fields. Always discover them from the
   - required fields
   - naming conventions
   - uniqueness/canonicalization rules
-  - ingestion/build/validation commands
+  - ingestion/validation commands
 
 - Never hardcode schema assumptions if they can be read from the repository.
 
@@ -59,7 +59,7 @@ Do not invent relationship types, tags, or fields. Always discover them from the
 
 - Before writing, inspect the existing graph to avoid duplicates and near-duplicates.
 
-- At the end, always run the project's build/validation pipeline.
+- At the end, always run the project's validation pipeline.
 
 ---
 
@@ -110,10 +110,10 @@ spouse, sibling, parent, child, in-law
 
 # Validation rules the script enforces
 
-These come from `scripts/validate-content.mjs`. Violating any of them will fail the build.
+These come from `scripts/validate-content.mjs`. Violating any of them will fail the validation.
 
-- **People** require: entity_id, slug, name_en, role, bio
-- **Orgs** require: entity_id, slug, name_en, type, description. If parent_org is set, it must match an existing entity_id.
+- **People** require: entity_id, slug, name_en, role, bio. Include a `sources` array with at least one entry documenting the key reference used.
+- **Orgs** require: entity_id, slug, name_en, type, description. Include a `sources` array when sources are available. If parent_org is set, it must match an existing entity_id.
 - **Events** require: entity_id, slug, name, date, type, description. Must have at least one source.
 - **Connections** require: entity_id, from_entity, to_entity, type, confidence. Both from_entity and to_entity must match existing entity_ids.
 - Confirmed connections require at least one evidence item.
@@ -293,6 +293,7 @@ For each new entity:
 - include aliases if supported
 - keep descriptions concise, factual, and neutral
 - do not over-tag
+- **always populate the `sources` array** with the key references used during research. Each source requires `url`, `title`, `date` (YYYY-MM-DD), and `publisher`. People and orgs must have at least one source entry. This is how the sources sidebar on entity pages is populated.
 
 If the repo has generators, fixtures, or insertion scripts, use them.
 
@@ -557,6 +558,7 @@ A successful run should leave the repository with:
 - Creating an entity without connecting it to anything (orphan nodes)
 - Stopping before `pnpm build` succeeds (graph-data.json won't be regenerated)
 - Stopping with `[unlinked-refs]` warnings for entities you created or modified
+- Creating people or orgs without a `sources` array — sources are displayed in the entity sidebar and must be populated from research
 
 ---
 

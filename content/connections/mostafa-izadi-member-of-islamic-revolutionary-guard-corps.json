@@ -1,0 +1,21 @@
+{
+  "entity_id": "mostafa-izadi-member-of-islamic-revolutionary-guard-corps",
+  "from_entity": "mostafa-izadi",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hassan_Tehrani_Moghaddam",
+      "source_title": "Hassan Tehrani Moghaddam — Wikipedia",
+      "source_date": "2011-11-12",
+      "description": "Izadi is identified as a senior IRGC commander who worked alongside Moghaddam in the missile programme."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": null
+}

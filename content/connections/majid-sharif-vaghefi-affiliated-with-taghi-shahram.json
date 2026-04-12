@@ -1,0 +1,19 @@
+{
+  "entity_id": "majid-sharif-vaghefi-affiliated-with-taghi-shahram",
+  "from_entity": "majid-sharif-vaghefi",
+  "to_entity": "taghi-shahram",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": null,
+  "date_end": "1975",
+  "notes": "Both were MEK members; Sharif-Vaghefi was murdered by Shahram's Marxist faction in the 1975 internal purge.",
+  "evidence": [
+    {
+      "name": "Wikipedia — Peykar",
+      "url": "https://en.wikipedia.org/wiki/Peykar"
+    }
+  ],
+  "intermediaries": []
+}

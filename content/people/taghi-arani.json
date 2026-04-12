@@ -1,0 +1,19 @@
+{
+  "entity_id": "taghi-arani",
+  "slug": "taghi-arani",
+  "name_en": "Taghi Arani",
+  "name_fa": "تقی ارانی",
+  "has_native_fa_name": true,
+  "aliases": ["Taqi Arani", "Doktor Arani"],
+  "born": 1903,
+  "birthplace": "Tabriz",
+  "died": 1940,
+  "role": "Marxist intellectual, physicist, and founder of the Group of Fifty-Three",
+  "faction": "opposition",
+  "bio": "Taghi Arani (1903–1940) was an Iranian physicist, philosopher, and Marxist intellectual regarded as the founding father of organised Iranian communism. Born in Tabriz, he studied in Berlin and completed a doctorate in physics and chemistry, becoming one of Iran's earliest scientifically trained Marxist theorists. In the early 1930s he returned to Iran, where he taught at the University of Tehran and began publishing the journal *Donya* (World), a Marxist theoretical periodical that circulated clandestinely. He organised a network of leftist intellectuals and activists known as the [Group of Fifty-Three](/orgs/group-of-fifty-three), named for the number arrested in 1937 during Reza Shah's crackdown on communism. Arani was tortured in Qasr Prison and died on 4 February 1940 from a combination of torture, typhus, and deliberate medical neglect. Many members of the Group of Fifty-Three who survived their sentences went on to found the [Tudeh Party of Iran](/orgs/tudeh-party-of-iran) in 1941, making Arani the intellectual godfather of the Tudeh. His writings on historical materialism, Iranian history, and Marxist philosophy influenced generations of Iranian leftists.",
+  "irgc_member": false,
+  "expertise": ["physics", "philosophy", "Marxism"],
+  "tags": ["deceased", "political-prisoner"],
+  "photo": null,
+  "editorial_notes": "Died in prison 1940 aged 37. Intellectual progenitor of the Tudeh Party. Group of Fifty-Three directly became core Tudeh founding cadre."
+}

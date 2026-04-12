@@ -1,0 +1,21 @@
+{
+  "entity_id": "catherine-perez-shakdam-led-we-believe-in-israel",
+  "from_entity": "catherine-perez-shakdam",
+  "to_entity": "we-believe-in-israel",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "2022",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.thejc.com/news/uk/former-muslim-who-infiltrated-the-tehran-regime-is-new-head-of-we-believe-in-israel-y2wvqhpi",
+      "source_title": "Journalist who infiltrated Tehran regime is new head of We Believe in Israel — The Jewish Chronicle",
+      "source_date": "2022-01-01",
+      "description": "The Jewish Chronicle reports that Perez-Shakdam became the director/head of We Believe in Israel, an Israeli advocacy organization, following her public disclosure of her Jewish identity in November 2021."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Appointed director/head of We Believe in Israel following her November 2021 public disclosure."
+}

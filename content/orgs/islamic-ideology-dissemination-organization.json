@@ -1,0 +1,15 @@
+{
+  "entity_id": "islamic-ideology-dissemination-organization",
+  "slug": "islamic-ideology-dissemination-organization",
+  "name_en": "Islamic Ideology Dissemination Organization",
+  "name_fa": "سازمان تبلیغات اسلامی",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 1981,
+  "dissolved": null,
+  "parent_org": "office-of-the-supreme-leader",
+  "faction": "hardliner",
+  "description": "The Islamic Ideology Dissemination Organization (IIDO; Persian: Sazman-e Tablighat-e Eslami) is a state body subordinate to the [Office of the Supreme Leader](/orgs/office-of-the-supreme-leader) responsible for promoting the Islamic Republic's ideological and cultural messaging. Established in 1981, the IIDO oversees a wide range of propaganda and cultural activities including publications, art exhibitions, religious ceremonies, and media. It is the parent organization of [Mehr News Agency](/orgs/mehr-news-agency), Iran's largest official news wire. [Ali Khamenei](/people/ali-khamenei) exercises ultimate authority over the IIDO as Supreme Leader.",
+  "tags": [],
+  "editorial_notes": "Parent org of Mehr News Agency. Subordinate to Supreme Leader. Persian: Sazman-e Tablighat-e Eslami."
+}

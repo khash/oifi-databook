@@ -1,0 +1,18 @@
+{
+  "entity_id": "jon-stewart",
+  "slug": "jon-stewart",
+  "name_en": "Jon Stewart",
+  "name_fa": "جان استوارت",
+  "has_native_fa_name": false,
+  "aliases": [],
+  "born": 1962,
+  "birthplace": "New York City, USA",
+  "role": "American comedian, television host, and filmmaker",
+  "faction": null,
+  "bio": "Jon Stewart is an American comedian and television personality best known as the longtime host of The Daily Show. His connection to Iranian political history comes through his directorial debut, Rosewater (2014), a biographical film about [Maziar Bahari](/people/maziar-bahari), the Iranian-Canadian journalist who was imprisoned for 118 days by the Islamic Republic in 2009. Bahari had been interviewed on The Daily Show shortly before his arrest, and a clip of that interview was used as evidence against him during his interrogation. Stewart was motivated to direct the [Rosewater film](/events/rosewater-film-2014) in part by his sense of responsibility for that use of his show's content. The film brought international attention to the Islamic Republic's treatment of journalists and its use of forced confessions.",
+  "irgc_member": false,
+  "expertise": ["film", "media"],
+  "tags": [],
+  "photo": null,
+  "editorial_notes": "Directed Rosewater (2014). Daily Show interview with Bahari was used as evidence in Bahari's interrogation."
+}

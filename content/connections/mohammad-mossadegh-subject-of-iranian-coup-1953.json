@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-mossadegh-subject-of-iranian-coup-1953",
+  "from_entity": "mohammad-mossadegh",
+  "to_entity": "iranian-coup-1953",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "1953-08-19",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/1953_Iranian_coup_d%27%C3%A9tat",
+      "source_title": "1953 Iranian coup d'état — Wikipedia",
+      "source_date": "2024",
+      "description": "The coup was directed at removing Mossadegh from power. He was arrested and tried by a military tribunal."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Mossadegh was the primary target of the coup."
+}

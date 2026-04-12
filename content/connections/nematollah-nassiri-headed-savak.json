@@ -1,0 +1,17 @@
+{
+  "entity_id": "nematollah-nassiri-headed-savak",
+  "from_entity": "nematollah-nassiri",
+  "to_entity": "savak",
+  "type": "headed",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "notes": "SAVAK director 1965-1978",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Nematollah_Nassiri",
+      "source_title": "Nematollah Nassiri — Wikipedia",
+      "source_date": "2024-01-01"
+    }
+  ]
+}

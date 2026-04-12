@@ -1,0 +1,21 @@
+{
+  "entity_id": "savak-participated-in-iranian-coup-1953",
+  "from_entity": "savak",
+  "to_entity": "iranian-coup-1953",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1957",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/SAVAK",
+      "source_title": "SAVAK — Wikipedia",
+      "source_date": "2024",
+      "description": "SAVAK was established in 1957 with CIA and Mossad assistance as a direct product of the Shah's authoritarian consolidation following the 1953 coup."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "SAVAK founded post-coup; referenced in coup description as its authoritarian successor institution."
+}

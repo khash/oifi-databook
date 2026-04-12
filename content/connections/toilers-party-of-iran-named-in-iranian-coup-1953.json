@@ -1,0 +1,19 @@
+{
+  "entity_id": "toilers-party-of-iran-named-in-iranian-coup-1953",
+  "from_entity": "toilers-party-of-iran",
+  "to_entity": "iranian-coup-1953",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": null,
+  "date_end": null,
+  "notes": "Baghai and the Toilers' Party broke with Mossadegh before the coup; the party was dissolved in the aftermath.",
+  "evidence": [
+    {
+      "name": "Wikipedia — Mozaffar Baghai",
+      "url": "https://en.wikipedia.org/wiki/Mozaffar_Baghai"
+    }
+  ],
+  "intermediaries": []
+}

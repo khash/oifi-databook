@@ -1,0 +1,21 @@
+{
+  "entity_id": "massoud-ahmadzadeh-participated-in-siahkal-incident-1971",
+  "from_entity": "massoud-ahmadzadeh",
+  "to_entity": "siahkal-incident-1971",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1971-02-08",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Siahkal_incident",
+      "source_title": "Siahkal incident — Wikipedia",
+      "source_date": "2026-04-12",
+      "description": "Ahmadzadeh was among the theorists and organisers of the Siahkal operation"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

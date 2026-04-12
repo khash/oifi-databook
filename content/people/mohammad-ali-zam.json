@@ -1,0 +1,24 @@
+{
+  "entity_id": "mohammad-ali-zam",
+  "slug": "mohammad-ali-zam",
+  "name_en": "Mohammad-Ali Zam",
+  "name_fa": "محمدعلی زم",
+  "has_native_fa_name": true,
+  "aliases": ["Ahmad Zam"],
+  "born": 1955,
+  "birthplace": "Tehran, Iran",
+  "role": "Reformist cleric; former senior cultural official in the Islamic Republic",
+  "faction": "reformist",
+  "bio": "Mohammad-Ali Zam (محمدعلی زم) is an Iranian cleric at the rank of Hojjat ol-Eslam who served in senior cultural and media posts within the Islamic Republic for decades. An early and devoted supporter of Ayatollah Khomeini, he named his son [Ruhollah Zam](/people/ruhollah-zam) in homage to the revolutionary leader. He served as a leading official of the [Islamic Propaganda Organization](/orgs/islamic-propaganda-organization) (سازمان تبلیغات اسلامی), a quasi-state cultural body under the Supreme Leader's direct control, and as head of its arts department. He also held posts in Tehran Municipality's cultural bodies, expanding Tehran's cultural centers from 78 to 287 during his tenure, and served as president of Soura University, which is affiliated with the arts organization.\n\nAs Khamenei consolidated control over cultural institutions in the 2000s, Zam was gradually sidelined from senior positions. He remained in Iran after his son [Ruhollah](/people/ruhollah-zam) fled to France in 2011. Following the IRGC's capture and [execution of Ruhollah](/events/execution-of-ruhollah-zam-2020) on 12 December 2020, Mohammad-Ali publicly condemned the Islamic Republic on Instagram, calling it a 'criminal republic.' He blamed President Hassan Rouhani and Ali Shamkhani, then-secretary of the Supreme National Security Council, for ordering the operation. At the one-year anniversary of his son's death in December 2021, he removed his clerical robe in a highly symbolic act of protest, renouncing his clerical identity in grief and defiance.",
+  "expertise": [
+    "cultural policy",
+    "clerical affairs",
+    "media"
+  ],
+  "tags": [
+    "clerical"
+  ],
+  "photo": null,
+  "editorial_notes": "Often referred to informally as 'Ahmad Zam' in some early coverage of his son Ruhollah Zam — the correct name is Mohammad-Ali Zam. Became publicly critical of the regime after his son's execution in 2020.",
+  "irgc_member": false
+}

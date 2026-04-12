@@ -1,0 +1,17 @@
+{
+  "entity_id": "nasser-moghadam-headed-savak",
+  "from_entity": "nasser-moghadam",
+  "to_entity": "savak",
+  "type": "headed",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "notes": "Last director of SAVAK 1978-1979",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Nasser_Moghadam",
+      "source_title": "Nasser Moghadam — Wikipedia",
+      "source_date": "2024-01-01"
+    }
+  ]
+}

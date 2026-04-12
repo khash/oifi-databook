@@ -1,0 +1,19 @@
+{
+  "entity_id": "reza-shah-pahlavi-family-of-mohammad-reza-shah-pahlavi",
+  "from_entity": "reza-shah-pahlavi",
+  "to_entity": "mohammad-reza-shah-pahlavi",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "symmetric": true,
+  "family_subtype": "parent",
+  "date_start": null,
+  "date_end": null,
+  "notes": "Reza Shah Pahlavi was the father of Mohammad Reza Shah Pahlavi.",
+  "evidence": [
+    {
+      "name": "Wikipedia — Reza Shah",
+      "url": "https://en.wikipedia.org/wiki/Reza_Shah"
+    }
+  ],
+  "intermediaries": []
+}

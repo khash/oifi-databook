@@ -1,0 +1,21 @@
+{
+  "entity_id": "hassan-tehrani-moghaddam-reports-to-ali-khamenei",
+  "from_entity": "hassan-tehrani-moghaddam",
+  "to_entity": "ali-khamenei",
+  "type": "reports-to",
+  "confidence": "confirmed",
+  "date_from": "1989",
+  "date_to": "2011",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hassan_Tehrani_Moghaddam",
+      "source_title": "Hassan Tehrani Moghaddam — Wikipedia",
+      "source_date": "2011-11-12",
+      "description": "As IRGC Missile Commander, Moghaddam reported through the IRGC chain of command to Supreme Leader Ali Khamenei, who attended his funeral personally — an exceptional gesture reflecting Moghaddam's direct strategic value to the Supreme Leader."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "The IRGC's Commander-in-Chief reports directly to the Supreme Leader. Khamenei's attendance at the funeral confirmed the strategic significance of this relationship."
+}

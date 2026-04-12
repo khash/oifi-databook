@@ -1,0 +1,17 @@
+{
+  "entity_id": "nematollah-nassiri-named-in-iranian-revolution-1979",
+  "from_entity": "nematollah-nassiri",
+  "to_entity": "iranian-revolution-1979",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "notes": "",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Nematollah_Nassiri",
+      "source_title": "Nematollah Nassiri — Wikipedia",
+      "source_date": "2024-01-01"
+    }
+  ]
+}

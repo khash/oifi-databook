@@ -3,7 +3,7 @@
   "slug": "popular-mobilization-forces",
   "name_en": "Popular Mobilization Forces",
   "name_fa": "الحشد الشعبی",
-  "has_native_fa_name": false,
+  "has_native_fa_name": true,
   "type": "military",
   "founded": 2014,
   "dissolved": null,

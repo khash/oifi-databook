@@ -1,0 +1,19 @@
+{
+  "entity_id": "fadel-rasoul-affiliated-with-democratic-party-of-iranian-kurdistan",
+  "from_entity": "fadel-rasoul",
+  "to_entity": "democratic-party-of-iranian-kurdistan",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": null,
+  "date_end": null,
+  "notes": "Rasoul was present in Vienna as a mediator in PDKI negotiations with Iranian government representatives.",
+  "evidence": [
+    {
+      "name": "Wikipedia — Assassination of Abdul Rahman Ghassemlou",
+      "url": "https://en.wikipedia.org/wiki/Assassination_of_Abdul_Rahman_Ghassemlou"
+    }
+  ],
+  "intermediaries": []
+}

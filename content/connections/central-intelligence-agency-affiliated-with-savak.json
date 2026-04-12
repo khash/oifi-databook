@@ -1,0 +1,19 @@
+{
+  "entity_id": "central-intelligence-agency-affiliated-with-savak",
+  "from_entity": "central-intelligence-agency",
+  "to_entity": "savak",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": "1957",
+  "date_end": "1979",
+  "notes": "The CIA, along with Mossad, provided training and technical assistance to SAVAK from its founding in 1957 until the 1979 revolution.",
+  "evidence": [
+    {
+      "name": "Wikipedia — SAVAK",
+      "url": "https://en.wikipedia.org/wiki/SAVAK"
+    }
+  ],
+  "intermediaries": []
+}

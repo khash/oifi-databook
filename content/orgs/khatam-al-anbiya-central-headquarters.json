@@ -1,0 +1,18 @@
+{
+  "entity_id": "khatam-al-anbiya-central-headquarters",
+  "slug": "khatam-al-anbiya-central-headquarters",
+  "name_en": "Khatam al-Anbiya Central Headquarters",
+  "name_fa": "قرارگاه مرکزی خاتم‌الانبیا",
+  "has_native_fa_name": true,
+  "type": "military",
+  "founded": 2016,
+  "dissolved": null,
+  "parent_org": "islamic-revolutionary-guard-corps",
+  "description": "Khatam al-Anbiya Central Headquarters (KCHQ) is the joint operational military command of Iran's armed forces, distinct from the [Khatam al-Anbiya Construction Headquarters](/orgs/khatam-al-anbiya) which shares a similar name. Established as a permanent standing command in 2016 when it was separated from the General Staff, KCHQ coordinates joint operations between the [IRGC](/orgs/islamic-revolutionary-guard-corps) and the regular Iranian Army. It has served as Iran's primary joint warfighting command structure and was sanctioned by the United Kingdom and Canada in April 2024 following Operation True Promise.",
+  "faction": "hardliner",
+  "tags": [
+    "military",
+    "sanctions"
+  ],
+  "editorial_notes": "Not to be confused with Khatam al-Anbiya Construction Headquarters (entity_id: khatam-al-anbiya), which is the IRGC's engineering/business conglomerate."
+}

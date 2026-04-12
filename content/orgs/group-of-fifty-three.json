@@ -1,0 +1,15 @@
+{
+  "entity_id": "group-of-fifty-three",
+  "slug": "group-of-fifty-three",
+  "name_en": "Group of Fifty-Three",
+  "name_fa": "گروه پنجاه‌وسه نفر",
+  "has_native_fa_name": true,
+  "type": "political-party",
+  "founded": 1934,
+  "dissolved": 1937,
+  "parent_org": null,
+  "description": "The Group of Fifty-Three (Goruh-e Panjah-o-Se Nafar) was a clandestine Marxist network in Iran organised by physicist and intellectual [Taghi Arani](/people/taghi-arani) in the mid-1930s. The group produced and distributed the Marxist journal *Donya* and sought to build a disciplined underground communist cadre. Reza Shah's security apparatus arrested fifty-three of its members in 1937, and Arani died in prison in 1940. After serving their sentences under the changed conditions following the Allied invasion of Iran in 1941, surviving members — including [Iraj Eskandari](/people/iraj-eskandari) — formed the core founding cadre of the [Tudeh Party of Iran](/orgs/tudeh-party-of-iran) on 29 September 1941. The Group of Fifty-Three is thus considered the direct organisational precursor to the Tudeh Party.",
+  "faction": "opposition",
+  "tags": ["defunct", "banned"],
+  "editorial_notes": "Proto-Tudeh organisation. Arani died in prison 1940; survivors founded Tudeh 1941."
+}

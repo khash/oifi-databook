@@ -1,0 +1,17 @@
+{
+  "entity_id": "france-24-persian",
+  "slug": "france-24-persian",
+  "name_en": "France 24 Persian",
+  "name_fa": "فرانس ۲۴ فارسی",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 2017,
+  "dissolved": null,
+  "parent_org": null,
+  "faction": null,
+  "description": "France 24 Persian is the Persian-language service of France 24, the French public international broadcaster. Launched in January 2017, it provides round-the-clock news and current affairs programming aimed at Persian-speaking audiences in Iran and the diaspora. Funded by the French government, France 24 Persian expanded its audience significantly during the 2019–2020 protests and the 2022–2023 Woman Life Freedom uprising, when it became a major source of breaking news on events inside Iran. The Islamic Republic jams its satellite signal and has charged its Iran-based contributors with security offences.",
+  "tags": [
+    "human-rights"
+  ],
+  "editorial_notes": "Launched January 2017. French state-funded. Audience grew sharply during 2022 protests."
+}

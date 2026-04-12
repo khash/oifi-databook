@@ -1,0 +1,21 @@
+{
+  "entity_id": "hassan-tehrani-moghaddam-coordinated-with-hezbollah",
+  "from_entity": "hassan-tehrani-moghaddam",
+  "to_entity": "hezbollah",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "1986",
+  "date_to": "1987",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hassan_Tehrani_Moghaddam",
+      "source_title": "Hassan Tehrani Moghaddam — Wikipedia",
+      "source_date": "2011-11-12",
+      "description": "In 1986–87 Moghaddam travelled to Lebanon and established Hezbollah's first missile unit, extending Iran's deterrence architecture into the Levant."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Moghaddam personally set up the first missile capability for Hezbollah, a key node in Iran's regional proxy deterrence strategy."
+}

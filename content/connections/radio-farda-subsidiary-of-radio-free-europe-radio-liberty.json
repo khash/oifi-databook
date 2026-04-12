@@ -1,0 +1,21 @@
+{
+  "entity_id": "radio-farda-subsidiary-of-radio-free-europe-radio-liberty",
+  "from_entity": "radio-farda",
+  "to_entity": "radio-free-europe-radio-liberty",
+  "type": "subsidiary-of",
+  "confidence": "confirmed",
+  "date_from": "2002",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Radio_Farda",
+      "source_title": "Radio Farda - Wikipedia",
+      "source_date": null,
+      "description": "Radio Farda is the Persian-language service of RFE/RL."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

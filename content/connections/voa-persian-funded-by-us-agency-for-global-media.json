@@ -1,0 +1,21 @@
+{
+  "entity_id": "voa-persian-funded-by-us-agency-for-global-media",
+  "from_entity": "voa-persian",
+  "to_entity": "us-agency-for-global-media",
+  "type": "funded-by",
+  "confidence": "confirmed",
+  "date_from": "1994",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.usagm.gov/networks/voa/",
+      "source_title": "VOA - USAGM",
+      "source_date": null,
+      "description": "VOA Persian is funded by the US Congress through USAGM."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,17 @@
+{
+  "entity_id": "abdullah-ghaderi-azar-member-of-democratic-party-of-iranian-kurdistan",
+  "from_entity": "abdullah-ghaderi-azar",
+  "to_entity": "democratic-party-of-iranian-kurdistan",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "notes": "",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abdul_Rahman_Ghassemlou",
+      "source_title": "Abdul Rahman Ghassemlou — Wikipedia",
+      "source_date": "2024-01-01"
+    }
+  ]
+}

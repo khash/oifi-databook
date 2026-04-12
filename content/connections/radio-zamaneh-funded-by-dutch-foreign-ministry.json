@@ -1,0 +1,19 @@
+{
+  "entity_id": "radio-zamaneh-funded-by-dutch-foreign-ministry",
+  "from_entity": "radio-zamaneh",
+  "to_entity": "dutch-foreign-ministry",
+  "type": "funded-by",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": "2006",
+  "date_end": null,
+  "notes": "The Dutch Ministry of Foreign Affairs provided initial funding for Radio Zamaneh's launch in Amsterdam in 2006.",
+  "evidence": [
+    {
+      "name": "Wikipedia — Radio Zamaneh",
+      "url": "https://en.wikipedia.org/wiki/Radio_Zamaneh"
+    }
+  ],
+  "intermediaries": []
+}

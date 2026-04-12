@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-makki-aligned-with-mohammad-mossadegh",
+  "from_entity": "hossein-makki",
+  "to_entity": "mohammad-mossadegh",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "1949",
+  "date_to": "1953",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hossein_Makki",
+      "source_title": "Hossein Makki — Wikipedia",
+      "source_date": "2024",
+      "description": "Makki co-founded the National Front with Mossadegh and was an active campaigner for oil nationalisation before later drifting from the Front."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": "Allied during National Front founding and oil nationalisation period; relationship later became strained."
+}

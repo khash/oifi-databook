@@ -1,0 +1,19 @@
+{
+  "entity_id": "rosewater-film-2014-named-in-green-movement-protests-2009",
+  "from_entity": "rosewater-film-2014",
+  "to_entity": "green-movement-protests-2009",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": null,
+  "date_end": null,
+  "notes": "Bahari's imprisonment depicted in Rosewater took place in the context of the 2009 Green Movement post-election crackdown.",
+  "evidence": [
+    {
+      "name": "Wikipedia — Rosewater (film)",
+      "url": "https://en.wikipedia.org/wiki/Rosewater_(film)"
+    }
+  ],
+  "intermediaries": []
+}

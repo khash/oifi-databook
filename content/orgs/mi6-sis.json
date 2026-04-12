@@ -1,0 +1,15 @@
+{
+  "entity_id": "mi6-sis",
+  "slug": "mi6-sis",
+  "name_en": "MI6 (Secret Intelligence Service)",
+  "name_fa": "سرویس اطلاعات مخفی بریتانیا",
+  "has_native_fa_name": false,
+  "type": "state-institution",
+  "founded": 1909,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Secret Intelligence Service (SIS), commonly known as MI6, is the foreign intelligence service of the United Kingdom. MI6 was a co-architect of the [1953 Iranian coup d'état](/events/iranian-coup-1953), planning Operation Boot alongside the CIA's Operation Ajax to overthrow Prime Minister Mohammad Mossadegh. British involvement was primarily motivated by the nationalisation of the [Anglo-Iranian Oil Company](/orgs/anglo-iranian-oil-company) in 1951, which threatened substantial British economic and strategic interests. The British government's role in the coup was formally acknowledged in 2013.",
+  "faction": null,
+  "tags": ["intelligence"],
+  "editorial_notes": "Operation Boot = UK codename for 1953 coup. MI6 initiated contact with CIA after UK was expelled from Iran in 1952. Motivated chiefly by AIOC oil interests."
+}

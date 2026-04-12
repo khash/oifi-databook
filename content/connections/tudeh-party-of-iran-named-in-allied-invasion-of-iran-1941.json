@@ -1,0 +1,19 @@
+{
+  "entity_id": "tudeh-party-of-iran-named-in-allied-invasion-of-iran-1941",
+  "from_entity": "tudeh-party-of-iran",
+  "to_entity": "allied-invasion-of-iran-1941",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": null,
+  "date_end": null,
+  "notes": "The Allied invasion and Reza Shah's abdication created the political opening that allowed the Group of Fifty-Three survivors to found the Tudeh Party in September 1941.",
+  "evidence": [
+    {
+      "name": "Wikipedia — Tudeh Party of Iran",
+      "url": "https://en.wikipedia.org/wiki/Tudeh_Party_of_Iran"
+    }
+  ],
+  "intermediaries": []
+}

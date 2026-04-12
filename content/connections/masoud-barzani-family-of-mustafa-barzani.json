@@ -1,0 +1,19 @@
+{
+  "entity_id": "masoud-barzani-family-of-mustafa-barzani",
+  "from_entity": "masoud-barzani",
+  "to_entity": "mustafa-barzani",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "symmetric": true,
+  "family_subtype": "child",
+  "date_start": null,
+  "date_end": null,
+  "notes": "Masoud Barzani is the son of Mustafa Barzani.",
+  "evidence": [
+    {
+      "name": "Wikipedia — Masoud Barzani",
+      "url": "https://en.wikipedia.org/wiki/Masoud_Barzani"
+    }
+  ],
+  "intermediaries": []
+}

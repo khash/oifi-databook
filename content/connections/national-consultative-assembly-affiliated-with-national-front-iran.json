@@ -1,0 +1,21 @@
+{
+  "entity_id": "national-consultative-assembly-affiliated-with-national-front-iran",
+  "from_entity": "national-consultative-assembly",
+  "to_entity": "national-front-iran",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "1949",
+  "date_to": "1953",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/National_Front_(Iran)",
+      "source_title": "National Front (Iran) — Wikipedia",
+      "source_date": "2026-04-12",
+      "description": "The National Front of Iran was founded in 1949 as a parliamentary caucus operating within the National Consultative Assembly. Its deputies used the assembly to champion oil nationalisation legislation under Mossadegh."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

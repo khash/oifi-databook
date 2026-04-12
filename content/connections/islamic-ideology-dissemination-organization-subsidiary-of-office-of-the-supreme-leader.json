@@ -1,0 +1,21 @@
+{
+  "entity_id": "islamic-ideology-dissemination-organization-subsidiary-of-office-of-the-supreme-leader",
+  "from_entity": "islamic-ideology-dissemination-organization",
+  "to_entity": "office-of-the-supreme-leader",
+  "type": "subsidiary-of",
+  "confidence": "confirmed",
+  "date_from": "1981",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Islamic_Ideology_Dissemination_Organization",
+      "source_title": "Islamic Ideology Dissemination Organization - Wikipedia",
+      "source_date": null,
+      "description": "The IIDO operates under the direct supervision of the Office of the Supreme Leader."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

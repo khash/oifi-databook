@@ -1,0 +1,21 @@
+{
+  "entity_id": "hamid-ashraf-aligned-with-bijan-jazani",
+  "from_entity": "hamid-ashraf",
+  "to_entity": "bijan-jazani",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "1971",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hamid_Ashraf",
+      "source_title": "Hamid Ashraf — Wikipedia",
+      "source_date": "2026-04-12",
+      "description": "Ashraf led the organisation after Jazani's arrest; both were OIPFG founding figures"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

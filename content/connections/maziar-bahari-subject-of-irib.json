@@ -1,0 +1,21 @@
+{
+  "entity_id": "maziar-bahari-subject-of-irib",
+  "from_entity": "maziar-bahari",
+  "to_entity": "irib",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Maziar_Bahari",
+      "source_title": "Maziar Bahari - Wikipedia",
+      "source_date": null,
+      "description": "IRIB broadcast Maziar Bahari's forced confession in summer 2009 while he was imprisoned in Evin Prison."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

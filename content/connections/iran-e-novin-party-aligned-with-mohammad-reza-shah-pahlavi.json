@@ -1,0 +1,17 @@
+{
+  "entity_id": "iran-e-novin-party-aligned-with-mohammad-reza-shah-pahlavi",
+  "from_entity": "iran-e-novin-party",
+  "to_entity": "mohammad-reza-shah-pahlavi",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "symmetric": true,
+  "family_subtype": null,
+  "notes": "Iran-e Novin was the Shah's chosen vehicle for implementing the White Revolution reforms; it functioned as the dominant ruling party under his patronage from 1963 to 1975",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Iran_Novin_Party",
+      "source_title": "Iran Novin Party — Wikipedia",
+      "source_date": "2024-01-01"
+    }
+  ]
+}

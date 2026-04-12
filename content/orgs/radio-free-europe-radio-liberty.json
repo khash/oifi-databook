@@ -1,0 +1,15 @@
+{
+  "entity_id": "radio-free-europe-radio-liberty",
+  "slug": "radio-free-europe-radio-liberty",
+  "name_en": "Radio Free Europe/Radio Liberty",
+  "name_fa": "رادیو آزادی اروپا/رادیو آزادی",
+  "has_native_fa_name": false,
+  "type": "media",
+  "founded": 1949,
+  "dissolved": null,
+  "parent_org": "us-agency-for-global-media",
+  "faction": null,
+  "description": "Radio Free Europe/Radio Liberty (RFE/RL) is a US-funded international broadcaster headquartered in Prague, Czech Republic. Established during the Cold War to provide free press to countries behind the Iron Curtain, RFE/RL today broadcasts in 27 languages across Central Asia, Eastern Europe, the Caucasus, and the Middle East. It is funded by the [US Agency for Global Media](/orgs/us-agency-for-global-media) and operates as a private non-profit. RFE/RL's Persian-language service, [Radio Farda](/orgs/radio-farda), is one of the most prominent diaspora media outlets targeting audiences inside Iran.",
+  "tags": [],
+  "editorial_notes": "Parent org of Radio Farda. Headquartered in Prague. Funded by USAGM."
+}

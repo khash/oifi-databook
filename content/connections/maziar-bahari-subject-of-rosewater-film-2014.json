@@ -1,0 +1,19 @@
+{
+  "entity_id": "maziar-bahari-subject-of-rosewater-film-2014",
+  "from_entity": "maziar-bahari",
+  "to_entity": "rosewater-film-2014",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": null,
+  "date_end": null,
+  "notes": "The film is based on Bahari's memoir about his imprisonment.",
+  "evidence": [
+    {
+      "name": "Wikipedia — Rosewater (film)",
+      "url": "https://en.wikipedia.org/wiki/Rosewater_(film)"
+    }
+  ],
+  "intermediaries": []
+}

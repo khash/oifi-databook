@@ -1,0 +1,17 @@
+{
+  "entity_id": "hassan-tehrani-moghaddam-directed-shahab-3-first-test-1998",
+  "from_entity": "hassan-tehrani-moghaddam",
+  "to_entity": "shahab-3-first-test-1998",
+  "type": "directed",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "notes": "Moghaddam directed the Shahab-3 development programme. His role is confirmed by multiple post-2011 IRGC tributes.",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Shahab-3",
+      "source_title": "Shahab-3 — Wikipedia",
+      "source_date": "2024-01-01"
+    }
+  ]
+}

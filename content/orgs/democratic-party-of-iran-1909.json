@@ -1,0 +1,15 @@
+{
+  "entity_id": "democratic-party-of-iran-1909",
+  "slug": "democratic-party-of-iran-1909",
+  "name_en": "Democratic Party of Iran (1909)",
+  "name_fa": "حزب دموکرات ایران",
+  "has_native_fa_name": true,
+  "type": "political-party",
+  "founded": 1909,
+  "dissolved": 1921,
+  "parent_org": null,
+  "description": "The Democratic Party of Iran was a progressive, constitutionalist political party founded in 1909 during the Constitutional Revolution period, distinct from the later Democratic Party of Iranian Kurdistan or the 1946 Azerbaijan Democratic Party. It was co-founded by Soleiman Mohsen Eskandari, a Qajar prince who would later become the first president of the [Tudeh Party of Iran](/orgs/tudeh-party-of-iran), and other constitutionalist reformers. The party advocated for parliamentary government, secularism, and social reform, representing the liberal and democratic aspirations of the constitutional movement. It was the earliest significant antecedent in the genealogy of Iranian left and democratic politics, linking the constitutionalist era to the later emergence of the Tudeh Party.",
+  "faction": "opposition",
+  "tags": ["defunct"],
+  "editorial_notes": "Founded 1909 during Constitutional Revolution. Not to be confused with KDPI (Democratic Party of Iranian Kurdistan, est. 1946) or Azerbaijan Democratic Party (1945)."
+}

@@ -1,0 +1,19 @@
+{
+  "entity_id": "ahmadzadeh-pouyan-group-participated-in-siahkal-incident-1971",
+  "from_entity": "ahmadzadeh-pouyan-group",
+  "to_entity": "siahkal-incident-1971",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": "1971-02",
+  "date_end": "1971-02",
+  "notes": "The Siahkal attack was carried out by the merged Fadaiyan group (Ahmadzadeh-Pouyan + Jazani networks) as their founding act.",
+  "evidence": [
+    {
+      "name": "Wikipedia — Siahkal incident",
+      "url": "https://en.wikipedia.org/wiki/Siahkal_incident"
+    }
+  ],
+  "intermediaries": []
+}

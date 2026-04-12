@@ -1,0 +1,17 @@
+{
+  "entity_id": "manouchehr-khosrodad-named-in-alavi-school",
+  "from_entity": "manouchehr-khosrodad",
+  "to_entity": "alavi-school",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "notes": "Khosrodad was executed by firing squad on the rooftop of the Alavi School complex on the night of 15–16 February 1979",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Executions_following_the_Iranian_Revolution",
+      "source_title": "Executions following the Iranian Revolution — Wikipedia",
+      "source_date": "2024-01-01"
+    }
+  ]
+}

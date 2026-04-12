@@ -1,0 +1,21 @@
+{
+  "entity_id": "amir-abbas-hoveyda-named-in-iranian-revolution-1979",
+  "from_entity": "amir-abbas-hoveyda",
+  "to_entity": "iranian-revolution-1979",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1979-02-01",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Amir-Abbas_Hoveyda",
+      "source_title": "Amir-Abbas Hoveyda — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Hoveyda was arrested in February 1979 following the revolution and executed on 7 April 1979."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": null
+}

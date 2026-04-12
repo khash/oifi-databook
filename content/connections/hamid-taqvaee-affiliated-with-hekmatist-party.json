@@ -1,0 +1,19 @@
+{
+  "entity_id": "hamid-taqvaee-affiliated-with-hekmatist-party",
+  "from_entity": "hamid-taqvaee",
+  "to_entity": "hekmatist-party",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": "2004",
+  "date_end": null,
+  "notes": "Taqvaee led the WPI through the 2004 split that produced the rival Hekmatist Party.",
+  "evidence": [
+    {
+      "name": "Wikipedia — Worker-communist Party of Iran (Hekmatist)",
+      "url": "https://en.wikipedia.org/wiki/Worker-communist_Party_of_Iran_(Hekmatist)"
+    }
+  ],
+  "intermediaries": []
+}

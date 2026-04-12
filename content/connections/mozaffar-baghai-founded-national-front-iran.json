@@ -1,0 +1,21 @@
+{
+  "entity_id": "mozaffar-baghai-founded-national-front-iran",
+  "from_entity": "mozaffar-baghai",
+  "to_entity": "national-front-iran",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "1949",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/National_Front_(Iran)",
+      "source_title": "National Front (Iran) — Wikipedia",
+      "source_date": "2024",
+      "description": "Baghai was a co-founder of the National Front in 1949."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Co-founder. Led Toilers' Party, a constituent member."
+}

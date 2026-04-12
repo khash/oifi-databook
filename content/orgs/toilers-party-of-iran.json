@@ -1,0 +1,15 @@
+{
+  "entity_id": "toilers-party-of-iran",
+  "slug": "toilers-party-of-iran",
+  "name_en": "Toilers' Party of Iran (Hezb-e Zahmatkeshan)",
+  "name_fa": "حزب زحمتکشان ملت ایران",
+  "has_native_fa_name": true,
+  "type": "political-party",
+  "founded": 1951,
+  "dissolved": 1953,
+  "parent_org": null,
+  "description": "The Toilers' Party of Iran (Hezb-e Zahmatkeshan-e Mellat-e Iran) was a nationalist political party founded and led by [Mozaffar Baghai](/people/mozaffar-baghai) in 1951 as a constituent member of the [National Front](/orgs/national-front-iran). The party was strongly nationalist and anti-communist, drawing on urban lower-middle-class and bazaari support. It was initially a firm backer of Mossadegh's oil nationalisation campaign. However, Baghai broke with Mossadegh in 1953, and accusations later emerged that he had collaborated with the royalist forces backing the [1953 Iranian coup d'état](/events/iranian-coup-1953). The party dissolved after the coup. It should not be confused with the Komala Toilers Party (Zehmetkêshan), which is a separate Kurdish party of the same period.",
+  "faction": "opposition",
+  "tags": ["defunct", "banned"],
+  "editorial_notes": "Founded 1951 by Baghai as National Front constituent. Broke with Mossadegh 1953. Distinct from Kurdish Komala Zehmetkêshan. Dissolved post-coup."
+}

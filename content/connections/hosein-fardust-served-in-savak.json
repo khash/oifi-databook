@@ -1,0 +1,21 @@
+{
+  "entity_id": "hosein-fardust-served-in-savak",
+  "from_entity": "hosein-fardust",
+  "to_entity": "savak",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "1979",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hossein_Fardoust",
+      "source_title": "Hossein Fardoust — Wikipedia",
+      "source_date": "2026-04-12",
+      "description": "Fardust served as Deputy Head of SAVAK, effectively managing day-to-day operations, while simultaneously running the Special Intelligence Bureau as a private intelligence channel to the Shah."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Deputy Head of SAVAK for approximately 10 years."
+}

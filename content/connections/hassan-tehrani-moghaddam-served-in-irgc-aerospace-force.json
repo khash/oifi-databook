@@ -1,0 +1,21 @@
+{
+  "entity_id": "hassan-tehrani-moghaddam-served-in-irgc-aerospace-force",
+  "from_entity": "hassan-tehrani-moghaddam",
+  "to_entity": "irgc-aerospace-force",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1985",
+  "date_to": "2011",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hassan_Tehrani_Moghaddam",
+      "source_title": "Hassan Tehrani Moghaddam — Wikipedia",
+      "source_date": "2011-11-12",
+      "description": "Moghaddam served as Missile Commander of the IRGC Aerospace Force from 1985, overseeing Iran's ballistic missile development programme."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "He served as head of the IRGC missile command from its founding in 1983/1985 until his death."
+}

@@ -1,0 +1,15 @@
+{
+  "entity_id": "ahmadzadeh-pouyan-group",
+  "slug": "ahmadzadeh-pouyan-group",
+  "name_en": "Ahmadzadeh-Pouyan Group",
+  "name_fa": "گروه احمدزاده-پویان",
+  "has_native_fa_name": false,
+  "type": "military",
+  "founded": 1969,
+  "dissolved": 1971,
+  "parent_org": null,
+  "description": "The Ahmadzadeh-Pouyan Group was a clandestine Marxist-Leninist guerrilla cell co-founded by [Massoud Ahmadzadeh](/people/massoud-ahmadzadeh) and [Amir Parviz Pouyan](/people/amir-parviz-pouyan) in the late 1960s. The group developed a distinct theoretical framework for armed struggle under conditions of dictatorship, articulated most clearly in Pouyan's pamphlet 'The Necessity of Armed Struggle and the Refutation of the Theory of Survival' (1970). In 1971, the Ahmadzadeh-Pouyan Group merged with the urban guerrilla network organised by [Bijan Jazani](/people/bijan-jazani) to form the [Organization of Iranian People's Fadai Guerrillas](/orgs/organization-of-iranian-peoples-fadai-guerrillas) (OIPFG), the main Marxist guerrilla organization of the 1970s. The founding act of the merged organization was the [Siahkal incident](/events/siahkal-incident-1971) in February 1971.",
+  "faction": "opposition",
+  "tags": ["defunct", "banned"],
+  "editorial_notes": "Merged with Jazani network 1971 to form OIPFG. Theoretical foundation laid by Pouyan's 1970 pamphlet on armed struggle."
+}

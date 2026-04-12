@@ -1,0 +1,31 @@
+{
+  "entity_id": "tudeh-party-mass-arrests-1983",
+  "slug": "tudeh-party-mass-arrests-1983",
+  "name": "Tudeh Party Mass Arrests (1983)",
+  "date": "1983-02",
+  "type": "purge",
+  "description": "In February 1983, the Islamic Republic carried out a systematic operation to destroy the [Tudeh Party of Iran](/orgs/tudeh-party-of-iran) — then the only significant communist organisation still operating (semi-)openly in Iran. The regime had tolerated and even cultivated the Tudeh's support since 1979, but by early 1983 moved to eliminate it. The SAVAMA (successor to SAVAK) and [IRGC](/orgs/islamic-revolutionary-guard-corps) arrested the entire Tudeh leadership in a coordinated sweep. First Secretary [Nureddin Kianouri](/people/nureddin-kianouri) was arrested on 6 February 1983, followed by hundreds of cadres. Under torture, Kianouri and other leaders were forced to deliver nationally televised confessions in which they denounced their own party, admitted to spying for the Soviet Union, and praised the Islamic Republic. Approximately 163 Tudeh cadres were subsequently executed. Chief party ideologue [Ehsan Tabari](/people/ehsan-tabari) was arrested and broke under interrogation, producing lengthy recantations of Marxism broadcast on state television. The mass arrests effectively destroyed the Tudeh Party's organisation inside Iran. The party was formally banned in April 1983. Surviving members who had evaded arrest fled into exile in Western Europe and the Soviet Union.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Tudeh_Party_of_Iran",
+      "title": "Tudeh Party of Iran — Wikipedia",
+      "date": "2026-04-12",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.marxists.org/history/international/comintern/sections/iran/tudeh/index.htm",
+      "title": "Tudeh Party of Iran — Marxists Internet Archive",
+      "date": "2020-01-01",
+      "publisher": "Marxists Internet Archive"
+    },
+    {
+      "url": "https://iranhrdc.org/the-massacre-of-political-prisoners-in-iran-1988/",
+      "title": "The Massacre of Political Prisoners in Iran, 1988",
+      "date": "2009-08-01",
+      "publisher": "Iran Human Rights Documentation Center"
+    }
+  ],
+  "tags": ["political-prisoner", "human-rights", "intelligence"],
+  "editorial_notes": "~163 cadres executed. Kianouri and Tabari made televised confessions under torture. Party banned April 1983. Effectively ended communist politics inside Iran."
+}

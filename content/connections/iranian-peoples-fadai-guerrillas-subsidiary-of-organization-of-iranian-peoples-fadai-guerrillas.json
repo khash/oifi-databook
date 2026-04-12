@@ -1,0 +1,21 @@
+{
+  "entity_id": "iranian-peoples-fadai-guerrillas-subsidiary-of-organization-of-iranian-peoples-fadai-guerrillas",
+  "from_entity": "iranian-peoples-fadai-guerrillas",
+  "to_entity": "organization-of-iranian-peoples-fadai-guerrillas",
+  "type": "subsidiary-of",
+  "confidence": "confirmed",
+  "date_from": "1980",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Organization_of_Iranian_People%27s_Fadai_Guerrillas",
+      "source_title": "Organization of Iranian People's Fadai Guerrillas — Wikipedia",
+      "source_date": "2026-04-12",
+      "description": "IPFG split from OIPFG after the 1980 fragmentation of the organisation"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

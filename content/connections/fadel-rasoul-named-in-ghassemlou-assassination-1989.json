@@ -1,0 +1,19 @@
+{
+  "entity_id": "fadel-rasoul-named-in-ghassemlou-assassination-1989",
+  "from_entity": "fadel-rasoul",
+  "to_entity": "ghassemlou-assassination-1989",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": "1989-07-13",
+  "date_end": "1989-07-13",
+  "notes": "Rasoul was shot dead alongside Ghassemlou and Ghaderi-Azar in Vienna.",
+  "evidence": [
+    {
+      "name": "Wikipedia — Assassination of Abdul Rahman Ghassemlou",
+      "url": "https://en.wikipedia.org/wiki/Assassination_of_Abdul_Rahman_Ghassemlou"
+    }
+  ],
+  "intermediaries": []
+}

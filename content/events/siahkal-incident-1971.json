@@ -1,0 +1,22 @@
+{
+  "entity_id": "siahkal-incident-1971",
+  "slug": "siahkal-incident-1971",
+  "name": "Siahkal Incident (1971)",
+  "name_fa": "رویداد سیاهکل",
+  "date": "1971-02-08",
+  "type": "protest",
+  "description": "On 8 February 1971, a small armed group affiliated with the nascent [Organization of Iranian People's Fadai Guerrillas](/orgs/organization-of-iranian-peoples-fadai-guerrillas) attacked a gendarmerie post in the village of Siahkal in the forested mountains of Gilan province. The operation, intended partly to free a captured comrade, was militarily modest but symbolically transformative. The Shah's regime responded with a massive manhunt that killed or captured most of the participants, and thirteen guerrillas were subsequently executed. Despite its failure as a military operation, the Siahkal incident became the founding myth of the Iranian armed left, celebrated as proof that organised resistance to the Pahlavi monarchy was possible. [Massoud Ahmadzadeh](/people/massoud-ahmadzadeh) and [Amir Parviz Pouyan](/people/amir-parviz-pouyan) were among the theorists whose ideas animated the operation, while [Hamid Ashraf](/people/hamid-ashraf) was among those who survived the immediate aftermath. The date — 19 Bahman in the Iranian calendar — became an annual commemoration for the Iranian left in exile. The incident directly triggered the formation of the OIPFG as a consolidated organisation.",
+  "body": null,
+  "sources": [
+    {
+      "name": "Siahkal incident — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Siahkal_incident"
+    },
+    {
+      "name": "Sīākal — Encyclopædia Iranica",
+      "url": "https://www.iranicaonline.org/articles/siyakal"
+    }
+  ],
+  "tags": ["defunct"],
+  "editorial_notes": "Founding event of the Fadaiyan. Feb 8 / 19 Bahman 1971."
+}

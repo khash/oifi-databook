@@ -1,0 +1,21 @@
+{
+  "entity_id": "kurdistan-independence-referendum-2017",
+  "slug": "kurdistan-independence-referendum-2017",
+  "name": "Kurdistan Region Independence Referendum (2017)",
+  "date": "2017-09-25",
+  "type": "election",
+  "description": "The Kurdistan Region independence referendum of 25 September 2017 was called by Kurdistan Regional Government (KRG) President [Masoud Barzani](/people/masoud-barzani) and resulted in over 93% voting in favour of independence from Iraq. The referendum was held in the KRG's three governorates and in disputed territories including Kirkuk. It was declared unconstitutional by the Iraqi central government and opposed by nearly all regional and international powers — including the United States, the European Union, Turkey, and Iran. Supreme Leader Ali Khamenei publicly condemned the vote as an act of betrayal toward the region.\n\nThe aftermath was swift and strategically catastrophic for the KRG. In October 2017, Iraqi central government forces — including [Popular Mobilization Forces](/orgs/popular-mobilization-forces) whose coordination with Iran had long been established — moved on Kirkuk. The KRG surrendered the oil-rich city and approximately 40% of its territory within days, without meaningful military resistance. Masoud Barzani stepped down as KRG President on 1 November 2017. The episode significantly weakened Iraqi Kurdistan's strategic position, reinforced Iranian influence over disputed territories in northern Iraq, and cast a long shadow over Iranian Kurdish opposition parties' own debates about independence strategy.",
+  "body": null,
+  "sources": [
+    {
+      "name": "2017 Kurdistan Region independence referendum — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2017_Kurdistan_Region_independence_referendum"
+    },
+    {
+      "name": "How the Kurdish independence referendum backfired — Washington Post",
+      "url": "https://www.washingtonpost.com/world/how-the-kurdish-independence-referendum-backfired-/2017/10/20/3010c820-b371-11e7-9b93-b97043e57a22_story.html"
+    }
+  ],
+  "tags": [],
+  "editorial_notes": "25 Sep 2017. 93% for independence. KRG lost Kirkuk and ~40% of territory to Iraqi/PMF forces Oct 2017. Barzani resigned 1 Nov 2017. Precursor to 2019 Iranian Kurdish referendum discussions."
+}

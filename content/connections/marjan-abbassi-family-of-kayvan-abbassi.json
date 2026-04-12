@@ -1,0 +1,19 @@
+{
+  "entity_id": "marjan-abbassi-family-of-kayvan-abbassi",
+  "from_entity": "marjan-abbassi",
+  "to_entity": "kayvan-abbassi",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "symmetric": true,
+  "family_subtype": "spouse",
+  "date_start": null,
+  "date_end": null,
+  "notes": null,
+  "evidence": [
+    {
+      "name": "Wikipedia — Manoto",
+      "url": "https://en.wikipedia.org/wiki/Manoto"
+    }
+  ],
+  "intermediaries": []
+}

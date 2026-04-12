@@ -1,0 +1,24 @@
+{
+  "entity_id": "bid-kaneh-explosion-2011",
+  "slug": "bid-kaneh-explosion-2011",
+  "name": "Bid Kaneh Explosion (2011)",
+  "date": "2011-11-12",
+  "type": "death",
+  "description": "On 12 November 2011 a massive explosion destroyed the Shahid Modarres missile garrison (Alghadir base) at Bid Kaneh, near Shahriar, approximately 48 km west of Tehran. The blast killed 17 IRGC members including Brigadier General [Hassan Tehrani Moghaddam](/people/hassan-tehrani-moghaddam), the principal architect of Iran's ballistic missile programme, and wounded sixteen others. Iranian authorities described it as an accident during the transport and handling of munitions. U.S. defense officials assessed it as likely an industrial accident involving volatile missile propellants. A Western intelligence official told *Time* magazine it was intentional, and Israeli Defence Minister Ehud Barak commented cryptically: 'May there be more like it' — a remark widely interpreted as implicit acknowledgement of Israeli involvement. Satellite imagery revealed extensive structural destruction across the base. The explosion occurred amid a broader pattern of covert operations against Iran's weapons programmes between 2007 and 2012, including Stuxnet, assassinations of nuclear scientists, and prior blasts at missile facilities. No state has officially claimed responsibility.",
+  "tags": [
+    "military"
+  ],
+  "sources": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Bid_Kaneh_explosion",
+      "source_title": "Bid Kaneh explosion — Wikipedia",
+      "source_date": "2011-11-12"
+    },
+    {
+      "source_url": "https://www.csmonitor.com/World/Middle-East/2011/1114/Did-Israel-assassinate-Iran-s-missile-king",
+      "source_title": "Did Israel assassinate Iran's 'missile king'?",
+      "source_date": "2011-11-14"
+    }
+  ],
+  "editorial_notes": "Attribution of the explosion is disputed. Iranian official line: industrial accident. Western/Israeli signals: deliberate sabotage. No conclusive public evidence either way. Treat official Iranian characterisation as contested."
+}

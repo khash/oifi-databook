@@ -1,0 +1,19 @@
+{
+  "entity_id": "hossein-makki-named-in-anglo-iranian-oil-company",
+  "from_entity": "hossein-makki",
+  "to_entity": "anglo-iranian-oil-company",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": null,
+  "date_end": null,
+  "notes": "Makki was one of the leading nationalist figures in the Majlis who championed AIOC nationalisation.",
+  "evidence": [
+    {
+      "name": "Wikipedia — Hossein Makki",
+      "url": "https://en.wikipedia.org/wiki/Hossein_Makki"
+    }
+  ],
+  "intermediaries": []
+}

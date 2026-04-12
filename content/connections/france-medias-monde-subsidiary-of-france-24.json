@@ -1,0 +1,21 @@
+{
+  "entity_id": "france-medias-monde-subsidiary-of-france-24",
+  "from_entity": "france-24",
+  "to_entity": "france-medias-monde",
+  "type": "subsidiary-of",
+  "confidence": "confirmed",
+  "date_from": "2006",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/France_M%C3%A9dias_Monde",
+      "source_title": "France Médias Monde — Wikipedia",
+      "source_date": "2026-04-12",
+      "description": "France 24 is a subsidiary of France Médias Monde, the French state's international broadcasting holding company."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,17 @@
+{
+  "entity_id": "taghi-arani-affiliated-with-tudeh-party-of-iran",
+  "from_entity": "taghi-arani",
+  "to_entity": "tudeh-party-of-iran",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "notes": "Arani is considered the intellectual godfather of the Tudeh Party. His Group of Fifty-Three directly became the founding cadre of the Tudeh after his death in 1940.",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Taghi_Arani",
+      "source_title": "Taghi Arani — Wikipedia",
+      "source_date": "2024-01-01"
+    }
+  ]
+}

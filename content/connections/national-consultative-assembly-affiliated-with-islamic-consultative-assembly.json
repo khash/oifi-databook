@@ -1,0 +1,21 @@
+{
+  "entity_id": "national-consultative-assembly-affiliated-with-islamic-consultative-assembly",
+  "from_entity": "national-consultative-assembly",
+  "to_entity": "islamic-consultative-assembly",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Islamic_Consultative_Assembly",
+      "source_title": "Islamic Consultative Assembly — Wikipedia",
+      "source_date": "2026-04-12",
+      "description": "The Islamic Consultative Assembly was established in 1980 as the successor unicameral legislature of Iran after the dissolution of the National Consultative Assembly in 1979."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Successor relationship — Islamic Consultative Assembly replaced the National Consultative Assembly."
+}

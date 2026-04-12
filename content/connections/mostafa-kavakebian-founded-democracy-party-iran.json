@@ -1,0 +1,21 @@
+{
+  "entity_id": "mostafa-kavakebian-founded-democracy-party-iran",
+  "from_entity": "mostafa-kavakebian",
+  "to_entity": "democracy-party-iran",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "2000",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mostafa_Kavakebian",
+      "source_title": "Mostafa Kavakebian — Wikipedia",
+      "source_date": null,
+      "description": "Wikipedia confirms Kavakebian founded the Democracy Party of Iran (Hezb-e Mardomsalari) in 2000 and leads it as secretary-general."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": null
+}

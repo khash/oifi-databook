@@ -1,0 +1,19 @@
+{
+  "entity_id": "amir-parviz-pouyan-founded-ahmadzadeh-pouyan-group",
+  "from_entity": "amir-parviz-pouyan",
+  "to_entity": "ahmadzadeh-pouyan-group",
+  "type": "founded",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": "1969",
+  "date_end": null,
+  "notes": null,
+  "evidence": [
+    {
+      "name": "Wikipedia — Amir Parviz Pouyan",
+      "url": "https://en.wikipedia.org/wiki/Amir_Parviz_Pouyan"
+    }
+  ],
+  "intermediaries": []
+}

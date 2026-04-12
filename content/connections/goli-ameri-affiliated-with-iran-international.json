@@ -1,0 +1,19 @@
+{
+  "entity_id": "goli-ameri-affiliated-with-iran-international",
+  "from_entity": "goli-ameri",
+  "to_entity": "iran-international",
+  "type": "affiliated-with",
+  "confidence": "alleged",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": null,
+  "date_end": null,
+  "notes": "Goli Ameri has been reported as the principal beneficial owner of Volant Media, which owns Iran International. The connection is alleged based on ownership investigations.",
+  "evidence": [
+    {
+      "name": "The Guardian — Iran International funding investigation",
+      "url": "https://www.theguardian.com/media/2020/oct/14/iran-international-tv-channel-secret-saudi-funding-fears"
+    }
+  ],
+  "intermediaries": []
+}

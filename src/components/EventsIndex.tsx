@@ -91,7 +91,7 @@ export function EventsIndex({ events }: { events: EventItem[] }) {
           />
 
           <Select value={typeFilter} onValueChange={setTypeFilter}>
-            <SelectTrigger>
+            <SelectTrigger className="w-36">
               <SelectValue />
             </SelectTrigger>
             <SelectContent>
@@ -105,7 +105,7 @@ export function EventsIndex({ events }: { events: EventItem[] }) {
           </Select>
 
           <Select value={sort} onValueChange={(v) => setSort(v as SortKey)}>
-            <SelectTrigger>
+            <SelectTrigger className="w-36">
               <SelectValue />
             </SelectTrigger>
             <SelectContent>
@@ -115,21 +115,23 @@ export function EventsIndex({ events }: { events: EventItem[] }) {
               <SelectItem value="connections">By connections</SelectItem>
             </SelectContent>
           </Select>
-        </div>
 
-        {grouped && years.length > 1 && (
-          <div className="flex flex-wrap gap-1">
-            {years.map((y) => (
-              <a
-                key={y}
-                href={`#year-${y}`}
-                className="flex h-7 items-center justify-center rounded-md px-2 text-xs font-medium hover:bg-accent transition-colors"
-              >
-                {y}
-              </a>
-            ))}
-          </div>
-        )}
+          {grouped && years.length > 1 && (
+            <Select
+              value=""
+              onValueChange={(y) => document.getElementById(`year-${y}`)?.scrollIntoView({ behavior: "smooth" })}
+            >
+              <SelectTrigger className="w-36">
+                <SelectValue placeholder="Jump to year…" />
+              </SelectTrigger>
+              <SelectContent>
+                {years.map((y) => (
+                  <SelectItem key={y} value={y}>{y}</SelectItem>
+                ))}
+              </SelectContent>
+            </Select>
+          )}
+        </div>
       </div>
 
       {filtered.length === 0 && (

@@ -1,0 +1,17 @@
+{
+  "entity_id": "pjak-subsidiary-of-pkk",
+  "from_entity": "pjak",
+  "to_entity": "pkk",
+  "type": "subsidiary-of",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "notes": "",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Party_of_Free_Life_of_Kurdistan",
+      "source_title": "PJAK — Wikipedia",
+      "source_date": "2024-01-01"
+    }
+  ]
+}

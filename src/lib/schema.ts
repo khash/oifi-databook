@@ -53,6 +53,7 @@ export const personSchema = z.object({
   bio: z.string(),
   irgc_member: z.boolean(),
   expertise: z.array(z.string()),
+  sources: z.array(sourceSchema),
   tags: z.array(z.enum(ENTITY_TAGS)),
   photo: z.string().nullable(),
   editorial_notes: z.string(),
@@ -70,6 +71,7 @@ export const orgSchema = z.object({
   parent_org: z.string().nullable(),
   description: z.string(),
   faction: z.enum(FACTIONS).nullable(),
+  sources: z.array(sourceSchema),
   tags: z.array(z.enum(ENTITY_TAGS)),
   editorial_notes: z.string(),
 });

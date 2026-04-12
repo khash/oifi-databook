@@ -1,0 +1,15 @@
+{
+  "entity_id": "workers-house",
+  "slug": "workers-house",
+  "name_en": "Workers' House",
+  "name_fa": "خانه کارگر",
+  "has_native_fa_name": true,
+  "type": "ngo",
+  "founded": 1979,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Workers' House (Khaneh Kargar) is Iran's largest state-affiliated labour institution, originally established in 1979 after the revolution to organise the working class under Islamic Republic structures. Over time it developed a reformist orientation, becoming a bridge between organised labour and the reformist political movement in the 1990s and 2000s. Workers' House is the parent organisation of the [Iranian Labour News Agency (ILNA)](/orgs/ilna), which it founded in 2003 to provide independent coverage of labour issues. During the Khatami era, Workers' House aligned with the reformist camp and supported workers' right to organise, placing it in periodic conflict with hardline factions and the Revolutionary Guards' economic interests. It has faced crackdowns and leadership changes as the political winds have shifted.",
+  "faction": "reformist",
+  "tags": [],
+  "editorial_notes": "State-affiliated but reformist-leaning labour body. Parent of ILNA. Key intermediary between labour movement and reformist politics."
+}

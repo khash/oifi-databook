@@ -1,0 +1,19 @@
+{
+  "entity_id": "ali-fallahian-served-in-committee-for-special-operations",
+  "from_entity": "ali-fallahian",
+  "to_entity": "committee-for-special-operations",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": null,
+  "date_end": null,
+  "notes": "Named by Berlin District Court in the Mykonos verdict as a member of the Committee for Special Operations.",
+  "evidence": [
+    {
+      "name": "Berlin District Court verdict — Mykonos trial (10 April 1997)",
+      "url": "https://en.wikipedia.org/wiki/Mykonos_restaurant_assassinations"
+    }
+  ],
+  "intermediaries": []
+}

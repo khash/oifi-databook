@@ -1,0 +1,28 @@
+{
+  "entity_id": "nasser-moghadam",
+  "slug": "nasser-moghadam",
+  "name_en": "Nasser Moghadam",
+  "name_fa": "ناصر مقدم",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Naser Moghadam",
+    "General Moghadam"
+  ],
+  "born": 1921,
+  "birthplace": "Iran",
+  "role": "Director of SAVAK (1978–1979)",
+  "faction": null,
+  "bio": "Nasser Moghadam was the last director of [SAVAK](/orgs/savak), the Pahlavi-era intelligence and security service, serving from 1978 until the organisation's dissolution following the [1979 Iranian Revolution](/events/iranian-revolution-1979). He was appointed to the position by [Mohammad Reza Shah Pahlavi](/people/mohammad-reza-shah-pahlavi) in a late attempt to reform SAVAK's brutal image during the revolutionary crisis of 1977–1979. Moghadam released some political prisoners and attempted to reduce SAVAK's most overt repressive activities, but was unable to stem the revolutionary tide.\n\nAfter the revolution, Moghadam was arrested along with other senior Pahlavi-era military and security officials. On 11 April 1979, he was tried before [Sadegh Khalkhali](/people/sadegh-khalkhali)'s revolutionary tribunal and executed alongside other senior security figures as part of the [post-revolution executions of 1979](/events/post-revolution-executions-1979).",
+  "expertise": [
+    "intelligence",
+    "military"
+  ],
+  "tags": [
+    "deceased",
+    "intelligence",
+    "human-rights",
+    "military"
+  ],
+  "photo": null,
+  "editorial_notes": "Executed 11 April 1979. Last SAVAK director. Attempted reforms of SAVAK in final years."
+}

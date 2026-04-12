@@ -1,0 +1,17 @@
+{
+  "entity_id": "mehdi-rahimi-reports-to-mohammad-reza-shah-pahlavi",
+  "from_entity": "mehdi-rahimi",
+  "to_entity": "mohammad-reza-shah-pahlavi",
+  "type": "reports-to",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "notes": "",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Iranian_Revolution",
+      "source_title": "Iranian Revolution — Wikipedia",
+      "source_date": "2024-01-01"
+    }
+  ]
+}

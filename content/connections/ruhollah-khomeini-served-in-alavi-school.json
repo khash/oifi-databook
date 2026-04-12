@@ -1,0 +1,17 @@
+{
+  "entity_id": "ruhollah-khomeini-served-in-alavi-school",
+  "from_entity": "ruhollah-khomeini",
+  "to_entity": "alavi-school",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "notes": "Following his return from exile on 1 February 1979, Khomeini used the Alavi School complex as his Tehran headquarters and the operational nerve centre of the revolution",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Iranian_Revolution",
+      "source_title": "Iranian Revolution — Wikipedia",
+      "source_date": "2024-01-01"
+    }
+  ]
+}

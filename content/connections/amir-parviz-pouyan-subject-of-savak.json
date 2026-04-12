@@ -1,0 +1,21 @@
+{
+  "entity_id": "amir-parviz-pouyan-subject-of-savak",
+  "from_entity": "amir-parviz-pouyan",
+  "to_entity": "savak",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "1971",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Amir_Parviz_Pouyan",
+      "source_title": "Amir Parviz Pouyan — Wikipedia",
+      "source_date": "2026-04-12",
+      "description": "Killed in confrontation with SAVAK forces in May 1971"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

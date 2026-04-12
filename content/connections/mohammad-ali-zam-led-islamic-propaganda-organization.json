@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-ali-zam-led-islamic-propaganda-organization",
+  "from_entity": "mohammad-ali-zam",
+  "to_entity": "islamic-propaganda-organization",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF%D8%B9%D9%84%DB%8C_%D8%B2%D9%85",
+      "source_title": "محمدعلی زم — Wikipedia (FA)",
+      "source_date": null,
+      "description": "Mohammad-Ali Zam served as a leading official and head of the arts department of the Islamic Propaganda Organization (سازمان تبلیغات اسلامی)."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Served as deputy director and head of artistic sphere within the organization."
+}

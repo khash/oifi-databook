@@ -5,7 +5,8 @@ import { OrgTypeBadge } from "@/components/OrgTypeBadge"
 import { Separator } from "@/components/ui/separator"
 import { getOrgs, getOrgById, getConnectionsForEntity, getEntityById, getEntityTypeById } from "@/lib/content"
 import { GraphExplorer } from "@/components/GraphExplorer"
-import { renderMarkdown, stripMarkdown } from "@/lib/markdown"
+import { renderMarkdownWithEntities, stripMarkdown } from "@/lib/markdown"
+import { getEntitySlugIndex } from "@/lib/content"
 import type { Org } from "@/lib/types"
 import { INVERSE_LABELS } from "@/lib/constants"
 import { FactionSpectrum } from "@/components/FactionSpectrum"
@@ -29,6 +30,7 @@ const connectionItems = connections.map((conn) => {
   return { type: conn.type, confidence: conn.confidence, label, otherName: "name_en" in other ? other.name_en : other.name, href, dateFrom: conn.date_from, dateTo: conn.date_to }
 }).filter((x): x is NonNullable<typeof x> => x !== null)
 const parentOrg = org.parent_org ? getOrgById(org.parent_org) : null
+const entityIndex = getEntitySlugIndex()
 const desc = stripMarkdown(org.description).slice(0, 160)
 
 const jsonLd = {
@@ -53,7 +55,7 @@ const jsonLd = {
   <article data-pagefind-body>
     <div class="flex flex-wrap items-baseline gap-3">
       <h1 class="text-2xl font-bold" data-pagefind-meta="title">{org.name_en}</h1>
-      {org.has_native_fa_name && <span class="text-lg text-muted-foreground" dir="rtl" lang="fa">{org.name_fa}</span>}
+      {org.name_fa && <span class="text-lg text-muted-foreground" dir="rtl" lang="fa">{org.name_fa}</span>}
     </div>
 
     <div class="mt-2 flex flex-wrap items-center gap-2">
@@ -84,7 +86,7 @@ const jsonLd = {
 
     <Separator className="my-6" />
 
-    <div class="prose prose-sm dark:prose-invert max-w-none" set:html={renderMarkdown(org.description)} />
+    <div class="prose prose-sm dark:prose-invert max-w-none" set:html={renderMarkdownWithEntities(org.description, entityIndex)} />
 
     <span data-pagefind-meta={`type:org`} class="hidden" />
     {org.faction && <span data-pagefind-meta={`faction:${org.faction}`} class="hidden" />}
@@ -101,6 +103,22 @@ const jsonLd = {
   <Fragment slot="sidebar">
     {connectionItems.length > 0 && (
       <ConnectionsList client:load connections={connectionItems} />
+    )}
+
+    {org.sources?.length > 0 && (
+      <div>
+        <h2 class="mt-8 mb-3 text-sm font-medium text-muted-foreground">Sources</h2>
+        <ul class="space-y-2">
+          {org.sources.map((src) => (
+            <li class="text-sm">
+              <a href={src.url} target="_blank" rel="noopener noreferrer" class="font-medium hover:underline">
+                {src.title}
+              </a>
+              <span class="text-muted-foreground"> &middot; {src.publisher}{src.date && <> &middot; <FormattedDate date={src.date} /></>}</span>
+            </li>
+          ))}
+        </ul>
+      </div>
     )}
 
     <AskChatGPT entityName={org.name_en} entityType="org" context={org.type ? `Type: ${org.type.replace(/-/g, " ")}.` : undefined} />

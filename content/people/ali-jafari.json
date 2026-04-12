@@ -1,0 +1,18 @@
+{
+  "entity_id": "ali-jafari",
+  "slug": "ali-jafari",
+  "name_en": "Mohammad Ali Jafari",
+  "name_fa": "محمدعلی جعفری",
+  "has_native_fa_name": true,
+  "aliases": ["Ali Jafari", "Major General Jafari"],
+  "born": 1957,
+  "birthplace": "Yazd",
+  "role": "IRGC Commander-in-Chief (2007–2019)",
+  "faction": "hardliner",
+  "bio": "Mohammad Ali Jafari served as Commander-in-Chief of the [Islamic Revolutionary Guard Corps](/orgs/islamic-revolutionary-guard-corps) from September 2007 to April 2019, when he was replaced by Hossein Salami. During his twelve years at the helm of the IRGC, Jafari oversaw the expansion of Iran's missile capabilities, its proxy network across the Middle East, and the IRGC's growing role in the domestic economy. He was a close associate of [Hassan Tehrani Moghaddam](/people/hassan-tehrani-moghaddam), the father of Iran's missile programme, and has recounted early conversations with Moghaddam in Syria about ballistic missile development in the 1980s. Jafari was sanctioned by the United States Treasury Department and the European Union for his role in human rights abuses during the suppression of the 2009 Green Movement protests.",
+  "irgc_member": true,
+  "expertise": ["military command", "missile strategy", "IRGC administration"],
+  "tags": ["military", "sanctions"],
+  "photo": null,
+  "editorial_notes": "Replaced as IRGC chief by Hossein Salami in April 2019. Sanctioned by US and EU. Known for expanding IRGC economic empire and proxy warfare operations."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-akbar-ahmadian-headed-supreme-national-security-council",
+  "from_entity": "ali-akbar-ahmadian",
+  "to_entity": "supreme-national-security-council",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2023",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Akbar_Ahmadian",
+      "source_title": "Ali Akbar Ahmadian — Wikipedia",
+      "source_date": "2026-04-12",
+      "description": "Appointed Secretary of the Supreme National Security Council on 22 May 2023 by President Ebrahim Raeisi, replacing Ali Shamkhani."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

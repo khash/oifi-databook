@@ -1,0 +1,19 @@
+{
+  "entity_id": "majid-sharif-vaghefi-subject-of-peykar-organization",
+  "from_entity": "majid-sharif-vaghefi",
+  "to_entity": "peykar-organization",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": "1975",
+  "date_end": "1975",
+  "notes": "Sharif-Vaghefi was murdered in May 1975 by Taghi Shahram's Marxist MEK faction (which became Peykar) as part of the internal ideological purge.",
+  "evidence": [
+    {
+      "name": "Wikipedia — Peykar Organization",
+      "url": "https://en.wikipedia.org/wiki/Peykar"
+    }
+  ],
+  "intermediaries": []
+}

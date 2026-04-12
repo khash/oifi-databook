@@ -1,0 +1,17 @@
+{
+  "entity_id": "ali-jafari-headed-islamic-revolutionary-guard-corps",
+  "from_entity": "ali-jafari",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "headed",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "notes": "IRGC Commander-in-Chief 2007-2019",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Ali_Jafari",
+      "source_title": "Mohammad Ali Jafari — Wikipedia",
+      "source_date": "2024-01-01"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "entity_id": "goli-ameri-affiliated-with-volant-media",
+  "from_entity": "goli-ameri",
+  "to_entity": "volant-media",
+  "type": "affiliated-with",
+  "confidence": "alleged",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": null,
+  "date_end": null,
+  "notes": "Reported as the principal beneficiary of Volant Media, the UK-registered company that owns Iran International. The beneficial ownership structure has been subject to reporting but not fully confirmed.",
+  "evidence": [
+    {
+      "name": "The Guardian — Iran International funding investigation",
+      "url": "https://www.theguardian.com/media/2020/oct/14/iran-international-tv-channel-secret-saudi-funding-fears"
+    }
+  ],
+  "intermediaries": []
+}

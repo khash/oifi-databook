@@ -1,0 +1,10 @@
+{
+  "entity_id": "mohammad-jafar-sahraroudi-member-of-ministry-of-intelligence",
+  "from_entity": "mohammad-jafar-sahraroudi",
+  "to_entity": "ministry-of-intelligence",
+  "type": "member-of",
+  "confidence": "alleged",
+  "symmetric": false,
+  "family_subtype": null,
+  "notes": "Austrian investigators alleged Sahraroudi was an Iranian intelligence operative"
+}

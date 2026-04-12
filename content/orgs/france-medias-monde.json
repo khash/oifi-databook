@@ -1,0 +1,15 @@
+{
+  "entity_id": "france-medias-monde",
+  "slug": "france-medias-monde",
+  "name_en": "France Médias Monde",
+  "name_fa": "فرانس مدیا موند",
+  "has_native_fa_name": false,
+  "type": "media",
+  "founded": 2008,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "France Médias Monde (FMM) is the French state's international broadcasting holding company, established in 2008 as Audiovisuel Extérieur de la France and renamed France Médias Monde in 2012. It is 100% state-owned, supervised by the French Ministry of Foreign Affairs, and funded through the French public broadcasting budget. Its principal subsidiaries are [France 24](/orgs/france-24), the international television news network broadcasting in French, English, Arabic, and Spanish, and Radio France Internationale (RFI), the world-radio service broadcasting in French and over a dozen other languages. France 24 in turn operates [France 24 Persian](/orgs/france-24-persian), the Persian-language service launched in January 2017, which has grown into a significant news source for Iranian audiences both inside Iran and in the diaspora. The Islamic Republic jams France 24's satellite signal and has prosecuted Iranian journalists working for its Persian service.",
+  "faction": null,
+  "tags": [],
+  "editorial_notes": "100% French state-owned. Parent of France 24 and RFI. Established 2008 as Audiovisuel Extérieur de la France; renamed France Médias Monde 2012."
+}

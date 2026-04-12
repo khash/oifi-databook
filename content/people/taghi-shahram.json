@@ -1,0 +1,18 @@
+{
+  "entity_id": "taghi-shahram",
+  "slug": "taghi-shahram",
+  "name_en": "Taghi Shahram",
+  "name_fa": "تقی شهرام",
+  "has_native_fa_name": true,
+  "aliases": ["Mohammad-Taqi Shahram"],
+  "born": 1944,
+  "birthplace": "Iran",
+  "role": "Leader of the Marxist faction of MEK that became the Peykar Organization",
+  "faction": "opposition",
+  "bio": "Taghi Shahram was the leader of the Marxist faction within the [Mojahedin-e Khalq](/orgs/mojahedin-e-khalq) that carried out a dramatic ideological coup in 1975, declaring that Marxism-Leninism had superseded the MEK's original Islamic-leftist ideology. Shahram's faction orchestrated a brutal internal purge of MEK members who refused to accept the ideological shift, including the murder of several who resisted. The most notorious killing attributed to his faction was that of Majid Sharif-Vaghefi, an MEK member executed for his opposition to the Marxist turn. The Marxist faction formally constituted itself as the [Peykar Organization](/orgs/peykar-organization) in 1978. After the [1979 revolution](/events/iranian-revolution-1979), Shahram was captured by the Islamic Republic. He was executed by the Islamic Republic in 1982.",
+  "irgc_member": false,
+  "expertise": ["Marxist theory", "guerrilla politics"],
+  "tags": ["deceased"],
+  "photo": null,
+  "editorial_notes": "Led the 1975 Marxist coup within the MEK. Executed by Islamic Republic circa 1982."
+}

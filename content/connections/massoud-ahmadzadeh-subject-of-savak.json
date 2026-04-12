@@ -1,0 +1,21 @@
+{
+  "entity_id": "massoud-ahmadzadeh-subject-of-savak",
+  "from_entity": "massoud-ahmadzadeh",
+  "to_entity": "savak",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "1972",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Massoud_Ahmadzadeh",
+      "source_title": "Massoud Ahmadzadeh — Wikipedia",
+      "source_date": "2026-04-12",
+      "description": "Arrested by SAVAK and executed in May 1972"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

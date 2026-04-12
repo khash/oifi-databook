@@ -1,0 +1,19 @@
+{
+  "entity_id": "hamid-taqvaee-opposed-koorosh-modarresi",
+  "from_entity": "hamid-taqvaee",
+  "to_entity": "koorosh-modarresi",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": "2004",
+  "date_end": null,
+  "notes": "Taqvaee and Modarresi led rival factions in the 2004 WPI split.",
+  "evidence": [
+    {
+      "name": "Wikipedia — Worker-communist Party of Iran (Hekmatist)",
+      "url": "https://en.wikipedia.org/wiki/Worker-communist_Party_of_Iran_(Hekmatist)"
+    }
+  ],
+  "intermediaries": []
+}

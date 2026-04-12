@@ -1,0 +1,17 @@
+{
+  "entity_id": "nematollah-nassiri-reports-to-mohammad-reza-shah-pahlavi",
+  "from_entity": "nematollah-nassiri",
+  "to_entity": "mohammad-reza-shah-pahlavi",
+  "type": "reports-to",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "notes": "",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Nematollah_Nassiri",
+      "source_title": "Nematollah Nassiri — Wikipedia",
+      "source_date": "2024-01-01"
+    }
+  ]
+}

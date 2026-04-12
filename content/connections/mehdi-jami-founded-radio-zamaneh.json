@@ -1,0 +1,21 @@
+{
+  "entity_id": "mehdi-jami-founded-radio-zamaneh",
+  "from_entity": "mehdi-jami",
+  "to_entity": "radio-zamaneh",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "2006",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Radio_Zamaneh",
+      "source_title": "Radio Zamaneh - Wikipedia",
+      "source_date": null,
+      "description": "Mehdi Jami founded Radio Zamaneh in Amsterdam in 2006."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

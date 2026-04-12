@@ -1,0 +1,19 @@
+{
+  "entity_id": "committee-for-special-operations-named-in-sadegh-sharafkandi",
+  "from_entity": "committee-for-special-operations",
+  "to_entity": "sadegh-sharafkandi",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": null,
+  "date_end": null,
+  "notes": "The Berlin court found the Committee ordered the assassination of Sharafkandi.",
+  "evidence": [
+    {
+      "name": "Wikipedia — Mykonos restaurant assassinations",
+      "url": "https://en.wikipedia.org/wiki/Mykonos_restaurant_assassinations"
+    }
+  ],
+  "intermediaries": []
+}

@@ -1,0 +1,19 @@
+{
+  "entity_id": "hosein-fardust",
+  "slug": "hosein-fardust",
+  "name_en": "Hosein Fardust",
+  "name_fa": "حسین فردوست",
+  "has_native_fa_name": true,
+  "aliases": ["Hossein Fardoust", "Hussein Fardust"],
+  "born": 1917,
+  "birthplace": "Tehran, Iran",
+  "died": 1987,
+  "role": "Intelligence official; first head of SAVAMA (1979–1985); former Deputy Head of SAVAK",
+  "faction": "hardliner",
+  "bio": "Hosein Fardust (1917–1987) was an Iranian intelligence official who occupied a uniquely paradoxical position in modern Iranian history: the Shah's closest childhood friend who became a pillar of the Islamic Republic's security apparatus. Fardust and Crown Prince Mohammad Reza Pahlavi attended the same palace-grounds private school together as children and later the prestigious Le Rosey Institute in Switzerland, forging a lifelong personal bond. This intimacy gave Fardust unparalleled access throughout the Pahlavi era. He ran the **Special Intelligence Bureau** (Daftar-e Vijeh-ye Ettelaat) — a private intelligence channel serving the Shah directly, operating parallel to and separate from [SAVAK](/orgs/savak) — for roughly twenty years, and served concurrently as Deputy Head of [SAVAK](/orgs/savak), effectively managing its day-to-day operations.\n\nWhen the Islamic Revolution came in 1979, Fardust did not flee with the Shah or the bulk of the Pahlavi establishment. He remained in Iran and cooperated with the Islamic Republic, reportedly bringing [SAVAK](/orgs/savak)'s institutional files, personnel networks, and methods intact into the post-revolution state. He was appointed the first head of [SAVAMA](/orgs/savama), the post-revolution successor intelligence service established in 1979, a position he held until approximately 1985. Whether his collaboration with the Islamic Republic was a deliberate long-term defection, pragmatic accommodation, or evidence of prior ties to Soviet intelligence — as alleged by some sources — remains disputed. He was arrested in December 1985 on charges of KGB cooperation. In April 1987 he appeared in a staged state television interview in which he denounced the Shah and the Pahlavi court. He died in May 1987, reportedly of a heart attack while still imprisoned.",
+  "irgc_member": false,
+  "expertise": ["intelligence", "security apparatus"],
+  "tags": ["deceased", "intelligence"],
+  "photo": null,
+  "editorial_notes": "Childhood friend of Mohammad Reza Shah. SAVAK Deputy Head. First head of SAVAMA 1979–1985. Arrested Dec 1985, died May 1987. Alleged KGB ties — disputed."
+}

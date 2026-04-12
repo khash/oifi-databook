@@ -1,0 +1,25 @@
+{
+  "entity_id": "iranian-coup-1953",
+  "slug": "iranian-coup-1953",
+  "name": "1953 Iranian Coup d'état",
+  "date": "1953-08-19",
+  "type": "purge",
+  "description": "The 1953 Iranian coup d'état (Operation Ajax/Boot) was a CIA and MI6-backed operation that overthrew the democratically elected government of Prime Minister [Mohammad Mossadegh](/people/mohammad-mossadegh). On 19 August 1953, royalist officers and mobs organised with covert US and British support seized key installations in Tehran and toppled Mossadegh's cabinet. Shah Mohammad Reza Pahlavi, who had briefly fled the country, returned to power. Mossadegh was arrested and tried by a military tribunal, receiving a three-year prison sentence before being placed under permanent house arrest. [Karim Sanjabi](/people/karim-sanjabi) and other [National Front](/orgs/national-front-iran) leaders were arrested. The coup ended Iran's experiment with democratic governance and the oil nationalisation era, and set the stage for the Shah's authoritarian consolidation, backed by [SAVAK](/orgs/savak), over the following decades.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/1953_Iranian_coup_d%27%C3%A9tat",
+      "title": "1953 Iranian coup d'état — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://nsarchive.gwu.edu/briefing-book/iran/2017-06-21/cia-admits-role-1953-iranian-coup",
+      "title": "CIA Admits Role in 1953 Iranian Coup",
+      "date": "2013-08-19",
+      "publisher": "National Security Archive, George Washington University"
+    }
+  ],
+  "tags": [],
+  "editorial_notes": "Operation Ajax (US)/Boot (UK). 19 August 1953. Mossadegh arrested. Sanjabi arrested. Shah restored. CIA confirmed its role publicly in 2013. Foundational event for all National Front figures in the database."
+}

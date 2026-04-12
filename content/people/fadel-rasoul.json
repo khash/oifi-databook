@@ -1,0 +1,18 @@
+{
+  "entity_id": "fadel-rasoul",
+  "slug": "fadel-rasoul",
+  "name_en": "Fadel Rasoul",
+  "name_fa": "فاضل رسول",
+  "has_native_fa_name": false,
+  "aliases": [],
+  "born": null,
+  "birthplace": "Iraq",
+  "role": "Kurdish-Iraqi academic and mediator; killed in Vienna 1989",
+  "faction": "opposition",
+  "bio": "Fadel Rasoul was a Kurdish-Iraqi academic who served as a mediator in the negotiations between the [Democratic Party of Iranian Kurdistan (PDKI)](/orgs/democratic-party-of-iranian-kurdistan) and representatives of the Islamic Republic. On 13 July 1989, Rasoul was shot dead in a Vienna apartment alongside PDKI Secretary-General [Abdul Rahman Ghassemlou](/people/abdul-rahman-ghassemlou) and PDKI senior official [Abdullah Ghaderi-Azar](/people/abdullah-ghaderi-azar), in what Austrian and later German investigations established was an assassination carried out by Iranian intelligence operatives. Rasoul was present in his capacity as a trusted neutral facilitator. He was the third victim of the [Ghassemlou assassination](/events/ghassemlou-assassination-1989), and his killing underscored that the Islamic Republic was willing to murder even neutral intermediaries to eliminate Kurdish opposition leadership.",
+  "irgc_member": false,
+  "expertise": ["mediation", "Kurdish politics"],
+  "tags": ["deceased", "assassinated"],
+  "photo": null,
+  "editorial_notes": "Killed 13 July 1989 in Vienna alongside Ghassemlou and Ghaderi-Azar. Kurdish-Iraqi academic, present as mediator."
+}

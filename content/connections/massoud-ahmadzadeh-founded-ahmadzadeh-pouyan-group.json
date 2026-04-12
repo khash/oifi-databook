@@ -1,0 +1,19 @@
+{
+  "entity_id": "massoud-ahmadzadeh-founded-ahmadzadeh-pouyan-group",
+  "from_entity": "massoud-ahmadzadeh",
+  "to_entity": "ahmadzadeh-pouyan-group",
+  "type": "founded",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": "1969",
+  "date_end": null,
+  "notes": null,
+  "evidence": [
+    {
+      "name": "Wikipedia — Organization of Iranian People's Fadai Guerrillas",
+      "url": "https://en.wikipedia.org/wiki/Organization_of_Iranian_People%27s_Fadai_Guerrillas"
+    }
+  ],
+  "intermediaries": []
+}

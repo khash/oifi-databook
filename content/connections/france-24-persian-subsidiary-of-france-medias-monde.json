@@ -1,0 +1,21 @@
+{
+  "entity_id": "france-24-persian-subsidiary-of-france-medias-monde",
+  "from_entity": "france-24-persian",
+  "to_entity": "france-medias-monde",
+  "type": "subsidiary-of",
+  "confidence": "confirmed",
+  "date_from": "2017",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/France_M%C3%A9dias_Monde",
+      "source_title": "France Médias Monde — Wikipedia",
+      "source_date": "2026-04-12",
+      "description": "France 24 Persian is the Persian-language service of France 24, which is a subsidiary of France Médias Monde."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

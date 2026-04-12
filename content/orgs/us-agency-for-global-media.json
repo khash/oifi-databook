@@ -1,0 +1,15 @@
+{
+  "entity_id": "us-agency-for-global-media",
+  "slug": "us-agency-for-global-media",
+  "name_en": "US Agency for Global Media",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "state-institution",
+  "founded": 1994,
+  "dissolved": null,
+  "parent_org": null,
+  "faction": null,
+  "description": "The US Agency for Global Media (USAGM) is an independent agency of the United States federal government that funds and oversees US international broadcasting. It is the parent body of [Radio Free Europe/Radio Liberty](/orgs/radio-free-europe-radio-liberty), the Voice of America (parent of [VOA Persian](/orgs/voa-persian)), and several other international outlets. USAGM's mandate is to promote democracy and freedom of the press globally through publicly funded journalism. Its Iran-focused services — VOA Persian and [Radio Farda](/orgs/radio-farda) — are major sources of Persian-language news for audiences inside Iran.",
+  "tags": [],
+  "editorial_notes": "US federal agency. Parent of RFE/RL and VOA. Formerly Broadcasting Board of Governors (BBG) until 2018."
+}

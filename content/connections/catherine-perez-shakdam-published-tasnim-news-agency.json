@@ -1,0 +1,21 @@
+{
+  "entity_id": "catherine-perez-shakdam-published-tasnim-news-agency",
+  "from_entity": "catherine-perez-shakdam",
+  "to_entity": "tasnim-news-agency",
+  "type": "published",
+  "confidence": "confirmed",
+  "date_from": "2013",
+  "date_to": "2021",
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202203079467",
+      "source_title": "Iranian Officials Deny Ties With 'Infiltrator' Jewish Female — Iran International",
+      "source_date": "2022-03-07",
+      "description": "Iran International reports that Perez-Shakdam contributed to Tasnim News Agency and other Iranian state media outlets; articles were deleted after her Jewish identity disclosure in November 2021."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Articles deleted by Tasnim following her November 2021 disclosure."
+}

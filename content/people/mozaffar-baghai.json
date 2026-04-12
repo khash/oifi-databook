@@ -1,0 +1,19 @@
+{
+  "entity_id": "mozaffar-baghai",
+  "slug": "mozaffar-baghai",
+  "name_en": "Mozaffar Baghai",
+  "name_fa": "مظفر بقایی",
+  "has_native_fa_name": true,
+  "aliases": ["Mozaffar Baqai", "Baqai Kermani"],
+  "born": 1912,
+  "died": "1987-01-01",
+  "birthplace": "Kerman",
+  "role": "Co-founder of National Front; leader of the Toilers' Party of Iran",
+  "faction": "opposition",
+  "bio": "Mozaffar Baghai was an Iranian politician from Kerman who co-founded the [National Front of Iran](/orgs/national-front-iran) in 1949 with [Mohammad Mossadegh](/people/mohammad-mossadegh), [Karim Sanjabi](/people/karim-sanjabi), and [Hossein Makki](/people/hossein-makki). He simultaneously led the Toilers' Party of Iran (Hezb-e Zahmatkeshan), a left-leaning nationalist party that was a constituent member of the National Front.\n\nBaghai was initially a close ally of Mossadegh and a prominent voice in the oil nationalisation movement. However, his relationship with Mossadegh deteriorated sharply before the [1953 coup d'état](/events/iranian-coup-1953). He broke with the National Front and became a fierce critic of Mossadegh, to the point where he was accused of collaborating with the Shah's regime and possibly with [SAVAK](/orgs/savak), the Iranian intelligence service, as well as with CIA-connected networks in the lead-up to the coup. Some historians consider him to have played a role in weakening Mossadegh's government from within.\n\nAfter the coup, Baghai initially benefited from his improved standing with the Shah's government but was later imprisoned under the Pahlavi regime. He died in 1987.",
+  "irgc_member": false,
+  "expertise": ["parliamentary politics", "labour politics"],
+  "tags": ["deceased"],
+  "photo": null,
+  "editorial_notes": "Born 1912 Kerman. Co-founded National Front 1949. Led Toilers' Party. Broke with Mossadegh before 1953 coup. Accused of collaborating with Shah/SAVAK/CIA. Died 1987."
+}

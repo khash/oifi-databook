@@ -72,4 +72,54 @@ export function generateGraphData() {
   const outPath = path.resolve(process.cwd(), "public", "graph-data.json")
   fs.mkdirSync(path.dirname(outPath), { recursive: true })
   fs.writeFileSync(outPath, JSON.stringify({ nodes, edges }))
+
+  // Generate entity summaries for hover cards
+  function stripMd(text) {
+    if (!text) return ""
+    return text
+      .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1")
+      .replace(/[*_~`#>]+/g, "")
+      .replace(/\n+/g, " ")
+      .trim()
+  }
+
+  const summaries = {}
+  for (const p of people) {
+    summaries[p.entity_id] = {
+      type: "person",
+      slug: p.slug,
+      name_en: p.name_en,
+      name_fa: p.name_fa ?? null,
+      has_native_fa_name: p.has_native_fa_name ?? false,
+      role: p.role ?? null,
+      faction: p.faction ?? null,
+      irgc_member: p.irgc_member ?? false,
+      excerpt: stripMd(p.bio).slice(0, 160) || null,
+    }
+  }
+  for (const o of orgs) {
+    summaries[o.entity_id] = {
+      type: "org",
+      slug: o.slug,
+      name_en: o.name_en,
+      name_fa: o.name_fa ?? null,
+      has_native_fa_name: o.has_native_fa_name ?? false,
+      org_type: o.type ?? null,
+      faction: o.faction ?? null,
+      excerpt: stripMd(o.description).slice(0, 160) || null,
+    }
+  }
+  for (const e of events) {
+    summaries[e.entity_id] = {
+      type: "event",
+      slug: e.slug,
+      name_en: e.name,
+      event_type: e.type ?? null,
+      date: e.date ?? null,
+      excerpt: stripMd(e.description).slice(0, 160) || null,
+    }
+  }
+
+  const summariesPath = path.resolve(process.cwd(), "public", "entity-summaries.json")
+  fs.writeFileSync(summariesPath, JSON.stringify(summaries))
 }

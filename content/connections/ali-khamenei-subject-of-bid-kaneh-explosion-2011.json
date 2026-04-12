@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-khamenei-subject-of-bid-kaneh-explosion-2011",
+  "from_entity": "ali-khamenei",
+  "to_entity": "bid-kaneh-explosion-2011",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2011-11-12",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Bid_Kaneh_explosion",
+      "source_title": "Bid Kaneh explosion — Wikipedia",
+      "source_date": "2011-11-12",
+      "description": "Supreme Leader Ali Khamenei personally attended the funeral of Hassan Tehrani Moghaddam, killed in the Bid Kaneh explosion — an exceptional honour underscoring the strategic importance of the loss."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Khamenei's attendance at the funeral was unusual and signalled the strategic gravity of Moghaddam's death."
+}

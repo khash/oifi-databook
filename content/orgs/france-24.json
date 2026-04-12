@@ -1,0 +1,15 @@
+{
+  "entity_id": "france-24",
+  "slug": "france-24",
+  "name_en": "France 24",
+  "name_fa": "فرانس 24",
+  "has_native_fa_name": false,
+  "type": "media",
+  "founded": 2006,
+  "dissolved": null,
+  "parent_org": "france-medias-monde",
+  "description": "France 24 is a French state-funded international news television channel launched in 2006 and operated by France Médias Monde, under the supervision of the French Ministry of Foreign Affairs. Broadcasting in French, English, Arabic, and Spanish, France 24 is part of France's international public broadcasting apparatus. It is the parent broadcaster of [France 24 Persian](/orgs/france-24-persian), the Persian-language service launched in 2017, which has rapidly grown as a news source for Iranian audiences both inside Iran and in the diaspora.",
+  "faction": null,
+  "tags": [],
+  "editorial_notes": "Launched 2006. Operated by France Médias Monde. Parent of France 24 Persian (launched 2017)."
+}

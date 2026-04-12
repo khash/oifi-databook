@@ -1,0 +1,19 @@
+{
+  "entity_id": "khatam-al-anbiya-central-headquarters-subsidiary-of-islamic-revolutionary-guard-corps",
+  "from_entity": "khatam-al-anbiya-central-headquarters",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "subsidiary-of",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": null,
+  "date_end": null,
+  "notes": "KCHQ coordinates joint operations under the IRGC's command structure and reports to the Supreme Leader.",
+  "evidence": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Khatam-al_Anbiya_Central_Headquarters",
+      "title": "Khatam al-Anbiya Central Headquarters — Wikipedia",
+      "date": "2026-04-01"
+    }
+  ]
+}

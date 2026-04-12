@@ -1,0 +1,15 @@
+{
+  "entity_id": "toufan-organization",
+  "slug": "toufan-organization",
+  "name_en": "Toufan Organization",
+  "name_fa": "سازمان توفان",
+  "has_native_fa_name": true,
+  "type": "political-party",
+  "founded": 1964,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Toufan Organization (Organization of Toilers of Iran, Sazman-e Toufan) is Iran's principal Maoist political organization, distinct from the pro-Soviet [Tudeh Party of Iran](/orgs/tudeh-party-of-iran) and from the guerrilla-oriented Fadaiyan currents. Founded in 1964 as a Maoist breakaway from the Tudeh Party, Toufan embraced the Sino-Soviet split and aligned with the People's Republic of China against Soviet revisionism. The organization participated in the pre-revolutionary opposition and remained active after the [1979 revolution](/events/iranian-revolution-1979), publishing theoretical journals from exile. Toufan has maintained a consistent Maoist ideological line and criticised both the Soviet-aligned left and the more popular worker-communist tendency associated with [Mansoor Hekmat](/people/mansoor-hekmat).",
+  "faction": "opposition",
+  "tags": ["banned", "in-exile"],
+  "editorial_notes": "Maoist. Founded 1964 as Tudeh splinter. Distinct from pro-Soviet left. Active in exile publishing."
+}

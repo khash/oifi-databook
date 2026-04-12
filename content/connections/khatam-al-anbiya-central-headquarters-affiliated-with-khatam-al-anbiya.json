@@ -1,0 +1,19 @@
+{
+  "entity_id": "khatam-al-anbiya-central-headquarters-affiliated-with-khatam-al-anbiya",
+  "from_entity": "khatam-al-anbiya-central-headquarters",
+  "to_entity": "khatam-al-anbiya",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": null,
+  "date_end": null,
+  "notes": "Both organizations share the Khatam al-Anbiya name and IRGC affiliation but are distinct entities — the Central Headquarters is the joint military command while the Construction Headquarters is the IRGC's engineering and business conglomerate.",
+  "evidence": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Khatam-al_Anbiya_Central_Headquarters",
+      "title": "Khatam al-Anbiya Central Headquarters — Wikipedia",
+      "date": "2026-04-01"
+    }
+  ]
+}

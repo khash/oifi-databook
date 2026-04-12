@@ -1,0 +1,19 @@
+{
+  "entity_id": "voice-of-america-funded-by-us-agency-for-global-media",
+  "from_entity": "voice-of-america",
+  "to_entity": "us-agency-for-global-media",
+  "type": "funded-by",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": "2018",
+  "date_end": null,
+  "notes": "Prior to 2018 VOA was funded via the Broadcasting Board of Governors (BBG), which was restructured into USAGM.",
+  "evidence": [
+    {
+      "name": "USAGM official website",
+      "url": "https://www.usagm.gov"
+    }
+  ],
+  "intermediaries": []
+}

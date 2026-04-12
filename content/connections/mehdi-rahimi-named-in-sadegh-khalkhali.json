@@ -1,0 +1,17 @@
+{
+  "entity_id": "mehdi-rahimi-named-in-sadegh-khalkhali",
+  "from_entity": "mehdi-rahimi",
+  "to_entity": "sadegh-khalkhali",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "notes": "Khalkhali presided over Rahimi's tribunal",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Sadegh_Khalkhali",
+      "source_title": "Sadegh Khalkhali — Wikipedia",
+      "source_date": "2024-01-01"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "entity_id": "amir-abbas-hoveyda-led-iran-e-novin-party",
+  "from_entity": "amir-abbas-hoveyda",
+  "to_entity": "iran-e-novin-party",
+  "type": "led",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "notes": "Hoveyda was a founding member of Iran-e Novin and assumed the party chairmanship after Mansur's assassination in January 1965, leading it throughout his twelve years as prime minister",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Amir-Abbas_Hoveyda",
+      "source_title": "Amir-Abbas Hoveyda — Wikipedia",
+      "source_date": "2024-01-01"
+    }
+  ]
+}

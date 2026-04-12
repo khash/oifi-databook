@@ -1,0 +1,19 @@
+{
+  "entity_id": "savama-subsidiary-of-ministry-of-intelligence",
+  "from_entity": "savama",
+  "to_entity": "ministry-of-intelligence",
+  "type": "subsidiary-of",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": null,
+  "date_end": "1984",
+  "notes": "SAVAMA was the predecessor of MOIS. When MOIS was formally established in 1984, it absorbed SAVAMA's functions and personnel.",
+  "evidence": [
+    {
+      "name": "Wikipedia — SAVAMA",
+      "url": "https://en.wikipedia.org/wiki/SAVAMA"
+    }
+  ],
+  "intermediaries": []
+}

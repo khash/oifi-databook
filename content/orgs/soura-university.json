@@ -1,0 +1,15 @@
+{
+  "entity_id": "soura-university",
+  "slug": "soura-university",
+  "name_en": "Soura University",
+  "name_fa": "دانشگاه سوره",
+  "has_native_fa_name": true,
+  "type": "ngo",
+  "founded": 1992,
+  "dissolved": null,
+  "parent_org": "islamic-propaganda-organization",
+  "description": "Soura University (دانشگاه سوره) is an arts and communications university in Tehran affiliated with the [Islamic Propaganda Organization](/orgs/islamic-propaganda-organization) (Sazman-e Tabligh-e Eslami), which operates under the Supreme Leader. Founded in 1992, the university focuses on fine arts, cinema, theatre, graphic design, and communications — disciplines through which the regime cultivates culturally and ideologically aligned creative talent. [Mohammad-Ali Zam](/people/mohammad-ali-zam), the reformist cultural official and father of executed journalist Ruhollah Zam, served as the university's president, reflecting the institution's position at the intersection of regime cultural policy and reformist-conservative tensions.",
+  "faction": "conservative",
+  "tags": [],
+  "editorial_notes": "Arts university under Islamic Propaganda Organization. Mohammad-Ali Zam served as president."
+}

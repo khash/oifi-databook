@@ -1,0 +1,15 @@
+{
+  "entity_id": "national-consultative-assembly",
+  "slug": "national-consultative-assembly",
+  "name_en": "National Consultative Assembly",
+  "name_fa": "مجلس شورای ملی",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 1906,
+  "dissolved": 1979,
+  "parent_org": null,
+  "description": "The National Consultative Assembly (Majles-e Showrā-ye Mellī) was the unicameral parliament of Iran from 1906 until the Islamic Revolution in 1979. Established as part of the Persian Constitutional Revolution of 1906, it was the central legislative institution of Qajar and Pahlavi Iran, running for 24 sessions over its 73-year history. The assembly was the forum through which nationalist politicians such as [Mohammad Mossadegh](/people/mohammad-mossadegh), [Hossein Makki](/people/hossein-makki), and [Karim Sanjabi](/people/karim-sanjabi) advanced the oil nationalisation movement in the early 1950s and built the [National Front of Iran](/orgs/national-front-iran). It was dissolved in February 1979 during the Islamic Revolution and superseded by the [Islamic Consultative Assembly](/orgs/islamic-consultative-assembly), established in 1980 under a new constitution.",
+  "faction": null,
+  "tags": ["parliament", "defunct"],
+  "editorial_notes": "24 sessions, 1906–1979. Established by the Constitutional Revolution. Dissolved Feb 1979. Superseded by Islamic Consultative Assembly (est. 1980)."
+}

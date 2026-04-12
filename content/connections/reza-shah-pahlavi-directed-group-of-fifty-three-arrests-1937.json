@@ -1,0 +1,17 @@
+{
+  "entity_id": "reza-shah-pahlavi-directed-group-of-fifty-three-arrests-1937",
+  "from_entity": "reza-shah-pahlavi",
+  "to_entity": "group-of-fifty-three-arrests-1937",
+  "type": "directed",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "notes": "Reza Shah's security services carried out the 1937 arrests of 53 Marxist intellectuals under his authority",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Tudeh_Party_of_Iran",
+      "source_title": "Tudeh Party of Iran — Wikipedia",
+      "source_date": "2024-01-01"
+    }
+  ]
+}

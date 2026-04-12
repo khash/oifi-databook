@@ -1,0 +1,18 @@
+{
+  "entity_id": "goli-ameri",
+  "slug": "goli-ameri",
+  "name_en": "Goli Ameri",
+  "name_fa": "گلی عامری",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1956,
+  "birthplace": "Iran",
+  "role": "Iranian-American businessperson; reported principal beneficiary of Volant Media",
+  "faction": null,
+  "bio": "Goli Ameri is an Iranian-American businessperson and former US diplomat who served as Assistant Secretary of State for Educational and Cultural Affairs under President George W. Bush (2006–2009). She has been reported as the principal beneficiary of Volant Media Ltd, the UK-registered company that founded and owns [Iran International](/orgs/iran-international), the London-based Persian-language satellite news channel. The ownership structure of Volant Media and its alleged links to Saudi funding have made Goli Ameri a significant figure in debates about the editorial independence and funding of diaspora Persian media.",
+  "irgc_member": false,
+  "expertise": ["business", "diplomacy"],
+  "tags": [],
+  "photo": null,
+  "editorial_notes": "Reported principal beneficiary of Volant Media (Iran International owner). Former US Asst. Sec. of State 2006-2009. Iranian-American."
+}

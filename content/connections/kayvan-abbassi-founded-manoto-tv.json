@@ -1,0 +1,21 @@
+{
+  "entity_id": "kayvan-abbassi-founded-manoto-tv",
+  "from_entity": "kayvan-abbassi",
+  "to_entity": "manoto-tv",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "2010",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Manoto",
+      "source_title": "Manoto - Wikipedia",
+      "source_date": null,
+      "description": "Kayvan Abbassi co-founded Manoto TV with Marjan Abbassi in 2010."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

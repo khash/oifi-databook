@@ -1,0 +1,19 @@
+{
+  "entity_id": "mi6-sis-participated-in-iranian-coup-1953",
+  "from_entity": "mi6-sis",
+  "to_entity": "iranian-coup-1953",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": "1953",
+  "date_end": "1953",
+  "notes": "MI6's Operation Boot was the British codename. MI6 initiated planning after Britain was expelled from Iran in 1952 and brought the CIA in as partner.",
+  "evidence": [
+    {
+      "name": "Wikipedia — 1953 Iranian coup d'état",
+      "url": "https://en.wikipedia.org/wiki/1953_Iranian_coup_d%27%C3%A9tat"
+    }
+  ],
+  "intermediaries": []
+}

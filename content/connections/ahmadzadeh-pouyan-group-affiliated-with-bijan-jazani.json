@@ -1,0 +1,19 @@
+{
+  "entity_id": "ahmadzadeh-pouyan-group-affiliated-with-bijan-jazani",
+  "from_entity": "ahmadzadeh-pouyan-group",
+  "to_entity": "bijan-jazani",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "symmetric": true,
+  "family_subtype": null,
+  "date_start": "1971",
+  "date_end": null,
+  "notes": "The Ahmadzadeh-Pouyan Group merged with Jazani's network in 1971 to form the OIPFG.",
+  "evidence": [
+    {
+      "name": "Wikipedia — Organization of Iranian People's Fadai Guerrillas",
+      "url": "https://en.wikipedia.org/wiki/Organization_of_Iranian_People%27s_Fadai_Guerrillas"
+    }
+  ],
+  "intermediaries": []
+}

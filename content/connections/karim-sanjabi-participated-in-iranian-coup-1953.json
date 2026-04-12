@@ -1,0 +1,21 @@
+{
+  "entity_id": "karim-sanjabi-participated-in-iranian-coup-1953",
+  "from_entity": "karim-sanjabi",
+  "to_entity": "iranian-coup-1953",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1953-08-19",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Karim_Sanjabi",
+      "source_title": "Karim Sanjabi — Wikipedia",
+      "source_date": "2024",
+      "description": "Sanjabi was arrested and imprisoned after the coup that overthrew Mossadegh's government."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Arrested in coup aftermath."
+}

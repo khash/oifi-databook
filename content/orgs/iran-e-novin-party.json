@@ -1,0 +1,18 @@
+{
+  "entity_id": "iran-e-novin-party",
+  "slug": "iran-e-novin-party",
+  "name_en": "Iran-e Novin Party",
+  "name_fa": "حزب ایران نوین",
+  "has_native_fa_name": true,
+  "type": "political-party",
+  "founded": 1963,
+  "dissolved": 1975,
+  "parent_org": null,
+  "description": "The Iran-e Novin (New Iran) Party was the dominant ruling party of Pahlavi Iran from its founding in late 1963 until its dissolution in March 1975. It grew out of the Progressive Circle established by Hassan Ali Mansur, a technocratic faction that won favour with [Mohammad Reza Shah Pahlavi](/people/mohammad-reza-shah-pahlavi) as an instrument for implementing the White Revolution reforms. [Amir Abbas Hoveyda](/people/amir-abbas-hoveyda) was among its founding members and served as Mansur's finance minister. When Mansur was assassinated in January 1965, Hoveyda assumed both the party chairmanship and the premiership, leading Iran-e Novin throughout the twelve years of his record-setting tenure as prime minister.\n\nThe party functioned as the Shah's modernisation vehicle, championing land reform, women's suffrage, literacy programmes, and state-led industrialisation under the White Revolution. In March 1975 the Shah dissolved all parties and established the single-party Rastakhiz (Resurgence) Party, with Hoveyda as its secretary-general, effectively absorbing Iran-e Novin.",
+  "faction": "technocrat",
+  "tags": [
+    "executive",
+    "defunct"
+  ],
+  "editorial_notes": "Founded late 1963 out of the Progressive Circle (Hassan Ali Mansur). Hoveyda co-founder. Dissolved March 1975 when Rastakhiz single-party system created."
+}

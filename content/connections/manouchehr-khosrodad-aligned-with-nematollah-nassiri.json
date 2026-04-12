@@ -1,0 +1,17 @@
+{
+  "entity_id": "manouchehr-khosrodad-aligned-with-nematollah-nassiri",
+  "from_entity": "manouchehr-khosrodad",
+  "to_entity": "nematollah-nassiri",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "symmetric": true,
+  "family_subtype": null,
+  "notes": "Both were senior Pahlavi military/security officials executed together in the inaugural post-revolution execution round on 15–16 February 1979",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Executions_following_the_Iranian_Revolution",
+      "source_title": "Executions following the Iranian Revolution — Wikipedia",
+      "source_date": "2024-01-01"
+    }
+  ]
+}

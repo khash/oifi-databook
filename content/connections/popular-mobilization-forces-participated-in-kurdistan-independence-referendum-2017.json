@@ -1,0 +1,21 @@
+{
+  "entity_id": "popular-mobilization-forces-participated-in-kurdistan-independence-referendum-2017",
+  "from_entity": "popular-mobilization-forces",
+  "to_entity": "kurdistan-independence-referendum-2017",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2017_Kurdistan_Region_independence_referendum",
+      "source_title": "2017 Kurdistan Region independence referendum — Wikipedia",
+      "source_date": "2026-04-12",
+      "description": "Following the referendum, Popular Mobilization Forces participated in the Iraqi central government's military operation to retake Kirkuk and other disputed territories from the KRG in October 2017, effectively defeating the KRG's post-referendum position."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "PMF participated in the post-referendum military response, not the vote itself."
+}

@@ -1,0 +1,15 @@
+{
+  "entity_id": "pkk",
+  "slug": "pkk",
+  "name_en": "Kurdistan Workers' Party",
+  "name_fa": "حزب کارگران کردستان",
+  "has_native_fa_name": true,
+  "type": "military",
+  "founded": 1978,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Kurdistan Workers' Party (PKK; Kurdish: Partiya Karkerên Kurdistanê) is a Kurdish militant and political organisation founded in 1978 by Abdullah Öcalan in Turkey. It launched an armed insurgency against the Turkish state in 1984, seeking initially an independent Kurdish state and later evolving toward a demand for Kurdish autonomy and democratic confederalism. The PKK is designated a terrorist organisation by Turkey, the United States, the European Union, and several other states. Based primarily in the Qandil Mountains along the Iraq-Iran border, the PKK serves as the umbrella organisation for affiliated groups in neighbouring countries, including [PJAK](/orgs/pjak) in Iran. Its ideology — democratic confederalism — was developed by Öcalan while imprisoned in Turkey and draws on the political philosophy of Murray Bookchin.",
+  "faction": "opposition",
+  "tags": ["banned", "military"],
+  "editorial_notes": "Founded 1978 by Abdullah Öcalan. Armed insurgency began 1984. Designated terrorist by US, EU, Turkey. Parent organisation of PJAK. Based in Qandil Mountains."
+}

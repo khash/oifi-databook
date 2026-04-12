@@ -1,0 +1,17 @@
+{
+  "entity_id": "nasser-moghadam-subject-of-post-revolution-executions-1979",
+  "from_entity": "nasser-moghadam",
+  "to_entity": "post-revolution-executions-1979",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "notes": "Executed 11 April 1979 by Khalkhali's tribunal",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Nasser_Moghadam",
+      "source_title": "Nasser Moghadam — Wikipedia",
+      "source_date": "2024-01-01"
+    }
+  ]
+}

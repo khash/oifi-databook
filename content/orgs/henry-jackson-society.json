@@ -1,0 +1,15 @@
+{
+  "entity_id": "henry-jackson-society",
+  "slug": "henry-jackson-society",
+  "name_en": "Henry Jackson Society",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 2005,
+  "dissolved": null,
+  "parent_org": null,
+  "faction": null,
+  "description": "The Henry Jackson Society is a British foreign policy think tank founded in 2005, named after US Senator Henry 'Scoop' Jackson. It advocates a hawkish, interventionist foreign policy orientation and has been a prominent voice for robust Western responses to Iranian influence operations, Islamist extremism, and authoritarian states. Based in London, it produces policy research, hosts events, and publishes commentary on security and geopolitical affairs. The society has been a platform for analysts and former intelligence practitioners focused on countering Iranian and Chinese state influence in the West.",
+  "tags": [],
+  "editorial_notes": "UK neoconservative/hawkish think tank. Relevant to OIFI Databook as a platform for anti-regime Iranian analysts and diaspora voices."
+}

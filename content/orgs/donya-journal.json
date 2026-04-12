@@ -1,0 +1,15 @@
+{
+  "entity_id": "donya-journal",
+  "slug": "donya-journal",
+  "name_en": "Donya (journal)",
+  "name_fa": "دنیا",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": 1934,
+  "dissolved": 1937,
+  "parent_org": null,
+  "description": "Donya (دنیا, 'The World') was a clandestine Marxist theoretical journal published in Tehran from 1934 to 1937. Founded and edited by [Taghi Arani](/people/taghi-arani), the journal was the central intellectual vehicle through which Arani built the proto-Tudeh network later known as the Group of Fifty-Three. The journal published articles on scientific Marxism, philosophy, and social theory, attracting young intellectuals to the underground movement. SAVAK and its predecessors monitored the journal closely. The publication was shut down when Reza Shah's government arrested Arani and 52 associates in 1937. The surviving members of this group, released after the Allied invasion of Iran in 1941, went on to found the [Tudeh Party of Iran](/orgs/tudeh-party-of-iran).",
+  "faction": "opposition",
+  "tags": ["defunct", "banned"],
+  "editorial_notes": "Published 1934-1937. Edited by Taghi Arani. Shut down upon Group of Fifty-Three arrests 1937."
+}

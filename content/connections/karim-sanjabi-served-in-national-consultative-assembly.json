@@ -1,0 +1,21 @@
+{
+  "entity_id": "karim-sanjabi-served-in-national-consultative-assembly",
+  "from_entity": "karim-sanjabi",
+  "to_entity": "national-consultative-assembly",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Karim_Sanjabi",
+      "source_title": "Karim Sanjabi — Wikipedia",
+      "source_date": "2026-04-12",
+      "description": "Sanjabi served as a member of the National Consultative Assembly (Majlis) during the Mossadegh era, representing the National Front and supporting oil nationalisation."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

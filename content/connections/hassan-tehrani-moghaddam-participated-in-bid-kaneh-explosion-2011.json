@@ -1,0 +1,21 @@
+{
+  "entity_id": "hassan-tehrani-moghaddam-participated-in-bid-kaneh-explosion-2011",
+  "from_entity": "hassan-tehrani-moghaddam",
+  "to_entity": "bid-kaneh-explosion-2011",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2011-11-12",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Bid_Kaneh_explosion",
+      "source_title": "Bid Kaneh explosion — Wikipedia",
+      "source_date": "2011-11-12",
+      "description": "Moghaddam was killed in the Bid Kaneh explosion on 12 November 2011 at the Modarres missile garrison near Shahriar."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Moghaddam was killed in this event."
+}

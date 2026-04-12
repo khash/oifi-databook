@@ -1,0 +1,21 @@
+{
+  "entity_id": "catherine-perez-shakdam-served-in-shafaqna-institute-for-middle-east-studies",
+  "from_entity": "catherine-perez-shakdam",
+  "to_entity": "shafaqna-institute-for-middle-east-studies",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2015",
+  "date_to": "2017",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Catherine_Perez-Shakdam",
+      "source_title": "Catherine Perez-Shakdam — Wikipedia",
+      "source_date": "2026-04-12",
+      "description": "Wikipedia documents her role as Director of Programs and Lead Analyst at the Shafaqna Institute for Middle East Studies from 2015 to 2017, providing commentary on the Yemen conflict and Gulf politics."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Held the title Director of Programs and Lead Analyst. Institute has Tehran-sympathetic editorial positions."
+}

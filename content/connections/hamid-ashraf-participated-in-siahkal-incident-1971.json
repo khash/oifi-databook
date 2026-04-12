@@ -1,0 +1,21 @@
+{
+  "entity_id": "hamid-ashraf-participated-in-siahkal-incident-1971",
+  "from_entity": "hamid-ashraf",
+  "to_entity": "siahkal-incident-1971",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1971-02-08",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hamid_Ashraf",
+      "source_title": "Hamid Ashraf — Wikipedia",
+      "source_date": "2026-04-12",
+      "description": "Ashraf was among the Fadaiyan who survived the post-Siahkal crackdown"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

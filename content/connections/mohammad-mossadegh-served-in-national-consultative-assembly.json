@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-mossadegh-served-in-national-consultative-assembly",
+  "from_entity": "mohammad-mossadegh",
+  "to_entity": "national-consultative-assembly",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "1953",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Mosaddegh",
+      "source_title": "Mohammad Mossadegh — Wikipedia",
+      "source_date": "2026-04-12",
+      "description": "Mossadegh served as a Majlis deputy and was elected Prime Minister by the Majlis in 1951. He led the oil nationalisation legislation through the National Consultative Assembly."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

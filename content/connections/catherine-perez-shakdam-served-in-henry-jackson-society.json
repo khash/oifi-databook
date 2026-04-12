@@ -1,0 +1,21 @@
+{
+  "entity_id": "catherine-perez-shakdam-served-in-henry-jackson-society",
+  "from_entity": "catherine-perez-shakdam",
+  "to_entity": "henry-jackson-society",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2022",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://henryjacksonsociety.org/media-centre/catherine-perez-shakdam-11/",
+      "source_title": "Catherine Perez-Shakdam — Henry Jackson Society",
+      "source_date": "2022-06-01",
+      "description": "Henry Jackson Society lists Perez-Shakdam as a Research Fellow focused on countering Iranian influence, joining in June 2022 following her public disclosure of her Jewish identity and pivot to anti-regime advocacy."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Joined as Research Fellow in June 2022, focusing on Iranian influence operations and counter-extremism."
+}

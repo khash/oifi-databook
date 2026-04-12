@@ -1,0 +1,24 @@
+{
+  "entity_id": "kayvan-abbassi",
+  "slug": "kayvan-abbassi",
+  "name_en": "Kayvan Abbassi",
+  "name_fa": "کیوان عباسی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": "Iran",
+  "role": "Media entrepreneur and co-founder of Manoto TV",
+  "faction": null,
+  "bio": "Kayvan Abbassi is an Iranian-British media entrepreneur and the co-founder of [Manoto TV](/orgs/manoto-tv), the Persian-language satellite television channel launched in 2010. Together with his wife Marjan Abbassi, he built Manoto into one of the most-watched Persian-language channels globally, combining entertainment with news coverage and maintaining a secular, non-partisan editorial stance. The channel operated from London and reached audiences inside Iran despite regime jamming efforts. Manoto ceased live broadcasting in 2024 and transitioned to on-demand digital content.",
+  "expertise": [
+    "media management",
+    "satellite broadcasting",
+    "Persian-language media"
+  ],
+  "tags": [
+    "in-exile"
+  ],
+  "photo": null,
+  "editorial_notes": "Iranian-British. Co-founded Manoto with wife Marjan Abbassi. Based in London.",
+  "irgc_member": false
+}

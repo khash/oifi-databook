@@ -169,6 +169,66 @@ for (const { file, data } of connections) {
   }
 }
 
+// Build slug → entity_id maps for link resolution
+const slugToId = new Map();
+for (const { data } of people) {
+  if (data.slug && data.entity_id) slugToId.set(`/people/${data.slug}`, data.entity_id);
+}
+for (const { data } of orgs) {
+  if (data.slug && data.entity_id) slugToId.set(`/orgs/${data.slug}`, data.entity_id);
+}
+for (const { data } of events) {
+  if (data.slug && data.entity_id) slugToId.set(`/events/${data.slug}`, data.entity_id);
+}
+
+// Build set of connected entity pairs (unordered)
+const connectedPairs = new Set();
+for (const { data } of connections) {
+  if (data.from_entity && data.to_entity) {
+    connectedPairs.add(`${data.from_entity}|${data.to_entity}`);
+    connectedPairs.add(`${data.to_entity}|${data.from_entity}`);
+  }
+}
+
+// Extract markdown internal links from a text field
+function extractInternalLinks(text) {
+  if (!text || typeof text !== "string") return [];
+  const regex = /\[([^\]]+)\]\((\/(?:people|orgs|events)\/[^)]+)\)/g;
+  const links = [];
+  let m;
+  while ((m = regex.exec(text)) !== null) links.push(m[2]);
+  return links;
+}
+
+// Check markdown links have corresponding connections
+function checkMarkdownLinks(file, entityId, ...textFields) {
+  for (const text of textFields) {
+    for (const link of extractInternalLinks(text)) {
+      const targetId = slugToId.get(link);
+      if (!targetId) {
+        err(file, `Markdown link "${link}" does not resolve to a known entity`);
+        continue;
+      }
+      if (
+        !connectedPairs.has(`${entityId}|${targetId}`) &&
+        !connectedPairs.has(`${targetId}|${entityId}`)
+      ) {
+        err(file, `Markdown link "${link}" (${targetId}) has no connection record`);
+      }
+    }
+  }
+}
+
+for (const { file, data } of people) {
+  if (data.entity_id) checkMarkdownLinks(file, data.entity_id, data.bio);
+}
+for (const { file, data } of orgs) {
+  if (data.entity_id) checkMarkdownLinks(file, data.entity_id, data.description);
+}
+for (const { file, data } of events) {
+  if (data.entity_id) checkMarkdownLinks(file, data.entity_id, data.description, data.body);
+}
+
 // Summary
 const total = people.length + orgs.length + events.length + connections.length;
 console.log(`\nValidated ${total} files (${people.length} people, ${orgs.length} orgs, ${events.length} events, ${connections.length} connections)`);

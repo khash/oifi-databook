@@ -1,0 +1,21 @@
+{
+  "entity_id": "hosein-fardust-headed-savama",
+  "from_entity": "hosein-fardust",
+  "to_entity": "savama",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1985",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hossein_Fardoust",
+      "source_title": "Hossein Fardoust — Wikipedia",
+      "source_date": "2026-04-12",
+      "description": "Fardust was appointed the first head of SAVAMA after the Islamic Revolution, bringing SAVAK's institutional knowledge, files, and personnel networks into the new post-revolution intelligence service."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

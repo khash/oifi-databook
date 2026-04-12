@@ -1,0 +1,19 @@
+{
+  "entity_id": "ali-khamenei-oversees-committee-for-special-operations",
+  "from_entity": "ali-khamenei",
+  "to_entity": "committee-for-special-operations",
+  "type": "oversees",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": null,
+  "date_end": null,
+  "notes": "Named by the Berlin District Court (April 1997 Mykonos verdict) as a member of the Committee for Special Operations that ordered the Mykonos assassinations.",
+  "evidence": [
+    {
+      "name": "Berlin District Court verdict — Mykonos trial (10 April 1997)",
+      "url": "https://en.wikipedia.org/wiki/Mykonos_restaurant_assassinations"
+    }
+  ],
+  "intermediaries": []
+}

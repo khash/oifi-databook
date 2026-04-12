@@ -1,0 +1,28 @@
+{
+  "entity_id": "kurdistan-military-campaign-1979",
+  "slug": "kurdistan-military-campaign-1979",
+  "name": "Kurdistan Military Campaign (1979)",
+  "date": "1979-08-19",
+  "type": "purge",
+  "description": "In August 1979, the Islamic Republic launched a military offensive against Kurdish autonomy movements following months of clashes between Kurdish armed groups and the new revolutionary state. The [Democratic Party of Iranian Kurdistan](/orgs/democratic-party-of-iranian-kurdistan) (PDKI) and [Komala](/orgs/komala-party-of-iranian-kurdistan) had taken control of large parts of Kurdistan province, including the cities of Mahabad, Baneh, Sardasht, and Sanandaj, after the revolution created a power vacuum.\n\n[Ruhollah Khomeini](/people/ruhollah-khomeini) declared jihad against the Kurdish armed movements on 19 August 1979 following the breakdown of negotiations. [Sadegh Khalkhali](/people/sadegh-khalkhali) was dispatched to the region as a revolutionary judge. In Sanandaj and Paveh, Khalkhali held summary courts and ordered mass executions of captured Kurdish political prisoners and fighters. Estimates of those executed by Khalkhali's courts in Kurdistan range from dozens to over 100 in a matter of days.\n\nThe broader military campaign involved IRGC forces, regular army units, and later resulted in the deaths of thousands of Kurdish civilians and fighters. The Kurdish cities were bombarded and occupied. The campaign effectively crushed the initial Kurdish autonomy uprising, though armed resistance by the PDKI and Komala continued for years.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sadegh_Khalkhali",
+      "title": "Sadegh Khalkhali — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kurdish%E2%80%93Iranian_conflict_(1979%E2%80%9396)",
+      "title": "Kurdish–Iranian conflict (1979–96) — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": [
+    "human-rights",
+    "military"
+  ],
+  "editorial_notes": "Khomeini jihad declaration: 19 August 1979. Khalkhali dispatched to Kurdistan late August 1979. Mass executions in Sanandaj and Paveh. Campaign continued through 1979–1980."
+}

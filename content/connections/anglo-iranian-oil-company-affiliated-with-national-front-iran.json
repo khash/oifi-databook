@@ -1,0 +1,19 @@
+{
+  "entity_id": "anglo-iranian-oil-company-affiliated-with-national-front-iran",
+  "from_entity": "anglo-iranian-oil-company",
+  "to_entity": "national-front-iran",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": "1951",
+  "date_end": "1953",
+  "notes": "The nationalisation of the AIOC was the central demand of the National Front; the AIOC's resistance to nationalisation and lobbying of the British government directly opposed the National Front's programme.",
+  "evidence": [
+    {
+      "name": "Wikipedia — National Front (Iran)",
+      "url": "https://en.wikipedia.org/wiki/National_Front_(Iran)"
+    }
+  ],
+  "intermediaries": []
+}

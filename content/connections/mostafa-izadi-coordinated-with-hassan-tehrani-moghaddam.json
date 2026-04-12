@@ -1,0 +1,21 @@
+{
+  "entity_id": "mostafa-izadi-coordinated-with-hassan-tehrani-moghaddam",
+  "from_entity": "mostafa-izadi",
+  "to_entity": "hassan-tehrani-moghaddam",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "1984",
+  "date_to": "2011",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hassan_Tehrani_Moghaddam",
+      "source_title": "Hassan Tehrani Moghaddam — Wikipedia",
+      "source_date": "2011-11-12",
+      "description": "Izadi testified that Moghaddam pioneered IRGC ground-to-ground missile systems from 1984, confirming close collaboration throughout the early missile programme."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Izadi described as one of Moghaddam's closest colleagues. Testimony given after Moghaddam's death in the 2011 Bid Kaneh explosion."
+}

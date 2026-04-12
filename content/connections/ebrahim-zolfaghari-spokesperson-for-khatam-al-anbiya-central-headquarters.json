@@ -1,0 +1,19 @@
+{
+  "entity_id": "ebrahim-zolfaghari-spokesperson-for-khatam-al-anbiya-central-headquarters",
+  "from_entity": "ebrahim-zolfaghari",
+  "to_entity": "khatam-al-anbiya-central-headquarters",
+  "type": "spokesperson-for",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "date_start": null,
+  "date_end": null,
+  "notes": "Zolfaghari served as the official public spokesperson of KCHQ, regularly issuing statements on Iranian military operations.",
+  "evidence": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ebrahim_Zolfaghari",
+      "title": "Ebrahim Zolfaghari — Wikipedia",
+      "date": "2026-04-01"
+    }
+  ]
+}

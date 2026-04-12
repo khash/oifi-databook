@@ -1,0 +1,15 @@
+{
+  "entity_id": "savama",
+  "slug": "savama",
+  "name_en": "SAVAMA",
+  "name_fa": "ساواما",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 1979,
+  "dissolved": 1984,
+  "parent_org": null,
+  "description": "SAVAMA (Sāzemān-e Ettelā'āt va Amniyat-e Mellat-e Iran — Organization of Intelligence and National Security of the Iranian Nation) was the post-revolution intelligence and security service that replaced [SAVAK](/orgs/savak) in 1979. Initially headed by Hosein Fardust, a childhood friend of Mohammad Reza Shah who defected to the Islamic Republic, SAVAMA retained much of SAVAK's personnel and institutional knowledge. It carried out the systematic surveillance, arrest, and interrogation of political opponents in the early years of the Islamic Republic, most notably orchestrating the mass arrests of the [Tudeh Party](/orgs/tudeh-party-of-iran) leadership in 1983. SAVAMA was superseded by the [Ministry of Intelligence (MOIS)](/orgs/ministry-of-intelligence) when that body was formally established in 1984.",
+  "faction": "hardliner",
+  "tags": ["defunct", "intelligence"],
+  "editorial_notes": "Replaced SAVAK Feb 1979. First head: Hosein Fardust. Executed Tudeh purge 1983. Succeeded by MOIS 1984."
+}

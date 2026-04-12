@@ -1,0 +1,21 @@
+{
+  "entity_id": "amir-parviz-pouyan-coordinated-with-massoud-ahmadzadeh",
+  "from_entity": "amir-parviz-pouyan",
+  "to_entity": "massoud-ahmadzadeh",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "1969",
+  "date_to": "1971",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Amir_Parviz_Pouyan",
+      "source_title": "Amir Parviz Pouyan — Wikipedia",
+      "source_date": "2026-04-12",
+      "description": "Co-founders of the Ahmadzadeh-Pouyan underground cell"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

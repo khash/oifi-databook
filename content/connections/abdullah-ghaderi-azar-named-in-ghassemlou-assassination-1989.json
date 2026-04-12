@@ -1,0 +1,17 @@
+{
+  "entity_id": "abdullah-ghaderi-azar-named-in-ghassemlou-assassination-1989",
+  "from_entity": "abdullah-ghaderi-azar",
+  "to_entity": "ghassemlou-assassination-1989",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "notes": "",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Assassination_of_Abdul_Rahman_Ghassemlou",
+      "source_title": "Assassination of Ghassemlou — Wikipedia",
+      "source_date": "2024-01-01"
+    }
+  ]
+}

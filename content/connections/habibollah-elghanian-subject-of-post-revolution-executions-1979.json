@@ -1,0 +1,17 @@
+{
+  "entity_id": "habibollah-elghanian-subject-of-post-revolution-executions-1979",
+  "from_entity": "habibollah-elghanian",
+  "to_entity": "post-revolution-executions-1979",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "symmetric": false,
+  "family_subtype": null,
+  "notes": "Elghanian was executed on 9 May 1979 on charges of espionage and 'corruption on earth'",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Habib_Elghanian",
+      "source_title": "Habib Elghanian — Wikipedia",
+      "source_date": "2024-01-01"
+    }
+  ]
+}

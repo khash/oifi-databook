@@ -1,0 +1,21 @@
+{
+  "entity_id": "irgc-navy-subsidiary-of-islamic-revolutionary-guard-corps",
+  "from_entity": "irgc-navy",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "subsidiary-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/IRGC_Navy",
+      "source_title": "IRGC Navy — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "The IRGC Navy (NEDSA) is a branch of the Islamic Revolutionary Guard Corps, distinct from the Artesh Navy (NEDAJA)."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

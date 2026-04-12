@@ -1,0 +1,32 @@
+{
+  "entity_id": "mohsen-rabbani",
+  "slug": "mohsen-rabbani",
+  "name_en": "Mohsen Rabbani",
+  "name_fa": "محسن ربانی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Former Iranian cultural attaché in Buenos Aires; MOIS/Quds Force asset",
+  "faction": "hardliner",
+  "irgc_member": false,
+  "bio": "Mohsen Rabbani served as Iran's cultural attaché in Buenos Aires from 1994 and operated out of the [Islamic Cultural Institute of Buenos Aires](/orgs/islamic-cultural-institute-buenos-aires) (At-Tauhid Mosque). Argentine prosecutors identify him as the on-the-ground coordinator of the [AMIA bombing](/events/amia-bombing-1994) of July 18, 1994, which killed 85 people at the Jewish community centre in Buenos Aires. He is assessed by investigators to be both a [MOIS](/orgs/ministry-of-intelligence) asset and affiliated with the [IRGC-Quds Force](/orgs/irgc-quds-force). He is subject to an Interpol red notice and Argentine arrest warrant. After leaving Argentina, Rabbani remained active in Latin America as a recruiter of Shia converts and builder of Hezbollah-linked networks across the region.",
+  "expertise": ["intelligence", "covert operations", "recruitment"],
+  "tags": ["intelligence", "sanctions", "proxy-warfare"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mohsen_Rabbani",
+      "title": "Mohsen Rabbani — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/1994_AMIA_bombing",
+      "title": "1994 AMIA bombing — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "Argentine Interpol red notice and arrest warrant active. Still operating in Latin America per recent intelligence assessments."
+}

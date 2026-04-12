@@ -1,0 +1,33 @@
+{
+  "entity_id": "hooshang-amirahmadi",
+  "slug": "hooshang-amirahmadi",
+  "name_en": "Hooshang Amirahmadi",
+  "name_fa": "هوشنگ امیراحمدی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1947,
+  "birthplace": "Iran",
+  "died": null,
+  "role": "Professor at Rutgers Bloustein School; founder and president, American Iranian Council",
+  "faction": null,
+  "bio": "Hooshang Amirahmadi is a professor at Rutgers University's Edward J. Bloustein School of Planning and Public Policy, where he has taught urban planning, development policy, and Middle East studies for decades. He is the founder and president of the American Iranian Council (AIC), a Washington-area advocacy organization he established in 1990 that promotes engagement between the United States and the Islamic Republic of Iran.\n\nAmirahmadi is a perennial figure in Iranian-American political life, having attempted to register as a candidate in multiple Iranian presidential elections — 2005, 2013, and subsequent cycles — only to be disqualified each time by the Guardian Council. His persistent candidacy attempts, though unsuccessful, have made him a notable symbol of the diaspora's ambiguous relationship with IRI political participation.\n\nHis policy positions consistently favor engagement, sanctions relief, and diplomatic accommodation with the Islamic Republic. While Amirahmadi is not a regime official or affiliated with the IRI, his public stances — opposing maximum-pressure sanctions, advocating sustained diplomatic dialogue, and framing the AIC as a bridge between the two governments — have consistently aligned with positions the Islamic Republic finds convenient. His analysis and advocacy should be understood in this context: not as a regime agent, but as a consistent accommodation-oriented voice whose preferred policy outcomes overlap substantially with IRI preferences.\n\nHis academic work focuses on Iranian political economy, development policy in the Middle East, and US-Iran relations. He appears regularly in American and international media as a commentator on Iran affairs.",
+  "irgc_member": false,
+  "expertise": ["US-Iran relations", "Iranian political economy", "urban planning", "development policy", "Middle East"],
+  "tags": [],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://bloustein.rutgers.edu/amirahmadi/",
+      "title": "Hooshang Amirahmadi — Rutgers Bloustein School",
+      "date": "2024-01-01",
+      "publisher": "Rutgers University"
+    },
+    {
+      "url": "https://www.americaniranian.org",
+      "title": "American Iranian Council",
+      "date": "2024-01-01",
+      "publisher": "American Iranian Council"
+    }
+  ],
+  "editorial_notes": ""
+}

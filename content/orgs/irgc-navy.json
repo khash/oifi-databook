@@ -1,0 +1,30 @@
+{
+  "entity_id": "irgc-navy",
+  "slug": "irgc-navy",
+  "name_en": "IRGC Navy (NEDSA)",
+  "name_fa": "نیروی دریایی سپاه پاسداران انقلاب اسلامی",
+  "has_native_fa_name": true,
+  "type": "military",
+  "founded": 1985,
+  "dissolved": null,
+  "parent_org": "islamic-revolutionary-guard-corps",
+  "description": "The IRGC Navy (Niru-ye Daryayi-ye Sepah, NEDSA) is the naval arm of the [Islamic Revolutionary Guard Corps](/orgs/islamic-revolutionary-guard-corps), operating separately from the Artesh Navy (NEDAJA). NEDSA focuses on asymmetric warfare in the Persian Gulf and Strait of Hormuz: fast-attack craft, anti-ship missiles, sea mines, and harassment of foreign naval and commercial vessels. It controls a network of island bases in the Persian Gulf and has been responsible for numerous documented seizures and confrontations with US Navy vessels in the Gulf. NEDSA doctrine centers on area-denial and the ability to close the Strait of Hormuz in a conflict scenario.",
+  "faction": null,
+  "tags": ["military"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Islamic_Revolutionary_Guard_Corps_Navy",
+      "title": "Islamic Revolutionary Guard Corps Navy — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.csis.org/analysis/irans-military-forces-and-warfighting-capabilities",
+      "title": "Iran's Military Forces and Warfighting Capabilities — CSIS",
+      "date": "2023-01-01",
+      "publisher": "Center for Strategic and International Studies"
+    }
+  ],
+  "editorial_notes": "NEDSA (IRGC Navy) is entirely separate from NEDAJA (Artesh Navy, already in DB as islamic-republic-of-iran-navy). Do not conflate the two."
+}

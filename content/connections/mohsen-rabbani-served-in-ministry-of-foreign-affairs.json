@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohsen-rabbani-served-in-ministry-of-foreign-affairs",
+  "from_entity": "mohsen-rabbani",
+  "to_entity": "ministry-of-foreign-affairs",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1994-01-01",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohsen_Rabbani",
+      "source_title": "Mohsen Rabbani — Wikipedia",
+      "source_date": null,
+      "description": "Rabbani served as Iran's cultural attaché in Buenos Aires under the Foreign Ministry."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

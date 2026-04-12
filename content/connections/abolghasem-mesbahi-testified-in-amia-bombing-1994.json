@@ -1,0 +1,21 @@
+{
+  "entity_id": "abolghasem-mesbahi-testified-in-amia-bombing-1994",
+  "from_entity": "abolghasem-mesbahi",
+  "to_entity": "amia-bombing-1994",
+  "type": "testified-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/1994_AMIA_bombing",
+      "source_title": "1994 AMIA bombing — Wikipedia",
+      "source_date": null,
+      "description": "Mesbahi provided inside testimony to Argentine prosecutors about Iranian state planning of the AMIA bombing."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

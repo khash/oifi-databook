@@ -1,0 +1,33 @@
+{
+  "entity_id": "habibollah-sayyari",
+  "slug": "habibollah-sayyari",
+  "name_en": "Habibollah Sayyari",
+  "name_fa": "حبیب‌الله سیاری",
+  "has_native_fa_name": true,
+  "aliases": ["Rear Admiral Habibollah Sayyari", "Vice Admiral Habibollah Sayyari"],
+  "born": 1959,
+  "birthplace": "Iran",
+  "died": null,
+  "role": "Commander of the Islamic Republic of Iran Navy (2007–2017); Deputy Chief of Staff for Coordination",
+  "faction": "conservative",
+  "bio": "Vice Admiral Habibollah Sayyari served as Commander of the [Islamic Republic of Iran Navy](/orgs/islamic-republic-of-iran-navy) (NEDAJA) from 2007 to 2017, making him one of the longest-serving NEDAJA commanders. During his decade-long tenure he oversaw a significant expansion of Iran's naval ambitions: the deployment of Iranian naval flotillas to the Gulf of Aden for anti-piracy operations (Iran's first sustained presence in international waters), port calls in China and Russia, and a substantial domestic shipbuilding and retrofit programme. He commanded the navy during the 2011–2012 period when Iran sent warships through the Suez Canal for the first time since the Islamic Revolution — a deliberate political signal. Following his replacement by Hossein Khanzadi in 2017, Sayyari was appointed Deputy Chief of Staff of the [Artesh](/orgs/artesh) for Coordination, a senior joint-forces role reflecting his continued institutional standing.",
+  "irgc_member": false,
+  "expertise": ["naval operations", "maritime strategy", "joint forces coordination"],
+  "tags": ["military"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Habibollah_Sayyari",
+      "title": "Habibollah Sayyari — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.iiss.org/publications/the-military-balance/",
+      "title": "The Military Balance — IISS",
+      "date": "2024-01-01",
+      "publisher": "International Institute for Strategic Studies"
+    }
+  ],
+  "editorial_notes": "Career Artesh officer, not IRGC. Commanded NEDAJA 2007–2017. Suez passage in 2011 was a major political signal."
+}

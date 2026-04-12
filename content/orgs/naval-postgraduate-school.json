@@ -1,0 +1,24 @@
+{
+  "entity_id": "naval-postgraduate-school",
+  "slug": "naval-postgraduate-school",
+  "name_en": "Naval Postgraduate School",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 1909,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "US military graduate school located in Monterey, California, providing advanced education and research to the United States Navy and other services. Institutional home of [Afshon Ostovar](/people/afshon-ostovar), an associate professor specializing in Iranian security, the IRGC, and Middle East military affairs.",
+  "faction": null,
+  "tags": [],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.nps.edu/",
+      "title": "Naval Postgraduate School",
+      "date": "2024-01-01",
+      "publisher": "Naval Postgraduate School"
+    }
+  ],
+  "editorial_notes": ""
+}

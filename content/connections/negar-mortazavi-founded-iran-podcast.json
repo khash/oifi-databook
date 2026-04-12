@@ -1,0 +1,22 @@
+{
+  "entity_id": "negar-mortazavi-founded-iran-podcast",
+  "from_entity": "negar-mortazavi",
+  "to_entity": "iran-podcast",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "2019",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.theiranpodcast.com/",
+      "source_title": "The Iran Podcast",
+      "source_date": "2024-01-01",
+      "description": "Negar Mortazavi is the founder and host of The Iran Podcast."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": [],
+  "editorial_notes": ""
+}

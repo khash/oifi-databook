@@ -1,0 +1,32 @@
+{
+  "entity_id": "assadollah-assadi",
+  "slug": "assadollah-assadi",
+  "name_en": "Assadollah Assadi",
+  "name_fa": "اسدالله اسدی",
+  "has_native_fa_name": true,
+  "aliases": ["Assad Allah Assadi"],
+  "born": null,
+  "birthplace": null,
+  "role": "MOIS Department 312 officer; former Third Secretary, Iranian Embassy Vienna",
+  "faction": "hardliner",
+  "irgc_member": false,
+  "bio": "Assadollah Assadi is a senior officer of Iran's [Ministry of Intelligence](/orgs/ministry-of-intelligence) assigned to [MOIS Department 312](/orgs/mois-department-312), the directorate responsible for external operations in Europe. He served under diplomatic cover as Third Secretary at the Iranian Embassy in Vienna. In June 2018, he orchestrated the [2018 Villepinte bomb plot](/events/villepinte-bomb-plot-2018) — a plan to bomb the annual Free Iran rally of the National Council of Resistance of Iran (NCRI/MEK) at Villepinte, France, which drew tens of thousands of attendees and prominent Western politicians. Assadi recruited a Belgium-based Iranian couple to plant the device and personally delivered 500 grams of TATP explosives and a detonator to them in Luxembourg. He was arrested in Germany on his Iranian diplomatic passport while attempting to travel back to Austria. In February 2021, an Antwerp court convicted him to 20 years in prison — marking the first conviction in Europe of an Iranian diplomat-intelligence officer for directing a terrorist attack on European soil. In May 2023 he was exchanged for Belgian aid worker Olivier Vandecasteele.",
+  "expertise": ["intelligence", "covert operations"],
+  "tags": ["intelligence", "sanctions"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/2018_Villepinte_bomb_plot",
+      "title": "2018 Villepinte bomb plot — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.politico.eu/article/belgium-sentences-iranian-diplomat-assadollah-assadi-20-years-prison-bomb-plot/",
+      "title": "Belgium sentences Iranian diplomat to 20 years for bomb plot",
+      "date": "2021-02-04",
+      "publisher": "Politico"
+    }
+  ],
+  "editorial_notes": "Convicted Antwerp Feb 4 2021, 20 years. Swapped for Vandecasteele May 2023. MOIS Department 312 per Belgian/German intelligence assessments."
+}

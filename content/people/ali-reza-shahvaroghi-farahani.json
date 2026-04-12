@@ -1,0 +1,26 @@
+{
+  "entity_id": "ali-reza-shahvaroghi-farahani",
+  "slug": "ali-reza-shahvaroghi-farahani",
+  "name_en": "Ali Reza Shahvaroghi Farahani",
+  "name_fa": "علیرضا شهوارقی فراهانی",
+  "has_native_fa_name": true,
+  "aliases": ["Alireza Shahvaroghi Farahani"],
+  "born": null,
+  "birthplace": null,
+  "role": "Former Iranian diplomat at Iran's UN Mission, New York; expelled April 2026",
+  "faction": "hardliner",
+  "irgc_member": false,
+  "bio": "Ali Reza Shahvaroghi Farahani was an Iranian diplomat stationed at Iran's Permanent Mission to the United Nations in New York. In early April 2026, the US State Department expelled him over unspecified 'national security concerns', as reported by Axios. The expulsion was part of broader US actions to limit Iranian intelligence activities operating under UN mission diplomatic cover in the United States.",
+  "expertise": ["diplomacy", "intelligence"],
+  "tags": ["intelligence", "diplomacy"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.axios.com/2026/04/us-expels-iranian-diplomat-un-mission",
+      "title": "US expels Iranian diplomat from UN mission over national security concerns",
+      "date": "2026-04-01",
+      "publisher": "Axios"
+    }
+  ],
+  "editorial_notes": "Expelled April 2026. Axios reporting only — limited public record. Reasons stated as 'national security concerns' by State Dept."
+}

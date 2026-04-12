@@ -1,0 +1,22 @@
+{
+  "entity_id": "mostafa-roudaki-affiliated-with-ministry-of-intelligence",
+  "from_entity": "mostafa-roudaki",
+  "to_entity": "ministry-of-intelligence",
+  "type": "affiliated-with",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.gov.uk/government/news/",
+      "source_title": "UK Government — Iran threat reporting",
+      "source_date": "2023-01-01",
+      "description": "Mostafa Roudaki is alleged to be a MOIS officer who conducted UK-based surveillance and targeting of Iran International journalists and Iranian dissidents in Britain."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": ["intelligence"],
+  "editorial_notes": "All connections alleged. No confirmed diplomatic cover."
+}

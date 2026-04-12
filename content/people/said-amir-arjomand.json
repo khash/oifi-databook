@@ -1,0 +1,33 @@
+{
+  "entity_id": "said-amir-arjomand",
+  "slug": "said-amir-arjomand",
+  "name_en": "Said Amir Arjomand",
+  "name_fa": "سعید امیر ارجمند",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1942,
+  "birthplace": "Iran",
+  "died": null,
+  "role": "Distinguished Service Professor of Sociology, Stony Brook University",
+  "faction": null,
+  "bio": "Said Amir Arjomand is a distinguished service professor of sociology at Stony Brook University (State University of New York), where he has been a central figure in the comparative sociology of religion, law, and the state, with a particular focus on Shia Islam and Iran.\n\nHis most influential works are *The Shadow of God and the Hidden Imam: Religion, Political Order, and Societal Change in Shi'ite Iran from the Beginning to 1890* (1984) and *The Turban for the Crown: The Islamic Revolution in Iran* (1988, Oxford University Press), widely regarded as one of the finest sociological analyses of the 1979 Islamic Revolution. His later *After Khomeini: Iran Under His Successors* (2009, Oxford University Press) traced the evolution of the Islamic Republic's political and constitutional order under Khamenei and Rafsanjani.\n\nArjomand is a founder of the journal *International Sociology* and has written extensively on constitutional law and legitimacy in Muslim-majority states, comparative democratization, and the sociology of Shia clericalism. His analytical framework is rooted in Weberian sociology of religion and political sociology, treating the Islamic Revolution and IRI institutions as subjects of rigorous comparative-historical sociology rather than ideological commentary.\n\nHe is regarded as one of the most rigorous and systematic scholars in the field of Iranian studies and comparative Islamic sociology.",
+  "irgc_member": false,
+  "expertise": ["Shia Islam", "sociology of religion", "Islamic Revolution", "Iranian constitutional law", "comparative historical sociology"],
+  "tags": ["in-exile"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.stonybrook.edu/commcms/sociology/people/faculty/arjomand_said_amir",
+      "title": "Said Amir Arjomand — Stony Brook University",
+      "date": "2024-01-01",
+      "publisher": "Stony Brook University"
+    },
+    {
+      "url": "https://global.oup.com/academic/product/the-turban-for-the-crown-9780195042580",
+      "title": "The Turban for the Crown — Oxford University Press",
+      "date": "1988-01-01",
+      "publisher": "Oxford University Press"
+    }
+  ],
+  "editorial_notes": ""
+}

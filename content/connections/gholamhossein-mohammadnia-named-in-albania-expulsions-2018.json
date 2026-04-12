@@ -1,0 +1,21 @@
+{
+  "entity_id": "gholamhossein-mohammadnia-named-in-albania-expulsions-2018",
+  "from_entity": "gholamhossein-mohammadnia",
+  "to_entity": "albania-expulsions-iranian-diplomats-2018",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2018-12-20",
+  "date_to": "2018-12-20",
+  "evidence": [
+    {
+      "source_url": "https://www.rferl.org/a/albania-expels-iranian-ambassador-over-national-security/29652432.html",
+      "source_title": "Albania Expels Iranian Ambassador Over 'National Security' Concerns",
+      "source_date": "2018-12-20",
+      "description": "Mohammadnia was the first Iranian diplomat expelled by Albania in December 2018."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

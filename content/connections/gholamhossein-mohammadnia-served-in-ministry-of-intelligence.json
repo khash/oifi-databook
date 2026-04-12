@@ -1,0 +1,21 @@
+{
+  "entity_id": "gholamhossein-mohammadnia-served-in-ministry-of-intelligence",
+  "from_entity": "gholamhossein-mohammadnia",
+  "to_entity": "ministry-of-intelligence",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.rferl.org/a/albania-expels-iranian-ambassador-over-national-security/29652432.html",
+      "source_title": "Albania Expels Iranian Ambassador Over 'National Security' Concerns",
+      "source_date": "2018-12-20",
+      "description": "Mohammadnia was identified as a senior MOIS deputy before his posting as ambassador to Albania."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,27 @@
+{
+  "entity_id": "reza-amiri-moghadam-served-in-ministry-of-intelligence",
+  "from_entity": "reza-amiri-moghadam",
+  "to_entity": "ministry-of-intelligence",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.fbi.gov/wanted/terrorinfo/reza-amiri-moghadam",
+      "source_title": "Reza Amiri Moghadam — FBI Seeking Information",
+      "source_date": "2025-03-01",
+      "description": "FBI identifies Amiri Moghadam as a senior MOIS officer who headed the ministry's operations unit."
+    },
+    {
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0059",
+      "source_title": "Treasury Sanctions Additional Iranian Intelligence Officers Involved in the Probable Death and Cover-Up of Robert Levinson",
+      "source_date": "2025-03-20",
+      "description": "US Treasury OFAC designation names him as a senior MOIS officer."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Head of MOIS operations unit; oversaw agents in Europe."
+}

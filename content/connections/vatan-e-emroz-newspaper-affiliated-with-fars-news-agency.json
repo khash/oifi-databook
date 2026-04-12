@@ -1,0 +1,14 @@
+{
+  "entity_id": "vatan-e-emroz-newspaper-affiliated-with-fars-news-agency",
+  "from_entity": "vatan-e-emroz-newspaper",
+  "to_entity": "fars-news-agency",
+  "type": "affiliated-with",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

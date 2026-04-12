@@ -1,0 +1,30 @@
+{
+  "entity_id": "general-staff-of-the-armed-forces",
+  "slug": "general-staff-of-the-armed-forces",
+  "name_en": "General Staff of the Armed Forces of Iran",
+  "name_fa": "ستاد کل نیروهای مسلح",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 1979,
+  "dissolved": null,
+  "parent_org": "office-of-the-supreme-leader",
+  "description": "The General Staff of the Armed Forces (Setad-e Koll-e Niruhaye Mosallah) is the supreme military coordination body of the Islamic Republic of Iran, directly subordinate to the Supreme Leader. It coordinates both the [Artesh](/orgs/artesh) and the [IRGC](/orgs/islamic-revolutionary-guard-corps), making it the apex of the unified command structure. The Chief of Staff is appointed by and reports directly to the Supreme Leader. [Mohammad Bagheri](/people/mohammad-bagheri) served as Chief of Staff from 2016 until his death on 13 June 2025 in Israeli airstrikes on Tehran. [Gholam Ali Rashid](/people/gholam-ali-rashid) served as deputy commander and was killed in the same strike.",
+  "faction": null,
+  "tags": ["military"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/General_Staff_of_the_Armed_Forces_(Iran)",
+      "title": "General Staff of the Armed Forces (Iran) — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.longwarjournal.org/archives/2025/06/israeli-airstrikes-eliminate-senior-iranian-military-officials.php",
+      "title": "Israeli airstrikes eliminate senior Iranian military officials",
+      "date": "2025-06-13",
+      "publisher": "FDD's Long War Journal"
+    }
+  ],
+  "editorial_notes": "Directly under Supreme Leader; not under Ministry of Defense or President."
+}

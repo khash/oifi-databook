@@ -1,0 +1,26 @@
+{
+  "entity_id": "feridoun-verdinejad",
+  "slug": "feridoun-verdinejad",
+  "name_en": "Feridoun Verdinejad",
+  "name_fa": "فریدون وردی‌نژاد",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Former head of IRNA; former Iranian Ambassador to China (2004–2009)",
+  "faction": "hardliner",
+  "irgc_member": false,
+  "bio": "Feridoun Verdinejad served as editor of Kayhan newspaper — Iran's leading hardline daily — and as head of IRNA (Islamic Republic News Agency), two roles that place him at the centre of state-controlled media. He subsequently served as Iran's Ambassador to China from 2004 to 2009. Opposition sources allege an intelligence background tied to MOIS and/or the IRGC Intelligence Organisation; this connection has not been confirmed by official documentation.",
+  "expertise": ["media", "diplomacy"],
+  "tags": ["intelligence", "diplomacy"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Islamic_Republic_News_Agency",
+      "title": "Islamic Republic News Agency — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "Intelligence background is alleged per opposition sources only — not confirmed by official documentation. Mark MOIS/IRGC-IO connection as alleged."
+}

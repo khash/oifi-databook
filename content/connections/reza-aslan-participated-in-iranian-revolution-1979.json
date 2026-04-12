@@ -1,0 +1,21 @@
+{
+  "entity_id": "reza-aslan-participated-in-iranian-revolution-1979",
+  "from_entity": "reza-aslan",
+  "to_entity": "iranian-revolution-1979",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1979-01-01",
+  "date_to": "1979-12-31",
+  "evidence": [
+    {
+      "source_url": "https://www.rezaaslan.com/about",
+      "source_title": "Reza Aslan Biography",
+      "source_date": "2024-01-01",
+      "description": "Reza Aslan was born in Tehran in 1972 and emigrated with his family to the United States following the 1979 Iranian Revolution."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

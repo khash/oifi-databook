@@ -1,0 +1,22 @@
+{
+  "entity_id": "saeid-hassanzadeh-affiliated-with-ministry-of-intelligence",
+  "from_entity": "saeid-hassanzadeh",
+  "to_entity": "ministry-of-intelligence",
+  "type": "affiliated-with",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.state.gov/",
+      "source_title": "U.S. State Department — Albania expulsions",
+      "source_date": "2020-01-01",
+      "description": "Albanian authorities alleged that Hassanzadeh was a MOIS operative targeting MEK members at Ashraf-3 when he was expelled in January 2020."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": ["intelligence"],
+  "editorial_notes": "Alleged by Albanian government at time of expulsion."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-abdollahi-aliabadi-led-irgc-16th-qods-division",
+  "from_entity": "ali-abdollahi-aliabadi",
+  "to_entity": "irgc-16th-qods-division",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Abdollahi",
+      "source_title": "Ali Abdollahi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Ali Abdollahi Aliabadi commanded the 16th Qods Division of Gilan, an IRGC regional division."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

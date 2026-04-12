@@ -1,0 +1,25 @@
+{
+  "entity_id": "amia-bombing-1994",
+  "slug": "amia-bombing-1994",
+  "name": "AMIA Bombing",
+  "date": "1994-07-18",
+  "type": "death",
+  "description": "On 18 July 1994, a car bomb destroyed the Asociación Mutual Israelita Argentina (AMIA), a Jewish community centre in Buenos Aires, killing 85 people and injuring hundreds more. It remains the deadliest terrorist attack in Argentine history and the deadliest attack on a Jewish target since World War II. Argentine prosecutors, led by investigator Alberto Nisman, concluded that the bombing was ordered by the Iranian government and carried out by [Hezbollah](/orgs/hezbollah) operatives acting on Iranian direction. The Iranian intelligence network in Buenos Aires — operating through the [Islamic Cultural Institute of Buenos Aires](/orgs/islamic-cultural-institute-buenos-aires) — provided target intelligence and logistics. Iranian suspects identified by Argentine prosecutors include cultural attaché [Mohsen Rabbani](/people/mohsen-rabbani), Ambassador [Hadi Soleimanpour](/people/hadi-soleimanpour), and embassy third secretary [Ahmad Reza Asghari](/people/ahmad-reza-asghari). [Ali Fallahian](/people/ali-fallahian), then Minister of Intelligence, was also named. Argentina issued international arrest warrants and Interpol red notices for the Iranian suspects. In 2024, an Argentine court concluded a trial-in-absentia proceeding against several Iranian defendants.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/1994_AMIA_bombing",
+      "title": "1994 AMIA bombing — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.nytimes.com/1994/07/19/world/blast-hits-jewish-center-in-argentina-killing-at-least-48.html",
+      "title": "Blast Hits Jewish Center in Argentina, Killing at Least 48",
+      "date": "1994-07-19",
+      "publisher": "The New York Times"
+    }
+  ],
+  "tags": ["intelligence", "proxy-warfare", "sanctions"],
+  "editorial_notes": "85 killed, hundreds injured. Argentine prosecutor Alberto Nisman was found dead Jan 2015, day before planned Congressional testimony on the case."
+}

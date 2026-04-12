@@ -1,0 +1,33 @@
+{
+  "entity_id": "hossein-khanzadi",
+  "slug": "hossein-khanzadi",
+  "name_en": "Hossein Khanzadi",
+  "name_fa": "حسین خانزادی",
+  "has_native_fa_name": true,
+  "aliases": ["Rear Admiral Hossein Khanzadi"],
+  "born": 1964,
+  "birthplace": "Iran",
+  "died": null,
+  "role": "Commander of the Islamic Republic of Iran Navy (2017–2021)",
+  "faction": "hardliner",
+  "bio": "Rear Admiral Hossein Khanzadi served as Commander of the [Islamic Republic of Iran Navy](/orgs/islamic-republic-of-iran-navy) (NEDAJA, the Artesh Navy) from 2017 to 2021, succeeding Habibollah Sayyari and being replaced by Shahram Irani. Despite having an IRGC background, he commanded the conventional Artesh Navy — an arrangement reflecting the Supreme Leader's practice of cross-posting trusted officers. During his tenure, Khanzadi oversaw continued expansion of Iranian naval presence in international waters, including the Gulf of Aden deployments, and presided over the January 2020 confrontation following the US killing of Qasem Soleimani, during which Iranian naval forces raised a red flag over the Imam Ali mosque in Bushehr. He also oversaw the catastrophic accidental sinking of the IRIS Konarak support vessel by friendly fire during an exercise in May 2020, which killed 19 sailors.",
+  "irgc_member": true,
+  "expertise": ["naval operations", "maritime strategy"],
+  "tags": ["military"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Hossein_Khanzadi",
+      "title": "Hossein Khanzadi — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.tasnimnews.com/en/news/2021/08/24/2551400/shahram-irani-replaces-khanzadi-as-iran-navy-cmdr",
+      "title": "Shahram Irani Replaces Khanzadi as Iran Navy Cmdr",
+      "date": "2021-08-24",
+      "publisher": "Tasnim News Agency"
+    }
+  ],
+  "editorial_notes": "IRGC background but commanded Artesh Navy (NEDAJA). Replaced by Shahram Irani August 2021."
+}

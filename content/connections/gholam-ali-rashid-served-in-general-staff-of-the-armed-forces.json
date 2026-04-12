@@ -1,0 +1,21 @@
+{
+  "entity_id": "gholam-ali-rashid-served-in-general-staff-of-the-armed-forces",
+  "from_entity": "gholam-ali-rashid",
+  "to_entity": "general-staff-of-the-armed-forces",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2025",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Gholam_Ali_Rashid",
+      "source_title": "Gholam Ali Rashid — Wikipedia",
+      "source_date": "2025-06-13",
+      "description": "Gholam Ali Rashid served as deputy commander-in-chief of the Iranian armed forces under the General Staff, until his death in the June 2025 Israeli airstrikes."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

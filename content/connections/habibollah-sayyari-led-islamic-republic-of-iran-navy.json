@@ -1,0 +1,21 @@
+{
+  "entity_id": "habibollah-sayyari-led-islamic-republic-of-iran-navy",
+  "from_entity": "habibollah-sayyari",
+  "to_entity": "islamic-republic-of-iran-navy",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "2007",
+  "date_to": "2017",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Habibollah_Sayyari",
+      "source_title": "Habibollah Sayyari — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Habibollah Sayyari served as Commander of the Islamic Republic of Iran Navy (NEDAJA) from 2007 to 2017."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

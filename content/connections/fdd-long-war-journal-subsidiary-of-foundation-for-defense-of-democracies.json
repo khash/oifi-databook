@@ -1,0 +1,22 @@
+{
+  "entity_id": "fdd-long-war-journal-subsidiary-of-foundation-for-defense-of-democracies",
+  "from_entity": "fdd-long-war-journal",
+  "to_entity": "foundation-for-defense-of-democracies",
+  "type": "subsidiary-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.longwarjournal.org/about",
+      "source_title": "About Long War Journal",
+      "source_date": "2024-01-01",
+      "description": "The Long War Journal is a publication of the Foundation for Defense of Democracies."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": [],
+  "editorial_notes": ""
+}

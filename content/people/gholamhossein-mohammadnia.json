@@ -1,0 +1,26 @@
+{
+  "entity_id": "gholamhossein-mohammadnia",
+  "slug": "gholamhossein-mohammadnia",
+  "name_en": "Gholamhossein Mohammadnia",
+  "name_fa": "غلامحسین محمدنیا",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Former Senior MOIS Deputy; former Iranian Ambassador to Albania (2016–2018)",
+  "faction": "hardliner",
+  "irgc_member": false,
+  "bio": "Gholamhossein Mohammadnia is a senior deputy within Iran's [Ministry of Intelligence](/orgs/ministry-of-intelligence) who was posted as Iran's Ambassador to Albania starting in 2016 — assessed by Western analysts as using the diplomatic position as intelligence cover. In December 2018, the Albanian government declared him persona non grata and expelled him for activities 'damaging to national security'. Specifically, Albanian authorities alleged a plot against members of the [Mojahedin-e Khalq](/orgs/mojahedin-e-khalq) (MEK) based at Camp Ashraf-3 near Manez, Albania. His expulsion was the first in a series of actions by Tirana against Iranian intelligence operatives — part of the [Albania expulsions of Iranian diplomats](/events/albania-expulsions-iranian-diplomats-2018) that culminated in the full severing of diplomatic relations in September 2022.",
+  "expertise": ["intelligence"],
+  "tags": ["intelligence"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.rferl.org/a/albania-expels-iranian-ambassador-over-national-security/29652432.html",
+      "title": "Albania Expels Iranian Ambassador Over 'National Security' Concerns",
+      "date": "2018-12-20",
+      "publisher": "Radio Free Europe / Radio Liberty"
+    }
+  ],
+  "editorial_notes": "Expelled Albania Dec 2018. MOIS deputy serving as ambassador per Western intelligence assessments."
+}

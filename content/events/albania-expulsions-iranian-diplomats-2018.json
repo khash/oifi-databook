@@ -1,0 +1,25 @@
+{
+  "entity_id": "albania-expulsions-iranian-diplomats-2018",
+  "slug": "albania-expulsions-iranian-diplomats-2018",
+  "name": "Albania Expulsions of Iranian Diplomats",
+  "date": "2018-12",
+  "type": "policy",
+  "description": "Between 2018 and 2022, Albania expelled multiple Iranian diplomats in a series of escalating actions. The first expulsion came in December 2018 when Ambassador [Gholamhossein Mohammadnia](/people/gholamhossein-mohammadnia) — a senior MOIS deputy — was declared persona non grata for activities 'damaging to national security', including an alleged plot against members of the Mojahedin-e Khalq ([MEK](/orgs/mojahedin-e-khalq)) based at Camp Ashraf-3 near Manez. Further diplomats were expelled in 2020. The crisis culminated in September 2022 when the Albanian government severed diplomatic relations entirely with Iran and ordered the closure of the Iranian embassy, in connection with a cyberattack on Albanian government infrastructure attributed to Iranian state actors.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Albania_relations",
+      "title": "Iran–Albania relations — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.rferl.org/a/albania-expels-iranian-ambassador-over-national-security/29652432.html",
+      "title": "Albania Expels Iranian Ambassador Over 'National Security' Concerns",
+      "date": "2018-12-20",
+      "publisher": "Radio Free Europe / Radio Liberty"
+    }
+  ],
+  "tags": ["intelligence", "sanctions", "proxy-warfare"],
+  "editorial_notes": "Multi-wave: Mohammadnia Dec 2018; further diplomats 2020; full embassy closure Sept 2022 after cyberattack on Albanian government."
+}

@@ -1,0 +1,24 @@
+{
+  "entity_id": "jewish-chronicle",
+  "slug": "jewish-chronicle",
+  "name_en": "Jewish Chronicle",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "media",
+  "founded": 1841,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "British weekly Jewish newspaper founded in 1841, the world's oldest continuously published Jewish periodical. In 2023 the Jewish Chronicle broke the story of [Mohammad Marandi](/people/mohammad-marandi) appearing in an IRGC military uniform at a formal ceremony, providing key photographic evidence of his direct connections to the Islamic Revolutionary Guard Corps.",
+  "faction": null,
+  "tags": [],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.thejc.com/",
+      "title": "Jewish Chronicle",
+      "date": "2024-01-01",
+      "publisher": "Jewish Chronicle"
+    }
+  ],
+  "editorial_notes": ""
+}

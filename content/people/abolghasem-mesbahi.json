@@ -1,0 +1,26 @@
+{
+  "entity_id": "abolghasem-mesbahi",
+  "slug": "abolghasem-mesbahi",
+  "name_en": "Abolghasem Mesbahi",
+  "name_fa": "ابوالقاسم مصباحی",
+  "has_native_fa_name": true,
+  "aliases": ["Witness C"],
+  "born": null,
+  "birthplace": null,
+  "role": "Former senior MOIS officer; defector and key witness in AMIA and Mykonos proceedings",
+  "faction": "opposition",
+  "irgc_member": false,
+  "bio": "Abolghasem Mesbahi is a former senior officer of Iran's [Ministry of Intelligence](/orgs/ministry-of-intelligence) who defected in the 1990s and became the most significant primary-source defector on Iran's use of its diplomatic network as an intelligence and operations platform. Known in German legal proceedings as 'Witness C', he provided testimony to German prosecutors in the [Mykonos restaurant assassination](/events/mykonos-restaurant-assassination-1992) case — helping establish the chain of command that linked the murders to the Iranian state leadership. He subsequently testified to Argentine prosecutors in the [AMIA bombing](/events/amia-bombing-1994) investigation, providing inside knowledge of how the Iranian government's Committee for Special Operations coordinated the attack through its embassy network. His testimony is foundational to both prosecutions and remains one of the key evidentiary pillars for understanding how Iranian intelligence used diplomatic cover for covert operations in Europe and Latin America.",
+  "expertise": ["intelligence"],
+  "tags": ["in-exile", "intelligence"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/1994_AMIA_bombing",
+      "title": "1994 AMIA bombing — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "Known as 'Witness C' in Mykonos/German proceedings. Defected 1990s. Foundational primary-source defector."
+}

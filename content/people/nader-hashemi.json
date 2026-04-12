@@ -1,0 +1,33 @@
+{
+  "entity_id": "nader-hashemi",
+  "slug": "nader-hashemi",
+  "name_en": "Nader Hashemi",
+  "name_fa": "نادر هاشمی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "died": null,
+  "role": "Director, Alwaleed Center for Muslim-Christian Understanding, Georgetown University",
+  "faction": null,
+  "bio": "Nader Hashemi is the director of the Alwaleed Center for Muslim-Christian Understanding at Georgetown University. He previously directed the Center for Middle East Studies at the University of Denver's Josef Korbel School of International Studies. He received his doctorate from the University of Toronto.\n\nHashemi is a scholar of Islam and democracy, comparative politics, and Iranian political thought. His books include *Islam, Secularism, and Liberal Democracy: Toward a Democratic Theory for Muslim Societies* (2009, Oxford University Press) and *The People Reloaded: The Green Movement and the Struggle for Iran's Future* (co-edited with Danny Postel, 2010). He has also co-edited volumes on the Syrian civil war and the Arab Spring.\n\nHashemi is a consistent and vocal critic of the Islamic Republic's human rights record. He has spoken and written extensively on behalf of political prisoners in Iran, including during the [2009 Green Movement](/events/green-movement-protests-2009) crackdown and after the 2022 Woman Life Freedom uprising. He supports political change inside Iran and advocates for Western governments to prioritize human rights in their Iran policy, which puts him in a more confrontational posture toward the IRI than most Iran scholars.\n\nHe has been associated with the [National Iranian American Council](/orgs/niac) on some advocacy efforts but is more clearly aligned with a liberal democratic normative framework that prioritizes human rights over diplomatic accommodation.",
+  "irgc_member": false,
+  "expertise": ["Islam and democracy", "Iranian political thought", "human rights", "Green Movement", "Middle East politics"],
+  "tags": ["in-exile"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://acmcu.georgetown.edu/people/nader-hashemi/",
+      "title": "Nader Hashemi — Georgetown University",
+      "date": "2024-01-01",
+      "publisher": "Georgetown University"
+    },
+    {
+      "url": "https://www.du.edu/korbel/middleeast/nader-hashemi.html",
+      "title": "Nader Hashemi — University of Denver Korbel School",
+      "date": "2023-01-01",
+      "publisher": "University of Denver"
+    }
+  ],
+  "editorial_notes": ""
+}

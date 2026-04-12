@@ -1,0 +1,22 @@
+{
+  "entity_id": "vali-nasr-affiliated-with-johns-hopkins-sais",
+  "from_entity": "vali-nasr",
+  "to_entity": "johns-hopkins-sais",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "2012",
+  "date_to": "2019",
+  "evidence": [
+    {
+      "source_url": "https://sais.jhu.edu/",
+      "source_title": "Johns Hopkins SAIS",
+      "source_date": "2024-01-01",
+      "description": "Vali Nasr served as Dean of Johns Hopkins SAIS from 2012 to 2019."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": [],
+  "editorial_notes": ""
+}

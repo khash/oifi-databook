@@ -1,0 +1,56 @@
+{
+  "entity_id": "reza-amiri-moghadam",
+  "slug": "reza-amiri-moghadam",
+  "name_en": "Reza Amiri Moghadam",
+  "name_fa": "رضا امیری مقدم",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Ahmad Amirinia",
+    "Reza Amiri Moghaddam"
+  ],
+  "born": null,
+  "birthplace": null,
+  "died": null,
+  "role": "Iranian Ambassador to Pakistan (2024–present); former senior MOIS officer",
+  "faction": "hardliner",
+  "bio": "Reza Amiri Moghadam is a senior Iranian intelligence officer-turned-diplomat, appointed Iran's Ambassador to Pakistan in 2024. According to the US Federal Bureau of Investigation and the US Treasury, he previously headed the operations unit of the [Ministry of Intelligence](/orgs/ministry-of-intelligence) (MOIS), where he oversaw MOIS agents operating in Europe. The Iranian foreign ministry's own biography lists him as a former deputy of the [Supreme National Security Council](/orgs/supreme-national-security-council) for foreign and international policy affairs. In March 2025, the US Treasury's Office of Foreign Assets Control sanctioned him for his alleged role in the 2007 abduction, prolonged detention, and probable death of former FBI agent Robert Levinson on Kish Island, as well as the subsequent Iranian cover-up. The FBI added him to its 'Seeking Information' list the same year, identifying him by his operational alias Ahmad Amirinia. Despite the sanctions and FBI listing, Pakistan's Foreign Office publicly defended him as 'widely respected' and entitled to full diplomatic privileges. He is an active regime spokesperson on Iran-Pakistan relations and US–Iran negotiations via the Iranian embassy in Islamabad.",
+  "irgc_member": false,
+  "expertise": [
+    "intelligence operations",
+    "national security",
+    "diplomacy"
+  ],
+  "tags": [
+    "intelligence",
+    "sanctions",
+    "diplomacy"
+  ],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.fbi.gov/wanted/terrorinfo/reza-amiri-moghadam",
+      "title": "Reza Amiri Moghadam — FBI Seeking Information",
+      "date": "2025-03-01",
+      "publisher": "Federal Bureau of Investigation"
+    },
+    {
+      "url": "https://home.treasury.gov/news/press-releases/sb0059",
+      "title": "Treasury Sanctions Additional Iranian Intelligence Officers Involved in the Probable Death and Cover-Up of Robert Levinson",
+      "date": "2025-03-20",
+      "publisher": "US Department of the Treasury"
+    },
+    {
+      "url": "https://www.dawn.com/news/1924548",
+      "title": "Iran's envoy to Pakistan 'widely respected', says FO after FBI adds him to most wanted list",
+      "date": "2025-03-21",
+      "publisher": "Dawn"
+    },
+    {
+      "url": "https://pakistan.mfa.gov.ir/en/generalcategoryservices/8569/ambassador",
+      "title": "Ambassador — Embassy of the Islamic Republic of Iran, Islamabad",
+      "date": "2024-10-01",
+      "publisher": "Ministry of Foreign Affairs of Iran"
+    }
+  ],
+  "editorial_notes": "Operational alias 'Ahmad Amirinia' per FBI. Former MOIS operations unit chief; former SNSC deputy for foreign/international policy affairs. Ambassador to Pakistan since 2024. OFAC-sanctioned March 2025 over Levinson case."
+}

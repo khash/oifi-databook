@@ -1,0 +1,24 @@
+{
+  "entity_id": "irgc-16th-qods-division",
+  "slug": "irgc-16th-qods-division",
+  "name_en": "16th Qods Division of Gilan (IRGC)",
+  "name_fa": "لشکر ۱۶ قدس گیلان سپاه پاسداران",
+  "has_native_fa_name": true,
+  "type": "military",
+  "founded": 1980,
+  "dissolved": null,
+  "parent_org": "islamic-revolutionary-guard-corps",
+  "description": "The 16th Qods Division of Gilan is a regional IRGC ground forces division based in Gilan Province, northern Iran. It was commanded by [Ali Abdollahi Aliabadi](/people/ali-abdollahi-aliabadi) and is representative of the IRGC's provincial command structure established during and after the [Iran–Iraq War](/events/iran-iraq-war).",
+  "faction": null,
+  "tags": ["military"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Islamic_Revolutionary_Guard_Corps_Ground_Forces",
+      "title": "IRGC Ground Forces — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "Regional IRGC division, Gilan Province. Commanded by Ali Abdollahi Aliabadi (in DB)."
+}

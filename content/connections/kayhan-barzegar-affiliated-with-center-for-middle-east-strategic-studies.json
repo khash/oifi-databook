@@ -1,0 +1,22 @@
+{
+  "entity_id": "kayhan-barzegar-affiliated-with-center-for-middle-east-strategic-studies",
+  "from_entity": "kayhan-barzegar",
+  "to_entity": "center-for-middle-east-strategic-studies",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://cmess.ir/",
+      "source_title": "Center for Middle East Strategic Studies",
+      "source_date": "2024-01-01",
+      "description": "Kayhan Barzegar serves as director of the Center for Middle East Strategic Studies in Tehran."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": [],
+  "editorial_notes": ""
+}

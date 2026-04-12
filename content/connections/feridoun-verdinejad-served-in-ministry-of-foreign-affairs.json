@@ -1,0 +1,21 @@
+{
+  "entity_id": "feridoun-verdinejad-served-in-ministry-of-foreign-affairs",
+  "from_entity": "feridoun-verdinejad",
+  "to_entity": "ministry-of-foreign-affairs",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2004-01-01",
+  "date_to": "2009-01-01",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Islamic_Republic_News_Agency",
+      "source_title": "Islamic Republic News Agency — Wikipedia",
+      "source_date": null,
+      "description": "Verdinejad served as Iran's Ambassador to China 2004–2009."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

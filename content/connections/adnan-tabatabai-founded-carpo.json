@@ -1,0 +1,22 @@
+{
+  "entity_id": "adnan-tabatabai-founded-carpo",
+  "from_entity": "adnan-tabatabai",
+  "to_entity": "carpo",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "2016",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://carpo-bonn.org/en/about/",
+      "source_title": "About CARPO",
+      "source_date": "2024-01-01",
+      "description": "Adnan Tabatabai co-founded CARPO (Center for Applied Research in Partnership with the Orient) in Bonn."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": [],
+  "editorial_notes": ""
+}

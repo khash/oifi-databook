@@ -1,0 +1,21 @@
+{
+  "entity_id": "ahmad-reza-asghari-named-in-amia-bombing-1994",
+  "from_entity": "ahmad-reza-asghari",
+  "to_entity": "amia-bombing-1994",
+  "type": "named-in",
+  "confidence": "alleged",
+  "date_from": "1994-07-18",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/1994_AMIA_bombing",
+      "source_title": "1994 AMIA bombing — Wikipedia",
+      "source_date": null,
+      "description": "Argentine prosecutors accused Asghari of running the intel/logistics network for the AMIA bombing."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

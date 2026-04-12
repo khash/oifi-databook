@@ -1,0 +1,21 @@
+{
+  "entity_id": "hezbollah-participated-in-amia-bombing-1994",
+  "from_entity": "hezbollah",
+  "to_entity": "amia-bombing-1994",
+  "type": "participated-in",
+  "confidence": "alleged",
+  "date_from": "1994-07-18",
+  "date_to": "1994-07-18",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/1994_AMIA_bombing",
+      "source_title": "1994 AMIA bombing — Wikipedia",
+      "source_date": null,
+      "description": "Argentine prosecutors concluded the bombing was carried out by Hezbollah operatives acting on Iranian state direction."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

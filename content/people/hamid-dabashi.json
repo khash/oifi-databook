@@ -1,0 +1,33 @@
+{
+  "entity_id": "hamid-dabashi",
+  "slug": "hamid-dabashi",
+  "name_en": "Hamid Dabashi",
+  "name_fa": "حمید دباشی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1951,
+  "birthplace": "Ahvaz, Iran",
+  "died": null,
+  "role": "Hagop Kevorkian Professor of Iranian Studies and Comparative Literature, Columbia University",
+  "faction": null,
+  "bio": "Hamid Dabashi is the Hagop Kevorkian Professor of Iranian Studies and Comparative Literature at Columbia University, one of the most prominent and prolific Iranian studies scholars in the anglophone world. Born in 1951 in Ahvaz, he received his doctorate from the University of Pennsylvania.\n\nHis scholarly output spans theology, philosophy, cinema, and postcolonial theory. Major works include *Theology of Discontent: The Ideological Foundation of the Islamic Revolution in Iran* (1993), *Iran: A People Interrupted* (2007), *Iran, the Green Movement and the USA* (2010), *The Arab Spring: The End of Postcolonialism* (2012), and *Can Non-Europeans Think?* (2015). His *Theology of Discontent* remains a foundational text for understanding the intellectual history of the Islamic Revolution.\n\nDabashi writes from an explicitly anti-imperialist and postcolonial framework, critiquing both the Islamic Republic's authoritarianism and what he characterizes as US imperialism and Israeli settler-colonialism in the same breath. He has been a vocal critic of US military intervention in Iran and a consistent opponent of Western-sponsored regime change, while also criticizing the IRI's human rights record. His op-ed work appears frequently in Al Jazeera English.\n\nHis ideological positioning — simultaneously critical of the IRI and of Western interventionism — makes him a distinctive voice in Iranian studies, though his anti-imperialist framing and opposition to sanctions align with certain IRI foreign policy preferences even when he is personally critical of the regime.",
+  "irgc_member": false,
+  "expertise": ["Iranian intellectual history", "Islamic Revolution", "postcolonial theory", "Iranian cinema", "comparative literature"],
+  "tags": ["in-exile"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://mesaas.columbia.edu/faculty-directory/hamid-dabashi/",
+      "title": "Hamid Dabashi — Columbia University",
+      "date": "2024-01-01",
+      "publisher": "Columbia University"
+    },
+    {
+      "url": "https://www.aljazeera.com/author/hamid_dabashi",
+      "title": "Hamid Dabashi — Al Jazeera",
+      "date": "2024-01-01",
+      "publisher": "Al Jazeera"
+    }
+  ],
+  "editorial_notes": ""
+}

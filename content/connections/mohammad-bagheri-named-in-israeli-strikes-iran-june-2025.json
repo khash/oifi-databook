@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-bagheri-named-in-israeli-strikes-iran-june-2025",
+  "from_entity": "mohammad-bagheri",
+  "to_entity": "israeli-strikes-iran-june-2025",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2025-06-13",
+  "date_to": "2025-06-13",
+  "evidence": [
+    {
+      "source_url": "https://www.longwarjournal.org/archives/2025/06/israeli-airstrikes-eliminate-senior-iranian-military-officials.php",
+      "source_title": "Israeli airstrikes eliminate senior Iranian military officials",
+      "source_date": "2025-06-13",
+      "description": "Mohammad Bagheri, Chief of Staff of the Iranian Armed Forces, was killed in Israeli airstrikes on Tehran on 13 June 2025."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

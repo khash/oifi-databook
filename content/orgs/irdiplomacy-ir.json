@@ -1,0 +1,24 @@
+{
+  "entity_id": "irdiplomacy-ir",
+  "slug": "irdiplomacy-ir",
+  "name_en": "IRDiplomacy.ir",
+  "name_fa": "ایران دیپلماسی",
+  "has_native_fa_name": true,
+  "type": "media",
+  "founded": null,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Iranian foreign-policy news website affiliated with the Iranian Ministry of Foreign Affairs. IRDiplomacy.ir translates and amplifies analysis from Western commentators deemed favorable to regime positions, helping launder regime-aligned narratives through apparent third-party academic or journalistic endorsement.",
+  "faction": null,
+  "tags": [],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://irdiplomacy.ir/",
+      "title": "IRDiplomacy.ir",
+      "date": "2024-01-01",
+      "publisher": "IRDiplomacy.ir"
+    }
+  ],
+  "editorial_notes": "Affiliated with Ministry of Foreign Affairs. Treat publications on this site featuring Western analysts as potential influence-operation artifacts."
+}

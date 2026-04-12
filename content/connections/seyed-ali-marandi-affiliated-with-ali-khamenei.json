@@ -1,0 +1,21 @@
+{
+  "entity_id": "seyed-ali-marandi-affiliated-with-ali-khamenei",
+  "from_entity": "seyed-ali-marandi",
+  "to_entity": "ali-khamenei",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Marandi",
+      "source_title": "Ali Marandi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Seyed Ali Marandi has served as the personal physician of Supreme Leader Ali Khamenei, giving the family exceptional proximity to Iran's supreme leadership."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Affiliation is as personal physician, not political or institutional appointment."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-jafar-asadi-led-irgc-33rd-al-mahdi-division",
+  "from_entity": "mohammad-jafar-asadi",
+  "to_entity": "irgc-33rd-al-mahdi-division",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "1980",
+  "date_to": "1988",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Jafar_Asadi",
+      "source_title": "Mohammad Jafar Asadi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Mohammad Jafar Asadi commanded the 33rd Al-Mahdi Division of the IRGC during the Iran–Iraq War."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

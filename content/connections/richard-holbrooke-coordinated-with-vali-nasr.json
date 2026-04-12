@@ -1,0 +1,21 @@
+{
+  "entity_id": "richard-holbrooke-coordinated-with-vali-nasr",
+  "from_entity": "richard-holbrooke",
+  "to_entity": "vali-nasr",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "2009-01-01",
+  "date_to": "2010-12-13",
+  "evidence": [
+    {
+      "source_url": "https://www.state.gov/richard-holbrooke/",
+      "source_title": "Richard Holbrooke — US Special Representative for Afghanistan and Pakistan",
+      "source_date": "2009-01-22",
+      "description": "Vali Nasr served as senior adviser to Richard Holbrooke in the Office of the US Special Representative for Afghanistan and Pakistan (SRAP) from 2009 to 2011. Nasr described this collaboration in The Dispensable Nation (2013)."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

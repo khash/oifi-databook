@@ -1,0 +1,24 @@
+{
+  "entity_id": "carpo",
+  "slug": "carpo",
+  "name_en": "CARPO (Center for Applied Research in Partnership with the Orient)",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 2016,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Bonn-based independent research centre focused on the Middle East, Gulf, and Iran. Co-founded by [Adnan Tabatabai](/people/adnan-tabatabai), a German-Iranian analyst specializing in Iranian domestic politics and foreign policy. CARPO produces policy-oriented research and organizes Track II dialogues between European and Iranian stakeholders.",
+  "faction": null,
+  "tags": [],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://carpo-bonn.org/en/about/",
+      "title": "About CARPO",
+      "date": "2024-01-01",
+      "publisher": "CARPO"
+    }
+  ],
+  "editorial_notes": ""
+}

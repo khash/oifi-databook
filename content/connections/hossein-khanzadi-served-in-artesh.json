@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-khanzadi-served-in-artesh",
+  "from_entity": "hossein-khanzadi",
+  "to_entity": "artesh",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hossein_Khanzadi",
+      "source_title": "Hossein Khanzadi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Hossein Khanzadi served as commander of the Artesh Navy (NEDAJA) and thus within the Artesh conventional armed forces structure."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "evin-prison-named-in-mass-executions-1988",
+  "from_entity": "evin-prison",
+  "to_entity": "mass-executions-1988",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.amnesty.org/en/documents/mde13/001/1990/en/",
+      "source_title": "Iran: Violations of Human Rights — Amnesty International",
+      "source_date": "1990-01-01",
+      "description": "Evin Prison was one of the primary sites where the 1988 mass executions of political prisoners took place."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

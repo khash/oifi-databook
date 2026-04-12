@@ -1,0 +1,22 @@
+{
+  "entity_id": "alireza-bigdeli-affiliated-with-islamic-revolutionary-guard-corps",
+  "from_entity": "alireza-bigdeli",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "affiliated-with",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Alireza_Bigdeli",
+      "source_title": "Alireza Bigdeli",
+      "source_date": "2024-01-01",
+      "description": "Azerbaijani intelligence sources and Iranian opposition outlets allege that Bigdeli had an IRGC intelligence background and used his Baku posting to run IRGC operations against Israeli interests."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": ["intelligence"],
+  "editorial_notes": "Alleged by Azerbaijani intelligence and opposition sources only."
+}

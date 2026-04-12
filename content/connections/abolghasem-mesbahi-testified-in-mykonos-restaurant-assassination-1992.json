@@ -1,0 +1,21 @@
+{
+  "entity_id": "abolghasem-mesbahi-testified-in-mykonos-restaurant-assassination-1992",
+  "from_entity": "abolghasem-mesbahi",
+  "to_entity": "mykonos-restaurant-assassination-1992",
+  "type": "testified-in",
+  "confidence": "confirmed",
+  "date_from": "1993-01-01",
+  "date_to": "1997-04-10",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mykonos_restaurant_assassinations",
+      "source_title": "Mykonos restaurant assassinations — Wikipedia",
+      "source_date": null,
+      "description": "Mesbahi, known as 'Witness C', provided testimony to German prosecutors in the Mykonos trial."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

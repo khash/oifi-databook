@@ -1,0 +1,24 @@
+{
+  "entity_id": "center-for-middle-east-strategic-studies",
+  "slug": "center-for-middle-east-strategic-studies",
+  "name_en": "Center for Middle East Strategic Studies (CMESS)",
+  "name_fa": "مرکز مطالعات استراتژیک خاورمیانه",
+  "has_native_fa_name": true,
+  "type": "ngo",
+  "founded": null,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Tehran-based think tank with ties to the Iranian foreign-policy establishment. Institutional home of [Kayhan Barzegar](/people/kayhan-barzegar), who has served as director. CMESS produces analysis on regional geopolitics, Iran's nuclear program, and Persian Gulf security broadly aligned with regime foreign-policy perspectives.",
+  "faction": null,
+  "tags": [],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://cmess.ir/",
+      "title": "Center for Middle East Strategic Studies",
+      "date": "2024-01-01",
+      "publisher": "CMESS"
+    }
+  ],
+  "editorial_notes": "CMESS is regime-adjacent; its output generally reflects the interests of the Iranian foreign-policy establishment."
+}

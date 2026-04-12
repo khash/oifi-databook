@@ -1,0 +1,24 @@
+{
+  "entity_id": "rt-russia-today",
+  "slug": "rt-russia-today",
+  "name_en": "RT (Russia Today)",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "media",
+  "founded": 2005,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Russian state broadcaster funded by the Kremlin and operating internationally in English, Arabic, Spanish, and other languages. RT regularly platforms Iranian regime-aligned commentators such as [Mohammad Marandi](/people/mohammad-marandi) as purportedly independent analysts, amplifying narratives favorable to both Moscow and Tehran. The outlet has been designated a foreign agent in multiple Western jurisdictions.",
+  "faction": null,
+  "tags": [],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.rt.com/",
+      "title": "RT — About",
+      "date": "2024-01-01",
+      "publisher": "RT"
+    }
+  ],
+  "editorial_notes": "RT is a well-documented Kremlin propaganda vehicle. Its use as a platform by Marandi and others should be treated as evidence of regime alignment rather than neutral media activity."
+}

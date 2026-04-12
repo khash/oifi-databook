@@ -1,0 +1,30 @@
+{
+  "entity_id": "iranian-embassy-vienna",
+  "slug": "iranian-embassy-vienna",
+  "name_en": "Iranian Embassy in Vienna",
+  "name_fa": "سفارت ایران در وین",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": null,
+  "dissolved": null,
+  "parent_org": "ministry-of-foreign-affairs",
+  "description": "Iran's diplomatic mission in Vienna, Austria, accredited to the Austrian government and to international organizations headquartered in Vienna (including IAEA, UNODC, and UNIDO). The embassy has been documented as an operational hub for [Ministry of Intelligence](/orgs/ministry-of-intelligence) (MOIS) activities in Central Europe. Most notably, Assadollah Assadi — a senior MOIS officer operating under diplomatic cover as third counselor — used the Vienna embassy as his base and was arrested in Germany in 2018 after Belgian authorities foiled a plot to bomb the Iranian opposition group NCRI's rally in Villepinte, France. Assadi was convicted in Belgium in 2021.",
+  "faction": null,
+  "tags": ["diplomacy", "intelligence"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Assadollah_Assadi",
+      "title": "Assadollah Assadi — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.politico.eu/article/belgium-convicts-iranian-diplomat-assadollah-assadi-for-bomb-plot/",
+      "title": "Belgium convicts Iranian diplomat for bomb plot",
+      "date": "2021-02-04",
+      "publisher": "Politico Europe"
+    }
+  ],
+  "editorial_notes": "Assadollah Assadi (another agent's batch) operated from this embassy. Do not create Assadi entity — only reference this embassy's documented intel use."
+}

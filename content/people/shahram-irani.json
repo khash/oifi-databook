@@ -1,0 +1,26 @@
+{
+  "entity_id": "shahram-irani",
+  "slug": "shahram-irani",
+  "name_en": "Shahram Irani",
+  "name_fa": "شهرام ایرانی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Rear Admiral Shahram Irani"
+  ],
+  "born": 1966,
+  "birthplace": "Sanandaj, Kurdistan Province, Iran",
+  "role": "Commander of the Islamic Republic of Iran Navy (2021–present)",
+  "faction": "conservative",
+  "bio": "Rear Admiral Shahram Irani has served as Commander of the [Islamic Republic of Iran Navy](/orgs/islamic-republic-of-iran-navy) since August 2021, appointed by [Ali Khamenei](/people/ali-khamenei) to replace Hossein Khanzadi. A career Artesh (regular armed forces) officer with a background in naval operations and electronic warfare, he is widely reported in Iranian state media as the first Sunni Kurd to command a branch of Iran's military — a point the regime has emphasised for domestic political signalling. Under his command, NEDAJA completed its first world circumnavigation voyage with the 86th Flotilla in 2023 and expanded joint naval exercises with the Russian and Chinese navies in the Indian Ocean. He has overseen the induction of the Deilaman and Shahid Soleimani-class destroyers and the continued presence of Iranian naval convoys escorting commercial traffic in the Gulf of Aden.",
+  "irgc_member": false,
+  "expertise": [
+    "naval operations",
+    "electronic warfare",
+    "maritime strategy"
+  ],
+  "tags": [
+    "military"
+  ],
+  "photo": null,
+  "editorial_notes": "Artesh officer, not IRGC. Appointed 24 August 2021. Reported Sunni Kurdish background used by regime as evidence of minority inclusion in armed forces."
+}

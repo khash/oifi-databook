@@ -1,0 +1,24 @@
+{
+  "entity_id": "iran-podcast",
+  "slug": "iran-podcast",
+  "name_en": "The Iran Podcast",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "media",
+  "founded": 2019,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Independent English-language podcast on US-Iran relations, Iranian politics, and civil society, hosted by journalist [Negar Mortazavi](/people/negar-mortazavi). The show features interviews with scholars, activists, and policy practitioners, and is widely listened to by the Iranian diaspora and Iran-watchers in Washington and beyond.",
+  "faction": null,
+  "tags": [],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.theiranpodcast.com/",
+      "title": "The Iran Podcast",
+      "date": "2024-01-01",
+      "publisher": "The Iran Podcast"
+    }
+  ],
+  "editorial_notes": ""
+}

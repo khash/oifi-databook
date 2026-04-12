@@ -1,0 +1,24 @@
+{
+  "entity_id": "new-york-times",
+  "slug": "new-york-times",
+  "name_en": "New York Times",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "media",
+  "founded": 1851,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "American newspaper of record based in New York City. Former employer of [Nazila Fathi](/people/nazila-fathi), who served as the Times' Tehran bureau correspondent from 1999 until the deteriorating security environment forced her to leave Iran in 2009.",
+  "faction": null,
+  "tags": [],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.nytimes.com/",
+      "title": "New York Times",
+      "date": "2024-01-01",
+      "publisher": "New York Times"
+    }
+  ],
+  "editorial_notes": ""
+}

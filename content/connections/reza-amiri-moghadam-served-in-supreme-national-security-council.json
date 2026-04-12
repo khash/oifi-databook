@@ -1,0 +1,21 @@
+{
+  "entity_id": "reza-amiri-moghadam-served-in-supreme-national-security-council",
+  "from_entity": "reza-amiri-moghadam",
+  "to_entity": "supreme-national-security-council",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://pakistan.mfa.gov.ir/en/generalcategoryservices/8569/ambassador",
+      "source_title": "Ambassador — Embassy of the Islamic Republic of Iran, Islamabad",
+      "source_date": "2024-10-01",
+      "description": "Iran's MFA ambassador biography lists him as former deputy of the Supreme National Security Council for foreign and international policy affairs."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Deputy of SNSC for foreign and international policy affairs."
+}

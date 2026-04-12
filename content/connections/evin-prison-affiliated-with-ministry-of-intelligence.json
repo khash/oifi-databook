@@ -1,0 +1,21 @@
+{
+  "entity_id": "evin-prison-affiliated-with-ministry-of-intelligence",
+  "from_entity": "evin-prison",
+  "to_entity": "ministry-of-intelligence",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.amnesty.org/en/location/middle-east-and-north-africa/iran/",
+      "source_title": "Evin Prison — Amnesty International reports",
+      "source_date": "2023-01-01",
+      "description": "Ward 209 of Evin Prison is administered by the Ministry of Intelligence (MOIS) and is used for political prisoners held by intelligence services."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

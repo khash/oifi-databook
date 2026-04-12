@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-reza-heydari-named-in-green-movement-protests-2009",
+  "from_entity": "mohammad-reza-heydari",
+  "to_entity": "green-movement-protests-2009",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2010-01-01",
+  "date_to": "2010-01-01",
+  "evidence": [
+    {
+      "source_url": "https://www.bbc.co.uk/news/world-middle-east-10627898",
+      "source_title": "Iranian diplomat defects from Oslo consulate",
+      "source_date": "2010-01-07",
+      "description": "Heydari publicly defected in protest at the crackdown following the Green Movement protests."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

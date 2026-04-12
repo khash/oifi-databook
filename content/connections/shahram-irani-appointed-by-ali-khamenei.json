@@ -1,0 +1,21 @@
+{
+  "entity_id": "shahram-irani-appointed-by-ali-khamenei",
+  "from_entity": "shahram-irani",
+  "to_entity": "ali-khamenei",
+  "type": "appointed-by",
+  "confidence": "confirmed",
+  "date_from": "2021-08-24",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Shahram_Irani",
+      "source_title": "Shahram Irani",
+      "source_date": "2021-08-24",
+      "description": "Appointed Commander of the Islamic Republic of Iran Navy by Supreme Leader Ali Khamenei."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

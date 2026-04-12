@@ -1,0 +1,21 @@
+{
+  "entity_id": "assadollah-assadi-affiliated-with-mois-department-312",
+  "from_entity": "assadollah-assadi",
+  "to_entity": "mois-department-312",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2018_Villepinte_bomb_plot",
+      "source_title": "2018 Villepinte bomb plot — Wikipedia",
+      "source_date": null,
+      "description": "Belgian and German intelligence assessments identified Assadi as a Department 312 officer."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

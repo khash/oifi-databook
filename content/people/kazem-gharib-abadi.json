@@ -1,0 +1,26 @@
+{
+  "entity_id": "kazem-gharib-abadi",
+  "slug": "kazem-gharib-abadi",
+  "name_en": "Kazem Gharib-Abadi",
+  "name_fa": "کاظم غریب‌آبادی",
+  "has_native_fa_name": true,
+  "aliases": ["Ghariabadi"],
+  "born": null,
+  "birthplace": null,
+  "role": "Former Iranian Permanent Representative to the IAEA; Deputy FM for International Affairs",
+  "faction": "hardliner",
+  "irgc_member": false,
+  "bio": "Kazem Gharib-Abadi served as Iran's permanent representative to the International Atomic Energy Agency (IAEA) in Vienna from 2019 to 2022, a post at the intersection of nuclear diplomacy and intelligence coordination. He subsequently became Deputy Foreign Minister for International Affairs and Secretary of Iran's High Council for Human Rights — despite Iran's ongoing human rights record being subject to intense international criticism. In this latter role he regularly engaged with UN human rights bodies, often deflecting scrutiny of Iran's domestic repression. He has been a vocal critic of Western sanctions and IAEA demands for enhanced access to Iranian nuclear sites.",
+  "expertise": ["nuclear policy", "diplomacy", "human rights"],
+  "tags": ["diplomacy", "nuclear", "jcpoa", "intelligence", "sanctions"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Kazem_Gharib-Abadi",
+      "title": "Kazem Gharib-Abadi — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "IAEA representative 2019–2022. Subsequently Deputy FM and Secretary High Council for Human Rights."
+}

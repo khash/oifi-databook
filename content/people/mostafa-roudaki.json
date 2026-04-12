@@ -1,0 +1,30 @@
+{
+  "entity_id": "mostafa-roudaki",
+  "slug": "mostafa-roudaki",
+  "name_en": "Mostafa Roudaki",
+  "name_fa": "مصطفی رودکی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Alleged MOIS officer; linked to UK-based surveillance of Iranian dissidents",
+  "faction": "hardliner",
+  "irgc_member": false,
+  "bio": "Mostafa Roudaki is alleged to be a Ministry of Intelligence and Security (MOIS) officer who conducted UK-based surveillance and targeting operations against journalists at Iran International and Iranian dissidents in Britain. Unlike formal diplomats, he is reported to have operated through Iranian state infrastructure in the UK without a formal diplomatic posting. Details are drawn from UK security reporting and the investigations surrounding Iran International's decision to temporarily relocate operations due to death threats. All intelligence connections are alleged; evidence remains partial.",
+  "expertise": [
+    "intelligence"
+  ],
+  "tags": [
+    "intelligence"
+  ],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.gov.uk/government/news/",
+      "title": "UK Government — Iran threat reporting",
+      "date": "2023-01-01",
+      "publisher": "UK Government"
+    }
+  ],
+  "editorial_notes": "All intelligence connections alleged. No confirmed diplomatic posting. Evidence from UK security services and Iran International's own reporting on threats against its journalists."
+}

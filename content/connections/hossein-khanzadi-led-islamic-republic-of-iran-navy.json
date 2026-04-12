@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-khanzadi-led-islamic-republic-of-iran-navy",
+  "from_entity": "hossein-khanzadi",
+  "to_entity": "islamic-republic-of-iran-navy",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "2017",
+  "date_to": "2021",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hossein_Khanzadi",
+      "source_title": "Hossein Khanzadi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Hossein Khanzadi commanded the Islamic Republic of Iran Navy (NEDAJA) from 2017 to August 2021, when he was replaced by Shahram Irani."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "shahram-irani-served-in-artesh",
+  "from_entity": "shahram-irani",
+  "to_entity": "artesh",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Shahram_Irani",
+      "source_title": "Shahram Irani — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Shahram Irani is a career Artesh officer who serves as Commander of the Artesh Navy (NEDAJA) — the naval branch of the Islamic Republic of Iran Army."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

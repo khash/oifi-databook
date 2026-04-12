@@ -1,0 +1,33 @@
+{
+  "entity_id": "mohsen-milani",
+  "slug": "mohsen-milani",
+  "name_en": "Mohsen Milani",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "died": null,
+  "role": "Professor of Political Science, University of South Florida; Iran analyst",
+  "faction": null,
+  "bio": "Mohsen Milani is a professor of political science at the University of South Florida (USF), where he has taught for decades and served as executive director of USF's Center for Strategic and Diplomatic Studies. He is a widely cited specialist on the Islamic Republic's foreign policy, regional strategy, and US-Iran relations.\n\nMilani is the author of *The Making of Iran's Islamic Revolution* (1988, 1994), one of the standard English-language accounts of the 1979 revolutionary process. He contributes frequently to Foreign Affairs, the Wilson Center, and other policy outlets on Iran-US tensions, Iran-Gulf dynamics, and nuclear diplomacy. He is a regular commentator for American and international broadcast media on Iranian foreign policy and often frames Iran's behavior as strategically rational within its own logic, arguing for sustained diplomatic engagement over coercive pressure.\n\nHis academic and policy commentary consistently situates Iran's regional posture in a realist framework, analyzing IRGC activities, proxy networks, and sanctions policy from a perspective that emphasizes Iran's security calculations rather than ideological drivers.",
+  "irgc_member": false,
+  "expertise": ["Iran foreign policy", "US-Iran relations", "Iranian Revolution", "Iran-Gulf dynamics", "regional strategy"],
+  "tags": [],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.usf.edu/arts-sciences/departments/government-international-affairs/people/milani-mohsen.aspx",
+      "title": "Mohsen Milani — University of South Florida",
+      "date": "2024-01-01",
+      "publisher": "University of South Florida"
+    },
+    {
+      "url": "https://www.foreignaffairs.com/authors/mohsen-milani",
+      "title": "Mohsen Milani — Foreign Affairs",
+      "date": "2024-01-01",
+      "publisher": "Foreign Affairs"
+    }
+  ],
+  "editorial_notes": ""
+}

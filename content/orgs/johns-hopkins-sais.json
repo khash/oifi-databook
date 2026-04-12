@@ -1,0 +1,24 @@
+{
+  "entity_id": "johns-hopkins-sais",
+  "slug": "johns-hopkins-sais",
+  "name_en": "Johns Hopkins School of Advanced International Studies (SAIS)",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 1943,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Elite graduate school of international relations based in Washington, D.C. and Bologna, Italy. Former institutional home of [Vali Nasr](/people/vali-nasr), who served as dean (2012–2019), and scholars including [Narges Bajoghli](/people/narges-bajoghli) and Afshin Molavi. SAIS is a leading training ground for American foreign-policy practitioners and hosts influential Iran-focused research.",
+  "faction": null,
+  "tags": [],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://sais.jhu.edu/",
+      "title": "Johns Hopkins SAIS — About",
+      "date": "2024-01-01",
+      "publisher": "Johns Hopkins University"
+    }
+  ],
+  "editorial_notes": ""
+}

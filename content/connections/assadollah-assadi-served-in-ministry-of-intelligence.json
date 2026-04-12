@@ -1,0 +1,21 @@
+{
+  "entity_id": "assadollah-assadi-served-in-ministry-of-intelligence",
+  "from_entity": "assadollah-assadi",
+  "to_entity": "ministry-of-intelligence",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.politico.eu/article/belgium-sentences-iranian-diplomat-assadollah-assadi-20-years-prison-bomb-plot/",
+      "source_title": "Belgium sentences Iranian diplomat to 20 years for bomb plot",
+      "source_date": "2021-02-04",
+      "description": "Antwerp court verdict identified Assadi as a MOIS officer operating under diplomatic cover."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

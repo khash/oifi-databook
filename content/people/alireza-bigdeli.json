@@ -1,0 +1,31 @@
+{
+  "entity_id": "alireza-bigdeli",
+  "slug": "alireza-bigdeli",
+  "name_en": "Alireza Bigdeli",
+  "name_fa": "علیرضا بیگدلی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Former Iranian Ambassador to Azerbaijan (2016–2021) and Ukraine",
+  "faction": "conservative",
+  "irgc_member": false,
+  "bio": "Alireza Bigdeli served as Iranian Ambassador to Azerbaijan from 2016 to 2021 and subsequently to Ukraine. Azerbaijani intelligence sources and Iranian opposition outlets allege that Bigdeli had an IRGC intelligence background and that his posting in Baku was used to coordinate IRGC intelligence operations targeting Israeli interests in Azerbaijan. These allegations have not been confirmed by independent reporting and are categorized as alleged.",
+  "expertise": [
+    "diplomacy"
+  ],
+  "tags": [
+    "diplomacy",
+    "intelligence"
+  ],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Alireza_Bigdeli",
+      "title": "Alireza Bigdeli",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "IRGC intelligence background alleged by Azerbaijani and opposition sources. Connection to IRGC intelligence operations in Baku is alleged, not confirmed."
+}

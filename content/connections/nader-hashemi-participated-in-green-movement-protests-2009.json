@@ -1,0 +1,21 @@
+{
+  "entity_id": "nader-hashemi-participated-in-green-movement-protests-2009",
+  "from_entity": "nader-hashemi",
+  "to_entity": "green-movement-protests-2009",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2009-06-01",
+  "date_to": "2010-01-01",
+  "evidence": [
+    {
+      "source_url": "https://cup.columbia.edu/book/the-people-reloaded/9780976836148",
+      "source_title": "The People Reloaded: The Green Movement and the Struggle for Iran's Future",
+      "source_date": "2010-01-01",
+      "description": "Hashemi co-edited this volume on the Green Movement with Danny Postel, documenting and analyzing the 2009 protests and their aftermath."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

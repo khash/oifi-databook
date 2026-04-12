@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-bagheri-served-in-artesh",
+  "from_entity": "mohammad-bagheri",
+  "to_entity": "artesh",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Bagheri",
+      "source_title": "Mohammad Bagheri — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Mohammad Bagheri served as Chief of Staff of the Armed Forces, having risen through the Iranian military establishment."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

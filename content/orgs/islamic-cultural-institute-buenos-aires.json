@@ -1,0 +1,24 @@
+{
+  "entity_id": "islamic-cultural-institute-buenos-aires",
+  "slug": "islamic-cultural-institute-buenos-aires",
+  "name_en": "Islamic Cultural Institute of Buenos Aires",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "religious",
+  "founded": null,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Islamic Cultural Institute of Buenos Aires (also known as the At-Tauhid Mosque) was a mosque and Islamic cultural centre from which [Mohsen Rabbani](/people/mohsen-rabbani) operated under cover as Iran's cultural attaché to Argentina in the early 1990s. Argentine prosecutors and international investigators concluded that the institute served as an operational platform for MOIS and IRGC-Quds Force activities in Latin America, including the coordination of the 1994 AMIA bombing. Rabbani used the institution as a base for recruiting Shia converts and building intelligence networks across the region.",
+  "faction": null,
+  "tags": ["intelligence"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mohsen_Rabbani",
+      "title": "Mohsen Rabbani — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "Also known as At-Tauhid Mosque. Used as MOIS/Quds Force operational cover per Argentine prosecutors."
+}

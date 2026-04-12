@@ -1,0 +1,26 @@
+{
+  "entity_id": "hadi-soleimanpour",
+  "slug": "hadi-soleimanpour",
+  "name_en": "Hadi Soleimanpour",
+  "name_fa": "هادی سلیمانپور",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Former Iranian Ambassador to Argentina (1994)",
+  "faction": "hardliner",
+  "irgc_member": false,
+  "bio": "Hadi Soleimanpour served as Iran's Ambassador to Argentina at the time of the [AMIA bombing](/events/amia-bombing-1994) in July 1994. Argentine prosecutors named him as a participant in the conspiracy that led to the attack. In 2003, he was arrested in the United Kingdom on an Argentine extradition request. However, a UK court ruled there was insufficient evidence to extradite him and he was released. He subsequently returned to Iran. In 2024, an Argentine court concluded a trial-in-absentia process and issued sentencing orders against him.",
+  "expertise": ["diplomacy"],
+  "tags": ["intelligence", "sanctions"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/1994_AMIA_bombing",
+      "title": "1994 AMIA bombing — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "Arrested UK 2003, released for lack of evidence. 2024 Argentine trial-in-absentia order issued."
+}

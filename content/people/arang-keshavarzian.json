@@ -1,0 +1,33 @@
+{
+  "entity_id": "arang-keshavarzian",
+  "slug": "arang-keshavarzian",
+  "name_en": "Arang Keshavarzian",
+  "name_fa": "آرنگ کشاورزیان",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "died": null,
+  "role": "Associate Professor of Middle Eastern and Islamic Studies, New York University",
+  "faction": null,
+  "bio": "Arang Keshavarzian is an associate professor of Middle Eastern and Islamic Studies at New York University (NYU), where he focuses on the political economy of Iran and the Persian Gulf. He received his doctorate from Princeton University.\n\nHis book *Bazaar and State in Iran: The Politics of the Tehran Marketplace* (2007, Cambridge University Press) is a landmark study of the political economy of Iran's commercial sector, examining how the Tehran bazaar — a dense network of merchants, guilds, and credit relationships — both shaped and was shaped by state power across the twentieth century and into the Islamic Republic era. The book argues that the bazaar's social organization enabled collective action and that its relationship with the state explains much about Iran's political trajectory.\n\nKeshavarzian also co-edited *Illiberal Politics in Neoliberal Times: Culture, Power, and Meaning in the Arab World* and has written extensively on labor, class, and political mobilization in the Gulf. His broader research agenda encompasses the political economy of Gulf states, labor migration, and the intersection of urban space and political power in the Middle East. He takes a political-economy and sociological approach to Iranian and Gulf politics, situated within a critical social science framework.",
+  "irgc_member": false,
+  "expertise": ["Iranian political economy", "bazaar and commerce", "Gulf political economy", "labor and class", "urban politics"],
+  "tags": ["in-exile"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://as.nyu.edu/departments/meis/people/faculty/arang-keshavarzian.html",
+      "title": "Arang Keshavarzian — NYU",
+      "date": "2024-01-01",
+      "publisher": "New York University"
+    },
+    {
+      "url": "https://www.cambridge.org/us/universitypress/subjects/politics-international-relations/middle-east-politics/bazaar-and-state-iran",
+      "title": "Bazaar and State in Iran — Cambridge University Press",
+      "date": "2007-01-01",
+      "publisher": "Cambridge University Press"
+    }
+  ],
+  "editorial_notes": ""
+}

@@ -1,0 +1,32 @@
+{
+  "entity_id": "mohsen-pak-aeen",
+  "slug": "mohsen-pak-aeen",
+  "name_en": "Mohsen Pak-Aeen",
+  "name_fa": "محسن پاک‌آیین",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Former Iranian Ambassador to Azerbaijan, Thailand, and Zambia",
+  "faction": "conservative",
+  "irgc_member": false,
+  "bio": "Mohsen Pak-Aeen is a veteran Iranian diplomat who served as ambassador to Azerbaijan, Thailand, and Zambia. He is associated with the Office of the Supreme Leader's international affairs apparatus. Opposition and diaspora sources allege that his postings involved liaison functions for the Ministry of Intelligence and Security (MOIS), though these claims have not been independently verified and are categorized as alleged.",
+  "expertise": [
+    "diplomacy",
+    "intelligence liaison (alleged)"
+  ],
+  "tags": [
+    "diplomacy",
+    "intelligence"
+  ],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mohsen_Pak-Aeen",
+      "title": "Mohsen Pak-Aeen",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "Intelligence liaison function is alleged by opposition sources only. Treat with caution."
+}

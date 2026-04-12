@@ -2,13 +2,15 @@
 import Layout from "@/layouts/main.astro"
 import { Search } from "@/components/Search"
 import { ThemeToggle } from "@/components/ThemeToggle"
+import { Card, CardHeader, CardTitle, CardDescription } from "@/components/ui/card"
 
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "WebSite",
   name: "OIFI Databook",
   url: "https://databook.oifi.org",
-  description: "Iranian political actors, organizations and events",
+  description:
+    "The Who's Who of Iranian politics — an open database of political actors, organizations, events, and the relationships between them.",
   potentialAction: {
     "@type": "SearchAction",
     target: "https://databook.oifi.org/?q={search_term_string}",
@@ -17,21 +19,90 @@ const jsonLd = {
 }
 ---
 
-<Layout jsonLd={jsonLd} canonicalPath="">
+<Layout
+  description="The Who's Who of Iranian politics — an open database of political actors, organizations, events, and the relationships that bind them."
+  jsonLd={jsonLd}
+  canonicalPath=""
+>
   <ThemeToggle client:load slot="header-actions" />
 
-  <div class="flex flex-col items-center justify-center min-h-[60vh] space-y-8 py-16 text-center">
-    <div class="space-y-4 max-w-2xl">
-      <h1 class="text-3xl font-bold tracking-tight sm:text-4xl">
-        Mapping Iran's Political Power Networks
+  <section class="flex flex-col items-center text-center py-12 sm:py-16 space-y-8">
+    <div class="space-y-5 max-w-3xl">
+      <p class="text-xs uppercase tracking-[0.2em] text-muted-foreground">OIFI Databook</p>
+      <h1 class="text-4xl font-bold tracking-tight sm:text-5xl lg:text-6xl">
+        The Who's Who of Iranian Politics
       </h1>
-      <p class="text-muted-foreground text-lg">
-        An open-source intelligence database of political actors, organizations, and events shaping Iran's power structure.
+      <p class="text-muted-foreground text-lg sm:text-xl max-w-2xl mx-auto">
+        An open, source-backed database of the people, organizations, and events that
+        shape power in the Islamic Republic — and the relationships between them.
       </p>
     </div>
 
     <div class="w-full max-w-lg">
       <Search client:load />
     </div>
-  </div>
+  </section>
+
+  <section class="pb-16 max-w-4xl mx-auto space-y-8">
+    <div class="text-center space-y-3">
+      <h2 class="text-2xl font-bold tracking-tight sm:text-3xl">Start exploring</h2>
+      <p class="text-muted-foreground">Three ways into the network.</p>
+    </div>
+    <div class="grid gap-4 sm:grid-cols-3">
+      <a href="/people" class="block">
+        <Card className="h-full hover:border-foreground/30 transition-colors">
+          <CardHeader>
+            <CardTitle>People</CardTitle>
+            <CardDescription>
+              Politicians, clerics, commanders, and technocrats — placed on a factional spectrum from opposition to hardliner.
+            </CardDescription>
+          </CardHeader>
+        </Card>
+      </a>
+      <a href="/orgs" class="block">
+        <Card className="h-full hover:border-foreground/30 transition-colors">
+          <CardHeader>
+            <CardTitle>Organizations</CardTitle>
+            <CardDescription>
+              State institutions, military branches, political parties, media outlets, and the parent–subsidiary ties between them.
+            </CardDescription>
+          </CardHeader>
+        </Card>
+      </a>
+      <a href="/events" class="block">
+        <Card className="h-full hover:border-foreground/30 transition-colors">
+          <CardHeader>
+            <CardTitle>Events</CardTitle>
+            <CardDescription>
+              Elections, appointments, purges, protests, and leaks — the moments that move actors through the network.
+            </CardDescription>
+          </CardHeader>
+        </Card>
+      </a>
+    </div>
+  </section>
+
+  <section class="py-12 max-w-3xl mx-auto space-y-6">
+    <h2 class="text-2xl font-bold tracking-tight sm:text-3xl text-center">What is the Databook?</h2>
+    <div class="space-y-4 text-muted-foreground leading-relaxed">
+      <p>
+        The OIFI Databook is a structured reference for understanding who holds power in Iran,
+        how they got there, and who they answer to. Every person, organization, and event is
+        entered as its own record, with bilingual names (English and Persian) and cited sources.
+      </p>
+      <p>
+        Records are linked by typed relationships — <em>appointed by</em>, <em>served in</em>,
+        <em>subsidiary of</em>, <em>allied with</em>, and more — each tagged with a confidence
+        level so you can see the difference between confirmed ties and alleged ones.
+      </p>
+      <p>
+        The result is a navigable network: start from a name and trace the chain of influence
+        outward, one or two or three degrees at a time.
+      </p>
+    </div>
+    <p class="text-sm text-muted-foreground text-center pt-2">
+      A project of <a href="https://oifi.org" class="underline hover:text-foreground">Open Information For Iran</a>.
+      Research tool — not a legal record.
+    </p>
+  </section>
 </Layout>

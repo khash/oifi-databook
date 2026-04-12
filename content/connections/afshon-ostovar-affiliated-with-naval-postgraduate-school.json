@@ -1,0 +1,22 @@
+{
+  "entity_id": "afshon-ostovar-affiliated-with-naval-postgraduate-school",
+  "from_entity": "afshon-ostovar",
+  "to_entity": "naval-postgraduate-school",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://faculty.nps.edu/ostovar",
+      "source_title": "Afshon Ostovar — Naval Postgraduate School",
+      "source_date": "2024-01-01",
+      "description": "Afshon Ostovar is an associate professor at the Naval Postgraduate School in Monterey, California."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": [],
+  "editorial_notes": ""
+}

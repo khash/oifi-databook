@@ -1,0 +1,27 @@
+{
+  "entity_id": "ali-banuazizi",
+  "slug": "ali-banuazizi",
+  "name_en": "Ali Banuazizi",
+  "name_fa": "علی بانوعزیزی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": "Iran",
+  "died": null,
+  "role": "Professor Emeritus of Political Science and Psychology, Boston College",
+  "faction": null,
+  "bio": "Ali Banuazizi is professor emeritus of political science and psychology at Boston College, where he spent his career as one of the senior figures in the field of Iranian and Middle Eastern political sociology. He is widely regarded as a dean of Iranian political sociology in the American academy.\n\nBanuazizi was a co-founder of the International Society for Iranian Studies (ISIS, now the Association for Iranian Studies) and served as its founding president, helping to institutionalize Iranian studies as an academic discipline in North America and internationally. He co-edited the landmark volumes *The State, Religion, and Ethnic Politics: Afghanistan, Iran, and Pakistan* (1986) and *Civil Society in the Muslim World* (1992) with Myron Weiner, as well as *The Politics of Social Transformation in Afghanistan, Iran, and Pakistan* (1994).\n\nHis scholarly work bridges political science and social psychology, examining political culture, state formation, and collective identity in Iran and the broader Muslim world. He trained generations of Iranian studies scholars and played a central role in building the institutional infrastructure of the field in the United States during the post-revolutionary period.",
+  "irgc_member": false,
+  "expertise": ["Iranian political sociology", "political culture", "state formation", "Muslim world politics", "civil society"],
+  "tags": ["in-exile"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.bc.edu/bc-web/schools/mcas/departments/political-science/people/faculty-directory/ali-banuazizi.html",
+      "title": "Ali Banuazizi — Boston College",
+      "date": "2024-01-01",
+      "publisher": "Boston College"
+    }
+  ],
+  "editorial_notes": ""
+}

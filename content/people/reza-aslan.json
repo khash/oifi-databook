@@ -1,0 +1,33 @@
+{
+  "entity_id": "reza-aslan",
+  "slug": "reza-aslan",
+  "name_en": "Reza Aslan",
+  "name_fa": "رضا اصلان",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1972,
+  "birthplace": "Tehran, Iran",
+  "died": null,
+  "role": "Author and religion scholar; Professor, UC Riverside",
+  "faction": null,
+  "bio": "Reza Aslan is an Iranian-American author, religion scholar, and public intellectual. He was born in Tehran in 1972 and emigrated with his family to the United States after the [1979 Iranian Revolution](/events/iranian-revolution-1979). He holds a doctorate in the sociology of religion from the University of California, Santa Barbara, and is a professor of creative writing at the University of California, Riverside.\n\nHis bestselling books include *No god but God: The Origins, Evolution, and Future of Islam* (2005), which became one of the most widely read popular accounts of Islamic history and theology; and *Zealot: The Life and Times of Jesus of Nazareth* (2013), which was a major commercial success. He is also the author of *Beyond Fundamentalism: Confronting Religious Extremism in the Age of Globalization* (2010) and *God: A Human History* (2017).\n\nAslan is primarily a religion scholar and public communicator rather than a specialist on contemporary Iranian politics. His commentary on Iran is typically framed from a moderate-to-dovish perspective, opposing military intervention and sanctions escalation and contextualizing IRI behavior within broader patterns of religious nationalism. He produced the CNN docuseries *Believer* (2017) exploring religious traditions around the world.\n\nHe was a board member of the National Iranian American Council ([NIAC](/orgs/niac)) for several years, which is relevant context for understanding his Iran policy positioning.",
+  "irgc_member": false,
+  "expertise": ["Islam", "religion and politics", "Iranian diaspora", "religious extremism"],
+  "tags": ["in-exile"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://profiles.ucr.edu/app/home/profile/raslan",
+      "title": "Reza Aslan — UC Riverside",
+      "date": "2024-01-01",
+      "publisher": "University of California, Riverside"
+    },
+    {
+      "url": "https://www.rezaaslan.com",
+      "title": "Reza Aslan — Official Website",
+      "date": "2024-01-01",
+      "publisher": "rezaaslan.com"
+    }
+  ],
+  "editorial_notes": ""
+}

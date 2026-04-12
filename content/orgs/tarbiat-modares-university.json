@@ -1,0 +1,24 @@
+{
+  "entity_id": "tarbiat-modares-university",
+  "slug": "tarbiat-modares-university",
+  "name_en": "Tarbiat Modares University",
+  "name_fa": "دانشگاه تربیت مدرس",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 1982,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Tarbiat Modares University (TMU, Daneshgah-e Tarbiat Modares) is a graduate-only public research university in Tehran, established in 1982 to train graduate students and faculty. It is one of Iran's leading research institutions and has produced a significant number of senior military and governmental figures. [Gholam Ali Rashid](/people/gholam-ali-rashid), IRGC senior commander, earned his doctorate in political geography from TMU.",
+  "faction": null,
+  "tags": [],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Tarbiat_Modares_University",
+      "title": "Tarbiat Modares University — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "Graduate-only institution; no undergraduate programs."
+}

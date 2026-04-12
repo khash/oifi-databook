@@ -1,0 +1,21 @@
+{
+  "entity_id": "iranian-embassy-vienna-affiliated-with-ministry-of-intelligence",
+  "from_entity": "iranian-embassy-vienna",
+  "to_entity": "ministry-of-intelligence",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.tandfonline.com/doi/full/10.1080/08850607.2023.2295205",
+      "source_title": "The Islamic Republic of Iran's Use of Diplomats in Intelligence and Terrorist Operations",
+      "source_date": "2023-12-01",
+      "description": "Assadollah Assadi operated as the principal MOIS Department 312 intelligence officer in Europe from the Iranian Embassy in Vienna, documenting the embassy's function as a MOIS operational hub."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

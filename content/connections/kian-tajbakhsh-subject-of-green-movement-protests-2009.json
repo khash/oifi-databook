@@ -1,0 +1,21 @@
+{
+  "entity_id": "kian-tajbakhsh-subject-of-green-movement-protests-2009",
+  "from_entity": "kian-tajbakhsh",
+  "to_entity": "green-movement-protests-2009",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2009-06-01",
+  "date_to": "2010-01-01",
+  "evidence": [
+    {
+      "source_url": "https://www.hrw.org/news/2009/08/04/iran-verdicts-show-trial-violate-fair-trial-standards",
+      "source_title": "Iran: Verdicts in Show Trial Violate Fair Trial Standards",
+      "source_date": "2009-08-04",
+      "description": "Human Rights Watch documented Tajbakhsh's arrest, show trial, forced confession on state television, and sentencing during the 2009 Green Movement crackdown."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

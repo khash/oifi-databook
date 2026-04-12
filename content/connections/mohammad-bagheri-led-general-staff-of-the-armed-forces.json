@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-bagheri-led-general-staff-of-the-armed-forces",
+  "from_entity": "mohammad-bagheri",
+  "to_entity": "general-staff-of-the-armed-forces",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "2016",
+  "date_to": "2025",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Hossein_Bagheri",
+      "source_title": "Mohammad Hossein Bagheri — Wikipedia",
+      "source_date": "2025-06-13",
+      "description": "Mohammad Bagheri served as Chief of Staff of the Iranian Armed Forces from August 2016 until his death on 13 June 2025."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

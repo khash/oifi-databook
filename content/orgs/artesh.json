@@ -1,0 +1,30 @@
+{
+  "entity_id": "artesh",
+  "slug": "artesh",
+  "name_en": "Artesh (Islamic Republic of Iran Army)",
+  "name_fa": "ارتش جمهوری اسلامی ایران",
+  "has_native_fa_name": true,
+  "type": "military",
+  "founded": 1979,
+  "dissolved": null,
+  "parent_org": "ministry-of-defense",
+  "description": "The Artesh (Persian: ارتش, 'Army') is Iran's conventional armed forces, formally the Islamic Republic of Iran Army (IRIA). It comprises four branches: Ground Forces (Niru-ye Zamini), Air Force (Niru-ye Havapeyma), Navy (NEDAJA), and Air Defense Force. The Artesh exists in a parallel structure alongside the IRGC, which has historically received preferential budget allocations and political trust from the regime. The Artesh is responsible for conventional territorial defense, while the IRGC handles internal security, missile forces, and extraterritorial operations. Key Artesh Navy (NEDAJA) commanders include [Habibollah Sayyari](/people/habibollah-sayyari) (2007-2017), [Hossein Khanzadi](/people/hossein-khanzadi) (2017-2021), and [Shahram Irani](/people/shahram-irani) (2021-present).",
+  "faction": null,
+  "tags": ["military"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Islamic_Republic_of_Iran_Army",
+      "title": "Islamic Republic of Iran Army — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.iiss.org/publications/the-military-balance/",
+      "title": "The Military Balance — IISS",
+      "date": "2024-01-01",
+      "publisher": "International Institute for Strategic Studies"
+    }
+  ],
+  "editorial_notes": "Artesh (conventional army) is distinct from IRGC. Parent org is Ministry of Defense for administrative purposes; operational command flows through General Staff."
+}

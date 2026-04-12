@@ -1,0 +1,21 @@
+{
+  "entity_id": "kazem-gharib-abadi-served-in-ministry-of-foreign-affairs",
+  "from_entity": "kazem-gharib-abadi",
+  "to_entity": "ministry-of-foreign-affairs",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2019-01-01",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Kazem_Gharib-Abadi",
+      "source_title": "Kazem Gharib-Abadi — Wikipedia",
+      "source_date": null,
+      "description": "Gharib-Abadi served as Iran's permanent representative to the IAEA 2019–2022 and later as Deputy FM for International Affairs."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

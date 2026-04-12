@@ -1,0 +1,22 @@
+{
+  "entity_id": "hossein-mousavian-named-in-mykonos-restaurant-assassination-1992",
+  "from_entity": "hossein-mousavian",
+  "to_entity": "mykonos-restaurant-assassination-1992",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1997-04",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.spiegel.de/international/germany/the-mykonos-verdict-how-germany-exposed-iran-s-terror-campaign-a-884958.html",
+      "source_title": "The Mykonos Verdict — Der Spiegel",
+      "source_date": "1997-04-10",
+      "description": "The April 1997 Berlin court verdict in the Mykonos assassination trial implicated Iran's top leadership and led to the expulsion of four Iranian diplomats from Germany. Mousavian was serving as Iranian Ambassador to Germany at the time; the expulsions directly involved his diplomatic mission."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": ["diplomacy"],
+  "editorial_notes": "Mousavian was ambassador during both the 1992 assassination and the 1997 verdict. He has not been charged with personal involvement, but the German expulsion directly implicated his embassy."
+}

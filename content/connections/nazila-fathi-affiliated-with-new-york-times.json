@@ -1,0 +1,22 @@
+{
+  "entity_id": "nazila-fathi-affiliated-with-new-york-times",
+  "from_entity": "nazila-fathi",
+  "to_entity": "new-york-times",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "1999",
+  "date_to": "2009",
+  "evidence": [
+    {
+      "source_url": "https://www.nytimes.com/",
+      "source_title": "New York Times",
+      "source_date": "2024-01-01",
+      "description": "Nazila Fathi served as Tehran bureau correspondent for the New York Times from 1999 until she was forced to leave Iran in 2009 due to deteriorating security conditions."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": [],
+  "editorial_notes": ""
+}

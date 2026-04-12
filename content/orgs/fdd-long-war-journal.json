@@ -1,0 +1,24 @@
+{
+  "entity_id": "fdd-long-war-journal",
+  "slug": "fdd-long-war-journal",
+  "name_en": "FDD Long War Journal",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "media",
+  "founded": 2007,
+  "dissolved": null,
+  "parent_org": "foundation-for-defense-of-democracies",
+  "description": "Military-affairs publication of the [Foundation for Defense of Democracies](/orgs/foundation-for-defense-of-democracies), tracking IRGC activities, Iranian proxy networks, and regional Islamist militant groups. [Behnam Ben Taleblu](/people/behnam-ben-taleblu) is among contributors who publish IRGC and Iran-related analysis through FDD platforms.",
+  "faction": null,
+  "tags": [],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.longwarjournal.org/",
+      "title": "Long War Journal",
+      "date": "2024-01-01",
+      "publisher": "Foundation for Defense of Democracies"
+    }
+  ],
+  "editorial_notes": ""
+}

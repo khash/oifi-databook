@@ -1,0 +1,21 @@
+{
+  "entity_id": "gholamhossein-mohammadnia-served-in-ministry-of-foreign-affairs",
+  "from_entity": "gholamhossein-mohammadnia",
+  "to_entity": "ministry-of-foreign-affairs",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2016-01-01",
+  "date_to": "2018-12-20",
+  "evidence": [
+    {
+      "source_url": "https://www.rferl.org/a/albania-expels-iranian-ambassador-over-national-security/29652432.html",
+      "source_title": "Albania Expels Iranian Ambassador Over 'National Security' Concerns",
+      "source_date": "2018-12-20",
+      "description": "Mohammadnia served as Iran's Ambassador to Albania 2016–2018 before expulsion."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

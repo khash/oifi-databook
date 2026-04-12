@@ -1,0 +1,22 @@
+{
+  "entity_id": "jewish-chronicle-published-about-mohammad-marandi",
+  "from_entity": "jewish-chronicle",
+  "to_entity": "mohammad-marandi",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2023",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.thejc.com/",
+      "source_title": "Jewish Chronicle — Mohammad Marandi IRGC uniform story",
+      "source_date": "2023-01-01",
+      "description": "The Jewish Chronicle broke the story of Mohammad Marandi appearing in an IRGC military uniform at a formal ceremony, providing photographic evidence of his connections to the Islamic Revolutionary Guard Corps."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": [],
+  "editorial_notes": ""
+}

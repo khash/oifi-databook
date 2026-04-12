@@ -1,0 +1,21 @@
+{
+  "entity_id": "afshin-molavi-affiliated-with-arab-gulf-states-institute",
+  "from_entity": "afshin-molavi",
+  "to_entity": "arab-gulf-states-institute",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://agsiw.org/fellows/afshin-molavi/",
+      "source_title": "Afshin Molavi — Arab Gulf States Institute in Washington",
+      "source_date": "2024-01-01",
+      "description": "Afshin Molavi is listed as a fellow at the Arab Gulf States Institute in Washington (AGSIW)."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

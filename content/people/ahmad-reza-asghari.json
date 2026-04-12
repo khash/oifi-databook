@@ -1,0 +1,26 @@
+{
+  "entity_id": "ahmad-reza-asghari",
+  "slug": "ahmad-reza-asghari",
+  "name_en": "Ahmad Reza Asghari",
+  "name_fa": "احمدرضا اصغری",
+  "has_native_fa_name": true,
+  "aliases": ["Mohsen Randjbaran"],
+  "born": null,
+  "birthplace": null,
+  "role": "Former Third Secretary, Iranian Embassy Buenos Aires; intelligence operative",
+  "faction": "hardliner",
+  "irgc_member": false,
+  "bio": "Ahmad Reza Asghari served as Third Secretary at Iran's Embassy in Buenos Aires in 1994, using the operational alias Mohsen Randjbaran. Argentine prosecutors accuse him of running the intelligence and logistics network that gathered target information in advance of the [AMIA bombing](/events/amia-bombing-1994) on July 18, 1994. He is alleged to have provided crucial pre-operational surveillance and coordination support that enabled the attack. He departed Argentina after the bombing and returned to Iran. Argentine courts included him among the Iranian suspects in their [AMIA bombing](/events/amia-bombing-1994) investigation.",
+  "expertise": ["intelligence"],
+  "tags": ["intelligence", "sanctions"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/1994_AMIA_bombing",
+      "title": "1994 AMIA bombing — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "Operational alias Mohsen Randjbaran. Named in Argentine AMIA indictment."
+}

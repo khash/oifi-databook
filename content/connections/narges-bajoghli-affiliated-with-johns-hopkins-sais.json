@@ -1,0 +1,22 @@
+{
+  "entity_id": "narges-bajoghli-affiliated-with-johns-hopkins-sais",
+  "from_entity": "narges-bajoghli",
+  "to_entity": "johns-hopkins-sais",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://sais.jhu.edu/faculty/narges-bajoghli",
+      "source_title": "Narges Bajoghli — Johns Hopkins SAIS",
+      "source_date": "2024-01-01",
+      "description": "Narges Bajoghli is an assistant professor at Johns Hopkins SAIS."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": [],
+  "editorial_notes": ""
+}

@@ -1,0 +1,22 @@
+{
+  "entity_id": "kayhan-barzegar-affiliated-with-belfer-center",
+  "from_entity": "kayhan-barzegar",
+  "to_entity": "belfer-center",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.belfercenter.org/person/kayhan-barzegar",
+      "source_title": "Kayhan Barzegar — Belfer Center",
+      "source_date": "2024-01-01",
+      "description": "Kayhan Barzegar held a visiting fellowship at the Belfer Center for Science and International Affairs at Harvard Kennedy School."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": [],
+  "editorial_notes": ""
+}

@@ -1,0 +1,33 @@
+{
+  "entity_id": "kian-tajbakhsh",
+  "slug": "kian-tajbakhsh",
+  "name_en": "Kian Tajbakhsh",
+  "name_fa": "کیان تاج‌بخش",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1962,
+  "birthplace": "Iran",
+  "died": null,
+  "role": "Scholar of urban planning and civil society; Columbia University affiliated researcher",
+  "faction": null,
+  "bio": "Kian Tajbakhsh is an Iranian-American scholar of urban planning and civil society, affiliated with Columbia University. He was born in Iran and educated in the United States and United Kingdom, receiving his doctorate from Columbia University. He worked as an urban development consultant for organizations including the Open Society Institute (Soros Foundation), focusing on civil society development in Iran.\n\nIn 2007, Tajbakhsh was arrested by Iranian authorities while working in Iran and charged with acting against national security. He was held in Evin Prison, the notorious detention facility in Tehran used for political prisoners, and released on bail. He was re-arrested in 2009 following the [Green Movement protests](/events/green-movement-protests-2009) and subjected to a show trial in which he gave a forced public confession on Iranian state television — one of the most documented instances of coerced confession from the post-2009 crackdown. He was sentenced to 15 years in prison, later reduced on appeal.\n\nTajbakhsh was ultimately released and allowed to leave Iran. His case attracted significant international attention as an example of the Islamic Republic's targeting of dual-national academics and civil society figures with perceived Western ties.\n\nHis scholarly work before and after his imprisonment focused on urban governance, civil society, and political modernization in Iran. He occupies a distinctive dual position in the Iranian studies field: both a subject of IRI repression and an analyst of Iranian civil society and urban development.",
+  "irgc_member": false,
+  "expertise": ["urban planning", "civil society", "Iranian modernization", "political prisoners"],
+  "tags": ["political-prisoner", "in-exile"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.hrw.org/news/2009/08/04/iran-verdicts-show-trial-violate-fair-trial-standards",
+      "title": "Iran: Verdicts in Show Trial Violate Fair Trial Standards",
+      "date": "2009-08-04",
+      "publisher": "Human Rights Watch"
+    },
+    {
+      "url": "https://www.amnesty.org/en/documents/mde13/084/2009/en/",
+      "title": "Kian Tajbakhsh — Amnesty International",
+      "date": "2009-09-01",
+      "publisher": "Amnesty International"
+    }
+  ],
+  "editorial_notes": ""
+}

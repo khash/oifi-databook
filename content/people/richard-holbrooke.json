@@ -1,0 +1,33 @@
+{
+  "entity_id": "richard-holbrooke",
+  "slug": "richard-holbrooke",
+  "name_en": "Richard Holbrooke",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "aliases": ["Richard Charles Albert Holbrooke"],
+  "born": 1941,
+  "birthplace": "New York, NY, USA",
+  "died": 2010,
+  "role": "US Special Representative for Afghanistan and Pakistan (2009–2010); veteran diplomat",
+  "faction": null,
+  "bio": "Richard Holbrooke (April 24, 1941 – December 13, 2010) was one of the most consequential American diplomats of the late twentieth and early twenty-first centuries. He served as US Ambassador to Germany, US Ambassador to the United Nations, and as the chief architect of the 1995 Dayton Peace Accords that ended the Bosnian War.\n\nIn 2009, President Barack Obama appointed Holbrooke as US Special Representative for Afghanistan and Pakistan (SRAP), a newly created position tasked with coordinating American strategy in the Af-Pak theater. [Vali Nasr](/people/vali-nasr) served as his senior adviser in this role from 2009 to 2011. Nasr later described Holbrooke as a champion of diplomatic engagement over military escalation in Afghanistan, and wrote critically in *The Dispensable Nation* (2013) about what he portrayed as the Obama White House's sidelining of Holbrooke's diplomatic strategy.\n\nHolbrooke died on December 13, 2010, of a torn aorta, while in office. He is a key node in the US-Iran diplomacy network through his influence on a generation of American diplomats and his direct management of Vali Nasr, one of the most prominent pro-engagement Iran analysts in US policy circles.",
+  "irgc_member": false,
+  "expertise": ["US diplomacy", "Afghanistan-Pakistan policy", "Balkans diplomacy", "US foreign policy"],
+  "tags": ["deceased", "diplomacy"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.state.gov/richard-holbrooke/",
+      "title": "Richard Holbrooke — US Department of State",
+      "date": "2011-01-01",
+      "publisher": "US Department of State"
+    },
+    {
+      "url": "https://www.nytimes.com/2010/12/14/us/politics/14holbrooke.html",
+      "title": "Richard Holbrooke, Diplomat, Dies at 69",
+      "date": "2010-12-14",
+      "publisher": "New York Times"
+    }
+  ],
+  "editorial_notes": "Died December 13, 2010. Key connection: Vali Nasr served as his senior adviser 2009-2011."
+}

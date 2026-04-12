@@ -1,0 +1,24 @@
+{
+  "entity_id": "american-iranian-council",
+  "slug": "american-iranian-council",
+  "name_en": "American Iranian Council (AIC)",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 1990,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Rutgers University-affiliated policy NGO founded by Hooshang Amirahmadi that advocates for US-Iran engagement and normalization. The AIC has historically positioned itself as a bridge between American and Iranian political and business communities, organizing dialogues and producing policy analysis oriented toward diplomacy rather than confrontation.",
+  "faction": null,
+  "tags": [],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.american-iranian.org/",
+      "title": "American Iranian Council",
+      "date": "2024-01-01",
+      "publisher": "American Iranian Council"
+    }
+  ],
+  "editorial_notes": ""
+}

@@ -1,0 +1,22 @@
+{
+  "entity_id": "mohsen-pak-aeen-served-in-ministry-of-foreign-affairs",
+  "from_entity": "mohsen-pak-aeen",
+  "to_entity": "ministry-of-foreign-affairs",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohsen_Pak-Aeen",
+      "source_title": "Mohsen Pak-Aeen",
+      "source_date": "2024-01-01",
+      "description": "Mohsen Pak-Aeen served as Iranian ambassador to Azerbaijan, Thailand, and Zambia under the Ministry of Foreign Affairs."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": ["diplomacy"],
+  "editorial_notes": ""
+}

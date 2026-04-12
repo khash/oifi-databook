@@ -1,0 +1,24 @@
+{
+  "entity_id": "atlantic-council",
+  "slug": "atlantic-council",
+  "name_en": "Atlantic Council",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 1961,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Washington, D.C.-based non-partisan think tank focused on transatlantic security, international relations, and global policy. Its Middle East Programs host Iran-focused analysts including former senior fellow [Holly Dagres](/people/holly-dagres). The Council convenes policymakers, scholars, and practitioners across the political spectrum and maintains programs on energy, economics, and geopolitics relevant to Iran.",
+  "faction": null,
+  "tags": [],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.atlanticcouncil.org/programs/middle-east-programs/",
+      "title": "Middle East Programs — Atlantic Council",
+      "date": "2024-01-01",
+      "publisher": "Atlantic Council"
+    }
+  ],
+  "editorial_notes": ""
+}

@@ -1,0 +1,22 @@
+{
+  "entity_id": "hossein-mousavian-served-in-ministry-of-foreign-affairs",
+  "from_entity": "hossein-mousavian",
+  "to_entity": "ministry-of-foreign-affairs",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1990",
+  "date_to": "2007",
+  "evidence": [
+    {
+      "source_url": "https://wws.princeton.edu/faculty-research/faculty/shmousav",
+      "source_title": "Hossein Mousavian — Princeton University",
+      "source_date": "2024-01-01",
+      "description": "Mousavian's Princeton biography documents a 17+ year diplomatic career in the Iranian Ministry of Foreign Affairs, including ambassador to Germany (1990–1997) and head of the Foreign Relations Committee of the Supreme National Security Council."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": ["diplomacy"],
+  "editorial_notes": ""
+}

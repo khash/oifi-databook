@@ -1,0 +1,17 @@
+{
+  "entity_id": "islamic-republic-of-iran-navy",
+  "slug": "islamic-republic-of-iran-navy",
+  "name_en": "Islamic Republic of Iran Navy",
+  "name_fa": "نیروی دریایی ارتش جمهوری اسلامی ایران",
+  "has_native_fa_name": true,
+  "type": "military",
+  "founded": 1923,
+  "dissolved": null,
+  "parent_org": "ministry-of-defense",
+  "description": "The Islamic Republic of Iran Navy (NEDAJA) is the naval branch of the Artesh — Iran's regular armed forces — distinct from the parallel IRGC Navy. NEDAJA is responsible for blue-water operations in the Gulf of Oman, Indian Ocean, and beyond, while the IRGC Navy handles Persian Gulf asymmetric operations. It operates frigates, submarines, and destroyers, and since the 2010s has conducted long-range deployments including circumnavigation voyages and joint exercises with the Russian and Chinese navies. Recent commanders include Habibollah Sayyari, Hossein Khanzadi, and [Shahram Irani](/people/shahram-irani) (2021–present).",
+  "faction": null,
+  "tags": [
+    "military"
+  ],
+  "editorial_notes": "NEDAJA = Niru-ye Daryayi-ye Artesh-e Jomhuri-ye Eslami-ye Iran. Commander appointed directly by the Supreme Leader."
+}

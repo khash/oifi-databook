@@ -1,0 +1,21 @@
+{
+  "entity_id": "irgc-16th-qods-division-participated-in-iran-iraq-war",
+  "from_entity": "irgc-16th-qods-division",
+  "to_entity": "iran-iraq-war",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Islamic_Revolutionary_Guard_Corps",
+      "source_title": "Islamic Revolutionary Guard Corps — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "IRGC regional divisions including the 16th Qods Division participated in the Iran-Iraq War."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

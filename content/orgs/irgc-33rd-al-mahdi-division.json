@@ -1,0 +1,24 @@
+{
+  "entity_id": "irgc-33rd-al-mahdi-division",
+  "slug": "irgc-33rd-al-mahdi-division",
+  "name_en": "33rd Al-Mahdi Division (IRGC)",
+  "name_fa": "لشکر ۳۳ المهدی سپاه پاسداران",
+  "has_native_fa_name": true,
+  "type": "military",
+  "founded": 1980,
+  "dissolved": null,
+  "parent_org": "islamic-revolutionary-guard-corps",
+  "description": "The 33rd Al-Mahdi Division is an IRGC ground forces combat division that fought during the [Iran–Iraq War](/events/iran-iraq-war). It was commanded by [Mohammad Jafar Asadi](/people/mohammad-jafar-asadi) during major operations of that conflict. The division is part of the IRGC Ground Forces (Niru-ye Zamini-ye Sepah) and represents one of the key IRGC formation units that gave the corps its battlefield experience.",
+  "faction": null,
+  "tags": ["military"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Islamic_Revolutionary_Guard_Corps_Ground_Forces",
+      "title": "IRGC Ground Forces — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "IRGC formation unit; commanded by Mohammad Jafar Asadi (in DB) during Iran-Iraq War."
+}

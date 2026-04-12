@@ -1,0 +1,24 @@
+{
+  "entity_id": "columbia-university-iranian-studies",
+  "slug": "columbia-university-iranian-studies",
+  "name_en": "Columbia University — Iranian Studies",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": null,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Iranian studies program at Columbia University in New York City, home to the Hagop Kevorkian Chair in Middle Eastern Languages and Cultures held by Hamid Dabashi. The program also hosted Kian Tajbakhsh, an urban planner and social scientist arrested by the Iranian government in 2007 and 2009 on espionage charges. Columbia's Iranian Studies constellation has been a significant node in academic engagement with Iran.",
+  "faction": null,
+  "tags": [],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://mesaas.columbia.edu/",
+      "title": "Middle Eastern, South Asian, and African Studies — Columbia University",
+      "date": "2024-01-01",
+      "publisher": "Columbia University"
+    }
+  ],
+  "editorial_notes": ""
+}

@@ -1,0 +1,24 @@
+{
+  "entity_id": "mois-department-312",
+  "slug": "mois-department-312",
+  "name_en": "MOIS Department 312",
+  "name_fa": "اداره ۳۱۲ وزارت اطلاعات",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": null,
+  "dissolved": null,
+  "parent_org": "ministry-of-intelligence",
+  "description": "Department 312 is a directorate within Iran's Ministry of Intelligence (MOIS/VAJA) responsible for internal security and the running of MOIS external operations and agents in Europe. The unit gained international attention when senior officer [Assadollah Assadi](/people/assadollah-assadi) was identified as the operational planner of the 2018 Villepinte bomb plot against the NCRI/MEK rally in Paris — the first time an Iranian diplomat-intelligence officer was convicted in Europe for directing a terrorist attack on European soil. The directorate is believed to use Iranian diplomatic missions as cover for its officers abroad.",
+  "faction": null,
+  "tags": ["intelligence"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.politico.eu/article/belgium-sentences-iranian-diplomat-assadollah-assadi-20-years-prison-bomb-plot/",
+      "title": "Belgium sentences Iranian diplomat to 20 years for bomb plot",
+      "date": "2021-02-04",
+      "publisher": "Politico"
+    }
+  ],
+  "editorial_notes": "Assadi identified as a Department 312 officer in Belgian/European court proceedings and by Belgian and German intelligence assessments."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "islamic-republic-of-iran-navy-subsidiary-of-ministry-of-defense",
+  "from_entity": "islamic-republic-of-iran-navy",
+  "to_entity": "ministry-of-defense",
+  "type": "subsidiary-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Islamic_Republic_of_Iran_Navy",
+      "source_title": "Islamic Republic of Iran Navy",
+      "source_date": "2024-01-01",
+      "description": "NEDAJA is a branch of the Artesh, supported by the Ministry of Defense and Armed Forces Logistics."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,39 @@
+{
+  "entity_id": "mohammad-bagheri",
+  "slug": "mohammad-bagheri",
+  "name_en": "Mohammad Bagheri",
+  "name_fa": "محمد باقری",
+  "has_native_fa_name": true,
+  "aliases": ["Mohammad Hossein Bagheri", "Major General Mohammad Bagheri"],
+  "born": 1956,
+  "birthplace": "Iran",
+  "died": "2025-06-13",
+  "role": "Chief of Staff of the Iranian Armed Forces (2016–2025)",
+  "faction": "hardliner",
+  "bio": "Major General Mohammad Bagheri served as Chief of Staff of the [General Staff of the Armed Forces of Iran](/orgs/general-staff-of-the-armed-forces) from August 2016 until his death on 13 June 2025, making him the most senior uniformed officer in the Islamic Republic of Iran. An IRGC veteran of the [Iran–Iraq War](/events/iran-iraq-war), Bagheri rose through the IRGC intelligence and operations apparatus before being appointed to the joint command. As Chief of Staff he coordinated both the [Artesh](/orgs/artesh) and [IRGC](/orgs/islamic-revolutionary-guard-corps), represented Iran's armed forces in international military diplomacy, and regularly appeared alongside [Ali Khamenei](/people/ali-khamenei) at military ceremonies. He was killed on 13 June 2025 in Israeli airstrikes on Tehran — the same strike that killed Gholam Ali Rashid — during the opening phase of what became known as the Twelve-Day War.",
+  "irgc_member": true,
+  "expertise": ["military strategy", "joint forces command", "military diplomacy"],
+  "tags": ["killed-in-action", "military", "deceased"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mohammad_Hossein_Bagheri",
+      "title": "Mohammad Hossein Bagheri — Wikipedia",
+      "date": "2025-06-13",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.longwarjournal.org/archives/2025/06/israeli-airstrikes-eliminate-senior-iranian-military-officials.php",
+      "title": "Israeli airstrikes eliminate senior Iranian military officials",
+      "date": "2025-06-13",
+      "publisher": "FDD's Long War Journal"
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/c9dlr9j51g4o",
+      "title": "Iran military chief killed in Israeli strikes",
+      "date": "2025-06-13",
+      "publisher": "BBC News"
+    }
+  ],
+  "editorial_notes": "Born year approximate (some sources say 1956, others 1959). Killed June 13 2025 in Operation Rising Lion Israeli strikes. IRGC background but served as joint Chief of Staff."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-sheikholeslam-participated-in-iran-hostage-crisis-1979",
+  "from_entity": "hossein-sheikholeslam",
+  "to_entity": "iran-hostage-crisis-1979",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1979-11-04",
+  "date_to": "1981-01-20",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hossein_Sheikh-ol-Eslam",
+      "source_title": "Hossein Sheikh-ol-Eslam — Wikipedia",
+      "source_date": null,
+      "description": "Sheikholeslam was one of the student leaders who seized the US Embassy in Tehran in 1979."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,22 @@
+{
+  "entity_id": "irdiplomacy-ir-affiliated-with-ministry-of-foreign-affairs",
+  "from_entity": "irdiplomacy-ir",
+  "to_entity": "ministry-of-foreign-affairs",
+  "type": "affiliated-with",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://irdiplomacy.ir/",
+      "source_title": "IRDiplomacy.ir",
+      "source_date": "2024-01-01",
+      "description": "IRDiplomacy.ir is widely described as affiliated with the Iranian Ministry of Foreign Affairs; it amplifies regime-favorable analysis and translations of Western commentary."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": [],
+  "editorial_notes": ""
+}

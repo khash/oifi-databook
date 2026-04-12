@@ -1,0 +1,26 @@
+{
+  "entity_id": "hossein-sheikholeslam",
+  "slug": "hossein-sheikholeslam",
+  "name_en": "Hossein Sheikholeslam",
+  "name_fa": "حسین شیخ‌الاسلام",
+  "has_native_fa_name": true,
+  "aliases": ["Sheikh-ol-Eslam"],
+  "born": 1952,
+  "birthplace": null,
+  "role": "Former Foreign Ministry Deputy for Political Affairs; 1979 embassy hostage-taker",
+  "faction": "hardliner",
+  "irgc_member": false,
+  "bio": "Hossein Sheikholeslam was one of the student leaders who seized the US Embassy in Tehran on November 4, 1979, participating in the [Iran hostage crisis](/events/iran-hostage-crisis-1979). Following the revolution, he rose through the Foreign Ministry to serve 17 years as Deputy Foreign Minister for Political Affairs — one of the most influential career positions in Iranian diplomacy. He was ambassador to Syria from 1998 to 2003, a period during which [Hezbollah](/orgs/hezbollah) expanded its operations under Iranian direction. Sheikholeslam is credited by researchers as one of the figures involved in the co-founding of Lebanese Hezbollah in the early 1980s, coordinating between the IRGC and Lebanese Shia militias in the Bekaa Valley. He was an ally of [Ali Khamenei](/people/ali-khamenei) and a consistent advocate for the resistance axis. He died of COVID-19 on March 26, 2020.",
+  "expertise": ["diplomacy", "covert operations"],
+  "tags": ["deceased", "intelligence", "proxy-warfare", "diplomacy"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Hossein_Sheikh-ol-Eslam",
+      "title": "Hossein Sheikh-ol-Eslam — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "Died March 26 2020 of COVID-19. 17 years as FM Deputy for Political Affairs. Co-founding role in Hezbollah per multiple researchers."
+}

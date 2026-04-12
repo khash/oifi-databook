@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-akbar-ahmadian-studied-at-university-of-tehran",
+  "from_entity": "ali-akbar-ahmadian",
+  "to_entity": "university-of-tehran",
+  "type": "studied-at",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Akbar_Ahmadian",
+      "source_title": "Ali Akbar Ahmadian — Wikipedia",
+      "source_date": "2026-04-12",
+      "description": "Interrupted dentistry studies at the University of Tehran to join the IRGC at the outbreak of the Iran-Iraq War."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Dentistry studies, incomplete."
+}

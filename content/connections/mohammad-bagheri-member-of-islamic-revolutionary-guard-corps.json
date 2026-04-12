@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-bagheri-member-of-islamic-revolutionary-guard-corps",
+  "from_entity": "mohammad-bagheri",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Hossein_Bagheri",
+      "source_title": "Mohammad Hossein Bagheri — Wikipedia",
+      "source_date": "2025-06-13",
+      "description": "Mohammad Bagheri was an IRGC officer who rose through the corps before being appointed Chief of Staff of the joint Armed Forces."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

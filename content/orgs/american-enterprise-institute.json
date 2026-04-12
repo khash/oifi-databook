@@ -1,0 +1,24 @@
+{
+  "entity_id": "american-enterprise-institute",
+  "slug": "american-enterprise-institute",
+  "name_en": "American Enterprise Institute (AEI)",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 1938,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Washington, D.C.-based conservative-leaning think tank covering economic, domestic, and foreign policy. On Iran, AEI occupies the hawkish end of the US policy debate alongside the Foundation for Defense of Democracies and the Washington Institute for Near East Policy, generally advocating maximum-pressure strategies and skepticism of diplomatic engagement.",
+  "faction": null,
+  "tags": [],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.aei.org/",
+      "title": "American Enterprise Institute — About",
+      "date": "2024-01-01",
+      "publisher": "American Enterprise Institute"
+    }
+  ],
+  "editorial_notes": ""
+}

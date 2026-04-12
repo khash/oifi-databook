@@ -1,0 +1,21 @@
+{
+  "entity_id": "ebrahim-raisi-appointed-ali-akbar-ahmadian",
+  "from_entity": "ebrahim-raisi",
+  "to_entity": "ali-akbar-ahmadian",
+  "type": "appointed",
+  "confidence": "confirmed",
+  "date_from": "2023-05-22",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Akbar_Ahmadian",
+      "source_title": "Ali Akbar Ahmadian — Wikipedia",
+      "source_date": "2026-04-12",
+      "description": "President Ebrahim Raisi appointed Ahmadian Secretary of the Supreme National Security Council on 22 May 2023, replacing Ali Shamkhani."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "SNSC Secretary appointment."
+}

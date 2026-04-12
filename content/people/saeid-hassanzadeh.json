@@ -1,0 +1,30 @@
+{
+  "entity_id": "saeid-hassanzadeh",
+  "slug": "saeid-hassanzadeh",
+  "name_en": "Saeid Hassanzadeh",
+  "name_fa": "سعید حسن‌زاده",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Iranian diplomat expelled from Albania (2020); alleged MOIS operative",
+  "faction": "hardliner",
+  "irgc_member": false,
+  "bio": "Saeid Hassanzadeh was an Iranian diplomat stationed in Albania who was expelled in January 2020 in the second wave of Albanian expulsions of Iranian intelligence personnel — the first having been the expulsion of Gholamhossein Mohammadnia in 2018. Albanian authorities alleged that Hassanzadeh operated as a Ministry of Intelligence and Security (MOIS) officer tasked with surveillance and targeting operations against members of the Mojahedin-e Khalq ([MEK](/orgs/mojahedin-e-khalq)) at their Ashraf-3 compound near Manez.",
+  "expertise": [
+    "intelligence"
+  ],
+  "tags": [
+    "intelligence"
+  ],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.state.gov/",
+      "title": "U.S. State Department — Albania expulsions",
+      "date": "2020-01-01",
+      "publisher": "U.S. Department of State"
+    }
+  ],
+  "editorial_notes": "Expulsion confirmed. MOIS operative status is the Albanian government's allegation. Do not link to Gholamhossein Mohammadnia — that entity is being created separately."
+}

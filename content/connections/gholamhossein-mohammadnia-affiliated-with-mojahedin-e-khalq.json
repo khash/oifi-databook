@@ -1,0 +1,21 @@
+{
+  "entity_id": "gholamhossein-mohammadnia-affiliated-with-mojahedin-e-khalq",
+  "from_entity": "gholamhossein-mohammadnia",
+  "to_entity": "mojahedin-e-khalq",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": "2016-01-01",
+  "date_to": "2018-12-20",
+  "evidence": [
+    {
+      "source_url": "https://www.rferl.org/a/albania-expels-iranian-ambassador-over-national-security/29652432.html",
+      "source_title": "Albania Expels Iranian Ambassador Over 'National Security' Concerns",
+      "source_date": "2018-12-20",
+      "description": "Albania expelled Mohammadnia for alleged plot against MEK members at Camp Ashraf-3."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Connection captures the alleged plot against MEK members that led to his expulsion."
+}

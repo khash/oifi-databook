@@ -1,0 +1,30 @@
+{
+  "entity_id": "evin-prison",
+  "slug": "evin-prison",
+  "name_en": "Evin Prison",
+  "name_fa": "زندان اوین",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 1972,
+  "dissolved": null,
+  "parent_org": "ministry-of-justice",
+  "description": "Evin Prison (Zendan-e Evin) is Tehran's most notorious detention facility, located in the Evin district of northwestern Tehran. Built under the Shah in 1972, it has under both regimes held political prisoners, dissidents, journalists, dual nationals, and activists. Under the Islamic Republic it became synonymous with forced confessions, torture, solitary confinement, and the mass executions of the [1988 prison massacre](/events/mass-executions-1988). Ward 209, run by the [Ministry of Intelligence](/orgs/ministry-of-intelligence), houses intelligence detainees and is a site of systematic psychological and physical abuse documented extensively by human rights organizations. Numerous figures in this database have been detained at Evin.",
+  "faction": null,
+  "tags": ["human-rights", "judiciary"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Evin_Prison",
+      "title": "Evin Prison — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.amnesty.org/en/location/middle-east-and-north-africa/iran/",
+      "title": "Iran — Amnesty International",
+      "date": "2024-01-01",
+      "publisher": "Amnesty International"
+    }
+  ],
+  "editorial_notes": "Ward 209 operated by MOIS, Ward 240 by IRGC intelligence. Both run within the same facility nominally under Judiciary/Ministry of Justice."
+}

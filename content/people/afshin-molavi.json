@@ -1,0 +1,33 @@
+{
+  "entity_id": "afshin-molavi",
+  "slug": "afshin-molavi",
+  "name_en": "Afshin Molavi",
+  "name_fa": "افشین ملوی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "died": null,
+  "role": "Senior Fellow, Johns Hopkins Foreign Policy Institute; founder, Emerging World",
+  "faction": null,
+  "bio": "Afshin Molavi is a senior fellow at the Johns Hopkins Foreign Policy Institute and the founder of Emerging World, a research and advisory initiative focused on emerging-market economies with particular attention to the Gulf and Middle East. He is a former fellow at the New America Foundation and has held positions at the Arab Gulf States Institute in Washington.\n\nHis book *Persian Pilgrimages: Journeys Across Iran* (2002, later republished as *The Soul of Iran*) was an acclaimed journalistic account of Iranian society in the reform era, drawn from extensive travel inside Iran during the Khatami period. The book captured the tension between Iran's cosmopolitan, modernizing urban society and the constraints imposed by the Islamic Republic's political system.\n\nMolavi's analytical framework situates Iran within wider emerging-market and Gulf economic dynamics, focusing on trade, investment, energy, and sanctions as tools of economic statecraft. He writes frequently on Gulf-Iran tensions, the role of China and Russia in the Iranian economy, and the Gulf states' evolving strategies toward the Islamic Republic. His commentary appears in Foreign Affairs, the Wall Street Journal, and other major outlets. He is associated with the [Arab Gulf States Institute in Washington](/orgs/arab-gulf-states-institute) and takes a centrist analytical approach, neither strongly hawkish nor accommodation-oriented.",
+  "irgc_member": false,
+  "expertise": ["Iran political economy", "Gulf states", "sanctions", "emerging markets", "Iran-Gulf dynamics"],
+  "tags": ["in-exile"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://agsiw.org/fellows/afshin-molavi/",
+      "title": "Afshin Molavi — Arab Gulf States Institute in Washington",
+      "date": "2024-01-01",
+      "publisher": "Arab Gulf States Institute in Washington"
+    },
+    {
+      "url": "https://foreignpolicy.com/author/afshin-molavi/",
+      "title": "Afshin Molavi — Foreign Policy",
+      "date": "2024-01-01",
+      "publisher": "Foreign Policy"
+    }
+  ],
+  "editorial_notes": ""
+}

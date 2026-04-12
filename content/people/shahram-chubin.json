@@ -1,0 +1,33 @@
+{
+  "entity_id": "shahram-chubin",
+  "slug": "shahram-chubin",
+  "name_en": "Shahram Chubin",
+  "name_fa": "شهرام چوبین",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1943,
+  "birthplace": "Iran",
+  "died": null,
+  "role": "Veteran strategic studies scholar; former director of research, Geneva Centre for Security Policy",
+  "faction": null,
+  "bio": "Shahram Chubin is a veteran strategic studies scholar and one of the foremost English-language analysts of Iranian security and nuclear policy. He served for many years as director of research at the Geneva Centre for Security Policy (GCSP), a Swiss research institute focused on arms control and international security. He was also a long-serving researcher at the International Institute for Strategic Studies (IISS) in London.\n\nChubin began writing on Iranian security and foreign policy in the 1970s, making him among the earliest Western academics to systematically analyze the Islamic Republic's strategic posture. His major works include *Iran's Nuclear Ambitions* (2006, Carnegie Endowment) and *Whither Iran? Reform, Domestic Politics and National Security* (2002, IISS), as well as numerous reports for Carnegie and IISS on Iran's nuclear program, deterrence calculations, and the interaction between domestic politics and foreign policy.\n\nHis analytical framework is realist and security-focused: he treats Iranian nuclear decision-making as driven primarily by security calculations, regime legitimacy imperatives, and deterrence logic rather than purely ideological motivations. He has consistently argued that understanding Iran's strategic incentives is a prerequisite for effective diplomacy. His career represents the foundation of the English-language academic literature on Iran's nuclear and security policy.",
+  "irgc_member": false,
+  "expertise": ["Iran nuclear program", "Iranian security policy", "arms control", "deterrence", "strategic studies"],
+  "tags": ["in-exile"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://carnegieendowment.org/research/2006/01/irans-nuclear-ambitions",
+      "title": "Iran's Nuclear Ambitions — Carnegie Endowment",
+      "date": "2006-01-01",
+      "publisher": "Carnegie Endowment for International Peace"
+    },
+    {
+      "url": "https://www.iiss.org/publications/strategic-dossiers/whither-iran",
+      "title": "Whither Iran? — IISS",
+      "date": "2002-01-01",
+      "publisher": "IISS"
+    }
+  ],
+  "editorial_notes": "Deceased status unconfirmed as of April 2026. Treated as alive pending verification."
+}

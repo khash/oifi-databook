@@ -1,0 +1,33 @@
+{
+  "entity_id": "mohammad-ayatollahi-tabaar",
+  "slug": "mohammad-ayatollahi-tabaar",
+  "name_en": "Mohammad Ayatollahi Tabaar",
+  "name_fa": "محمد آیت‌اللهی طبار",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "died": null,
+  "role": "Associate Professor, Texas A&M Bush School of Government and Public Service",
+  "faction": null,
+  "bio": "Mohammad Ayatollahi Tabaar is an associate professor at the Texas A&M Bush School of Government and Public Service, where he specializes in Iranian politics, Middle East security, and the political use of religion. He is the author of *Religious Statecraft: The Politics of Islam in Iran* (2018, Columbia University Press), which argues that Iran's ruling clerics have strategically deployed religious ideology as a tool of factional competition and state consolidation rather than as a genuine expression of theological conviction — a revisionist interpretation of the Islamic Republic's internal dynamics.\n\nHis research focuses on intra-regime factional politics within Iran: how hardliner, pragmatist, and reformist factions compete for power, the role of the supreme leader as arbiter, and how domestic political incentives shape Iran's foreign and nuclear policies. He has written on Iranian nuclear decision-making, IRGC influence over politics, and the interaction between electoral competition and ideological signaling within the IRI system.\n\nAyatollahi Tabaar writes for academic journals and policy outlets including the Washington Quarterly, Foreign Affairs, and War on the Rocks. His analytical framework is empirically grounded and does not advocate particular policy positions, making him a relatively neutral academic voice on IRI factional politics.",
+  "irgc_member": false,
+  "expertise": ["Iranian factional politics", "religious statecraft", "Iran nuclear policy", "Middle East security"],
+  "tags": [],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://bush.tamu.edu/scis/people/mohammad-ayatollahi-tabaar/",
+      "title": "Mohammad Ayatollahi Tabaar — Texas A&M Bush School",
+      "date": "2024-01-01",
+      "publisher": "Texas A&M University"
+    },
+    {
+      "url": "https://cup.columbia.edu/book/religious-statecraft/9780231181341",
+      "title": "Religious Statecraft: The Politics of Islam in Iran",
+      "date": "2018-01-01",
+      "publisher": "Columbia University Press"
+    }
+  ],
+  "editorial_notes": ""
+}

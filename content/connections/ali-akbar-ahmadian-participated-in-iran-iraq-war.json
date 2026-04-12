@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-akbar-ahmadian-participated-in-iran-iraq-war",
+  "from_entity": "ali-akbar-ahmadian",
+  "to_entity": "iran-iraq-war",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1980",
+  "date_to": "1988",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Akbar_Ahmadian",
+      "source_title": "Ali Akbar Ahmadian — Wikipedia",
+      "source_date": "2026-04-12",
+      "description": "Joined the IRGC at the outbreak of the Iran-Iraq War and served through the conflict."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": null
+}

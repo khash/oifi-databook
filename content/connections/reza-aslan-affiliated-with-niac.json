@@ -1,0 +1,21 @@
+{
+  "entity_id": "reza-aslan-affiliated-with-niac",
+  "from_entity": "reza-aslan",
+  "to_entity": "niac",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://niac.net/about/board/",
+      "source_title": "NIAC Board of Directors",
+      "source_date": "2015-01-01",
+      "description": "Reza Aslan served on the board of directors of the National Iranian American Council (NIAC)."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

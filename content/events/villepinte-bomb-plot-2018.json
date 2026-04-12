@@ -1,0 +1,25 @@
+{
+  "entity_id": "villepinte-bomb-plot-2018",
+  "slug": "villepinte-bomb-plot-2018",
+  "name": "2018 Villepinte Bomb Plot",
+  "date": "2018-06-30",
+  "type": "indictment",
+  "description": "On 30 June 2018, Belgian, French, and German intelligence services jointly foiled a MOIS plot to bomb the annual Free Iran gathering of the National Council of Resistance of Iran (NCRI/MEK) at the Villepinte exhibition centre near Paris. The attack was planned by [Assadollah Assadi](/people/assadollah-assadi), a MOIS Department 312 officer operating under diplomatic cover as third secretary at the Iranian Embassy in Vienna. Assadi had recruited a Belgian-Iranian couple to plant the explosive device. The couple were arrested near Brussels with 500 grams of TATP and a detonator. The event drew tens of thousands of attendees and numerous Western politicians. Assadi was arrested on the German motorway while travelling on his Iranian diplomatic passport. In February 2021, an Antwerp court convicted Assadi to 20 years in prison — the first conviction of an Iranian diplomat-intelligence officer for directing a terrorist attack on European soil. He was exchanged in a prisoner swap in May 2023 for Belgian aid worker Olivier Vandecasteele.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://www.politico.eu/article/belgium-sentences-iranian-diplomat-assadollah-assadi-20-years-prison-bomb-plot/",
+      "title": "Belgium sentences Iranian diplomat to 20 years for bomb plot",
+      "date": "2021-02-04",
+      "publisher": "Politico"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2018_Villepinte_bomb_plot",
+      "title": "2018 Villepinte bomb plot — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": ["intelligence", "sanctions", "proxy-warfare"],
+  "editorial_notes": "Foiled June 30 2018. Assadi convicted February 4 2021. Swapped for Vandecasteele May 2023."
+}

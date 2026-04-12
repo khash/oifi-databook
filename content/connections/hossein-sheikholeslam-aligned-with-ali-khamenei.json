@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-sheikholeslam-aligned-with-ali-khamenei",
+  "from_entity": "hossein-sheikholeslam",
+  "to_entity": "ali-khamenei",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hossein_Sheikh-ol-Eslam",
+      "source_title": "Hossein Sheikh-ol-Eslam — Wikipedia",
+      "source_date": null,
+      "description": "Sheikholeslam was a consistent ally of Khamenei and advocate for the resistance axis throughout his career."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

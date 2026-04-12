@@ -1,0 +1,21 @@
+{
+  "entity_id": "seyed-ali-marandi-family-of-mohammad-marandi",
+  "from_entity": "seyed-ali-marandi",
+  "to_entity": "mohammad-marandi",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Marandi",
+      "source_title": "Mohammad Marandi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Mohammad Marandi is the son of Seyed Ali Marandi, Khamenei's personal physician and former Minister of Health."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "parent",
+  "editorial_notes": "Seyed Ali Marandi is the parent; Mohammad Marandi is the child. family_subtype from parent's perspective."
+}

@@ -1,0 +1,22 @@
+{
+  "entity_id": "mohammad-marandi-affiliated-with-rt-russia-today",
+  "from_entity": "mohammad-marandi",
+  "to_entity": "rt-russia-today",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.rt.com/",
+      "source_title": "RT — Mohammad Marandi appearances",
+      "source_date": "2024-01-01",
+      "description": "Mohammad Marandi regularly appears on RT as a commentator presented as an independent analyst, while holding positions aligned with the Iranian regime."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": [],
+  "editorial_notes": ""
+}

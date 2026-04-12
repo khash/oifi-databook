@@ -1,0 +1,24 @@
+{
+  "entity_id": "belfer-center",
+  "slug": "belfer-center",
+  "name_en": "Belfer Center for Science and International Affairs",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 1973,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Harvard Kennedy School's flagship research center on international security, nuclear policy, and science diplomacy. Has hosted Iranian diaspora scholars and, at various points, regime-adjacent figures including [Kayhan Barzegar](/people/kayhan-barzegar) on visiting fellowships, making it a node in Iranian attempts to conduct Track II and academic diplomacy with Western institutions.",
+  "faction": null,
+  "tags": [],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.belfercenter.org/",
+      "title": "Belfer Center for Science and International Affairs",
+      "date": "2024-01-01",
+      "publisher": "Harvard Kennedy School"
+    }
+  ],
+  "editorial_notes": ""
+}

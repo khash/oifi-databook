@@ -1,0 +1,14 @@
+{
+  "entity_id": "vatan-e-emroz-newspaper-affiliated-with-mashregh-news",
+  "from_entity": "vatan-e-emroz-newspaper",
+  "to_entity": "mashregh-news",
+  "type": "affiliated-with",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

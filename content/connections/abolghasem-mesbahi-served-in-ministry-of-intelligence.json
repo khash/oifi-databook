@@ -1,0 +1,21 @@
+{
+  "entity_id": "abolghasem-mesbahi-served-in-ministry-of-intelligence",
+  "from_entity": "abolghasem-mesbahi",
+  "to_entity": "ministry-of-intelligence",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/1994_AMIA_bombing",
+      "source_title": "1994 AMIA bombing — Wikipedia",
+      "source_date": null,
+      "description": "Mesbahi is identified as a former senior MOIS officer who defected in the 1990s."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

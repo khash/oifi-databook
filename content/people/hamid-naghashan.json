@@ -1,0 +1,30 @@
+{
+  "entity_id": "hamid-naghashan",
+  "slug": "hamid-naghashan",
+  "name_en": "Hamid Naghashan",
+  "name_fa": "حمید نقاشان",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Alleged MOIS officer; operated from Iranian Embassy Vienna",
+  "faction": "hardliner",
+  "irgc_member": false,
+  "bio": "Hamid Naghashan is alleged in Belgian and Austrian intelligence reporting to have operated as a Ministry of Intelligence and Security (MOIS) officer from the Iranian Embassy in Vienna. He has been named in connection with the Assadollah Assadi case — a network of Iranian intelligence activity in Europe. He maintains a low public profile and details remain limited to intelligence and law-enforcement reporting. All connections are alleged.",
+  "expertise": [
+    "intelligence"
+  ],
+  "tags": [
+    "intelligence"
+  ],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.judiciary.be/",
+      "title": "Belgian Federal Prosecution — Assadi case",
+      "date": "2021-01-01",
+      "publisher": "Belgian Federal Prosecution Service"
+    }
+  ],
+  "editorial_notes": "Low-profile. All intelligence connections are alleged based on Belgian/Austrian reporting. Do not link to Assadollah Assadi — that entity is being created separately."
+}

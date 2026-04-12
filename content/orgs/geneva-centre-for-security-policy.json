@@ -1,0 +1,24 @@
+{
+  "entity_id": "geneva-centre-for-security-policy",
+  "slug": "geneva-centre-for-security-policy",
+  "name_en": "Geneva Centre for Security Policy (GCSP)",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 1995,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Swiss international security policy foundation based in Geneva, established under Swiss federal law with support from over 50 states. Long-time research home of Shahram Chubin, a prominent Iranian-Swiss scholar on Iranian nuclear policy, regional security, and Iran's strategic culture. The GCSP runs executive education and policy research programs drawing participants from governments and international organizations worldwide.",
+  "faction": null,
+  "tags": [],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.gcsp.ch/",
+      "title": "Geneva Centre for Security Policy — About",
+      "date": "2024-01-01",
+      "publisher": "Geneva Centre for Security Policy"
+    }
+  ],
+  "editorial_notes": ""
+}

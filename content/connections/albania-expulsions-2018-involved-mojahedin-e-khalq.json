@@ -1,0 +1,21 @@
+{
+  "entity_id": "albania-expulsions-2018-involved-mojahedin-e-khalq",
+  "from_entity": "albania-expulsions-iranian-diplomats-2018",
+  "to_entity": "mojahedin-e-khalq",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2018-12-20",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.rferl.org/a/albania-expels-iranian-ambassador-over-national-security/29652432.html",
+      "source_title": "Albania Expels Iranian Ambassador Over 'National Security' Concerns",
+      "source_date": "2018-12-20",
+      "description": "The expulsions were precipitated by alleged Iranian plots against MEK members at Camp Ashraf-3 in Albania."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

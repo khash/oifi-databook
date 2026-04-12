@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohsen-rabbani-affiliated-with-islamic-cultural-institute-buenos-aires",
+  "from_entity": "mohsen-rabbani",
+  "to_entity": "islamic-cultural-institute-buenos-aires",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "1994-01-01",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohsen_Rabbani",
+      "source_title": "Mohsen Rabbani — Wikipedia",
+      "source_date": null,
+      "description": "Rabbani operated from the Islamic Cultural Institute of Buenos Aires as Iran's cultural attaché."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

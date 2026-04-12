@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-sheikholeslam-affiliated-with-hezbollah",
+  "from_entity": "hossein-sheikholeslam",
+  "to_entity": "hezbollah",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "1982-01-01",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hossein_Sheikh-ol-Eslam",
+      "source_title": "Hossein Sheikh-ol-Eslam — Wikipedia",
+      "source_date": null,
+      "description": "Sheikholeslam is credited by researchers with involvement in co-founding Lebanese Hezbollah in the early 1980s."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

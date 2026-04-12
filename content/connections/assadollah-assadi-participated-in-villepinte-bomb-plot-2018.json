@@ -1,0 +1,21 @@
+{
+  "entity_id": "assadollah-assadi-participated-in-villepinte-bomb-plot-2018",
+  "from_entity": "assadollah-assadi",
+  "to_entity": "villepinte-bomb-plot-2018",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2018-06-30",
+  "date_to": "2018-06-30",
+  "evidence": [
+    {
+      "source_url": "https://www.politico.eu/article/belgium-sentences-iranian-diplomat-assadollah-assadi-20-years-prison-bomb-plot/",
+      "source_title": "Belgium sentences Iranian diplomat to 20 years for bomb plot",
+      "source_date": "2021-02-04",
+      "description": "Assadi was convicted in Antwerp for planning and directing the Villepinte bomb plot."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

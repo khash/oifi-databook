@@ -1,0 +1,14 @@
+{
+  "entity_id": "vatan-e-emroz-newspaper-affiliated-with-raja-news",
+  "from_entity": "vatan-e-emroz-newspaper",
+  "to_entity": "raja-news",
+  "type": "affiliated-with",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

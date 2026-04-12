@@ -1,0 +1,21 @@
+{
+  "entity_id": "nader-hashemi-affiliated-with-niac",
+  "from_entity": "nader-hashemi",
+  "to_entity": "niac",
+  "type": "affiliated-with",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://acmcu.georgetown.edu/people/nader-hashemi/",
+      "source_title": "Nader Hashemi — Georgetown University",
+      "source_date": "2024-01-01",
+      "description": "Hashemi has been associated with NIAC on some advocacy efforts, though he is primarily identified with a liberal-democratic human rights framework rather than accommodation-oriented engagement."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

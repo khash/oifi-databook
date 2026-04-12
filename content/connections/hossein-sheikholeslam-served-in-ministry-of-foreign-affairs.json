@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-sheikholeslam-served-in-ministry-of-foreign-affairs",
+  "from_entity": "hossein-sheikholeslam",
+  "to_entity": "ministry-of-foreign-affairs",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1981-01-01",
+  "date_to": "2020-03-26",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hossein_Sheikh-ol-Eslam",
+      "source_title": "Hossein Sheikh-ol-Eslam — Wikipedia",
+      "source_date": null,
+      "description": "Sheikholeslam served 17 years as Deputy Foreign Minister for Political Affairs and as ambassador to Syria 1998–2003."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

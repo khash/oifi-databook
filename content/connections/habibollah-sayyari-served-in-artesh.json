@@ -1,0 +1,21 @@
+{
+  "entity_id": "habibollah-sayyari-served-in-artesh",
+  "from_entity": "habibollah-sayyari",
+  "to_entity": "artesh",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Habibollah_Sayyari",
+      "source_title": "Habibollah Sayyari — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Habibollah Sayyari is a career Artesh (conventional armed forces) officer who rose to command the Artesh Navy and later served as Deputy Chief of Staff for Coordination."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

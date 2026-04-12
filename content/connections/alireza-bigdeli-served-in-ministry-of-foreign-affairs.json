@@ -1,0 +1,22 @@
+{
+  "entity_id": "alireza-bigdeli-served-in-ministry-of-foreign-affairs",
+  "from_entity": "alireza-bigdeli",
+  "to_entity": "ministry-of-foreign-affairs",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2016",
+  "date_to": "2021",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Alireza_Bigdeli",
+      "source_title": "Alireza Bigdeli",
+      "source_date": "2024-01-01",
+      "description": "Alireza Bigdeli served as Iranian Ambassador to Azerbaijan (2016–2021) and Ukraine."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": ["diplomacy"],
+  "editorial_notes": ""
+}

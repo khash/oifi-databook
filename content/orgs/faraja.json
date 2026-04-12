@@ -1,0 +1,30 @@
+{
+  "entity_id": "faraja",
+  "slug": "faraja",
+  "name_en": "FARAJA (Law Enforcement Command of the Islamic Republic of Iran)",
+  "name_fa": "فرماندهی انتظامی جمهوری اسلامی ایران",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 1991,
+  "dissolved": null,
+  "parent_org": "ministry-of-interior",
+  "description": "FARAJA (Farmandehi-ye Entezami-ye Jomhuri-ye Eslami-ye Iran) is Iran's national police and law enforcement command, established in 1991 by merging the Gendarmerie, national police, and Revolutionary Committees. It is responsible for public order, traffic enforcement, border control, and combating drug trafficking. FARAJA is distinct from both the IRGC and the Artesh; it operates under the Interior Ministry but its commander is appointed by the Supreme Leader. FARAJA was heavily involved in suppressing the Woman, Life, Freedom protests in 2022-2023, including the arrest of Mahsa Amini by its 'guidance patrol' (Gasht-e Ershad) that triggered the uprising.",
+  "faction": null,
+  "tags": ["military"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Law_Enforcement_Command_of_Islamic_Republic_of_Iran",
+      "title": "Law Enforcement Command of Islamic Republic of Iran — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://iranhr.net/en/articles/5811/",
+      "title": "Iran Human Rights — FARAJA and the crackdown on protests",
+      "date": "2022-11-01",
+      "publisher": "Iran Human Rights"
+    }
+  ],
+  "editorial_notes": "FARAJA is the national police; not to be confused with IRGC. Commander appointed by Supreme Leader despite formal Interior Ministry affiliation."
+}

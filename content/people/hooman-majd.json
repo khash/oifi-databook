@@ -1,0 +1,33 @@
+{
+  "entity_id": "hooman-majd",
+  "slug": "hooman-majd",
+  "name_en": "Hooman Majd",
+  "name_fa": "هومن مجد",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1957,
+  "birthplace": "Tehran, Iran",
+  "died": null,
+  "role": "Journalist and author; Iran commentator",
+  "faction": null,
+  "bio": "Hooman Majd is an Iranian-American journalist and author based in the United States. He was born in Tehran and is the grandson of a senior Shia ayatollah and the nephew of Sadegh Kharrazi, a former Iranian diplomat who served as Iran's ambassador to France and held senior positions in the Iranian Foreign Ministry. This family connection gives Majd rare inside access to the upper reaches of the Islamic Republic's elite that few diaspora writers possess.\n\nHis most well-known book, *The Ayatollah Begs to Differ: The Paradox of Modern Iran* (2008), offered a nuanced insider-outsider portrait of Iranian society and the Islamic Republic's governing class, drawing on his personal access to both reformist and conservative IRI figures. His subsequent books include *The Ayatollahs' Democracy: An Iranian Challenge* (2010) and *The Ministry of Guidance Invites You to Not Stay: An American Family in Iran* (2013), the latter based on a year spent living in Tehran with his wife.\n\nMajd's framing is consistently moderate-to-dovish: he tends to contextualize IRI behavior as more pragmatic and internally divided than Western caricatures suggest, argues against military action or maximum-pressure strategies, and portrays the Islamic Republic's governing elite as rational actors. His family connections to the IRI establishment make his perspective genuinely distinctive, while also making it important to note that his analysis reflects access granted partly by those connections.\n\nHe writes for The New Yorker, the Guardian, and other publications and appears regularly as a commentator on Iran in American media.",
+  "irgc_member": false,
+  "expertise": ["Iranian elite politics", "IRI establishment", "US-Iran relations", "Iranian society"],
+  "tags": ["in-exile"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.penguinrandomhouse.com/books/301623/the-ayatollah-begs-to-differ-by-hooman-majd/",
+      "title": "The Ayatollah Begs to Differ — Penguin Random House",
+      "date": "2008-01-01",
+      "publisher": "Penguin Random House"
+    },
+    {
+      "url": "https://www.newyorker.com/contributors/hooman-majd",
+      "title": "Hooman Majd — The New Yorker",
+      "date": "2024-01-01",
+      "publisher": "The New Yorker"
+    }
+  ],
+  "editorial_notes": "Grandson of Ayatollah Majd. Nephew of Sadegh Kharrazi (former IRI ambassador to France). This family connection is editorially relevant context for his insider access and moderate-dovish framing."
+}

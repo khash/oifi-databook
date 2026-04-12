@@ -1,0 +1,22 @@
+{
+  "entity_id": "holly-dagres-affiliated-with-atlantic-council",
+  "from_entity": "holly-dagres",
+  "to_entity": "atlantic-council",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.atlanticcouncil.org/expert/holly-dagres/",
+      "source_title": "Holly Dagres — Atlantic Council",
+      "source_date": "2024-01-01",
+      "description": "Holly Dagres served as a senior fellow at the Atlantic Council's Middle East Programs."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": [],
+  "editorial_notes": ""
+}

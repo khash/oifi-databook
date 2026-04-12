@@ -12,7 +12,7 @@
   "birthplace": "Tehran",
   "role": "Professor, University of Tehran; official adviser to Iran's nuclear negotiating delegation",
   "faction": "hardliner",
-  "bio": "Mohammad Marandi is a professor of English literature at the [University of Tehran](/orgs/university-of-tehran) and a documented regime spokesperson who presents himself on Western media as an independent academic analyst. [IranWire](/orgs/iranwire) has described him as \"Iran's chief propagandist in English\"; [Iran International](/orgs/iran-international) calls him a regime \"mouthpiece.\"\n\nMarandi served as an **official adviser to Iran's nuclear negotiations delegation in Vienna**, a role he held through the 2021–2022 JCPOA revival talks. His presence at the negotiating table was confirmed by multiple diplomatic correspondents. Despite this official government position, he continued to appear on the BBC, CNN, Al Jazeera, Channel 4, and RT billed as an \"independent analyst\" — a framing that misrepresents his formal advisory status.\n\nIn 2023, the *Jewish Chronicle* published a photograph of Marandi in **[Iranian Revolutionary Guard Corps (IRGC)](/orgs/islamic-revolutionary-guard-corps) uniform**, indicating a military affiliation beyond his academic and advisory roles.\n\nMarandi's **father, Seyed Ali Marandi**, is [Ali Khamenei](/people/ali-khamenei)'s personal physician — a familial proximity to the Supreme Leader that informs Marandi's access and institutional standing.\n\nMarandi is a regular defender of Iranian state positions across international broadcast media, including during periods of mass protests (2009, 2019, 2022) and following the killing of Iranian commanders. His appearances consistently track with Islamic Republic official lines.",
+  "bio": "Mohammad Marandi is a professor of English literature at the [University of Tehran](/orgs/university-of-tehran) and a documented regime spokesperson who presents himself on Western media as an independent academic analyst. [IranWire](/orgs/iranwire) has described him as \"Iran's chief propagandist in English\"; [Iran International](/orgs/iran-international) calls him a regime \"mouthpiece.\"\n\nMarandi served as an **official adviser to Iran's nuclear negotiations delegation in Vienna**, a role he held through the 2021–2022 JCPOA revival talks. His presence at the negotiating table was confirmed by multiple diplomatic correspondents. Despite this official government position, he continued to appear on the BBC, CNN, Al Jazeera, Channel 4, and RT billed as an \"independent analyst\" — a framing that misrepresents his formal advisory status.\n\nIn October 2024, the *Jewish Chronicle* published a photograph of Marandi in **[Iranian Revolutionary Guard Corps (IRGC)](/orgs/islamic-revolutionary-guard-corps) uniform**, indicating a military affiliation beyond his academic and advisory roles.\n\nMarandi's **father, Seyed Ali Marandi**, is [Ali Khamenei](/people/ali-khamenei)'s personal physician — a familial proximity to the Supreme Leader that informs Marandi's access and institutional standing.\n\nMarandi is a regular defender of Iranian state positions across international broadcast media, including during periods of mass protests (2009, 2019, 2022) and following the killing of Iranian commanders. His appearances consistently track with Islamic Republic official lines.",
   "irgc_member": true,
   "expertise": [
     "media appearances",
@@ -21,15 +21,15 @@
   ],
   "sources": [
     {
-      "url": "https://iranwire.com/en/features/67965",
-      "title": "Seyyed Mohammad Marandi: Iran's Chief Propagandist in English",
-      "date": "2022-01-01",
+      "url": "https://iranwire.com/en/features/134892-who-is-mohammad-marandi-irans-chief-propagandist-in-english/",
+      "title": "Who is Mohammad Marandi, Iran's Chief Propagandist in English?",
+      "date": "2024-01-01",
       "publisher": "IranWire"
     },
     {
-      "url": "https://www.thejc.com/news/world/irans-nuclear-negotiator-photographed-in-irgc-uniform-vqvimqoh",
-      "title": "Iran's nuclear negotiator photographed in IRGC uniform",
-      "date": "2023-01-01",
+      "url": "https://www.thejc.com/news/uk/photo-reveals-iranian-academic-platformed-by-bbc-as-proud-irgc-fighter-ong4d3lo",
+      "title": "BBC Iranian expert who ranted about 'chosen people' pictured in IRGC uniform",
+      "date": "2024-10-11",
       "publisher": "Jewish Chronicle"
     }
   ],
@@ -39,5 +39,5 @@
     "military"
   ],
   "photo": null,
-  "editorial_notes": "IRGC uniform photograph published by Jewish Chronicle 2023. Father is Khamenei's physician. Official nuclear negotiations adviser confirmed Vienna 2021-2022. IranWire and Iran International both label him regime propagandist. Platformed by BBC, CNN, Al Jazeera, Channel 4 as independent — this framing is disputed."
+  "editorial_notes": "IRGC uniform photograph published by Jewish Chronicle October 2024 (not 2023 as earlier drafts claimed). Father Seyed Ali Marandi is Khamenei's physician. Official nuclear negotiations adviser confirmed Vienna 2021-2022 under Rouhani and Raisi. IranWire and Iran International both label him regime propagandist. Platformed by BBC, CNN, Al Jazeera, Channel 4 as independent — this framing is disputed."
 }

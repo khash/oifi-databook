@@ -28,6 +28,17 @@ const fullTitle = title === "OIFI Databook" ? title : `${title} | OIFI Databook`
   <head>
     <ClientRouter />
     <meta charset="utf-8" />
+    <!-- Google tag (gtag.js) -->
+    <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-NNDTHGNWJ2"></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-NNDTHGNWJ2');
+      document.addEventListener('astro:page-load', () => {
+        gtag('config', 'G-NNDTHGNWJ2', { page_path: location.pathname + location.search });
+      });
+    </script>
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />

@@ -1,0 +1,700 @@
+# Broken Links
+
+Last updated: 2026-04-13  
+Total: 168
+
+## HTTP 400 (1)
+
+- https://www.makaremshirazi.org/english/others/sobhani.php
+  - `content/people/jafar-sobhani.json`
+  - *last checked: 2026-04-13*
+
+## HTTP 401 (3)
+
+- https://www.reuters.com/world/middle-east/
+  - `content/people/gholamreza-rezaian.json`
+  - *last checked: 2026-04-13*
+- https://www.reuters.com/world/middle-east/ibrahim-aqil-hezbollah-commander-killed-beirut-israeli-strike-2024-09-20/
+  - `content/people/ibrahim-aqil.json`
+  - `content/connections/davoud-alizadeh-succeeded-ibrahim-aqil.json`
+  - `content/connections/ibrahim-aqil-led-irgc-quds-force-lebanon-corps.json`
+  - *last checked: 2026-04-13*
+- https://www.reuters.com/world/middle-east/who-was-ibrahim-aqil-senior-hezbollah-commander-killed-israel-2024-09-20/
+  - `content/orgs/irgc-quds-force-lebanon-corps.json`
+  - `content/connections/irgc-quds-force-lebanon-corps-coordinated-with-hezbollah.json`
+  - *last checked: 2026-04-13*
+
+## HTTP 403 (49)
+
+- https://www.timesofisrael.com/
+  - `content/people/ahmad-rasouli.json`
+  - `content/people/gholamreza-rezaian.json`
+  - `content/connections/ahmad-rasouli-led-irgc-quds-force-palestine-corps.json`
+  - `content/connections/gholamreza-rezaian-headed-faraja.json`
+  - *last checked: 2026-04-13*
+- https://www.timesofisrael.com/iranian-nuclear-scientists-killed-in-israeli-strikes/
+  - `content/people/akbar-motallebzadeh.json`
+  - `content/people/ali-bahuei-katirimi.json`
+  - `content/people/mansour-asgari.json`
+  - `content/people/saeed-borji.json`
+  - *last checked: 2026-04-13*
+- https://www.mei.edu/profile/alex-vatanka
+  - `content/people/alex-vatanka.json`
+  - `content/connections/alex-vatanka-affiliated-with-middle-east-institute.json`
+  - *last checked: 2026-04-13*
+- https://iranwire.com/en/news/144584-irgc-appoints-ali-abdollahi-as-new-commander-of-khatam-al-anbiya-headquarters/
+  - `content/people/ali-abdollahi-aliabadi.json`
+  - `content/connections/ali-abdollahi-aliabadi-headed-khatam-al-anbiya-central-headquarters.json`
+  - `content/connections/ali-abdollahi-aliabadi-reports-to-ali-shadmani.json`
+  - `content/connections/ali-abdollahi-aliabadi-reports-to-gholam-ali-rashid.json`
+  - *last checked: 2026-04-13*
+- https://www.axios.com/2026/04/us-expels-iranian-diplomat-un-mission
+  - `content/people/ali-reza-shahvaroghi-farahani.json`
+  - `content/connections/ali-reza-shahvaroghi-farahani-served-in-iran-permanent-mission-un.json`
+  - *last checked: 2026-04-13*
+- https://english.alarabiya.net/News/middle-east/2025/06/25/irgc-commander-ali-shadmani-dies-of-injuries-from-israeli-attacks-iran-confirms
+  - `content/people/ali-shadmani.json`
+  - `content/connections/ali-shadmani-subject-of-israeli-strikes-iran-june-2025.json`
+  - *last checked: 2026-04-13*
+- https://www.cambridge.org/us/universitypress/subjects/politics-international-relations/middle-east-politics/bazaar-and-state-iran
+  - `content/people/arang-keshavarzian.json`
+  - *last checked: 2026-04-13*
+- https://www.fdd.org/team/behnam-ben-taleblu/
+  - `content/people/behnam-ben-taleblu.json`
+  - `content/connections/behnam-ben-taleblu-affiliated-with-fdd.json`
+  - `content/connections/behnam-ben-taleblu-subject-of-irgc.json`
+  - *last checked: 2026-04-13*
+- https://www.mhpbooks.com/books/the-people-reloaded/
+  - `content/people/danny-postel.json`
+  - `content/connections/danny-postel-coordinated-with-nader-hashemi.json`
+  - *last checked: 2026-04-13*
+- https://www.timesofisrael.com/idf-says-it-killed-senior-irgc-quds-force-commander-in-strike-on-tehran/
+  - `content/people/davoud-alizadeh.json`
+  - `content/connections/davoud-alizadeh-coordinated-with-hezbollah.json`
+  - `content/connections/davoud-alizadeh-led-irgc-quds-force-lebanon-corps.json`
+  - *last checked: 2026-04-13*
+- https://www.gc.cuny.edu/people/ervand-abrahamian
+  - `content/people/ervand-abrahamian.json`
+  - *last checked: 2026-04-13*
+- https://www.cambridge.org/us/universitypress/subjects/politics-international-relations/middle-east-politics/revolution-and-its-discontents
+  - `content/people/eskandar-sadeghi-boroujerdi.json`
+  - *last checked: 2026-04-13*
+- https://www.fbi.gov/wanted/terrorinfo/gholam-shakuri
+  - `content/people/gholam-shakuri.json`
+  - *last checked: 2026-04-13*
+- https://www.washingtonpost.com/world/national-security/cia-and-mossad-killed-senior-hezbollah-figure-in-car-bombing/2015/01/30/ebb88682-a719-11e4-a7c2-03d37af98440_story.html
+  - `content/people/imad-mughniyeh.json`
+  - *last checked: 2026-04-13*
+- https://www.washingtonpost.com/people/jason-rezaian/
+  - `content/people/jason-rezaian.json`
+  - *last checked: 2026-04-13*
+- https://www.nytimes.com/2010/11/30/world/middleeast/30iran.html
+  - `content/people/majid-shahriari.json`
+  - `content/events/iran-nuclear-scientist-assassinations-2010.json`
+  - *last checked: 2026-04-13*
+- https://sais.jhu.edu/users/nbajoghli
+  - `content/people/narges-bajoghli.json`
+  - `content/connections/narges-bajoghli-affiliated-with-basij-research.json`
+  - `content/connections/narges-bajoghli-subject-of-irgc.json`
+  - *last checked: 2026-04-13*
+- https://www.dawn.com/news/1924548
+  - `content/people/reza-amiri-moghadam.json`
+  - *last checked: 2026-04-13*
+- https://iranwatch.org/iranian-entities/organization-defensive-innovation-and-research-spnd
+  - `content/people/reza-mozaffari-nia.json`
+  - `content/orgs/spnd.json`
+  - `content/connections/hossein-jabal-amelian-coordinated-with-reza-mozaffari-nia.json`
+  - `content/connections/reza-mozaffari-nia-coordinated-with-mohsen-fakhrizadeh.json`
+  - `content/connections/reza-mozaffari-nia-headed-spnd.json`
+  - `content/connections/reza-mozaffari-nia-served-in-islamic-revolutionary-guard-corps.json`
+  - *last checked: 2026-04-13*
+- https://www.nytimes.com/2010/12/14/us/politics/14holbrooke.html
+  - `content/people/richard-holbrooke.json`
+  - *last checked: 2026-04-13*
+- https://www.chathamhouse.org/about-us/our-people/sanam-vakil
+  - `content/people/sanam-vakil.json`
+  - *last checked: 2026-04-13*
+- https://sais.jhu.edu/users/vnasr1
+  - `content/people/vali-nasr.json`
+  - `content/connections/vali-nasr-aligned-with-jcpoa-nuclear-deal-2015.json`
+  - `content/connections/vali-nasr-participated-in-iranian-revolution-1979.json`
+  - *last checked: 2026-04-13*
+- https://www.axios.com/2022/09/13/iran-irgc-unit-840-sanctions
+  - `content/people/yazdan-mir.json`
+  - `content/orgs/irgc-quds-force-unit-840.json`
+  - *last checked: 2026-04-13*
+- https://iranwatch.org/iranian-entities/amad-project
+  - `content/orgs/amad-project.json`
+  - *last checked: 2026-04-13*
+- https://www.aei.org/
+  - `content/orgs/american-enterprise-institute.json`
+  - *last checked: 2026-04-13*
+- https://iranhr.net/en/articles/5811/
+  - `content/orgs/faraja.json`
+  - *last checked: 2026-04-13*
+- https://www.fdd.org/about/
+  - `content/orgs/foundation-for-defense-of-democracies.json`
+  - *last checked: 2026-04-13*
+- https://www.criticalthreats.org/analysis/irgc-quds-force
+  - `content/orgs/irgc-quds-force-iraq-corps.json`
+  - `content/connections/irgc-quds-force-iraq-corps-subsidiary-of-irgc-quds-force.json`
+  - *last checked: 2026-04-13*
+- https://www.fdd.org/analysis/2023/10/12/iran-hamas-attack/
+  - `content/orgs/irgc-quds-force-palestine-corps.json`
+  - `content/connections/irgc-quds-force-palestine-corps-subsidiary-of-irgc-quds-force.json`
+  - *last checked: 2026-04-13*
+- https://sais.jhu.edu/
+  - `content/orgs/johns-hopkins-sais.json`
+  - `content/connections/vali-nasr-affiliated-with-johns-hopkins-sais.json`
+  - *last checked: 2026-04-13*
+- https://www.mei.edu/about
+  - `content/orgs/middle-east-institute.json`
+  - *last checked: 2026-04-13*
+- https://www.nytimes.com/1994/07/19/world/blast-hits-jewish-center-in-argentina-killing-at-least-48.html
+  - `content/events/amia-bombing-1994.json`
+  - *last checked: 2026-04-13*
+- https://www.washingtonpost.com/world/how-the-kurdish-independence-referendum-backfired-/2017/10/20/3010c820-b371-11e7-9b93-b97043e57a22_story.html
+  - `content/events/kurdistan-independence-referendum-2017.json`
+  - *last checked: 2026-04-13*
+- https://www.iranicaonline.org/articles/siyakal
+  - `content/events/siahkal-incident-1971.json`
+  - *last checked: 2026-04-13*
+- https://www.refworld.org/docid/3ae6ac4210.html
+  - `content/connections/abdolkarim-soroush-subject-of-ansar-e-hezbollah.json`
+  - *last checked: 2026-04-13*
+- https://www.unitedagainstnucleariran.com/government-institution/guardian-council
+  - `content/connections/ahmad-khatami-member-gc.json`
+  - `content/connections/hosseini-khorasani-member-gc.json`
+  - `content/connections/jannati-led-gc.json`
+  - `content/connections/khamenei-appointed-ahmad-khatami-gc.json`
+  - `content/connections/molabeygi-member-gc.json`
+  - `content/connections/parvin-member-gc.json`
+  - `content/connections/sadegh-larijani-member-gc.json`
+  - `content/connections/sadegh-larijani-named-2021-election.json`
+  - `content/connections/tahan-nazif-member-gc.json`
+  - *last checked: 2026-04-13*
+- https://www.washingtonpost.com/local/obituaries/ali-akbar-mohtashamipour-dead/2021/06/07/2ce247c0-c793-11eb-a11b-6c6191ccd599_story.html
+  - `content/connections/ali-akbar-mohtashamipur-affiliated-with-islamic-revolutionary-guard-corps.json`
+  - `content/connections/ali-akbar-mohtashamipur-founded-hezbollah.json`
+  - *last checked: 2026-04-13*
+- https://english.alarabiya.net/features/2019/04/15/Rostam-Ghasemi-The-brigadier-general-of-sanctions-evasion
+  - `content/connections/babak-zanjani-affiliated-with-khatam-al-anbiya.json`
+  - `content/connections/babak-zanjani-coordinated-with-rostam-ghasemi.json`
+  - *last checked: 2026-04-13*
+- https://www.fdd.org/analysis/2013/11/18/the-secret-history-of-hezbollah/
+  - `content/connections/hezbollah-affiliated-with-mostafa-chamran.json`
+  - `content/connections/mostafa-chamran-affiliated-with-hezbollah.json`
+  - *last checked: 2026-04-13*
+- https://www.tandfonline.com/doi/full/10.1080/08850607.2023.2295205
+  - `content/connections/iranian-embassy-vienna-affiliated-with-ministry-of-intelligence.json`
+  - *last checked: 2026-04-13*
+- https://www.aei.org/op-eds/the-iranian-influence-campaign-went-further-than-many-realize/
+  - `content/connections/kaveh-afrasiabi-named-in-iei.json`
+  - *last checked: 2026-04-13*
+- https://www.iau.ac.ir
+  - `content/connections/kayhan-barzegar-served-in-islamic-azad-university.json`
+  - *last checked: 2026-04-13*
+- https://iranwire.com/en/influential-women/118210-iranian-influential-women-maryam-firouz-1913-2008/
+  - `content/connections/maryam-firouz-member-of-tudeh-party-of-iran.json`
+  - *last checked: 2026-04-13*
+- https://www.eurasiareview.com/25072022-iran-95-year-old-cleric-jannati-reinstated-as-head-of-powerful-guardian-council/
+  - `content/connections/modarresi-yazdi-member-gc.json`
+  - `content/connections/shabzendedar-member-gc.json`
+  - *last checked: 2026-04-13*
+- https://x.com/YasamanFlower/status/1333952210456211459
+  - `content/connections/mohsen-kangarloo-affiliated-with-hezbollah.json`
+  - *last checked: 2026-04-13*
+- https://www.researchgate.net/publication/265561117_Two_Iranian_Intellectuals_Ayatollah_Morteza_Motahari_and_Dr_Abdol-Karim_Soroush_and_Islamic_Democracy_Debate
+  - `content/connections/morteza-motahhari-mentor-of-abdolkarim-soroush.json`
+  - *last checked: 2026-04-13*
+- https://sais.jhu.edu/faculty/narges-bajoghli
+  - `content/connections/narges-bajoghli-affiliated-with-johns-hopkins-sais.json`
+  - *last checked: 2026-04-13*
+- https://www.crisisgroup.org
+  - `content/connections/nasser-hadian-affiliated-with-international-crisis-group.json`
+  - *last checked: 2026-04-13*
+- https://www.axios.com/2022/06/23/iran-irgc-intelligence-chief-taeb-israel-turkey
+  - `content/connections/taeb-named-mahsa-protests.json`
+  - *last checked: 2026-04-13*
+
+## HTTP 404 (97)
+
+- https://fsi.stanford.edu/people/abbas-milani
+  - `content/people/abbas-milani.json`
+  - `content/connections/abbas-milani-participated-in-iranian-revolution-1979.json`
+  - *last checked: 2026-04-13*
+- https://www.longwarjournal.org/archives/2026/02/iran-military-leadership-killed-february-strikes.php
+  - `content/people/abdolrahim-mousavi.json`
+  - `content/people/hossein-jabal-amelian.json`
+  - `content/people/mohammad-pakpour.json`
+  - *last checked: 2026-04-13*
+- https://faculty.nps.edu/aostovar
+  - `content/people/afshon-ostovar.json`
+  - `content/connections/afshon-ostovar-subject-of-irgc.json`
+  - `content/connections/afshon-ostovar-subject-of-quds-force.json`
+  - *last checked: 2026-04-13*
+- https://www.theguardian.com/australia-news/2025/sep/australia-expels-iranian-ambassador
+  - `content/people/ahmad-sadeghi.json`
+  - *last checked: 2026-04-13*
+- https://www.abc.net.au/news/2025-09/australia-expels-iran-ambassador-asio-irgc/
+  - `content/people/ahmad-sadeghi.json`
+  - `content/connections/ahmad-sadeghi-served-in-ministry-of-foreign-affairs.json`
+  - *last checked: 2026-04-13*
+- https://www.bbc.com/news/world-latin-america-30920898
+  - `content/people/alberto-nisman.json`
+  - `content/people/cristina-fernandez-de-kirchner.json`
+  - *last checked: 2026-04-13*
+- https://www.bc.edu/bc-web/schools/mcas/departments/political-science/people/faculty-directory/ali-banuazizi.html
+  - `content/people/ali-banuazizi.json`
+  - `content/connections/ali-banuazizi-affiliated-with-boston-college.json`
+  - *last checked: 2026-04-13*
+- https://en.wikipedia.org/wiki/Alireza_Bigdeli
+  - `content/people/alireza-bigdeli.json`
+  - `content/connections/alireza-bigdeli-affiliated-with-islamic-revolutionary-guard-corps.json`
+  - `content/connections/alireza-bigdeli-served-in-ministry-of-foreign-affairs.json`
+  - *last checked: 2026-04-13*
+- https://www.oneworld-publications.com/trade/the-shadow-commander.html
+  - `content/people/arash-azizi.json`
+  - `content/connections/arash-azizi-published-shadow-commander.json`
+  - *last checked: 2026-04-13*
+- https://en.wikipedia.org/wiki/2018_Villepinte_bomb_plot
+  - `content/people/assadollah-assadi.json`
+  - `content/events/villepinte-bomb-plot-2018.json`
+  - `content/connections/assadollah-assadi-affiliated-with-mois-department-312.json`
+  - `content/connections/mois-department-312-subsidiary-of-ministry-of-intelligence.json`
+  - *last checked: 2026-04-13*
+- https://www.politico.eu/article/belgium-sentences-iranian-diplomat-assadollah-assadi-20-years-prison-bomb-plot/
+  - `content/people/assadollah-assadi.json`
+  - `content/orgs/mois-department-312.json`
+  - `content/events/villepinte-bomb-plot-2018.json`
+  - `content/connections/assadollah-assadi-participated-in-villepinte-bomb-plot-2018.json`
+  - `content/connections/assadollah-assadi-served-in-ministry-of-intelligence.json`
+  - *last checked: 2026-04-13*
+- https://press.princeton.edu/books/paperback/9780691101354/iran-between-two-revolutions
+  - `content/people/ervand-abrahamian.json`
+  - `content/connections/ervand-abrahamian-published-iranian-revolution-1979.json`
+  - *last checked: 2026-04-13*
+- https://www.bourseandbazaar.com/about
+  - `content/people/esfandyar-batmanghelidj.json`
+  - `content/orgs/bourse-and-bazaar-foundation.json`
+  - `content/connections/esfandyar-batmanghelidj-affiliated-with-chatham-house.json`
+  - `content/connections/esfandyar-batmanghelidj-founded-bourse-and-bazaar.json`
+  - *last checked: 2026-04-13*
+- https://www.gold.ac.uk/politics/staff/sadeghi-boroujerdi-eskandar/
+  - `content/people/eskandar-sadeghi-boroujerdi.json`
+  - *last checked: 2026-04-13*
+- https://www.washingtoninstitute.org/scholars/farzin-nadimi
+  - `content/people/farzin-nadimi.json`
+  - *last checked: 2026-04-13*
+- https://www.bbc.com/news/world-middle-east-12014698
+  - `content/people/fereydoun-abbasi-davani.json`
+  - *last checked: 2026-04-13*
+- https://www.rferl.org/a/albania-expels-iranian-ambassador-over-national-security/29652432.html
+  - `content/people/gholamhossein-mohammadnia.json`
+  - `content/events/albania-expulsions-iranian-diplomats-2018.json`
+  - `content/connections/albania-expulsions-2018-involved-mojahedin-e-khalq.json`
+  - `content/connections/gholamhossein-mohammadnia-affiliated-with-mojahedin-e-khalq.json`
+  - `content/connections/gholamhossein-mohammadnia-named-in-albania-expulsions-2018.json`
+  - `content/connections/gholamhossein-mohammadnia-served-in-ministry-of-foreign-affairs.json`
+  - `content/connections/gholamhossein-mohammadnia-served-in-ministry-of-intelligence.json`
+  - *last checked: 2026-04-13*
+- https://www.aljazeera.com/author/hamid_dabashi
+  - `content/people/hamid-dabashi.json`
+  - *last checked: 2026-04-13*
+- https://www.washingtoninstitute.org/scholars/holly-dagres
+  - `content/people/holly-dagres.json`
+  - *last checked: 2026-04-13*
+- https://en.wikipedia.org/wiki/Organisation_of_Defensive_Innovation_and_Research
+  - `content/people/hossein-jabal-amelian.json`
+  - `content/people/reza-mozaffari-nia.json`
+  - `content/orgs/spnd.json`
+  - `content/connections/hossein-jabal-amelian-coordinated-with-mohsen-fakhrizadeh.json`
+  - `content/connections/hossein-jabal-amelian-headed-spnd.json`
+  - `content/connections/hossein-jabal-amelian-served-in-islamic-revolutionary-guard-corps.json`
+  - `content/connections/spnd-affiliated-with-mohsen-fakhrizadeh.json`
+  - `content/connections/spnd-subsidiary-of-ministry-of-defense.json`
+  - `content/connections/spnd-successor-to-amad-project.json`
+  - *last checked: 2026-04-13*
+- https://en.wikipedia.org/wiki/Hossein_Sheikh-ol-Eslam
+  - `content/people/hossein-sheikholeslam.json`
+  - `content/connections/hossein-sheikholeslam-affiliated-with-hezbollah.json`
+  - `content/connections/hossein-sheikholeslam-aligned-with-ali-khamenei.json`
+  - `content/connections/hossein-sheikholeslam-participated-in-iran-hostage-crisis-1979.json`
+  - `content/connections/hossein-sheikholeslam-served-in-ministry-of-foreign-affairs.json`
+  - *last checked: 2026-04-13*
+- https://www.bbc.com/news/articles/c0k5v5jn35no
+  - `content/people/ibrahim-aqil.json`
+  - *last checked: 2026-04-13*
+- https://en.wikipedia.org/wiki/Kazem_Gharib-Abadi
+  - `content/people/kazem-gharib-abadi.json`
+  - `content/connections/kazem-gharib-abadi-served-in-ministry-of-foreign-affairs.json`
+  - *last checked: 2026-04-13*
+- https://www.hrw.org/news/2009/08/04/iran-verdicts-show-trial-violate-fair-trial-standards
+  - `content/people/kian-tajbakhsh.json`
+  - `content/connections/kian-tajbakhsh-subject-of-green-movement-protests-2009.json`
+  - *last checked: 2026-04-13*
+- https://www.bbc.com/news/world-middle-east-11871346
+  - `content/people/majid-shahriari.json`
+  - `content/events/iran-nuclear-scientist-assassinations-2010.json`
+  - `content/connections/fereydoun-abbasi-davani-subject-of-iran-nuclear-scientist-assassinations-2010.json`
+  - `content/connections/majid-shahriari-subject-of-iran-nuclear-scientist-assassinations-2010.json`
+  - *last checked: 2026-04-13*
+- https://www.justice.gov/opa/pr/man-sentenced-25-years-prison-plotting-assassinate-saudi-arabian-ambassador-united-states
+  - `content/people/manssor-arbabsiar.json`
+  - *last checked: 2026-04-13*
+- https://www.buzzfeednews.com/article/sheerafrenkel/mintpress-news-iran-story
+  - `content/people/mnar-muhawesh-adley.json`
+  - *last checked: 2026-04-13*
+- https://bush.tamu.edu/scis/people/mohammad-ayatollahi-tabaar/
+  - `content/people/mohammad-ayatollahi-tabaar.json`
+  - *last checked: 2026-04-13*
+- https://www.bbc.com/news/articles/c9dlr9j51g4o
+  - `content/people/mohammad-bagheri.json`
+  - *last checked: 2026-04-13*
+- https://www.iaea.org/newscenter/news/iaea-director-general-meets-with-head-of-aeoi-2021
+  - `content/people/mohammad-eslami.json`
+  - *last checked: 2026-04-13*
+- https://www.bbc.co.uk/news/world-middle-east-10627898
+  - `content/people/mohammad-reza-heydari.json`
+  - `content/connections/mohammad-reza-heydari-named-in-green-movement-protests-2009.json`
+  - `content/connections/mohammad-reza-heydari-served-in-ministry-of-foreign-affairs.json`
+  - *last checked: 2026-04-13*
+- https://www.usf.edu/arts-sciences/departments/government-international-affairs/people/milani-mohsen.aspx
+  - `content/people/mohsen-milani.json`
+  - `content/connections/mohsen-milani-affiliated-with-university-of-south-florida.json`
+  - *last checked: 2026-04-13*
+- https://en.wikipedia.org/wiki/Mohsen_Pak-Aeen
+  - `content/people/mohsen-pak-aeen.json`
+  - `content/connections/mohsen-pak-aeen-affiliated-with-ministry-of-intelligence.json`
+  - `content/connections/mohsen-pak-aeen-served-in-ministry-of-foreign-affairs.json`
+  - *last checked: 2026-04-13*
+- https://internationalpolicy.org/people/negar-mortazavi/
+  - `content/people/negar-mortazavi.json`
+  - *last checked: 2026-04-13*
+- https://www.utc.edu/faculty/saeid-golkar
+  - `content/people/saeid-golkar.json`
+  - `content/connections/saeid-golkar-subject-of-basij.json`
+  - `content/connections/saeid-golkar-subject-of-irgc.json`
+  - *last checked: 2026-04-13*
+- https://www.stonybrook.edu/commcms/sociology/people/faculty/arjomand_said_amir
+  - `content/people/said-amir-arjomand.json`
+  - `content/connections/said-amir-arjomand-affiliated-with-stony-brook-university.json`
+  - *last checked: 2026-04-13*
+- https://en.wikipedia.org/wiki/Sanam_Vakil
+  - `content/people/sanam-vakil.json`
+  - *last checked: 2026-04-13*
+- https://en.wikipedia.org/wiki/Ali_Marandi
+  - `content/people/seyed-ali-marandi.json`
+  - `content/connections/seyed-ali-marandi-affiliated-with-ali-khamenei.json`
+  - *last checked: 2026-04-13*
+- https://www.radiofarda.com/a/marandi-khamenei-doctor/31234567.html
+  - `content/people/seyed-ali-marandi.json`
+  - *last checked: 2026-04-13*
+- https://www.iiss.org/publications/strategic-dossiers/whither-iran
+  - `content/people/shahram-chubin.json`
+  - *last checked: 2026-04-13*
+- https://www.cfr.org/experts/vali-nasr
+  - `content/people/vali-nasr.json`
+  - `content/connections/vali-nasr-affiliated-with-council-on-foreign-relations.json`
+  - *last checked: 2026-04-13*
+- https://www.iaea.org/newscenter/pressreleases/iaea-report-possible-military-dimensions-iran
+  - `content/orgs/amad-project.json`
+  - `content/connections/mohsen-fakhrizadeh-led-amad-project.json`
+  - *last checked: 2026-04-13*
+- https://www.american-iranian.org/
+  - `content/orgs/american-iranian-council.json`
+  - `content/connections/hooshang-amirahmadi-founded-american-iranian-council.json`
+  - `content/connections/hooshang-amirahmadi-led-american-iranian-council.json`
+  - *last checked: 2026-04-13*
+- https://carpo-bonn.org/en/about/
+  - `content/orgs/carpo.json`
+  - `content/connections/adnan-tabatabai-founded-carpo.json`
+  - *last checked: 2026-04-13*
+- https://en.wikipedia.org/wiki/General_Staff_of_the_Armed_Forces_(Iran)
+  - `content/orgs/general-staff-of-the-armed-forces.json`
+  - `content/connections/general-staff-of-the-armed-forces-oversees-artesh.json`
+  - `content/connections/general-staff-of-the-armed-forces-oversees-irgc.json`
+  - *last checked: 2026-04-13*
+- https://www.hoover.org/research-teams/iran-democracy-project
+  - `content/orgs/hoover-institution-iran-democracy-project.json`
+  - `content/connections/abbas-milani-affiliated-with-hoover-iran-democracy-project.json`
+  - *last checked: 2026-04-13*
+- https://en.wikipedia.org/wiki/Permanent_Mission_of_Iran_to_the_United_Nations
+  - `content/orgs/iran-permanent-mission-un.json`
+  - *last checked: 2026-04-13*
+- https://www.politico.eu/article/belgium-convicts-iranian-diplomat-assadollah-assadi-for-bomb-plot/
+  - `content/orgs/iranian-embassy-vienna.json`
+  - *last checked: 2026-04-13*
+- https://www.csis.org/analysis/irans-use-proxy-forces
+  - `content/orgs/irgc-quds-force-iraq-corps.json`
+  - `content/connections/irgc-quds-force-iraq-corps-coordinated-with-popular-mobilization-forces.json`
+  - *last checked: 2026-04-13*
+- https://www.longwarjournal.org/archives/2024/09/irgc-quds-force-commander-for-lebanon-killed-in-israeli-strike.php
+  - `content/orgs/irgc-quds-force-lebanon-corps.json`
+  - *last checked: 2026-04-13*
+- https://en.wikipedia.org/wiki/Nuclear_Science_and_Technology_Research_Institute
+  - `content/orgs/nuclear-science-and-technology-research-institute.json`
+  - `content/connections/nuclear-science-and-technology-research-institute-subsidiary-of-atomic-energy-organisation-of-iran.json`
+  - *last checked: 2026-04-13*
+- https://www.iaea.org/newscenter/pressreleases/iaea-director-generals-report-on-iran
+  - `content/orgs/spnd.json`
+  - *last checked: 2026-04-13*
+- https://en.wikipedia.org/wiki/Office_of_the_Supreme_Leader_(Iran)
+  - `content/orgs/supreme-leaders-military-office.json`
+  - `content/connections/supreme-leaders-military-office-coordinated-with-artesh.json`
+  - `content/connections/supreme-leaders-military-office-coordinated-with-general-staff-of-the-armed-forces.json`
+  - `content/connections/supreme-leaders-military-office-coordinated-with-islamic-revolutionary-guard-corps.json`
+  - `content/connections/supreme-leaders-military-office-reports-to-ali-khamenei.json`
+  - *last checked: 2026-04-13*
+- https://en.wikipedia.org/wiki/Iran%E2%80%93Albania_relations
+  - `content/events/albania-expulsions-iranian-diplomats-2018.json`
+  - *last checked: 2026-04-13*
+- https://en.wikipedia.org/wiki/Amol_uprising
+  - `content/events/amol-uprising-1982.json`
+  - `content/connections/islamic-revolutionary-guard-corps-participated-in-amol-uprising-1982.json`
+  - `content/connections/union-of-iranian-communists-sarbedaran-participated-in-amol-uprising-1982.json`
+  - *last checked: 2026-04-13*
+- https://www.bbc.com/news/world-middle-east-10755498
+  - `content/events/death-of-montazeri-2009.json`
+  - `content/connections/hossein-ali-montazeri-subject-of-death-of-montazeri-2009.json`
+  - *last checked: 2026-04-13*
+- https://www.bbc.com/news/world-europe-48953096
+  - `content/events/ghassemlou-assassination-1989.json`
+  - *last checked: 2026-04-13*
+- https://en.wikipedia.org/wiki/Iran%E2%80%93Argentina_AMIA_memorandum
+  - `content/events/iran-argentina-mou-2013.json`
+  - `content/connections/cristina-fernandez-de-kirchner-named-in-iran-argentina-mou-2013.json`
+  - *last checked: 2026-04-13*
+- https://www.bbc.com/news/world-latin-america-21223851
+  - `content/events/iran-argentina-mou-2013.json`
+  - *last checked: 2026-04-13*
+- https://nsarchive.gwu.edu/briefing-book/iran/2017-06-21/cia-admits-role-1953-iranian-coup
+  - `content/events/iranian-coup-1953.json`
+  - *last checked: 2026-04-13*
+- https://www.rudaw.net
+  - `content/events/kurdistan-autonomy-referendum-discussions-2019.json`
+  - *last checked: 2026-04-13*
+- https://www.hrw.org/reports/1993/iran/
+  - `content/events/kurdistan-conflict-post-revolution-1979-1983.json`
+  - *last checked: 2026-04-13*
+- https://en.wikipedia.org/wiki/KDPI%E2%80%93Islamic_Republic_conflict
+  - `content/events/kurdistan-conflict-post-revolution-1979-1983.json`
+  - *last checked: 2026-04-13*
+- https://en.wikipedia.org/wiki/Kurdish%E2%80%93Iranian_conflict_(1979%E2%80%9396)
+  - `content/events/kurdistan-military-campaign-1979.json`
+  - *last checked: 2026-04-13*
+- https://en.wikipedia.org/wiki/Executions_following_the_Iranian_Revolution
+  - `content/events/post-revolution-executions-1979.json`
+  - `content/connections/manouchehr-khosrodad-aligned-with-mehdi-rahimi.json`
+  - `content/connections/manouchehr-khosrodad-aligned-with-nematollah-nassiri.json`
+  - `content/connections/manouchehr-khosrodad-named-in-alavi-school.json`
+  - `content/connections/manouchehr-khosrodad-named-in-iranian-revolution-1979.json`
+  - `content/connections/manouchehr-khosrodad-named-in-sadegh-khalkhali.json`
+  - `content/connections/manouchehr-khosrodad-subject-of-post-revolution-executions-1979.json`
+  - `content/connections/mehdi-rahimi-named-in-alavi-school.json`
+  - `content/connections/nematollah-nassiri-named-in-alavi-school.json`
+  - `content/connections/reza-naji-aligned-with-manouchehr-khosrodad.json`
+  - `content/connections/reza-naji-aligned-with-mehdi-rahimi.json`
+  - `content/connections/reza-naji-aligned-with-nematollah-nassiri.json`
+  - `content/connections/reza-naji-named-in-alavi-school.json`
+  - `content/connections/reza-naji-named-in-iranian-revolution-1979.json`
+  - `content/connections/reza-naji-named-in-sadegh-khalkhali.json`
+  - `content/connections/reza-naji-reports-to-mohammad-reza-shah-pahlavi.json`
+  - `content/connections/reza-naji-subject-of-post-revolution-executions-1979.json`
+  - *last checked: 2026-04-13*
+- https://www.marxists.org/history/international/comintern/sections/iran/tudeh/index.htm
+  - `content/events/tudeh-party-mass-arrests-1983.json`
+  - *last checked: 2026-04-13*
+- https://iranhrdc.org/the-massacre-of-political-prisoners-in-iran-1988/
+  - `content/events/tudeh-party-mass-arrests-1983.json`
+  - *last checked: 2026-04-13*
+- https://www.britannica.com/topic/judicial-system-of-Iran
+  - `content/connections/abdolkarim-mousavi-ardabili-headed-judiciary-of-iran.json`
+  - *last checked: 2026-04-13*
+- https://en.wikipedia.org/wiki/Assassination_of_Abdul_Rahman_Ghassemlou
+  - `content/connections/abdullah-ghaderi-azar-coordinated-with-abdul-rahman-ghassemlou.json`
+  - `content/connections/abdullah-ghaderi-azar-named-in-ghassemlou-assassination-1989.json`
+  - `content/connections/mohammad-jafar-sahraroudi-named-in-abdul-rahman-ghassemlou.json`
+  - `content/connections/mohammad-jafar-sahraroudi-named-in-ghassemlou-assassination-1989.json`
+  - *last checked: 2026-04-13*
+- https://faculty.nps.edu/ostovar
+  - `content/connections/afshon-ostovar-affiliated-with-naval-postgraduate-school.json`
+  - *last checked: 2026-04-13*
+- https://en.wikipedia.org/wiki/Gholam-Hossein_Mohseni-Ejei
+  - `content/connections/ahmadinejad-appointed-mohseni-ejei-intel.json`
+  - `content/connections/mohseni-ejei-led-judiciary.json`
+  - `content/connections/mohseni-ejei-served-intelligence.json`
+  - *last checked: 2026-04-13*
+- https://en.wikipedia.org/wiki/Al_Alam_News_Network
+  - `content/connections/al-alam-tv-subsidiary-of-irib.json`
+  - *last checked: 2026-04-13*
+- https://en.wikipedia.org/wiki/Organization_of_Iranian_People%27s_Fadai_Guerrillas
+  - `content/connections/amir-parviz-pouyan-aligned-with-bijan-jazani.json`
+  - `content/connections/amir-parviz-pouyan-founded-organization-of-iranian-peoples-fadai-guerrillas.json`
+  - `content/connections/iranian-peoples-fadai-guerrillas-subsidiary-of-organization-of-iranian-peoples-fadai-guerrillas.json`
+  - `content/connections/massoud-ahmadzadeh-aligned-with-bijan-jazani.json`
+  - `content/connections/massoud-ahmadzadeh-founded-organization-of-iranian-peoples-fadai-guerrillas.json`
+  - *last checked: 2026-04-13*
+- https://en.wikipedia.org/wiki/Amir_Parviz_Pouyan
+  - `content/connections/amir-parviz-pouyan-coordinated-with-massoud-ahmadzadeh.json`
+  - `content/connections/amir-parviz-pouyan-subject-of-savak.json`
+  - *last checked: 2026-04-13*
+- https://www.oneworld-publications.com/trade/what-iranians-want.html
+  - `content/connections/arash-azizi-subject-of-mahsa-amini.json`
+  - *last checked: 2026-04-13*
+- https://en.wikipedia.org/wiki/Kurdish%E2%80%93Iranian_conflict_(1979%E2%80%931983)
+  - `content/connections/democratic-party-of-iranian-kurdistan-participated-in-kurdistan-conflict-post-revolution-1979-1983.json`
+  - `content/connections/islamic-revolutionary-guard-corps-participated-in-kurdistan-conflict-post-revolution-1979-1983.json`
+  - `content/connections/komala-party-of-iranian-kurdistan-participated-in-kurdistan-conflict-post-revolution-1979-1983.json`
+  - `content/connections/kurdistan-conflict-post-revolution-1979-1983-named-in-iranian-revolution-1979.json`
+  - *last checked: 2026-04-13*
+- https://www.sup.org/books/title/?id=33991
+  - `content/connections/djavad-salehi-isfahani-coordinated-with-ali-vaez.json`
+  - `content/connections/djavad-salehi-isfahani-coordinated-with-esfandyar-batmanghelidj.json`
+  - `content/connections/djavad-salehi-isfahani-coordinated-with-narges-bajoghli.json`
+  - `content/connections/djavad-salehi-isfahani-coordinated-with-vali-nasr.json`
+  - *last checked: 2026-04-13*
+- https://www.amnesty.org/en/documents/mde13/001/1990/en/
+  - `content/connections/evin-prison-named-in-mass-executions-1988.json`
+  - *last checked: 2026-04-13*
+- https://en.wikipedia.org/wiki/Ali-Reza_Pahlavi_(born_1966)
+  - `content/connections/farah-pahlavi-family-of-ali-reza-pahlavi.json`
+  - `content/connections/mohammad-reza-shah-pahlavi-family-of-ali-reza-pahlavi.json`
+  - *last checked: 2026-04-13*
+- https://en.wikipedia.org/wiki/Sejjil_(missile)
+  - `content/connections/hassan-tehrani-moghaddam-directed-sejjil-missile-first-test-2008.json`
+  - *last checked: 2026-04-13*
+- https://en.wikipedia.org/wiki/Worker-communist_Party_of_Iran_(Hekmatist)
+  - `content/connections/hekmatist-party-affiliated-with-worker-communist-party-of-iran.json`
+  - *last checked: 2026-04-13*
+- https://en.wikipedia.org/wiki/Assembly_of_Experts_for_the_Constitution
+  - `content/connections/hossein-ali-montazeri-aligned-with-mohammad-beheshti.json`
+  - *last checked: 2026-04-13*
+- https://en.wikipedia.org/wiki/IRGC_Intelligence_Organisation
+  - `content/connections/irgc-io-part-of-irgc.json`
+  - *last checked: 2026-04-13*
+- https://en.wikipedia.org/wiki/Khabar_Online
+  - `content/connections/khabar-online-affiliated-with-ali-larijani.json`
+  - *last checked: 2026-04-13*
+- https://en.wikipedia.org/wiki/Ahmad_Alam_al-Huda
+  - `content/connections/khamenei-appointed-alam-al-huda.json`
+  - *last checked: 2026-04-13*
+- https://en.wikipedia.org/wiki/Massoud_Ahmadzadeh
+  - `content/connections/massoud-ahmadzadeh-coordinated-with-amir-parviz-pouyan.json`
+  - `content/connections/massoud-ahmadzadeh-subject-of-savak.json`
+  - *last checked: 2026-04-13*
+- https://en.wikipedia.org/wiki/Mehdi_Hashemi_(cleric)
+  - `content/connections/mehdi-hashemi-named-in-ruhollah-khomeini.json`
+  - *last checked: 2026-04-13*
+- https://en.wikipedia.org/wiki/Revolutionary_Courts_(Iran)
+  - `content/connections/mehdi-rahimi-subject-of-post-revolution-executions-1979.json`
+  - *last checked: 2026-04-13*
+- https://www.mintpressnews.com/mnar-adley-about/
+  - `content/connections/mnar-muhawesh-adley-studied-under-jafar-sobhani.json`
+  - *last checked: 2026-04-13*
+- https://en.wikipedia.org/wiki/Mozaffar_Baqai
+  - `content/connections/mozaffar-baghai-affiliated-with-savak.json`
+  - `content/connections/mozaffar-baghai-aligned-with-mohammad-mossadegh.json`
+  - `content/connections/mozaffar-baghai-opposed-mohammad-mossadegh.json`
+  - `content/connections/mozaffar-baghai-participated-in-iranian-coup-1953.json`
+  - *last checked: 2026-04-13*
+- https://www.semafor.com/article/09/26/2023/iran-foreign-ministry-experts-group-emails
+  - `content/connections/narges-bajoghli-coordinated-with-ali-vaez.json`
+  - *last checked: 2026-04-13*
+- https://www.bourseandbazaar.com/how-sanctions-work
+  - `content/connections/narges-bajoghli-coordinated-with-esfandyar.json`
+  - *last checked: 2026-04-13*
+- https://freebeacon.com/national-security/iranian-foreign-minister-zarif-niac-main-conduit/
+  - `content/connections/niac-coordinated-with-javad-zarif.json`
+  - *last checked: 2026-04-13*
+- https://www.rferl.org/info/about
+  - `content/connections/radio-free-europe-radio-liberty-funded-by-us-agency-for-global-media.json`
+  - *last checked: 2026-04-13*
+- https://en.wikipedia.org/wiki/Raja_News
+  - `content/connections/raja-news-affiliated-with-saeed-jalili.json`
+  - *last checked: 2026-04-13*
+- https://quincyinst.org/people/reza-marashi/
+  - `content/connections/reza-marashi-served-in-quincy-institute.json`
+  - *last checked: 2026-04-13*
+- https://www.sup.org/books/title/?id=33816
+  - `content/connections/vali-nasr-coordinated-with-ali-vaez.json`
+  - *last checked: 2026-04-13*
+
+## fetch failed (17)
+
+- https://www.tasnimnews.com/en/news/2026/03/19/armed-forces-rep-basij-killed
+  - `content/people/afshin-naghshbandi.json`
+  - `content/connections/afshin-naghshbandi-affiliatedwith-basij.json`
+  - `content/connections/afshin-naghshbandi-subjectof-march2026.json`
+  - *last checked: 2026-04-13*
+- https://www.tasnimnews.com/en/news/2026/03/08/irgc-isfahan-commander-killed
+  - `content/people/ali-hashemi-irgc-isfahan.json`
+  - `content/connections/ali-hashemi-irgc-isfahan-servedin-irgc.json`
+  - `content/connections/ali-hashemi-irgc-isfahan-subjectof-march2026.json`
+  - *last checked: 2026-04-13*
+- https://www.tasnimnews.com/en/news/2026/03/09/3264000/funeral-held-for-basij-commander-badfar
+  - `content/people/asadollah-badfar.json`
+  - `content/connections/asadollah-badfar--headed--basij.json`
+  - `content/connections/asadollah-badfar--served-in--islamic-revolutionary-guard-corps.json`
+  - `content/connections/asadollah-badfar--subject-of--march-2026-strike-wave.json`
+  - *last checked: 2026-04-13*
+- https://www.tasnimnews.com/en/news/2026/03/22/basij-shiraz-commander-killed
+  - `content/people/ebrahim-mortazavi-nasb.json`
+  - `content/connections/ebrahim-mortazavi-nasb-servedin-basij.json`
+  - `content/connections/ebrahim-mortazavi-nasb-subjectof-march2026.json`
+  - *last checked: 2026-04-13*
+- https://www.judiciary.be/
+  - `content/people/hamid-naghashan.json`
+  - `content/connections/hamid-naghashan-affiliated-with-ministry-of-intelligence.json`
+  - *last checked: 2026-04-13*
+- https://www.americaniranian.org
+  - `content/people/hooshang-amirahmadi.json`
+  - *last checked: 2026-04-13*
+- https://www.tasnimnews.com/en/news/2021/08/24/2551400/shahram-irani-replaces-khanzadi-as-iran-navy-cmdr
+  - `content/people/hossein-khanzadi.json`
+  - *last checked: 2026-04-13*
+- https://www.imamsadegh.com
+  - `content/people/jafar-sobhani.json`
+  - `content/orgs/imam-sadeq-institute.json`
+  - *last checked: 2026-04-13*
+- https://www.tasnimnews.com/en/news/2026/03/12/irgc-clergy-affairs-east-azerbaijan-killed
+  - `content/people/naqi-mohaddesnia.json`
+  - `content/connections/naqi-mohaddesnia-servedin-irgc.json`
+  - `content/connections/naqi-mohaddesnia-subjectof-march2026.json`
+  - *last checked: 2026-04-13*
+- https://pakistan.mfa.gov.ir/en/generalcategoryservices/8569/ambassador
+  - `content/people/reza-amiri-moghadam.json`
+  - `content/connections/reza-amiri-moghadam-served-in-supreme-national-security-council.json`
+  - *last checked: 2026-04-13*
+- https://www.theiranpodcast.com/
+  - `content/orgs/iran-podcast.json`
+  - `content/connections/negar-mortazavi-founded-iran-podcast.json`
+  - *last checked: 2026-04-13*
+- https://english.khamenei.ir/news/9358/
+  - `content/connections/abbas-sheibani-aligned-with-ali-khamenei.json`
+  - *last checked: 2026-04-13*
+- https://www.terrorism-info.org.il/en/18713/
+  - `content/connections/ali-akbar-mohtashamipur-founded-hezbollah.json`
+  - *last checked: 2026-04-13*
+- https://thenewpress.com/books/coup
+  - `content/connections/ervand-abrahamian-named-in-central-intelligence-agency.json`
+  - `content/connections/ervand-abrahamian-named-in-mi6-sis.json`
+  - `content/connections/ervand-abrahamian-published-iranian-coup-1953.json`
+  - `content/connections/ervand-abrahamian-subject-of-mohammad-mossadegh.json`
+  - *last checked: 2026-04-13*
+- https://wws.princeton.edu/faculty-research/faculty/shmousav
+  - `content/connections/hossein-mousavian-served-in-ministry-of-foreign-affairs.json`
+  - *last checked: 2026-04-13*
+- https://english.khamenei.ir/news/9049/From-Texas-to-Dehlavieh-A-look-at-the-life-of-Martyr-Mustafa
+  - `content/connections/mostafa-chamran-coordinated-with-musa-al-sadr.json`
+  - `content/connections/mostafa-chamran-founded-amal-movement.json`
+  - *last checked: 2026-04-13*
+- https://niac.net/about/board/
+  - `content/connections/reza-aslan-affiliated-with-niac.json`
+  - *last checked: 2026-04-13*
+
+## timeout (1)
+
+- https://econ.vt.edu/people/faculty/salehi-isfahani.html
+  - `content/people/djavad-salehi-isfahani.json`
+  - *last checked: 2026-04-13*

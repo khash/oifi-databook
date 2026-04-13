@@ -1,0 +1,21 @@
+{
+  "entity_id": "ahmad-khomeini-participated-in-iran-hostage-crisis-1979",
+  "from_entity": "ahmad-khomeini",
+  "to_entity": "iran-hostage-crisis-1979",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1979-11",
+  "date_to": "1981-01",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ahmad_Khomeini",
+      "source_title": "Ahmad Khomeini — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Ahmad Khomeini visited the occupied US embassy, congratulated the student occupiers, and made prominent anti-American statements during the hostage crisis, including repeating his father's threats about putting CIA-identified hostages on trial."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

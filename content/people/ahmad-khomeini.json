@@ -4,15 +4,35 @@
   "name_en": "Ahmad Khomeini",
   "name_fa": "احمد خمینی",
   "has_native_fa_name": true,
-  "aliases": [],
-  "born": 1945,
+  "aliases": ["Ahmad Mostafavi Khomeini", "Haj Ahmad Agha"],
+  "born": 1946,
   "birthplace": "Qom",
-  "role": "Son of Ayatollah Khomeini; political liaison; died 1995 under suspicious circumstances",
-  "faction": null,
-  "bio": "Ahmad Khomeini was the son of [Ruhollah Khomeini](/people/ruhollah-khomeini) and served as the key liaison between the founder of the Islamic Republic and the political establishment. After his father's death in 1989, he remained an influential figure who maintained access to Khomeini's archives and political legacy. On 17 March 1995, Ahmad Khomeini died of an apparent heart attack at the age of 49. The death is widely believed to have been an assassination — reportedly by cyanide poisoning carried out by Saeed Emami — as part of the broader [chain murders](/events/chain-murders-iran-1998) campaign. Ahmad had reportedly been collecting documents that could have been embarrassing to the hardline establishment, and his death conveniently removed a potential rival centre of revolutionary legitimacy.",
+  "role": "Chief of staff to Ayatollah Khomeini; political gatekeeper; custodian of Khomeini's mausoleum 1989–1995",
+  "faction": "hardliner",
+  "bio": "Ahmad Khomeini was the son of [Ruhollah Khomeini](/people/ruhollah-khomeini) and served as chief of staff and principal gatekeeper to the founder of the Islamic Republic from the revolutionary period until his father's death in 1989. He coordinated his father's affairs from Najaf and Paris before the revolution and controlled access to the Supreme Leader after the 1979 return to Iran, effectively shaping who could reach Khomeini and what information he received. He was a member of the [Islamic Republican Party](/orgs/islamic-republican-party) and held concurrent positions on the [Supreme National Security Council](/orgs/supreme-national-security-council) and the [Supreme Council of the Cultural Revolution](/orgs/supreme-council-of-the-cultural-revolution).\n\nDuring the [1979 hostage crisis](/events/iran-hostage-crisis-1979), Ahmad made aggressively anti-American statements and visited the occupied embassy to congratulate the student occupiers, repeating his father's threats about putting CIA-identified hostages on trial. In the summer of 1988, he served as a conduit between his father and the judiciary during the [1988 mass executions](/events/mass-executions-1988) of political prisoners, relaying Khomeini's fatwa clarifications that the death sentence applied even to those who had served their sentences. He played a decisive role in the dismissal of Ayatollah [Hossein-Ali Montazeri](/people/hossein-ali-montazeri) as designated successor in 1989, writing a scathing letter attacking Montazeri directly and controlling the information his father received about him.\n\nFrom mid-1988 until his father's death in June 1989, Ahmad was one of three effective co-rulers of the state alongside [Ali Khamenei](/people/ali-khamenei) and [Akbar Hashemi Rafsanjani](/people/akbar-hashemi-rafsanjani). After Khomeini's death, he was progressively sidelined by the new power structure. He served as Custodian of the Mausoleum of Khomeini (1989–1995) and retained a formal seat on the Supreme National Security Council, but real power had moved elsewhere. He reportedly accumulated documents that were embarrassing to Khamenei and Rafsanjani, making him a political liability.\n\nOn 17 March 1995, Ahmad died of an apparent heart attack at the age of 49. Non-government sources and his own son Hassan Khomeini later alleged he was poisoned, with [Saeed Emami](/people/saeed-emami) named as the likely perpetrator — part of the broader [chain murders](/events/chain-murders-iran-1998) campaign. The regime dismissed these allegations as fabrications by foreign agents. The circumstances remain disputed, but Ahmad's death removed the single figure most associated with the legitimacy of the Khomeini legacy who was outside Khamenei's direct control.",
   "irgc_member": false,
   "expertise": [],
-  "tags": ["deceased", "chain-murders"],
+  "tags": ["deceased", "chain-murders", "clerical"],
   "photo": null,
-  "editorial_notes": "Born 1945 Qom. Son of Ayatollah Khomeini. Died 17 March 1995 — officially heart attack, widely believed poisoned with cyanide by Saeed Emami. Unconfirmed."
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ahmad_Khomeini",
+      "title": "Ahmad Khomeini — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.atlanticcouncil.org/blogs/iransource/three-decades-after-khomeini-s-death-his-clan-lives-life-on-the-sidelines/",
+      "title": "Three decades after Khomeini's death, his clan rules from the sidelines",
+      "date": "2019-06-03",
+      "publisher": "Atlantic Council"
+    },
+    {
+      "url": "https://iranhrdc.org/deadly-fatwa-irans-1988-prison-massacre/",
+      "title": "Deadly Fatwa: Iran's 1988 Prison Massacre",
+      "date": "2009-01-01",
+      "publisher": "Iran Human Rights Documentation Center"
+    }
+  ],
+  "editorial_notes": "Born 15 March 1946, Qom. Son of Ayatollah Khomeini. Died 17 March 1995 — officially heart attack, widely alleged poisoning by Saeed Emami (unconfirmed). Faction: hardliner — core revolutionary inner circle, active in 1988 executions relay and Montazeri dismissal."
 }

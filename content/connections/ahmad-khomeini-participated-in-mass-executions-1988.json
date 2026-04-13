@@ -1,0 +1,21 @@
+{
+  "entity_id": "ahmad-khomeini-participated-in-mass-executions-1988",
+  "from_entity": "ahmad-khomeini",
+  "to_entity": "mass-executions-1988",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1988-07",
+  "date_to": "1988-09",
+  "evidence": [
+    {
+      "source_url": "https://iranhrdc.org/deadly-fatwa-irans-1988-prison-massacre/",
+      "source_title": "Deadly Fatwa: Iran's 1988 Prison Massacre",
+      "source_date": "2009-01-01",
+      "description": "Ahmad Khomeini served as the conduit through whom Ayatollah Mousavi Ardebili relayed questions about the fatwa to Ruhollah Khomeini, and through whom Khomeini's responses — unequivocally extending the death sentence — were returned. His role was to transmit the fatwa clarifications that operationalized the executions."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Ahmad did not directly carry out the executions but served as the fatwa relay mechanism that enabled the death commission's decisions."
+}

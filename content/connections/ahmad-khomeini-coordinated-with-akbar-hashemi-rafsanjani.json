@@ -1,0 +1,21 @@
+{
+  "entity_id": "ahmad-khomeini-coordinated-with-akbar-hashemi-rafsanjani",
+  "from_entity": "ahmad-khomeini",
+  "to_entity": "akbar-hashemi-rafsanjani",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "1988",
+  "date_to": "1989",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ahmad_Khomeini",
+      "source_title": "Ahmad Khomeini — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "From mid-1988 until Khomeini's death, Ahmad Khomeini was one of three effective co-rulers alongside Rafsanjani and Khamenei. Rafsanjani's memoirs contain multiple references to Ahmad's subsequent dissatisfaction at being sidelined."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Coordinated during 1988-1989; relationship deteriorated after Khomeini's death as Rafsanjani consolidated power."
+}

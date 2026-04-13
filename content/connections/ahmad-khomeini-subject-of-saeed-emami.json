@@ -1,0 +1,21 @@
+{
+  "entity_id": "ahmad-khomeini-subject-of-saeed-emami",
+  "from_entity": "ahmad-khomeini",
+  "to_entity": "saeed-emami",
+  "type": "subject-of",
+  "confidence": "alleged",
+  "date_from": "1995-03-17",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ahmad_Khomeini",
+      "source_title": "Ahmad Khomeini — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Non-government sources and Ahmad's son Hassan Khomeini alleged that Ahmad was poisoned via pills received at hospital; Saeed Emami, MOIS's chain murders operative, has been named as the likely perpetrator."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Alleged assassination; never officially confirmed. Government dismissed the claim as fabrication by British agents."
+}

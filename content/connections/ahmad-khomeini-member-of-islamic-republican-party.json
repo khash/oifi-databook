@@ -1,0 +1,21 @@
+{
+  "entity_id": "ahmad-khomeini-member-of-islamic-republican-party",
+  "from_entity": "ahmad-khomeini",
+  "to_entity": "islamic-republican-party",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1987",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ahmad_Khomeini",
+      "source_title": "Ahmad Khomeini — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Wikipedia lists the Islamic Republican Party as Ahmad Khomeini's political party affiliation."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

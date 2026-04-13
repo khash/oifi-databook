@@ -1,0 +1,21 @@
+{
+  "entity_id": "ahmad-khomeini-coordinated-with-ali-khamenei",
+  "from_entity": "ahmad-khomeini",
+  "to_entity": "ali-khamenei",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "1988",
+  "date_to": "1989",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ahmad_Khomeini",
+      "source_title": "Ahmad Khomeini — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "From mid-1988 until Khomeini's death in June 1989, Ahmad Khomeini was one of three co-decision-makers on all state affairs alongside Khamenei and Rafsanjani. Their coordination soured after Khomeini's death, with non-government sources claiming Ahmad was eventually killed for falling foul of Khamenei."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Coordinated in the 1988-1989 period; relationship deteriorated sharply post-1989 succession."
+}

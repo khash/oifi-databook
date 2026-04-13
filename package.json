@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "dev": "astro build && pagefind --site dist && rm -rf public/pagefind && cp -r dist/pagefind public/pagefind && astro dev",
-    "build": "node scripts/validate-content.mjs && astro build && pagefind --site dist",
+    "build": "node scripts/validate-content.mjs && node scripts/check-links.mjs && astro build && pagefind --site dist",
     "preview": "pnpm run build && wrangler dev",
     "astro": "astro",
     "lint": "eslint .",

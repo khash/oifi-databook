@@ -523,7 +523,17 @@ Exported from Notion on 2026-04-13. Total: 152 pending entries.
 - **Surfaced from:** topic-scout: officials killed — 2026 war
 - **Why it matters:** Senior Intelligence Ministry commander. Killed 20 March 2026.
 
-## Organisations (40)
+### Hassan Khomeini
+- **Status:** pending
+- **Surfaced from:** Ahmad Khomeini expansion
+- **Why it matters:** Eldest grandson of Ruhollah Khomeini, son of Ahmad Khomeini; reformist cleric and trustee of the Khomeini Mausoleum; publicly alleged his father was poisoned; aligned with reform movement. Bridges the Khomeini legacy with contemporary reformist politics.
+
+### Khadijeh Saqafi
+- **Status:** pending
+- **Surfaced from:** Ahmad Khomeini expansion
+- **Why it matters:** Wife of Ruhollah Khomeini, mother of Ahmad Khomeini; played a background political role in the revolutionary household.
+
+## Organisations (42)
 
 ### Stanford Iranian Studies Program
 - **Status:** pending

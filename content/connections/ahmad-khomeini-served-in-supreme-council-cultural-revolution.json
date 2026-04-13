@@ -1,0 +1,21 @@
+{
+  "entity_id": "ahmad-khomeini-served-in-supreme-council-cultural-revolution",
+  "from_entity": "ahmad-khomeini",
+  "to_entity": "supreme-council-of-the-cultural-revolution",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1984",
+  "date_to": "1995",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ahmad_Khomeini",
+      "source_title": "Ahmad Khomeini — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Ahmad Khomeini held a seat on the Supreme Council of the Cultural Revolution."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

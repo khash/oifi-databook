@@ -1,4 +1,4 @@
-import { useState, useMemo } from "react"
+import { useState, useMemo, useEffect } from "react"
 import { Input } from "@/components/ui/input"
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "@/components/ui/tooltip"
 import {
@@ -8,9 +8,32 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select"
+import {
+  Pagination,
+  PaginationContent,
+  PaginationEllipsis,
+  PaginationItem,
+  PaginationLink,
+  PaginationNext,
+  PaginationPrevious,
+} from "@/components/ui/pagination"
 import { OrgTypeBadge, ORG_TYPE_CONFIG } from "@/components/OrgTypeBadge"
 import { ORG_TYPES } from "@/lib/constants"
 import type { Faction, OrgType } from "@/lib/types"
+
+const PAGE_SIZE = 50
+
+function getPageNumbers(current: number, total: number): (number | "...")[] {
+  if (total <= 7) return Array.from({ length: total }, (_, i) => i + 1)
+  const pages: (number | "...")[] = []
+  const add = (n: number) => { if (!pages.includes(n)) pages.push(n) }
+  add(1)
+  if (current > 3) pages.push("...")
+  for (let i = Math.max(2, current - 1); i <= Math.min(total - 1, current + 1); i++) add(i)
+  if (current < total - 2) pages.push("...")
+  add(total)
+  return pages
+}
 
 interface OrgItem {
   slug: string
@@ -26,6 +49,10 @@ export function OrgsIndex({ orgs }: { orgs: OrgItem[] }) {
   const [search, setSearch] = useState("")
   const [typeFilter, setTypeFilter] = useState<string>("all")
   const [sort, setSort] = useState<SortKey>("name")
+  const [page, setPage] = useState(1)
+
+  useEffect(() => { setPage(1) }, [search, typeFilter, sort])
+
   const filtered = useMemo(() => {
     let result = orgs
 
@@ -53,16 +80,20 @@ export function OrgsIndex({ orgs }: { orgs: OrgItem[] }) {
     return result
   }, [orgs, search, typeFilter, sort])
 
-  // Letter groups
+  const totalPages = Math.ceil(filtered.length / PAGE_SIZE)
+  const paginated = filtered.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE)
+  const pageNumbers = getPageNumbers(page, totalPages)
+
+  // Letter groups (from current page only)
   const grouped = useMemo(() => {
     if (sort !== "name") return null
     const groups: Record<string, OrgItem[]> = {}
-    for (const o of filtered) {
+    for (const o of paginated) {
       const letter = o.name_en[0].toUpperCase()
       ;(groups[letter] ??= []).push(o)
     }
     return groups
-  }, [filtered, sort])
+  }, [paginated, sort])
 
   const letters = grouped ? Object.keys(grouped).sort() : []
 
@@ -74,6 +105,7 @@ export function OrgsIndex({ orgs }: { orgs: OrgItem[] }) {
           <h1 className="text-2xl font-bold">Organisations</h1>
           <span className="text-sm text-muted-foreground">
             {filtered.length} of {orgs.length}
+            {totalPages > 1 && ` · page ${page} of ${totalPages}`}
           </span>
         </div>
 
@@ -148,11 +180,51 @@ export function OrgsIndex({ orgs }: { orgs: OrgItem[] }) {
               ))
             : (
               <ul className="space-y-1">
-                {filtered.map((o) => (
+                {paginated.map((o) => (
                   <OrgCard key={o.slug} org={o} />
                 ))}
               </ul>
             )}
+
+          {totalPages > 1 && (
+            <Pagination className="mt-6">
+              <PaginationContent>
+                <PaginationItem>
+                  <PaginationPrevious
+                    href="#"
+                    onClick={(e) => { e.preventDefault(); setPage((p) => Math.max(1, p - 1)) }}
+                    aria-disabled={page === 1}
+                    className={page === 1 ? "pointer-events-none opacity-50" : ""}
+                  />
+                </PaginationItem>
+                {pageNumbers.map((n, i) =>
+                  n === "..." ? (
+                    <PaginationItem key={`ellipsis-${i}`}>
+                      <PaginationEllipsis />
+                    </PaginationItem>
+                  ) : (
+                    <PaginationItem key={n}>
+                      <PaginationLink
+                        href="#"
+                        isActive={page === n}
+                        onClick={(e) => { e.preventDefault(); setPage(n) }}
+                      >
+                        {n}
+                      </PaginationLink>
+                    </PaginationItem>
+                  )
+                )}
+                <PaginationItem>
+                  <PaginationNext
+                    href="#"
+                    onClick={(e) => { e.preventDefault(); setPage((p) => Math.min(totalPages, p + 1)) }}
+                    aria-disabled={page === totalPages}
+                    className={page === totalPages ? "pointer-events-none opacity-50" : ""}
+                  />
+                </PaginationItem>
+              </PaginationContent>
+            </Pagination>
+          )}
         </div>
       )}
     </div>

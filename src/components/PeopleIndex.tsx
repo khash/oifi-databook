@@ -1,4 +1,4 @@
-import { useState, useMemo } from "react"
+import { useState, useMemo, useEffect } from "react"
 import { Input } from "@/components/ui/input"
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "@/components/ui/tooltip"
 import { Badge } from "@/components/ui/badge"
@@ -9,10 +9,33 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select"
+import {
+  Pagination,
+  PaginationContent,
+  PaginationEllipsis,
+  PaginationItem,
+  PaginationLink,
+  PaginationNext,
+  PaginationPrevious,
+} from "@/components/ui/pagination"
 import { FactionSpectrum } from "@/components/FactionSpectrum"
 import { FACTION_CONFIG } from "@/components/FactionBadge"
 import { SPECTRUM_FACTIONS } from "@/lib/constants"
 import type { Faction } from "@/lib/types"
+
+const PAGE_SIZE = 50
+
+function getPageNumbers(current: number, total: number): (number | "...")[] {
+  if (total <= 7) return Array.from({ length: total }, (_, i) => i + 1)
+  const pages: (number | "...")[] = []
+  const add = (n: number) => { if (!pages.includes(n)) pages.push(n) }
+  add(1)
+  if (current > 3) pages.push("...")
+  for (let i = Math.max(2, current - 1); i <= Math.min(total - 1, current + 1); i++) add(i)
+  if (current < total - 2) pages.push("...")
+  add(total)
+  return pages
+}
 
 type NonNullFaction = NonNullable<Faction>
 
@@ -33,6 +56,9 @@ export function PeopleIndex({ people }: { people: PersonItem[] }) {
   const [factionFilter, setFactionFilter] = useState<string>("all")
   const [irgcOnly, setIrgcOnly] = useState(false)
   const [sort, setSort] = useState<SortKey>("name")
+  const [page, setPage] = useState(1)
+
+  useEffect(() => { setPage(1) }, [search, factionFilter, irgcOnly, sort])
 
   const usedFactions = useMemo(() => {
     const factions = new Set(people.map((p) => p.faction).filter(Boolean))
@@ -73,16 +99,20 @@ export function PeopleIndex({ people }: { people: PersonItem[] }) {
     return result
   }, [people, search, factionFilter, irgcOnly, sort])
 
-  // Letter groups
+  const totalPages = Math.ceil(filtered.length / PAGE_SIZE)
+  const paginated = filtered.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE)
+  const pageNumbers = getPageNumbers(page, totalPages)
+
+  // Letter groups (from current page only)
   const grouped = useMemo(() => {
     if (sort !== "name") return null
     const groups: Record<string, PersonItem[]> = {}
-    for (const p of filtered) {
+    for (const p of paginated) {
       const letter = p.name_en[0].toUpperCase()
       ;(groups[letter] ??= []).push(p)
     }
     return groups
-  }, [filtered, sort])
+  }, [paginated, sort])
 
   const letters = grouped ? Object.keys(grouped).sort() : []
 
@@ -94,6 +124,7 @@ export function PeopleIndex({ people }: { people: PersonItem[] }) {
           <h1 className="text-2xl font-bold">People</h1>
           <span className="text-sm text-muted-foreground">
             {filtered.length} of {people.length}
+            {totalPages > 1 && ` · page ${page} of ${totalPages}`}
           </span>
         </div>
 
@@ -174,11 +205,51 @@ export function PeopleIndex({ people }: { people: PersonItem[] }) {
               ))
             : (
               <ul className="space-y-1">
-                {filtered.map((p) => (
+                {paginated.map((p) => (
                   <PersonCard key={p.slug} person={p} />
                 ))}
               </ul>
             )}
+
+          {totalPages > 1 && (
+            <Pagination className="mt-6">
+              <PaginationContent>
+                <PaginationItem>
+                  <PaginationPrevious
+                    href="#"
+                    onClick={(e) => { e.preventDefault(); setPage((p) => Math.max(1, p - 1)) }}
+                    aria-disabled={page === 1}
+                    className={page === 1 ? "pointer-events-none opacity-50" : ""}
+                  />
+                </PaginationItem>
+                {pageNumbers.map((n, i) =>
+                  n === "..." ? (
+                    <PaginationItem key={`ellipsis-${i}`}>
+                      <PaginationEllipsis />
+                    </PaginationItem>
+                  ) : (
+                    <PaginationItem key={n}>
+                      <PaginationLink
+                        href="#"
+                        isActive={page === n}
+                        onClick={(e) => { e.preventDefault(); setPage(n) }}
+                      >
+                        {n}
+                      </PaginationLink>
+                    </PaginationItem>
+                  )
+                )}
+                <PaginationItem>
+                  <PaginationNext
+                    href="#"
+                    onClick={(e) => { e.preventDefault(); setPage((p) => Math.min(totalPages, p + 1)) }}
+                    aria-disabled={page === totalPages}
+                    className={page === totalPages ? "pointer-events-none opacity-50" : ""}
+                  />
+                </PaginationItem>
+              </PaginationContent>
+            </Pagination>
+          )}
         </div>
       )}
     </div>

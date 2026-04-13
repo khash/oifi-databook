@@ -1,4 +1,4 @@
-import { useState, useMemo } from "react"
+import { useState, useMemo, useEffect } from "react"
 import { Input } from "@/components/ui/input"
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "@/components/ui/tooltip"
 import { FormattedDate } from "@/components/FormattedDate"
@@ -9,8 +9,31 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select"
+import {
+  Pagination,
+  PaginationContent,
+  PaginationEllipsis,
+  PaginationItem,
+  PaginationLink,
+  PaginationNext,
+  PaginationPrevious,
+} from "@/components/ui/pagination"
 import { EventTypeBadge, EVENT_TYPE_CONFIG } from "@/components/EventTypeBadge"
 import type { EventType } from "@/lib/types"
+
+const PAGE_SIZE = 50
+
+function getPageNumbers(current: number, total: number): (number | "...")[] {
+  if (total <= 7) return Array.from({ length: total }, (_, i) => i + 1)
+  const pages: (number | "...")[] = []
+  const add = (n: number) => { if (!pages.includes(n)) pages.push(n) }
+  add(1)
+  if (current > 3) pages.push("...")
+  for (let i = Math.max(2, current - 1); i <= Math.min(total - 1, current + 1); i++) add(i)
+  if (current < total - 2) pages.push("...")
+  add(total)
+  return pages
+}
 
 interface EventItem {
   slug: string
@@ -26,6 +49,9 @@ export function EventsIndex({ events }: { events: EventItem[] }) {
   const [search, setSearch] = useState("")
   const [typeFilter, setTypeFilter] = useState<string>("all")
   const [sort, setSort] = useState<SortKey>("date-desc")
+  const [page, setPage] = useState(1)
+
+  useEffect(() => { setPage(1) }, [search, typeFilter, sort])
 
   const usedTypes = useMemo(() => {
     const types = new Set(events.map((e) => e.type))
@@ -54,16 +80,20 @@ export function EventsIndex({ events }: { events: EventItem[] }) {
     return result
   }, [events, search, typeFilter, sort])
 
-  // Group by year when sorted by date
+  const totalPages = Math.ceil(filtered.length / PAGE_SIZE)
+  const paginated = filtered.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE)
+  const pageNumbers = getPageNumbers(page, totalPages)
+
+  // Group by year when sorted by date (from current page only)
   const grouped = useMemo(() => {
     if (sort !== "date-desc" && sort !== "date-asc") return null
     const groups: Record<string, EventItem[]> = {}
-    for (const e of filtered) {
+    for (const e of paginated) {
       const year = e.date.slice(0, 4)
       ;(groups[year] ??= []).push(e)
     }
     return groups
-  }, [filtered, sort])
+  }, [paginated, sort])
 
   const years = grouped
     ? Object.keys(grouped).sort((a, b) =>
@@ -79,6 +109,7 @@ export function EventsIndex({ events }: { events: EventItem[] }) {
           <h1 className="text-2xl font-bold">Events</h1>
           <span className="text-sm text-muted-foreground">
             {filtered.length} of {events.length}
+            {totalPages > 1 && ` · page ${page} of ${totalPages}`}
           </span>
         </div>
 
@@ -155,11 +186,51 @@ export function EventsIndex({ events }: { events: EventItem[] }) {
               ))
             : (
               <ul className="space-y-1">
-                {filtered.map((e) => (
+                {paginated.map((e) => (
                   <EventCard key={e.slug} event={e} />
                 ))}
               </ul>
             )}
+
+          {totalPages > 1 && (
+            <Pagination className="mt-6">
+              <PaginationContent>
+                <PaginationItem>
+                  <PaginationPrevious
+                    href="#"
+                    onClick={(e) => { e.preventDefault(); setPage((p) => Math.max(1, p - 1)) }}
+                    aria-disabled={page === 1}
+                    className={page === 1 ? "pointer-events-none opacity-50" : ""}
+                  />
+                </PaginationItem>
+                {pageNumbers.map((n, i) =>
+                  n === "..." ? (
+                    <PaginationItem key={`ellipsis-${i}`}>
+                      <PaginationEllipsis />
+                    </PaginationItem>
+                  ) : (
+                    <PaginationItem key={n}>
+                      <PaginationLink
+                        href="#"
+                        isActive={page === n}
+                        onClick={(e) => { e.preventDefault(); setPage(n) }}
+                      >
+                        {n}
+                      </PaginationLink>
+                    </PaginationItem>
+                  )
+                )}
+                <PaginationItem>
+                  <PaginationNext
+                    href="#"
+                    onClick={(e) => { e.preventDefault(); setPage((p) => Math.min(totalPages, p + 1)) }}
+                    aria-disabled={page === totalPages}
+                    className={page === totalPages ? "pointer-events-none opacity-50" : ""}
+                  />
+                </PaginationItem>
+              </PaginationContent>
+            </Pagination>
+          )}
         </div>
       )}
     </div>

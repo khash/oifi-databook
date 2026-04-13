@@ -1,6 +1,6 @@
 ---
 name: topic-scout
-description: Given a subject or topic related to Iranian politics, cast a wide net to discover all people, organizations, and events worth investigating. Reconcile against the existing database to avoid duplicates, flag existing entities that need updates or deeper research, and append every new lead to the Notion Research Inbox. This skill surveys — it does not ingest.
+description: Given a subject or topic related to Iranian politics, cast a wide net to discover all people, organizations, and events worth investigating. Reconcile against the existing database to avoid duplicates, flag existing entities that need updates or deeper research, and append every new lead to research-inbox.md. This skill surveys — it does not ingest.
 argument-hint: [subject or topic]
 disable-model-invocation: true
 model: claude-opus-4-6
@@ -12,7 +12,7 @@ allowed-tools: Read Grep Glob LS Bash WebFetch WebSearch TodoWrite
 
 Use this skill when asked to survey a **topic, subject, theme, period, event cluster, network, or domain** related to Iranian politics and produce a comprehensive list of entities worth researching.
 
-This skill is **discovery-oriented**, not ingestion-oriented. It does not create entity files, connections, or run the build. Its single deliverable is a rich, deduplicated set of rows appended to the **Notion Research Inbox** so that `entity-ingest` (or a human) can work through the queue.
+This skill is **discovery-oriented**, not ingestion-oriented. It does not create entity files, connections, or run the build. Its single deliverable is a rich, deduplicated set of entries appended to **`research-inbox.md`** in the repository root so that `entity-ingest` (or a human) can work through the queue.
 
 Example topics:
 - "the 1988 prison massacre"
@@ -41,7 +41,7 @@ But wide does not mean sloppy:
 
 - Do **not** create, modify, or delete entity or connection files.
 - Do **not** run `pnpm build`, `pnpm check:content`, or other write-path commands.
-- Do **not** write to the codebase at all. Read-only except for the Notion Research Inbox.
+- Do **not** write to the codebase at all. Read-only except for `research-inbox.md`.
 - The codebase is still the source of truth for what already exists — read it before declaring any lead "new".
 - Persian political context matters: include clerical, military, security, judicial, media, diaspora, and opposition actors — not just cabinet-level politicians.
 - Apply the regime-skepticism editorial stance (see below). Surface regime narratives only as objects of study, never as authoritative framings.
@@ -164,30 +164,26 @@ Do **not** discard D-bucket entities silently — the point of scouting is to ca
 
 ## Step 5: Deduplicate against the Research Inbox
 
-Before appending, fetch the current Research Inbox contents via the Notion MCP and check for existing rows that already cover your lead. If a row exists:
-- Skip it if the existing row is adequate
-- If your new context adds value (better "Why It Matters", new surfaced-from path), consider updating the row rather than duplicating
+Before appending, read `research-inbox.md` in the repository root and check for existing entries that already cover your lead. If an entry exists:
+- Skip it if the existing entry is adequate
+- If your new context adds value (better "Why it matters", new surfaced-from path), update the entry rather than duplicating it
 
-Never create duplicate inbox rows.
+Never create duplicate inbox entries.
 
 ## Step 6: Append to the Research Inbox
 
-Research Inbox location: **Databook → Research Inbox** in the OIFI team space.
-- Page ID: `33fcce3d-8035-8126-92ef-ff32b4ce3e40`
+The Research Inbox is the file **`research-inbox.md`** in the root of this repository.
 
-For each lead, append a row with:
+For each lead, append an entry under the appropriate section heading (`## People`, `## Organisations`, or `## Events`) using this format:
 
-| Field | Description |
-|---|---|
-| **Entity** | Canonical English name (Persian name in parentheses if helpful) |
-| **Type** | person / org / event |
-| **Surfaced From** | The topic you were scouting, plus the specific research path or source that surfaced it |
-| **Why It Matters** | One or two sentences on why this entity would improve the graph for this topic. Be specific — "key figure" is not enough. |
-| **Status** | `pending` (new lead) / `needs-update` (exists but incomplete) / `skipped` with reason |
+```markdown
+### Entity Name
+- **Status:** pending
+- **Surfaced from:** the topic you were scouting, plus the specific research path or source that surfaced it
+- **Why it matters:** one or two sentences on why this entity would improve the graph. Be specific — "key figure" is not enough.
+```
 
-Use the Notion MCP `notion-update-page` or equivalent append tool. **Append only — never replace existing rows.**
-
-If the Notion MCP is unavailable, stop and report the failure. Do not silently lose leads.
+Use the `Edit` tool to append to the correct section. **Append only — never remove or replace existing entries.**
 
 ## Step 7: Final report
 
@@ -251,7 +247,7 @@ Aim for breadth across all these categories before going deep on any one.
 
 A successful run produces:
 - A clear interpretation of the topic
-- A thorough, deduplicated set of Research Inbox rows covering the topic's people, orgs, and events
+- A thorough, deduplicated set of `research-inbox.md` entries covering the topic's people, orgs, and events
 - Explicit flags on existing entities that need updates
 - No codebase modifications
 - A final report that a human or `entity-ingest` run can act on directly
@@ -262,13 +258,13 @@ A successful run produces:
 
 - Creating entity or connection files (this is the ingest skill's job, not this one)
 - Running `pnpm build` or any write-path command
-- Appending duplicate rows to the Research Inbox
+- Appending duplicate entries to `research-inbox.md`
 - Filtering so aggressively that peripheral-but-relevant leads are lost
 - Accepting regime framings uncritically
 - Stopping after one wave of sources
 - Leaving existing database entities unexamined (every topic run must also audit what's already there)
 - Vague "Why It Matters" entries — each lead needs a specific justification
-- Silently dropping leads if the Notion MCP fails — report the failure instead
+- Silently dropping leads if `research-inbox.md` cannot be written — report the failure instead
 - **Dropping a figure because they are regime-affiliated** — affiliation is a reason to include and document, not to exclude
 - **Writing a neutral academic bio for a regime spokesperson** without surfacing their actual status — this launders their credibility
 
@@ -315,6 +311,5 @@ A successful run produces:
 - regime-narrative caveats applied:
 
 ## Inbox write result
-- number of rows appended:
+- number of entries appended to `research-inbox.md`:
 - number of duplicates skipped:
-- any MCP failures:

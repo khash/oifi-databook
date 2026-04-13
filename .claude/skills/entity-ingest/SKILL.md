@@ -422,28 +422,26 @@ During research (Step 3) and entity creation (Steps 5–7), you will inevitably 
 - Too many entities to ingest in one session
 - Peripheral but potentially important connections
 
-**You MUST capture these in the Notion Research Inbox** so they are not lost.
+**You MUST capture these in `research-inbox.md`** at the root of the repository so they are not lost.
 
 ### Where
 
-The Research Inbox is a Notion page in the OIFI team space under **Databook → Research Inbox**.
-- Page ID: `33fcce3d-8035-8126-92ef-ff32b4ce3e40`
+The Research Inbox is the file `research-inbox.md` in the root of this repository.
 
 ### What to capture
 
-For each entity you encountered but did not ingest, append a row to the table with:
+For each entity you encountered but did not ingest, append an entry under the appropriate section heading (`## People`, `## Organisations`, or `## Events`) using this format:
 
-| Field | Description |
-|---|---|
-| **Entity** | Name of the person, org, or event |
-| **Type** | person / org / event |
-| **Surfaced From** | Which ingestion target or research path led to this entity |
-| **Why It Matters** | Brief note on why this entity would improve the graph (e.g. "key Tudeh figure in 1953 coup", "major protest event with no entity file") |
-| **Status** | `pending` (default), `ingested`, or `skipped` with reason |
+```markdown
+### Entity Name
+- **Status:** pending
+- **Surfaced from:** which ingestion target or research path led to this entity
+- **Why it matters:** brief note on why this entity would improve the graph
+```
 
 ### How
 
-Use the Notion MCP `update-page` tool to append rows to the existing table on the Research Inbox page. Do **not** replace existing rows — only append new ones.
+Use the `Edit` tool to append new entries to the correct section in `research-inbox.md`. Do **not** remove or modify existing entries — only append new ones. Keep the section counts in the headings accurate.
 
 ### When to skip
 
@@ -466,7 +464,7 @@ When finished, provide a concise report containing:
 7. Any ambiguities or skipped claims
 8. Unlinked-reference check result (must be zero warnings for new/modified entities)
 9. Build result (confirms graph-data.json is regenerated)
-10. Research Inbox entries added (list of entities queued for future ingestion)
+10. `research-inbox.md` entries added (list of entities queued for future ingestion)
 
 If validation failed and you could not resolve it, report:
 - exact command run
@@ -609,7 +607,7 @@ A successful run should leave the repository with:
 - zero `[unlinked-refs]` warnings for any entity you created or modified
 - no duplicates introduced
 - `pnpm build` passing (which means `public/graph-data.json` is regenerated and up to date)
-- Research Inbox updated in Notion with any entities encountered but not ingested
+- `research-inbox.md` updated with any entities encountered but not ingested
 
 ---
 
@@ -666,7 +664,7 @@ Return a final response in this structure:
 - result:
 
 ## Research Inbox
-- entities added to Notion Research Inbox for future ingestion:
+- entities added to `research-inbox.md` for future ingestion:
   - entity name (type) — reason
   - ...
 - or: "No new leads — all encountered entities were ingested or already existed"

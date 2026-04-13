@@ -1,0 +1,32 @@
+{
+  "entity_id": "ahmad-reza-zolfaghari-daryani",
+  "slug": "ahmad-reza-zolfaghari-daryani",
+  "name_en": "Ahmad Reza Zolfaghari Daryani",
+  "name_fa": "احمدرضا ذوالفقاری دریانی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Professor of nuclear engineering, Shahid Beheshti University; killed June 2025",
+  "faction": null,
+  "bio": "Ahmad Reza Zolfaghari Daryani was a professor of nuclear engineering at [Shahid Beheshti University](/orgs/shahid-beheshti-university) in Tehran. He was killed on 13 June 2025 in Israeli airstrikes targeting Iran's nuclear infrastructure and scientific community — the opening attacks of [Operation Rising Lion](/events/israeli-strikes-iran-june-2025).\n\nNote: He is a distinct individual from Ebrahim Zolfaghari (the IRGC military spokesperson) — different person, different background.",
+  "irgc_member": false,
+  "expertise": [
+    "nuclear engineering"
+  ],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/2025_Israeli_strikes_on_Iran",
+      "title": "2025 Israeli strikes on Iran",
+      "date": "2025-06-14",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": [
+    "nuclear",
+    "deceased",
+    "assassinated"
+  ],
+  "photo": null,
+  "editorial_notes": "Nuclear engineering professor at SBU. NOT the same as Ebrahim Zolfaghari (IRGC spokesperson). Killed 13 June 2025."
+}

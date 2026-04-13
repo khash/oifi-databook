@@ -1,0 +1,21 @@
+{
+  "entity_id": "said-amir-arjomand-affiliated-with-stony-brook-university",
+  "from_entity": "said-amir-arjomand",
+  "to_entity": "stony-brook-university",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.stonybrook.edu/commcms/sociology/people/faculty/arjomand_said_amir",
+      "source_title": "Said Amir Arjomand — Stony Brook University",
+      "source_date": "2024-01-01",
+      "description": "Said Amir Arjomand is SUNY Distinguished Service Professor of Sociology at Stony Brook University."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

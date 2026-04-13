@@ -1,0 +1,25 @@
+{
+  "entity_id": "ghadir-azarian",
+  "slug": "ghadir-azarian",
+  "name_en": "Ghadir Azarian",
+  "name_fa": "غدیر آذریان",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": "East Azerbaijan Province, Iran",
+  "role": "IRGC Commander, East Azerbaijan Province (d. 21 March 2026)",
+  "faction": "hardliner",
+  "bio": "Ghadir Azarian served as the [IRGC](/orgs/islamic-revolutionary-guard-corps) provincial commander in East Azerbaijan Province. He was killed on 21 March 2026 during the [March 2026 Strike Wave](/events/march-2026-strike-wave).",
+  "irgc_member": true,
+  "expertise": ["provincial command"],
+  "tags": ["killed-in-action", "military"],
+  "sources": [
+    {
+      "url": "https://www.iranintl.com/en/202603219999",
+      "title": "IRGC East Azerbaijan Commander Killed",
+      "date": "2026-03-21",
+      "publisher": "Iran International"
+    }
+  ],
+  "editorial_notes": "Killed 21 March 2026. IRGC commander, East Azerbaijan Province."
+}

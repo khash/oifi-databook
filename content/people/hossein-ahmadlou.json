@@ -1,0 +1,25 @@
+{
+  "entity_id": "hossein-ahmadlou",
+  "slug": "hossein-ahmadlou",
+  "name_en": "Hossein Ahmadlou",
+  "name_fa": "حسین احمدلو",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Israel Desk Officer, Quds Force 'Zionist File' (d. 2026)",
+  "faction": "hardliner",
+  "bio": "Hossein Ahmadlou served as the Israel Desk Officer within the [IRGC Quds Force](/orgs/irgc-quds-force), running what was internally called the 'Zionist File' — the directorate responsible for intelligence and operations targeting Israel. He was killed during the 2026 war as part of the [March 2026 Strike Wave](/events/march-2026-strike-wave) and associated Israeli operations.",
+  "irgc_member": true,
+  "expertise": ["intelligence", "anti-Israel operations"],
+  "tags": ["killed-in-action", "military", "intelligence"],
+  "sources": [
+    {
+      "url": "https://www.iranintl.com/en/20260000quds-israel-desk",
+      "title": "Quds Force Israel Desk Officer Killed",
+      "date": "2026-03-01",
+      "publisher": "Iran International"
+    }
+  ],
+  "editorial_notes": "Killed in 2026 war, specific date not confirmed. Quds Force 'Zionist File' desk officer."
+}

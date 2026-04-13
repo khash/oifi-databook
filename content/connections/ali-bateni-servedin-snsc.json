@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-bateni--served-in--supreme-national-security-council",
+  "from_entity": "ali-bateni",
+  "to_entity": "supreme-national-security-council",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026-03-17",
+  "evidence": [
+    {
+      "source_url": "https://en.majalla.com/node/329988/profiles/iran%E2%80%99s-wartime-leader-isn%E2%80%99t-dealmaker",
+      "source_title": "Iran's wartime leader isn't a dealmaker",
+      "source_date": "2026-03-08",
+      "description": "Bateni was Deputy Secretary of the SNSC."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

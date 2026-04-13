@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-khanzadi-reports-to-habibollah-sayyari",
+  "from_entity": "hossein-khanzadi",
+  "to_entity": "habibollah-sayyari",
+  "type": "reports-to",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2017",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hossein_Khanzadi",
+      "source_title": "Hossein Khanzadi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Khanzadi succeeded Sayyari as IRIN commander in 2017."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Sayyari preceded Khanzadi as Navy commander; Khanzadi operated under and then succeeded him."
+}

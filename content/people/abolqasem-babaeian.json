@@ -1,0 +1,25 @@
+{
+  "entity_id": "abolqasem-babaeian",
+  "slug": "abolqasem-babaeian",
+  "name_en": "Abolqasem Babaeian",
+  "name_fa": "ابوالقاسم بابائیان",
+  "has_native_fa_name": true,
+  "aliases": ["Abolqasem Babaian"],
+  "born": null,
+  "birthplace": null,
+  "role": "Major General; Chief of Staff, Khatam al-Anbiya Central Headquarters (d. 14 March 2026)",
+  "faction": "hardliner",
+  "bio": "Abolqasem Babaeian served as a Major General and Chief of Staff (Staff Chief) of the [Khatam al-Anbiya Central Headquarters](/orgs/khatam-al-anbiya-central-headquarters), the coordinating body for [IRGC](/orgs/islamic-revolutionary-guard-corps) operations. He was the successor to [Gholam Ali Rashid](/people/gholam-ali-rashid) and [Ali Shadmani](/people/ali-shadmani) in this position. He was killed on 14 March 2026 during the [March 2026 Strike Wave](/events/march-2026-strike-wave), in the same strike that killed Brigadier General [Abdullah Jalali-Nasab](/people/abdullah-jalali-nasab).",
+  "irgc_member": true,
+  "expertise": ["military staff operations", "strategic planning"],
+  "tags": ["killed-in-action", "military"],
+  "sources": [
+    {
+      "url": "https://www.iranintl.com/en/202603149999",
+      "title": "Khatam al-Anbiya Chief of Staff Killed",
+      "date": "2026-03-14",
+      "publisher": "Iran International"
+    }
+  ],
+  "editorial_notes": "Killed 14 March 2026. Major General, successor to Rashid/Shadmani as Khatam al-Anbiya Staff Chief."
+}

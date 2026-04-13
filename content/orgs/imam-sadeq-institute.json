@@ -1,0 +1,30 @@
+{
+  "entity_id": "imam-sadeq-institute",
+  "slug": "imam-sadeq-institute",
+  "name_en": "Imam Sadiq Institute (Qom)",
+  "name_fa": "مؤسسۀ امام صادق (ع) قم",
+  "has_native_fa_name": true,
+  "type": "religious",
+  "founded": 1995,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Imam Sadiq Institute (Muassasat al-Imam al-Sadiq) is a theological research and publication institute in Qom, Iran, founded and headed by [Grand Ayatollah Jafar Sobhani](/people/jafar-sobhani). It is one of the most prolific Islamic theological publishers in the Shia world, having produced hundreds of volumes in Arabic and Persian on Islamic theology (kalam), jurisprudence (fiqh), Quranic studies, and the history of Shia doctrine. Its publications are widely used in the Qom hawza curriculum and in Shia seminaries across Iraq, Lebanon, and the Gulf. The institute functions as both a research centre and a publishing house, and is associated with Sobhani's teaching and fatwa-issuing activities.",
+  "faction": null,
+  "tags": [],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.imamsadegh.com",
+      "title": "Imam Sadiq Institute — Official Website",
+      "date": "2024-01-01",
+      "publisher": "Imam Sadiq Institute"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jafar_Sobhani",
+      "title": "Jafar Sobhani — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "Founded by Sobhani. Major Qom theological publisher. Mnar Muhawesh Adley studied under Sobhani."
+}

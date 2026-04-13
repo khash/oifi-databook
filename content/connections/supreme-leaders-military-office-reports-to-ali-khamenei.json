@@ -1,0 +1,21 @@
+{
+  "entity_id": "supreme-leaders-military-office-reports-to-ali-khamenei",
+  "from_entity": "supreme-leaders-military-office",
+  "to_entity": "ali-khamenei",
+  "type": "reports-to",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026-02-28",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Office_of_the_Supreme_Leader_(Iran)",
+      "source_title": "Office of the Supreme Leader (Iran) — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Supreme Leader's Military Office is the personal military staff of Khamenei"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,25 @@
+{
+  "entity_id": "hassan-ali-tajik",
+  "slug": "hassan-ali-tajik",
+  "name_en": "Hassan-Ali Tajik",
+  "name_fa": "حسن‌علی تاجیک",
+  "has_native_fa_name": true,
+  "aliases": ["Hassan Ali Tajik"],
+  "born": null,
+  "birthplace": null,
+  "role": "Brigadier General; Armed Forces Logistics Department (d. 2 March 2026)",
+  "faction": "hardliner",
+  "bio": "Hassan-Ali Tajik served as a Brigadier General in the Armed Forces Logistics Department. He was killed on 2 March 2026 during the [March 2026 Strike Wave](/events/march-2026-strike-wave), in the same strike that also killed [Bahram Hosseini Motlagh](/people/bahram-hosseini-motlagh) and [Mohsen Darrebaghi](/people/mohsen-darrebaghi).",
+  "irgc_member": false,
+  "expertise": ["military logistics"],
+  "tags": ["killed-in-action", "military"],
+  "sources": [
+    {
+      "url": "https://www.iranintl.com/en/202603029999",
+      "title": "Senior Armed Forces Officers Killed in March 2 Strike",
+      "date": "2026-03-02",
+      "publisher": "Iran International"
+    }
+  ],
+  "editorial_notes": "Killed 2 March 2026. Brigadier General, Armed Forces Logistics Department."
+}

@@ -1,0 +1,27 @@
+{
+  "entity_id": "mehdi-rabbani",
+  "slug": "mehdi-rabbani",
+  "name_en": "Mehdi Rabbani",
+  "name_fa": "مهدی ربانی",
+  "has_native_fa_name": true,
+  "aliases": ["Deputy Chief of Armed Forces for Operations"],
+  "born": null,
+  "birthplace": null,
+  "died": "2025-06-14",
+  "role": "Deputy Chief of Armed Forces for Operations",
+  "faction": "hardliner",
+  "irgc_member": false,
+  "bio": "Mehdi Rabbani served as Deputy Chief of Armed Forces for Operations under the [General Staff of the Armed Forces](/orgs/general-staff-of-the-armed-forces), responsible for operational planning and coordination across Iran's military branches. He was killed on 14 June 2025 in the opening strikes of the [Israeli Twelve-Day War campaign](/events/israeli-strikes-iran-june-2025). Note: He is distinct from [Mohsen Rabbani](/people/mohsen-rabbani), the Argentine-based MOIS operative linked to the AMIA bombing.",
+  "expertise": ["military operations", "armed forces command"],
+  "tags": ["killed-in-action", "military", "deceased"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/2026_Iran%E2%80%93Israel_conflict",
+      "title": "2026 Iran–Israel conflict — Wikipedia",
+      "date": "2025-06-15",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "NOT Mohsen Rabbani (AMIA figure). Deputy Chief of Armed Forces for Operations. Killed 14 June 2025."
+}

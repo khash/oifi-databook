@@ -1,0 +1,21 @@
+{
+  "entity_id": "amad-project-subsidiary-of-ministry-of-defense",
+  "from_entity": "amad-project",
+  "to_entity": "ministry-of-defense",
+  "type": "subsidiary-of",
+  "confidence": "confirmed",
+  "date_from": "1989",
+  "date_to": "2003",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Amad_Project",
+      "source_title": "Amad Project — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "The Amad Project operated under the Ministry of Defense and Armed Forces Logistics."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

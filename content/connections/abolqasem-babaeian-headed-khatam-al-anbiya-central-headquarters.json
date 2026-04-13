@@ -1,0 +1,21 @@
+{
+  "entity_id": "abolqasem-babaeian--headed--khatam-al-anbiya-central-headquarters",
+  "from_entity": "abolqasem-babaeian",
+  "to_entity": "khatam-al-anbiya-central-headquarters",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026-03-14",
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202603149999",
+      "source_title": "Khatam al-Anbiya Chief of Staff Killed",
+      "source_date": "2026-03-14",
+      "description": "Babaeian was Staff Chief of the Khatam al-Anbiya Central HQ, successor to Rashid/Shadmani."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

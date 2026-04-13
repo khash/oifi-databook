@@ -1,0 +1,14 @@
+{
+  "entity_id": "bahram-hosseini-motlagh-aligned-with-mohsen-darrebaghi",
+  "from_entity": "bahram-hosseini-motlagh",
+  "to_entity": "mohsen-darrebaghi",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [{"source_url": "https://en.wikipedia.org/wiki/2026_Iran%E2%80%93Israel_conflict", "source_title": "2026 Iran–Israel conflict — Wikipedia", "source_date": "2026-04-01", "description": "Referenced in entity description"}],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

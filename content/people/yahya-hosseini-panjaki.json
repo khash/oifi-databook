@@ -1,0 +1,27 @@
+{
+  "entity_id": "yahya-hosseini-panjaki",
+  "slug": "yahya-hosseini-panjaki",
+  "name_en": "Yahya Hosseini Panjaki",
+  "name_fa": "یحیی حسینی پنجکی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "died": "2026-02-28",
+  "role": "Deputy Minister of Intelligence for Israel Affairs",
+  "faction": "hardliner",
+  "irgc_member": false,
+  "bio": "Yahya Hosseini Panjaki served as Deputy Minister of Intelligence responsible for Israel Affairs within Iran's [Ministry of Intelligence](/orgs/ministry-of-intelligence) (MOIS). His portfolio overseeing intelligence operations targeting Israel made him a prime target in the combined US-Israel campaign. He was killed on 28 February 2026 as part of the [February 28, 2026 strikes](/events/israeli-strikes-iran-feb-2026).",
+  "expertise": ["intelligence", "counter-Israel operations"],
+  "tags": ["killed-in-action", "intelligence", "deceased"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/2026_Iran%E2%80%93Israel_conflict",
+      "title": "2026 Iran–Israel conflict — Wikipedia",
+      "date": "2026-03-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "Deputy Minister of Intelligence for Israel Affairs. Killed 28 Feb 2026."
+}

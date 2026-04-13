@@ -1,0 +1,33 @@
+{
+  "entity_id": "abdolrahim-mousavi",
+  "slug": "abdolrahim-mousavi",
+  "name_en": "Abdolrahim Mousavi",
+  "name_fa": "عبدالرحیم موسوی",
+  "has_native_fa_name": true,
+  "aliases": ["Major General Abdolrahim Mousavi", "Artesh Commander-in-Chief"],
+  "born": 1960,
+  "birthplace": "Iran",
+  "died": "2026-02-28",
+  "role": "Chief of the General Staff of the Armed Forces (2025–2026)",
+  "faction": "hardliner",
+  "bio": "Major General Abdolrahim Mousavi was the Commander-in-Chief of the Islamic Republic of Iran Army (Artesh) from 2017, appointed by [Ali Khamenei](/people/ali-khamenei). After the death of [Mohammad Bagheri](/people/mohammad-bagheri) in June 2025, Mousavi was elevated to Chief of the [General Staff of the Armed Forces of Iran](/orgs/general-staff-of-the-armed-forces) — the most senior uniformed post in Iran's military hierarchy. An Artesh (conventional army) officer rather than an IRGC figure, his appointment at that moment signalled an effort to assert conventional military command continuity amid the devastation inflicted by Operation Rising Lion. He was killed on 28 February 2026 in Israeli airstrikes targeting senior Iranian military and nuclear leadership.",
+  "irgc_member": false,
+  "expertise": ["conventional forces", "army command", "joint command"],
+  "tags": ["killed-in-action", "military", "deceased"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Abdolrahim_Mousavi",
+      "title": "Abdolrahim Mousavi — Wikipedia",
+      "date": "2026-02-28",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.longwarjournal.org/archives/2026/02/iran-military-leadership-killed-february-strikes.php",
+      "title": "Iran military leadership killed in February strikes",
+      "date": "2026-02-28",
+      "publisher": "FDD's Long War Journal"
+    }
+  ],
+  "editorial_notes": "Artesh (not IRGC) officer. Artesh C-in-C 2017–2025, then Chief of General Staff. Killed Feb 28 2026."
+}

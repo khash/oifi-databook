@@ -1,0 +1,21 @@
+{
+  "entity_id": "davoud-alizadeh-succeeded-ibrahim-aqil",
+  "from_entity": "davoud-alizadeh",
+  "to_entity": "ibrahim-aqil",
+  "type": "reports-to",
+  "confidence": "confirmed",
+  "date_from": "2024",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.reuters.com/world/middle-east/ibrahim-aqil-hezbollah-commander-killed-beirut-israeli-strike-2024-09-20/",
+      "source_title": "Ibrahim Aqil, Hezbollah commander, killed in Beirut Israeli strike",
+      "source_date": "2024-09-20",
+      "description": "Davoud Alizadeh was appointed Lebanon Corps commander following Aqil's killing in September 2024."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Alizadeh succeeded Aqil as Lebanon Corps commander after Aqil's killing."
+}

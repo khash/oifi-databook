@@ -1,0 +1,32 @@
+{
+  "entity_id": "ahmad-sadeghi",
+  "slug": "ahmad-sadeghi",
+  "name_en": "Ahmad Sadeghi",
+  "name_fa": "احمد صادقی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Former Iranian Ambassador to Australia; expelled September 2025",
+  "faction": "hardliner",
+  "irgc_member": false,
+  "bio": "Ahmad Sadeghi served as Iran's Ambassador to Australia. In September 2025, the Australian government expelled him — the first ambassador-level expulsion by Australia since World War II — after the Australian Security Intelligence Organisation (ASIO) assessed that the IRGC had directed two antisemitic arson attacks in Sydney and Melbourne. The expulsion marked a significant escalation in Australia's response to Iranian intelligence activities on Australian soil and drew widespread international attention as a historically unprecedented diplomatic action from Canberra.",
+  "expertise": ["diplomacy"],
+  "tags": ["intelligence", "diplomacy", "sanctions"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.theguardian.com/australia-news/2025/sep/australia-expels-iranian-ambassador",
+      "title": "Australia expels Iranian ambassador over IRGC-linked arson attacks",
+      "date": "2025-09-01",
+      "publisher": "The Guardian"
+    },
+    {
+      "url": "https://www.abc.net.au/news/2025-09/australia-expels-iran-ambassador-asio-irgc/",
+      "title": "Australia expels Iranian ambassador after ASIO links IRGC to arson attacks",
+      "date": "2025-09-01",
+      "publisher": "ABC News Australia"
+    }
+  ],
+  "editorial_notes": "Exact expulsion date September 2025. First ambassador-level expulsion from Australia since WWII. ASIO assessment linked IRGC to Sydney and Melbourne arson attacks."
+}

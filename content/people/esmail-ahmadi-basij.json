@@ -1,0 +1,25 @@
+{
+  "entity_id": "esmail-ahmadi-basij",
+  "slug": "esmail-ahmadi-basij",
+  "name_en": "Esmail Ahmadi",
+  "name_fa": "اسماعیل احمدی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Brigadier General; Head, Basij Intelligence (d. 17 March 2026)",
+  "faction": "hardliner",
+  "bio": "Esmail Ahmadi served as a Brigadier General and head of intelligence for the [Basij Forces](/orgs/basij) under the [IRGC](/orgs/islamic-revolutionary-guard-corps). He was killed on 17 March 2026 during the [March 2026 Strike Wave](/events/march-2026-strike-wave) targeting senior Iranian military and intelligence leadership.",
+  "irgc_member": true,
+  "expertise": ["intelligence", "paramilitary operations"],
+  "tags": ["killed-in-action", "military", "intelligence"],
+  "sources": [
+    {
+      "url": "https://www.iranintl.com/en/202603179999",
+      "title": "Senior Basij Deputies Killed in Israeli Strikes",
+      "date": "2026-03-17",
+      "publisher": "Iran International"
+    }
+  ],
+  "editorial_notes": "Killed 17 March 2026. Basij Intelligence Head, Brigadier General."
+}

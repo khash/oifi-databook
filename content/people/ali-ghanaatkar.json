@@ -1,0 +1,27 @@
+{
+  "entity_id": "ali-ghanaatkar",
+  "slug": "ali-ghanaatkar",
+  "name_en": "Ali Ghanaatkar",
+  "name_fa": "علی غنعتکار",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "died": "2025-06",
+  "role": "Top Prosecutor at Evin Prison",
+  "faction": "hardliner",
+  "irgc_member": false,
+  "bio": "Ali Ghanaatkar served as the top prosecutor attached to [Evin Prison](/orgs/evin-prison), Tehran's principal facility for political prisoners. In this role he oversaw prosecutions before the Islamic Revolutionary Courts, including show trials of dissidents, journalists, dual nationals, and political prisoners. He was killed in an Israeli strike during the Twelve-Day War in June 2025. His death was noted by human rights advocates given Evin prosecutors' historic role in overseeing the torture and execution of political prisoners.",
+  "expertise": ["judiciary", "political prosecutions"],
+  "tags": ["killed-in-action", "judiciary", "deceased"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Evin_Prison",
+      "title": "Evin Prison — Wikipedia",
+      "date": "2025-06-20",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "Top prosecutor at Evin Prison. Killed in Israeli strike June 2025 during Twelve-Day War. Oversaw show trials and political executions."
+}

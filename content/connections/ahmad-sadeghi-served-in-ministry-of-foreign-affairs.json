@@ -1,0 +1,21 @@
+{
+  "entity_id": "ahmad-sadeghi-served-in-ministry-of-foreign-affairs",
+  "from_entity": "ahmad-sadeghi",
+  "to_entity": "ministry-of-foreign-affairs",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2025",
+  "evidence": [
+    {
+      "source_url": "https://www.abc.net.au/news/2025-09/australia-expels-iran-ambassador-asio-irgc/",
+      "source_title": "Australia expels Iranian ambassador after ASIO links IRGC to arson attacks",
+      "source_date": "2025-09-01",
+      "description": "Ahmad Sadeghi served as Iran's Ambassador to Australia under the Ministry of Foreign Affairs until his expulsion in September 2025."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

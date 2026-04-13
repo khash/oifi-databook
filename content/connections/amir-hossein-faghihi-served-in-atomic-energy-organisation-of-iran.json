@@ -1,0 +1,21 @@
+{
+  "entity_id": "amir-hossein-faghihi-served-in-atomic-energy-organisation-of-iran",
+  "from_entity": "amir-hossein-faghihi",
+  "to_entity": "atomic-energy-organisation-of-iran",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2025_Israeli_strikes_on_Iran",
+      "source_title": "2025 Israeli strikes on Iran",
+      "source_date": "2025-06-14",
+      "description": "Faghihi served as a vice president of the Atomic Energy Organisation of Iran before heading the NSTRI."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

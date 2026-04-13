@@ -1,0 +1,21 @@
+{
+  "entity_id": "mehdi-rabbani-served-in-general-staff-of-the-armed-forces",
+  "from_entity": "mehdi-rabbani",
+  "to_entity": "general-staff-of-the-armed-forces",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2025-06-14",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2026_Iran%E2%80%93Israel_conflict",
+      "source_title": "2026 Iran–Israel conflict — Wikipedia",
+      "source_date": "2025-06-15",
+      "description": "Rabbani identified as Deputy Chief of Armed Forces for Operations under General Staff"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

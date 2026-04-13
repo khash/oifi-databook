@@ -1,0 +1,21 @@
+{
+  "entity_id": "jorge-taiana-named-in-iran-argentina-mou-2013",
+  "from_entity": "jorge-taiana",
+  "to_entity": "iran-argentina-mou-2013",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2015-01-14",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Alberto_Nisman",
+      "source_title": "Alberto Nisman — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Nisman named Taiana in the treason charges connected to the MOU."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

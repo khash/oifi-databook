@@ -1,0 +1,21 @@
+{
+  "entity_id": "ahmad-reza-zolfaghari-daryani-subject-of-israeli-strikes-iran-june-2025",
+  "from_entity": "ahmad-reza-zolfaghari-daryani",
+  "to_entity": "israeli-strikes-iran-june-2025",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2025-06-13",
+  "date_to": "2025-06-13",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2025_Israeli_strikes_on_Iran",
+      "source_title": "2025 Israeli strikes on Iran",
+      "source_date": "2025-06-14",
+      "description": "Zolfaghari Daryani, professor of nuclear engineering at Shahid Beheshti University, was killed in the opening Israeli airstrikes on 13 June 2025."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

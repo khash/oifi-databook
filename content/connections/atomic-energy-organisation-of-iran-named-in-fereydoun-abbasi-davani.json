@@ -1,0 +1,21 @@
+{
+  "entity_id": "atomic-energy-organisation-of-iran-named-in-fereydoun-abbasi-davani",
+  "from_entity": "atomic-energy-organisation-of-iran",
+  "to_entity": "fereydoun-abbasi-davani",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2011",
+  "date_to": "2013",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Fereydoun_Abbasi-Davani",
+      "source_title": "Fereydoun Abbasi-Davani",
+      "source_date": "2025-06-14",
+      "description": "Abbasi-Davani headed the AEOI from 2011 to 2013."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

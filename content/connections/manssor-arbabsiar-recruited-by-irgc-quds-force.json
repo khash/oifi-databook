@@ -1,0 +1,21 @@
+{
+  "entity_id": "manssor-arbabsiar-recruited-by-irgc-quds-force",
+  "from_entity": "manssor-arbabsiar",
+  "to_entity": "irgc-quds-force",
+  "type": "recruited",
+  "confidence": "confirmed",
+  "date_from": "2011-01-01",
+  "date_to": "2011-10-11",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Manssor_Arbabsiar",
+      "source_title": "Manssor Arbabsiar — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "US DOJ prosecutors established that Arbabsiar was recruited and directed by IRGC-QF officer Gholam Shakuri to carry out the plot."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "esmail-dehghan--served-in--islamic-revolutionary-guard-corps",
+  "from_entity": "esmail-dehghan",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026-03-10",
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202603109999",
+      "source_title": "IRGC Aerospace Commander Killed in Strike",
+      "source_date": "2026-03-10",
+      "description": "Dehghan served in the IRGC."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,25 @@
+{
+  "entity_id": "abuzar-mohammadi",
+  "slug": "abuzar-mohammadi",
+  "name_en": "Abuzar Mohammadi",
+  "name_fa": "ابوذر محمدی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "IRGC Missile Operations officer, embedded with Hezbollah (d. 12 March 2026)",
+  "faction": "hardliner",
+  "bio": "Abuzar Mohammadi was an [IRGC](/orgs/islamic-revolutionary-guard-corps) Missile Operations officer who was embedded with [Hezbollah](/orgs/hezbollah) in Lebanon, serving as a technical and operational liaison for Iranian missile systems transferred to the Lebanese militia. He was killed on 12 March 2026 during the [March 2026 Strike Wave](/events/march-2026-strike-wave).",
+  "irgc_member": true,
+  "expertise": ["missile operations", "proxy coordination"],
+  "tags": ["killed-in-action", "military"],
+  "sources": [
+    {
+      "url": "https://www.iranintl.com/en/202603129999",
+      "title": "IRGC Missile Officer Embedded with Hezbollah Killed",
+      "date": "2026-03-12",
+      "publisher": "Iran International"
+    }
+  ],
+  "editorial_notes": "Killed 12 March 2026. IRGC Missile Operations officer embedded with Hezbollah."
+}

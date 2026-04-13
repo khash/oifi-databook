@@ -1,0 +1,32 @@
+{
+  "entity_id": "gholam-shakuri",
+  "slug": "gholam-shakuri",
+  "name_en": "Gholam Shakuri",
+  "name_fa": "غلام شکوری",
+  "has_native_fa_name": true,
+  "aliases": ["Ali Gholam Shakuri"],
+  "born": null,
+  "birthplace": "Iran",
+  "role": "IRGC-Quds Force officer; directed the 2011 Arbabsiar assassination plot against Saudi Ambassador Adel Al-Jubeir",
+  "faction": "hardliner",
+  "irgc_member": true,
+  "bio": "Gholam Shakuri is an [IRGC-Quds Force](/orgs/irgc-quds-force) officer and the principal operational director of the [2011 plot to assassinate Saudi Ambassador Adel Al-Jubeir](/events/arbabsiar-plot-2011) in Washington DC. A Tehran-based officer, Shakuri recruited his cousin [Manssor Arbabsiar](/people/manssor-arbabsiar) — an Iranian-American with no intelligence background — and directed him to arrange the killing through what both believed was a Mexican drug cartel. US prosecutors identified Shakuri as reporting to Abdul Reza Shahlai, a senior IRGC-QF officer. Shakuri is listed on the FBI's wanted list and subject to US Treasury sanctions. He remains at large in Iran.",
+  "expertise": ["intelligence", "covert operations"],
+  "tags": ["intelligence", "proxy-warfare", "sanctions", "military"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Gholam_Shakuri",
+      "title": "Gholam Shakuri — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.fbi.gov/wanted/terrorinfo/gholam-shakuri",
+      "title": "Gholam Shakuri — FBI Most Wanted",
+      "date": "2011-10-11",
+      "publisher": "Federal Bureau of Investigation"
+    }
+  ],
+  "editorial_notes": "FBI wanted. Indicted October 2011. Reported to Abdul Reza Shahlai per US prosecutors. Remains in Iran. Cousin of Arbabsiar."
+}

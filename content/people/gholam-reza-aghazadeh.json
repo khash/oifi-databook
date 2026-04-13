@@ -1,0 +1,33 @@
+{
+  "entity_id": "gholam-reza-aghazadeh",
+  "slug": "gholam-reza-aghazadeh",
+  "name_en": "Gholam Reza Aghazadeh",
+  "name_fa": "غلامرضا آقازاده",
+  "has_native_fa_name": true,
+  "aliases": ["Gholamreza Aghazadeh", "Gholam-Reza Aghazadeh Khoi"],
+  "born": 1949,
+  "birthplace": "Khoy, West Azerbaijan Province",
+  "died": null,
+  "role": "Head of the Atomic Energy Organisation of Iran (1997–2011); former Vice President",
+  "faction": "pragmatist",
+  "irgc_member": false,
+  "bio": "Gholam Reza Aghazadeh served as head of the [Atomic Energy Organisation of Iran](/orgs/atomic-energy-organisation-of-iran) (AEOI) for fourteen years under Presidents [Mohammad Khatami](/people/mohammad-khatami) and [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad) (1997–2011), the longest tenure of any AEOI head. He also served as Minister of Petroleum (1985–1997) under Khamenei when the latter was president. During his AEOI tenure he oversaw a major expansion of Iran's uranium enrichment capabilities, including the restart of the Natanz enrichment facility and the installation of first-generation centrifuges that became subjects of IAEA scrutiny. His name appears prominently in IAEA Board of Governors reports from the early 2000s concerning Iran's undisclosed nuclear activities. He resigned abruptly in July 2009 amid the post-election political crisis. He is named in connection with efforts to acquire nuclear-related materials for Iran's programme.",
+  "expertise": ["nuclear programme", "petroleum industry", "state administration"],
+  "tags": ["nuclear"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Gholam_Reza_Aghazadeh",
+      "title": "Gholam Reza Aghazadeh — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.iaea.org/sites/default/files/gov2003-75.pdf",
+      "title": "IAEA Board of Governors Report GOV/2003/75 — Implementation of the NPT Safeguards Agreement in the Islamic Republic of Iran",
+      "date": "2003-11-10",
+      "publisher": "IAEA"
+    }
+  ],
+  "editorial_notes": "Born 1949 Khoy. Minister of Petroleum 1985–1997. AEOI head 1997–2011. Resigned July 2009. Named in multiple IAEA safeguards reports."
+}

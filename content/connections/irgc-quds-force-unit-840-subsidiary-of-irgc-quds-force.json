@@ -1,0 +1,21 @@
+{
+  "entity_id": "irgc-quds-force-unit-840-subsidiary-of-irgc-quds-force",
+  "from_entity": "irgc-quds-force-unit-840",
+  "to_entity": "irgc-quds-force",
+  "type": "subsidiary-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://home.treasury.gov/news/press-releases/jy0902",
+      "source_title": "Treasury Sanctions IRGC Officials Responsible for Plots Against Americans and Israelis",
+      "source_date": "2022-09-13",
+      "description": "US Treasury designated Unit 840 as part of the IRGC Quds Force structure in September 2022."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

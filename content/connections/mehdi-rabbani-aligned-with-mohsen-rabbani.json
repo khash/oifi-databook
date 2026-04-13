@@ -1,0 +1,21 @@
+{
+  "entity_id": "mehdi-rabbani-aligned-with-mohsen-rabbani",
+  "from_entity": "mehdi-rabbani",
+  "to_entity": "mohsen-rabbani",
+  "type": "aligned-with",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2026_Iran%E2%80%93Israel_conflict",
+      "source_title": "2026 Iran–Israel conflict — Wikipedia",
+      "source_date": "2025-06-15",
+      "description": "Noted in bio to distinguish the two; no substantive connection between them beyond shared surname"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": "Disambiguation note only — these two are not related."
+}

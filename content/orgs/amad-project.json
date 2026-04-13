@@ -1,0 +1,36 @@
+{
+  "entity_id": "amad-project",
+  "slug": "amad-project",
+  "name_en": "Amad Project",
+  "name_fa": "پروژه عماد",
+  "has_native_fa_name": true,
+  "type": "military",
+  "founded": 1989,
+  "dissolved": 2003,
+  "parent_org": "ministry-of-defense",
+  "description": "The Amad Project (Project 111) was Iran's covert nuclear weapons research and development programme, led by [Mohsen Fakhrizadeh](/people/mohsen-fakhrizadeh) under the [Ministry of Defense](/orgs/ministry-of-defense). The programme pursued nuclear warhead miniaturisation, implosion-type weapon design, high-explosives testing, and integration of a nuclear payload into a ballistic missile delivery system. The IAEA documented the project extensively through analysis of a 'possible military dimensions' dossier. Iran officially claimed to have shut down the programme in 2003 following the US invasion of Iraq, though Western intelligence agencies assessed that key work continued under the successor organisation [SPND](/orgs/spnd) (Organisation of Defensive Innovation and Research), which absorbed Amad's personnel and institutional knowledge.",
+  "faction": null,
+  "tags": ["nuclear", "defunct", "military"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Amad_Project",
+      "title": "Amad Project — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.iaea.org/newscenter/pressreleases/iaea-report-possible-military-dimensions-iran",
+      "title": "IAEA Report: Possible Military Dimensions in Iran — November 2011",
+      "date": "2011-11-08",
+      "publisher": "IAEA"
+    },
+    {
+      "url": "https://iranwatch.org/iranian-entities/amad-project",
+      "title": "Amad Project — Wisconsin Project on Nuclear Arms Control",
+      "date": "2024-01-01",
+      "publisher": "Wisconsin Project on Nuclear Arms Control"
+    }
+  ],
+  "editorial_notes": "Official IAEA codename: Project 111. Led by Fakhrizadeh. Dissolved 2003 nominally; succeeded by SPND (est. 2011)."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-jabal-amelian-coordinated-with-reza-mozaffari-nia",
+  "from_entity": "hossein-jabal-amelian",
+  "to_entity": "reza-mozaffari-nia",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026",
+  "evidence": [
+    {
+      "source_url": "https://iranwatch.org/iranian-entities/organization-defensive-innovation-and-research-spnd",
+      "source_title": "Organization of Defensive Innovation and Research (SPND)",
+      "source_date": "2024-01-01",
+      "description": "Jabal Amelian and Mozaffari Nia both served as SPND directors, one succeeding the other within the same organisation."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

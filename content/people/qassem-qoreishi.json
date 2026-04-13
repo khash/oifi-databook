@@ -1,0 +1,25 @@
+{
+  "entity_id": "qassem-qoreishi",
+  "slug": "qassem-qoreishi",
+  "name_en": "Qassem Qoreishi",
+  "name_fa": "قاسم قریشی",
+  "has_native_fa_name": true,
+  "aliases": ["Ghasem Qoreishi"],
+  "born": null,
+  "birthplace": null,
+  "role": "Deputy Head, Basij Forces (d. 17 March 2026)",
+  "faction": "hardliner",
+  "bio": "Qassem Qoreishi served as Deputy Head of the [Basij Forces](/orgs/basij), the paramilitary volunteer militia under the [IRGC](/orgs/islamic-revolutionary-guard-corps). He was killed on 17 March 2026 during the [March 2026 Strike Wave](/events/march-2026-strike-wave) targeting senior Iranian military leadership.",
+  "irgc_member": true,
+  "expertise": ["paramilitary command"],
+  "tags": ["killed-in-action", "military"],
+  "sources": [
+    {
+      "url": "https://www.iranintl.com/en/202603179999",
+      "title": "Senior Basij Deputies Killed in Israeli Strikes",
+      "date": "2026-03-17",
+      "publisher": "Iran International"
+    }
+  ],
+  "editorial_notes": "Killed 17 March 2026. Basij Deputy Head."
+}

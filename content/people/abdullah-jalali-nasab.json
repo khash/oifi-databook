@@ -1,0 +1,25 @@
+{
+  "entity_id": "abdullah-jalali-nasab",
+  "slug": "abdullah-jalali-nasab",
+  "name_en": "Abdullah Jalali-Nasab",
+  "name_fa": "عبدالله جلالی‌نسب",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Brigadier General; Intelligence Chief, Khatam al-Anbiya Central Headquarters (d. 14 March 2026)",
+  "faction": "hardliner",
+  "bio": "Abdullah Jalali-Nasab served as a Brigadier General and head of intelligence at the [Khatam al-Anbiya Central Headquarters](/orgs/khatam-al-anbiya-central-headquarters). He was killed on 14 March 2026 during the [March 2026 Strike Wave](/events/march-2026-strike-wave), in the same strike that killed Major General [Abolqasem Babaeian](/people/abolqasem-babaeian).",
+  "irgc_member": true,
+  "expertise": ["military intelligence"],
+  "tags": ["killed-in-action", "military", "intelligence"],
+  "sources": [
+    {
+      "url": "https://www.iranintl.com/en/202603149999",
+      "title": "Khatam al-Anbiya Leadership Killed",
+      "date": "2026-03-14",
+      "publisher": "Iran International"
+    }
+  ],
+  "editorial_notes": "Killed 14 March 2026. Brigadier General, Khatam al-Anbiya Intelligence."
+}

@@ -1,0 +1,25 @@
+{
+  "entity_id": "nuclear-science-and-technology-research-institute",
+  "slug": "nuclear-science-and-technology-research-institute",
+  "name_en": "Nuclear Science and Technology Research Institute",
+  "name_fa": "پژوهشگاه علوم و فنون هسته‌ای",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": null,
+  "dissolved": null,
+  "parent_org": "atomic-energy-organisation-of-iran",
+  "description": "The Nuclear Science and Technology Research Institute (NSTRI) is the principal research arm of the [Atomic Energy Organisation of Iran](/orgs/atomic-energy-organisation-of-iran), responsible for applied nuclear research, isotope production, and development of reactor and radiation technologies. [Amir Hossein Faghihi](/people/amir-hossein-faghihi), a former AEOI vice president, served as its head before being killed in Israeli airstrikes on 13 June 2025.",
+  "faction": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Nuclear_Science_and_Technology_Research_Institute",
+      "title": "Nuclear Science and Technology Research Institute",
+      "date": "2025-06-14",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": [
+    "nuclear"
+  ],
+  "editorial_notes": "Subsidiary of AEOI. Also referred to as NSTRI. Amir Hossein Faghihi was head at time of death."
+}

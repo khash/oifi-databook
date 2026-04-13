@@ -1,0 +1,21 @@
+{
+  "entity_id": "spnd-successor-to-amad-project",
+  "from_entity": "spnd",
+  "to_entity": "amad-project",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "2011",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Organisation_of_Defensive_Innovation_and_Research",
+      "source_title": "Organisation of Defensive Innovation and Research — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "SPND is widely assessed as the institutional successor to the Amad Project, absorbing its personnel and continuing its research mandate."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": "SPND is successor; affiliation is the closest available type for institutional succession."
+}

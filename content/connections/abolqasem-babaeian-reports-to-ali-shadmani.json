@@ -1,0 +1,21 @@
+{
+  "entity_id": "abolqasem-babaeian-reports-to-ali-shadmani",
+  "from_entity": "abolqasem-babaeian",
+  "to_entity": "ali-shadmani",
+  "type": "reports-to",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2025",
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202603149999",
+      "source_title": "Khatam al-Anbiya Chief of Staff Killed",
+      "source_date": "2026-03-14",
+      "description": "Babaeian succeeded Ali Shadmani in his role at Khatam al-Anbiya Central Headquarters."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

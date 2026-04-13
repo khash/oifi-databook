@@ -1,0 +1,27 @@
+{
+  "entity_id": "mohammad-baseri",
+  "slug": "mohammad-baseri",
+  "name_en": "Mohammad Baseri",
+  "name_fa": "محمد باسری",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "died": "2026-02-28",
+  "role": "Senior official, Ministry of Intelligence (MOIS)",
+  "faction": "hardliner",
+  "irgc_member": false,
+  "bio": "Mohammad Baseri was a senior official within Iran's [Ministry of Intelligence](/orgs/ministry-of-intelligence) (MOIS). He was killed on 28 February 2026 in the combined US-Israel decapitation strikes that targeted Iran's intelligence and military leadership as part of the [February 28, 2026 strikes](/events/israeli-strikes-iran-feb-2026).",
+  "expertise": ["intelligence"],
+  "tags": ["killed-in-action", "intelligence", "deceased"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/2026_Iran%E2%80%93Israel_conflict",
+      "title": "2026 Iran–Israel conflict — Wikipedia",
+      "date": "2026-03-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "Senior MOIS official. Killed 28 Feb 2026 in US/Israel strikes."
+}

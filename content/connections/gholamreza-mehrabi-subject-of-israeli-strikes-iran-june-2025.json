@@ -1,0 +1,21 @@
+{
+  "entity_id": "gholamreza-mehrabi-subject-of-israeli-strikes-iran-june-2025",
+  "from_entity": "gholamreza-mehrabi",
+  "to_entity": "israeli-strikes-iran-june-2025",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2025-06-14",
+  "date_to": "2025-06-14",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2026_Iran%E2%80%93Israel_conflict",
+      "source_title": "2026 Iran–Israel conflict — Wikipedia",
+      "source_date": "2025-06-15",
+      "description": "Mehrabi killed 14 June 2025 in Twelve-Day War opening strikes"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

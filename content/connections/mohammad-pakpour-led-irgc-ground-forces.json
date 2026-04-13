@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-pakpour-led-irgc-ground-forces",
+  "from_entity": "mohammad-pakpour",
+  "to_entity": "irgc-ground-forces",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "2014",
+  "date_to": "2025",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Pakpour",
+      "source_title": "Mohammad Pakpour — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Mohammad Pakpour commanded the IRGC Ground Forces from 2014 to 2025."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

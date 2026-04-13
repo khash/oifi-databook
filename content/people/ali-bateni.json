@@ -1,0 +1,25 @@
+{
+  "entity_id": "ali-bateni",
+  "slug": "ali-bateni",
+  "name_en": "Ali Bateni",
+  "name_fa": "علی باطنی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Deputy Secretary, Supreme National Security Council (d. 17 March 2026)",
+  "faction": "hardliner",
+  "bio": "Ali Bateni served as Deputy Secretary of the [Supreme National Security Council](/orgs/supreme-national-security-council). He was killed on 17 March 2026 in the Israeli airstrike that also killed [Ali Larijani](/people/ali-larijani), [Morteza Larijani](/people/morteza-larijani), and [Alireza Bayat](/people/alireza-bayat), as part of the [March 2026 Strike Wave](/events/march-2026-strike-wave).",
+  "irgc_member": false,
+  "expertise": ["national security policy"],
+  "tags": ["killed-in-action"],
+  "sources": [
+    {
+      "url": "https://en.majalla.com/node/329988/profiles/iran%E2%80%99s-wartime-leader-isn%E2%80%99t-dealmaker",
+      "title": "Iran's wartime leader isn't a dealmaker",
+      "date": "2026-03-08",
+      "publisher": "Al Majalla"
+    }
+  ],
+  "editorial_notes": "Killed 17 March 2026 in the Larijani strike. SNSC Deputy Secretary."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-mohammad-naini--subject-of--march-2026-strike-wave",
+  "from_entity": "ali-mohammad-naini",
+  "to_entity": "march-2026-strike-wave",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2026-03-20",
+  "date_to": "2026-03-20",
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202603209999",
+      "source_title": "IRGC Spokesperson Killed in Strike",
+      "source_date": "2026-03-20",
+      "description": "Naini killed 20 March 2026."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,25 @@
+{
+  "entity_id": "alireza-bayat",
+  "slug": "alireza-bayat",
+  "name_en": "Alireza Bayat",
+  "name_fa": "علیرضا بیات",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Deputy for Internal Security, Supreme National Security Council (d. 17 March 2026)",
+  "faction": "hardliner",
+  "bio": "Alireza Bayat served as Deputy for Internal Security at the [Supreme National Security Council](/orgs/supreme-national-security-council). He was killed on 17 March 2026 in the same Israeli airstrike that killed [Ali Larijani](/people/ali-larijani), as part of the [March 2026 Strike Wave](/events/march-2026-strike-wave). The SNSC strike also killed [Morteza Larijani](/people/morteza-larijani) and [Ali Bateni](/people/ali-bateni).",
+  "irgc_member": false,
+  "expertise": ["internal security", "national security policy"],
+  "tags": ["killed-in-action", "intelligence"],
+  "sources": [
+    {
+      "url": "https://en.majalla.com/node/329988/profiles/iran%E2%80%99s-wartime-leader-isn%E2%80%99t-dealmaker",
+      "title": "Iran's wartime leader isn't a dealmaker",
+      "date": "2026-03-08",
+      "publisher": "Al Majalla"
+    }
+  ],
+  "editorial_notes": "Killed 17 March 2026 in the Larijani strike. SNSC Deputy for Internal Security."
+}

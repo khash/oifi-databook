@@ -1,0 +1,32 @@
+{
+  "entity_id": "cristina-fernandez-de-kirchner",
+  "slug": "cristina-fernandez-de-kirchner",
+  "name_en": "Cristina Fernández de Kirchner",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "aliases": ["Cristina Kirchner", "CFK"],
+  "born": 1953,
+  "birthplace": "La Plata, Argentina",
+  "role": "President of Argentina (2007–2015); accused by prosecutor Alberto Nisman of treason for the 2013 MOU with Iran",
+  "faction": null,
+  "irgc_member": false,
+  "bio": "Cristina Fernández de Kirchner served as President of Argentina from 2007 to 2015, succeeding her husband Néstor Kirchner. During her second term, her government signed the [Iran–Argentina MOU](/events/iran-argentina-mou-2013) on 27 January 2013 — a memorandum of understanding with the Iranian government that established a joint truth commission to reinvestigate the [AMIA bombing](/events/amia-bombing-1994) of 1994. In January 2015, AMIA special prosecutor [Alberto Nisman](/people/alberto-nisman) filed a 289-page charging document accusing Kirchner and Foreign Minister [Jorge Taiana](/people/jorge-taiana) of treason and cover-up, alleging that the MOU was designed to shield Iranian suspects from Interpol red notices and Argentine prosecution in exchange for oil and trade concessions. On 18 January 2015 — the night before Nisman was scheduled to testify before Congress — he was found dead in his apartment. His death, initially ruled a suicide, was determined to be homicide by a federal court in 2019. The investigation into who ordered the killing and the validity of the treason charges against Kirchner remain contested and politically charged issues in Argentina.",
+  "expertise": [],
+  "tags": ["diplomacy"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Cristina_Fernández_de_Kirchner",
+      "title": "Cristina Fernández de Kirchner — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.bbc.com/news/world-latin-america-30920898",
+      "title": "Argentine prosecutor Alberto Nisman found dead",
+      "date": "2015-01-19",
+      "publisher": "BBC News"
+    }
+  ],
+  "editorial_notes": "Nisman filed charges against her and Taiana on January 14 2015. She dismissed the case as politically motivated. 2019 federal court found Nisman murdered; chain of responsibility still investigated."
+}

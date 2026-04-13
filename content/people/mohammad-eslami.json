@@ -1,0 +1,33 @@
+{
+  "entity_id": "mohammad-eslami",
+  "slug": "mohammad-eslami",
+  "name_en": "Mohammad Eslami",
+  "name_fa": "محمد اسلامی",
+  "has_native_fa_name": true,
+  "aliases": ["Mohammad Eslami Rad"],
+  "born": 1956,
+  "birthplace": "Isfahan, Iran",
+  "died": null,
+  "role": "Head of the Atomic Energy Organisation of Iran (2021–present); Vice President of Iran",
+  "faction": "hardliner",
+  "irgc_member": false,
+  "bio": "Mohammad Eslami was appointed head of the [Atomic Energy Organisation of Iran](/orgs/atomic-energy-organisation-of-iran) (AEOI) by President [Ebrahim Raisi](/people/ebrahim-raisi) in August 2021 and serves concurrently as a Vice President of Iran. A civil engineer by training, he previously served as Minister of Roads and Urban Development (2013–2017) under Rouhani. As AEOI chief he oversaw a dramatic acceleration of Iran's nuclear programme — including enrichment to 60% purity and the installation of advanced IR-6 centrifuges — in the post-JCPOA collapse period. He has been sanctioned by the United States, European Union, and United Nations for his role in Iran's nuclear activities. Under his tenure Iran reduced cooperation with the IAEA to its lowest level in decades.",
+  "expertise": ["nuclear programme", "civil engineering", "state administration"],
+  "tags": ["nuclear", "sanctions"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mohammad_Eslami",
+      "title": "Mohammad Eslami — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.iaea.org/newscenter/news/iaea-director-general-meets-with-head-of-aeoi-2021",
+      "title": "IAEA Director General meets with Head of AEOI",
+      "date": "2021-09-01",
+      "publisher": "IAEA"
+    }
+  ],
+  "editorial_notes": "Born 1956 Isfahan. AEOI head Aug 2021–present under Raisi, then retained under Pezeshkian. Sanctioned by US, EU, UN. Oversaw 60% enrichment acceleration."
+}

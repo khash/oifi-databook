@@ -1,0 +1,25 @@
+{
+  "entity_id": "alireza-bi-azar",
+  "slug": "alireza-bi-azar",
+  "name_en": "Alireza Bi-Azar",
+  "name_fa": "علیرضا بی‌آزار",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Intelligence Officer, Quds Force Lebanon Corps (d. 2026)",
+  "faction": "hardliner",
+  "bio": "Alireza Bi-Azar served as an intelligence officer in the [IRGC Quds Force Lebanon Corps](/orgs/irgc-quds-force-lebanon-corps), the unit responsible for managing IRGC operations in Lebanon and coordinating with [Hezbollah](/orgs/hezbollah). He was killed during the 2026 war as part of the [March 2026 Strike Wave](/events/march-2026-strike-wave) and associated operations targeting the Lebanon Corps.",
+  "irgc_member": true,
+  "expertise": ["intelligence", "Lebanon operations"],
+  "tags": ["killed-in-action", "military", "intelligence"],
+  "sources": [
+    {
+      "url": "https://www.iranintl.com/en/202600000quds-lebanon-intelligence",
+      "title": "Quds Force Lebanon Corps Intelligence Officer Killed",
+      "date": "2026-03-01",
+      "publisher": "Iran International"
+    }
+  ],
+  "editorial_notes": "Killed in 2026 war, specific date not confirmed. Intelligence Officer, Quds Force Lebanon Corps."
+}

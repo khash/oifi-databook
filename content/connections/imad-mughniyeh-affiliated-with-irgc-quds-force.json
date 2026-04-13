@@ -1,0 +1,21 @@
+{
+  "entity_id": "imad-mughniyeh-affiliated-with-irgc-quds-force",
+  "from_entity": "imad-mughniyeh",
+  "to_entity": "irgc-quds-force",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2008-02-12",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Imad_Mughniyeh",
+      "source_title": "Imad Mughniyeh — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Mughniyeh maintained extremely close operational ties with the IRGC-Quds Force, functioning as a joint Hezbollah-IRGC asset over decades of cooperation."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

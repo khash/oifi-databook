@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-ghanaatkar-subject-of-israeli-strikes-iran-june-2025",
+  "from_entity": "ali-ghanaatkar",
+  "to_entity": "israeli-strikes-iran-june-2025",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2025-06",
+  "date_to": "2025-06",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Evin_Prison",
+      "source_title": "Evin Prison — Wikipedia",
+      "source_date": "2025-06-20",
+      "description": "Ghanaatkar killed in Israeli strike during Twelve-Day War June 2025"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

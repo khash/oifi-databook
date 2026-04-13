@@ -1,0 +1,14 @@
+{
+  "entity_id": "naqi-mohaddesnia-subject-of-march-2026-strike-wave",
+  "from_entity": "naqi-mohaddesnia",
+  "to_entity": "march-2026-strike-wave",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2026-03",
+  "date_to": null,
+  "evidence": [{"source_url": "https://www.iranintl.com/en/202603-irgc-basij-snsc-killed", "source_title": "Dozens of Senior IRGC and SNSC Officials Killed in March 2026 Strikes", "source_date": "2026-04-01", "description": "Killed in March 2026 strikes"}],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

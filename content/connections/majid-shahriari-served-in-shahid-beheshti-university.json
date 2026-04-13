@@ -1,0 +1,21 @@
+{
+  "entity_id": "majid-shahriari-served-in-shahid-beheshti-university",
+  "from_entity": "majid-shahriari",
+  "to_entity": "shahid-beheshti-university",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2010",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Majid_Shahriari",
+      "source_title": "Majid Shahriari — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Shahriari was a professor of nuclear physics at Shahid Beheshti University."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

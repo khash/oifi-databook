@@ -1,0 +1,14 @@
+{
+  "entity_id": "march-2026-strike-wave-subject-of-basij",
+  "from_entity": "march-2026-strike-wave",
+  "to_entity": "basij",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2026-03",
+  "date_to": null,
+  "evidence": [{"source_url": "https://www.iranintl.com/en/202603-irgc-basij-snsc-killed", "source_title": "Dozens of Senior IRGC and SNSC Officials Killed in March 2026 Strikes", "source_date": "2026-04-01", "description": "March 2026 strikes targeted Basij leadership"}],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

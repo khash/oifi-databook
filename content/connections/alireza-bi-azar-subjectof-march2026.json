@@ -1,0 +1,21 @@
+{
+  "entity_id": "alireza-bi-azar--subject-of--march-2026-strike-wave",
+  "from_entity": "alireza-bi-azar",
+  "to_entity": "march-2026-strike-wave",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2026",
+  "date_to": "2026",
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202600000quds-lebanon-intelligence",
+      "source_title": "Quds Force Lebanon Corps Intelligence Officer Killed",
+      "source_date": "2026-03-01",
+      "description": "Bi-Azar killed in 2026 war."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

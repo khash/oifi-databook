@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-reza-shahvaroghi-farahani-served-in-iran-permanent-mission-un",
+  "from_entity": "ali-reza-shahvaroghi-farahani",
+  "to_entity": "iran-permanent-mission-un",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026",
+  "evidence": [
+    {
+      "source_url": "https://www.axios.com/2026/04/us-expels-iranian-diplomat-un-mission",
+      "source_title": "US expels Iranian diplomat from UN mission over national security concerns",
+      "source_date": "2026-04-01",
+      "description": "Ali Reza Shahvaroghi Farahani was the fourth-ranking diplomat at Iran's UN mission in New York, expelled by the US State Department in April 2026."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,14 @@
+{
+  "entity_id": "amad-project-affiliated-with-mohsen-fakhrizadeh",
+  "from_entity": "amad-project",
+  "to_entity": "mohsen-fakhrizadeh",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [{"source_url": "https://en.wikipedia.org/wiki/Amad_Project", "source_title": "Amad Project — Wikipedia", "source_date": "2024-01-01", "description": "Fakhrizadeh led the Amad Project"}],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

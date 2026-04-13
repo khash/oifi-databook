@@ -1,0 +1,36 @@
+{
+  "entity_id": "spnd",
+  "slug": "spnd",
+  "name_en": "Organisation of Defensive Innovation and Research (SPND)",
+  "name_fa": "سازمان پژوهش‌های دفاعی‌نوین",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 2011,
+  "dissolved": null,
+  "parent_org": "ministry-of-defense",
+  "description": "The Organisation of Defensive Innovation and Research (Sazman-e Pazhuhesh-haye Defai-ye Novin, SPND) is a secretive Iranian defence research body established circa 2011 under the [Ministry of Defense](/orgs/ministry-of-defense). It is widely assessed by Western intelligence services and the IAEA as the successor to the Amad Project — the covert nuclear weapons programme led by [Mohsen Fakhrizadeh](/people/mohsen-fakhrizadeh) until its nominal 'dissolution' in 2003. SPND absorbed key personnel and continued research on weaponisation, high-explosives diagnostics, and delivery system integration. The IAEA has sought access to SPND facilities since 2012. The organisation was headed by [Reza Mozaffari Nia](/people/reza-mozaffari-nia) and later [Hossein Jabal Amelian](/people/hossein-jabal-amelian), both of whom were killed in Israeli airstrikes on 28 February 2026.",
+  "faction": null,
+  "tags": ["military", "nuclear", "sanctions"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Organisation_of_Defensive_Innovation_and_Research",
+      "title": "Organisation of Defensive Innovation and Research — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.iaea.org/newscenter/pressreleases/iaea-director-generals-report-on-iran",
+      "title": "IAEA Director General's Report on Iran",
+      "date": "2023-09-01",
+      "publisher": "IAEA"
+    },
+    {
+      "url": "https://iranwatch.org/iranian-entities/organization-defensive-innovation-and-research-spnd",
+      "title": "Organization of Defensive Innovation and Research (SPND)",
+      "date": "2024-01-01",
+      "publisher": "Wisconsin Project on Nuclear Arms Control"
+    }
+  ],
+  "editorial_notes": "SPND is the successor to AMAD. Sanctioned by US, EU, UK. Its leadership was eliminated in Israeli strikes Feb 28 2026."
+}

@@ -1,0 +1,19 @@
+{
+  "entity_id": "alberto-nisman-named-in-amia-bombing-1994",
+  "from_entity": "alberto-nisman",
+  "to_entity": "amia-bombing-1994",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "family_subtype": null,
+  "date_start": "2004-01-01",
+  "date_end": "2015-01-18",
+  "description": "Nisman served as the lead special prosecutor for the AMIA case from 2004 until his death in January 2015, building the principal evidentiary case linking Iran to the bombing.",
+  "evidence": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Alberto_Nisman",
+      "title": "Alberto Nisman — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ]
+}

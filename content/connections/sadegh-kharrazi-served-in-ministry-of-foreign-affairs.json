@@ -1,0 +1,21 @@
+{
+  "entity_id": "sadegh-kharrazi-served-in-ministry-of-foreign-affairs",
+  "from_entity": "sadegh-kharrazi",
+  "to_entity": "ministry-of-foreign-affairs",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Sadegh_Kharrazi",
+      "source_title": "Sadegh Kharrazi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Sadegh Kharrazi served as Deputy Foreign Minister and ambassador in the Iranian Ministry of Foreign Affairs."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "manssor-arbabsiar-participated-in-arbabsiar-plot-2011",
+  "from_entity": "manssor-arbabsiar",
+  "to_entity": "arbabsiar-plot-2011",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2011-10-11",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.justice.gov/opa/pr/two-men-charged-alleged-plot-assassinate-saudi-arabian-ambassador-united-states",
+      "source_title": "Two Men Charged in Alleged Plot to Assassinate Saudi Arabian Ambassador — US DOJ",
+      "source_date": "2011-10-11",
+      "description": "Arbabsiar was indicted and arrested for his role as the US-based operative in the plot."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-khamenei-appointed-mohammad-pakpour",
+  "from_entity": "ali-khamenei",
+  "to_entity": "mohammad-pakpour",
+  "type": "appointed",
+  "confidence": "confirmed",
+  "date_from": "2025",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Pakpour",
+      "source_title": "Mohammad Pakpour — Wikipedia",
+      "source_date": "2026-02-28",
+      "description": "Khamenei appointed Pakpour as IRGC Commander-in-Chief following the death of Hossein Salami in June 2025."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-banuazizi-affiliated-with-boston-college",
+  "from_entity": "ali-banuazizi",
+  "to_entity": "boston-college",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.bc.edu/bc-web/schools/mcas/departments/political-science/people/faculty-directory/ali-banuazizi.html",
+      "source_title": "Ali Banuazizi — Boston College",
+      "source_date": "2024-01-01",
+      "description": "Ali Banuazizi is professor emeritus of political science and psychology at Boston College."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

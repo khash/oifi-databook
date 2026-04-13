@@ -1,0 +1,25 @@
+{
+  "entity_id": "mehdi-qureishi",
+  "slug": "mehdi-qureishi",
+  "name_en": "Mehdi Qureishi",
+  "name_fa": "مهدی قریشی",
+  "has_native_fa_name": true,
+  "aliases": ["Mehdi Qoreyshi"],
+  "born": null,
+  "birthplace": null,
+  "role": "Commander, IRGC Aerospace Force (d. 20 March 2026)",
+  "faction": "hardliner",
+  "bio": "Mehdi Qureishi served as a commander in the [IRGC Aerospace Force](/orgs/irgc-aerospace-force) under the [IRGC](/orgs/islamic-revolutionary-guard-corps). He was killed on 20 March 2026 during the [March 2026 Strike Wave](/events/march-2026-strike-wave).",
+  "irgc_member": true,
+  "expertise": ["aerospace command"],
+  "tags": ["killed-in-action", "military"],
+  "sources": [
+    {
+      "url": "https://www.iranintl.com/en/202603209999",
+      "title": "IRGC Aerospace Force Commander Killed",
+      "date": "2026-03-20",
+      "publisher": "Iran International"
+    }
+  ],
+  "editorial_notes": "Killed 20 March 2026. IRGC Aerospace Force commander."
+}

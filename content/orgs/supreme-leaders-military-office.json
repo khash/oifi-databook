@@ -1,0 +1,23 @@
+{
+  "entity_id": "supreme-leaders-military-office",
+  "slug": "supreme-leaders-military-office",
+  "name_en": "Supreme Leader's Military Office",
+  "name_fa": "دفتر نظامی رهبری",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": null,
+  "dissolved": null,
+  "parent_org": "office-of-the-supreme-leader",
+  "description": "The Supreme Leader's Military Office (دفتر نظامی رهبری, Daftar-e Nezami-ye Rahbari), also referred to as the military section of the beit-e rahbari (Leader's Household), serves as [Ali Khamenei](/people/ali-khamenei)'s direct military staff. It coordinates military directives from the Supreme Leader to the [General Staff of the Armed Forces](/orgs/general-staff-of-the-armed-forces), the [IRGC](/orgs/islamic-revolutionary-guard-corps), and [Artesh](/orgs/artesh), and functions as the principal interface between the Supreme Leader and operational military command. The office was headed by Brigadier General [Mohammad Shirazi](/people/mohammad-shirazi-military) at the time of his death, with [Akbar Ebrahimzadeh](/people/akbar-ebrahimzadeh) as deputy. Both were killed in the [February 28, 2026 decapitation strikes](/events/israeli-strikes-iran-feb-2026), effectively destroying the Supreme Leader's personal military command apparatus.",
+  "faction": null,
+  "tags": ["military"],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Office_of_the_Supreme_Leader_(Iran)",
+      "title": "Office of the Supreme Leader (Iran) — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "The beit-e rahbari military section. Headed by Shirazi (killed Feb 28 2026), deputy Ebrahimzadeh (killed Feb 28 2026)."
+}

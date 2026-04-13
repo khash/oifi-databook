@@ -1,0 +1,21 @@
+{
+  "entity_id": "amir-hossein-faghihi-affiliated-with-shahid-beheshti-university",
+  "from_entity": "amir-hossein-faghihi",
+  "to_entity": "shahid-beheshti-university",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2025",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2025_Israeli_strikes_on_Iran",
+      "source_title": "2025 Israeli strikes on Iran",
+      "source_date": "2025-06-14",
+      "description": "Faghihi held a faculty position at Shahid Beheshti University in addition to his AEOI and NSTRI roles."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "reza-mozaffari-nia-coordinated-with-mohsen-fakhrizadeh",
+  "from_entity": "reza-mozaffari-nia",
+  "to_entity": "mohsen-fakhrizadeh",
+  "type": "coordinated-with",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": "2020",
+  "evidence": [
+    {
+      "source_url": "https://iranwatch.org/iranian-entities/organization-defensive-innovation-and-research-spnd",
+      "source_title": "Organization of Defensive Innovation and Research (SPND)",
+      "source_date": "2024-01-01",
+      "description": "As SPND director, Mozaffari Nia led the successor institution to the Amad Project that Fakhrizadeh had headed, with personnel and research continuity."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Alleged institutional continuity rather than direct coordination."
+}

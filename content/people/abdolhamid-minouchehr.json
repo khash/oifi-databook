@@ -1,0 +1,32 @@
+{
+  "entity_id": "abdolhamid-minouchehr",
+  "slug": "abdolhamid-minouchehr",
+  "name_en": "Abdolhamid Minouchehr",
+  "name_fa": "عبدالحمید مینوچهر",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Dean, Nuclear Engineering Faculty, Shahid Beheshti University; killed June 2025",
+  "faction": null,
+  "bio": "Abdolhamid Minouchehr served as dean of the nuclear engineering faculty at [Shahid Beheshti University](/orgs/shahid-beheshti-university) in Tehran, one of Iran's principal institutions for nuclear science training. He was killed on 13 June 2025 in Israeli airstrikes — the opening attacks of [Operation Rising Lion](/events/israeli-strikes-iran-june-2025) — which specifically targeted Iran's nuclear infrastructure and scientific personnel.",
+  "irgc_member": false,
+  "expertise": [
+    "nuclear engineering"
+  ],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/2025_Israeli_strikes_on_Iran",
+      "title": "2025 Israeli strikes on Iran",
+      "date": "2025-06-14",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": [
+    "nuclear",
+    "deceased",
+    "assassinated"
+  ],
+  "photo": null,
+  "editorial_notes": "Dean of nuclear engineering faculty, Shahid Beheshti University. Killed 13 June 2025."
+}

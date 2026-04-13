@@ -1,0 +1,21 @@
+{
+  "entity_id": "hamid-dabashi-affiliated-with-columbia-university-iranian-studies",
+  "from_entity": "hamid-dabashi",
+  "to_entity": "columbia-university-iranian-studies",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://mesaas.columbia.edu/faculty-directory/hamid-dabashi/",
+      "source_title": "Hamid Dabashi — Columbia University",
+      "source_date": "2024-01-01",
+      "description": "Hamid Dabashi holds the Hagop Kevorkian Professorship of Iranian Studies and Comparative Literature at Columbia University."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

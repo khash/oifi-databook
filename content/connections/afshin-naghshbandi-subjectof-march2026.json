@@ -1,0 +1,21 @@
+{
+  "entity_id": "afshin-naghshbandi--subject-of--march-2026-strike-wave",
+  "from_entity": "afshin-naghshbandi",
+  "to_entity": "march-2026-strike-wave",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2026-03-19",
+  "date_to": "2026-03-19",
+  "evidence": [
+    {
+      "source_url": "https://www.tasnimnews.com/en/news/2026/03/19/armed-forces-rep-basij-killed",
+      "source_title": "Armed Forces Representative to Basij Killed",
+      "source_date": "2026-03-19",
+      "description": "Naghshbandi killed 19 March 2026."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

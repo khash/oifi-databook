@@ -1,0 +1,21 @@
+{
+  "entity_id": "manssor-arbabsiar-coordinated-with-gholam-shakuri",
+  "from_entity": "manssor-arbabsiar",
+  "to_entity": "gholam-shakuri",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "2011-01-01",
+  "date_to": "2011-10-11",
+  "evidence": [
+    {
+      "source_url": "https://www.justice.gov/opa/pr/two-men-charged-alleged-plot-assassinate-saudi-arabian-ambassador-united-states",
+      "source_title": "Two Men Charged in Alleged Plot — US DOJ",
+      "source_date": "2011-10-11",
+      "description": "Arbabsiar and Shakuri are co-defendants; Shakuri directed Arbabsiar throughout the operation."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

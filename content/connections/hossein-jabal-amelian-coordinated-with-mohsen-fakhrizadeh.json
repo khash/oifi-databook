@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-jabal-amelian-coordinated-with-mohsen-fakhrizadeh",
+  "from_entity": "hossein-jabal-amelian",
+  "to_entity": "mohsen-fakhrizadeh",
+  "type": "coordinated-with",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": "2020",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Organisation_of_Defensive_Innovation_and_Research",
+      "source_title": "Organisation of Defensive Innovation and Research — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "As SPND director and successor to Fakhrizadeh's Amad Project, Jabal Amelian operated within the institutional continuity of the clandestine nuclear weapons programme Fakhrizadeh had built."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Alleged institutional continuity rather than direct coordination."
+}

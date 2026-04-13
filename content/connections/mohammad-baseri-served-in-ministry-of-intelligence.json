@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-baseri-served-in-ministry-of-intelligence",
+  "from_entity": "mohammad-baseri",
+  "to_entity": "ministry-of-intelligence",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026-02-28",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2026_Iran%E2%80%93Israel_conflict",
+      "source_title": "2026 Iran–Israel conflict — Wikipedia",
+      "source_date": "2026-03-01",
+      "description": "Baseri identified as senior MOIS official"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

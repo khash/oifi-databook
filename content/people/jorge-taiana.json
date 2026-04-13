@@ -1,0 +1,32 @@
+{
+  "entity_id": "jorge-taiana",
+  "slug": "jorge-taiana",
+  "name_en": "Jorge Taiana",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "aliases": [],
+  "born": 1952,
+  "birthplace": "Buenos Aires, Argentina",
+  "role": "Argentine Foreign Minister (2005–2010); named in Alberto Nisman's 2015 treason charging document alongside President Kirchner",
+  "faction": null,
+  "irgc_member": false,
+  "bio": "Jorge Taiana served as Argentina's Foreign Minister under President Cristina Fernández de Kirchner from 2005 to 2010, and was later appointed Defence Minister under President Alberto Fernández in 2021. In January 2015, AMIA special prosecutor [Alberto Nisman](/people/alberto-nisman) filed a charging document accusing both [Cristina Fernández de Kirchner](/people/cristina-fernandez-de-kirchner) and Taiana of treason, alleging they had conspired to shield Iranian suspects in the [AMIA bombing](/events/amia-bombing-1994) case from prosecution through the [Iran–Argentina MOU](/events/iran-argentina-mou-2013) of January 2013. The charges alleged the MOU was designed to lift Interpol red notices against Iranian officials in exchange for trade concessions. Nisman was found dead on 18 January 2015, the night before his planned congressional testimony.",
+  "expertise": ["diplomacy"],
+  "tags": ["diplomacy"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Jorge_Taiana",
+      "title": "Jorge Taiana — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alberto_Nisman",
+      "title": "Alberto Nisman — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "Named alongside Kirchner in Nisman Jan 14 2015 charging document. Later served as Defence Minister 2021 under Alberto Fernandez."
+}

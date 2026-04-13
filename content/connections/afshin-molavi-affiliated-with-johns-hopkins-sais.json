@@ -1,0 +1,21 @@
+{
+  "entity_id": "afshin-molavi-affiliated-with-johns-hopkins-sais",
+  "from_entity": "afshin-molavi",
+  "to_entity": "johns-hopkins-sais",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://agsiw.org/fellows/afshin-molavi/",
+      "source_title": "Afshin Molavi — Arab Gulf States Institute in Washington",
+      "source_date": "2024-01-01",
+      "description": "Afshin Molavi is a senior fellow at the Johns Hopkins Foreign Policy Institute (affiliated with SAIS)."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

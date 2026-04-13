@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-bateni--subject-of--march-2026-strike-wave",
+  "from_entity": "ali-bateni",
+  "to_entity": "march-2026-strike-wave",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2026-03-17",
+  "date_to": "2026-03-17",
+  "evidence": [
+    {
+      "source_url": "https://en.majalla.com/node/329988/profiles/iran%E2%80%99s-wartime-leader-isn%E2%80%99t-dealmaker",
+      "source_title": "Iran's wartime leader isn't a dealmaker",
+      "source_date": "2026-03-08",
+      "description": "Bateni killed 17 March 2026 in the Larijani strike."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "fereydoun-abbasi-davani-subject-of-iran-nuclear-scientist-assassinations-2010",
+  "from_entity": "fereydoun-abbasi-davani",
+  "to_entity": "iran-nuclear-scientist-assassinations-2010",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2010-11-29",
+  "date_to": "2010-11-29",
+  "evidence": [
+    {
+      "source_url": "https://www.bbc.com/news/world-middle-east-11871346",
+      "source_title": "Iran nuclear scientist Majid Shahriari killed in Tehran bomb attack",
+      "source_date": "2010-11-29",
+      "description": "Fereydoun Abbasi-Davani survived a car-bombing on the same day Shahriari was killed."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

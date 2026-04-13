@@ -1,0 +1,14 @@
+{
+  "entity_id": "abolqasem-babaeian-served-in-khatam-al-anbiya-central-headquarters",
+  "from_entity": "abolqasem-babaeian",
+  "to_entity": "khatam-al-anbiya-central-headquarters",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026-03",
+  "evidence": [{"source_url": "https://en.wikipedia.org/wiki/2026_Iran%E2%80%93Israel_conflict", "source_title": "2026 Iran–Israel conflict — Wikipedia", "source_date": "2026-04-01", "description": "Babaeian was Khatam al-Anbiya Staff Chief"}],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

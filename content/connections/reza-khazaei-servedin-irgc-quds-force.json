@@ -1,0 +1,21 @@
+{
+  "entity_id": "reza-khazaei--served-in--irgc-quds-force",
+  "from_entity": "reza-khazaei",
+  "to_entity": "irgc-quds-force",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026-03-03",
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202603039999",
+      "source_title": "Quds Force Official Killed",
+      "source_date": "2026-03-03",
+      "description": "Khazaei was a Quds Force official."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

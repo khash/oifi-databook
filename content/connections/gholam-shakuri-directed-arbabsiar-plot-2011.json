@@ -1,0 +1,21 @@
+{
+  "entity_id": "gholam-shakuri-directed-arbabsiar-plot-2011",
+  "from_entity": "gholam-shakuri",
+  "to_entity": "arbabsiar-plot-2011",
+  "type": "directed",
+  "confidence": "confirmed",
+  "date_from": "2011-01-01",
+  "date_to": "2011-10-11",
+  "evidence": [
+    {
+      "source_url": "https://www.justice.gov/opa/pr/two-men-charged-alleged-plot-assassinate-saudi-arabian-ambassador-united-states",
+      "source_title": "Two Men Charged in Alleged Plot — US DOJ",
+      "source_date": "2011-10-11",
+      "description": "US prosecutors identified Shakuri as the Tehran-based IRGC-QF officer who directed Arbabsiar throughout the plot."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

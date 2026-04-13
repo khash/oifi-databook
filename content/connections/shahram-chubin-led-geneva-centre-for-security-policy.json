@@ -1,0 +1,21 @@
+{
+  "entity_id": "shahram-chubin-led-geneva-centre-for-security-policy",
+  "from_entity": "shahram-chubin",
+  "to_entity": "geneva-centre-for-security-policy",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.gcsp.ch/",
+      "source_title": "Geneva Centre for Security Policy",
+      "source_date": "2024-01-01",
+      "description": "Shahram Chubin served for many years as director of research at the Geneva Centre for Security Policy (GCSP)."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "abuzar-mohammadi--served-in--islamic-revolutionary-guard-corps",
+  "from_entity": "abuzar-mohammadi",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026-03-12",
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202603129999",
+      "source_title": "IRGC Missile Officer Embedded with Hezbollah Killed",
+      "source_date": "2026-03-12",
+      "description": "Mohammadi was an IRGC Missile Operations officer."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

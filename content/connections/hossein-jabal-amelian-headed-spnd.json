@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-jabal-amelian-headed-spnd",
+  "from_entity": "hossein-jabal-amelian",
+  "to_entity": "spnd",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Organisation_of_Defensive_Innovation_and_Research",
+      "source_title": "Organisation of Defensive Innovation and Research — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Jabal Amelian served as director of SPND and was heading the organisation at the time of his death."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

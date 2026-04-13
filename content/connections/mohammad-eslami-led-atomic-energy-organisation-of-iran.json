@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-eslami-led-atomic-energy-organisation-of-iran",
+  "from_entity": "mohammad-eslami",
+  "to_entity": "atomic-energy-organisation-of-iran",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "2021-08",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Eslami",
+      "source_title": "Mohammad Eslami — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Eslami appointed AEOI head by President Raisi in August 2021"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,27 @@
+{
+  "entity_id": "akbar-ebrahimzadeh",
+  "slug": "akbar-ebrahimzadeh",
+  "name_en": "Akbar Ebrahimzadeh",
+  "name_fa": "اکبر ابراهیم‌زاده",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "died": "2026-02-28",
+  "role": "Deputy Head, Supreme Leader's Military Office",
+  "faction": "hardliner",
+  "irgc_member": false,
+  "bio": "Akbar Ebrahimzadeh served as Deputy Head of the [Supreme Leader's Military Office](/orgs/supreme-leaders-military-office) (beit-e rahbari military section), assisting his chief [Mohammad Shirazi](/people/mohammad-shirazi-military) in overseeing [Ali Khamenei](/people/ali-khamenei)'s direct military staff. He was killed on 28 February 2026 in the combined US-Israel decapitation strikes as part of the [February 28, 2026 strikes](/events/israeli-strikes-iran-feb-2026).",
+  "expertise": ["military command", "supreme leader staff"],
+  "tags": ["killed-in-action", "military", "deceased"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/2026_Iran%E2%80%93Israel_conflict",
+      "title": "2026 Iran–Israel conflict — Wikipedia",
+      "date": "2026-03-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "Deputy Head of Supreme Leader's Military Office. Killed 28 Feb 2026."
+}

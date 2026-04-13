@@ -1,0 +1,25 @@
+{
+  "entity_id": "march-2026-strike-wave",
+  "slug": "march-2026-strike-wave",
+  "name": "March 2026 Strike Wave on IRGC/Basij/SNSC Leadership",
+  "date": "2026-03",
+  "type": "death",
+  "description": "A sustained US-Israel strike campaign from 2–31 March 2026 (with operations extending to early April) that killed 30+ named officials across the [Basij](/orgs/basij), [IRGC](/orgs/islamic-revolutionary-guard-corps) regional commands, [IRGC Quds Force Lebanon Corps](/orgs/irgc-quds-force-lebanon-corps), Ministry of Intelligence, and the [Supreme National Security Council](/orgs/supreme-national-security-council). The wave followed the February 2026 Israeli strikes that killed [Ali Khamenei](/people/ali-khamenei) and began a systematic campaign to eliminate Iran's reconstituted military leadership. The most strategically significant single strike occurred on 17 March 2026, targeting the SNSC compound: it killed [Ali Larijani](/people/ali-larijani), his son [Morteza Larijani](/people/morteza-larijani), SNSC Deputy Secretary [Ali Bateni](/people/ali-bateni), and SNSC Deputy for Internal Security [Alireza Bayat](/people/alireza-bayat). Other senior casualties included Basij head [Asadollah Badfar](/people/asadollah-badfar), Khatam al-Anbiya Staff Chief [Abolqasem Babaeian](/people/abolqasem-babaeian), and multiple IRGC provincial and Aerospace Force commanders.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://www.iranintl.com/en/202603-irgc-basij-snsc-killed",
+      "title": "Dozens of Senior IRGC and SNSC Officials Killed in March 2026 Strikes",
+      "date": "2026-04-01",
+      "publisher": "Iran International"
+    },
+    {
+      "url": "https://en.majalla.com/node/329988/profiles/iran%E2%80%99s-wartime-leader-isn%E2%80%99t-dealmaker",
+      "title": "Iran's wartime leader isn't a dealmaker",
+      "date": "2026-03-08",
+      "publisher": "Al Majalla"
+    }
+  ],
+  "tags": ["deceased", "killed-in-action", "military"],
+  "editorial_notes": "Covers strikes from 2 March through early April 2026. The 17 March SNSC strike (Ali Larijani, Bayat, Morteza Larijani, Bateni) is the most significant sub-event. See also larijani-assassination-2026 for the Larijani-specific entry."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_id": "imam-sadeq-institute-affiliated-with-jafar-sobhani",
+  "from_entity": "imam-sadeq-institute",
+  "to_entity": "jafar-sobhani",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [{"source_url": "https://en.wikipedia.org/wiki/Jafar_Sobhani", "source_title": "Jafar Sobhani — Wikipedia", "source_date": "2024-01-01", "description": "Sobhani associated with Imam Sadiq Institute"}],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

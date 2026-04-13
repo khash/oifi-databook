@@ -1,0 +1,21 @@
+{
+  "entity_id": "yazdan-mir-led-irgc-quds-force-unit-840",
+  "from_entity": "yazdan-mir",
+  "to_entity": "irgc-quds-force-unit-840",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026-04",
+  "evidence": [
+    {
+      "source_url": "https://home.treasury.gov/news/press-releases/jy0902",
+      "source_title": "Treasury Sanctions IRGC Officials Responsible for Plots Against Americans and Israelis",
+      "source_date": "2022-09-13",
+      "description": "US Treasury sanctioned Yazdan Mir as the commander of IRGC Quds Force Unit 840 in September 2022."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,45 @@
+{
+  "entity_id": "fereydoun-abbasi-davani",
+  "slug": "fereydoun-abbasi-davani",
+  "name_en": "Fereydoun Abbasi-Davani",
+  "name_fa": "فریدون عباسی‌دوانی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Abbasi",
+    "Fereydoun Abbasi"
+  ],
+  "born": 1958,
+  "birthplace": "Iran",
+  "role": "Former head, Atomic Energy Organisation of Iran (2011–2013); former MP; nuclear physicist; killed June 2025",
+  "faction": "hardliner",
+  "bio": "Fereydoun Abbasi-Davani was Iran's most prominent nuclear scientist and a central figure in the Islamic Republic's nuclear establishment. He headed the [Atomic Energy Organisation of Iran](/orgs/atomic-energy-organisation-of-iran) from 2011 to 2013 under President Ahmadinejad, overseeing uranium enrichment and nuclear fuel activities during the most confrontational phase of Iran's nuclear standoff with the West. He subsequently served in the Iranian parliament (Majlis) as a member for Tehran.\n\nAbbasi-Davani was the subject of a failed Israeli assassination attempt on 29 November 2010 when a magnetic bomb was attached to his car in Tehran. He survived the attack, though a colleague was killed in a simultaneous strike. Western and Israeli intelligence described him as a key figure in Iran's military nuclear programme.\n\nHe was sanctioned by the United Nations Security Council, the European Union, and the United States for his role in Iran's nuclear activities. He was killed on 13 June 2025 in Israeli airstrikes on Iran — the opening strikes of what became known as the Twelve-Day War and [Operation Rising Lion](/events/israeli-strikes-iran-june-2025).",
+  "irgc_member": false,
+  "expertise": [
+    "nuclear physics",
+    "uranium enrichment",
+    "nuclear engineering"
+  ],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Fereydoun_Abbasi-Davani",
+      "title": "Fereydoun Abbasi-Davani",
+      "date": "2025-06-14",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.bbc.com/news/world-middle-east-12014698",
+      "title": "Iran nuclear scientists killed in 'motorcycle bomb' attacks",
+      "date": "2010-11-29",
+      "publisher": "BBC News"
+    }
+  ],
+  "tags": [
+    "nuclear",
+    "sanctions",
+    "deceased",
+    "assassinated",
+    "parliament"
+  ],
+  "photo": null,
+  "editorial_notes": "Born c.1958. AEOI head 2011–2013 under Ahmadinejad. Survived 2010 car bombing attributed to Israel/Mossad. Sanctioned by UN, EU, US. Killed 13 June 2025."
+}

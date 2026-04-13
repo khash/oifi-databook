@@ -1,0 +1,21 @@
+{
+  "entity_id": "abdolrahim-mousavi-led-general-staff-of-the-armed-forces",
+  "from_entity": "abdolrahim-mousavi",
+  "to_entity": "general-staff-of-the-armed-forces",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "2025",
+  "date_to": "2026",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abdolrahim_Mousavi",
+      "source_title": "Abdolrahim Mousavi — Wikipedia",
+      "source_date": "2026-02-28",
+      "description": "Mousavi was elevated to Chief of the General Staff after the death of Mohammad Bagheri in June 2025, serving until his own death on 28 February 2026."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

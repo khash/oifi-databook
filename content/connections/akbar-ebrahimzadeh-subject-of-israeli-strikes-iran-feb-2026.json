@@ -1,0 +1,21 @@
+{
+  "entity_id": "akbar-ebrahimzadeh-subject-of-israeli-strikes-iran-feb-2026",
+  "from_entity": "akbar-ebrahimzadeh",
+  "to_entity": "israeli-strikes-iran-feb-2026",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2026-02-28",
+  "date_to": "2026-02-28",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2026_Iran%E2%80%93Israel_conflict",
+      "source_title": "2026 Iran–Israel conflict — Wikipedia",
+      "source_date": "2026-03-01",
+      "description": "Ebrahimzadeh killed in Feb 28 2026 strikes"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

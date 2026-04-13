@@ -1,0 +1,24 @@
+{
+  "entity_id": "university-of-south-florida",
+  "slug": "university-of-south-florida",
+  "name_en": "University of South Florida",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 1956,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Public research university in Tampa, Florida. Home to the Center for Strategic and Diplomatic Studies, where [Mohsen Milani](/people/mohsen-milani) has served as professor and executive director for decades, making USF a consistent voice in US academic analysis of Iranian foreign policy.",
+  "faction": null,
+  "tags": [],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.usf.edu/",
+      "title": "University of South Florida",
+      "date": "2024-01-01",
+      "publisher": "University of South Florida"
+    }
+  ],
+  "editorial_notes": ""
+}

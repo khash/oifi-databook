@@ -1,0 +1,21 @@
+{
+  "entity_id": "qasem-soleimani-led-irgc-quds-force-iraq-corps",
+  "from_entity": "qasem-soleimani",
+  "to_entity": "irgc-quds-force-iraq-corps",
+  "type": "oversees",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2020",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Qasem_Soleimani",
+      "source_title": "Qasem Soleimani — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Soleimani personally managed Iran's Iraq operations portfolio as head of the Quds Force."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

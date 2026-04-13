@@ -1,0 +1,21 @@
+{
+  "entity_id": "hooshang-amirahmadi-led-american-iranian-council",
+  "from_entity": "hooshang-amirahmadi",
+  "to_entity": "american-iranian-council",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "1990-01-01",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.american-iranian.org/",
+      "source_title": "American Iranian Council — About",
+      "source_date": "2024-01-01",
+      "description": "Hooshang Amirahmadi has served as president of the American Iranian Council since its founding in 1990."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

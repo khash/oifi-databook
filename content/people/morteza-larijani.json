@@ -1,0 +1,25 @@
+{
+  "entity_id": "morteza-larijani",
+  "slug": "morteza-larijani",
+  "name_en": "Morteza Larijani",
+  "name_fa": "مرتضی لاریجانی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "SNSC Assistant for Internal Security; son of Ali Larijani (d. 17 March 2026)",
+  "faction": "conservative",
+  "bio": "Morteza Larijani served as Assistant for Internal Security at the [Supreme National Security Council](/orgs/supreme-national-security-council), and was the son of [Ali Larijani](/people/ali-larijani), the former Speaker of Parliament. He was killed on 17 March 2026 alongside his father in an Israeli airstrike, as part of the [March 2026 Strike Wave](/events/march-2026-strike-wave). The strike also killed [Alireza Bayat](/people/alireza-bayat) and [Ali Bateni](/people/ali-bateni).",
+  "irgc_member": false,
+  "expertise": ["internal security", "national security"],
+  "tags": ["killed-in-action"],
+  "sources": [
+    {
+      "url": "https://en.majalla.com/node/329988/profiles/iran%E2%80%99s-wartime-leader-isn%E2%80%99t-dealmaker",
+      "title": "Iran's wartime leader isn't a dealmaker",
+      "date": "2026-03-08",
+      "publisher": "Al Majalla"
+    }
+  ],
+  "editorial_notes": "Killed 17 March 2026 with his father Ali Larijani. SNSC Assistant for Internal Security. Son of Ali Larijani."
+}

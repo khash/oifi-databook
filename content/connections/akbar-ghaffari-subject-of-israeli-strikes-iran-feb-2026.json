@@ -1,0 +1,21 @@
+{
+  "entity_id": "akbar-ghaffari-subject-of-israeli-strikes-iran-feb-2026",
+  "from_entity": "akbar-ghaffari",
+  "to_entity": "israeli-strikes-iran-feb-2026",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2026-03-12",
+  "date_to": "2026-03-12",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2026_Iran%E2%80%93Israel_conflict",
+      "source_title": "2026 Iran–Israel conflict — Wikipedia",
+      "source_date": "2026-03-13",
+      "description": "Ghaffari killed 12 March 2026 in continuing wave after Feb 28 strikes"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

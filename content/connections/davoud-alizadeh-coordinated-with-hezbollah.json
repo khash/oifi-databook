@@ -1,0 +1,21 @@
+{
+  "entity_id": "davoud-alizadeh-coordinated-with-hezbollah",
+  "from_entity": "davoud-alizadeh",
+  "to_entity": "hezbollah",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "2024",
+  "date_to": "2026-03",
+  "evidence": [
+    {
+      "source_url": "https://www.timesofisrael.com/idf-says-it-killed-senior-irgc-quds-force-commander-in-strike-on-tehran/",
+      "source_title": "IDF says it killed senior IRGC Quds Force commander in strike on Tehran",
+      "source_date": "2026-03-12",
+      "description": "Davoud Alizadeh led the Lebanon Corps, Iran's primary operational unit for coordinating with Hezbollah."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

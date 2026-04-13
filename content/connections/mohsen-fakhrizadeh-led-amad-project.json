@@ -1,0 +1,27 @@
+{
+  "entity_id": "mohsen-fakhrizadeh-led-amad-project",
+  "from_entity": "mohsen-fakhrizadeh",
+  "to_entity": "amad-project",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "1989",
+  "date_to": "2003",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Amad_Project",
+      "source_title": "Amad Project — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Mohsen Fakhrizadeh was the director of the Amad Project, Iran's covert nuclear weapons programme."
+    },
+    {
+      "source_url": "https://www.iaea.org/newscenter/pressreleases/iaea-report-possible-military-dimensions-iran",
+      "source_title": "IAEA Report: Possible Military Dimensions in Iran",
+      "source_date": "2011-11-08",
+      "description": "The IAEA identified Fakhrizadeh as the person orchestrating Iran's military nuclear work under the Amad Project."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

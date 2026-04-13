@@ -1,0 +1,21 @@
+{
+  "entity_id": "bahram-hosseini-motlagh--subject-of--march-2026-strike-wave",
+  "from_entity": "bahram-hosseini-motlagh",
+  "to_entity": "march-2026-strike-wave",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2026-03-02",
+  "date_to": "2026-03-02",
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202603029999",
+      "source_title": "Senior Armed Forces Officers Killed in March 2 Strike",
+      "source_date": "2026-03-02",
+      "description": "Hosseini Motlagh killed 2 March 2026."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

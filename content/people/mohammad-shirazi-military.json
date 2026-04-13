@@ -1,0 +1,27 @@
+{
+  "entity_id": "mohammad-shirazi-military",
+  "slug": "mohammad-shirazi-military",
+  "name_en": "Mohammad Shirazi",
+  "name_fa": "محمد شیرازی",
+  "has_native_fa_name": true,
+  "aliases": ["Brigadier General Mohammad Shirazi"],
+  "born": null,
+  "birthplace": null,
+  "died": "2026-02-28",
+  "role": "Brigadier General; Head of the Supreme Leader's Military Office",
+  "faction": "hardliner",
+  "irgc_member": false,
+  "bio": "Mohammad Shirazi was a Brigadier General who headed the military section of the [Supreme Leader's Military Office](/orgs/supreme-leaders-military-office) (beit-e rahbari), overseeing [Ali Khamenei](/people/ali-khamenei)'s direct military staff. He was killed on 28 February 2026 in the combined US-Israel decapitation strikes targeting Iran's military and security leadership. His death, alongside deputy [Akbar Ebrahimzadeh](/people/akbar-ebrahimzadeh), effectively destroyed the Supreme Leader's personal military command apparatus.",
+  "expertise": ["military command", "supreme leader staff"],
+  "tags": ["killed-in-action", "military", "deceased"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/2026_Iran%E2%80%93Israel_conflict",
+      "title": "2026 Iran–Israel conflict — Wikipedia",
+      "date": "2026-03-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "Head of Supreme Leader's Military Office (beit-e rahbari military section). Killed 28 Feb 2026."
+}

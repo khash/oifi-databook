@@ -1,0 +1,21 @@
+{
+  "entity_id": "shahid-beheshti-university-named-in-mohammad-beheshti",
+  "from_entity": "shahid-beheshti-university",
+  "to_entity": "mohammad-beheshti",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1983",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Shahid_Beheshti_University",
+      "source_title": "Shahid Beheshti University",
+      "source_date": "2025-06-14",
+      "description": "Shahid Beheshti University was renamed after Mohammad Beheshti following his assassination in the 1981 Hafte Tir bombing."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

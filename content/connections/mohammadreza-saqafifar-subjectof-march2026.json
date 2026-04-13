@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammadreza-saqafifar--subject-of--march-2026-strike-wave",
+  "from_entity": "mohammadreza-saqafifar",
+  "to_entity": "march-2026-strike-wave",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2026-03-08",
+  "date_to": "2026-03-08",
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202603089999",
+      "source_title": "Supreme Leader's Special Assistant Killed",
+      "source_date": "2026-03-08",
+      "description": "Saqafifar killed 8 March 2026."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

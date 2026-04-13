@@ -1,0 +1,24 @@
+{
+  "entity_id": "international-society-for-iranian-studies",
+  "slug": "international-society-for-iranian-studies",
+  "name_en": "International Society for Iranian Studies (ISAS)",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 1967,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Professional academic association for the field of Iranian Studies, co-founded by [Ali Banuazizi](/people/ali-banuazizi) and other scholars of Iran in 1967. ISAS publishes the journal *Iranian Studies* and organizes biennial international conferences that serve as the primary gathering point for the global community of Iran scholars. It is the main institutional hub connecting diaspora and international academics working on Iranian history, politics, literature, and culture.",
+  "faction": null,
+  "tags": [],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.iranianstudies.org/",
+      "title": "International Society for Iranian Studies",
+      "date": "2024-01-01",
+      "publisher": "International Society for Iranian Studies"
+    }
+  ],
+  "editorial_notes": ""
+}

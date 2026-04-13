@@ -1,0 +1,21 @@
+{
+  "entity_id": "arbabsiar-plot-2011-organized-by-irgc-quds-force",
+  "from_entity": "arbabsiar-plot-2011",
+  "to_entity": "irgc-quds-force",
+  "type": "organized",
+  "confidence": "confirmed",
+  "date_from": "2011-01-01",
+  "date_to": "2011-10-11",
+  "evidence": [
+    {
+      "source_url": "https://www.justice.gov/opa/pr/two-men-charged-alleged-plot-assassinate-saudi-arabian-ambassador-united-states",
+      "source_title": "Two Men Charged in Alleged Plot — US DOJ",
+      "source_date": "2011-10-11",
+      "description": "US prosecutors established that the plot was conceived, directed, and financed by the IRGC-Quds Force from Tehran."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

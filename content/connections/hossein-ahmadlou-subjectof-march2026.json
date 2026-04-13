@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-ahmadlou--subject-of--march-2026-strike-wave",
+  "from_entity": "hossein-ahmadlou",
+  "to_entity": "march-2026-strike-wave",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2026",
+  "date_to": "2026",
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/20260000quds-israel-desk",
+      "source_title": "Quds Force Israel Desk Officer Killed",
+      "source_date": "2026-03-01",
+      "description": "Ahmadlou killed in 2026 war."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

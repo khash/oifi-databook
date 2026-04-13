@@ -1,0 +1,21 @@
+{
+  "entity_id": "imad-mughniyeh-participated-in-amia-bombing-1994",
+  "from_entity": "imad-mughniyeh",
+  "to_entity": "amia-bombing-1994",
+  "type": "participated-in",
+  "confidence": "alleged",
+  "date_from": "1994-07-18",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/1994_AMIA_bombing",
+      "source_title": "1994 AMIA bombing — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Argentine prosecutors including Alberto Nisman identified Mughniyeh as the Hezbollah operational director for the AMIA bombing, working alongside Mohsen Rabbani."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

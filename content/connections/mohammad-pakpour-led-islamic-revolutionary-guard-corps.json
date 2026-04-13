@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-pakpour-led-islamic-revolutionary-guard-corps",
+  "from_entity": "mohammad-pakpour",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "2025",
+  "date_to": "2026",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Pakpour",
+      "source_title": "Mohammad Pakpour — Wikipedia",
+      "source_date": "2026-02-28",
+      "description": "Pakpour served as IRGC Commander-in-Chief from mid-2025 until his death on 28 February 2026."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

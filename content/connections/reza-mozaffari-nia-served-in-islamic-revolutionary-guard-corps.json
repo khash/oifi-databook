@@ -1,0 +1,21 @@
+{
+  "entity_id": "reza-mozaffari-nia-served-in-islamic-revolutionary-guard-corps",
+  "from_entity": "reza-mozaffari-nia",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026",
+  "evidence": [
+    {
+      "source_url": "https://iranwatch.org/iranian-entities/organization-defensive-innovation-and-research-spnd",
+      "source_title": "Organization of Defensive Innovation and Research (SPND)",
+      "source_date": "2024-01-01",
+      "description": "Mozaffari Nia held the rank of Brigadier General in the IRGC."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

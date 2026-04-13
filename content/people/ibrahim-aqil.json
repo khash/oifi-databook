@@ -1,0 +1,39 @@
+{
+  "entity_id": "ibrahim-aqil",
+  "slug": "ibrahim-aqil",
+  "name_en": "Ibrahim Aqil",
+  "name_fa": "ابراهیم عقیل",
+  "has_native_fa_name": true,
+  "aliases": ["Ibrahim Akil", "Abu Ajaj"],
+  "born": 1959,
+  "birthplace": "Lebanon",
+  "died": 2024,
+  "role": "IRGC Quds Force Lebanon Corps commander; Hezbollah senior commander",
+  "faction": "hardliner",
+  "bio": "Ibrahim Aqil was a senior Lebanese Hezbollah commander who served as head of the [IRGC Quds Force Lebanon Corps](/orgs/irgc-quds-force-lebanon-corps) and commanded Hezbollah's elite Radwan Force. A veteran of decades of operations against Israel, Aqil had been designated as a terrorist by the United States since the 1980s for his alleged role in the 1983 Beirut barracks bombings and other attacks. He was killed on 20 September 2024 in an Israeli airstrike on a building in the Dahieh (southern suburbs of Beirut), along with other senior Hezbollah commanders. His killing was part of a major Israeli decapitation campaign against Hezbollah leadership in the run-up to the October 2024 invasion of southern Lebanon. Following his death, [Davoud Alizadeh](/people/davoud-alizadeh) was appointed as the new commander of the Quds Force Lebanon Corps.",
+  "irgc_member": true,
+  "expertise": ["special operations", "Lebanon operations", "Hezbollah liaison"],
+  "tags": ["killed-in-action", "military", "proxy-warfare", "deceased"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ibrahim_Aqil",
+      "title": "Ibrahim Aqil — Wikipedia",
+      "date": "2024-09-20",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.reuters.com/world/middle-east/ibrahim-aqil-hezbollah-commander-killed-beirut-israeli-strike-2024-09-20/",
+      "title": "Ibrahim Aqil, Hezbollah commander, killed in Beirut Israeli strike",
+      "date": "2024-09-20",
+      "publisher": "Reuters"
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/c0k5v5jn35no",
+      "title": "Who was Ibrahim Aqil, Hezbollah commander killed in Beirut strike?",
+      "date": "2024-09-20",
+      "publisher": "BBC News"
+    }
+  ],
+  "editorial_notes": "Killed 20 September 2024 in Beirut airstrike. US-designated since 1985. His killing led directly to Davoud Alizadeh's appointment."
+}

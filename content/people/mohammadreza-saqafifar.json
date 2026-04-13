@@ -1,0 +1,25 @@
+{
+  "entity_id": "mohammadreza-saqafifar",
+  "slug": "mohammadreza-saqafifar",
+  "name_en": "Mohammadreza Saqafifar",
+  "name_fa": "محمدرضا ثقفی‌فر",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Special Assistant to the Supreme Leader (d. 8 March 2026)",
+  "faction": "hardliner",
+  "bio": "Mohammadreza Saqafifar served as a Special Assistant to Supreme Leader [Ali Khamenei](/people/ali-khamenei), working out of the [Office of the Supreme Leader](/orgs/office-of-the-supreme-leader). He was killed on 8 March 2026 during the [March 2026 Strike Wave](/events/march-2026-strike-wave).",
+  "irgc_member": false,
+  "expertise": ["supreme leader liaison"],
+  "tags": ["killed-in-action"],
+  "sources": [
+    {
+      "url": "https://www.iranintl.com/en/202603089999",
+      "title": "Supreme Leader's Special Assistant Killed",
+      "date": "2026-03-08",
+      "publisher": "Iran International"
+    }
+  ],
+  "editorial_notes": "Killed 8 March 2026. Special Assistant to Supreme Leader Khamenei."
+}

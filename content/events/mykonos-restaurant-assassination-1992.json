@@ -8,12 +8,16 @@
   "body": null,
   "sources": [
     {
-      "name": "Wikipedia — Mykonos restaurant assassinations",
-      "url": "https://en.wikipedia.org/wiki/Mykonos_restaurant_assassinations"
+      "url": "https://en.wikipedia.org/wiki/Mykonos_restaurant_assassinations",
+      "title": "Mykonos restaurant assassinations — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
     },
     {
-      "name": "Human Rights Watch — State-sponsored assassinations report",
-      "url": "https://www.hrw.org/reports/1997/iran/"
+      "url": "https://www.hrw.org/reports/1997/iran/",
+      "title": "Iran: State-Sponsored Assassination Abroad",
+      "date": "1997-04-10",
+      "publisher": "Human Rights Watch"
     }
   ],
   "tags": [],

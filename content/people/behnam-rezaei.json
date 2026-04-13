@@ -1,0 +1,25 @@
+{
+  "entity_id": "behnam-rezaei",
+  "slug": "behnam-rezaei",
+  "name_en": "Behnam Rezaei",
+  "name_fa": "بهنام رضایی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Director, IRGC Navy Intelligence (d. 26 March 2026)",
+  "faction": "hardliner",
+  "bio": "Behnam Rezaei served as Intelligence Director of the [IRGC Navy](/orgs/irgc-navy) under the [IRGC](/orgs/islamic-revolutionary-guard-corps). He was killed on 26 March 2026 in the same Israeli airstrike at Bandar Abbas that killed [IRGC Navy Commander Alireza Tangsiri](/people/alireza-tangsiri), as part of the [March 2026 Strike Wave](/events/march-2026-strike-wave).",
+  "irgc_member": true,
+  "expertise": ["naval intelligence"],
+  "tags": ["killed-in-action", "military", "intelligence"],
+  "sources": [
+    {
+      "url": "https://www.iranintl.com/en/202603269999",
+      "title": "IRGC Navy Leadership Killed in Bandar Abbas Strike",
+      "date": "2026-03-26",
+      "publisher": "Iran International"
+    }
+  ],
+  "editorial_notes": "Killed 26 March 2026. Died in same strike as Alireza Tangsiri at Bandar Abbas."
+}

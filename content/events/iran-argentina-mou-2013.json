@@ -1,0 +1,25 @@
+{
+  "entity_id": "iran-argentina-mou-2013",
+  "slug": "iran-argentina-mou-2013",
+  "name": "Iran–Argentina Memorandum of Understanding (2013)",
+  "date": "2013-01-27",
+  "type": "policy",
+  "description": "On 27 January 2013, the governments of Argentina and Iran signed a Memorandum of Understanding (MOU) establishing a joint truth commission to reinvestigate the AMIA bombing of 1994. The agreement was signed by Argentine Foreign Minister Héctor Timerman and his Iranian counterpart. [Alberto Nisman](/people/alberto-nisman), the AMIA special prosecutor, argued that the MOU was designed to shield Iranian suspects — including those subject to Interpol red notices — from prosecution in exchange for oil and trade concessions, effectively undermining the criminal proceedings he had built over a decade. In January 2015, Nisman filed a 289-page charging document accusing President [Cristina Fernández de Kirchner](/people/cristina-fernandez-de-kirchner) and Foreign Minister [Jorge Taiana](/people/jorge-taiana) of treason in connection with the MOU. Nisman was found dead on 18 January 2015, the night before his planned congressional testimony. Argentine courts later determined he had been murdered.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Argentina_AMIA_memorandum",
+      "title": "Iran–Argentina AMIA memorandum — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.bbc.com/news/world-latin-america-21223851",
+      "title": "Argentina and Iran sign deal over 1994 Jewish centre bombing",
+      "date": "2013-01-27",
+      "publisher": "BBC News"
+    }
+  ],
+  "tags": ["diplomacy", "sanctions", "intelligence"],
+  "editorial_notes": "Signed Jan 27 2013. Nisman's treason charges filed Jan 14 2015. Nisman found dead Jan 18 2015. MOU ratification was later blocked by Argentine parliament."
+}

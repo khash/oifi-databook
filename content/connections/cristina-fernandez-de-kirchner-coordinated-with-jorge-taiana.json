@@ -1,0 +1,21 @@
+{
+  "entity_id": "cristina-fernandez-de-kirchner-coordinated-with-jorge-taiana",
+  "from_entity": "cristina-fernandez-de-kirchner",
+  "to_entity": "jorge-taiana",
+  "type": "coordinated-with",
+  "confidence": "alleged",
+  "date_from": "2013-01-27",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Alberto_Nisman",
+      "source_title": "Alberto Nisman — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Nisman's charging document alleged Kirchner and Taiana coordinated to obstruct justice in the AMIA bombing case through the MOU with Iran."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

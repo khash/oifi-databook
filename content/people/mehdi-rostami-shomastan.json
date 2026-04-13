@@ -1,0 +1,25 @@
+{
+  "entity_id": "mehdi-rostami-shomastan",
+  "slug": "mehdi-rostami-shomastan",
+  "name_en": "Mehdi Rostami Shomastan",
+  "name_fa": "مهدی رستمی شومستان",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Senior Commander, Ministry of Intelligence (MOIS) (d. 20 March 2026)",
+  "faction": "hardliner",
+  "bio": "Mehdi Rostami Shomastan served as a senior commander within Iran's Ministry of Intelligence (MOIS). He was killed on 20 March 2026 during the [March 2026 Strike Wave](/events/march-2026-strike-wave).",
+  "irgc_member": false,
+  "expertise": ["intelligence operations"],
+  "tags": ["killed-in-action", "intelligence"],
+  "sources": [
+    {
+      "url": "https://www.iranintl.com/en/202603209999",
+      "title": "Intelligence Ministry Commander Killed",
+      "date": "2026-03-20",
+      "publisher": "Iran International"
+    }
+  ],
+  "editorial_notes": "Killed 20 March 2026. Senior Intelligence Ministry (MOIS) commander."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohsen-milani-affiliated-with-university-of-south-florida",
+  "from_entity": "mohsen-milani",
+  "to_entity": "university-of-south-florida",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.usf.edu/arts-sciences/departments/government-international-affairs/people/milani-mohsen.aspx",
+      "source_title": "Mohsen Milani — University of South Florida",
+      "source_date": "2024-01-01",
+      "description": "Mohsen Milani is listed as professor of political science at the University of South Florida and executive director of USF's Center for Strategic and Diplomatic Studies."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

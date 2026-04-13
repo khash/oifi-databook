@@ -1,0 +1,21 @@
+{
+  "entity_id": "hassan-hassanzadeh-irgc-tehran--subject-of--march-2026-strike-wave",
+  "from_entity": "hassan-hassanzadeh-irgc-tehran",
+  "to_entity": "march-2026-strike-wave",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2026-03-29",
+  "date_to": "2026-03-29",
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202603299999",
+      "source_title": "IRGC Tehran Province Commander Killed",
+      "source_date": "2026-03-29",
+      "description": "Hassanzadeh killed 29 March 2026."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "irgc-quds-force-lebanon-corps-subsidiary-of-irgc-quds-force",
+  "from_entity": "irgc-quds-force-lebanon-corps",
+  "to_entity": "irgc-quds-force",
+  "type": "subsidiary-of",
+  "confidence": "confirmed",
+  "date_from": "1982",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Quds_Force",
+      "source_title": "Quds Force — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "The Lebanon Corps is the Quds Force regional command for Lebanon, organized as a sub-unit reporting to IRGC-QF headquarters."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

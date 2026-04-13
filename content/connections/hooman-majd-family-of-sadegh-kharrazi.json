@@ -1,0 +1,21 @@
+{
+  "entity_id": "hooman-majd-family-of-sadegh-kharrazi",
+  "from_entity": "hooman-majd",
+  "to_entity": "sadegh-kharrazi",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.penguinrandomhouse.com/books/301623/the-ayatollah-begs-to-differ-by-hooman-majd/",
+      "source_title": "The Ayatollah Begs to Differ — Penguin Random House",
+      "source_date": "2008-01-01",
+      "description": "Hooman Majd is the nephew of Sadegh Kharrazi, former IRI ambassador to France and senior Foreign Ministry official — a family connection central to Majd's insider access to IRI political circles."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "in-law",
+  "editorial_notes": "Majd is nephew (nephew/uncle relationship). Using in-law as closest available family_subtype."
+}

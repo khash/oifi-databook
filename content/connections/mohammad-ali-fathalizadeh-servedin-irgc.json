@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-ali-fathalizadeh--served-in--islamic-revolutionary-guard-corps",
+  "from_entity": "mohammad-ali-fathalizadeh",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026-04-01",
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202604019999",
+      "source_title": "IRGC Fatehin Unit Commander Killed",
+      "source_date": "2026-04-01",
+      "description": "Fathalizadeh commanded the Fatehin Unit, an IRGC special forces formation."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

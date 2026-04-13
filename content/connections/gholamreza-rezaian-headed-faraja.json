@@ -1,0 +1,21 @@
+{
+  "entity_id": "gholamreza-rezaian-headed-faraja",
+  "from_entity": "gholamreza-rezaian",
+  "to_entity": "faraja",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026-03",
+  "evidence": [
+    {
+      "source_url": "https://www.timesofisrael.com/",
+      "source_title": "Israeli airstrikes kill senior Iranian security officials",
+      "source_date": "2026-03-02",
+      "description": "Major General Gholamreza Rezaian served as head of intelligence for FARAJA (Law Enforcement Command) until his death on 2 March 2026."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Intelligence directorate of FARAJA, not to be confused with IRGC Intelligence Organisation."
+}

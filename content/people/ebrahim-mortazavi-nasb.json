@@ -1,0 +1,25 @@
+{
+  "entity_id": "ebrahim-mortazavi-nasb",
+  "slug": "ebrahim-mortazavi-nasb",
+  "name_en": "Ebrahim Mortazavi-Nasb",
+  "name_fa": "ابراهیم مرتضوی‌نسب",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": "Shiraz, Iran",
+  "role": "Basij Commander, Shiraz (d. 22 March 2026)",
+  "faction": "hardliner",
+  "bio": "Ebrahim Mortazavi-Nasb served as the [Basij Forces](/orgs/basij) commander in Shiraz. He was killed on 22 March 2026 during the [March 2026 Strike Wave](/events/march-2026-strike-wave).",
+  "irgc_member": true,
+  "expertise": ["paramilitary command"],
+  "tags": ["killed-in-action", "military"],
+  "sources": [
+    {
+      "url": "https://www.tasnimnews.com/en/news/2026/03/22/basij-shiraz-commander-killed",
+      "title": "Basij Shiraz Commander Killed",
+      "date": "2026-03-22",
+      "publisher": "Tasnim News Agency"
+    }
+  ],
+  "editorial_notes": "Killed 22 March 2026. Basij commander in Shiraz."
+}

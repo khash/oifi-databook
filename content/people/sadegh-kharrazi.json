@@ -1,0 +1,26 @@
+{
+  "entity_id": "sadegh-kharrazi",
+  "slug": "sadegh-kharrazi",
+  "name_en": "Sadegh Kharrazi",
+  "name_fa": "صادق خرازی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1958,
+  "birthplace": "Tehran, Iran",
+  "role": "Former Iranian Ambassador to France; former Deputy Foreign Minister",
+  "faction": "reformist",
+  "irgc_member": false,
+  "bio": "Sadegh Kharrazi is an Iranian diplomat who served as Ambassador to France and as Deputy Foreign Minister. He is the nephew of [Kamal Kharrazi](/people/kamal-kharrazi), who served as Foreign Minister under President Khatami, making him part of one of the Islamic Republic's most prominent diplomatic families. He is also the uncle of journalist Hooman Majd. Kharrazi was associated with reformist currents within the Iranian diplomatic establishment and was at times seen as a potential reformist candidate for the presidency. He served as Iran's permanent representative at the UN in New York before his posting in Paris, accumulating extensive experience in multilateral diplomacy.",
+  "expertise": ["diplomacy"],
+  "tags": ["diplomacy"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sadegh_Kharrazi",
+      "title": "Sadegh Kharrazi — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "Nephew of Kamal Kharrazi. Uncle of journalist Hooman Majd. Reformist-leaning diplomat."
+}

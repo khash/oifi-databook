@@ -1,0 +1,21 @@
+{
+  "entity_id": "alberto-nisman-named-in-cristina-fernandez-de-kirchner",
+  "from_entity": "alberto-nisman",
+  "to_entity": "cristina-fernandez-de-kirchner",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2015-01-14",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Alberto_Nisman",
+      "source_title": "Alberto Nisman — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Nisman filed a 289-page charging document naming Kirchner for treason on January 14 2015."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

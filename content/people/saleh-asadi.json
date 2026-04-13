@@ -1,0 +1,27 @@
+{
+  "entity_id": "saleh-asadi",
+  "slug": "saleh-asadi",
+  "name_en": "Saleh Asadi",
+  "name_fa": "صالح اسدی",
+  "has_native_fa_name": true,
+  "aliases": ["Brigadier General Saleh Asadi"],
+  "born": null,
+  "birthplace": null,
+  "died": "2026-02-28",
+  "role": "Brigadier General; Deputy Head of Armed Forces Intelligence",
+  "faction": "hardliner",
+  "irgc_member": false,
+  "bio": "Saleh Asadi was a Brigadier General serving as Deputy Head of Armed Forces Intelligence under the [General Staff of the Armed Forces](/orgs/general-staff-of-the-armed-forces). He was killed on 28 February 2026 in the combined US-Israel decapitation strikes that also killed Supreme Leader [Ali Khamenei](/people/ali-khamenei) and multiple senior military commanders. His death was part of a systematic effort to destroy Iran's intelligence and military command infrastructure during the [February 28, 2026 strikes](/events/israeli-strikes-iran-feb-2026).",
+  "expertise": ["military intelligence", "armed forces"],
+  "tags": ["killed-in-action", "intelligence", "military", "deceased"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/2026_Iran%E2%80%93Israel_conflict",
+      "title": "2026 Iran–Israel conflict — Wikipedia",
+      "date": "2026-03-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "Brigadier General, Deputy Head of Armed Forces Intelligence. Killed 28 Feb 2026 in US/Israel decapitation strikes."
+}

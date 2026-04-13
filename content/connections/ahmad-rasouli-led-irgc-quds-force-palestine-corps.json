@@ -1,0 +1,21 @@
+{
+  "entity_id": "ahmad-rasouli-led-irgc-quds-force-palestine-corps",
+  "from_entity": "ahmad-rasouli",
+  "to_entity": "irgc-quds-force-palestine-corps",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026",
+  "evidence": [
+    {
+      "source_url": "https://www.timesofisrael.com/",
+      "source_title": "IDF targets IRGC Quds Force Palestine Corps commander",
+      "source_date": "2026-01-01",
+      "description": "Ahmad Rasouli commanded the IRGC Quds Force Palestine Corps, the unit responsible for Hamas and PIJ liaison."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

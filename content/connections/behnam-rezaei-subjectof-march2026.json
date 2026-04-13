@@ -1,0 +1,21 @@
+{
+  "entity_id": "behnam-rezaei--subject-of--march-2026-strike-wave",
+  "from_entity": "behnam-rezaei",
+  "to_entity": "march-2026-strike-wave",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2026-03-26",
+  "date_to": "2026-03-26",
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202603269999",
+      "source_title": "IRGC Navy Leadership Killed in Bandar Abbas Strike",
+      "source_date": "2026-03-26",
+      "description": "Rezaei killed 26 March 2026 in same strike as Tangsiri."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,25 @@
+{
+  "entity_id": "shahid-beheshti-university",
+  "slug": "shahid-beheshti-university",
+  "name_en": "Shahid Beheshti University",
+  "name_fa": "دانشگاه شهید بهشتی",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 1959,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Shahid Beheshti University (SBU) is a major state research university in Tehran, Iran. Founded in 1959 as the National University of Iran, it was renamed after [Mohammad Beheshti](/people/mohammad-beheshti) following the 1979 revolution. It hosts a prominent nuclear engineering faculty whose staff were disproportionately affected by Israeli airstrikes in June 2025: [Abdolhamid Minouchehr](/people/abdolhamid-minouchehr), [Amir Hossein Faghihi](/people/amir-hossein-faghihi), and [Ahmad Reza Zolfaghari Daryani](/people/ahmad-reza-zolfaghari-daryani) were all killed on 13 June 2025.",
+  "faction": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Shahid_Beheshti_University",
+      "title": "Shahid Beheshti University",
+      "date": "2025-06-14",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": [
+    "nuclear"
+  ],
+  "editorial_notes": "Founded 1959 as National University of Iran. Renamed after Beheshti post-revolution. Known for nuclear engineering programme."
+}

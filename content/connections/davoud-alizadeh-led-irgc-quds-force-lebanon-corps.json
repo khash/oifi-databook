@@ -1,0 +1,21 @@
+{
+  "entity_id": "davoud-alizadeh-led-irgc-quds-force-lebanon-corps",
+  "from_entity": "davoud-alizadeh",
+  "to_entity": "irgc-quds-force-lebanon-corps",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "2024",
+  "date_to": "2026-03",
+  "evidence": [
+    {
+      "source_url": "https://www.timesofisrael.com/idf-says-it-killed-senior-irgc-quds-force-commander-in-strike-on-tehran/",
+      "source_title": "IDF says it killed senior IRGC Quds Force commander in strike on Tehran",
+      "source_date": "2026-03-12",
+      "description": "Davoud Alizadeh commanded the IRGC Quds Force Lebanon Corps until he was killed on 12 March 2026."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

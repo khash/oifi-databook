@@ -1,0 +1,21 @@
+{
+  "entity_id": "majid-hosseinikandesar-coordinated-with-hezbollah",
+  "from_entity": "majid-hosseinikandesar",
+  "to_entity": "hezbollah",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026-03",
+  "evidence": [
+    {
+      "source_url": "https://home.treasury.gov/news/press-releases/",
+      "source_title": "OFAC Designation — IRGC Quds Force Lebanon financial operations",
+      "source_date": "2024-01-01",
+      "description": "Majid Hosseinikandesar managed financial flows from Iran to Hezbollah as head of Lebanon Corps financial operations."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "alireza-bayat--served-in--supreme-national-security-council",
+  "from_entity": "alireza-bayat",
+  "to_entity": "supreme-national-security-council",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026-03-17",
+  "evidence": [
+    {
+      "source_url": "https://en.majalla.com/node/329988/profiles/iran%E2%80%99s-wartime-leader-isn%E2%80%99t-dealmaker",
+      "source_title": "Iran's wartime leader isn't a dealmaker",
+      "source_date": "2026-03-08",
+      "description": "Bayat was Deputy for Internal Security at the SNSC."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

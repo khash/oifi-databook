@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-banuazizi-founded-international-society-for-iranian-studies",
+  "from_entity": "ali-banuazizi",
+  "to_entity": "international-society-for-iranian-studies",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "1967-01-01",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.iranianstudies.org/",
+      "source_title": "International Society for Iranian Studies",
+      "source_date": "2024-01-01",
+      "description": "Ali Banuazizi co-founded the International Society for Iranian Studies in 1967."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

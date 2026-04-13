@@ -1,0 +1,32 @@
+{
+  "entity_id": "alberto-nisman",
+  "slug": "alberto-nisman",
+  "name_en": "Alberto Nisman",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "aliases": [],
+  "born": "1963-05-01",
+  "birthplace": "Buenos Aires, Argentina",
+  "role": "Argentine federal prosecutor; lead investigator of the AMIA bombing case (2004–2015)",
+  "faction": null,
+  "irgc_member": false,
+  "bio": "Alberto Nisman was an Argentine federal prosecutor who spent more than a decade as the lead investigator into the [AMIA bombing](/events/amia-bombing-1994) of July 18, 1994 — the deadliest terrorist attack in Argentine history. Appointed in 2004 as the special prosecutor for the AMIA case, Nisman built a comprehensive evidentiary record identifying Iran's Supreme National Security Council as having authorised the attack and naming several Iranian officials and operatives including [Mohsen Rabbani](/people/mohsen-rabbani), [Hadi Soleimanpour](/people/hadi-soleimanpour), [Ahmad Reza Asghari](/people/ahmad-reza-asghari), and [Ali Fallahian](/people/ali-fallahian). In January 2015, Nisman filed a landmark charging document accusing Argentine President [Cristina Fernández de Kirchner](/people/cristina-fernandez-de-kirchner) and Foreign Minister [Jorge Taiana](/people/jorge-taiana) of treason, alleging they had secretly agreed to shield Iranian suspects from prosecution in exchange for a trade deal with Iran — the [Iran–Argentina MOU](/events/iran-argentina-mou-2013) of 2013. On January 18, 2015 — the night before he was scheduled to testify before the Argentine Congress about those charges — Nisman was found dead in his apartment with a gunshot wound to the head. Argentine authorities initially ruled his death a suicide. Subsequent judicial investigations and forensic re-examinations raised serious doubts about that finding, and in 2019 a federal court determined he had been murdered. The exact perpetrators and chain of responsibility remain contested.",
+  "expertise": ["intelligence", "law"],
+  "tags": ["deceased", "intelligence", "human-rights"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Alberto_Nisman",
+      "title": "Alberto Nisman — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.bbc.com/news/world-latin-america-30920898",
+      "title": "Argentine prosecutor Alberto Nisman found dead",
+      "date": "2015-01-19",
+      "publisher": "BBC News"
+    }
+  ],
+  "editorial_notes": "Found dead January 18 2015. 2019 federal court finding: murder, not suicide. Filed charges against Kirchner and FM Taiana Jan 14 2015. Was due to testify before Congress Jan 19 2015."
+}

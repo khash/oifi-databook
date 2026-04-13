@@ -1,0 +1,33 @@
+{
+  "entity_id": "danny-postel",
+  "slug": "danny-postel",
+  "name_en": "Danny Postel",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "aliases": [],
+  "born": null,
+  "birthplace": "United States",
+  "died": null,
+  "role": "Journalist, editor, and Iran human-rights activist",
+  "faction": null,
+  "bio": "Danny Postel is an American journalist, editor, and activist specializing in Iran, human rights, and Middle East politics. He co-edited *The People Reloaded: The Green Movement and the Struggle for Iran's Future* (2010, Melville House) with [Nader Hashemi](/people/nader-hashemi), a volume that gathered analysis and commentary on the 2009 Green Movement protests and the IRI's violent repression of the democratic opposition.\n\nPostel is a contributing editor at Dissent magazine and has written extensively on Iranian civil society, political prisoners, and the human rights dimensions of US-Iran policy. He advocates for solidarity with Iranian democratic and labor movements, situating his work within a left internationalist framework that is sharply critical of the Islamic Republic while also opposing US military intervention in Iran.\n\nHe has contributed to The Nation, In These Times, and various academic publications, and is affiliated with several human rights advocacy networks focused on Iran. His collaboration with Nader Hashemi on The People Reloaded placed him in the center of English-language left discourse on the 2009 Green Movement.",
+  "irgc_member": false,
+  "expertise": ["Iran human rights", "Green Movement", "Iranian civil society", "US-Iran policy", "left internationalism"],
+  "tags": [],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.mhpbooks.com/books/the-people-reloaded/",
+      "title": "The People Reloaded — Melville House",
+      "date": "2010-01-01",
+      "publisher": "Melville House"
+    },
+    {
+      "url": "https://www.dissentmagazine.org/author/danny-postel/",
+      "title": "Danny Postel — Dissent Magazine",
+      "date": "2024-01-01",
+      "publisher": "Dissent Magazine"
+    }
+  ],
+  "editorial_notes": ""
+}

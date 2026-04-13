@@ -1,0 +1,27 @@
+{
+  "entity_id": "gholamreza-mehrabi",
+  "slug": "gholamreza-mehrabi",
+  "name_en": "Gholamreza Mehrabi",
+  "name_fa": "غلامرضا مهرابی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "died": "2025-06-14",
+  "role": "Deputy Head of Iran's Military Intelligence Directorate",
+  "faction": "hardliner",
+  "irgc_member": false,
+  "bio": "Gholamreza Mehrabi served as the Deputy Head of Iran's military intelligence directorate under the [General Staff of the Armed Forces](/orgs/general-staff-of-the-armed-forces). He was killed on 14 June 2025 in the early phase of the [Israeli strikes on Iran](/events/israeli-strikes-iran-june-2025) that initiated the Twelve-Day War.",
+  "expertise": ["military intelligence"],
+  "tags": ["killed-in-action", "military", "intelligence", "deceased"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/2026_Iran%E2%80%93Israel_conflict",
+      "title": "2026 Iran–Israel conflict — Wikipedia",
+      "date": "2025-06-15",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "Deputy Head of military intelligence directorate. Killed 14 June 2025 in opening strikes of Twelve-Day War."
+}

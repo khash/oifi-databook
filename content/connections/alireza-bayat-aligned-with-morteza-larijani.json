@@ -1,0 +1,14 @@
+{
+  "entity_id": "alireza-bayat-aligned-with-morteza-larijani",
+  "from_entity": "alireza-bayat",
+  "to_entity": "morteza-larijani",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [{"source_url": "https://en.wikipedia.org/wiki/2026_Iran%E2%80%93Israel_conflict", "source_title": "2026 Iran–Israel conflict — Wikipedia", "source_date": "2026-04-01", "description": "Both killed together in SNSC strike - referenced in entity description"}],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

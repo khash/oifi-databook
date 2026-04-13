@@ -1,0 +1,21 @@
+{
+  "entity_id": "abdolrahim-mousavi-served-in-artesh",
+  "from_entity": "abdolrahim-mousavi",
+  "to_entity": "artesh",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1980",
+  "date_to": "2026",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abdolrahim_Mousavi",
+      "source_title": "Abdolrahim Mousavi — Wikipedia",
+      "source_date": "2026-02-28",
+      "description": "Mousavi was a career Artesh (conventional army) officer, not an IRGC member, who rose to command the entire army."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

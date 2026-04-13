@@ -1,0 +1,29 @@
+{
+  "entity_id": "irgc-quds-force-lebanon-corps",
+  "slug": "irgc-quds-force-lebanon-corps",
+  "name_en": "IRGC Quds Force Lebanon Corps",
+  "name_fa": "قرارگاه لبنان سپاه قدس",
+  "has_native_fa_name": true,
+  "type": "military",
+  "founded": 1982,
+  "dissolved": null,
+  "parent_org": "irgc-quds-force",
+  "description": "The Lebanon Corps is the [IRGC Quds Force](/orgs/irgc-quds-force) regional command responsible for operations in Lebanon, principally the training, arming, financing, and operational coordination of [Hezbollah](/orgs/hezbollah). Established in the early 1980s during the founding period of Hezbollah, the Lebanon Corps has been the primary conduit for Iranian strategic influence in the Levant. It oversees weapons transfers (including precision-guided missiles), financial flows, and liaison with Hezbollah's military and political leadership. Following the Israeli killing of Hezbollah's liaison commander Ibrahim Aqil in September 2024, command of Lebanon Corps operations was assumed by [Davoud Alizadeh](/people/davoud-alizadeh), who was himself killed in an Israeli strike on 12 March 2026. Financial operations for the Lebanon portfolio were run by [Majid Hosseinikandesar](/people/majid-hosseinikandesar), killed 8 March 2026.",
+  "faction": "hardliner",
+  "tags": ["military", "proxy-warfare", "sanctions"],
+  "sources": [
+    {
+      "url": "https://www.longwarjournal.org/archives/2024/09/irgc-quds-force-commander-for-lebanon-killed-in-israeli-strike.php",
+      "title": "IRGC Quds Force commander for Lebanon killed in Israeli strike",
+      "date": "2024-09-30",
+      "publisher": "Long War Journal"
+    },
+    {
+      "url": "https://www.reuters.com/world/middle-east/who-was-ibrahim-aqil-senior-hezbollah-commander-killed-israel-2024-09-20/",
+      "title": "Who was Ibrahim Aqil, senior Hezbollah commander killed by Israel?",
+      "date": "2024-09-20",
+      "publisher": "Reuters"
+    }
+  ],
+  "editorial_notes": "Primary IRGC-QF operational arm for Hezbollah liaison. Consecutive commanders killed by Israel 2024-2026."
+}

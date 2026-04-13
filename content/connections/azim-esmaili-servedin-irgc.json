@@ -1,0 +1,21 @@
+{
+  "entity_id": "azim-esmaili-khosrowabadi--served-in--islamic-revolutionary-guard-corps",
+  "from_entity": "azim-esmaili-khosrowabadi",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026-03-17",
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202603179999",
+      "source_title": "Senior Basij Deputies Killed in Israeli Strikes",
+      "source_date": "2026-03-17",
+      "description": "Basij Forces are under IRGC command."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

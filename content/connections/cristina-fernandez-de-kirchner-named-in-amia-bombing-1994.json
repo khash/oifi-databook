@@ -1,0 +1,21 @@
+{
+  "entity_id": "cristina-fernandez-de-kirchner-named-in-amia-bombing-1994",
+  "from_entity": "cristina-fernandez-de-kirchner",
+  "to_entity": "amia-bombing-1994",
+  "type": "named-in",
+  "confidence": "alleged",
+  "date_from": "2013-01-27",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Alberto_Nisman",
+      "source_title": "Alberto Nisman — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Nisman alleged Kirchner obstructed justice in the AMIA bombing investigation via the 2013 MOU with Iran."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

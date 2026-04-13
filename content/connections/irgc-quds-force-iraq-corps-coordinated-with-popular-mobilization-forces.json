@@ -1,0 +1,21 @@
+{
+  "entity_id": "irgc-quds-force-iraq-corps-coordinated-with-popular-mobilization-forces",
+  "from_entity": "irgc-quds-force-iraq-corps",
+  "to_entity": "popular-mobilization-forces",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "2014",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.csis.org/analysis/irans-use-proxy-forces",
+      "source_title": "Iran's Use of Proxy Forces — CSIS",
+      "source_date": "2023-01-01",
+      "description": "The Quds Force Iraq Corps is the primary liaison and coordinator with Iraqi Popular Mobilisation Forces (PMF/Hashd al-Shaabi)."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

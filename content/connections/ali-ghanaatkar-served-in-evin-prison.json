@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-ghanaatkar-served-in-evin-prison",
+  "from_entity": "ali-ghanaatkar",
+  "to_entity": "evin-prison",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2025-06",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Evin_Prison",
+      "source_title": "Evin Prison — Wikipedia",
+      "source_date": "2025-06-20",
+      "description": "Ghanaatkar identified as top prosecutor at Evin Prison"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "amir-hossein-faghihi-headed-nuclear-science-and-technology-research-institute",
+  "from_entity": "amir-hossein-faghihi",
+  "to_entity": "nuclear-science-and-technology-research-institute",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2025",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2025_Israeli_strikes_on_Iran",
+      "source_title": "2025 Israeli strikes on Iran",
+      "source_date": "2025-06-14",
+      "description": "Faghihi served as head of the Nuclear Science and Technology Research Institute (NSTRI), the research arm of the AEOI, at the time of his death."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

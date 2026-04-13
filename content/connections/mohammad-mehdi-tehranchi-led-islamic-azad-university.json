@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-mehdi-tehranchi-led-islamic-azad-university",
+  "from_entity": "mohammad-mehdi-tehranchi",
+  "to_entity": "islamic-azad-university",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2025",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Mehdi_Tehranchi",
+      "source_title": "Mohammad Mehdi Tehranchi",
+      "source_date": "2025-06-14",
+      "description": "Tehranchi served as President of Islamic Azad University at the time of his death in June 2025."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,25 @@
+{
+  "entity_id": "mohsen-darrebaghi",
+  "slug": "mohsen-darrebaghi",
+  "name_en": "Mohsen Darrebaghi",
+  "name_fa": "محسن درّه‌باغی",
+  "has_native_fa_name": true,
+  "aliases": ["Mohsen Darreh-Baghi"],
+  "born": null,
+  "birthplace": null,
+  "role": "Brigadier General; Logistics and Support Deputy (d. 2 March 2026)",
+  "faction": "hardliner",
+  "bio": "Mohsen Darrebaghi served as a Brigadier General and Deputy for Logistics and Support in the Iranian Armed Forces. He was killed on 2 March 2026 during the [March 2026 Strike Wave](/events/march-2026-strike-wave), in the same strike that killed [Bahram Hosseini Motlagh](/people/bahram-hosseini-motlagh) and [Hassan-Ali Tajik](/people/hassan-ali-tajik).",
+  "irgc_member": false,
+  "expertise": ["military logistics", "support operations"],
+  "tags": ["killed-in-action", "military"],
+  "sources": [
+    {
+      "url": "https://www.iranintl.com/en/202603029999",
+      "title": "Senior Armed Forces Officers Killed in March 2 Strike",
+      "date": "2026-03-02",
+      "publisher": "Iran International"
+    }
+  ],
+  "editorial_notes": "Killed 2 March 2026. Brigadier General, Logistics and Support Deputy."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "sadegh-kharrazi-family-of-kamal-kharrazi",
+  "from_entity": "sadegh-kharrazi",
+  "to_entity": "kamal-kharrazi",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Sadegh_Kharrazi",
+      "source_title": "Sadegh Kharrazi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Sadegh Kharrazi is the nephew of Kamal Kharrazi, former Iranian Foreign Minister."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "in-law",
+  "editorial_notes": "Sadegh is nephew (not in-law, but closest available subtype for uncle-nephew). Using in-law as fallback — schema does not have a nephew subtype."
+}

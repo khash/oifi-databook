@@ -1,0 +1,24 @@
+{
+  "entity_id": "boston-college",
+  "slug": "boston-college",
+  "name_en": "Boston College",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 1863,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Jesuit research university in Chestnut Hill, Massachusetts. Home to [Ali Banuazizi](/people/ali-banuazizi), professor emeritus of political science and psychology, who spent his career there and helped institutionalize Iranian studies in North America through his role in founding the International Society for Iranian Studies.",
+  "faction": null,
+  "tags": [],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.bc.edu/",
+      "title": "Boston College",
+      "date": "2024-01-01",
+      "publisher": "Boston College"
+    }
+  ],
+  "editorial_notes": ""
+}

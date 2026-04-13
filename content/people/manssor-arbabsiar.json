@@ -1,0 +1,32 @@
+{
+  "entity_id": "manssor-arbabsiar",
+  "slug": "manssor-arbabsiar",
+  "name_en": "Manssor Arbabsiar",
+  "name_fa": "منصور ارباب‌سیار",
+  "has_native_fa_name": true,
+  "aliases": ["Mansour Arbabsiar"],
+  "born": 1955,
+  "birthplace": "Iran",
+  "role": "Iranian-American used as an unwitting IRGC-Quds Force asset in the 2011 plot to assassinate Saudi Ambassador Adel Al-Jubeir in Washington DC",
+  "faction": null,
+  "irgc_member": false,
+  "bio": "Manssor Arbabsiar is an Iranian-American used by the [IRGC-Quds Force](/orgs/irgc-quds-force) as a proxy in the [2011 plot to assassinate Saudi Ambassador Adel Al-Jubeir](/events/arbabsiar-plot-2011) in Washington DC. A naturalised US citizen living in Texas, Arbabsiar was recruited by his cousin — [Gholam Shakuri](/people/gholam-shakuri), an IRGC-QF officer — and directed to hire a Mexican drug cartel hitman to kill the ambassador. Unbeknownst to Arbabsiar, the alleged hitman was a DEA informant. Arbabsiar was arrested in October 2011 after wiring $100,000 to what he believed was the cartel. He pleaded guilty in October 2012 and was sentenced to 25 years in federal prison. His case documents the IRGC-QF practice of using diaspora proxies — including individuals with no formal intelligence training — for assassination operations on US soil.",
+  "expertise": [],
+  "tags": ["intelligence", "proxy-warfare", "sanctions"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Manssor_Arbabsiar",
+      "title": "Manssor Arbabsiar — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.justice.gov/opa/pr/man-sentenced-25-years-prison-plotting-assassinate-saudi-arabian-ambassador-united-states",
+      "title": "Man Sentenced to 25 Years in Prison for Plotting to Assassinate Saudi Arabian Ambassador to the United States",
+      "date": "2013-05-30",
+      "publisher": "US Department of Justice"
+    }
+  ],
+  "editorial_notes": "Sentenced 25 years federal prison May 2013. Pleaded guilty Oct 2012. Arrested Oct 2011. Recruited by cousin Gholam Shakuri. Case is key precedent for IRGC use of diaspora proxies on US soil."
+}

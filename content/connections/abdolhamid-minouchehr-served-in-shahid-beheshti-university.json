@@ -1,0 +1,21 @@
+{
+  "entity_id": "abdolhamid-minouchehr-served-in-shahid-beheshti-university",
+  "from_entity": "abdolhamid-minouchehr",
+  "to_entity": "shahid-beheshti-university",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2025",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2025_Israeli_strikes_on_Iran",
+      "source_title": "2025 Israeli strikes on Iran",
+      "source_date": "2025-06-14",
+      "description": "Minouchehr served as dean of the nuclear engineering faculty at Shahid Beheshti University."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

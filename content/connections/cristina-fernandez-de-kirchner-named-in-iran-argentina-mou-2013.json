@@ -1,0 +1,21 @@
+{
+  "entity_id": "cristina-fernandez-de-kirchner-named-in-iran-argentina-mou-2013",
+  "from_entity": "cristina-fernandez-de-kirchner",
+  "to_entity": "iran-argentina-mou-2013",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2013-01-27",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Argentina_AMIA_memorandum",
+      "source_title": "Iran–Argentina AMIA memorandum — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Kirchner's government signed the MOU; Nisman's treason charges centred on her alleged complicity in the deal."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

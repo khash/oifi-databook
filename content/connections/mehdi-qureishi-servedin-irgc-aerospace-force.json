@@ -1,0 +1,21 @@
+{
+  "entity_id": "mehdi-qureishi--served-in--irgc-aerospace-force",
+  "from_entity": "mehdi-qureishi",
+  "to_entity": "irgc-aerospace-force",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026-03-20",
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202603209999",
+      "source_title": "IRGC Aerospace Force Commander Killed",
+      "source_date": "2026-03-20",
+      "description": "Qureishi was an IRGC Aerospace Force commander."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

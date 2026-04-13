@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-pakpour-served-in-islamic-revolutionary-guard-corps",
+  "from_entity": "mohammad-pakpour",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1980",
+  "date_to": "2026",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Pakpour",
+      "source_title": "Mohammad Pakpour — Wikipedia",
+      "source_date": "2026-02-28",
+      "description": "Pakpour was a career IRGC officer who joined during the Iran-Iraq War."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

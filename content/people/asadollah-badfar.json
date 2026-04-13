@@ -1,0 +1,25 @@
+{
+  "entity_id": "asadollah-badfar",
+  "slug": "asadollah-badfar",
+  "name_en": "Asadollah Badfar",
+  "name_fa": "اسدالله بادفر",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Head, Basij Forces (d. March 2026)",
+  "faction": "hardliner",
+  "bio": "Asadollah Badfar served as the head of the [Basij Forces](/orgs/basij), the paramilitary volunteer militia under the [IRGC](/orgs/islamic-revolutionary-guard-corps). He was killed in an Israeli airstrike in early March 2026, with his funeral reported around 9 March 2026 as part of the [March 2026 Strike Wave](/events/march-2026-strike-wave).",
+  "irgc_member": true,
+  "expertise": ["paramilitary command", "basij operations"],
+  "tags": ["killed-in-action", "military"],
+  "sources": [
+    {
+      "url": "https://www.tasnimnews.com/en/news/2026/03/09/3264000/funeral-held-for-basij-commander-badfar",
+      "title": "Funeral Held for Basij Commander Badfar",
+      "date": "2026-03-09",
+      "publisher": "Tasnim News Agency"
+    }
+  ],
+  "editorial_notes": "Killed c. 9 March 2026 (funeral date). Head of Basij Forces."
+}

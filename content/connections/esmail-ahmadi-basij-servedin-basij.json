@@ -1,0 +1,21 @@
+{
+  "entity_id": "esmail-ahmadi-basij--served-in--basij",
+  "from_entity": "esmail-ahmadi-basij",
+  "to_entity": "basij",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026-03-17",
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202603179999",
+      "source_title": "Senior Basij Deputies Killed in Israeli Strikes",
+      "source_date": "2026-03-17",
+      "description": "Ahmadi was Head of Intelligence for the Basij Forces."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

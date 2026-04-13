@@ -1,0 +1,33 @@
+{
+  "entity_id": "mohammad-mehdi-tehranchi",
+  "slug": "mohammad-mehdi-tehranchi",
+  "name_en": "Mohammad Mehdi Tehranchi",
+  "name_fa": "محمدمهدی تهرانچی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "President, Islamic Azad University; theoretical physicist; killed June 2025",
+  "faction": "conservative",
+  "bio": "Mohammad Mehdi Tehranchi was a theoretical physicist who served as President of [Islamic Azad University](/orgs/islamic-azad-university), Iran's largest university system with over 400 branches nationwide. He was killed on 13 June 2025 in the opening Israeli airstrike of [Operation Rising Lion](/events/israeli-strikes-iran-june-2025), which targeted military and nuclear infrastructure across Iran.",
+  "irgc_member": false,
+  "expertise": [
+    "theoretical physics",
+    "higher education administration"
+  ],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mohammad_Mehdi_Tehranchi",
+      "title": "Mohammad Mehdi Tehranchi",
+      "date": "2025-06-14",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": [
+    "nuclear",
+    "deceased",
+    "assassinated"
+  ],
+  "photo": null,
+  "editorial_notes": "President of Islamic Azad University. Theoretical physicist. Killed in opening Israeli strike 13 June 2025."
+}

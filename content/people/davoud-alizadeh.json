@@ -1,0 +1,30 @@
+{
+  "entity_id": "davoud-alizadeh",
+  "slug": "davoud-alizadeh",
+  "name_en": "Davoud Alizadeh",
+  "name_fa": "داوود علیزاده",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": "Iran",
+  "role": "IRGC Quds Force Lebanon Corps Commander (d. 2026)",
+  "faction": "hardliner",
+  "bio": "Davoud Alizadeh served as commander of the [IRGC Quds Force Lebanon Corps](/orgs/irgc-quds-force-lebanon-corps), the primary operational unit managing Iran's relationship with [Hezbollah](/orgs/hezbollah). He assumed effective command of Lebanon Corps operations following the Israeli killing of Ibrahim Aqil in September 2024, inheriting responsibility for coordinating weapons transfers, financial conduits, and Hezbollah military liaison. Alizadeh was killed in an Israeli airstrike on 12 March 2026 during the 2026 Iran war.",
+  "expertise": [
+    "proxy warfare",
+    "Hezbollah liaison",
+    "Lebanon operations"
+  ],
+  "tags": ["deceased", "killed-in-action", "military", "proxy-warfare"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.timesofisrael.com/idf-says-it-killed-senior-irgc-quds-force-commander-in-strike-on-tehran/",
+      "title": "IDF says it killed senior IRGC Quds Force commander in strike on Tehran",
+      "date": "2026-03-12",
+      "publisher": "Times of Israel"
+    }
+  ],
+  "editorial_notes": "Killed 12 March 2026. Took over Lebanon Corps operations after death of Ibrahim Aqil (September 2024).",
+  "irgc_member": true
+}

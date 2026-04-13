@@ -1,0 +1,21 @@
+{
+  "entity_id": "morteza-larijani--family-of--ali-larijani",
+  "from_entity": "morteza-larijani",
+  "to_entity": "ali-larijani",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.majalla.com/node/329988/profiles/iran%E2%80%99s-wartime-leader-isn%E2%80%99t-dealmaker",
+      "source_title": "Iran's wartime leader isn't a dealmaker",
+      "source_date": "2026-03-08",
+      "description": "Morteza Larijani was the son of Ali Larijani; both killed in Israeli airstrike 17 March 2026."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "child",
+  "editorial_notes": "Morteza is the child; Ali is the parent."
+}

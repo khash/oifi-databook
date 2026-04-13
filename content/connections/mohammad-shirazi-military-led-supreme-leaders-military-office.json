@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-shirazi-military-led-supreme-leaders-military-office",
+  "from_entity": "mohammad-shirazi-military",
+  "to_entity": "supreme-leaders-military-office",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026-02-28",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2026_Iran%E2%80%93Israel_conflict",
+      "source_title": "2026 Iran–Israel conflict — Wikipedia",
+      "source_date": "2026-03-01",
+      "description": "Shirazi identified as Head of Supreme Leader's Military Office at time of death"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

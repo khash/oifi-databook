@@ -1,0 +1,36 @@
+{
+  "entity_id": "yazdan-mir",
+  "slug": "yazdan-mir",
+  "name_en": "Yazdan Mir",
+  "name_fa": "یزدان میر",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": "Iran",
+  "role": "Commander, IRGC Quds Force Unit 840 (d. 2026)",
+  "faction": "hardliner",
+  "bio": "Yazdan Mir commanded [IRGC Quds Force Unit 840](/orgs/irgc-quds-force-unit-840), the Quds Force's external covert operations unit specialising in kidnapping, assassination planning, and irregular operations against foreign nationals. Mir and Unit 840 were sanctioned by the US Treasury Department in September 2022 for documented plots against American officials and Israeli nationals abroad, including plots targeting Israeli tourists and Iranian dissidents in foreign countries. He was killed in an Israeli airstrike on 6 April 2026 in Tehran during the 2026 Iran war, killed the same day as IRGC Intelligence chief Majid Khademi.",
+  "expertise": [
+    "covert operations",
+    "external operations",
+    "assassination planning"
+  ],
+  "tags": ["deceased", "killed-in-action", "military", "intelligence", "sanctions"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://home.treasury.gov/news/press-releases/jy0902",
+      "title": "Treasury Sanctions IRGC Officials Responsible for Plots Against Americans and Israelis",
+      "date": "2022-09-13",
+      "publisher": "US Treasury"
+    },
+    {
+      "url": "https://www.axios.com/2022/09/13/iran-irgc-unit-840-sanctions",
+      "title": "U.S. sanctions Iranian unit tied to plots against Americans, Israelis",
+      "date": "2022-09-13",
+      "publisher": "Axios"
+    }
+  ],
+  "editorial_notes": "Killed 6 April 2026 in Israeli airstrike on Tehran. US Treasury sanctioned him and Unit 840 in September 2022.",
+  "irgc_member": true
+}

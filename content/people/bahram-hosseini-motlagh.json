@@ -1,0 +1,25 @@
+{
+  "entity_id": "bahram-hosseini-motlagh",
+  "slug": "bahram-hosseini-motlagh",
+  "name_en": "Bahram Hosseini Motlagh",
+  "name_fa": "بهرام حسینی مطلق",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Brigadier General; Armed Forces Planning and Operations (d. 2 March 2026)",
+  "faction": "hardliner",
+  "bio": "Bahram Hosseini Motlagh served as a Brigadier General in Armed Forces Planning and Operations. He was killed on 2 March 2026 during the [March 2026 Strike Wave](/events/march-2026-strike-wave), in the same strike that also killed [Hassan-Ali Tajik](/people/hassan-ali-tajik) and [Mohsen Darrebaghi](/people/mohsen-darrebaghi).",
+  "irgc_member": false,
+  "expertise": ["military planning", "operations"],
+  "tags": ["killed-in-action", "military"],
+  "sources": [
+    {
+      "url": "https://www.iranintl.com/en/202603029999",
+      "title": "Senior Armed Forces Officers Killed in March 2 Strike",
+      "date": "2026-03-02",
+      "publisher": "Iran International"
+    }
+  ],
+  "editorial_notes": "Killed 2 March 2026. Brigadier General, Armed Forces Planning and Operations."
+}

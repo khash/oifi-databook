@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-ahmadlou--served-in--irgc-quds-force",
+  "from_entity": "hossein-ahmadlou",
+  "to_entity": "irgc-quds-force",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026",
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/20260000quds-israel-desk",
+      "source_title": "Quds Force Israel Desk Officer Killed",
+      "source_date": "2026-03-01",
+      "description": "Ahmadlou was the Quds Force Israel Desk Officer ('Zionist File')."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

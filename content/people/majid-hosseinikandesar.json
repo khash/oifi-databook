@@ -1,0 +1,36 @@
+{
+  "entity_id": "majid-hosseinikandesar",
+  "slug": "majid-hosseinikandesar",
+  "name_en": "Majid Hosseinikandesar",
+  "name_fa": "مجید حسینی‌کندسر",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": "Iran",
+  "role": "Head of IRGC Quds Force Financial Operations in Lebanon (d. 2026)",
+  "faction": "hardliner",
+  "bio": "Majid Hosseinikandesar served as head of financial operations for the [IRGC Quds Force Lebanon Corps](/orgs/irgc-quds-force-lebanon-corps), managing the flow of funds from Iran to [Hezbollah](/orgs/hezbollah) and affiliated networks. His role placed him at the center of the Iran-Hezbollah terror-finance network, coordinating financial transfers that sustained Hezbollah's military and social infrastructure. He was sanctioned by the US and allied governments for his role in facilitating terrorist financing. Hosseinikandesar was killed in an Israeli airstrike on 8 March 2026 during the 2026 Iran war.",
+  "expertise": [
+    "terror finance",
+    "financial operations",
+    "Hezbollah funding"
+  ],
+  "tags": ["deceased", "killed-in-action", "military", "sanctions"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://home.treasury.gov/news/press-releases/",
+      "title": "OFAC — Specially Designated Nationals and Blocked Persons",
+      "date": "2024-01-01",
+      "publisher": "US Treasury / OFAC"
+    },
+    {
+      "url": "https://www.longwarjournal.org/",
+      "title": "Long War Journal — IRGC Quds Force Lebanon operations",
+      "date": "2026-03-08",
+      "publisher": "Long War Journal"
+    }
+  ],
+  "editorial_notes": "Killed 8 March 2026 in Israeli strike. Head of Quds Force financial operations for Lebanon portfolio.",
+  "irgc_member": true
+}

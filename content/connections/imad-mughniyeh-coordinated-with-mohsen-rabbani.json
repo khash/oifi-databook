@@ -1,0 +1,21 @@
+{
+  "entity_id": "imad-mughniyeh-coordinated-with-mohsen-rabbani",
+  "from_entity": "imad-mughniyeh",
+  "to_entity": "mohsen-rabbani",
+  "type": "coordinated-with",
+  "confidence": "alleged",
+  "date_from": "1994-01-01",
+  "date_to": "1994-07-18",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/1994_AMIA_bombing",
+      "source_title": "1994 AMIA bombing — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Argentine prosecutors concluded Mughniyeh (Hezbollah operational director) and Rabbani (IRGC-QF ground coordinator) jointly executed the AMIA bombing."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

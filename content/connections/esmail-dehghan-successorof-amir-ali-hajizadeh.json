@@ -1,0 +1,21 @@
+{
+  "entity_id": "esmail-dehghan--coordinated-with--amir-ali-hajizadeh",
+  "from_entity": "esmail-dehghan",
+  "to_entity": "amir-ali-hajizadeh",
+  "type": "coordinated-with",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": "2025-06",
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202603109999",
+      "source_title": "IRGC Aerospace Commander Killed in Strike",
+      "source_date": "2026-03-10",
+      "description": "Dehghan was a senior commander in the successor generation to Hajizadeh in the IRGC Aerospace Force."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Inferred successor-generation relationship; exact command relationship not confirmed."
+}

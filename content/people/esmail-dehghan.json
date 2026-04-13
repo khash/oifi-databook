@@ -1,0 +1,25 @@
+{
+  "entity_id": "esmail-dehghan",
+  "slug": "esmail-dehghan",
+  "name_en": "Esmail Dehghan",
+  "name_fa": "اسماعیل دهقان",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Senior Commander, IRGC Aerospace Force (d. 10 March 2026)",
+  "faction": "hardliner",
+  "bio": "Esmail Dehghan served as a senior commander in the [IRGC Aerospace Force](/orgs/irgc-aerospace-force), representing the successor generation to [Amir Ali Hajizadeh](/people/amir-ali-hajizadeh) who was killed in June 2025. He was killed on 10 March 2026 during the [March 2026 Strike Wave](/events/march-2026-strike-wave) targeting the [IRGC](/orgs/islamic-revolutionary-guard-corps)'s reconstituted aerospace command.",
+  "irgc_member": true,
+  "expertise": ["aerospace command", "missile operations"],
+  "tags": ["killed-in-action", "military"],
+  "sources": [
+    {
+      "url": "https://www.iranintl.com/en/202603109999",
+      "title": "IRGC Aerospace Commander Killed in Strike",
+      "date": "2026-03-10",
+      "publisher": "Iran International"
+    }
+  ],
+  "editorial_notes": "Killed 10 March 2026. Successor-generation IRGC Aerospace Force senior commander after Hajizadeh's death in June 2025."
+}

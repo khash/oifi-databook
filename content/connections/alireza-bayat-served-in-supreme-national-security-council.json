@@ -1,0 +1,14 @@
+{
+  "entity_id": "alireza-bayat-served-in-supreme-national-security-council",
+  "from_entity": "alireza-bayat",
+  "to_entity": "supreme-national-security-council",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026-03-17",
+  "evidence": [{"source_url": "https://en.wikipedia.org/wiki/2026_Iran%E2%80%93Israel_conflict", "source_title": "2026 Iran–Israel conflict — Wikipedia", "source_date": "2026-04-01", "description": "Bayat was SNSC Deputy for Internal Security"}],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

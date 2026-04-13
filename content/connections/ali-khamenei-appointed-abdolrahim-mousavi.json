@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-khamenei-appointed-abdolrahim-mousavi",
+  "from_entity": "ali-khamenei",
+  "to_entity": "abdolrahim-mousavi",
+  "type": "appointed",
+  "confidence": "confirmed",
+  "date_from": "2017",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abdolrahim_Mousavi",
+      "source_title": "Abdolrahim Mousavi — Wikipedia",
+      "source_date": "2026-02-28",
+      "description": "Khamenei appointed Abdolrahim Mousavi as commander of the Iranian Army (Artesh) in 2017, and later as Chief of the General Staff following the death of Mohammad Bagheri in 2025."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

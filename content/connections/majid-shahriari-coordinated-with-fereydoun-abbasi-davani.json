@@ -1,0 +1,21 @@
+{
+  "entity_id": "majid-shahriari-coordinated-with-fereydoun-abbasi-davani",
+  "from_entity": "majid-shahriari",
+  "to_entity": "fereydoun-abbasi-davani",
+  "type": "coordinated-with",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": "2010",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Assassination_of_Iranian_nuclear_scientists",
+      "source_title": "Assassination of Iranian nuclear scientists — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Shahriari and Abbasi-Davani were targeted in coordinated car-bombing attacks on the same day, suggesting they were both part of the same nuclear programme network."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Both targeted on 29 November 2010 in what appears to be a coordinated operation."
+}

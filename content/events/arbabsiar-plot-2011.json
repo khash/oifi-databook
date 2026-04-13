@@ -1,0 +1,25 @@
+{
+  "entity_id": "arbabsiar-plot-2011",
+  "slug": "arbabsiar-plot-2011",
+  "name": "Arbabsiar Plot to Assassinate Saudi Ambassador (2011)",
+  "date": "2011-10-11",
+  "type": "indictment",
+  "description": "In October 2011, the US Department of Justice announced the indictment of [Manssor Arbabsiar](/people/manssor-arbabsiar) and [Gholam Shakuri](/people/gholam-shakuri) for an [IRGC-Quds Force](/orgs/irgc-quds-force)-directed plot to assassinate Saudi Ambassador Adel Al-Jubeir in Washington DC. The scheme involved hiring an alleged Mexican drug cartel hitman — in reality a DEA informant — to carry out the killing on US soil, potentially at a Washington restaurant. Shakuri, a Tehran-based IRGC-QF officer, directed Arbabsiar — his Iranian-American cousin with no intelligence background — and wired $100,000 as a down-payment. The FBI disrupted the plot and arrested Arbabsiar on October 11, 2011. Shakuri was indicted in absentia and remains at large in Iran. Arbabsiar pleaded guilty in 2012 and was sentenced to 25 years in federal prison. The plot is a landmark case demonstrating IRGC-QF willingness to conduct assassination operations on US soil using diaspora proxies.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://www.justice.gov/opa/pr/two-men-charged-alleged-plot-assassinate-saudi-arabian-ambassador-united-states",
+      "title": "Two Men Charged in Alleged Plot to Assassinate Saudi Arabian Ambassador to the United States",
+      "date": "2011-10-11",
+      "publisher": "US Department of Justice"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Manssor_Arbabsiar",
+      "title": "Manssor Arbabsiar — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": ["intelligence", "proxy-warfare", "sanctions"],
+  "editorial_notes": "Arbabsiar arrested Oct 11 2011. Plea Oct 2012. Sentenced May 2013 to 25 years. Shakuri indicted in absentia. Plot connected to Abdul Reza Shahlai per US prosecutors."
+}

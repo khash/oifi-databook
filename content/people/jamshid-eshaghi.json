@@ -1,0 +1,25 @@
+{
+  "entity_id": "jamshid-eshaghi",
+  "slug": "jamshid-eshaghi",
+  "name_en": "Jamshid Eshaghi",
+  "name_fa": "جمشید اسحاقی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Brigadier General; Budget and Finance Chief, Armed Forces (d. 31 March 2026)",
+  "faction": "hardliner",
+  "bio": "Jamshid Eshaghi served as a Brigadier General and chief of the Budget and Finance department of the Iranian Armed Forces. He was killed on 31 March 2026 during the [March 2026 Strike Wave](/events/march-2026-strike-wave).",
+  "irgc_member": false,
+  "expertise": ["military finance", "budget management"],
+  "tags": ["killed-in-action", "military"],
+  "sources": [
+    {
+      "url": "https://www.iranintl.com/en/202603319999",
+      "title": "Armed Forces Budget Chief Killed",
+      "date": "2026-03-31",
+      "publisher": "Iran International"
+    }
+  ],
+  "editorial_notes": "Killed 31 March 2026. Brigadier General, Budget and Finance Chief of Armed Forces."
+}

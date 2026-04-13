@@ -1,0 +1,21 @@
+{
+  "entity_id": "abdolrahim-mousavi-reports-to-mohammad-bagheri",
+  "from_entity": "abdolrahim-mousavi",
+  "to_entity": "mohammad-bagheri",
+  "type": "reports-to",
+  "confidence": "confirmed",
+  "date_from": "2017",
+  "date_to": "2025",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abdolrahim_Mousavi",
+      "source_title": "Abdolrahim Mousavi — Wikipedia",
+      "source_date": "2026-02-28",
+      "description": "As Artesh Commander-in-Chief, Mousavi coordinated with and reported through the General Staff under Chief of Staff Mohammad Bagheri."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

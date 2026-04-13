@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammadreza-saqafifar--served-in--office-of-the-supreme-leader",
+  "from_entity": "mohammadreza-saqafifar",
+  "to_entity": "office-of-the-supreme-leader",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026-03-08",
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202603089999",
+      "source_title": "Supreme Leader's Special Assistant Killed",
+      "source_date": "2026-03-08",
+      "description": "Saqafifar was Special Assistant to the Supreme Leader, working from the Office of the Supreme Leader."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

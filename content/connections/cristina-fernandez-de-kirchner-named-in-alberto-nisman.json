@@ -1,0 +1,21 @@
+{
+  "entity_id": "cristina-fernandez-de-kirchner-named-in-alberto-nisman",
+  "from_entity": "cristina-fernandez-de-kirchner",
+  "to_entity": "alberto-nisman",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2015-01-14",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Alberto_Nisman",
+      "source_title": "Alberto Nisman — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Nisman's January 14 2015 charging document named Kirchner as a defendant for treason in connection with the MOU with Iran."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

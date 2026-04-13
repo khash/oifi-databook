@@ -1,0 +1,24 @@
+{
+  "entity_id": "emerging-world",
+  "slug": "emerging-world",
+  "name_en": "Emerging World",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": null,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Research and advisory initiative founded by [Afshin Molavi](/people/afshin-molavi), a senior fellow at the Johns Hopkins School of Advanced International Studies (SAIS) and fellow at the Arab Gulf States Institute. Emerging World focuses on political economy, energy, and strategic analysis of the Persian Gulf and broader Middle East, reflecting Molavi's expertise in Gulf economic diversification and Iran's regional role.",
+  "faction": null,
+  "tags": [],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.emergingworld.com/",
+      "title": "Emerging World",
+      "date": "2024-01-01",
+      "publisher": "Emerging World"
+    }
+  ],
+  "editorial_notes": ""
+}

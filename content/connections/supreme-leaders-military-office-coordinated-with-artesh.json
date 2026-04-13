@@ -1,0 +1,21 @@
+{
+  "entity_id": "supreme-leaders-military-office-coordinated-with-artesh",
+  "from_entity": "supreme-leaders-military-office",
+  "to_entity": "artesh",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Office_of_the_Supreme_Leader_(Iran)",
+      "source_title": "Office of the Supreme Leader (Iran) — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Supreme Leader's Military Office coordinates military directives to Artesh (conventional armed forces)"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

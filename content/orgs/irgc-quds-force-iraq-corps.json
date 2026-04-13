@@ -1,0 +1,30 @@
+{
+  "entity_id": "irgc-quds-force-iraq-corps",
+  "slug": "irgc-quds-force-iraq-corps",
+  "name_en": "Quds Force Iraq Corps",
+  "name_fa": "قرارگاه عراق سپاه قدس",
+  "has_native_fa_name": true,
+  "type": "military",
+  "founded": 1990,
+  "dissolved": null,
+  "parent_org": "irgc-quds-force",
+  "description": "The Quds Force Iraq Corps is the regional command of the [IRGC Quds Force](/orgs/irgc-quds-force) responsible for operations in Iraq. It serves as the primary institutional mechanism for Iran's influence over Iraqi Shia militia networks, including the [Popular Mobilisation Forces](/orgs/popular-mobilization-forces) (PMF/Hashd al-Shaabi). The Iraq Corps was central to Iran's strategy following the 2003 US invasion and the empowerment of Shia political parties, providing training, arms, financing, and operational command to Iraqi proxy forces. It became particularly prominent after 2014 in the fight against ISIS, during which Iranian-backed PMF factions played a major role under Quds Force coordination. The Iraq Corps operates alongside and through figures such as [Qasem Soleimani](/people/qasem-soleimani) and his successors who managed the Iraq portfolio personally from Quds Force HQ.",
+  "faction": null,
+  "tags": ["military", "proxy-warfare"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.criticalthreats.org/analysis/irgc-quds-force",
+      "title": "IRGC Quds Force — AEI Critical Threats",
+      "date": "2024-01-01",
+      "publisher": "AEI Critical Threats Project"
+    },
+    {
+      "url": "https://www.csis.org/analysis/irans-use-proxy-forces",
+      "title": "Iran's Use of Proxy Forces — CSIS",
+      "date": "2023-01-01",
+      "publisher": "Center for Strategic and International Studies"
+    }
+  ],
+  "editorial_notes": "Analogous to Lebanon Corps and Palestine Corps. Iraq is Iran's most important proxy theatre."
+}

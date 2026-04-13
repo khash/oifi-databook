@@ -1,0 +1,32 @@
+{
+  "entity_id": "imad-mughniyeh",
+  "slug": "imad-mughniyeh",
+  "name_en": "Imad Mughniyeh",
+  "name_fa": "عماد مغنیه",
+  "has_native_fa_name": true,
+  "aliases": ["Hajj Radwan", "Imad Fayez Mughniyeh"],
+  "born": 1962,
+  "birthplace": "Tayr Dibba, Lebanon",
+  "role": "Hezbollah military commander; accused of co-directing the 1994 AMIA bombing operation; assassinated 2008",
+  "faction": null,
+  "irgc_member": false,
+  "bio": "Imad Mughniyeh was [Hezbollah](/orgs/hezbollah)'s chief military and intelligence commander, widely regarded as one of the most operationally capable terrorist figures of the late twentieth century. Operating under the alias Hajj Radwan, he is held responsible by US and Argentine prosecutors for a series of mass-casualty attacks including the 1983 Beirut barracks bombings, the 1985 TWA Flight 847 hijacking, and — critically for the OIFI network — the [AMIA bombing](/events/amia-bombing-1994) of July 1994 in Buenos Aires. Argentine investigators, led by [Alberto Nisman](/people/alberto-nisman), concluded that Mughniyeh worked alongside [Mohsen Rabbani](/people/mohsen-rabbani) as the Hezbollah operational director for the AMIA attack, providing the trained bomber and coordinating with the IRGC-QF command that authorised the strike. Mughniyeh maintained extremely close operational ties with the [IRGC-Quds Force](/orgs/irgc-quds-force), functioning effectively as a joint Hezbollah-IRGC asset. He was assassinated on 12 February 2008 in the Kafr Sousa district of Damascus by a car bomb widely attributed to the CIA and Mossad.",
+  "expertise": ["intelligence", "covert operations", "military"],
+  "tags": ["deceased", "assassinated", "intelligence", "proxy-warfare", "military"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Imad_Mughniyeh",
+      "title": "Imad Mughniyeh — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.washingtonpost.com/world/national-security/cia-and-mossad-killed-senior-hezbollah-figure-in-car-bombing/2015/01/30/ebb88682-a719-11e4-a7c2-03d37af98440_story.html",
+      "title": "CIA and Mossad killed senior Hezbollah figure in car bombing",
+      "date": "2015-01-30",
+      "publisher": "The Washington Post"
+    }
+  ],
+  "editorial_notes": "Assassinated February 12 2008, Damascus. CIA/Mossad attributed (Washington Post 2015). Argentine AMIA indictment names him alongside Rabbani. US designated as global terrorist."
+}

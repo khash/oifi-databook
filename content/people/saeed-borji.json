@@ -1,0 +1,27 @@
+{
+  "entity_id": "saeed-borji",
+  "slug": "saeed-borji",
+  "name_en": "Saeed Borji",
+  "name_fa": "سعید برجی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": "Iran",
+  "died": 2025,
+  "role": "Iranian nuclear scientist",
+  "faction": null,
+  "bio": "Saeed Borji was an Iranian nuclear scientist killed in June 2025 in Israeli airstrikes targeting Iran's nuclear programme. He was among the 11 scientists the IDF claimed to have eliminated during the large-scale Israeli military campaign against Iran's nuclear infrastructure.",
+  "irgc_member": false,
+  "expertise": ["nuclear science"],
+  "tags": ["killed-in-action", "nuclear", "deceased"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.timesofisrael.com/iranian-nuclear-scientists-killed-in-israeli-strikes/",
+      "title": "Iranian nuclear scientists killed in Israeli strikes",
+      "date": "2025-06-13",
+      "publisher": "Times of Israel"
+    }
+  ],
+  "editorial_notes": "Killed June 2025 in Israeli strikes. Among 11 scientists IDF claims eliminated."
+}

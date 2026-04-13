@@ -1,0 +1,33 @@
+{
+  "entity_id": "eskandar-sadeghi-boroujerdi",
+  "slug": "eskandar-sadeghi-boroujerdi",
+  "name_en": "Eskandar Sadeghi-Boroujerdi",
+  "name_fa": "اسکندر صادقی بروجردی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": "Iran",
+  "died": null,
+  "role": "Lecturer in Politics, Goldsmiths, University of London",
+  "faction": null,
+  "bio": "Eskandar Sadeghi-Boroujerdi is a lecturer in politics at Goldsmiths, University of London, specializing in Iranian political thought, the Islamic Republic, and critical theory. He is the author of *Revolution and Its Discontents: Political Thought and Reform in Iran* (2019, Cambridge University Press), a study of the reformist movement and the ideological contradictions internal to the Islamic Republic's political culture.\n\nHis work engages with the intellectual genealogy of Iranian political Islam, post-revolutionary reformism, and the contested legacies of Islamist thought. Drawing on critical theory and political philosophy, Sadeghi-Boroujerdi examines how reformist intellectuals like Abdolkarim Soroush sought to reconcile democratic values with Shia Islamic governance, and why those projects ultimately failed to transform the IRI system.\n\nHe writes for academic journals and policy publications including the Journal of Persianate Studies and MERIP, and contributes commentary on Iranian politics to outlets including Jacobin and The Guardian. He represents a critical-left perspective on Iranian politics that is skeptical of both the Islamic Republic and of Western interventionism, situating Iran within broader postcolonial and authoritarian frameworks.",
+  "irgc_member": false,
+  "expertise": ["Iranian political thought", "Islamic Republic", "reformism", "critical theory", "postcolonial studies"],
+  "tags": ["in-exile"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.gold.ac.uk/politics/staff/sadeghi-boroujerdi-eskandar/",
+      "title": "Eskandar Sadeghi-Boroujerdi — Goldsmiths, University of London",
+      "date": "2024-01-01",
+      "publisher": "Goldsmiths, University of London"
+    },
+    {
+      "url": "https://www.cambridge.org/us/universitypress/subjects/politics-international-relations/middle-east-politics/revolution-and-its-discontents",
+      "title": "Revolution and Its Discontents — Cambridge University Press",
+      "date": "2019-01-01",
+      "publisher": "Cambridge University Press"
+    }
+  ],
+  "editorial_notes": ""
+}

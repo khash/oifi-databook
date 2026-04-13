@@ -1,0 +1,25 @@
+{
+  "entity_id": "azim-esmaili-khosrowabadi",
+  "slug": "azim-esmaili-khosrowabadi",
+  "name_en": "Azim Esmaili Khosrowabadi",
+  "name_fa": "عظیم اسمعیلی خسروآبادی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Deputy Commander, Basij Forces (d. 17 March 2026)",
+  "faction": "hardliner",
+  "bio": "Azim Esmaili Khosrowabadi served as Deputy Commander of the [Basij Forces](/orgs/basij) under the [IRGC](/orgs/islamic-revolutionary-guard-corps). He was killed on 17 March 2026 during the [March 2026 Strike Wave](/events/march-2026-strike-wave) targeting senior Iranian military leadership.",
+  "irgc_member": true,
+  "expertise": ["paramilitary command"],
+  "tags": ["killed-in-action", "military"],
+  "sources": [
+    {
+      "url": "https://www.iranintl.com/en/202603179999",
+      "title": "Senior Basij Deputies Killed in Israeli Strikes",
+      "date": "2026-03-17",
+      "publisher": "Iran International"
+    }
+  ],
+  "editorial_notes": "Killed 17 March 2026. Basij Deputy Commander."
+}

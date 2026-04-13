@@ -1,0 +1,21 @@
+{
+  "entity_id": "akbar-ghaffari-served-in-ministry-of-intelligence",
+  "from_entity": "akbar-ghaffari",
+  "to_entity": "ministry-of-intelligence",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026-03-12",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2026_Iran%E2%80%93Israel_conflict",
+      "source_title": "2026 Iran–Israel conflict — Wikipedia",
+      "source_date": "2026-03-13",
+      "description": "Ghaffari identified as Deputy Minister of Intelligence"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

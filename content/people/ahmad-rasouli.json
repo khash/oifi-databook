@@ -1,0 +1,30 @@
+{
+  "entity_id": "ahmad-rasouli",
+  "slug": "ahmad-rasouli",
+  "name_en": "Ahmad Rasouli",
+  "name_fa": "احمد رسولی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": "Iran",
+  "role": "IRGC Quds Force Palestine Corps Commander (d. 2026)",
+  "faction": "hardliner",
+  "bio": "Ahmad Rasouli commanded the [IRGC Quds Force Palestine Corps](/orgs/irgc-quds-force-palestine-corps), the Quds Force regional command responsible for relations with Hamas and Palestinian Islamic Jihad (PIJ). In this role he oversaw the transfer of weapons, training, and funding that built Hamas's military capacity prior to October 7, 2023. Rasouli was killed in an Israeli airstrike in 2026 during the 2026 Iran war.",
+  "expertise": [
+    "proxy warfare",
+    "Hamas liaison",
+    "Palestinian operations"
+  ],
+  "tags": ["deceased", "killed-in-action", "military", "proxy-warfare"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.timesofisrael.com/",
+      "title": "IDF targets IRGC Quds Force Palestine Corps commander",
+      "date": "2026-01-01",
+      "publisher": "Times of Israel"
+    }
+  ],
+  "editorial_notes": "Killed 2026 in Israeli airstrike. Commanded Quds Force's Hamas and PIJ liaison network.",
+  "irgc_member": true
+}

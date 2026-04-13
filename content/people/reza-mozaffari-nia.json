@@ -1,0 +1,33 @@
+{
+  "entity_id": "reza-mozaffari-nia",
+  "slug": "reza-mozaffari-nia",
+  "name_en": "Reza Mozaffari Nia",
+  "name_fa": "رضا مظفری‌نیا",
+  "has_native_fa_name": true,
+  "aliases": ["Brigadier General Mozaffari Nia", "SPND Chief"],
+  "born": null,
+  "birthplace": null,
+  "died": "2026-02-28",
+  "role": "Former Head of SPND (Organisation of Defensive Innovation and Research)",
+  "faction": "hardliner",
+  "bio": "Brigadier General Reza Mozaffari Nia was an [IRGC](/orgs/islamic-revolutionary-guard-corps) officer who served as a director of [SPND](/orgs/spnd) — the Organisation of Defensive Innovation and Research — the classified Iranian body widely assessed as continuing [Mohsen Fakhrizadeh](/people/mohsen-fakhrizadeh)'s covert nuclear weapons research programme. He was among the most senior figures in Iran's clandestine nuclear weapons infrastructure, overseeing SPND during a period of significant activity flagged by the IAEA. He was succeeded as SPND director by [Hossein Jabal Amelian](/people/hossein-jabal-amelian). Mozaffari Nia was killed on 28 February 2026 in Israeli airstrikes targeting Iran's nuclear and military leadership.",
+  "irgc_member": true,
+  "expertise": ["nuclear weapons research", "defence R&D"],
+  "tags": ["killed-in-action", "military", "nuclear", "deceased"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Organisation_of_Defensive_Innovation_and_Research",
+      "title": "Organisation of Defensive Innovation and Research — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://iranwatch.org/iranian-entities/organization-defensive-innovation-and-research-spnd",
+      "title": "Organization of Defensive Innovation and Research (SPND)",
+      "date": "2024-01-01",
+      "publisher": "Wisconsin Project on Nuclear Arms Control"
+    }
+  ],
+  "editorial_notes": "Former SPND director. Killed Feb 28 2026 in Israeli strikes."
+}

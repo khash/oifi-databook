@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-mohammad-naini--spokesperson-for--islamic-revolutionary-guard-corps",
+  "from_entity": "ali-mohammad-naini",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "spokesperson-for",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026-03-20",
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202603209999",
+      "source_title": "IRGC Spokesperson Killed in Strike",
+      "source_date": "2026-03-20",
+      "description": "Naini was the official IRGC spokesperson."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

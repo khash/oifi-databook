@@ -1,0 +1,21 @@
+{
+  "entity_id": "alireza-bi-azar--served-in--irgc-quds-force-lebanon-corps",
+  "from_entity": "alireza-bi-azar",
+  "to_entity": "irgc-quds-force-lebanon-corps",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026",
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202600000quds-lebanon-intelligence",
+      "source_title": "Quds Force Lebanon Corps Intelligence Officer Killed",
+      "source_date": "2026-03-01",
+      "description": "Bi-Azar was an Intelligence Officer in the Quds Force Lebanon Corps."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

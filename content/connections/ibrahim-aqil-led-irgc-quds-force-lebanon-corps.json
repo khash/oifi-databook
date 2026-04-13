@@ -1,0 +1,21 @@
+{
+  "entity_id": "ibrahim-aqil-led-irgc-quds-force-lebanon-corps",
+  "from_entity": "ibrahim-aqil",
+  "to_entity": "irgc-quds-force-lebanon-corps",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2024",
+  "evidence": [
+    {
+      "source_url": "https://www.reuters.com/world/middle-east/ibrahim-aqil-hezbollah-commander-killed-beirut-israeli-strike-2024-09-20/",
+      "source_title": "Ibrahim Aqil, Hezbollah commander, killed in Beirut Israeli strike",
+      "source_date": "2024-09-20",
+      "description": "Ibrahim Aqil served as commander of the IRGC Quds Force Lebanon Corps."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

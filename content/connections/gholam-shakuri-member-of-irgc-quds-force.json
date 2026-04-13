@@ -1,0 +1,21 @@
+{
+  "entity_id": "gholam-shakuri-member-of-irgc-quds-force",
+  "from_entity": "gholam-shakuri",
+  "to_entity": "irgc-quds-force",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Gholam_Shakuri",
+      "source_title": "Gholam Shakuri — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "US DOJ indictment identifies Shakuri as an IRGC-Quds Force officer operating from Tehran."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

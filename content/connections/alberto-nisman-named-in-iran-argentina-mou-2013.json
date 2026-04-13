@@ -1,0 +1,21 @@
+{
+  "entity_id": "alberto-nisman-named-in-iran-argentina-mou-2013",
+  "from_entity": "alberto-nisman",
+  "to_entity": "iran-argentina-mou-2013",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2015-01-14",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Alberto_Nisman",
+      "source_title": "Alberto Nisman — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Nisman's treason charges were directly premised on the MOU; he was the central investigator who challenged the deal."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

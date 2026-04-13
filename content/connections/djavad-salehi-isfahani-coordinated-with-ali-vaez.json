@@ -1,0 +1,21 @@
+{
+  "entity_id": "djavad-salehi-isfahani-coordinated-with-ali-vaez",
+  "from_entity": "djavad-salehi-isfahani",
+  "to_entity": "ali-vaez",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "2020-01-01",
+  "date_to": "2023-01-01",
+  "evidence": [
+    {
+      "source_url": "https://www.sup.org/books/title/?id=33991",
+      "source_title": "How Sanctions Work: Iran and the Impact of Economic Warfare",
+      "source_date": "2023-01-01",
+      "description": "Djavad Salehi-Isfahani and Ali Vaez are co-authors of How Sanctions Work: Iran and the Impact of Economic Warfare (2023, Stanford University Press)."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

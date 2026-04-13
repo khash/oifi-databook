@@ -14,5 +14,19 @@
     "proxy-warfare",
     "sanctions"
   ],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Quds_Force",
+      "title": "Quds Force — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://home.treasury.gov/news/press-releases/sm626",
+      "title": "Treasury Designates the IRGC under Terrorism Authority and Targets IRGC and ESF in Response to Continued Sanctions Evasion",
+      "date": "2019-04-15",
+      "publisher": "US Treasury"
+    }
+  ],
   "editorial_notes": "Reports directly to Supreme Leader. Designated terrorist organisation by USA (2019), Canada (2012)."
 }

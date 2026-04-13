@@ -1,0 +1,24 @@
+{
+  "entity_id": "stony-brook-university",
+  "slug": "stony-brook-university",
+  "name_en": "Stony Brook University (SUNY)",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 1957,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "State University of New York at Stony Brook, a flagship public research university on Long Island. Home to [Said Amir Arjomand](/people/said-amir-arjomand), SUNY Distinguished Service Professor of Sociology, whose comparative-historical sociology of Shia Islam and the Islamic Republic is foundational to the field.",
+  "faction": null,
+  "tags": [],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.stonybrook.edu/",
+      "title": "Stony Brook University",
+      "date": "2024-01-01",
+      "publisher": "Stony Brook University"
+    }
+  ],
+  "editorial_notes": ""
+}

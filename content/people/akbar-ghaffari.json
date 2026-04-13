@@ -1,0 +1,27 @@
+{
+  "entity_id": "akbar-ghaffari",
+  "slug": "akbar-ghaffari",
+  "name_en": "Akbar Ghaffari",
+  "name_fa": "اکبر غفاری",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "died": "2026-03-12",
+  "role": "Deputy Minister of Intelligence",
+  "faction": "hardliner",
+  "irgc_member": false,
+  "bio": "Akbar Ghaffari served as a Deputy Minister within Iran's [Ministry of Intelligence](/orgs/ministry-of-intelligence) (MOIS). He was killed on 12 March 2026 in the continuing wave of targeted strikes that systematically dismantled Iran's intelligence leadership following the [February 28, 2026 decapitation strike](/events/israeli-strikes-iran-feb-2026).",
+  "expertise": ["intelligence"],
+  "tags": ["killed-in-action", "intelligence", "deceased"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/2026_Iran%E2%80%93Israel_conflict",
+      "title": "2026 Iran–Israel conflict — Wikipedia",
+      "date": "2026-03-13",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "Deputy Minister of Intelligence. Killed 12 March 2026."
+}

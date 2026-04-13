@@ -1,0 +1,21 @@
+{
+  "entity_id": "irgc-quds-force-palestine-corps-subsidiary-of-irgc-quds-force",
+  "from_entity": "irgc-quds-force-palestine-corps",
+  "to_entity": "irgc-quds-force",
+  "type": "subsidiary-of",
+  "confidence": "confirmed",
+  "date_from": "1990",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.fdd.org/analysis/2023/10/12/iran-hamas-attack/",
+      "source_title": "Iran and the Hamas Attack on Israel",
+      "source_date": "2023-10-12",
+      "description": "The Palestine Corps is the Quds Force regional command for Palestinian operations, organised as a sub-unit of IRGC-QF headquarters."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

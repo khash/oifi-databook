@@ -1,0 +1,27 @@
+{
+  "entity_id": "ali-bahuei-katirimi",
+  "slug": "ali-bahuei-katirimi",
+  "name_en": "Ali Bahuei Katirimi",
+  "name_fa": "علی باهویی کتیریمی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": "Iran",
+  "died": 2025,
+  "role": "Iranian nuclear scientist",
+  "faction": null,
+  "bio": "Ali Bahuei Katirimi was an Iranian nuclear scientist killed in June 2025 in Israeli airstrikes targeting Iran's nuclear programme. He was among the scientists that the IDF identified as eliminated during the large-scale Israeli military campaign against Iran's nuclear infrastructure.",
+  "irgc_member": false,
+  "expertise": ["nuclear science"],
+  "tags": ["killed-in-action", "nuclear", "deceased"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.timesofisrael.com/iranian-nuclear-scientists-killed-in-israeli-strikes/",
+      "title": "Iranian nuclear scientists killed in Israeli strikes",
+      "date": "2025-06-13",
+      "publisher": "Times of Israel"
+    }
+  ],
+  "editorial_notes": "Killed June 2025 in Israeli strikes. Limited public biographical data available."
+}

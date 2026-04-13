@@ -1,0 +1,21 @@
+{
+  "entity_id": "qassem-qoreishi--served-in--basij",
+  "from_entity": "qassem-qoreishi",
+  "to_entity": "basij",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026-03-17",
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202603179999",
+      "source_title": "Senior Basij Deputies Killed in Israeli Strikes",
+      "source_date": "2026-03-17",
+      "description": "Qoreishi was Deputy Head of the Basij Forces."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

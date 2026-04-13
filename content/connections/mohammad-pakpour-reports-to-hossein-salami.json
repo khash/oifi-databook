@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-pakpour-reports-to-hossein-salami",
+  "from_entity": "mohammad-pakpour",
+  "to_entity": "hossein-salami",
+  "type": "reports-to",
+  "confidence": "confirmed",
+  "date_from": "2019",
+  "date_to": "2025",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Pakpour",
+      "source_title": "Mohammad Pakpour — Wikipedia",
+      "source_date": "2026-02-28",
+      "description": "As IRGC Ground Forces commander, Pakpour reported to IRGC Commander-in-Chief Hossein Salami from Salami's appointment in 2019 until Salami's death in June 2025."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

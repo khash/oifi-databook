@@ -1,0 +1,36 @@
+{
+  "entity_id": "gholamreza-rezaian",
+  "slug": "gholamreza-rezaian",
+  "name_en": "Gholamreza Rezaian",
+  "name_fa": "غلامرضا رضائیان",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": "Iran",
+  "role": "Major General, FARAJA Intelligence Head (d. 2026)",
+  "faction": "hardliner",
+  "bio": "Gholamreza Rezaian held the rank of Major General and served as head of intelligence for [FARAJA](/orgs/faraja) (Law Enforcement Command of the Islamic Republic of Iran), Iran's national police force. As FARAJA Intelligence Head he oversaw the domestic surveillance and intelligence apparatus of the police, including the monitoring of dissidents, journalists, and suspected opponents of the regime. He was killed on 2 March 2026 in an Israeli airstrike during the 2026 Iran war.",
+  "expertise": [
+    "law enforcement intelligence",
+    "domestic surveillance",
+    "police operations"
+  ],
+  "tags": ["deceased", "killed-in-action", "intelligence", "military"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.timesofisrael.com/",
+      "title": "Israeli airstrikes kill senior Iranian security officials",
+      "date": "2026-03-02",
+      "publisher": "Times of Israel"
+    },
+    {
+      "url": "https://www.reuters.com/world/middle-east/",
+      "title": "Iran's FARAJA intelligence chief killed in Israeli strike",
+      "date": "2026-03-02",
+      "publisher": "Reuters"
+    }
+  ],
+  "editorial_notes": "Killed 2 March 2026. FARAJA intelligence chief; distinct from IRGC Intelligence Organisation.",
+  "irgc_member": false
+}

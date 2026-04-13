@@ -1,0 +1,30 @@
+{
+  "entity_id": "irgc-ground-forces",
+  "slug": "irgc-ground-forces",
+  "name_en": "IRGC Ground Forces Command",
+  "name_fa": "نیروی زمینی سپاه پاسداران انقلاب اسلامی",
+  "has_native_fa_name": true,
+  "type": "military",
+  "founded": 1979,
+  "dissolved": null,
+  "parent_org": "islamic-revolutionary-guard-corps",
+  "description": "The IRGC Ground Forces Command is the largest branch of the [Islamic Revolutionary Guard Corps](/orgs/islamic-revolutionary-guard-corps) by personnel, responsible for conventional ground operations, border security, and internal defence. It controls numerous infantry and armoured divisions deployed across Iran's provinces and along contested borders. [Mohammad Pakpour](/people/mohammad-pakpour) commanded the IRGC Ground Forces from 2014 to 2025 before his appointment as IRGC Commander-in-Chief. The Ground Forces played a major role in operations during the Iran–Iraq War, Kurdish insurgency suppression, and have maintained a forward presence along the western and northwestern borders. During the 2019 Mahabad and border crackdowns it acted as a primary enforcement arm.",
+  "faction": null,
+  "tags": ["military"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Islamic_Revolutionary_Guard_Corps_Ground_Forces",
+      "title": "Islamic Revolutionary Guard Corps Ground Forces — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.csis.org/analysis/irans-military-forces-and-warfighting-capabilities",
+      "title": "Iran's Military Forces and Warfighting Capabilities — CSIS",
+      "date": "2023-01-01",
+      "publisher": "Center for Strategic and International Studies"
+    }
+  ],
+  "editorial_notes": "Pakpour commanded IRGC Ground Forces 2014–2025 before becoming IRGC C-in-C."
+}

@@ -1,0 +1,29 @@
+{
+  "entity_id": "irgc-quds-force-palestine-corps",
+  "slug": "irgc-quds-force-palestine-corps",
+  "name_en": "IRGC Quds Force Palestine Corps",
+  "name_fa": "قرارگاه فلسطین سپاه قدس",
+  "has_native_fa_name": true,
+  "type": "military",
+  "founded": 1990,
+  "dissolved": null,
+  "parent_org": "irgc-quds-force",
+  "description": "The Palestine Corps is the [IRGC Quds Force](/orgs/irgc-quds-force) regional command responsible for operations in Gaza and the Palestinian territories, principally providing training, weapons, and funding to Hamas and Palestinian Islamic Jihad (PIJ). The Palestine Corps coordinates the transfer of rocket technology, anti-tank weapons, and military training that underpinned Hamas's military buildup prior to the October 7, 2023 attack. Commander [Ahmad Rasouli](/people/ahmad-rasouli) was killed in an Israeli airstrike in 2026.",
+  "faction": "hardliner",
+  "tags": ["military", "proxy-warfare", "sanctions"],
+  "sources": [
+    {
+      "url": "https://www.fdd.org/analysis/2023/10/12/iran-hamas-attack/",
+      "title": "Iran and the Hamas Attack on Israel",
+      "date": "2023-10-12",
+      "publisher": "Foundation for Defense of Democracies"
+    },
+    {
+      "url": "https://home.treasury.gov/news/press-releases/jy1837",
+      "title": "Treasury Targets Hamas and Its Financing Network",
+      "date": "2023-10-18",
+      "publisher": "US Treasury"
+    }
+  ],
+  "editorial_notes": "Handles Hamas and PIJ liaison within IRGC-QF structure."
+}

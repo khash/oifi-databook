@@ -1,0 +1,21 @@
+{
+  "entity_id": "afshin-molavi-founded-emerging-world",
+  "from_entity": "afshin-molavi",
+  "to_entity": "emerging-world",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.emergingworld.com/",
+      "source_title": "Emerging World",
+      "source_date": "2024-01-01",
+      "description": "Afshin Molavi is the founder of Emerging World, a research and advisory initiative focused on Gulf and Middle East political economy."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

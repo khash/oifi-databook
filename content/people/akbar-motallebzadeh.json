@@ -1,0 +1,27 @@
+{
+  "entity_id": "akbar-motallebzadeh",
+  "slug": "akbar-motallebzadeh",
+  "name_en": "Akbar Motallebzadeh",
+  "name_fa": "اکبر مطلب‌زاده",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": "Iran",
+  "died": 2025,
+  "role": "Iranian nuclear scientist",
+  "faction": null,
+  "bio": "Akbar Motallebzadeh was an Iranian nuclear scientist killed on 13 June 2025, along with his wife, in Israeli airstrikes on Iran. His killing occurred during the large-scale Israeli military campaign targeting Iran's nuclear infrastructure and personnel. He was among the scientists that the IDF claimed to have eliminated in strikes targeting Iran's nuclear weapons programme.",
+  "irgc_member": false,
+  "expertise": ["nuclear science"],
+  "tags": ["killed-in-action", "nuclear", "deceased"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.timesofisrael.com/iranian-nuclear-scientists-killed-in-israeli-strikes/",
+      "title": "Iranian nuclear scientists killed in Israeli strikes",
+      "date": "2025-06-13",
+      "publisher": "Times of Israel"
+    }
+  ],
+  "editorial_notes": "Killed 13 June 2025 alongside his wife. Part of June 2025 Israeli strikes campaign."
+}

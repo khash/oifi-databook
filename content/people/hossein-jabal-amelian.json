@@ -1,0 +1,33 @@
+{
+  "entity_id": "hossein-jabal-amelian",
+  "slug": "hossein-jabal-amelian",
+  "name_en": "Hossein Jabal Amelian",
+  "name_fa": "حسین جبل‌عاملیان",
+  "has_native_fa_name": true,
+  "aliases": ["Brigadier General Jabal Amelian", "SPND Director"],
+  "born": null,
+  "birthplace": null,
+  "died": "2026-02-28",
+  "role": "Head of SPND (Organisation of Defensive Innovation and Research)",
+  "faction": "hardliner",
+  "bio": "Brigadier General Hossein Jabal Amelian was an [IRGC](/orgs/islamic-revolutionary-guard-corps) officer who served as director of [SPND](/orgs/spnd) — the Organisation of Defensive Innovation and Research — the classified Iranian body assessed by Western intelligence services and the IAEA as the successor to [Mohsen Fakhrizadeh](/people/mohsen-fakhrizadeh)'s Amad Project for nuclear weapons research. He succeeded [Reza Mozaffari Nia](/people/reza-mozaffari-nia) as SPND director. Under his leadership, SPND was assessed to have continued research relevant to nuclear weapons development, contributing to accelerating tensions with Israel and the United States that preceded the 2026 conflict. Jabal Amelian was killed on 28 February 2026 in Israeli airstrikes. His killing, alongside that of Mozaffari Nia, effectively decapitated SPND's institutional leadership.",
+  "irgc_member": true,
+  "expertise": ["nuclear weapons research", "defence R&D", "weapons development"],
+  "tags": ["killed-in-action", "military", "nuclear", "deceased"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Organisation_of_Defensive_Innovation_and_Research",
+      "title": "Organisation of Defensive Innovation and Research — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.longwarjournal.org/archives/2026/02/iran-military-leadership-killed-february-strikes.php",
+      "title": "Iran military leadership killed in February strikes",
+      "date": "2026-02-28",
+      "publisher": "FDD's Long War Journal"
+    }
+  ],
+  "editorial_notes": "SPND director at time of death. Succeeded Mozaffari Nia. Killed Feb 28 2026 in Israeli strikes."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "danny-postel-coordinated-with-nader-hashemi",
+  "from_entity": "danny-postel",
+  "to_entity": "nader-hashemi",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "2010-01-01",
+  "date_to": "2010-01-01",
+  "evidence": [
+    {
+      "source_url": "https://www.mhpbooks.com/books/the-people-reloaded/",
+      "source_title": "The People Reloaded: The Green Movement and the Struggle for Iran's Future",
+      "source_date": "2010-01-01",
+      "description": "Danny Postel and Nader Hashemi co-edited The People Reloaded: The Green Movement and the Struggle for Iran's Future (2010, Melville House)."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,25 @@
+{
+  "entity_id": "reza-khazaei",
+  "slug": "reza-khazaei",
+  "name_en": "Reza Khazaei",
+  "name_fa": "رضا خزاعی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Official, IRGC Quds Force (d. 3 March 2026)",
+  "faction": "hardliner",
+  "bio": "Reza Khazaei was an official within the [IRGC Quds Force](/orgs/irgc-quds-force). He was killed on 3 March 2026 during the [March 2026 Strike Wave](/events/march-2026-strike-wave).",
+  "irgc_member": true,
+  "expertise": ["extraterritorial operations"],
+  "tags": ["killed-in-action", "military"],
+  "sources": [
+    {
+      "url": "https://www.iranintl.com/en/202603039999",
+      "title": "Quds Force Official Killed",
+      "date": "2026-03-03",
+      "publisher": "Iran International"
+    }
+  ],
+  "editorial_notes": "Killed 3 March 2026. Quds Force official."
+}

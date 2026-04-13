@@ -1,0 +1,19 @@
+{
+  "entity_id": "alberto-nisman-named-in-mohsen-rabbani",
+  "from_entity": "alberto-nisman",
+  "to_entity": "mohsen-rabbani",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "family_subtype": null,
+  "date_start": "2004-01-01",
+  "date_end": "2015-01-18",
+  "description": "Nisman's AMIA investigation formally named Rabbani as the on-the-ground coordinator of the bombing and sought his prosecution.",
+  "evidence": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Alberto_Nisman",
+      "title": "Alberto Nisman — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ]
+}

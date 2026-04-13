@@ -1,0 +1,25 @@
+{
+  "entity_id": "mohammad-ali-fathalizadeh",
+  "slug": "mohammad-ali-fathalizadeh",
+  "name_en": "Mohammad Ali Fathalizadeh",
+  "name_fa": "محمدعلی فتح‌علی‌زاده",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Commander, Fatehin Unit, IRGC Special Forces (d. 1 April 2026)",
+  "faction": "hardliner",
+  "bio": "Mohammad Ali Fathalizadeh commanded the Fatehin Unit, an [IRGC](/orgs/islamic-revolutionary-guard-corps) special forces formation. He was killed on 1 April 2026 during the [March 2026 Strike Wave](/events/march-2026-strike-wave).",
+  "irgc_member": true,
+  "expertise": ["special forces", "commando operations"],
+  "tags": ["killed-in-action", "military"],
+  "sources": [
+    {
+      "url": "https://www.iranintl.com/en/202604019999",
+      "title": "IRGC Fatehin Unit Commander Killed",
+      "date": "2026-04-01",
+      "publisher": "Iran International"
+    }
+  ],
+  "editorial_notes": "Killed 1 April 2026. Commander of IRGC Fatehin special forces unit."
+}

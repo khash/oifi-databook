@@ -1,0 +1,25 @@
+{
+  "entity_id": "hassan-hassanzadeh-irgc-tehran",
+  "slug": "hassan-hassanzadeh-irgc-tehran",
+  "name_en": "Hassan Hassanzadeh",
+  "name_fa": "حسن حسن‌زاده",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": "Tehran Province, Iran",
+  "role": "Brigadier General; IRGC Tehran Province Commander (d. 29 March 2026)",
+  "faction": "hardliner",
+  "bio": "Hassan Hassanzadeh served as a Brigadier General and Commander of the [IRGC](/orgs/islamic-revolutionary-guard-corps) in Tehran Province. He was killed on 29 March 2026 during the [March 2026 Strike Wave](/events/march-2026-strike-wave).",
+  "irgc_member": true,
+  "expertise": ["provincial command"],
+  "tags": ["killed-in-action", "military"],
+  "sources": [
+    {
+      "url": "https://www.iranintl.com/en/202603299999",
+      "title": "IRGC Tehran Province Commander Killed",
+      "date": "2026-03-29",
+      "publisher": "Iran International"
+    }
+  ],
+  "editorial_notes": "Killed 29 March 2026. Brigadier General, IRGC Tehran Province Commander. Slug disambiguated."
+}

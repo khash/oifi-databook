@@ -1,0 +1,14 @@
+{
+  "entity_id": "ali-mohammad-naini-served-in-islamic-revolutionary-guard-corps",
+  "from_entity": "ali-mohammad-naini",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [{"source_url": "https://en.wikipedia.org/wiki/2026_Iran%E2%80%93Israel_conflict", "source_title": "2026 Iran–Israel conflict — Wikipedia", "source_date": "2026-04-01", "description": "Referenced in entity description"}],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

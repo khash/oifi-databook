@@ -1,0 +1,21 @@
+{
+  "entity_id": "mnar-muhawesh-adley-studied-under-jafar-sobhani",
+  "from_entity": "mnar-muhawesh-adley",
+  "to_entity": "jafar-sobhani",
+  "type": "mentor-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.mintpressnews.com/mnar-adley-about/",
+      "source_title": "About Mnar Adley — MintPress News",
+      "source_date": "2024-01-01",
+      "description": "Mnar Muhawesh Adley has stated that she studied under Grand Ayatollah Sobhani in Qom."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Connection direction: Sobhani is mentor-of Mnar. From is the mentee, to is the mentor — using mentor-of from Mnar to Sobhani."
+}

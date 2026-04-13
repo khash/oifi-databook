@@ -1,0 +1,21 @@
+{
+  "entity_id": "alireza-bi-azar--coordinated-with--hezbollah",
+  "from_entity": "alireza-bi-azar",
+  "to_entity": "hezbollah",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026",
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202600000quds-lebanon-intelligence",
+      "source_title": "Quds Force Lebanon Corps Intelligence Officer Killed",
+      "source_date": "2026-03-01",
+      "description": "Bi-Azar's role in Lebanon Corps involved intelligence coordination with Hezbollah."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

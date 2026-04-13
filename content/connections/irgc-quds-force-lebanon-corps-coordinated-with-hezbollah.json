@@ -1,0 +1,21 @@
+{
+  "entity_id": "irgc-quds-force-lebanon-corps-coordinated-with-hezbollah",
+  "from_entity": "irgc-quds-force-lebanon-corps",
+  "to_entity": "hezbollah",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "1982",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.reuters.com/world/middle-east/who-was-ibrahim-aqil-senior-hezbollah-commander-killed-israel-2024-09-20/",
+      "source_title": "Who was Ibrahim Aqil, senior Hezbollah commander killed by Israel?",
+      "source_date": "2024-09-20",
+      "description": "The IRGC Quds Force Lebanon Corps has coordinated with and directed Hezbollah since the organisation's founding in the early 1980s."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

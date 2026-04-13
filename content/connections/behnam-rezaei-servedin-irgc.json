@@ -1,0 +1,21 @@
+{
+  "entity_id": "behnam-rezaei--served-in--islamic-revolutionary-guard-corps",
+  "from_entity": "behnam-rezaei",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026-03-26",
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202603269999",
+      "source_title": "IRGC Navy Leadership Killed in Bandar Abbas Strike",
+      "source_date": "2026-03-26",
+      "description": "Rezaei served in the IRGC."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

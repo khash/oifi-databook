@@ -1,0 +1,21 @@
+{
+  "entity_id": "fereydoun-abbasi-davani-headed-atomic-energy-organisation-of-iran",
+  "from_entity": "fereydoun-abbasi-davani",
+  "to_entity": "atomic-energy-organisation-of-iran",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2011",
+  "date_to": "2013",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Fereydoun_Abbasi-Davani",
+      "source_title": "Fereydoun Abbasi-Davani",
+      "source_date": "2025-06-14",
+      "description": "Abbasi-Davani served as head of the Atomic Energy Organisation of Iran from 2011 to 2013 under President Ahmadinejad."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

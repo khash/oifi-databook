@@ -1,0 +1,21 @@
+{
+  "entity_id": "amir-hossein-faghihi-subject-of-israeli-strikes-iran-june-2025",
+  "from_entity": "amir-hossein-faghihi",
+  "to_entity": "israeli-strikes-iran-june-2025",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2025-06-13",
+  "date_to": "2025-06-13",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2025_Israeli_strikes_on_Iran",
+      "source_title": "2025 Israeli strikes on Iran",
+      "source_date": "2025-06-14",
+      "description": "Faghihi, head of NSTRI and former AEOI vice president, was killed in the opening Israeli airstrikes on 13 June 2025."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

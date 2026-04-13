@@ -1,0 +1,21 @@
+{
+  "entity_id": "fereydoun-abbasi-davani-subject-of-israeli-strikes-iran-june-2025",
+  "from_entity": "fereydoun-abbasi-davani",
+  "to_entity": "israeli-strikes-iran-june-2025",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2025-06-13",
+  "date_to": "2025-06-13",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Fereydoun_Abbasi-Davani",
+      "source_title": "Fereydoun Abbasi-Davani",
+      "source_date": "2025-06-14",
+      "description": "Abbasi-Davani, former head of the AEOI and Iran's most prominent nuclear scientist, was killed in the Israeli opening strikes on 13 June 2025."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

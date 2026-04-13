@@ -1,0 +1,21 @@
+{
+  "entity_id": "ghadir-azarian--served-in--islamic-revolutionary-guard-corps",
+  "from_entity": "ghadir-azarian",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026-03-21",
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202603219999",
+      "source_title": "IRGC East Azerbaijan Commander Killed",
+      "source_date": "2026-03-21",
+      "description": "Azarian was IRGC commander in East Azerbaijan Province."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

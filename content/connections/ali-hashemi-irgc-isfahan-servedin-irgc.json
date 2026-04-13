@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-hashemi-irgc-isfahan--served-in--islamic-revolutionary-guard-corps",
+  "from_entity": "ali-hashemi-irgc-isfahan",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026-03-08",
+  "evidence": [
+    {
+      "source_url": "https://www.tasnimnews.com/en/news/2026/03/08/irgc-isfahan-commander-killed",
+      "source_title": "IRGC Isfahan Corps Commander Killed",
+      "source_date": "2026-03-08",
+      "description": "Hashemi was Deputy Commander of the IRGC Saheb al-Zaman Corps in Isfahan Province."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

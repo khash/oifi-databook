@@ -11,15 +11,13 @@
   "faction": "hardliner",
   "bio": "Ali Hashemi served as Deputy Commander of the IRGC Saheb al-Zaman Corps, the [IRGC](/orgs/islamic-revolutionary-guard-corps) provincial corps in Isfahan Province. He was killed on 8 March 2026 during the [March 2026 Strike Wave](/events/march-2026-strike-wave).",
   "irgc_member": true,
-  "expertise": ["provincial command"],
-  "tags": ["killed-in-action", "military"],
-  "sources": [
-    {
-      "url": "https://www.tasnimnews.com/en/news/2026/03/08/irgc-isfahan-commander-killed",
-      "title": "IRGC Isfahan Corps Commander Killed",
-      "date": "2026-03-08",
-      "publisher": "Tasnim News Agency"
-    }
+  "expertise": [
+    "provincial command"
   ],
+  "tags": [
+    "killed-in-action",
+    "military"
+  ],
+  "sources": [],
   "editorial_notes": "Killed 8 March 2026. IRGC Saheb al-Zaman Corps (Isfahan Province) Deputy Commander. Slug disambiguated from other Ali Hashemi entries."
 }

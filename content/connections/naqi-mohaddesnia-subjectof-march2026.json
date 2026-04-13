@@ -3,17 +3,10 @@
   "from_entity": "naqi-mohaddesnia",
   "to_entity": "march-2026-strike-wave",
   "type": "subject-of",
-  "confidence": "confirmed",
+  "confidence": "alleged",
   "date_from": "2026-03-12",
   "date_to": "2026-03-12",
-  "evidence": [
-    {
-      "source_url": "https://www.tasnimnews.com/en/news/2026/03/12/irgc-clergy-affairs-east-azerbaijan-killed",
-      "source_title": "IRGC Clergy Affairs Officer Killed in East Azerbaijan",
-      "source_date": "2026-03-12",
-      "description": "Mohaddesnia killed 12 March 2026."
-    }
-  ],
+  "evidence": [],
   "intermediaries": [],
   "symmetric": false,
   "family_subtype": null,

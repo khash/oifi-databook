@@ -126,6 +126,10 @@ async function checkUrl(url) {
     }
 
     clearTimeout(timer);
+    // 403/401 = bot-blocked, not necessarily a dead page
+    if (res.status === 403 || res.status === 401) {
+      return { ok: "bot-blocked", http_status: res.status };
+    }
     return { ok: res.status < 400, http_status: res.status };
   } catch (err) {
     clearTimeout(timer);
@@ -139,8 +143,29 @@ async function checkUrl(url) {
 
 // ── Broken links report ───────────────────────────────────────────────────────
 
-function writeBrokenLinksReport(allBroken) {
-  if (allBroken.length === 0) {
+function renderGroup(lines, items) {
+  const byStatus = new Map();
+  for (const item of items) {
+    const key = item.http_status ? `HTTP ${item.http_status}` : item.note ?? "unreachable";
+    if (!byStatus.has(key)) byStatus.set(key, []);
+    byStatus.get(key).push(item);
+  }
+  for (const [status, group] of [...byStatus.entries()].sort()) {
+    lines.push(`### ${status} (${group.length})`);
+    lines.push(``);
+    for (const { url, files, last_checked } of group) {
+      lines.push(`- ${url}`);
+      for (const f of files) {
+        lines.push(`  - \`${f.replace(ROOT + "/", "")}\``);
+      }
+      lines.push(`  - *last checked: ${last_checked?.slice(0, 10) ?? "unknown"}*`);
+    }
+    lines.push(``);
+  }
+}
+
+function writeBrokenLinksReport(allBroken, allBotBlocked = []) {
+  if (allBroken.length === 0 && allBotBlocked.length === 0) {
     writeFileSync(BROKEN_LINKS_PATH, `# Broken Links\n\nNo broken links found.\n`);
     return;
   }
@@ -149,29 +174,24 @@ function writeBrokenLinksReport(allBroken) {
     `# Broken Links`,
     ``,
     `Last updated: ${new Date().toISOString().slice(0, 10)}  `,
-    `Total: ${allBroken.length}`,
+    `Dead links (build-blocking): **${allBroken.length}** | Bot-blocked (verify manually): **${allBotBlocked.length}**`,
     ``,
   ];
 
-  // Group by HTTP status code
-  const byStatus = new Map();
-  for (const item of allBroken) {
-    const key = item.http_status ? `HTTP ${item.http_status}` : item.note ?? "unreachable";
-    if (!byStatus.has(key)) byStatus.set(key, []);
-    byStatus.get(key).push(item);
+  if (allBroken.length > 0) {
+    lines.push(`## Dead Links (${allBroken.length})`);
+    lines.push(``);
+    lines.push(`These return 4xx/5xx or fail to connect. **The build fails until they are fixed.**`);
+    lines.push(``);
+    renderGroup(lines, allBroken);
   }
 
-  for (const [status, items] of [...byStatus.entries()].sort()) {
-    lines.push(`## ${status} (${items.length})`);
+  if (allBotBlocked.length > 0) {
+    lines.push(`## Bot-Blocked (${allBotBlocked.length})`);
     lines.push(``);
-    for (const { url, files, last_checked } of items) {
-      lines.push(`- ${url}`);
-      for (const f of files) {
-        lines.push(`  - \`${f.replace(ROOT + "/", "")}\``);
-      }
-      lines.push(`  - *last checked: ${last_checked?.slice(0, 10) ?? "unknown"}*`);
-    }
+    lines.push(`These return 403/401 to automated requests but are likely accessible to human visitors. The build does not fail for these. Verify manually or replace with Wayback Machine archives.`);
     lines.push(``);
+    renderGroup(lines, allBotBlocked);
   }
 
   writeFileSync(BROKEN_LINKS_PATH, lines.join("\n"));
@@ -192,6 +212,7 @@ async function main() {
     if (!isStale(entry) && entry.status !== "invalid") {
       skipped.push(url);
     } else {
+      // bot-blocked entries are re-checked on staleness only (not forced like invalid)
       toCheck.push({ url, files });
     }
   }
@@ -220,6 +241,8 @@ async function main() {
 
         if (result.ok === true) {
           cache[url] = { status: "valid", http_status: result.http_status, last_checked: now };
+        } else if (result.ok === "bot-blocked") {
+          cache[url] = { status: "bot-blocked", http_status: result.http_status, last_checked: now };
         } else if (result.ok === false) {
           cache[url] = {
             status: "invalid",
@@ -248,15 +271,18 @@ async function main() {
   process.stdout.write("\n");
   saveCache(cache);
 
-  // Build full broken list from entire cache (not just this run's checked URLs)
+  // Build full broken/bot-blocked lists from entire cache (not just this run's checked URLs)
   const allBroken = [];
+  const allBotBlocked = [];
   for (const [url, files] of urlToFiles) {
     const entry = cache[url];
     if (entry?.status === "invalid") {
       allBroken.push({ url, files, http_status: entry.http_status, note: entry.note, last_checked: entry.last_checked });
+    } else if (entry?.status === "bot-blocked") {
+      allBotBlocked.push({ url, files, http_status: entry.http_status, last_checked: entry.last_checked });
     }
   }
-  writeBrokenLinksReport(allBroken);
+  writeBrokenLinksReport(allBroken, allBotBlocked);
 
   if (unknown.length > 0) {
     console.warn(`\n⚠️  ${unknown.length} URL(s) could not be reached (timeout/network) — not failing build:`);
@@ -265,8 +291,12 @@ async function main() {
     }
   }
 
+  if (allBotBlocked.length > 0) {
+    console.warn(`\n⚠️  ${allBotBlocked.length} bot-blocked URL(s) (403/401) — not failing build. See scripts/broken-links.md.`);
+  }
+
   if (allBroken.length > 0) {
-    console.error(`\n❌ ${allBroken.length} broken link(s) found (see scripts/broken-links.md):\n`);
+    console.error(`\n❌ ${allBroken.length} dead link(s) found (see scripts/broken-links.md):\n`);
     for (const { url, files, http_status, note } of allBroken) {
       const label = http_status ? `HTTP ${http_status}` : note ?? "unreachable";
       console.error(`  [${label}] ${url}`);

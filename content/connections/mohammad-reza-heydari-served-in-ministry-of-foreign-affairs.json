@@ -3,17 +3,10 @@
   "from_entity": "mohammad-reza-heydari",
   "to_entity": "ministry-of-foreign-affairs",
   "type": "served-in",
-  "confidence": "confirmed",
+  "confidence": "alleged",
   "date_from": null,
   "date_to": "2010-01-01",
-  "evidence": [
-    {
-      "source_url": "https://www.bbc.co.uk/news/world-middle-east-10627898",
-      "source_title": "Iranian diplomat defects from Oslo consulate",
-      "source_date": "2010-01-07",
-      "description": "Heydari served as Iran's consul in Oslo before publicly defecting in January 2010."
-    }
-  ],
+  "evidence": [],
   "intermediaries": [],
   "symmetric": false,
   "family_subtype": null,

@@ -2,3278 +2,3684 @@
   "https://en.wikipedia.org/wiki/Abdolrahim_Mousavi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.hoover.org/profiles/abbas-milani": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.iranintl.com/en/202603129999": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.iranintl.com/en/202603149999": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/2025_Israeli_strikes_on_Iran": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/1994_AMIA_bombing": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://fsi.stanford.edu/people/abbas-milani": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://www.longwarjournal.org/archives/2026/02/iran-military-leadership-killed-february-strikes.php": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T11:33:09.116Z"
   },
   "https://www.tasnimnews.com/en/news/2026/03/19/armed-forces-rep-basij-killed": {
     "status": "invalid",
     "http_status": null,
     "note": "fetch failed",
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T11:33:09.116Z"
   },
   "https://www.timesofisrael.com/": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.theguardian.com/australia-news/2025/sep/australia-expels-iranian-ambassador": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://en.wikipedia.org/wiki/2026_Iran%E2%80%93Israel_conflict": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://agsiw.org/fellows/afshin-molavi/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.abc.net.au/news/2025-09/australia-expels-iran-ambassador-asio-irgc/": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://faculty.nps.edu/aostovar": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://foreignpolicy.com/author/afshin-molavi/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.timesofisrael.com/iranian-nuclear-scientists-killed-in-israeli-strikes/": {
     "status": "invalid",
-    "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "http_status": 404,
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://www.mei.edu/profile/alex-vatanka": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://iranwire.com/en/news/144584-irgc-appoints-ali-abdollahi-as-new-commander-of-khatam-al-anbiya-headquarters/": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.bbc.com/news/world-latin-america-30920898": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://en.wikipedia.org/wiki/Alberto_Nisman": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Ali_Abdollahi_Aliabadi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.opensanctions.org/entities/Q25858199/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://agsiw.org/experts/ali-alfoneh/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.tasnimnews.com/en/news/2026/03/08/irgc-isfahan-commander-killed": {
     "status": "invalid",
     "http_status": null,
     "note": "fetch failed",
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T11:33:09.116Z"
   },
   "https://en.wikipedia.org/wiki/Evin_Prison": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.axios.com/2026/04/us-expels-iranian-diplomat-un-mission": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://english.alarabiya.net/News/middle-east/2025/06/25/irgc-commander-ali-shadmani-dies-of-injuries-from-israeli-attacks-iran-confirms": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.iranintl.com/en/202603209999": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Ali_Shadmani": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.bc.edu/bc-web/schools/mcas/departments/political-science/people/faculty-directory/ali-banuazizi.html": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://en.majalla.com/node/329988/profiles/iran%E2%80%99s-wartime-leader-isn%E2%80%99t-dealmaker": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.tasnimnews.com/en/news/2026/03/09/3264000/funeral-held-for-basij-commander-badfar": {
     "status": "invalid",
     "http_status": null,
     "note": "fetch failed",
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T11:33:09.116Z"
   },
   "https://www.cambridge.org/us/universitypress/subjects/politics-international-relations/middle-east-politics/bazaar-and-state-iran": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.iranintl.com/en/202600000quds-lebanon-intelligence": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Alireza_Bigdeli": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://as.nyu.edu/departments/meis/people/faculty/arang-keshavarzian.html": {
     "status": "valid",
     "http_status": 202,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/2018_Villepinte_bomb_plot": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://www.longwarjournal.org/archives/2025/06/israeli-airstrikes-eliminate-senior-iranian-military-officials.php": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.oneworld-publications.com/trade/the-shadow-commander.html": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://www.fdd.org/team/behnam-ben-taleblu/": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.iranintl.com/en/202603029999": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.iranintl.com/en/202603179999": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.iranintl.com/en/202603269999": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.mhpbooks.com/books/the-people-reloaded/": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.politico.eu/article/belgium-sentences-iranian-diplomat-assadollah-assadi-20-years-prison-bomb-plot/": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://en.wikipedia.org/wiki/Cristina_Fernández_de_Kirchner": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.dissentmagazine.org/author/danny-postel/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.tasnimnews.com/en/news/2026/03/22/basij-shiraz-commander-killed": {
     "status": "invalid",
     "http_status": null,
     "note": "fetch failed",
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T11:33:09.116Z"
   },
   "https://www.timesofisrael.com/idf-says-it-killed-senior-irgc-quds-force-commander-in-strike-on-tehran/": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.israelnationalnews.com/news/423536": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.gc.cuny.edu/people/ervand-abrahamian": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://econ.vt.edu/people/faculty/salehi-isfahani.html": {
     "status": "invalid",
-    "http_status": null,
-    "note": "timeout",
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "http_status": 404,
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://press.princeton.edu/books/paperback/9780691101354/iran-between-two-revolutions": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://www.bourseandbazaar.com/about": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://www.brookings.edu/people/djavad-salehi-isfahani/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.cambridge.org/us/universitypress/subjects/politics-international-relations/middle-east-politics/revolution-and-its-discontents": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.iranintl.com/en/202603109999": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.bbc.com/news/world-middle-east-12014698": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://www.iranintl.com/en/202603219999": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.gold.ac.uk/politics/staff/sadeghi-boroujerdi-eskandar/": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://en.wikipedia.org/wiki/Fereydoun_Abbasi-Davani": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.washingtoninstitute.org/scholars/farzin-nadimi": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://en.wikipedia.org/wiki/Islamic_Republic_News_Agency": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Gholam_Shakuri": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://iranwire.com/en/politics/142046-profile-gholamali-rashid-irans-former-war-commander/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:50:13.975Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.fbi.gov/wanted/terrorinfo/gholam-shakuri": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Gholam_Reza_Aghazadeh": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.reuters.com/world/middle-east/": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 401,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Gholam_Ali_Rashid": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.iaea.org/sites/default/files/gov2003-75.pdf": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.rferl.org/a/albania-expels-iranian-ambassador-over-national-security/29652432.html": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://www.judiciary.be/": {
     "status": "invalid",
     "http_status": null,
     "note": "fetch failed",
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T11:33:09.116Z"
   },
   "https://en.wikipedia.org/wiki/Habibollah_Sayyari": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.iranintl.com/en/202603299999": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.iiss.org/publications/the-military-balance/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.penguinrandomhouse.com/books/301623/the-ayatollah-begs-to-differ-by-hooman-majd/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://mesaas.columbia.edu/faculty-directory/hamid-dabashi/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.washingtoninstitute.org/scholars/holly-dagres": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://www.aljazeera.com/author/hamid_dabashi": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://www.tasnimnews.com/en/news/2021/08/24/2551400/shahram-irani-replaces-khanzadi-as-iran-navy-cmdr": {
     "status": "invalid",
     "http_status": null,
     "note": "fetch failed",
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T11:33:09.116Z"
   },
   "https://www.americaniranian.org": {
     "status": "invalid",
     "http_status": null,
     "note": "fetch failed",
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://www.iranintl.com/en/20260000quds-israel-desk": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Hossein_Khanzadi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Hossein_Sheikh-ol-Eslam": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://en.wikipedia.org/wiki/Organisation_of_Defensive_Innovation_and_Research": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://www.newyorker.com/contributors/hooman-majd": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://bloustein.rutgers.edu/amirahmadi/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.imamsadegh.com": {
     "status": "invalid",
     "http_status": null,
     "note": "fetch failed",
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T11:33:09.116Z"
   },
   "https://www.reuters.com/world/middle-east/ibrahim-aqil-hezbollah-commander-killed-beirut-israeli-strike-2024-09-20/": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 401,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.washingtonpost.com/world/national-security/cia-and-mossad-killed-senior-hezbollah-figure-in-car-bombing/2015/01/30/ebb88682-a719-11e4-a7c2-03d37af98440_story.html": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.makaremshirazi.org/english/others/sobhani.php": {
     "status": "invalid",
     "http_status": 400,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T11:33:09.116Z"
   },
   "https://www.iranintl.com/en/202603319999": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Imad_Mughniyeh": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.bbc.com/news/articles/c0k5v5jn35no": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T11:33:09.116Z"
   },
   "https://en.wikipedia.org/wiki/Ibrahim_Aqil": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Jason_Rezaian": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.washingtonpost.com/people/jason-rezaian/": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Jorge_Taiana": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://carnegieendowment.org/experts/karim-sadjadpour": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Kazem_Gharib-Abadi": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://home.treasury.gov/news/press-releases/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.hrw.org/news/2009/08/04/iran-verdicts-show-trial-violate-fair-trial-standards": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://www.amnesty.org/en/documents/mde13/084/2009/en/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.nytimes.com/2010/11/30/world/middleeast/30iran.html": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.bbc.com/news/world-middle-east-11871346": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T11:33:09.116Z"
   },
   "https://www.buzzfeednews.com/article/sheerafrenkel/mintpress-news-iran-story": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T11:33:09.116Z"
   },
   "https://en.wikipedia.org/wiki/Majid_Shahriari": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Manssor_Arbabsiar": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.longwarjournal.org/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.justice.gov/opa/pr/man-sentenced-25-years-prison-plotting-assassinate-saudi-arabian-ambassador-united-states": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://www.washingtoninstitute.org/experts/mehdi-khalaji": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.iranintl.com/en/202604019999": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mohammad_Hossein_Bagheri": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mohammad_Eslami": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.mintpressnews.com/about": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.iaea.org/newscenter/news/iaea-director-general-meets-with-head-of-aeoi-2021": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://cup.columbia.edu/book/religious-statecraft/9780231181341": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.bbc.com/news/articles/c9dlr9j51g4o": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T11:33:09.116Z"
   },
   "https://bush.tamu.edu/scis/people/mohammad-ayatollahi-tabaar/": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://en.wikipedia.org/wiki/Mohammad_Pakpour": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mohammad_Jafar_Asadi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mohammad_Mehdi_Tehranchi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.bbc.co.uk/news/world-middle-east-10627898": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T11:33:09.116Z"
   },
   "https://iranwire.com/en/features/134892-who-is-mohammad-marandi-irans-chief-propagandist-in-english/": {
-    "status": "valid",
-    "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "status": "bot-blocked",
+    "http_status": 403,
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.thejc.com/news/uk/photo-reveals-iranian-academic-platformed-by-bbc-as-proud-irgc-fighter-ong4d3lo": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.memri.org/tv/irgc-general-mohammad-jafar-asadi-iranian-evil-jews-massacre-action": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://abdimedia.net/en/politics/sardar-mohammad-jafar-asadi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.iranintl.com/en/202603089999": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mohsen_Rabbani": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mohsen_Pak-Aeen": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T11:33:09.116Z"
   },
   "https://www.gov.uk/government/news/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://acmcu.georgetown.edu/people/nader-hashemi/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.usf.edu/arts-sciences/departments/government-international-affairs/people/milani-mohsen.aspx": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://www.foreignaffairs.com/authors/mohsen-milani": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.du.edu/korbel/middleeast/nader-hashemi.html": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.tasnimnews.com/en/news/2026/03/12/irgc-clergy-affairs-east-azerbaijan-killed": {
     "status": "invalid",
     "http_status": null,
     "note": "fetch failed",
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T11:33:09.116Z"
   },
   "https://www.iranintl.com/en/202409269913": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://home.treasury.gov/news/press-releases/sb0059": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.fbi.gov/wanted/terrorinfo/reza-amiri-moghadam": {
-    "status": "valid",
-    "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "status": "bot-blocked",
+    "http_status": 403,
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Nazila_Fathi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://internationalpolicy.org/people/negar-mortazavi/": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://www.cfr.org/expert/ray-takeyh": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://sais.jhu.edu/users/nbajoghli": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.dawn.com/news/1924548": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://iranwatch.org/iranian-entities/organization-defensive-innovation-and-research-spnd": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.nytimes.com/2010/12/14/us/politics/14holbrooke.html": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.iranintl.com/en/202603039999": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.rezaaslan.com": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.state.gov/richard-holbrooke/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://profiles.ucr.edu/app/home/profile/raslan": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://pakistan.mfa.gov.ir/en/generalcategoryservices/8569/ambassador": {
     "status": "invalid",
     "http_status": null,
     "note": "fetch failed",
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T11:33:09.116Z"
   },
   "https://en.wikipedia.org/wiki/Roya_Hakakian": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://global.oup.com/academic/product/the-turban-for-the-crown-9780195042580": {
     "status": "valid",
     "http_status": 202,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.chathamhouse.org/about-us/our-people/sanam-vakil": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Sadegh_Kharrazi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.state.gov/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.stonybrook.edu/commcms/sociology/people/faculty/arjomand_said_amir": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://en.wikipedia.org/wiki/Sanam_Vakil": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://www.utc.edu/faculty/saeid-golkar": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://sais.jhu.edu/users/vnasr1": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.iiss.org/publications/strategic-dossiers/whither-iran": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T11:33:09.116Z"
   },
   "https://carnegieendowment.org/research/2006/01/irans-nuclear-ambitions": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.cfr.org/experts/vali-nasr": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://www.semafor.com/article/09/25/2023/inside-irans-influence-operation": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.radiofarda.com/a/marandi-khamenei-doctor/31234567.html": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T11:33:09.116Z"
   },
   "https://internationalpolicy.org/people/sina-toossi/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Ali_Marandi": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://iranwatch.org/iranian-entities/amad-project": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.axios.com/2022/09/13/iran-irgc-unit-840-sanctions": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.aei.org/": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://home.treasury.gov/news/press-releases/jy0902": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Amad_Project": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://agsiw.org/about/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.american-iranian.org/": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T11:33:09.116Z"
   },
   "https://www.iaea.org/newscenter/pressreleases/iaea-report-possible-military-dimensions-iran": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://www.belfercenter.org/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Islamic_Republic_of_Iran_Army": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.bc.edu/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.atlanticcouncil.org/programs/middle-east-programs/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://carpo-bonn.org/en/about/": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://carnegieendowment.org/about/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://mesaas.columbia.edu/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://cmess.ir/": {
     "status": "unknown",
     "http_status": null,
     "note": "timeout",
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.fdd.org/about/": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://iranhr.net/en/articles/5811/": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.gcsp.ch/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.amnesty.org/en/location/middle-east-and-north-africa/iran/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Law_Enforcement_Command_of_Islamic_Republic_of_Iran": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.cfr.org/about": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/General_Staff_of_the_Armed_Forces_(Iran)": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://www.emergingworld.com/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.theiranpodcast.com/": {
     "status": "invalid",
     "http_status": null,
     "note": "fetch failed",
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://en.wikipedia.org/wiki/Jafar_Sobhani": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.politico.eu/article/belgium-convicts-iranian-diplomat-assadollah-assadi-for-bomb-plot/": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://en.wikipedia.org/wiki/Permanent_Mission_of_Iran_to_the_United_Nations": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://www.hoover.org/research-teams/iran-democracy-project": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://en.wikipedia.org/wiki/Assadollah_Assadi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.iranianstudies.org/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://irdiplomacy.ir/": {
     "status": "unknown",
     "http_status": null,
     "note": "timeout",
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Islamic_Revolutionary_Guard_Corps_Ground_Forces": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Islamic_Revolutionary_Guard_Corps_Navy": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.fdd.org/analysis/2023/10/12/iran-hamas-attack/": {
     "status": "invalid",
-    "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "http_status": 404,
+    "last_checked": "2026-04-13T11:33:09.116Z"
   },
   "https://www.criticalthreats.org/analysis/irgc-quds-force": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.reuters.com/world/middle-east/who-was-ibrahim-aqil-senior-hezbollah-commander-killed-israel-2024-09-20/": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 401,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.longwarjournal.org/archives/2024/09/irgc-quds-force-commander-for-lebanon-killed-in-israeli-strike.php": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T11:33:09.116Z"
   },
   "https://www.csis.org/analysis/irans-use-proxy-forces": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://www.csis.org/analysis/irans-military-forces-and-warfighting-capabilities": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://sais.jhu.edu/": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.mei.edu/about": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Quds_Force": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.thejc.com/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.nytimes.com/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://home.treasury.gov/news/press-releases/jy1837": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://home.treasury.gov/news/press-releases/sm626": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.nps.edu/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Shahid_Beheshti_University": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Tarbiat_Modares_University": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Nuclear_Science_and_Technology_Research_Institute": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://www.usf.edu/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.stonybrook.edu/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Office_of_the_Supreme_Leader_(Iran)": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://www.iaea.org/newscenter/pressreleases/iaea-director-generals-report-on-iran": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://www.rt.com/": {
     "status": "unknown",
     "http_status": null,
     "note": "timeout",
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.nytimes.com/1994/07/19/world/blast-hits-jewish-center-in-argentina-killing-at-least-48.html": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Algiers_Accords_(1981)": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Anglo-Soviet_invasion_of_Iran": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.washingtoninstitute.org/about": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Union_of_Iranian_Communists_(Sarbedaran)": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.justice.gov/opa/pr/two-men-charged-alleged-plot-assassinate-saudi-arabian-ambassador-united-states": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Iran%E2%80%93Albania_relations": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://en.wikipedia.org/wiki/Amol_uprising": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://en.wikipedia.org/wiki/Chain_murders_of_Iran": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/1979_Iranian_constitutional_referendum": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.iranintl.com/en/202412063661": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/1989_Iranian_constitutional_referendum": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/1979_Iranian_Constitutional_Assembly_election": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.pbs.org/wgbh/pages/frontline/tehranbureau/2011/01/the-chain-murders-killing-dissidents-and-intellectuals-1988-1998.html": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.rferl.org/a/two-decades-later-still-no-justice-for-iran-chain-murders-of-intellectuals/30997536.html": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://irandataportal.syr.edu/the-1979-assembly-of-experts-for-the-drafting-of-the-constitution-election": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Tudeh_Party_of_Iran": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.bbc.com/news/world-europe-48953096": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://en.wikipedia.org/wiki/Hussein-Ali_Montazeri": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Ruhollah_Zam": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.bbc.com/news/world-middle-east-10755498": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://en.wikipedia.org/wiki/Abdul_Rahman_Ghassemlou": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/2009%E2%80%9310_Iranian_election_protests": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mohsen_Fakhrizadeh": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Iran%E2%80%93Contra_affair": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Iran_hostage_crisis": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.bbc.com/news/world-latin-america-21223851": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://www.britannica.com/event/Iran-Contra-Affair": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Iran_Experts_Initiative": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Iran%E2%80%93Argentina_AMIA_memorandum": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://www.tudehpartyiran.org/en/1993/03/31/brief-history-of-the-tudeh-party-of-iran/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/1953_Iranian_coup_d%27%C3%A9tat": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Iranian_Cultural_Revolution": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Freedom_of_the_press_in_Iran": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/1999_Iranian_student_protests": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Assassination_of_Iranian_nuclear_scientists": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://cpj.org/2001/03/attacks-on-the-press-2000-iran/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://nsarchive.gwu.edu/briefing-book/iran/2017-06-21/cia-admits-role-1953-iranian-coup": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://en.wikipedia.org/wiki/Islamic_Revolutionary_Guard_Corps": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/2026_Iran_massacres": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Joint_Comprehensive_Plan_of_Action": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Iran_nuclear_deal": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.hrw.org/news/2026/01/16/iran-growing-evidence-of-countrywide-massacres": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.npr.org/2026/01/27/nx-s1-5689793/6-126-iran-crackdown-protests-death-toll": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Iranian_Revolution": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.amnesty.org/en/latest/news/2026/01/iran-authorities-unleash-heavily-militarized-clampdown-to-hide-protest-massacres/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://iranwire.com/en/news/143144-iran-charges-former-mp-who-claimed-120-officials-had-sex-with-french-journalist/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:50:13.975Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/2017_Kurdistan_Region_independence_referendum": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.iranintl.com/en/202510185897": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.rudaw.net": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T11:33:09.116Z"
   },
   "https://www.washingtonpost.com/world/how-the-kurdish-independence-referendum-backfired-/2017/10/20/3010c820-b371-11e7-9b93-b97043e57a22_story.html": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/KDPI%E2%80%93Islamic_Republic_conflict": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://ifpnews.com/iranian-judiciary-files-charges-against-former-mp-over-controversial-tv-remarks/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.hrw.org/reports/1993/iran/": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://en.wikipedia.org/wiki/Assembly_of_Experts": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/1988_executions_of_Iranian_political_prisoners": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Sadegh_Khalkhali": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.iranintl.com/en/202603-irgc-basij-snsc-killed": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.hrw.org/news/2022/06/08/irans-1988-mass-executions": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.britannica.com/biography/Hossein-Ali-Montazeri": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mahsa_Amini_protests": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Kurdish%E2%80%93Iranian_conflict_(1979%E2%80%9396)": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://en.wikipedia.org/wiki/1997_Iranian_presidential_election": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mykonos_restaurant_assassinations": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/2000_Iranian_legislative_election": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/2004_Iranian_legislative_election": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/2024_Iranian_legislative_election": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/2020_Iranian_legislative_election": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Executions_following_the_Iranian_Revolution": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://www.hrw.org/reports/1997/iran/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Rosewater_(film)": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/2005_Iranian_presidential_election": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/2021_Iranian_presidential_election": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/2009_Iranian_presidential_election": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Siahkal_incident": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/2024_Iranian_presidential_election": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Death_of_Ebrahim_Raisi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Republic_of_Mahabad": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Assassination_of_Qasem_Soleimani": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.iranicaonline.org/articles/siyakal": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Ukraine_International_Airlines_Flight_752": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.marxists.org/history/international/comintern/sections/iran/tudeh/index.htm": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T11:33:09.116Z"
   },
   "https://en.wikipedia.org/wiki/Abbas_Sheibani": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.bbc.com/news/world-middle-east-51073621": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://iranhrdc.org/the-massacre-of-political-prisoners-in-iran-1988/": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://english.khamenei.ir/news/9358/": {
     "status": "invalid",
     "http_status": null,
     "note": "fetch failed",
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://en.wikipedia.org/wiki/Islamic_Republican_Party": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Abdolali_Bazargan": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.britannica.com/topic/judicial-system-of-Iran": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://en.wikipedia.org/wiki/Abdul-Karim_Mousavi_Ardebili": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/1989_Iranian_presidential_election": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Abbas_Abdi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.csmonitor.com/Commentary/Global-Viewpoint/2010/0106/Abdolkarim-Soroush-The-goals-of-Iran-s-Green-Movement/(page)/3": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Iranian_reformists": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.pbs.org/wgbh/pages/frontline/tehranbureau/2011/10/ali-shariati-and-the-ideologization-of-religion.html": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.resetdoc.org/story/abdolkarim-soroush-the-great-reformer/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://irantribunal.com/iran-watch/list-of-perpetrators/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Abdolkarim_Soroush": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.iranhrs.org/chapter-8-reactions-within-the-velayat-al-faghih-system-about-executions-of-political-prisoners-in-1988/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://iran1988.org/seyyed-abdulkarim-mousavi-ardabili/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Assembly_of_Experts_for_Constitution": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.refworld.org/docid/3ae6ac4210.html": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Komala_Party_of_Iranian_Kurdistan": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Abdollah_Javadi_Amoli": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Party_of_Free_Life_of_Kurdistan": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Assassination_of_Abdul_Rahman_Ghassemlou": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://iranwire.com/fa/features/113940/": {
-    "status": "valid",
-    "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "status": "bot-blocked",
+    "http_status": 403,
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "http://drsoroush.com/en/sense-and-nonsense/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://iranhrdc.org/the-1980-cultural-revolution-and-restrictions-on-academic-freedom-in-iran/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.unitedagainstnucleariran.com/government-institution/guardian-council": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://old.iranintl.com/en/iran/leadership-change-irans-leading-ultraconservative-party-ahead-2021-elections": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Ali_M._Ansari": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "http://onenewsbox.com/2024/10/24/ahmad-ali-masoud-ansari-is-farah-pahlavis-cousin/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://features.kodoom.com/en/iran-politics/pahlavi-confidant-alleges-fraud-and-feud-in-the-royal-family/v/5157/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://features.kodoom.com/en/iran-politics/former-confidant-claims-reza-pahlavi-was-funded-by-saudi-arabia-and-cia/v/6472/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://faculty.nps.edu/ostovar": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://en.saednews.com/c/2/5852": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/2025%E2%80%932026_Iranian_protests": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Manouchehr_Mottaki": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Ahmad_Khomeini": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Ahmad_Khatami": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Ahmad_Tavakkoli": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Saeed_Jalili": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Gholam-Hossein_Mohseni-Ejei": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://en.wikipedia.org/wiki/Alliance_of_Builders_of_Islamic_Iran": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Ahmad_Vahidi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Ali_Akbar_Ahmadian": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.washingtonpost.com/local/obituaries/ali-akbar-mohtashamipour-dead/2021/06/07/2ce247c0-c793-11eb-a11b-6c6191ccd599_story.html": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Akbar_Hashemi_Rafsanjani": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mahmoud_Ahmadinejad": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.atlanticcouncil.org/blogs/iransource/saeed-jalili-the-former-nuclear-negotiator-that-rubs-diplomats-the-wrong-way/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Ali_Abdollahi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Al_Alam_News_Network": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://www.gov.uk/government/news/uk-announces-sanctions-against-those-who-fund-the-work-of-the-irgc": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Ali_Ansari_(banker)": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Ayandeh_Bank": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.radiozamaneh.com/37363/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Ali_Akbar_Mohtashamipur": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.terrorism-info.org.il/en/18713/": {
     "status": "invalid",
     "http_status": null,
     "note": "fetch failed",
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://kayhanlife.com/authors/analysis-why-uk-is-imposing-sanctions-on-founder-of-ayandeh-bank/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.aljazeera.com/news/2025/10/27/corruption-mismanagement-in-spotlight-as-iran-dissolves-major-private-bank": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Hassan_Tehrani_Moghaddam": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Ali_Akbar_Velayati": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Ali_Golzadeh_Ghafouri": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mohammad_Ali_Jafari": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/IRIB": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/i-theexpansion.php": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.amnesty.org/en/latest/news/2026/01/iran-massacre-of-protesters-demands-global-diplomatic-action-to-signal-an-end-to-impunity/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.iranmall.com/en/node/2583": {
     "status": "unknown",
     "http_status": null,
     "note": "timeout",
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Amal_Movement": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Amir_Abbas_Hoveyda": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Amir-Abbas_Hoveyda": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Ali_Meshkini": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Ali_Motahari": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Ali_Larijani": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Bid_Kaneh_explosion": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.rusi.org/people/ansari": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Freedom_Movement_of_Iran": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mohammad-Reza_Aref": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Ansar-e_Hezbollah": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Ataollah_Mohajerani": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Organization_of_Iranian_People%27s_Fadai_Guerrillas": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://www.aljazeera.com/news/2026/3/1/who-are-the-council-members-temporarily-in-charge-of-iran": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Amir_Parviz_Pouyan": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://www.oneworld-publications.com/trade/what-iranians-want.html": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://en.wikipedia.org/wiki/Babak_Zanjani": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://english.alarabiya.net/features/2019/04/15/Rostam-Ghasemi-The-brigadier-general-of-sanctions-evasion": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Abolhassan_Banisadr": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Shapour_Bakhtiar": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.iranintl.com/en/202404308410": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://home.treasury.gov/news/press-releases/sb0375": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.aljazeera.com/opinions/2016/3/10/babak-zanjani-and-the-complicity-of-iran": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Emadeddin_Baghi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/BBC_Persian_Television": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Catherine_Perez-Shakdam": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.iranintl.com/en/202203079467": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Communist_Party_of_Iran": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.mintpressnews.com/catherine-shakdam-israeli-spy-infiltrated-mintpress-news/282889/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Bijan_Jazani": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.thejc.com/news/uk/former-muslim-who-infiltrated-the-tehran-regime-is-new-head-of-we-believe-in-israel-y2wvqhpi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://henryjacksonsociety.org/media-centre/catherine-perez-shakdam-11/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Democratic_Party_of_Iranian_Kurdistan": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Hossein_Dehghan": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Ehsan_Tabari": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Saeed_Emami": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Kurdish%E2%80%93Iranian_conflict_(1979%E2%80%931983)": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://thenewpress.com/books/coup": {
     "status": "invalid",
     "http_status": null,
     "note": "fetch failed",
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://www.iranicaonline.org/articles/confederation-of-iranian-students/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.sup.org/books/title/?id=33991": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://en.wikipedia.org/wiki/Ali_Fallahian": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Organization_of_Iranian_People%27s_Fedai_Guerrillas": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Ali_Fadavi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.amnesty.org/en/documents/mde13/001/1990/en/": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://en.wikipedia.org/wiki/Organization_of_Iranian_People%27s_Fedaian_(Majority)": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Ali-Reza_Pahlavi_(born_1966)": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://www.ucpress.edu/book/9780520214576/tortured-confessions": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://yalebooks.yale.edu/book/9780300052671/radical-islam": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Leila_Pahlavi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Farah_Pahlavi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Fars_News_Agency": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Dariush_Forouhar": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.longwarjournal.org/about": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Fatemeh_Hashemi_Rafsanjani": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://ut.ac.ir/en": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://home.treasury.gov/news/press-releases/tg1422": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Parvaneh_Forouhar": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Akbar_Ganji": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mohammad_Bagher_Ghalibaf": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/National_Front_(Iran)": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://foreignpolicy.com/2024/03/07/iran-election-parliament-assembly-experts-conservatives-hardliners/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Rostam_Ghasemi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/France_M%C3%A9dias_Monde": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Islamic_Consultative_Assembly": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Sadegh_Ghotbzadeh": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Manucher_Ghorbanifar": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/List_of_speakers_of_the_Parliament_of_Iran": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.aljazeera.com/news/2026/3/17/israel-says-it-has-killed-ali-larijani-irans-top-security-official": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Hafte_Tir_bombing": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Habib_Elghanian": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Gholam-Hossein_Sadighi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Gholam-Ali_Haddad-Adel": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Amir_Ali_Hajizadeh": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://irp.fas.org/offdocs/walsh/part_i.htm": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Hamed_Esmaeilion": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.iranrights.org/memorial/story/-7014/hamid-hajizadeh-pur-hajizadeh": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Saeed_Hajjarian": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Hassan_Ayat": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Sejjil_(missile)": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://en.wikipedia.org/wiki/Hamid_Ashraf": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.fdd.org/analysis/2013/11/18/the-secret-history-of-hezbollah/": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/HispanTV": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Hezbollah": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.atlanticcouncil.org/expert/holly-dagres/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Shahab-3": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Hossein_Fardoust": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Worker-communist_Party_of_Iran_(Hekmatist)": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://en.wikipedia.org/wiki/Assembly_of_Experts_for_the_Constitution": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://wws.princeton.edu/faculty-research/faculty/shmousav": {
     "status": "invalid",
     "http_status": null,
     "note": "fetch failed",
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://en.wikipedia.org/wiki/Iran_Novin_Party": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.tandfonline.com/doi/full/10.1080/08850607.2023.2295205": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mohsen_Kadivar": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.iranintl.com/en/202309258800": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Iraj_Eskandari": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.spiegel.de/international/germany/the-mykonos-verdict-how-germany-exposed-iran-s-terror-campaign-a-884958.html": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Hossein_Makki": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Maziar_Bahari": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Islamic_Republic_of_Iran_Navy": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://iranwire.com/en/about": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Islamic_Revolutionary_Court": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/IRGC_Navy": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/IRGC_Aerospace_Force": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/IRGC_Intelligence_Organisation": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://en.wikipedia.org/wiki/Islamic_Ideology_Dissemination_Organization": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mashallah_Shamsolvaezin": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Ahmad_Jannati": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Guardian_Council": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Ham-Mihan": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Ayatollah_Ahmad_Jannati": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Hamshahri": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.pbs.org/newshour/world/who-is-saeed-jalili-the-hard-line-former-negotiator-seeking-irans-presidency": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://iranprimer.usip.org/blog/2020/feb/20/us-sanctions-guardian-council-members": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.aei.org/op-eds/the-iranian-influence-campaign-went-further-than-many-realize/": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Manoto": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.belfercenter.org/person/kayhan-barzegar": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Karim_Sanjabi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mehdi_Karroubi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.iau.ac.ir": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://carnegieendowment.org/2008/03/18/reading-khamenei-world-view-of-iran-s-most-powerful-leader": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Khabar_Online": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://en.wikipedia.org/wiki/Ali_Khamenei": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Hossein_Shariatmadari": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Alireza_Tangsiri": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Islamic_Republican_(newspaper)": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mohammad_Mohammadi_Reyshahri": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Ezzatollah_Zarghami": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Ahmad_Alam_al-Huda": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://fanack.com/faces/features-insights/sadeq-larijani~77524/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Kayhan": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mohammad_Khatami": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Islamic_Republic_of_Iran_Broadcasting": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Masoud_Pezeshkian": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mohammad_Mousavi_Khoeiniha": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Salam_(newspaper)": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Bijan_Namdar_Zanganeh": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://english.shabtabnews.com/2025/01/26/mastermind-of-irans-us-influence-effort-appointed-head-of-ministry-think-tank/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Majid_Khademi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Morteza_Motahhari": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Ruhollah_Khomeini": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Taqi_Yazdi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Lotfollah_Safi_Golpaygani": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Law_Enforcement_Command_of_the_Islamic_Republic_of_Iran": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Sadegh_Mahsouli": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.businesstoday.in/world/story/irans-irgc-intelligence-chief-majid-khademi-killed-blames-israel-and-us-524209-2026-04-06": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Reza_Pahlavi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://iranwire.com/en/influential-women/118210-iranian-influential-women-maryam-firouz-1913-2008/": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mashregh_News": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mansoor_Hekmat": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Maryam_Firouz": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Worker-communist_Party_of_Iran": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Manouchehr_Khosrodad": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Massoud_Ahmadzadeh": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://en.wikipedia.org/wiki/Mehr_News_Agency": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mehdi_Hashemi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Radio_Zamaneh": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Revolutionary_Courts_(Iran)": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://iranwire.com/about": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://grokipedia.com/page/Taqi_Yazdi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mehdi_Hashemi_(cleric)": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://yris.yira.org/essays/importing-arms-exporting-the-revolution-mehdi-hashemi-and-his-fatal-leak-to-ash-shiraa/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.eurasiareview.com/25072022-iran-95-year-old-cleric-jannati-reinstated-as-head-of-powerful-guardian-council/": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.atlanticcouncil.org/blogs/iransource/the-rise-and-fall-of-the-crocodile-ayatollah/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mir-Hossein_Mousavi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.mintpressnews.com/mnar-adley-about/": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://en.wikipedia.org/wiki/Mohammad_Bagheri": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.middleeasteye.net/news/iran-parliament-election-ultra-conservative-winners": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mohammad_Aliabadi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://fa.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF%D8%B9%D9%84%DB%8C_%D8%B2%D9%85": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mohammad_Mosaddegh": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mohammad_Khamenei": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mohammad_Beheshti": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mohammad_Yazdi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://x.com/YasamanFlower/status/1333952210456211459": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.britannica.com/biography/Mohammad-Hosayn-Beheshti": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mohammad_Hashemi_Rafsanjani": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://iranwire.com/en/features/67965": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mohsen_Rezaee": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mohammad_Mokhber": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.researchgate.net/publication/265561117_Two_Iranian_Intellectuals_Ayatollah_Morteza_Motahari_and_Dr_Abdol-Karim_Soroush_and_Islamic_Democracy_Debate": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.wionews.com/world/who-is-mohsen-rezaee-former-irgc-commander-appointed-as-military-adviser-to-mojtaba-khamenei-1773674742629": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://nawaat.org/2005/02/08/intellectual-autobiography/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Saeed_Mortazavi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://abdimedia.net/en/memory-past/mausoleum-mohsen-kangarlo": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.hrw.org/legacy/backgrounder/mena/iran1205/iran1205.pdf": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Democratic_confederalism": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mustafa_Barzani": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mostafa_Chamran": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Musa_al-Sadr": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mostafa_Kavakebian": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mohammad-Reza_Khatami": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mozaffar_Baqai": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://english.khamenei.ir/news/9049/From-Texas-to-Dehlavieh-A-look-at-the-life-of-Martyr-Mustafa": {
     "status": "invalid",
     "http_status": null,
     "note": "fetch failed",
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://sais.jhu.edu/faculty/narges-bajoghli": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mahmoud_Nabavian": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Behzad_Nabavi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.semafor.com/article/09/26/2023/iran-foreign-ministry-experts-group-emails": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://en.wikipedia.org/wiki/Mostafa_Mohammad-Najjar": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.bourseandbazaar.com/how-sanctions-work": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://irandataportal.syr.edu/organization-of-the-mojahedin-of-the-islamic-revolution-of-iran": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://cup.columbia.edu/book/the-people-reloaded/9780976836148": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Narges_Mohammadi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Ali_Akbar_Nategh-Nouri": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Nematollah_Nassiri": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.crisisgroup.org": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Nasser_Moghadam": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.sup.org/books/title/?id=34977": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://iranprimer.usip.org/blog/2021/jul/21/raisi-role-1988-massacre": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://emetonline.org/resource/the-iran-enablers-tehrans-network-in-america/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.iranintl.com/en/202310044407": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mostafa_Pourmohammadi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Peykar": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Noureddin_Kianouri": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Islamic_Republic": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://irandataportal.syr.edu/parliamentary-elections/2024-parliamentary-election/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.hoover.org/research/all-name-iranian-regimes-de-facto-lobby-west": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://freebeacon.com/national-security/iranian-foreign-minister-zarif-niac-main-conduit/": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://en.wikipedia.org/wiki/Press_TV": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Radio_Farda": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Qasem_Soleimani": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Islamic_Azad_University": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Ebrahim_Raisi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Esmail_Qaani": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.rferl.org/info/about": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://en.wikipedia.org/wiki/Socialism_in_Iran": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mohammad-Ali_Rajai": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.iranrights.org/library/document/1380": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Hamid_Rasaee": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://niac.net/about/board/": {
     "status": "invalid",
     "http_status": null,
     "note": "fetch failed",
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://www.rezaaslan.com/about": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Raja_News": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://quincyinst.org/people/reza-marashi/": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://yalebooks.yale.edu/book/9780300217797/the-last-shah/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mohammad_Javad_Zarif": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Hassan_Rouhani": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Ali_Shamkhani": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Ali_Akbar_Salehi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Sadegh_Zibakalam": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Moderation_and_Development_Party": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Saeid_Zibakalam": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Committee_for_Islamization_of_Universities": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/SAVAK": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Mohammad_Marandi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Shahram_Irani": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Ali-Akbar_Sa%27idi_Sirjani": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Society_of_Seminary_Teachers_of_Qom": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Kazem_Shariatmadari": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Niloofar_Hamedi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Kazem_Sami": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.unitedagainstnucleariran.com/blog/islamic-revolutionary-guard-corps-intelligence-organization-transition": {
-    "status": "valid",
-    "http_status": 200,
-    "last_checked": "2026-04-13T09:50:13.975Z"
+    "status": "bot-blocked",
+    "http_status": 403,
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Tasnim_News_Agency": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.axios.com/2022/06/23/iran-irgc-intelligence-chief-taeb-israel-turkey": {
-    "status": "invalid",
+    "status": "bot-blocked",
     "http_status": 403,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Hossein_Taeb": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Soleiman_Mohsen_Eskandari": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Tabnak": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Taghi_Arani": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.ncr-iran.org/en/news/anews/who-is-who/who-is-hossein-taeb-recently-booted-from-irans-irgc-intelligence-unit/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Quincy_Institute_for_Responsible_Statecraft": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://home.treasury.gov/news/press-releases/sm824": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Toufan": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.hhs.se/en/outreach/alumni/pathfinders/trita-parsi/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.ncr-iran.org/en/news/iran-election/confidential-documents-reveal-vahid-haghanians-high-ranking-position-in-raisis-administration-in-iran/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://english.shabtabnews.com/2021/05/14/the-scheming-parsi-brothers-modern-governmental-influencers/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://english.shabtabnews.com/2021/06/24/vahid-haghanian-ali-khameneis-lackey-comes-out-of-obscurity/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.niacaction.org/about/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Yasmine_Pahlavi": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.iranintl.com/en/202406012710": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.iranintl.com": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Iran_International": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Iranian_Labour_News_Agency": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://en.wikipedia.org/wiki/Zahra_Rahnavard": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.usagm.gov/networks/voa/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.sup.org/books/title/?id=33816": {
     "status": "invalid",
     "http_status": 404,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T10:06:18.894Z"
   },
   "https://pen.org/individual-case/nasser-zarafshan/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:46:53.145Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://www.atlanticcouncil.org/blogs/iransource/three-decades-after-khomeini-s-death-his-clan-lives-life-on-the-sidelines/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
   },
   "https://iranhrdc.org/deadly-fatwa-irans-1988-prison-massacre/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-13T09:56:39.316Z"
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://iranian-studies.stanford.edu/people/abbas-milani": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://nps.edu/web/iris/-/afshon-ostovar-ph-d-": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://www.timesofisrael.com/israeli-official-says-iran-strikes-killed-over-30-security-chiefs-11-nuclear-scientists/": {
+    "status": "bot-blocked",
+    "http_status": 403,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://en.wikipedia.org/wiki/Death_of_Alberto_Nisman": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://www.aljazeera.com/news/2025/8/26/iran-vows-reciprocal-action-after-australia-expels-ambassador": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://www.npr.org/2025/08/26/nx-s1-5517826/australia-iran-antisemitic-attacks-expels-ambassador": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://www.bc.edu/bc-web/schools/morrissey/departments/political-science/people/emeritus-research-retired/ali-banuazizi.html": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://kabulnow.com/2024/11/iran-appoints-alireza-bigdeli-as-new-ambassador-to-afghanistan/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://en.wikipedia.org/wiki/Iranian_diplomat_terror_plot_trial": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://www.aljazeera.com/news/2021/2/4/belgium-court-jails-iranian-diplomat-for-20-years-over-bomb-plot": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://oneworld-publications.com/work/the-shadow-commander/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://djavadsalehi.com/about-me/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://press.princeton.edu/books/paperback/9780691101347/iran-between-two-revolutions": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://www.washingtoninstitute.org/experts/farzin-nadimi": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://www.st-andrews.ac.uk/international-relations/people/es404/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://www.bourseandbazaar.org/about-us": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://en.wikipedia.org/wiki/Assassinations_of_Iranian_nuclear_scientists": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://balkaninsight.com/2018/12/20/albania-expels-iranian-diplomats-over-terrorist-plot-12-20-2018/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://www.aljazeera.com/author/hamid_dabashi_201132774031921759": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://www.washingtoninstitute.org/experts/holly-dagres": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://en.wikipedia.org/wiki/Organization_of_Defensive_Innovation_and_Research": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://en.wikipedia.org/wiki/American_Iranian_Council": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://en.wikipedia.org/wiki/Hossein_Sheikholeslam": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://en.wikipedia.org/wiki/Kazem_Gharibabadi": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://www.hrw.org/news/2009/08/04/iran-show-trial-exposes-arbitrary-detention": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://www.justice.gov/usao-sdny/pr/manssor-arbabsiar-sentenced-manhattan-federal-court-25-years-prison-conspiring-iranian": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://bush.tamu.edu/faculty/mtabaar/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://www.iaea.org/newscenter/pressreleases/joint-statement-by-he-mr-mohammad-eslami-vice-president-and-president-of-the-atomic-energy-organization-of-iran-and-he-mr-rafael-grossi-director-general-of-the-international-atomic-energy-agency": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://www.usf.edu/arts-sciences/departments/school-of-interdisciplinary-global-studies/people/faculty/mohsen-milani.aspx": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://internationalpolicy.org/resource-author/negar-mortazavi/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://www.stonybrook.edu/commcms/sociology/people/faculty/arjomand.php": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://www.utc.edu/political-science-public-service/profiles/faculty/hqw118.php": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://en.wikipedia.org/wiki/Alireza_Marandi": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://www.iaea.org/sites/default/files/documents/gov2011-65.pdf": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://www.cfr.org/news-releases/vali-nasr-leading-specialist-political-islam-joins-council-adjunct-senior-fellow": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://carpo-bonn.org/en/about-us": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://en.wikipedia.org/wiki/General_Staff_of_the_Armed_Forces_of_the_Islamic_Republic_of_Iran": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://en.wikipedia.org/wiki/Permanent_Representative_of_Iran_to_the_United_Nations": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://www.negarmortazavi.com/iran-podcast": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://www.csis.org/analysis/war-proxy-irans-growing-footprint-middle-east": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://www.iaea.org/sites/default/files/documents/gov2023-39.pdf": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://www.iranwatch.org/iranian-entities/nuclear-science-and-technology-research-institute": {
+    "status": "bot-blocked",
+    "http_status": 403,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://en.wikipedia.org/wiki/Office_of_the_Supreme_Leader_of_Iran": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://en.wikipedia.org/wiki/Albania%E2%80%93Iran_relations": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://en.wikipedia.org/wiki/1982_Amol_uprising": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://www.upi.com/Archives/1989/07/14/Kurdish-leader-killed-in-Vienna/6395616392000/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://www.france24.com/en/20091220-top-iranian-dissident-cleric-grand-ayatollah-montazeri-dies": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://www.ynetnews.com/articles/0,7340,L-4337864,00.html": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://en.wikipedia.org/wiki/Memorandum_of_understanding_between_Argentina_and_Iran": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB435/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://en.wikipedia.org/wiki/1979_Kurdish_rebellion_in_Iran": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://www.hrw.org/report/1993/08/01/guardians-thought-limits-freedom-expression-iran": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://en.wikipedia.org/wiki/Casualties_of_the_Iranian_Revolution": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://www.iranrights.org/library/document/1380/the-massacre-of-political-prisoners-in-iran-1988-report-of-an-inquiry": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "http://web.archive.org/web/20221223142452/https://english.khamenei.ir/news/9358/Imam-Khamenei-prays-over-the-deceased-Dr-Abbas-Sheibani-a-long-time": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://en.wikipedia.org/wiki/Judicial_system_of_the_Islamic_Republic_of_Iran": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://nps.edu/faculty-profiles/-/cv/apostova": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://en.wikipedia.org/wiki/Gholam-Hossein_Mohseni-Eje%27i": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://en.wikipedia.org/wiki/Al-Alam_News_Network": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "http://web.archive.org/web/20230605165644/https://www.terrorism-info.org.il/en/18713/": {
+    "status": "valid",
+    "http_status": null,
+    "note": "timeout",
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://en.wikipedia.org/wiki/Amir_Parviz_Pooyan": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://oneworld-publications.com/work/what-iranians-want/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://www.sup.org/books/politics/how-sanctions-work": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://www.amnesty.org/es/wp-content/uploads/2021/06/mde130211990en.pdf": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://thenewpress.org/books/the-coup/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://en.wikipedia.org/wiki/Ali_Reza_Pahlavi_(born_1966)": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://en.wikipedia.org/wiki/Sejjil": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://en.wikipedia.org/wiki/Worker-communist_Party_of_Iran_%E2%80%93_Hekmatist": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://sgs.princeton.edu/team/seyed-hossein-mousavian": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://en.wikipedia.org/wiki/Intelligence_Organization_of_the_Islamic_Revolutionary_Guard_Corps": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://en.wikipedia.org/wiki/Ahmad_Alamolhoda": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://english.khabaronline.ir/": {
+    "status": "unknown",
+    "http_status": null,
+    "note": "timeout",
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://en.wikipedia.org/wiki/Masoud_Ahmadzadeh": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://www.mintpressnews.com/author/mnarmuhawesh/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://en.wikipedia.org/wiki/Mozzafar_Baghai": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "http://web.archive.org/web/20240929163914/https://english.khamenei.ir/news/9049/From-Texas-to-Dehlavieh-A-look-at-the-life-of-Martyr-Mustafa": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://freebeacon.com/national-security/congress-seeks-investigation-into-pro-iran-lobby-group-tied-to-tehran-regime/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://about.rferl.org/about-rfe-rl/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://en.wikipedia.org/wiki/Rajanews": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://www.aljazeera.com/opinions/2013/5/15/why-sanctions-on-iran-are-not-working": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://www.niacouncil.org/about-niac/staff-board/reza-aslan/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-13T12:22:21.658Z"
   }
 }

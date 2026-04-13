@@ -4,7 +4,10 @@
   "name_en": "Grand Ayatollah Jafar Sobhani",
   "name_fa": "جعفر سبحانی",
   "has_native_fa_name": true,
-  "aliases": ["Ayatollah Sobhani", "Sheikh Jafar Sobhani"],
+  "aliases": [
+    "Ayatollah Sobhani",
+    "Sheikh Jafar Sobhani"
+  ],
   "born": 1930,
   "birthplace": "Tabriz, Iran",
   "died": null,
@@ -12,22 +15,16 @@
   "faction": "clerical",
   "bio": "Grand Ayatollah Jafar Sobhani (born 1930, Tabriz) is one of the senior Shia marjas (sources of emulation) based in Qom. He is the founder and head of the Imam Sadiq Institute (Muassasat al-Imam al-Sadiq) in Qom, a major theological research and publication center that has produced numerous books on Islamic theology, jurisprudence, and Shia doctrinal history.\n\nSobhani is a prolific author in Arabic and Persian on Islamic theology (kalam), jurisprudence (fiqh), Islamic history, and the history of Shia doctrine. His multi-volume theological encyclopedias are widely used in Qom's hawza (seminary) curriculum. He studied under senior Qom marjas of the mid-twentieth century and has taught at the Qom seminary for decades, training generations of clerics.\n\nHe is regarded as a traditional clerical figure within the Qom establishment, aligned with the Islamic Republic's religious framework without being a political hardliner in the factional sense. His institute publishes extensively in Arabic, reaching Shia audiences across Iraq, Lebanon, and the Gulf. He is a recognized authority on matters of Shia doctrine and has issued fatwas on contemporary issues including technology, bioethics, and interfaith relations.",
   "irgc_member": false,
-  "expertise": ["Islamic theology", "Shia jurisprudence", "Islamic history", "Qom seminary"],
-  "tags": ["clerical"],
-  "photo": null,
-  "sources": [
-    {
-      "url": "https://www.imamsadegh.com",
-      "title": "Imam Sadiq Institute — Official Website",
-      "date": "2024-01-01",
-      "publisher": "Imam Sadiq Institute"
-    },
-    {
-      "url": "https://www.makaremshirazi.org/english/others/sobhani.php",
-      "title": "Grand Ayatollah Sobhani — Biography",
-      "date": "2020-01-01",
-      "publisher": "Makarem Shirazi Office"
-    }
+  "expertise": [
+    "Islamic theology",
+    "Shia jurisprudence",
+    "Islamic history",
+    "Qom seminary"
   ],
+  "tags": [
+    "clerical"
+  ],
+  "photo": null,
+  "sources": [],
   "editorial_notes": ""
 }

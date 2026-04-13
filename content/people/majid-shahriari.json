@@ -4,7 +4,9 @@
   "name_en": "Majid Shahriari",
   "name_fa": "مجید شهریاری",
   "has_native_fa_name": true,
-  "aliases": ["Majid Shahriari-Esfahani"],
+  "aliases": [
+    "Majid Shahriari-Esfahani"
+  ],
   "born": 1967,
   "birthplace": "Iran",
   "died": 2010,
@@ -12,8 +14,16 @@
   "faction": null,
   "bio": "Majid Shahriari was an Iranian nuclear physicist and professor at [Shahid Beheshti University](/orgs/shahid-beheshti-university) in Tehran. He was involved in Iran's civilian nuclear programme, working on reactor physics and neutron transport calculations. On 29 November 2010, Shahriari was killed in a car-bombing in Tehran — a bomb was attached to his vehicle by a motorcyclist while he was driving his wife to work. His wife survived. The same morning, [Fereydoun Abbasi-Davani](/people/fereydoun-abbasi-davani) survived a similar attack in a separate part of Tehran. The coordinated attacks were part of a broader campaign of targeted killings against Iranian nuclear scientists between 2010 and 2012, widely attributed to Israeli intelligence (Mossad). Shahriari's killing was one of the most significant in this series; Iran's government accused the United States and Israel.",
   "irgc_member": false,
-  "expertise": ["nuclear physics", "reactor physics", "neutron transport"],
-  "tags": ["assassinated", "nuclear", "deceased"],
+  "expertise": [
+    "nuclear physics",
+    "reactor physics",
+    "neutron transport"
+  ],
+  "tags": [
+    "assassinated",
+    "nuclear",
+    "deceased"
+  ],
   "photo": null,
   "sources": [
     {
@@ -21,12 +31,6 @@
       "title": "Majid Shahriari — Wikipedia",
       "date": "2024-01-01",
       "publisher": "Wikipedia"
-    },
-    {
-      "url": "https://www.bbc.com/news/world-middle-east-11871346",
-      "title": "Iran nuclear scientist Majid Shahriari killed in Tehran bomb attack",
-      "date": "2010-11-29",
-      "publisher": "BBC News"
     },
     {
       "url": "https://www.nytimes.com/2010/11/30/world/middleeast/30iran.html",

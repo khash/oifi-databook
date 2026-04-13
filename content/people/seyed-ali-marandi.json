@@ -4,7 +4,10 @@
   "name_en": "Seyed Ali Marandi",
   "name_fa": "سید علی مرندی",
   "has_native_fa_name": true,
-  "aliases": ["Ali Marandi", "Dr. Ali Marandi"],
+  "aliases": [
+    "Ali Marandi",
+    "Dr. Ali Marandi"
+  ],
   "born": 1945,
   "birthplace": "Iran",
   "died": null,
@@ -12,21 +15,19 @@
   "faction": "conservative",
   "bio": "Dr. Seyed Ali Marandi is a prominent Iranian physician who has served as the personal doctor of Supreme Leader [Ali Khamenei](/people/ali-khamenei). A specialist in pediatrics and nutrition, he served as Minister of Health of Iran from 1989 to 1993 under President [Ali Akbar Hashemi Rafsanjani](https://en.wikipedia.org/wiki/Ali-Akbar_Hashemi_Rafsanjani) and has remained a trusted figure within the conservative establishment. His long-standing personal access to Khamenei as his physician has given the Marandi family exceptional proximity to the regime's inner circle. He is the father of [Mohammad Marandi](/people/mohammad-marandi), the University of Tehran professor, literary critic, and prominent English-language defender of the Islamic Republic, whose regime access is substantially explained by this family connection.",
   "irgc_member": false,
-  "expertise": ["medicine", "pediatrics", "public health"],
+  "expertise": [
+    "medicine",
+    "pediatrics",
+    "public health"
+  ],
   "tags": [],
   "photo": null,
   "sources": [
     {
-      "url": "https://en.wikipedia.org/wiki/Ali_Marandi",
+      "url": "https://en.wikipedia.org/wiki/Alireza_Marandi",
       "title": "Ali Marandi — Wikipedia",
       "date": "2024-01-01",
       "publisher": "Wikipedia"
-    },
-    {
-      "url": "https://www.radiofarda.com/a/marandi-khamenei-doctor/31234567.html",
-      "title": "Ali Marandi, Khamenei's personal physician",
-      "date": "2021-01-01",
-      "publisher": "Radio Farda"
     }
   ],
   "editorial_notes": "Father of Mohammad Marandi (in DB). His role as Khamenei's personal physician is the key family tie explaining Mohammad Marandi's regime access. No intelligence or military role — purely physician and former minister."

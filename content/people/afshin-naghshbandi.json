@@ -11,15 +11,14 @@
   "faction": "hardliner",
   "bio": "Afshin Naghshbandi served as the Armed Forces Representative to the [Basij Forces](/orgs/basij), a liaison role linking the regular armed forces to the IRGC paramilitary. He was killed on 19 March 2026 during the [March 2026 Strike Wave](/events/march-2026-strike-wave).",
   "irgc_member": false,
-  "expertise": ["liaison", "paramilitary coordination"],
-  "tags": ["killed-in-action", "military"],
-  "sources": [
-    {
-      "url": "https://www.tasnimnews.com/en/news/2026/03/19/armed-forces-rep-basij-killed",
-      "title": "Armed Forces Representative to Basij Killed",
-      "date": "2026-03-19",
-      "publisher": "Tasnim News Agency"
-    }
+  "expertise": [
+    "liaison",
+    "paramilitary coordination"
   ],
+  "tags": [
+    "killed-in-action",
+    "military"
+  ],
+  "sources": [],
   "editorial_notes": "Killed 19 March 2026. Armed Forces Representative to Basij."
 }

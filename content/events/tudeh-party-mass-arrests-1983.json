@@ -14,18 +14,16 @@
       "publisher": "Wikipedia"
     },
     {
-      "url": "https://www.marxists.org/history/international/comintern/sections/iran/tudeh/index.htm",
-      "title": "Tudeh Party of Iran — Marxists Internet Archive",
-      "date": "2020-01-01",
-      "publisher": "Marxists Internet Archive"
-    },
-    {
-      "url": "https://iranhrdc.org/the-massacre-of-political-prisoners-in-iran-1988/",
+      "url": "https://www.iranrights.org/library/document/1380/the-massacre-of-political-prisoners-in-iran-1988-report-of-an-inquiry",
       "title": "The Massacre of Political Prisoners in Iran, 1988",
       "date": "2009-08-01",
       "publisher": "Iran Human Rights Documentation Center"
     }
   ],
-  "tags": ["political-prisoner", "human-rights", "intelligence"],
+  "tags": [
+    "political-prisoner",
+    "human-rights",
+    "intelligence"
+  ],
   "editorial_notes": "~163 cadres executed. Kianouri and Tabari made televised confessions under torture. Party banned April 1983. Effectively ended communist politics inside Iran."
 }

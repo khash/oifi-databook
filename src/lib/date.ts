@@ -83,7 +83,7 @@ function wrapWithPersian(display: string, persian: string): string {
  */
 export function annotateDatesInHtml(html: string): string {
   // Split HTML into tags and text segments, only process text segments
-  return html.replace(/([^<]+)|(<[^>]+>)/g, (segment, text, tag) => {
+  return html.replace(/([^<]+)|(<[^>]+>)/g, (_segment, text, tag) => {
     if (tag) return tag // pass HTML tags through unchanged
     return annotateDatesInText(text)
   })

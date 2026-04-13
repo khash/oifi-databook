@@ -3,17 +3,10 @@
   "from_entity": "asadollah-badfar",
   "to_entity": "march-2026-strike-wave",
   "type": "subject-of",
-  "confidence": "confirmed",
+  "confidence": "alleged",
   "date_from": "2026-03",
   "date_to": "2026-03",
-  "evidence": [
-    {
-      "source_url": "https://www.tasnimnews.com/en/news/2026/03/09/3264000/funeral-held-for-basij-commander-badfar",
-      "source_title": "Funeral Held for Basij Commander Badfar",
-      "source_date": "2026-03-09",
-      "description": "Badfar was killed c.9 March 2026 in the March 2026 Strike Wave."
-    }
-  ],
+  "evidence": [],
   "intermediaries": [],
   "symmetric": false,
   "family_subtype": null,

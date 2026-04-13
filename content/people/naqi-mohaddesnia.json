@@ -11,15 +11,15 @@
   "faction": "hardliner",
   "bio": "Naqi Mohaddesnia served as head of Clergy Affairs for the [IRGC](/orgs/islamic-revolutionary-guard-corps) in East Azerbaijan Province. He was a clerical commissar figure within the IRGC — part of the ideological-political officer corps responsible for religious oversight and indoctrination. He was killed on 12 March 2026 during the [March 2026 Strike Wave](/events/march-2026-strike-wave).",
   "irgc_member": true,
-  "expertise": ["clerical oversight", "ideological-political affairs"],
-  "tags": ["killed-in-action", "military", "clerical"],
-  "sources": [
-    {
-      "url": "https://www.tasnimnews.com/en/news/2026/03/12/irgc-clergy-affairs-east-azerbaijan-killed",
-      "title": "IRGC Clergy Affairs Officer Killed in East Azerbaijan",
-      "date": "2026-03-12",
-      "publisher": "Tasnim News Agency"
-    }
+  "expertise": [
+    "clerical oversight",
+    "ideological-political affairs"
   ],
+  "tags": [
+    "killed-in-action",
+    "military",
+    "clerical"
+  ],
+  "sources": [],
   "editorial_notes": "Killed 12 March 2026. Clerical commissar role within IRGC provincial structure."
 }

@@ -6,17 +6,12 @@
   "confidence": "alleged",
   "date_from": null,
   "date_to": null,
-  "evidence": [
-    {
-      "source_url": "https://en.wikipedia.org/wiki/Mohsen_Pak-Aeen",
-      "source_title": "Mohsen Pak-Aeen",
-      "source_date": "2024-01-01",
-      "description": "Opposition sources allege that Pak-Aeen's ambassadorial postings involved MOIS liaison functions. This has not been independently verified."
-    }
-  ],
+  "evidence": [],
   "intermediaries": [],
   "symmetric": false,
   "family_subtype": null,
-  "tags": ["intelligence"],
+  "tags": [
+    "intelligence"
+  ],
   "editorial_notes": "Alleged by opposition sources only."
 }

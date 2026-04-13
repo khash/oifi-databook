@@ -3,17 +3,10 @@
   "from_entity": "hooshang-amirahmadi",
   "to_entity": "american-iranian-council",
   "type": "founded",
-  "confidence": "confirmed",
+  "confidence": "alleged",
   "date_from": "1990-01-01",
   "date_to": null,
-  "evidence": [
-    {
-      "source_url": "https://www.american-iranian.org/",
-      "source_title": "American Iranian Council — About",
-      "source_date": "2024-01-01",
-      "description": "Hooshang Amirahmadi is the founder and president of the American Iranian Council, which he established in 1990."
-    }
-  ],
+  "evidence": [],
   "intermediaries": [],
   "symmetric": false,
   "family_subtype": null,

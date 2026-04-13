@@ -3,17 +3,10 @@
   "from_entity": "ali-hashemi-irgc-isfahan",
   "to_entity": "march-2026-strike-wave",
   "type": "subject-of",
-  "confidence": "confirmed",
+  "confidence": "alleged",
   "date_from": "2026-03-08",
   "date_to": "2026-03-08",
-  "evidence": [
-    {
-      "source_url": "https://www.tasnimnews.com/en/news/2026/03/08/irgc-isfahan-commander-killed",
-      "source_title": "IRGC Isfahan Corps Commander Killed",
-      "source_date": "2026-03-08",
-      "description": "Hashemi killed 8 March 2026."
-    }
-  ],
+  "evidence": [],
   "intermediaries": [],
   "symmetric": false,
   "family_subtype": null,

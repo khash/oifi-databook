@@ -3,6 +3,7 @@ import { createPortal } from "react-dom"
 import { Badge } from "@/components/ui/badge"
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card"
 import { FactionSpectrum } from "@/components/FactionSpectrum"
+import type { Faction } from "@/lib/types"
 
 type EntitySummary =
   | {
@@ -87,7 +88,7 @@ function EntityCard({ summary }: { summary: EntitySummary }) {
         <div className="flex flex-wrap items-center gap-1.5">
           {summary.type === "person" && (
             <>
-              {summary.faction && <FactionSpectrum faction={summary.faction} />}
+              {summary.faction && <FactionSpectrum faction={summary.faction as Faction} />}
               {summary.irgc_member && (
                 <Badge variant="outline" className="text-[10px] font-normal px-1.5 h-4 border-green-600/40 text-green-700 dark:border-green-500/40 dark:text-green-400">
                   IRGC
@@ -164,14 +165,15 @@ export function EntityHoverCardEnhancer() {
   useEffect(() => {
     if (window.matchMedia("(pointer: coarse)").matches) return
 
+    const handleMouseEnter = (e: Event) => { void show(e as unknown as MouseEvent) }
     const els = document.querySelectorAll<HTMLAnchorElement>("a[data-entity-id]")
     els.forEach((el) => {
-      el.addEventListener("mouseenter", show as EventListener)
+      el.addEventListener("mouseenter", handleMouseEnter)
       el.addEventListener("mouseleave", hide)
     })
     return () => {
       els.forEach((el) => {
-        el.removeEventListener("mouseenter", show as EventListener)
+        el.removeEventListener("mouseenter", handleMouseEnter)
         el.removeEventListener("mouseleave", hide)
       })
     }

@@ -11,16 +11,17 @@
   "faction": "opposition",
   "irgc_member": false,
   "bio": "Mohammad Reza Heydari served as Iran's consul in Oslo, Norway. In January 2010, in the wake of the post-election crackdown following the [Green Movement protests](/events/green-movement-protests-2009), he publicly defected — resigning his position in protest at the Iranian government's violent suppression of the opposition. Heydari sought asylum in Norway, which was granted. He became one of the most significant open-source witnesses to the systematic embedding of MOIS officers inside Iranian diplomatic missions abroad, providing detailed testimony about the intelligence apparatus within Iranian consulates and embassies. His defection was extensively reported and he gave interviews to Western media outlets.",
-  "expertise": ["diplomacy", "intelligence"],
-  "tags": ["in-exile", "diplomacy", "intelligence", "green-movement"],
-  "photo": null,
-  "sources": [
-    {
-      "url": "https://www.bbc.co.uk/news/world-middle-east-10627898",
-      "title": "Iranian diplomat defects from Oslo consulate",
-      "date": "2010-01-07",
-      "publisher": "BBC"
-    }
+  "expertise": [
+    "diplomacy",
+    "intelligence"
   ],
+  "tags": [
+    "in-exile",
+    "diplomacy",
+    "intelligence",
+    "green-movement"
+  ],
+  "photo": null,
+  "sources": [],
   "editorial_notes": "Defected January 2010, Oslo. Asylum granted in Norway. Key open-source witness on MOIS embassy embedding."
 }

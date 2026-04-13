@@ -24,7 +24,7 @@ export function renderMarkdownWithEntities(
     async: false,
     gfm: true,
     renderer: {
-      link({ href, text: linkText }: { href: string; title: string | null; text: string }) {
+      link({ href, text: linkText }: { href: string; title?: string | null; text: string }) {
         const match = href?.match(/^\/(people|orgs|events)\/([^/?#]+)/)
         if (match) {
           const slug = match[2]

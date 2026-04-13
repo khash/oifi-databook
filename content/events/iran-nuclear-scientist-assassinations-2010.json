@@ -9,12 +9,6 @@
   "body": null,
   "sources": [
     {
-      "url": "https://www.bbc.com/news/world-middle-east-11871346",
-      "title": "Iran nuclear scientist Majid Shahriari killed in Tehran bomb attack",
-      "date": "2010-11-29",
-      "publisher": "BBC News"
-    },
-    {
       "url": "https://en.wikipedia.org/wiki/Assassination_of_Iranian_nuclear_scientists",
       "title": "Assassination of Iranian nuclear scientists — Wikipedia",
       "date": "2024-01-01",
@@ -27,6 +21,9 @@
       "publisher": "New York Times"
     }
   ],
-  "tags": ["nuclear", "assassinated"],
+  "tags": [
+    "nuclear",
+    "assassinated"
+  ],
   "editorial_notes": "Part of the broader 2010–2012 assassination campaign. Widely attributed to Mossad. Shahriari killed; Abbasi-Davani survived."
 }

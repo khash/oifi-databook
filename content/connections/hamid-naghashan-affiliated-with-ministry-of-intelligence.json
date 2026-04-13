@@ -6,17 +6,12 @@
   "confidence": "alleged",
   "date_from": null,
   "date_to": null,
-  "evidence": [
-    {
-      "source_url": "https://www.judiciary.be/",
-      "source_title": "Belgian Federal Prosecution — Assadi case",
-      "source_date": "2021-01-01",
-      "description": "Belgian and Austrian intelligence reporting names Hamid Naghashan as a MOIS officer who operated from the Iranian Embassy in Vienna in connection with the Assadollah Assadi network."
-    }
-  ],
+  "evidence": [],
   "intermediaries": [],
   "symmetric": false,
   "family_subtype": null,
-  "tags": ["intelligence"],
+  "tags": [
+    "intelligence"
+  ],
   "editorial_notes": "All connections alleged per Belgian/Austrian intelligence reporting."
 }

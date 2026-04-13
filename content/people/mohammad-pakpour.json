@@ -4,7 +4,10 @@
   "name_en": "Mohammad Pakpour",
   "name_fa": "محمد پاکپور",
   "has_native_fa_name": true,
-  "aliases": ["Major General Mohammad Pakpour", "IRGC Ground Forces Commander"],
+  "aliases": [
+    "Major General Mohammad Pakpour",
+    "IRGC Ground Forces Commander"
+  ],
   "born": 1961,
   "birthplace": "Iran",
   "died": "2026-02-28",
@@ -12,8 +15,16 @@
   "faction": "hardliner",
   "bio": "Major General Mohammad Pakpour was an [IRGC](/orgs/islamic-revolutionary-guard-corps) career officer who served as Commander of the IRGC Ground Forces from 2014 before being elevated to IRGC Commander-in-Chief following the death of [Hossein Salami](/people/hossein-salami) in June 2025. A veteran of the [Iran–Iraq War](/events/iran-iraq-war), Pakpour commanded cross-border IRGC operations against Kurdish opposition groups in Iraq and was closely associated with proxy force coordination. As IRGC Commander-in-Chief he oversaw the organisation during the highly degraded post-Twelve-Day War period, attempting to reconstitute command structures decimated by Israeli strikes. He was killed on 28 February 2026 in Israeli airstrikes as part of a sustained campaign targeting Iran's military leadership. His appointment had been confirmed by [Ali Khamenei](/people/ali-khamenei).",
   "irgc_member": true,
-  "expertise": ["ground forces", "proxy warfare", "IRGC doctrine"],
-  "tags": ["killed-in-action", "military", "deceased"],
+  "expertise": [
+    "ground forces",
+    "proxy warfare",
+    "IRGC doctrine"
+  ],
+  "tags": [
+    "killed-in-action",
+    "military",
+    "deceased"
+  ],
   "photo": null,
   "sources": [
     {
@@ -21,12 +32,6 @@
       "title": "Mohammad Pakpour — Wikipedia",
       "date": "2026-02-28",
       "publisher": "Wikipedia"
-    },
-    {
-      "url": "https://www.longwarjournal.org/archives/2026/02/iran-military-leadership-killed-february-strikes.php",
-      "title": "Iran military leadership killed in February strikes",
-      "date": "2026-02-28",
-      "publisher": "FDD's Long War Journal"
     }
   ],
   "editorial_notes": "Born year approximate. IRGC Ground Forces commander 2014–2025, then IRGC C-in-C until killed Feb 28 2026."

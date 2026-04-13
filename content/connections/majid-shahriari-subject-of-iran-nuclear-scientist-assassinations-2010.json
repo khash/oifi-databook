@@ -3,17 +3,10 @@
   "from_entity": "majid-shahriari",
   "to_entity": "iran-nuclear-scientist-assassinations-2010",
   "type": "subject-of",
-  "confidence": "confirmed",
+  "confidence": "alleged",
   "date_from": "2010-11-29",
   "date_to": "2010-11-29",
-  "evidence": [
-    {
-      "source_url": "https://www.bbc.com/news/world-middle-east-11871346",
-      "source_title": "Iran nuclear scientist Majid Shahriari killed in Tehran bomb attack",
-      "source_date": "2010-11-29",
-      "description": "Majid Shahriari was killed in a car-bombing in Tehran on 29 November 2010."
-    }
-  ],
+  "evidence": [],
   "intermediaries": [],
   "symmetric": false,
   "family_subtype": null,

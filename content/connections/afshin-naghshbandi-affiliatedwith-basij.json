@@ -3,17 +3,10 @@
   "from_entity": "afshin-naghshbandi",
   "to_entity": "basij",
   "type": "affiliated-with",
-  "confidence": "confirmed",
+  "confidence": "alleged",
   "date_from": null,
   "date_to": "2026-03-19",
-  "evidence": [
-    {
-      "source_url": "https://www.tasnimnews.com/en/news/2026/03/19/armed-forces-rep-basij-killed",
-      "source_title": "Armed Forces Representative to Basij Killed",
-      "source_date": "2026-03-19",
-      "description": "Naghshbandi was the Armed Forces Representative to the Basij."
-    }
-  ],
+  "evidence": [],
   "intermediaries": [],
   "symmetric": true,
   "family_subtype": null,

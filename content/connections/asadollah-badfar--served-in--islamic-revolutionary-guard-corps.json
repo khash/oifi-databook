@@ -3,17 +3,10 @@
   "from_entity": "asadollah-badfar",
   "to_entity": "islamic-revolutionary-guard-corps",
   "type": "served-in",
-  "confidence": "confirmed",
+  "confidence": "alleged",
   "date_from": null,
   "date_to": "2026-03",
-  "evidence": [
-    {
-      "source_url": "https://www.tasnimnews.com/en/news/2026/03/09/3264000/funeral-held-for-basij-commander-badfar",
-      "source_title": "Funeral Held for Basij Commander Badfar",
-      "source_date": "2026-03-09",
-      "description": "Basij Forces are under IRGC command; Badfar was an IRGC-affiliated commander."
-    }
-  ],
+  "evidence": [],
   "intermediaries": [],
   "symmetric": false,
   "family_subtype": null,

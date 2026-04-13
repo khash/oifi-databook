@@ -3,17 +3,10 @@
   "from_entity": "ebrahim-mortazavi-nasb",
   "to_entity": "march-2026-strike-wave",
   "type": "subject-of",
-  "confidence": "confirmed",
+  "confidence": "alleged",
   "date_from": "2026-03-22",
   "date_to": "2026-03-22",
-  "evidence": [
-    {
-      "source_url": "https://www.tasnimnews.com/en/news/2026/03/22/basij-shiraz-commander-killed",
-      "source_title": "Basij Shiraz Commander Killed",
-      "source_date": "2026-03-22",
-      "description": "Mortazavi-Nasb killed 22 March 2026."
-    }
-  ],
+  "evidence": [],
   "intermediaries": [],
   "symmetric": false,
   "family_subtype": null,

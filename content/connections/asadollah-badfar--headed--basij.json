@@ -3,17 +3,10 @@
   "from_entity": "asadollah-badfar",
   "to_entity": "basij",
   "type": "headed",
-  "confidence": "confirmed",
+  "confidence": "alleged",
   "date_from": null,
   "date_to": "2026-03",
-  "evidence": [
-    {
-      "source_url": "https://www.tasnimnews.com/en/news/2026/03/09/3264000/funeral-held-for-basij-commander-badfar",
-      "source_title": "Funeral Held for Basij Commander Badfar",
-      "source_date": "2026-03-09",
-      "description": "Asadollah Badfar served as head of the Basij Forces, killed in early March 2026."
-    }
-  ],
+  "evidence": [],
   "intermediaries": [],
   "symmetric": false,
   "family_subtype": null,

@@ -1,0 +1,15 @@
+{
+  "entity_id": "ministry-of-health",
+  "slug": "ministry-of-health",
+  "name_en": "Ministry of Health and Medical Education",
+  "name_fa": "وزارت بهداشت، درمان و آموزش پزشکی",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 1985,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Iran's Ministry of Health and Medical Education (Vezarat-e Behdasht, Darman va Amuzesh-e Pezeshki) is responsible for public health policy, medical education, pharmaceutical regulation, and the national healthcare system. It oversees medical universities across the country. Notable ministers include [Marzieh Vahid-Dastjerdi](/people/marzieh-vahid-dastjerdi) (2009–2012), who was the first female cabinet minister in the history of the Islamic Republic.",
+  "faction": null,
+  "tags": [],
+  "editorial_notes": "Created in 1985 by merging the Ministry of Health with the Ministry of Higher Education's medical education functions."
+}

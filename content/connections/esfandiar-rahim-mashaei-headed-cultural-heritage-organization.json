@@ -1,0 +1,21 @@
+{
+  "entity_id": "esfandiar-rahim-mashaei-headed-cultural-heritage-organization",
+  "from_entity": "esfandiar-rahim-mashaei",
+  "to_entity": "cultural-heritage-organization",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2005",
+  "date_to": "2009",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Esfandiar_Rahim_Mashaei",
+      "source_title": "Esfandiar Rahim Mashaei — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Head of Cultural Heritage, Handicrafts and Tourism Organization 2005-2009"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

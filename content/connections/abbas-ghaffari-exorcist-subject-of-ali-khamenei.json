@@ -1,0 +1,21 @@
+{
+  "entity_id": "abbas-ghaffari-exorcist-subject-of-ali-khamenei",
+  "from_entity": "abbas-ghaffari-exorcist",
+  "to_entity": "ali-khamenei",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2011",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://abcnews.go.com/International/iranian-president-ahmadinejad-allies-charged-black-magic-summoning/story?id=13561870",
+      "source_title": "Iranian President Linked to Black Magic, Summoning Genies",
+      "source_date": "2011-05-09",
+      "description": "Arrested as part of crackdown by clerical establishment loyal to Khamenei"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

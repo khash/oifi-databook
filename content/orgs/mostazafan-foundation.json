@@ -1,0 +1,15 @@
+{
+  "entity_id": "mostazafan-foundation",
+  "slug": "mostazafan-foundation",
+  "name_en": "Mostazafan Foundation",
+  "name_fa": "بنیاد مستضعفان",
+  "has_native_fa_name": true,
+  "type": "business",
+  "founded": 1979,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Mostazafan Foundation (Bonyad-e Mostazafan, Foundation of the Oppressed) is one of Iran's largest conglomerates, established after the 1979 revolution to manage assets confiscated from the Pahlavi regime. It operates under the supervision of the Supreme Leader and controls hundreds of companies across manufacturing, agriculture, construction, tourism, and finance. Headed by [Parviz Fattah](/people/parviz-fattah) from 2019 to 2023.",
+  "faction": null,
+  "tags": [],
+  "editorial_notes": "One of Iran's largest bonyads. Reports directly to the Supreme Leader. Estimated to control billions in assets."
+}

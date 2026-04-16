@@ -1,0 +1,23 @@
+{
+  "entity_id": "cultural-heritage-organization",
+  "slug": "cultural-heritage-organization",
+  "name_en": "Cultural Heritage, Handicrafts and Tourism Organization",
+  "name_fa": "سازمان میراث فرهنگی، صنایع دستی و گردشگری",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 1986,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Iran's government agency responsible for cultural heritage preservation, handicrafts promotion, and tourism development. During the [Ahmadinejad](/people/mahmoud-ahmadinejad) presidency, it became a power base for [Esfandiar Rahim Mashaei](/people/esfandiar-rahim-mashaei) and his associates, who used the organization to promote Iranian nationalist ideology. Successive heads from Ahmadinejad's inner circle — Mashaei (2005–2009), [Hamid Baghaei](/people/hamid-baghaei) (2009–2011), and [Mohammad Sharif Malekzadeh](/people/mohammad-sharif-malekzadeh) (2012–2013) — reinforced its role as a factional stronghold.",
+  "faction": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Cultural_Heritage,_Handicrafts_and_Tourism_Organization_of_Iran",
+      "title": "Cultural Heritage, Handicrafts and Tourism Organization — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": ["executive"],
+  "editorial_notes": "Renamed/restructured multiple times. Currently called Ministry of Cultural Heritage, Tourism and Handicrafts (elevated to ministry status 2019)."
+}

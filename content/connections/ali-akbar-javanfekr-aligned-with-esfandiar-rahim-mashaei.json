@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-akbar-javanfekr-aligned-with-esfandiar-rahim-mashaei",
+  "from_entity": "ali-akbar-javanfekr",
+  "to_entity": "esfandiar-rahim-mashaei",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Akbar_Javanfekr",
+      "source_title": "Ali Akbar Javanfekr — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Part of Mashaei's 'deviant current' faction within Ahmadinejad administration"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

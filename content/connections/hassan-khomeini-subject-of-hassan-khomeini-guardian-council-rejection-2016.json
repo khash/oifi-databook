@@ -1,0 +1,21 @@
+{
+  "entity_id": "hassan-khomeini-subject-of-hassan-khomeini-guardian-council-rejection-2016",
+  "from_entity": "hassan-khomeini",
+  "to_entity": "hassan-khomeini-guardian-council-rejection-2016",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2016-02-10",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://iranprimer.usip.org/blog/2015/dec/18/khomeini-grandson-enters-politics",
+      "source_title": "Khomeini Grandson Disqualified in Elections — The Iran Primer",
+      "source_date": "2015-12-18",
+      "description": "Hassan Khomeini was disqualified from running for Assembly of Experts"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

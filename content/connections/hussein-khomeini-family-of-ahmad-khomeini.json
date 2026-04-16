@@ -1,0 +1,21 @@
+{
+  "entity_id": "hussein-khomeini-family-of-ahmad-khomeini",
+  "from_entity": "hussein-khomeini",
+  "to_entity": "ahmad-khomeini",
+  "type": "family-of",
+  "family_subtype": "sibling",
+  "symmetric": true,
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Khomeini_family",
+      "source_title": "Khomeini family — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Hussein Khomeini (son of Mostafa) is the nephew of Ahmad Khomeini (Mostafa's brother). Using sibling as closest available subtype for cousin/uncle-nephew."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": "Actually uncle-nephew relation (Ahmad was Mostafa's brother, Hussein is Mostafa's son). Using sibling as approximate subtype."
+}

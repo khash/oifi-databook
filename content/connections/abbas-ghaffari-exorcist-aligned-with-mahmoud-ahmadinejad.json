@@ -1,0 +1,21 @@
+{
+  "entity_id": "abbas-ghaffari-exorcist-aligned-with-mahmoud-ahmadinejad",
+  "from_entity": "abbas-ghaffari-exorcist",
+  "to_entity": "mahmoud-ahmadinejad",
+  "type": "aligned-with",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": "2011",
+  "evidence": [
+    {
+      "source_url": "https://abcnews.go.com/International/iranian-president-ahmadinejad-allies-charged-black-magic-summoning/story?id=13561870",
+      "source_title": "Iranian President Linked to Black Magic, Summoning Genies",
+      "source_date": "2011-05-09",
+      "description": "Described as spiritual adviser in Ahmadinejad's inner circle"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

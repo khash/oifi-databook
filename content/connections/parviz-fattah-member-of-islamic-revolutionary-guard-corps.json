@@ -1,0 +1,21 @@
+{
+  "entity_id": "parviz-fattah-member-of-islamic-revolutionary-guard-corps",
+  "from_entity": "parviz-fattah",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.ifmat.org/04/26/parviz-fatah/",
+      "source_title": "Parviz Fatah — IFMAT",
+      "source_date": "2024-01-01",
+      "description": "Former IRGC member, deputy commander of Khatam al-Anbiya"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

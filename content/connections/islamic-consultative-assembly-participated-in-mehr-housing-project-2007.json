@@ -1,0 +1,21 @@
+{
+  "entity_id": "islamic-consultative-assembly-participated-in-mehr-housing-project-2007",
+  "from_entity": "islamic-consultative-assembly",
+  "to_entity": "mehr-housing-project-2007",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://ifpnews.com/irans-parliament-votes-to-end-ahmadinejads-mehr-mass-housing-project/",
+      "source_title": "Iran's Parliament Votes To End Ahmadinejad's 'Mehr' Mass Housing Project",
+      "source_date": "2017-01-01",
+      "description": "Majlis voted to halt new construction under the Sixth Five-Year Development Plan"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

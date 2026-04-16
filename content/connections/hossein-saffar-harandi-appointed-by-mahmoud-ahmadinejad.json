@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-saffar-harandi-appointed-by-mahmoud-ahmadinejad",
+  "from_entity": "hossein-saffar-harandi",
+  "to_entity": "mahmoud-ahmadinejad",
+  "type": "appointed-by",
+  "confidence": "confirmed",
+  "date_from": "2005",
+  "date_to": "2009-07",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hossein_Saffar_Harandi",
+      "source_title": "Hossein Saffar Harandi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Appointed Minister of Culture and Islamic Guidance by Ahmadinejad in 2005, removed 26 Jul 2009"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

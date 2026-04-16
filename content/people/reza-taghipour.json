@@ -1,0 +1,32 @@
+{
+  "entity_id": "reza-taghipour",
+  "slug": "reza-taghipour",
+  "name_en": "Reza Taghipour",
+  "name_fa": "رضا تقی‌پور انوری",
+  "has_native_fa_name": true,
+  "aliases": ["Reza Taghipour Anvari"],
+  "born": 1957,
+  "birthplace": "Maragheh, Iran",
+  "role": "Minister of Communications and Information Technology (2009-2012); principlist politician; EU-sanctioned for internet censorship",
+  "faction": "hardliner",
+  "bio": "Reza Taghipour Anvari is an Iranian principlist politician who served as Minister of Communications and Information Technology in [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad)'s second cabinet from 2009 to 2012.\n\nAs minister, Taghipour oversaw the [Ministry of Communications](/orgs/ministry-of-communications) during one of the most repressive periods for communications freedom in Iran. His ministry cut off mobile phone and SMS services the day before the [2009 presidential election](/events/presidential-election-iran-2009) for 40 days, blocked social media networks, and jammed satellite television broadcasts during the [Green Movement protests](/events/green-movement-protests-2009).\n\nThe European Union sanctioned Taghipour on 23 March 2012 for his role in excessive censorship, imposing a visa ban and asset freeze. His tenure saw the development of Iran's National Information Network, a state-controlled domestic internet infrastructure designed to enable further filtering of international content.",
+  "irgc_member": false,
+  "expertise": [],
+  "tags": ["executive", "sanctions"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Reza_Taghipour",
+      "title": "Reza Taghipour — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.opensanctions.org/entities/Q4392343/",
+      "title": "Reza Taghipour — OpenSanctions",
+      "date": "2024-01-01",
+      "publisher": "OpenSanctions"
+    }
+  ],
+  "editorial_notes": "Born 1957 in Maragheh. EU sanctioned March 2012 for censorship. Not confirmed IRGC member despite some reports of affiliation."
+}

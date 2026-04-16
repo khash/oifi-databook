@@ -1,0 +1,21 @@
+{
+  "entity_id": "ruhollah-khomeini-affiliated-with-hassan-khomeini-guardian-council-rejection-2016",
+  "from_entity": "ruhollah-khomeini",
+  "to_entity": "hassan-khomeini-guardian-council-rejection-2016",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://iranprimer.usip.org/blog/2015/dec/18/khomeini-grandson-enters-politics",
+      "source_title": "Khomeini Grandson Disqualified in Elections — The Iran Primer",
+      "source_date": "2015-12-18",
+      "description": "Hassan Khomeini is the grandson of Ruhollah Khomeini; referenced in event description"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

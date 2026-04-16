@@ -1,0 +1,32 @@
+{
+  "entity_id": "hamid-baghaei",
+  "slug": "hamid-baghaei",
+  "name_en": "Hamid Baghaei",
+  "name_fa": "حمید بقایی",
+  "has_native_fa_name": true,
+  "aliases": ["Hamidreza Baghaei", "Hamid Reza Baghaei"],
+  "born": null,
+  "birthplace": null,
+  "role": "VP for Cultural Heritage (2009–2011); VP for Executive Affairs (2011–2013)",
+  "faction": "hardliner",
+  "bio": "Hamid Baghaei was a close confidant of President [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad) and a former intelligence officer who served in two vice-presidential roles during the second Ahmadinejad term. He succeeded [Esfandiar Rahim Mashaei](/people/esfandiar-rahim-mashaei) as head of the [Cultural Heritage, Handicrafts and Tourism Organization](/orgs/cultural-heritage-organization) from 2009 to 2011, then moved to the position of Vice President for Executive Affairs (2011–2013), where he supervised the presidential administration.\n\nBaghaei was arrested in June 2015 and subsequently sentenced to 63 years in prison — later reduced to 15 years — for embezzlement, misuse of public funds, and illegal business transactions. Prosecutors alleged he deposited government funds into personal accounts for construction of a private university and profited from commercial deals on Kish Island. Baghaei maintained his innocence and went on a hunger strike in 2018, alleging the sentence was judicial revenge for his criticisms of Iran's judiciary.",
+  "irgc_member": false,
+  "expertise": ["cultural heritage", "intelligence", "executive management"],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Hamid_Baghaei",
+      "title": "Hamid Baghaei — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://en.radiofarda.com/a/iran-jails-ahmadinejad-vice-president-corruption/29097818.html",
+      "title": "Iran Jails Ahmadinejad's Vice President For Corruption",
+      "date": "2018-03-13",
+      "publisher": "Radio Farda"
+    }
+  ],
+  "tags": ["executive", "political-prisoner"],
+  "photo": null,
+  "editorial_notes": "Former intelligence officer. Arrested June 2015. Initially sentenced to 63 years, reduced to 15 years. Hunger strike 2018."
+}

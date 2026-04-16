@@ -1,0 +1,21 @@
+{
+  "entity_id": "mojtaba-samareh-hashemi-aligned-with-mohammad-taqi-mesbah-yazdi",
+  "from_entity": "mojtaba-samareh-hashemi",
+  "to_entity": "mohammad-taqi-mesbah-yazdi",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mojtaba_Samareh_Hashemi",
+      "source_title": "Mojtaba Samareh Hashemi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Dedicated student and protege of Mesbah-Yazdi; sponsored by him for Foreign Ministry position"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

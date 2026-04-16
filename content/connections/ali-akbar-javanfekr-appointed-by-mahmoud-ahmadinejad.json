@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-akbar-javanfekr-appointed-by-mahmoud-ahmadinejad",
+  "from_entity": "ali-akbar-javanfekr",
+  "to_entity": "mahmoud-ahmadinejad",
+  "type": "appointed-by",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2013",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Akbar_Javanfekr",
+      "source_title": "Ali Akbar Javanfekr — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Presidential press adviser under Ahmadinejad"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohsen-kharrazi-family-of-ali-khamenei",
+  "from_entity": "mohsen-kharrazi",
+  "to_entity": "ali-khamenei",
+  "type": "family-of",
+  "symmetric": true,
+  "family_subtype": "in-law",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Khamenei_family",
+      "source_title": "Khamenei family — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Kharrazi's daughter married Masoud Khamenei, son of Ali Khamenei, making the two families related by marriage."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": "Co-fathers-in-law (Kharrazi's daughter married Khamenei's son Masoud)."
+}

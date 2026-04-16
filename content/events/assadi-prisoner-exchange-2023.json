@@ -1,0 +1,31 @@
+{
+  "entity_id": "assadi-prisoner-exchange-2023",
+  "slug": "assadi-prisoner-exchange-2023",
+  "name": "Assadi Prisoner Exchange",
+  "date": "2023-05-26",
+  "type": "policy",
+  "description": "On 26 May 2023, Belgium and Iran conducted a prisoner exchange brokered by Oman. Belgium released [Assadollah Assadi](/people/assadollah-assadi), a senior [Ministry of Intelligence](/orgs/ministry-of-intelligence) (MOIS) officer convicted in 2021 by a Belgian court of planning a thwarted bomb attack against a [Mojahedin-e Khalq](/orgs/mojahedin-e-khalq) (MEK) rally in Villepinte, France, in 2018. Assadi had been sentenced to 20 years in prison. In exchange, Iran freed Belgian aid worker Olivier Vandecasteele, who had been sentenced to 40 years, 74 lashes, and a $1 million fine on espionage charges.\n\nThe exchange drew widespread international condemnation. The [National Council of Resistance of Iran](/orgs/national-council-of-resistance-of-iran) accused Belgium of paying a 'shameful ransom to terrorism and hostage-taking,' warning it would embolden Iran's hostage diplomacy. Belgium had passed a controversial bilateral treaty with Iran in 2022 specifically to enable the transfer.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://www.aljazeera.com/news/2023/5/26/iran-frees-jailed-belgian-aid-worker",
+      "title": "Iran, Belgium conduct prisoner swap freeing aid worker, diplomat",
+      "date": "2023-05-26",
+      "publisher": "Al Jazeera"
+    },
+    {
+      "url": "https://www.voanews.com/a/belgian-aid-worker-iranian-diplomat-freed-in-prisoner-swap/7110353.html",
+      "title": "Belgian Aid Worker, Iranian Diplomat Freed in Prisoner Swap",
+      "date": "2023-05-26",
+      "publisher": "Voice of America"
+    },
+    {
+      "url": "https://iranfreedom.org/en/articles/2023/05/iranian-diplomat-terrorist-assadollah-assadi-released-in-controversial-prisoner-swap-by-belgian-government/45974/",
+      "title": "Iranian Diplomat-Terrorist Assadollah Assadi Released in Controversial Prisoner Swap",
+      "date": "2023-05-26",
+      "publisher": "Iran Freedom"
+    }
+  ],
+  "tags": ["intelligence", "diplomacy"],
+  "editorial_notes": "Belgium released Assadi (20-year sentence for Villepinte bomb plot) in exchange for Belgian aid worker Vandecasteele. Brokered by Oman."
+}

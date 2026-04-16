@@ -1,0 +1,19 @@
+{
+  "entity_id": "tamir-pardo-directed-iran-nuclear-scientist-assassinations-2010",
+  "from_entity": "tamir-pardo",
+  "to_entity": "iran-nuclear-scientist-assassinations-2010",
+  "type": "directed",
+  "confidence": "alleged",
+  "date_from": "2011",
+  "date_to": "2012",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Tamir_Pardo",
+      "source_title": "Tamir Pardo — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "As Mossad director from 2011, Pardo continued the covert campaign against Iran's nuclear programme. Assassinations of Iranian nuclear scientists Darioush Rezaeinejad (July 2011) and Mostafa Ahmadi-Roshan (January 2012) occurred during his tenure."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": "Attribution is widely alleged but not officially confirmed by Israel."
+}

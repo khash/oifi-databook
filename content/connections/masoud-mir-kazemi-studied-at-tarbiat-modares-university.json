@@ -1,0 +1,21 @@
+{
+  "entity_id": "masoud-mir-kazemi-studied-at-tarbiat-modares-university",
+  "from_entity": "masoud-mir-kazemi",
+  "to_entity": "tarbiat-modares-university",
+  "type": "studied-at",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "1996",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Seyyed_Masoud_Mirkazemi",
+      "source_title": "Masoud Mir Kazemi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "PhD in industrial engineering from Tarbiat Modares University (1996)"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

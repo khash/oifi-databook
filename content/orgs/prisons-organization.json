@@ -1,0 +1,15 @@
+{
+  "entity_id": "prisons-organization",
+  "slug": "prisons-organization",
+  "name_en": "State Prisons Organization",
+  "name_fa": "سازمان زندان‌ها",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 1979,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The State Prisons Organization of Iran manages the country's prison system. [Morteza Bakhtiari](/people/morteza-bakhtiari) served as head from 1999 to 2004, a period marked by severe criticism of prison conditions and mistreatment of political prisoners. The organization operates under the judiciary.",
+  "faction": null,
+  "tags": ["judiciary", "human-rights"],
+  "editorial_notes": "Operates under the Judiciary, not the executive branch."
+}

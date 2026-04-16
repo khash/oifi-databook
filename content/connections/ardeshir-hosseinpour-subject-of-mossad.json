@@ -1,0 +1,19 @@
+{
+  "entity_id": "ardeshir-hosseinpour-subject-of-mossad",
+  "from_entity": "ardeshir-hosseinpour",
+  "to_entity": "mossad",
+  "type": "subject-of",
+  "confidence": "alleged",
+  "date_from": "2007-01-15",
+  "date_to": "2007-01-15",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ardeshir_Hosseinpour",
+      "source_title": "Ardeshir Hosseinpour — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Stratfor reported in February 2007 that Hosseinpour was killed by Mossad via radiation poisoning. Mossad officials denied the claim."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": "Disputed. Stratfor alleges Mossad killed him; Mossad denies it; his sister blames IRGC."
+}

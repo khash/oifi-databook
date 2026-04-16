@@ -1,0 +1,19 @@
+{
+  "entity_id": "abdol-rahman-banihashemi-participated-in-mykonos-restaurant-assassination-1992",
+  "from_entity": "abdol-rahman-banihashemi",
+  "to_entity": "mykonos-restaurant-assassination-1992",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1992-09-17",
+  "date_to": "1992-09-17",
+  "evidence": [
+    {
+      "source_url": "https://iranhrdc.org/murder-at-mykonos-anatomy-of-a-political-assassination/",
+      "source_title": "Murder at Mykonos: Anatomy of a Political Assassination",
+      "source_date": "2006-01-01",
+      "description": "Banihashemi led the attack team and served as one of the two gunmen in the Mykonos restaurant assassination. He escaped Germany after the attack and has an outstanding arrest warrant."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

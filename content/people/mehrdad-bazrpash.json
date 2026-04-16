@@ -1,0 +1,32 @@
+{
+  "entity_id": "mehrdad-bazrpash",
+  "slug": "mehrdad-bazrpash",
+  "name_en": "Mehrdad Bazrpash",
+  "name_fa": "مهرداد بذرپاش",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1980,
+  "birthplace": "Iran",
+  "role": "VP and head of National Youth Organization (2009-2010); Minister of Roads and Urban Development under Raisi (2022-2024); former CEO of SAIPA",
+  "faction": "hardliner",
+  "bio": "Mehrdad Bazrpash is an Iranian principlist politician who served as Vice President and head of the National Youth Organization under [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad) from 2009 to 2010, and later as Minister of Roads and Urban Development in [Ebrahim Raisi](/people/ebrahim-raisi)'s cabinet from 2022 to 2024.\n\nBazrpash was formerly CEO of SAIPA and Pars Khodro, two of Iran's largest automakers. He served as a member of parliament and was appointed President of the Supreme Audit Court from 2020 to 2022.\n\nAs [Minister of Roads](/orgs/ministry-of-roads), Bazrpash was aboard one of the three helicopters in Raisi's convoy during the May 2024 trip to inaugurate a dam on the Azerbaijan border. President Raisi's helicopter crashed in that incident, killing all aboard, though Bazrpash was in a separate aircraft that landed safely.",
+  "irgc_member": false,
+  "expertise": [],
+  "tags": ["executive"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mehrdad_Bazrpash",
+      "title": "Mehrdad Bazrpash — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://ifpnews.com/mehrdad-bazrpash-iran-minister-of-roads-urban-development/",
+      "title": "Mehrdad Bazrpash Named Iran's Minister Of Roads — Iran Front Page",
+      "date": "2022-12-01",
+      "publisher": "Iran Front Page"
+    }
+  ],
+  "editorial_notes": "Born ~1980. Former CEO of SAIPA and Pars Khodro. Supreme Audit Court president 2020-2022. Was in Raisi's helicopter convoy May 2024 but survived."
+}

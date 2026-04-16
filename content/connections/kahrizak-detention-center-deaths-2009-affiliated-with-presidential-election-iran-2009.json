@@ -1,0 +1,21 @@
+{
+  "entity_id": "kahrizak-detention-center-deaths-2009-affiliated-with-presidential-election-iran-2009",
+  "from_entity": "kahrizak-detention-center-deaths-2009",
+  "to_entity": "presidential-election-iran-2009",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Kahrizak_Detention_Center",
+      "source_title": "Kahrizak Detention Center — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Kahrizak abuses followed the disputed June 2009 presidential election"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

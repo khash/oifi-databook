@@ -1,0 +1,38 @@
+{
+  "entity_id": "hossein-saffar-harandi",
+  "slug": "hossein-saffar-harandi",
+  "name_en": "Hossein Saffar Harandi",
+  "name_fa": "محمدحسین صفار هرندی",
+  "has_native_fa_name": true,
+  "aliases": ["Mohammad-Hossein Saffar-Harandi", "Saffar-Harandi"],
+  "born": 1953,
+  "birthplace": null,
+  "role": "Minister of Culture and Islamic Guidance (2005–2009); former IRGC member; deputy editor of Kayhan newspaper; hardliner ideologue",
+  "faction": "hardliner",
+  "bio": "Hossein Saffar Harandi is an Iranian politician and former [IRGC](/orgs/islamic-revolutionary-guard-corps) member who served as Minister of Culture and Islamic Guidance from 2005 to 2009 under [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad). A hardline ideologue, he was previously deputy editor of the [Kayhan](/orgs/kayhan-newspaper) newspaper and one of the closest allies of Supreme Leader [Ali Khamenei](/people/ali-khamenei).\n\nAs head of the [Ministry of Culture](/orgs/ministry-of-culture), Saffar Harandi imposed severe press restrictions, shutting down numerous publications and vowing to purge Iran's cultural scene of what he called \"unhealthy products.\" He banned Iranian journalists from working for BBC Persian TV and tightened censorship regulations on book publishing. Writers and publishers reported that censorship became significantly stricter under his tenure.\n\nIn his writings at Kayhan, Saffar Harandi condemned democracy as a Western governing model and described pluralism as an \"effective weapon of the West\" for cultural invasion of the Islamic world. He was removed from office on 26 July 2009.",
+  "irgc_member": true,
+  "expertise": ["media", "cultural policy"],
+  "tags": ["executive", "human-rights"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Hossein_Saffar_Harandi",
+      "title": "Hossein Saffar Harandi — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.washingtoninstitute.org/policy-analysis/tehrans-renewed-war-culture",
+      "title": "Tehran's Renewed War on Culture",
+      "date": "2007-01-01",
+      "publisher": "Washington Institute"
+    },
+    {
+      "url": "https://www.rferl.org/a/1072428.html",
+      "title": "Iran: Writers, Publishers Warn Of Industry Clampdown",
+      "date": "2006-01-01",
+      "publisher": "RFE/RL"
+    }
+  ],
+  "editorial_notes": "Born 29 Sep 1953. Full name Mohammad-Hossein Saffar-Harandi. IRGC veteran. Close Khamenei ally. Deputy editor at Kayhan under Hossein Shariatmadari. Removed 26 Jul 2009."
+}

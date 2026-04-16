@@ -1,0 +1,32 @@
+{
+  "entity_id": "mohammad-mehdi-zahedi",
+  "slug": "mohammad-mehdi-zahedi",
+  "name_en": "Mohammad Mehdi Zahedi",
+  "name_fa": "محمدمهدی زاهدی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1953,
+  "birthplace": "Kerman, Iran",
+  "role": "Minister of Science, Research and Technology (2005-2009); oversaw purges of reformist university professors",
+  "faction": "hardliner",
+  "bio": "Mohammad Mehdi Zahedi is an Iranian politician who served as Minister of Science, Research and Technology in [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad)'s first cabinet from 2005 to 2009.\n\nAs head of the [Ministry of Science](/orgs/ministry-of-science), Zahedi oversaw a systematic campaign to purge reformist professors from Iranian universities and expel politically active students. In 2006, the ministry forced numerous scientists and university professors to resign or retire in what critics described as a \"second cultural revolution.\" Zahedi expelled dozens of politically active students by refusing to re-enroll them for the Fall 2006 academic year and appointed several clerics with no academic degrees as university chancellors, most prominently at Tehran University.\n\nFollowing [Ali Khamenei](/people/ali-khamenei)'s August 2009 speech criticizing social science curricula as Western-influenced, Zahedi announced plans to revise social sciences programs across Iranian universities.",
+  "irgc_member": false,
+  "expertise": [],
+  "tags": ["executive", "human-rights"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mohammad_Mehdi_Zahedi",
+      "title": "Mohammad Mehdi Zahedi — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.atlanticcouncil.org/blogs/iransource/irgc-entity-professors-basij-organization-iran/",
+      "title": "Meet the secret IRGC entity purging university professors in Iran — Atlantic Council",
+      "date": "2024-01-01",
+      "publisher": "Atlantic Council"
+    }
+  ],
+  "editorial_notes": "Born 1953 in Kerman. Oversaw 'second cultural revolution' purges at universities 2006. Appointed clerics as university chancellors."
+}

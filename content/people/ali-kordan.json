@@ -1,0 +1,32 @@
+{
+  "entity_id": "ali-kordan",
+  "slug": "ali-kordan",
+  "name_en": "Ali Kordan",
+  "name_fa": "علی کردان",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1956,
+  "birthplace": null,
+  "role": "Interior Minister of Iran (August–November 2008); impeached for forged Oxford degree",
+  "faction": "hardliner",
+  "bio": "Ali Kordan served as Interior Minister of Iran for approximately 90 days in 2008 under President [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad). During his parliamentary confidence vote on 5 August 2008, Kordan presented what he claimed was an honorary doctorate from Oxford University. Oxford confirmed the diploma was a forgery, complete with spelling errors.\n\nOn 27 September 2008, Kordan admitted in a letter to Ahmadinejad that the degree was fake, claiming he had been deceived by someone posing as an Oxford representative in Tehran. It was later revealed he had also fabricated bachelor's and master's degrees from [Islamic Azad University](/orgs/islamic-azad-university). On 4 November 2008, the Majlis voted 188–14 to impeach him — only the second minister impeachment in the Islamic Republic's history. Ahmadinejad described Kordan as a 'victim' and resisted the impeachment.\n\nKordan died in 2013.",
+  "irgc_member": false,
+  "expertise": [],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ali_Kordan",
+      "title": "Ali Kordan — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.cnn.com/2008/WORLD/meast/11/04/iran.impeachment/index.html",
+      "title": "Iran minister impeached over faked degree",
+      "date": "2008-11-04",
+      "publisher": "CNN"
+    }
+  ],
+  "tags": ["executive", "deceased"],
+  "photo": null,
+  "editorial_notes": "Born ~1956. Died 2013. Impeached 4 November 2008 by vote of 188-14. Only served ~90 days as Interior Minister."
+}

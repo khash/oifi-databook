@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-hosseini-appointed-by-ebrahim-raisi",
+  "from_entity": "mohammad-hosseini",
+  "to_entity": "ebrahim-raisi",
+  "type": "appointed-by",
+  "confidence": "confirmed",
+  "date_from": "2021",
+  "date_to": "2024",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Hosseini_(politician)",
+      "source_title": "Mohammad Hosseini (politician) — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Hosseini served as VP for Parliamentary Affairs in Raisi's cabinet from 2021 to 2024."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "parviz-davoodi-affiliated-with-shahid-beheshti-university",
+  "from_entity": "parviz-davoodi",
+  "to_entity": "shahid-beheshti-university",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Parviz_Davoodi",
+      "source_title": "Parviz Davoodi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Professor of economics at Shahid Beheshti University"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

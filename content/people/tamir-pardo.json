@@ -1,0 +1,32 @@
+{
+  "entity_id": "tamir-pardo",
+  "slug": "tamir-pardo",
+  "name_en": "Tamir Pardo",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "aliases": [],
+  "born": "1953-03-24",
+  "birthplace": "Tel Aviv, Israel",
+  "role": "Director of the Mossad (2011–2016); oversaw covert operations against Iran's nuclear programme",
+  "faction": null,
+  "bio": "Tamir Pardo is a former director of [Mossad](/orgs/mossad), Israel's national intelligence agency, serving from January 2011 to January 2016. He began his military career in 1971 with the Israel Defense Forces, serving in the elite Sayeret Matkal unit. He was the personal radio operator to Lt. Col. Yonatan Netanyahu during the 1976 Entebbe Raid and later helped found the Israeli Air Force's Shaldag special operations unit.\n\nPardo joined the Mossad in 1979, eventually heading the Keshet department responsible for operations and electronic intelligence. As Mossad director, he continued the covert campaign against Iran's nuclear programme initiated by his predecessor Meir Dagan. His tenure coincided with the [assassinations of Iranian nuclear scientists](/events/iran-nuclear-scientist-assassinations-2010), including Darioush Rezaeinejad (July 2011) and Mostafa Ahmadi-Roshan (January 2012).\n\nIn a 2018 interview with Haaretz, Pardo revealed that in 2011 Prime Minister Netanyahu ordered the Mossad and IDF to prepare for an attack on Iran within 15 days, but Pardo and Chief of Staff Benny Gantz questioned Netanyahu's legal authority to issue such an order without cabinet approval, causing the plan to be shelved. After retiring from the Mossad, Pardo co-founded XM Cyber, a cybersecurity firm.",
+  "irgc_member": false,
+  "expertise": ["intelligence", "covert-operations"],
+  "tags": ["intelligence"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Tamir_Pardo",
+      "title": "Tamir Pardo — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.unitedagainstnucleariran.com/people/tamir-pardo",
+      "title": "Tamir Pardo — UANI",
+      "date": "2024-01-01",
+      "publisher": "United Against Nuclear Iran"
+    }
+  ],
+  "editorial_notes": "Israeli national. Mossad director 2011-2016. Key figure in covert campaign against Iran's nuclear programme. No native Farsi name."
+}

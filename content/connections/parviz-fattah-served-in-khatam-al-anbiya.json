@@ -1,0 +1,21 @@
+{
+  "entity_id": "parviz-fattah-served-in-khatam-al-anbiya",
+  "from_entity": "parviz-fattah",
+  "to_entity": "khatam-al-anbiya",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Parviz_Fattah",
+      "source_title": "Parviz Fattah — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Deputy commander of Khatam al-Anbiya construction conglomerate after leaving energy ministry"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

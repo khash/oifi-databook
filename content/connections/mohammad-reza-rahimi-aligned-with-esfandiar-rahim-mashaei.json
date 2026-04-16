@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-reza-rahimi-aligned-with-esfandiar-rahim-mashaei",
+  "from_entity": "mohammad-reza-rahimi",
+  "to_entity": "esfandiar-rahim-mashaei",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Reza_Rahimi",
+      "source_title": "Mohammad Reza Rahimi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Replaced Mashaei as First VP after Khamenei vetoed Mashaei's appointment"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

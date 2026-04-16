@@ -1,0 +1,21 @@
+{
+  "entity_id": "shamseddin-hosseini-headed-ministry-of-economy",
+  "from_entity": "shamseddin-hosseini",
+  "to_entity": "ministry-of-economy",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2008",
+  "date_to": "2013",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Shamseddin_Hosseini",
+      "source_title": "Shamseddin Hosseini — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Minister of Economic Affairs and Finance 2008-2013"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

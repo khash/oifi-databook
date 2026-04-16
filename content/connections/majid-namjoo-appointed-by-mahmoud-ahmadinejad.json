@@ -1,0 +1,21 @@
+{
+  "entity_id": "majid-namjoo-appointed-by-mahmoud-ahmadinejad",
+  "from_entity": "majid-namjoo",
+  "to_entity": "mahmoud-ahmadinejad",
+  "type": "appointed-by",
+  "confidence": "confirmed",
+  "date_from": "2009-08",
+  "date_to": "2013-08",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Majid_Namjoo",
+      "source_title": "Majid Namjoo — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Appointed Minister of Energy in Ahmadinejad's second cabinet Aug 2009"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

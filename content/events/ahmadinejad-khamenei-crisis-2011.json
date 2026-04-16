@@ -1,0 +1,25 @@
+{
+  "entity_id": "ahmadinejad-khamenei-crisis-2011",
+  "slug": "ahmadinejad-khamenei-crisis-2011",
+  "name": "Ahmadinejad–Khamenei Crisis",
+  "date": "2011-04-17",
+  "type": "purge",
+  "description": "On 17 April 2011, President [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad) fired Intelligence Minister [Heydar Moslehi](/people/heydar-moslehi), a close ally of Supreme Leader [Ali Khamenei](/people/ali-khamenei). Within hours, Khamenei issued an order reinstating Moslehi — a direct and public rebuke of the president. Ahmadinejad responded by boycotting cabinet meetings for eleven days, refusing to attend official functions. The crisis stemmed partly from Moslehi's role in exposing a major banking scandal linked to Ahmadinejad allies and from intelligence investigations into the heterodox messianic circle around Esfandiar Rahim Mashaei, Ahmadinejad's chief of staff. The standoff ended after Ahmadinejad was given an ultimatum to accept Khamenei's intervention or resign. The episode demonstrated the Supreme Leader's constitutional supremacy over the elected president and marked the beginning of Ahmadinejad's political marginalisation.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://www.aei.org/research-products/report/ahmadinejad-versus-khamenei-irgc-wins-civilians-lose/",
+      "title": "Ahmadinejad Versus Khamenei: IRGC Wins, Civilians Lose",
+      "date": "2011-05-01",
+      "publisher": "American Enterprise Institute"
+    },
+    {
+      "url": "http://edition.cnn.com/2011/WORLD/meast/04/17/iran.intelligence.minister/",
+      "title": "Iran's supreme leader overrules president on intelligence chief",
+      "date": "2011-04-17",
+      "publisher": "CNN"
+    }
+  ],
+  "tags": ["executive", "intelligence"],
+  "editorial_notes": "11-day walkout. Ahmadinejad capitulated May 8, 2011. Mashaei and the 'deviant current' (jereyan-e enherafi) were central to the dispute."
+}

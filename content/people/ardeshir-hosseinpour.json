@@ -1,0 +1,39 @@
+{
+  "entity_id": "ardeshir-hosseinpour",
+  "slug": "ardeshir-hosseinpour",
+  "name_en": "Ardeshir Hosseinpour",
+  "name_fa": "اردشیر حسین‌پور",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": "1962",
+  "birthplace": "Iran",
+  "died": "2007-01-15",
+  "role": "Iranian nuclear scientist and electromagnetism expert who died under suspicious circumstances in 2007",
+  "faction": null,
+  "bio": "Ardeshir Hosseinpour was an Iranian nuclear physicist and electromagnetism expert who worked at the Isfahan uranium conversion facility as part of Iran's nuclear programme. He died on 15 January 2007 under circumstances that remain highly disputed.\n\nThe official Iranian account attributed his death to gas poisoning from a faulty heater. However, the American private intelligence firm Stratfor reported in February 2007 that Hosseinpour had been killed by [Mossad](/orgs/mossad) and died of radiation poisoning. In 2014, his sister Mahboobeh Hosseinpour claimed in an interview that the [Islamic Revolutionary Guard Corps](/orgs/islamic-revolutionary-guard-corps) murdered her brother for refusing to participate in nuclear weapons development. Former Mossad officials denied any involvement.\n\nHosseinpour's death preceded the more widely reported [wave of assassinations of Iranian nuclear scientists](/events/iran-nuclear-scientist-assassinations-2010) that began in 2010.",
+  "irgc_member": false,
+  "expertise": ["nuclear-physics", "electromagnetism"],
+  "tags": ["deceased", "nuclear"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ardeshir_Hosseinpour",
+      "title": "Ardeshir Hosseinpour — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Assassinations_of_Iranian_nuclear_scientists",
+      "title": "Assassinations of Iranian nuclear scientists — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.haaretz.com/2014-10-02/ty-article/sister-of-murdered-physicist-iran-did-it-not-israel/0000017f-e546-df5f-a17f-ffdef88c0000",
+      "title": "Sister of Murdered Iranian Nuclear Scientist Blames Revolutionary Guards",
+      "date": "2014-10-02",
+      "publisher": "Haaretz"
+    }
+  ],
+  "editorial_notes": "Died 15 January 2007. Cause of death disputed: official account says gas poisoning, Stratfor says Mossad/radiation poisoning, sister says IRGC killed him for refusing weapons work. Death predates the 2010-2012 scientist assassination campaign."
+}

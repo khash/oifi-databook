@@ -1,0 +1,21 @@
+{
+  "entity_id": "kamran-daneshjoo-affiliated-with-islamic-revolutionary-guard-corps",
+  "from_entity": "kamran-daneshjoo",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "affiliated-with",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Kamran_Daneshjoo",
+      "source_title": "Kamran Daneshjoo — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "IRGC-affiliated; involved in AMAD nuclear plan; implemented pro-Basij university policies"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

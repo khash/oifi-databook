@@ -1,0 +1,21 @@
+{
+  "entity_id": "hussein-khomeini-family-of-ruhollah-khomeini",
+  "from_entity": "hussein-khomeini",
+  "to_entity": "ruhollah-khomeini",
+  "type": "family-of",
+  "family_subtype": "child",
+  "symmetric": true,
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hussein_Khomeini",
+      "source_title": "Hussein Khomeini — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Hussein Khomeini is the grandson of Ruhollah Khomeini, son of Mostafa Khomeini (Ruhollah's eldest son)."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": "Grandson relation. Using child subtype as closest available (grandchild not an option)."
+}

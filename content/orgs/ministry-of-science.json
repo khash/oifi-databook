@@ -1,0 +1,15 @@
+{
+  "entity_id": "ministry-of-science",
+  "slug": "ministry-of-science",
+  "name_en": "Ministry of Science, Research and Technology",
+  "name_fa": "وزارت علوم، تحقیقات و فناوری",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 1967,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Iran's Ministry of Science, Research and Technology oversees non-medical higher education, research policy, and technology development. It supervises public universities and regulates academic appointments. Under [Mohammad Mehdi Zahedi](/people/mohammad-mehdi-zahedi) (2005–2009), the ministry purged reformist professors and expelled politically active students. Under Minister [Kamran Daneshjoo](/people/kamran-daneshjoo) (2009–2013), the ministry implemented controversial policies including preferential university admissions for [Basij](/orgs/basij) members and purges of reformist faculty.",
+  "faction": null,
+  "tags": [],
+  "editorial_notes": "Medical universities fall under Ministry of Health, not this ministry."
+}

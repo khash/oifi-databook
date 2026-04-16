@@ -1,0 +1,19 @@
+{
+  "entity_id": "shapoor-qalehali-khani-noori-directed-iran-international",
+  "from_entity": "shapoor-qalehali-khani-noori",
+  "to_entity": "iran-international",
+  "type": "directed",
+  "confidence": "alleged",
+  "date_from": "2024-08-14",
+  "date_to": "2025-02-16",
+  "evidence": [
+    {
+      "source_url": "https://www.cps.gov.uk/cps/news/three-men-charged-national-security-act-offences",
+      "source_title": "Three men charged with National Security Act offences",
+      "source_date": "2025-05-17",
+      "description": "Charged with conducting surveillance and reconnaissance targeting journalists at Iran International on behalf of Iranian intelligence."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

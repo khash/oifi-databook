@@ -1,0 +1,21 @@
+{
+  "entity_id": "hamid-baghaei-appointed-by-mahmoud-ahmadinejad",
+  "from_entity": "hamid-baghaei",
+  "to_entity": "mahmoud-ahmadinejad",
+  "type": "appointed-by",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": "2013",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hamid_Baghaei",
+      "source_title": "Hamid Baghaei — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "VP Cultural Heritage 2009-2011, VP Executive Affairs 2011-2013"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

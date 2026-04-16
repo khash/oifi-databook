@@ -1,0 +1,32 @@
+{
+  "entity_id": "mohammad-reza-rahimi",
+  "slug": "mohammad-reza-rahimi",
+  "name_en": "Mohammad Reza Rahimi",
+  "name_fa": "محمدرضا رحیمی",
+  "has_native_fa_name": true,
+  "aliases": ["Rahimi"],
+  "born": 1948,
+  "birthplace": "Isfahan",
+  "role": "First Vice President of Iran (2009–2013)",
+  "faction": "hardliner",
+  "bio": "Mohammad Reza Rahimi served as the First Vice President of Iran from September 2009 to August 2013 under President [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad). He replaced [Esfandiar Rahim Mashaei](/people/esfandiar-rahim-mashaei) after [Ali Khamenei](/people/ali-khamenei) vetoed Mashaei's appointment to the post.\n\nRahimi was head of a corruption network known as the 'Fatemi Circle' (named for its office on Fatemi Street in Tehran) connected to a billion-dollar money laundering and embezzlement scheme. He was convicted in 2014 of 'acquiring wealth through illicit methods' and sentenced to five years and three months in prison plus fines totaling over $1.1 million. He served his sentence in Evin Prison and was the highest-ranking Iranian government official to be imprisoned at the time.\n\nRahimi also drew international condemnation for anti-Semitic remarks at a June 2012 UN anti-drug conference in Tehran, where he claimed that the Talmud teaches Jews to 'destroy everyone who opposes the Zionists' and blamed drug trafficking on Jewish conspiracies.",
+  "irgc_member": false,
+  "expertise": [],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mohammad_Reza_Rahimi",
+      "title": "Mohammad Reza Rahimi — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2015/2/15/iran-jails-former-vice-president-over-corruption",
+      "title": "Iran jails former vice president over corruption",
+      "date": "2015-02-15",
+      "publisher": "Al Jazeera"
+    }
+  ],
+  "tags": ["executive"],
+  "photo": null,
+  "editorial_notes": "Born 1948 in Isfahan. Convicted 2014, sentenced 5 years 3 months. Fatemi Circle corruption ring. Anti-Semitic remarks at 2012 UN conference."
+}

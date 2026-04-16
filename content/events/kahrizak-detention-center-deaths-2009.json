@@ -1,0 +1,25 @@
+{
+  "entity_id": "kahrizak-detention-center-deaths-2009",
+  "slug": "kahrizak-detention-center-deaths-2009",
+  "name": "Kahrizak Detention Center Deaths",
+  "date": "2009-07",
+  "type": "death",
+  "description": "Following the disputed [June 2009 presidential election](/events/presidential-election-iran-2009), dozens of peaceful protesters were arrested at street rallies on 10 July 2009 and taken to the Kahrizak Detention Center in southern Tehran. Three detainees — Mohsen Ruholamini, Mohammad Kamrani, and Amir Javadifar — died as a result of torture, including severe beatings and deplorable conditions. A parliamentary investigation implicated Tehran prosecutor-general [Saeed Mortazavi](/people/saeed-mortazavi) as the official behind the abuses. The physician who documented the torture, Ramin Pourandarjani, was found dead under suspicious circumstances at police headquarters in November 2009. Despite widespread outrage, accountability has been minimal; Mortazavi was initially acquitted in 2015 before his case was appealed.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Kahrizak_Detention_Center",
+      "title": "Kahrizak Detention Center — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://iranhumanrights.org/2016/10/mortazavi-kahrizak/",
+      "title": "Seven Years Later No Official Held Accountable for 5 Deaths and Torture of Dozens at Kahrizak",
+      "date": "2016-10-01",
+      "publisher": "Center for Human Rights in Iran"
+    }
+  ],
+  "tags": ["human-rights", "green-movement", "judiciary"],
+  "editorial_notes": "Mortazavi acquitted Aug 2015, decision appealed. Pourandarjani died Nov 10, 2009, days after reporting abuse to parliament. Ali Khamenei ordered Kahrizak closed after public outcry."
+}

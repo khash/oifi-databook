@@ -1,0 +1,21 @@
+{
+  "entity_id": "farah-pahlavi-affiliated-with-imperial-iranian-academy-of-philosophy",
+  "from_entity": "farah-pahlavi",
+  "to_entity": "imperial-iranian-academy-of-philosophy",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "1974",
+  "date_to": "1979",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Seyyed_Hossein_Nasr",
+      "source_title": "Seyyed Hossein Nasr — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Empress Farah Pahlavi commissioned the establishment of the academy"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

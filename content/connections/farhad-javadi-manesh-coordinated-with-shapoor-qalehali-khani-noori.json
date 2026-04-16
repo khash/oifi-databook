@@ -1,0 +1,19 @@
+{
+  "entity_id": "farhad-javadi-manesh-coordinated-with-shapoor-qalehali-khani-noori",
+  "from_entity": "farhad-javadi-manesh",
+  "to_entity": "shapoor-qalehali-khani-noori",
+  "type": "coordinated-with",
+  "confidence": "alleged",
+  "date_from": "2024-08-14",
+  "date_to": "2025-02-16",
+  "evidence": [
+    {
+      "source_url": "https://www.cps.gov.uk/cps/news/three-men-charged-national-security-act-offences",
+      "source_title": "Three men charged with National Security Act offences",
+      "source_date": "2025-05-17",
+      "description": "Co-charged under the National Security Act 2023 for conducting surveillance on Iran International journalists on behalf of Iranian intelligence."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

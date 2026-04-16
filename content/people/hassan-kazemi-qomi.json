@@ -1,0 +1,38 @@
+{
+  "entity_id": "hassan-kazemi-qomi",
+  "slug": "hassan-kazemi-qomi",
+  "name_en": "Hassan Kazemi Qomi",
+  "name_fa": "حسن کاظمی قمی",
+  "has_native_fa_name": true,
+  "aliases": ["Hassan Kazemi-Qomi"],
+  "born": null,
+  "birthplace": "Iran",
+  "role": "IRGC Quds Force commander; former Iranian ambassador to Iraq and Afghanistan; special envoy to Afghanistan",
+  "faction": "hardliner",
+  "bio": "Hassan Kazemi Qomi is an Iranian diplomat and high-ranking commander in the [Islamic Revolutionary Guard Corps](/orgs/islamic-revolutionary-guard-corps) [Quds Force](/orgs/irgc-quds-force). He served as Iran's first consul in Herat, Afghanistan, where he established the Quds Force's network of operatives. In May 2005 he was appointed ambassador to Iraq, where US General David Petraeus publicly identified him as a Quds Force member in 2007.\n\nOn 17 October 2021, President [Ebrahim Raisi](/people/ebrahim-raisi) appointed Kazemi Qomi as special envoy and ambassador to Afghanistan following the Taliban takeover. In this role, he has described Afghanistan as part of Iran's \"axis of resistance\" and controversially stated that \"martyrdom-seeking\" brigades could be sent from Afghanistan to Gaza.",
+  "irgc_member": true,
+  "expertise": ["diplomacy", "proxy-warfare"],
+  "tags": ["military", "diplomacy", "proxy-warfare"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Hassan_Kazemi_Qomi",
+      "title": "Hassan Kazemi Qomi — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.ncr-iran.org/en/news/iran-resistance/who-is-hassan-kazemi-qomi/",
+      "title": "Who is Hassan Kazemi-Qomi?",
+      "date": "2021-01-01",
+      "publisher": "NCRI"
+    },
+    {
+      "url": "https://www.rferl.org/a/iran-aghanistan-envoy-qomi-axix-resistance-israel-gaza/32809698.html",
+      "title": "Iranian Envoy To Kabul Sees Afghanistan As Part Of Tehran's 'Axis Of Resistance'",
+      "date": "2024-02-06",
+      "publisher": "RFE/RL"
+    }
+  ],
+  "editorial_notes": "IRGC Quds Force commander. Ambassador to Iraq 2005-~2010, ambassador to Afghanistan from 2021. Birth year unknown. Identified as Quds Force by Gen. Petraeus in 2007."
+}

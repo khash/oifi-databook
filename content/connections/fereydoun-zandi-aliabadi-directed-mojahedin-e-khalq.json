@@ -1,0 +1,19 @@
+{
+  "entity_id": "fereydoun-zandi-aliabadi-directed-mojahedin-e-khalq",
+  "from_entity": "fereydoun-zandi-aliabadi",
+  "to_entity": "mojahedin-e-khalq",
+  "type": "directed",
+  "confidence": "confirmed",
+  "date_from": "2014",
+  "date_to": "2017",
+  "evidence": [
+    {
+      "source_url": "https://www.ncr-iran.org/en/ncri-statements/unmasking-details-on-demonization-campaign-espionage-terrorist-plots-by-the-iranian-regimes-ministry-of-intelligence-embassy-in-albania/",
+      "source_title": "Unmasking Details on Demonization Campaign, Espionage, Terrorist Plots by the Iranian Regime's MOIS, Embassy in Albania",
+      "source_date": "2021-01-01",
+      "description": "Zandi directed intelligence and surveillance operations against MEK members in Albania, building agent networks in coordination with MOIS counterparts in Iraq."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": "Directed operations against (surveillance, agent recruitment targeting) MEK in Albania."
+}

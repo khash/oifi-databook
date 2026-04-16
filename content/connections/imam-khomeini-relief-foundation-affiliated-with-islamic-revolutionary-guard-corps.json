@@ -1,0 +1,21 @@
+{
+  "entity_id": "imam-khomeini-relief-foundation-affiliated-with-islamic-revolutionary-guard-corps",
+  "from_entity": "imam-khomeini-relief-foundation",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.fdd.org/analysis/policy-briefs/2015/04/13/khameneis-choice-to-head-powerful-charity-bolsters-the-irgc",
+      "source_title": "Khamenei's Choice to Head Powerful Charity Bolsters the IRGC",
+      "source_date": "2015-04-13",
+      "description": "IRGC-connected figures have headed the foundation; Parviz Fattah was a former IRGC commander"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,31 @@
+{
+  "entity_id": "sadegh-khalilian",
+  "slug": "sadegh-khalilian",
+  "name_en": "Sadegh Khalilian",
+  "name_fa": "صادق خلیلیان",
+  "has_native_fa_name": true,
+  "aliases": ["Sadeq Khalilian"],
+  "born": 1959,
+  "birthplace": "Ahvaz, Khuzestan",
+  "role": "Minister of Agriculture (2009–2013); later Governor of Khuzestan",
+  "faction": "conservative",
+  "bio": "Sadegh Khalilian is an Iranian economist and politician who served as Minister of Agriculture Jihad in [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad)'s second cabinet from 2009 to 2013, confirmed by the [Islamic Consultative Assembly](/orgs/islamic-consultative-assembly) on 3 September 2009. An academic by training, Khalilian was born in Ahvaz and later served as Governor of Khuzestan province.",
+  "irgc_member": false,
+  "expertise": [
+    "agricultural economics",
+    "provincial governance"
+  ],
+  "tags": [
+    "executive"
+  ],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sadeq_Khalilian",
+      "title": "Sadeq Khalilian — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "Born 1959 in Ahvaz. Economist/academic. Agriculture Minister 2009-2013 under Ahmadinejad. Later Governor of Khuzestan."
+}

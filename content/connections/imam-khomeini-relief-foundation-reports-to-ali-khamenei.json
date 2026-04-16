@@ -1,0 +1,21 @@
+{
+  "entity_id": "imam-khomeini-relief-foundation-reports-to-ali-khamenei",
+  "from_entity": "imam-khomeini-relief-foundation",
+  "to_entity": "ali-khamenei",
+  "type": "reports-to",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://home.treasury.gov/news/press-releases/sm1185",
+      "source_title": "Treasury Targets Vast Supreme Leader Patronage Network",
+      "source_date": "2020-01-01",
+      "description": "Foundation operates under direct supervision of the Supreme Leader; designated as part of Khamenei's patronage network"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

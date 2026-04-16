@@ -1,0 +1,15 @@
+{
+  "entity_id": "ministry-of-energy",
+  "slug": "ministry-of-energy",
+  "name_en": "Ministry of Energy",
+  "name_fa": "وزارت نیرو",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 1975,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Iran's Ministry of Energy (Vezarat-e Niru) oversees electricity generation, water resources, dam construction, and renewable energy. It manages major state utilities including Tavanir (power generation and distribution) and regional water authorities. Not to be confused with the Ministry of Petroleum, which handles oil and gas. Notable ministers include [Parviz Fattah](/people/parviz-fattah) (2005–2009) and [Majid Namjoo](/people/majid-namjoo) (2009–2013).",
+  "faction": null,
+  "tags": [],
+  "editorial_notes": "Handles electricity and water, not oil/gas (that is Ministry of Petroleum)."
+}

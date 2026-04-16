@@ -1,0 +1,21 @@
+{
+  "entity_id": "abdul-reza-shahlai-directed-karbala-provincial-headquarters-raid-2007",
+  "from_entity": "abdul-reza-shahlai",
+  "to_entity": "karbala-provincial-headquarters-raid-2007",
+  "type": "directed",
+  "confidence": "confirmed",
+  "date_from": "2007-01-20",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.militarytimes.com/flashpoints/2019/12/05/us-offering-15-million-bounty-for-info-on-iranian-who-planned-2007-karbala-attack-that-killed-5-us-troops/",
+      "source_title": "US offering $15 million for info on Iranian planner of 2007 Karbala attack",
+      "source_date": "2019-12-05",
+      "description": "Shahlai planned and directed the Karbala raid; US offered $15M reward for information"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

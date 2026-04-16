@@ -1,0 +1,32 @@
+{
+  "entity_id": "masoud-mir-kazemi",
+  "slug": "masoud-mir-kazemi",
+  "name_en": "Masoud Mir-Kazemi",
+  "name_fa": "سید مسعود میرکاظمی",
+  "has_native_fa_name": true,
+  "aliases": ["Seyyed Masoud Mirkazemi", "Masoud Mirkazemi"],
+  "born": 1960,
+  "birthplace": null,
+  "role": "Minister of Commerce (2005–2009); Minister of Petroleum (2009–2011); head of Plan and Budget Organization under Raisi; IRGC-affiliated",
+  "faction": "hardliner",
+  "bio": "Masoud Mir-Kazemi is an Iranian principlist politician and former [IRGC](/orgs/islamic-revolutionary-guard-corps) member who served in two cabinet posts under [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad): [Minister of Commerce](/orgs/ministry-of-commerce) (2005–2009) and [Minister of Petroleum](/orgs/ministry-of-petroleum) (2009–2011).\n\nAfter the 1979 revolution, Mir-Kazemi joined the revolution committees and then the IRGC. He holds a PhD in industrial engineering from [Tarbiat Modares University](/orgs/tarbiat-modares-university). He served as a member of the [Islamic Consultative Assembly](/orgs/islamic-consultative-assembly) representing Tehran from 2012 to 2016.\n\nIn 2021, President Ebrahim Raisi appointed Mir-Kazemi as vice president and head of the Plan and Budget Organization, continuing his role in Iran's economic management.",
+  "irgc_member": true,
+  "expertise": ["trade", "energy", "economic planning"],
+  "tags": ["executive", "military"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Seyyed_Masoud_Mirkazemi",
+      "title": "Masoud Mir Kazemi — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.tehrantimes.com/news/463966/Raisi-appoints-Masoud-Mir-Kazemi-as-new-PBO-head",
+      "title": "Raisi appoints Masoud Mir-Kazemi as new PBO head",
+      "date": "2021-08-01",
+      "publisher": "Tehran Times"
+    }
+  ],
+  "editorial_notes": "Born 1960. IRGC member post-revolution. PhD industrial engineering Tarbiat Modares. MP Tehran 2012-2016. VP and PBO head under Raisi 2021."
+}

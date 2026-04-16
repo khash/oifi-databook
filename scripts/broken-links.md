@@ -1,9 +1,9 @@
 # Broken Links
 
 Last updated: 2026-04-16  
-Dead links (build-blocking): **1** | Bot-blocked (verify manually): **63**
+Dead links (build-blocking): **7** | Bot-blocked (verify manually): **72**
 
-## Dead Links (1)
+## Dead Links (7)
 
 These return 4xx/5xx or fail to connect. **The build fails until they are fixed.**
 
@@ -13,7 +13,37 @@ These return 4xx/5xx or fail to connect. **The build fails until they are fixed.
   - `content/orgs/strategic-council-on-foreign-relations.json`
   - *last checked: 2026-04-16*
 
-## Bot-Blocked (63)
+### HTTP 526 (1)
+
+- https://www.ifmat.org/04/26/parviz-fatah/
+  - `content/people/parviz-fattah.json`
+  - `content/connections/parviz-fattah-member-of-islamic-revolutionary-guard-corps.json`
+  - *last checked: 2026-04-16*
+
+### fetch failed (5)
+
+- https://english.khamenei.ir/news/11745/Brigadier-General-Mohammad-Karami-appointed-Commander-of-IRGC
+  - `content/people/mohammad-karami.json`
+  - `content/connections/mohammad-karami-appointed-by-ali-khamenei.json`
+  - `content/connections/mohammad-karami-headed-irgc-ground-forces.json`
+  - `content/connections/mohammad-karami-named-in-mohammad-pakpour.json`
+  - *last checked: 2026-04-16*
+- http://100photos.time.com/photos/death-of-neda
+  - `content/people/neda-agha-soltan.json`
+  - *last checked: 2026-04-16*
+- https://www.terrorism-info.org.il/en/20575/
+  - `content/orgs/haqqani-school.json`
+  - *last checked: 2026-04-16*
+- http://edition.cnn.com/2011/WORLD/meast/04/17/iran.intelligence.minister/
+  - `content/events/ahmadinejad-khamenei-crisis-2011.json`
+  - `content/connections/ali-khamenei-participated-in-ahmadinejad-khamenei-crisis-2011.json`
+  - `content/connections/mahmoud-ahmadinejad-participated-in-ahmadinejad-khamenei-crisis-2011.json`
+  - *last checked: 2026-04-16*
+- https://english.khamenei.ir/news/9169/Leader-appointed-members-of-Expediency-Council-for-the-new-term
+  - `content/connections/davoud-danesh-jafari-appointed-by-ali-khamenei.json`
+  - *last checked: 2026-04-16*
+
+## Bot-Blocked (72)
 
 These return 403/401 to automated requests but are likely accessible to human visitors. The build does not fail for these. Verify manually or replace with Wayback Machine archives.
 
@@ -32,8 +62,11 @@ These return 403/401 to automated requests but are likely accessible to human vi
   - `content/connections/irgc-quds-force-lebanon-corps-coordinated-with-hezbollah.json`
   - *last checked: 2026-04-13*
 
-### HTTP 403 (60)
+### HTTP 403 (69)
 
+- https://medium.com/war-is-boring/in-1980-friendly-fire-was-one-of-the-biggest-killers-of-iranian-fighter-pilots-5dc8fd71d221
+  - `content/people/abbas-babaei.json`
+  - *last checked: 2026-04-16*
 - https://www.counterextremism.com/extremists/abdul-reza-shahlai
   - `content/people/abdul-reza-shahlai.json`
   - `content/connections/abdul-reza-shahlai-member-of-irgc-quds-force.json`
@@ -91,6 +124,12 @@ These return 403/401 to automated requests but are likely accessible to human vi
 - https://www.gc.cuny.edu/people/ervand-abrahamian
   - `content/people/ervand-abrahamian.json`
   - *last checked: 2026-04-13*
+- https://www.unitedagainstnucleariran.com/eskandar-momeni-minister-of-interior
+  - `content/people/eskandar-momeni.json`
+  - `content/connections/eskandar-momeni-affiliated-with-islamic-revolutionary-guard-corps.json`
+  - `content/connections/eskandar-momeni-aligned-with-mahmoud-ahmadinejad.json`
+  - `content/connections/eskandar-momeni-served-in-law-enforcement-command.json`
+  - *last checked: 2026-04-16*
 - https://www.cambridge.org/us/universitypress/subjects/politics-international-relations/middle-east-politics/revolution-and-its-discontents
   - `content/people/eskandar-sadeghi-boroujerdi.json`
   - *last checked: 2026-04-13*
@@ -103,6 +142,9 @@ These return 403/401 to automated requests but are likely accessible to human vi
 - https://www.washingtonpost.com/people/jason-rezaian/
   - `content/people/jason-rezaian.json`
   - *last checked: 2026-04-13*
+- https://health-policy.sums.ac.ir/uploads/189/2024/Apr/09/DRLANKARANI2021.pdf
+  - `content/people/kamran-bagheri-lankarani.json`
+  - *last checked: 2026-04-16*
 - https://www.nytimes.com/2010/11/30/world/middleeast/30iran.html
   - `content/people/majid-shahriari.json`
   - `content/events/iran-nuclear-scientist-assassinations-2010.json`
@@ -115,6 +157,9 @@ These return 403/401 to automated requests but are likely accessible to human vi
   - `content/connections/mohammad-saeedi-reports-to-gholam-reza-aghazadeh.json`
   - `content/connections/mohammad-saeedi-served-in-atomic-energy-organisation-of-iran.json`
   - `content/connections/mohammad-saeedi-served-in-supreme-national-security-council.json`
+  - *last checked: 2026-04-16*
+- https://iranwire.com/en/features/65677/
+  - `content/people/mohsen-kharrazi.json`
   - *last checked: 2026-04-16*
 - https://www.mei.edu/publications/irans-balkan-front-roots-and-consequences-iranian-cyberattacks-against-albania
   - `content/people/mostafa-roudaki.json`
@@ -151,6 +196,9 @@ These return 403/401 to automated requests but are likely accessible to human vi
 - https://religion.columbian.gwu.edu/seyyed-nasr
   - `content/people/seyyed-hossein-nasr.json`
   - *last checked: 2026-04-16*
+- https://www.unitedagainstnucleariran.com/people/tamir-pardo
+  - `content/people/tamir-pardo.json`
+  - *last checked: 2026-04-16*
 - https://sais.jhu.edu/users/vnasr1
   - `content/people/vali-nasr.json`
   - `content/connections/vali-nasr-aligned-with-jcpoa-nuclear-deal-2015.json`
@@ -176,6 +224,12 @@ These return 403/401 to automated requests but are likely accessible to human vi
   - `content/orgs/irgc-quds-force-iraq-corps.json`
   - `content/connections/irgc-quds-force-iraq-corps-subsidiary-of-irgc-quds-force.json`
   - *last checked: 2026-04-13*
+- https://www.iranwatch.org/iranian-entities/islamic-republic-iran-shipping-lines-irisl
+  - `content/orgs/irisl-group.json`
+  - *last checked: 2026-04-16*
+- https://tcf.org/content/report/men-of-dawa-how-the-personalities-of-one-party-shaped-iraqs-new-politics/
+  - `content/orgs/islamic-dawa-party.json`
+  - *last checked: 2026-04-16*
 - https://sais.jhu.edu/
   - `content/orgs/johns-hopkins-sais.json`
   - `content/connections/vali-nasr-affiliated-with-johns-hopkins-sais.json`
@@ -189,6 +243,9 @@ These return 403/401 to automated requests but are likely accessible to human vi
   - *last checked: 2026-04-13*
 - https://news.stanford.edu/stories/2017/05/commitment-generosity-guide-iranian-studies-program-great-heights
   - `content/orgs/stanford-iranian-studies-program.json`
+  - *last checked: 2026-04-16*
+- https://www.aei.org/research-products/report/ahmadinejad-versus-khamenei-irgc-wins-civilians-lose/
+  - `content/events/ahmadinejad-khamenei-crisis-2011.json`
   - *last checked: 2026-04-16*
 - https://www.nytimes.com/1994/07/19/world/blast-hits-jewish-center-in-argentina-killing-at-least-48.html
   - `content/events/amia-bombing-1994.json`
@@ -231,6 +288,9 @@ These return 403/401 to automated requests but are likely accessible to human vi
   - `content/connections/hezbollah-affiliated-with-mostafa-chamran.json`
   - `content/connections/mostafa-chamran-affiliated-with-hezbollah.json`
   - *last checked: 2026-04-13*
+- https://www.fdd.org/analysis/policy-briefs/2015/04/13/khameneis-choice-to-head-powerful-charity-bolsters-the-irgc
+  - `content/connections/imam-khomeini-relief-foundation-affiliated-with-islamic-revolutionary-guard-corps.json`
+  - *last checked: 2026-04-16*
 - https://www.tandfonline.com/doi/full/10.1080/08850607.2023.2295205
   - `content/connections/iranian-embassy-vienna-affiliated-with-ministry-of-intelligence.json`
   - *last checked: 2026-04-13*

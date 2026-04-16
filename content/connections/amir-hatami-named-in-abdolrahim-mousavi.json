@@ -1,0 +1,19 @@
+{
+  "entity_id": "amir-hatami-named-in-abdolrahim-mousavi",
+  "from_entity": "amir-hatami",
+  "to_entity": "abdolrahim-mousavi",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2025-06",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Amir_Hatami",
+      "source_title": "Amir Hatami — Wikipedia",
+      "source_date": "2025-06-14",
+      "description": "Hatami succeeded Abdolrahim Mousavi as Army Commander-in-Chief in June 2025."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": "Successor relationship."
+}

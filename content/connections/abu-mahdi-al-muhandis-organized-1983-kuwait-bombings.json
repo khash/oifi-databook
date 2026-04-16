@@ -1,0 +1,21 @@
+{
+  "entity_id": "abu-mahdi-al-muhandis-organized-1983-kuwait-bombings",
+  "from_entity": "abu-mahdi-al-muhandis",
+  "to_entity": "1983-kuwait-bombings",
+  "type": "organized",
+  "confidence": "confirmed",
+  "date_from": "1983",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.npr.org/2020/01/04/793618490/who-was-the-iraqi-commander-also-killed-in-baghdad-drone-strike",
+      "source_title": "Who Was Abu Mahdi Al-Muhandis — NPR",
+      "source_date": "2020-01-04",
+      "description": "Sentenced to death in absentia by Kuwait for his role in planning the 1983 bombings"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

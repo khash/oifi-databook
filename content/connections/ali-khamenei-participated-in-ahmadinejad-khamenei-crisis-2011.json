@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-khamenei-participated-in-ahmadinejad-khamenei-crisis-2011",
+  "from_entity": "ali-khamenei",
+  "to_entity": "ahmadinejad-khamenei-crisis-2011",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2011-04-17",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "http://edition.cnn.com/2011/WORLD/meast/04/17/iran.intelligence.minister/",
+      "source_title": "Iran's supreme leader overrules president on intelligence chief — CNN",
+      "source_date": "2011-04-17",
+      "description": "Khamenei reinstated Moslehi within hours of Ahmadinejad's dismissal"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

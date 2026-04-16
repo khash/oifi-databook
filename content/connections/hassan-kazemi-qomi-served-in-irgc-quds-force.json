@@ -1,0 +1,19 @@
+{
+  "entity_id": "hassan-kazemi-qomi-served-in-irgc-quds-force",
+  "from_entity": "hassan-kazemi-qomi",
+  "to_entity": "irgc-quds-force",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hassan_Kazemi_Qomi",
+      "source_title": "Hassan Kazemi Qomi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Kazemi Qomi is a high-ranking IRGC Quds Force commander. US General David Petraeus publicly identified him as a Quds Force member in 2007."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

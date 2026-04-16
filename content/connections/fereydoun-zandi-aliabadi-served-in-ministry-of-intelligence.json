@@ -1,0 +1,19 @@
+{
+  "entity_id": "fereydoun-zandi-aliabadi-served-in-ministry-of-intelligence",
+  "from_entity": "fereydoun-zandi-aliabadi",
+  "to_entity": "ministry-of-intelligence",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.ncr-iran.org/en/ncri-statements/terrorism-fundamentalism/iran-regime-establishes-anti-pmoi-mek-intelligence-station-in-albania/",
+      "source_title": "Iran regime establishes anti-PMOI (MEK) 'intelligence station' in Albania",
+      "source_date": "2019-01-01",
+      "description": "Zandi Aliabadi identified as head of the MOIS intelligence station at the Iranian embassy in Tirana, Albania, from 2014 to 2017."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

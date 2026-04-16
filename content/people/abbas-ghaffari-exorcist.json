@@ -1,0 +1,32 @@
+{
+  "entity_id": "abbas-ghaffari-exorcist",
+  "slug": "abbas-ghaffari-exorcist",
+  "name_en": "Abbas Ghaffari",
+  "name_fa": "عباس غفاری",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Alleged spiritual adviser to President Ahmadinejad's inner circle",
+  "faction": null,
+  "bio": "Abbas Ghaffari was described by Iranian media as a personal spiritual adviser — or 'exorcist' — linked to President [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad) and his chief of staff [Esfandiar Rahim Mashaei](/people/esfandiar-rahim-mashaei). In May 2011, he was arrested alongside approximately 25 other associates of Ahmadinejad and Mashaei on charges of sorcery, summoning genies (djinn), and practicing black magic.\n\nThe conservative newspaper Ayandeh described Ghaffari as 'a man with special skills in metaphysics and connections with unknown worlds.' He was reportedly accused of summoning a genie that caused his interrogator to have a heart attack. The arrests were widely seen as part of the escalating power struggle between Ahmadinejad's circle and the clerical establishment loyal to [Ali Khamenei](/people/ali-khamenei), with the sorcery charges used to discredit the 'deviant current.'",
+  "irgc_member": false,
+  "expertise": [],
+  "sources": [
+    {
+      "url": "https://abcnews.go.com/International/iranian-president-ahmadinejad-allies-charged-black-magic-summoning/story?id=13561870",
+      "title": "Iranian President Linked to Black Magic, Summoning Genies",
+      "date": "2011-05-09",
+      "publisher": "ABC News"
+    },
+    {
+      "url": "https://globalvoices.org/2011/05/10/iran-ahmadinejads-exorcist-arrested/",
+      "title": "Iran: Ahmadinejad's 'Exorcist' Arrested",
+      "date": "2011-05-10",
+      "publisher": "Global Voices"
+    }
+  ],
+  "tags": [],
+  "photo": null,
+  "editorial_notes": "Distinct from Akbar Ghaffari (already in DB). Arrested May 2011. Slug uses '-exorcist' suffix to disambiguate."
+}

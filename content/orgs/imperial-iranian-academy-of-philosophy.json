@@ -1,0 +1,15 @@
+{
+  "entity_id": "imperial-iranian-academy-of-philosophy",
+  "slug": "imperial-iranian-academy-of-philosophy",
+  "name_en": "Imperial Iranian Academy of Philosophy",
+  "name_fa": "انجمن شاهنشاهی فلسفه ایران",
+  "has_native_fa_name": true,
+  "type": "ngo",
+  "founded": 1974,
+  "dissolved": 1979,
+  "parent_org": null,
+  "description": "The Imperial Iranian Academy of Philosophy was founded in September 1974 by [Seyyed Hossein Nasr](/people/seyyed-hossein-nasr) at the request of Empress [Farah Pahlavi](/people/farah-pahlavi). It was the first academic institution founded on the principles of the Traditionalist School of philosophy. The academy aimed to promote Iranian intellectual and philosophical heritage from both Islamic and pre-Islamic eras and to foster comparative study of Eastern and Western philosophical traditions. After the 1979 revolution, it was reorganised and renamed the Iranian Research Institute of Philosophy (later Institute for Research in Philosophy).",
+  "faction": null,
+  "tags": [],
+  "editorial_notes": "Now the Institute for Research in Philosophy (Pajuheshgah-e Falsafeh). Nasr served as head of Farah Pahlavi's Private Bureau."
+}

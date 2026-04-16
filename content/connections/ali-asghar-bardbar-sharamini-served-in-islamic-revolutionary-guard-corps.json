@@ -1,0 +1,19 @@
+{
+  "entity_id": "ali-asghar-bardbar-sharamini-served-in-islamic-revolutionary-guard-corps",
+  "from_entity": "ali-asghar-bardbar-sharamini",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202603062469",
+      "source_title": "Azerbaijan says it foiled alleged IRGC plot",
+      "source_date": "2026-03-06",
+      "description": "Azerbaijan's DTX identified Bardbar Sharamini as a senior IRGC intelligence officer who planned the 2026 Baku terror plot."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

@@ -1,0 +1,19 @@
+{
+  "entity_id": "abu-ali-reda-abbas-headed-radwan-force",
+  "from_entity": "abu-ali-reda-abbas",
+  "to_entity": "radwan-force",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2024-09",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.jpost.com/israel-news/article-821191",
+      "source_title": "Hezbollah's Radwan Force chooses its new lead commander",
+      "source_date": "2024-09-22",
+      "description": "Abbas appointed Radwan Force commander after Ibrahim Aqil's killing in Israeli airstrike."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

@@ -1,0 +1,20 @@
+{
+  "entity_id": "mahmoud-ahmadinejad-aligned-with-haqqani-school",
+  "from_entity": "mahmoud-ahmadinejad",
+  "to_entity": "haqqani-school",
+  "type": "aligned-with",
+  "symmetric": true,
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Haghani_Circle",
+      "source_title": "Haghani Circle — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "The influence of Haqqani graduates peaked during Ahmadinejad's presidency due to his close relationship with Mesbah-Yazdi."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

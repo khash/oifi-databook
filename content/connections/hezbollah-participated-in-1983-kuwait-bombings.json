@@ -1,0 +1,21 @@
+{
+  "entity_id": "hezbollah-participated-in-1983-kuwait-bombings",
+  "from_entity": "hezbollah",
+  "to_entity": "1983-kuwait-bombings",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1983",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.m.wikipedia.org/wiki/1983_Kuwait_bombings",
+      "source_title": "1983 Kuwait bombings — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Hezbollah later attempted multiple operations to secure release of the Kuwait 17 prisoners"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

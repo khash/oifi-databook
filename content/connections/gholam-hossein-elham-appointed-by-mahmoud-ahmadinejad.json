@@ -1,0 +1,21 @@
+{
+  "entity_id": "gholam-hossein-elham-appointed-by-mahmoud-ahmadinejad",
+  "from_entity": "gholam-hossein-elham",
+  "to_entity": "mahmoud-ahmadinejad",
+  "type": "appointed-by",
+  "confidence": "confirmed",
+  "date_from": "2005",
+  "date_to": "2009",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Gholam-Hossein_Elham",
+      "source_title": "Gholam-Hossein Elham — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Government spokesperson from 2005, Justice Minister from Feb 2007"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

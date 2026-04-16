@@ -1,0 +1,19 @@
+{
+  "entity_id": "irisl-group-affiliated-with-ministry-of-defense",
+  "from_entity": "irisl-group",
+  "to_entity": "ministry-of-defense",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://2017-2021.state.gov/imposing-sanctions-related-to-the-islamic-republic-of-iran-shipping-lines-and-iranian-shipping-entities/",
+      "source_title": "Imposing Sanctions Related to IRISL and Iranian Shipping Entities",
+      "source_date": "2021-01-15",
+      "description": "IRISL transported prohibited military-related cargo on behalf of Iran's Ministry of Defense and Armed Forces Logistics (MODAFL)."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

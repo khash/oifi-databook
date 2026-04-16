@@ -1,0 +1,19 @@
+{
+  "entity_id": "fereydoun-zandi-aliabadi-directed-camp-ashraf-3",
+  "from_entity": "fereydoun-zandi-aliabadi",
+  "to_entity": "camp-ashraf-3",
+  "type": "directed",
+  "confidence": "confirmed",
+  "date_from": "2014",
+  "date_to": "2017",
+  "evidence": [
+    {
+      "source_url": "https://www.ncr-iran.org/en/ncri-statements/terrorism-fundamentalism/iran-regime-establishes-anti-pmoi-mek-intelligence-station-in-albania/",
+      "source_title": "Iran regime establishes anti-PMOI (MEK) 'intelligence station' in Albania",
+      "source_date": "2019-01-01",
+      "description": "Zandi directed MOIS intelligence and surveillance operations targeting MEK residents at Camp Ashraf-3 near Manez, Albania."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": "Directed operations against Camp Ashraf-3 residents."
+}

@@ -1,0 +1,26 @@
+{
+  "entity_id": "davoud-danesh-jafari",
+  "slug": "davoud-danesh-jafari",
+  "name_en": "Davoud Danesh-Jafari",
+  "name_fa": "داود دانش‌جعفری",
+  "has_native_fa_name": true,
+  "aliases": ["Dawood Danesh Jafari"],
+  "born": 1954,
+  "birthplace": "Tehran, Iran",
+  "role": "Minister of Economy and Finance (2005-2008); member of Expediency Discernment Council; economist",
+  "faction": "conservative",
+  "bio": "Davoud Danesh-Jafari is an Iranian politician, economist, and former combat engineer who served as Minister of Economy and Finance in [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad)'s first cabinet from 2005 to 2008.\n\nDanesh-Jafari holds a bachelor's degree in civil engineering from India, a master's in economics from Tehran University (1992), and a PhD from Allameh Tabatabai University (2001). He served in parliament during the 5th and 7th terms.\n\nAs finance minister, Danesh-Jafari was involved in creating the Iranian Oil Bourse, a commodity exchange for oil trading in Iranian currency, which opened on Kish Island on 17 February 2008. He was known for privately criticizing Ahmadinejad's populist economic policies, including the expansionary spending and subsidy programs that contributed to rising inflation.\n\nDanesh-Jafari is currently a member of the [Expediency Discernment Council](/orgs/expediency-discernment-council), appointed by [Ali Khamenei](/people/ali-khamenei).",
+  "irgc_member": false,
+  "expertise": [],
+  "tags": ["executive"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Davoud_Danesh-Jafari",
+      "title": "Davoud Danesh-Jafari — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "Born 1954 in Tehran. Civil engineer turned economist. Criticized Ahmadinejad's economic populism. Now on Expediency Council."
+}

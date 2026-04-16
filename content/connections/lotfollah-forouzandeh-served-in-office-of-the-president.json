@@ -1,0 +1,21 @@
+{
+  "entity_id": "lotfollah-forouzandeh-served-in-office-of-the-president",
+  "from_entity": "lotfollah-forouzandeh",
+  "to_entity": "office-of-the-president",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": "2013",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Lotfollah_Forouzandeh",
+      "source_title": "Lotfollah Forouzandeh — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Served as VP for Management (2009-2012) and VP for Parliamentary Affairs (2012-2013)."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

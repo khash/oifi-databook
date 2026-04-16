@@ -1,0 +1,21 @@
+{
+  "entity_id": "davoud-danesh-jafari-member-of-expediency-discernment-council",
+  "from_entity": "davoud-danesh-jafari",
+  "to_entity": "expediency-discernment-council",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Davoud_Danesh-Jafari",
+      "source_title": "Davoud Danesh-Jafari — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Danesh-Jafari is a member of the Expediency Discernment Council."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

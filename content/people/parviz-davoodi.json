@@ -1,0 +1,32 @@
+{
+  "entity_id": "parviz-davoodi",
+  "slug": "parviz-davoodi",
+  "name_en": "Parviz Davoodi",
+  "name_fa": "پرویز داوودی",
+  "has_native_fa_name": true,
+  "aliases": ["Davoudi"],
+  "born": 1952,
+  "birthplace": null,
+  "role": "First Vice President of Iran (2005–2009)",
+  "faction": "conservative",
+  "bio": "Parviz Davoodi served as the First Vice President of Iran from September 2005 to July 2009 under President [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad). An economist with a Ph.D. from Iowa State University, he was also a professor at [Shahid Beheshti University](/orgs/shahid-beheshti-university).\n\nDavoodi's replacement in July 2009 triggered one of the most significant confrontations between Ahmadinejad and [Ali Khamenei](/people/ali-khamenei). Ahmadinejad attempted to replace Davoodi with [Esfandiar Rahim Mashaei](/people/esfandiar-rahim-mashaei), but Khamenei publicly vetoed the appointment within days, forcing Ahmadinejad to back down. This episode marked a turning point in the Khamenei-Ahmadinejad relationship.\n\nAfter leaving the vice presidency, Davoodi remained a member of the [Expediency Discernment Council](/orgs/expediency-discernment-council) until his death. He died in Tehran on 18 April 2024 at the age of 72.",
+  "irgc_member": false,
+  "expertise": ["economics"],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Parviz_Davoodi",
+      "title": "Parviz Davoodi — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://ifpnews.com/former-iranian-vice-president-davoudi-passes-away-72/",
+      "title": "Former Iranian Vice President Davoudi Passes Away At 72",
+      "date": "2024-04-18",
+      "publisher": "Iran Front Page"
+    }
+  ],
+  "tags": ["executive", "deceased"],
+  "photo": null,
+  "editorial_notes": "Born 5 February 1952. PhD Economics, Iowa State University. Died 18 April 2024 in Tehran. Expediency Council member until death."
+}

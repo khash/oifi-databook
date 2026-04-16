@@ -1,0 +1,19 @@
+{
+  "entity_id": "amir-hatami-served-in-artesh",
+  "from_entity": "amir-hatami",
+  "to_entity": "artesh",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1984",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Amir_Hatami",
+      "source_title": "Amir Hatami — Wikipedia",
+      "source_date": "2025-06-14",
+      "description": "Began serving in the Iranian Army in 1984, participated in Iran-Iraq War."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

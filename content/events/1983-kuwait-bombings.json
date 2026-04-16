@@ -1,0 +1,25 @@
+{
+  "entity_id": "1983-kuwait-bombings",
+  "slug": "1983-kuwait-bombings",
+  "name": "1983 Kuwait Bombings",
+  "date": "1983-12-12",
+  "type": "death",
+  "description": "On 12 December 1983, a series of six coordinated truck bombings struck the US and French embassies, a petroleum refinery, the airport, and other targets in Kuwait City, killing six people and injuring more than eighty. The attacks were carried out by Iranian-backed operatives affiliated with the Iraqi Dawa Party. [Abu Mahdi al-Muhandis](/people/abu-mahdi-al-muhandis), later the deputy commander of Iraq's Popular Mobilisation Forces, was convicted in absentia and sentenced to death by a Kuwaiti court for his role in planning the bombings. Seventeen perpetrators were arrested and became known as the 'Kuwait 17'; [Hezbollah](/orgs/hezbollah) later attempted multiple operations to secure their release.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.m.wikipedia.org/wiki/1983_Kuwait_bombings",
+      "title": "1983 Kuwait bombings — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.npr.org/2020/01/04/793618490/who-was-the-iraqi-commander-also-killed-in-baghdad-drone-strike",
+      "title": "The Iraqi Commander Who Was Killed In U.S. Drone Strike: Abu Mahdi Al-Muhandis",
+      "date": "2020-01-04",
+      "publisher": "NPR"
+    }
+  ],
+  "tags": ["proxy-warfare"],
+  "editorial_notes": "Six killed, 80+ injured. Al-Muhandis sentenced to death in absentia by Kuwait in 2007 (retroactive conviction). Kuwait 17 prisoners were later freed during 1990 Iraqi invasion."
+}

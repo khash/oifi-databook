@@ -1,0 +1,19 @@
+{
+  "entity_id": "mojahedin-e-khalq-named-in-albania-severs-diplomatic-relations-with-iran-2022",
+  "from_entity": "mojahedin-e-khalq",
+  "to_entity": "albania-severs-diplomatic-relations-with-iran-2022",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2022-09",
+  "date_to": "2022-09",
+  "evidence": [
+    {
+      "source_url": "https://iranprimer.usip.org/blog/2022/sep/09/albania-cuts-ties-iran-over-cyberattack",
+      "source_title": "Albania Cuts Ties with Iran Over Cyberattack",
+      "source_date": "2022-09-09",
+      "description": "Iran-Albania tensions stemmed from Albania hosting MEK members since 2014, with Iranian intelligence conducting operations against MEK that culminated in the cyberattack and diplomatic break."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

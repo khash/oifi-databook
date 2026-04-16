@@ -1,0 +1,38 @@
+{
+  "entity_id": "mohammad-karami",
+  "slug": "mohammad-karami",
+  "name_en": "Mohammad Karami",
+  "name_fa": "محمد کرمی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": "1966-01-27",
+  "birthplace": "Iran",
+  "role": "Commander of IRGC Ground Forces (2025–present); former Governor of Sistan and Baluchestan",
+  "faction": "hardliner",
+  "bio": "Mohammad Karami is a Brigadier General in the [Islamic Revolutionary Guard Corps](/orgs/islamic-revolutionary-guard-corps) who has served as Commander of the [IRGC Ground Forces](/orgs/irgc-ground-forces) since June 2025, appointed by [Ali Khamenei](/people/ali-khamenei). He replaced [Mohammad Pakpour](/people/mohammad-pakpour), who was promoted to IRGC commander-in-chief.\n\nKarami previously served as Governor of Sistan and Baluchestan Province (2022–2024) under President [Ebrahim Raisi](/people/ebrahim-raisi). Before that, he commanded the IRGC South-East Quds Operational Base in Zahedan, responsible for security along the Pakistan border. Human rights organizations have linked him to the violent crackdown in Sistan and Baluchestan during the 2022 Mahsa Amini protests, particularly the September 30 \"Bloody Friday\" massacre in Zahedan in which security forces killed at least 70 protesters.\n\nKarami has been sanctioned by the United States (2020), Canada (2021), the European Union (January 2023), and the United Kingdom (February 2023) for human rights violations.",
+  "irgc_member": true,
+  "expertise": ["ground operations", "border security", "provincial governance"],
+  "tags": ["military", "sanctions", "human-rights"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mohammad_Karami",
+      "title": "Mohammad Karami — Wikipedia",
+      "date": "2025-06-18",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://english.khamenei.ir/news/11745/Brigadier-General-Mohammad-Karami-appointed-Commander-of-IRGC",
+      "title": "Brigadier General Mohammad Karami appointed Commander of IRGC Ground Forces",
+      "date": "2025-06-18",
+      "publisher": "Khamenei.ir"
+    },
+    {
+      "url": "https://irannewswire.org/irgc-names-mohammad-karami-as-ground-forces/",
+      "title": "IRGC Names Mohammad Karami as Ground Forces Commander",
+      "date": "2025-06-18",
+      "publisher": "Iran News Wire"
+    }
+  ],
+  "editorial_notes": "Born 27 Jan 1966. Appointed IRGC Ground Forces commander 18 June 2025. Sanctioned by US, Canada, EU, UK. Linked to Zahedan Bloody Friday Sep 2022."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "gholam-hossein-elham-studied-at-tarbiat-modares-university",
+  "from_entity": "gholam-hossein-elham",
+  "to_entity": "tarbiat-modares-university",
+  "type": "studied-at",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Gholam-Hossein_Elham",
+      "source_title": "Gholam-Hossein Elham — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "PhD in criminology from Tarbiat Modares University"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

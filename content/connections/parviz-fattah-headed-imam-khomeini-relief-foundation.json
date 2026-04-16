@@ -1,0 +1,21 @@
+{
+  "entity_id": "parviz-fattah-headed-imam-khomeini-relief-foundation",
+  "from_entity": "parviz-fattah",
+  "to_entity": "imam-khomeini-relief-foundation",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2015",
+  "date_to": "2019",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Parviz_Fattah",
+      "source_title": "Parviz Fattah — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Head of Imam Khomeini Relief Foundation 2015-2019"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,15 @@
+{
+  "entity_id": "ministry-of-culture",
+  "slug": "ministry-of-culture",
+  "name_en": "Ministry of Culture and Islamic Guidance",
+  "name_fa": "وزارت فرهنگ و ارشاد اسلامی",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 1979,
+  "dissolved": null,
+  "parent_org": "office-of-the-president",
+  "description": "Iran's Ministry of Culture and Islamic Guidance regulates media, publishing, cinema, music, and cultural affairs. The ministry controls press licenses, book censorship, and film permits. Under [Hossein Saffar Harandi](/people/hossein-saffar-harandi) (2005–2009), the ministry imposed severe press restrictions, shutting down numerous publications and banning Iranian journalists from working for foreign outlets. Under [Mohammad Hosseini](/people/mohammad-hosseini) (2009–2013), the ministry continued tightened cultural restrictions during Mahmoud Ahmadinejad's second term.",
+  "faction": null,
+  "tags": ["executive"],
+  "editorial_notes": "Controls press licenses, book permits, film censorship, and cultural regulation."
+}

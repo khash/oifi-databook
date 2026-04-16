@@ -1,0 +1,21 @@
+{
+  "entity_id": "esfandiar-rahim-mashaei-appointed-by-mahmoud-ahmadinejad",
+  "from_entity": "esfandiar-rahim-mashaei",
+  "to_entity": "mahmoud-ahmadinejad",
+  "type": "appointed-by",
+  "confidence": "confirmed",
+  "date_from": "2005",
+  "date_to": "2013",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Esfandiar_Rahim_Mashaei",
+      "source_title": "Esfandiar Rahim Mashaei — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Appointed VP Cultural Heritage 2005, briefly First VP Jul 2009, then Chief of Staff 2009-2013"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

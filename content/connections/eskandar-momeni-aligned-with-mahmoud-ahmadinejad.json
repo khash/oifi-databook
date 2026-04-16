@@ -1,0 +1,21 @@
+{
+  "entity_id": "eskandar-momeni-aligned-with-mahmoud-ahmadinejad",
+  "from_entity": "eskandar-momeni",
+  "to_entity": "mahmoud-ahmadinejad",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": "2014",
+  "evidence": [
+    {
+      "source_url": "https://www.unitedagainstnucleariran.com/eskandar-momeni-minister-of-interior",
+      "source_title": "Eskandar Momeni: Minister of Interior",
+      "source_date": "2024-01-01",
+      "description": "In 2012 Ahmadinejad bestowed Momeni with the highest service award for law enforcement officials during his tenure as traffic police chief."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,19 @@
+{
+  "entity_id": "mohsen-kharrazi-member-of-society-of-seminary-teachers-of-qom",
+  "from_entity": "mohsen-kharrazi",
+  "to_entity": "society-of-seminary-teachers-of-qom",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohsen_Kharazi",
+      "source_title": "Mohsen Kharazi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Member of the Society of Seminary Teachers of Qom."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

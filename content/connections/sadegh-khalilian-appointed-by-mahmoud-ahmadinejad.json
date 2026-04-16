@@ -1,0 +1,21 @@
+{
+  "entity_id": "sadegh-khalilian-appointed-by-mahmoud-ahmadinejad",
+  "from_entity": "sadegh-khalilian",
+  "to_entity": "mahmoud-ahmadinejad",
+  "type": "appointed-by",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": "2013",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Sadeq_Khalilian",
+      "source_title": "Sadeq Khalilian — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Khalilian was nominated by Ahmadinejad as Minister of Agriculture and confirmed by the Majlis on 3 September 2009."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

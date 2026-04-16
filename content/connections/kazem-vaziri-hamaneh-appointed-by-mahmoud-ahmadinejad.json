@@ -1,0 +1,21 @@
+{
+  "entity_id": "kazem-vaziri-hamaneh-appointed-by-mahmoud-ahmadinejad",
+  "from_entity": "kazem-vaziri-hamaneh",
+  "to_entity": "mahmoud-ahmadinejad",
+  "type": "appointed-by",
+  "confidence": "confirmed",
+  "date_from": "2005",
+  "date_to": "2007",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Kazem_Vaziri_Hamaneh",
+      "source_title": "Kazem Vaziri Hamaneh — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Vaziri Hamaneh was appointed acting then permanent Oil Minister by Ahmadinejad (2005-2007) after the Majlis rejected three successive presidential nominees."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

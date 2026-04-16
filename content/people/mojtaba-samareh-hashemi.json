@@ -1,0 +1,32 @@
+{
+  "entity_id": "mojtaba-samareh-hashemi",
+  "slug": "mojtaba-samareh-hashemi",
+  "name_en": "Mojtaba Samareh Hashemi",
+  "name_fa": "مجتبی ثمره هاشمی",
+  "has_native_fa_name": true,
+  "aliases": ["Samareh Hashemi"],
+  "born": null,
+  "birthplace": null,
+  "role": "Senior adviser and chief political strategist to President Ahmadinejad",
+  "faction": "hardliner",
+  "bio": "Mojtaba Samareh Hashemi was the chief political strategist and senior adviser to President [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad), often described as a cross between 'Iran's Karl Rove and a president's chief of staff.' He studied with Ahmadinejad at Iran University of Science and Technology (IUST) in the late 1970s and maintained close ties to the [IRGC](/orgs/islamic-revolutionary-guard-corps) and intelligence services.\n\nSamareh Hashemi is a nephew of [Mohammad-Javad Bahonar](/people/mohammad-javad-bahonar), the prime minister assassinated in 1981. A dedicated follower of [Mohammad-Taqi Mesbah-Yazdi](/people/mohammad-taqi-mesbah-yazdi), he was placed in the Foreign Ministry as director of placements in the early 1990s on Mesbah-Yazdi's sponsorship. He later served as deputy interior minister for political affairs from 2006.\n\nSamareh Hashemi played a central role in Ahmadinejad's election campaigns and inner-circle decision-making, and was considered one of the most powerful behind-the-scenes figures in the administration.",
+  "irgc_member": false,
+  "expertise": ["political strategy", "intelligence", "personnel management"],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mojtaba_Samareh_Hashemi",
+      "title": "Mojtaba Samareh Hashemi — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.meforum.org/middle-east-quarterly/ahmadinejad-power-struggle",
+      "title": "All Ahmadinejad's Men — Middle East Forum",
+      "date": "2012-01-01",
+      "publisher": "Middle East Forum"
+    }
+  ],
+  "tags": ["executive", "intelligence"],
+  "photo": null,
+  "editorial_notes": "IUST classmate of Ahmadinejad. Nephew of assassinated PM Bahonar. Strong IRGC/intelligence ties. Mesbah-Yazdi protege."
+}

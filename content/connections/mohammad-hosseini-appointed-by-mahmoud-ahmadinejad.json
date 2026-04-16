@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-hosseini-appointed-by-mahmoud-ahmadinejad",
+  "from_entity": "mohammad-hosseini",
+  "to_entity": "mahmoud-ahmadinejad",
+  "type": "appointed-by",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": "2013",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Hosseini_(politician)",
+      "source_title": "Mohammad Hosseini (politician) — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Hosseini was appointed Minister of Culture on 3 September 2009 in Ahmadinejad's second cabinet."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

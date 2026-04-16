@@ -1,0 +1,19 @@
+{
+  "entity_id": "abu-ali-reda-abbas-affiliated-with-hezbollah",
+  "from_entity": "abu-ali-reda-abbas",
+  "to_entity": "hezbollah",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.jpost.com/israel-news/article-821191",
+      "source_title": "Hezbollah's Radwan Force chooses its new lead commander",
+      "source_date": "2024-09-22",
+      "description": "Abu Ali Reda Abbas appointed as new Radwan Force commander, described as veteran Hezbollah operative."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

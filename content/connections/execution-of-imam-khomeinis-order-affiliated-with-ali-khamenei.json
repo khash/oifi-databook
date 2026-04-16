@@ -1,0 +1,21 @@
+{
+  "entity_id": "execution-of-imam-khomeinis-order-affiliated-with-ali-khamenei",
+  "from_entity": "execution-of-imam-khomeinis-order",
+  "to_entity": "ali-khamenei",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "1989",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Execution_of_Imam_Khomeini%27s_Order",
+      "source_title": "Execution of Imam Khomeini's Order — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Established by decree of Khamenei in 1989, operates directly under the Supreme Leader's office"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,19 @@
+{
+  "entity_id": "mohammad-karami-named-in-ebrahim-raisi",
+  "from_entity": "mohammad-karami",
+  "to_entity": "ebrahim-raisi",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2022-12",
+  "date_to": "2024-10",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Karami",
+      "source_title": "Mohammad Karami — Wikipedia",
+      "source_date": "2025-06-18",
+      "description": "Karami served as Governor of Sistan and Baluchestan Province under President Raisi from December 2022 to October 2024."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": "Appointed governor under Raisi."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-sharif-malekzadeh-headed-cultural-heritage-organization",
+  "from_entity": "mohammad-sharif-malekzadeh",
+  "to_entity": "cultural-heritage-organization",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2012",
+  "date_to": "2013",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammed_Sharif_Malekzadeh",
+      "source_title": "Mohammed Sharif Malekzadeh — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Head of Cultural Heritage Organization 2012-2013"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

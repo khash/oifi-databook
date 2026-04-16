@@ -1,0 +1,19 @@
+{
+  "entity_id": "national-council-of-resistance-of-iran-named-in-assadi-prisoner-exchange-2023",
+  "from_entity": "national-council-of-resistance-of-iran",
+  "to_entity": "assadi-prisoner-exchange-2023",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2023-05-26",
+  "date_to": "2023-05-26",
+  "evidence": [
+    {
+      "source_url": "https://iranfreedom.org/en/articles/2023/05/iranian-diplomat-terrorist-assadollah-assadi-released-in-controversial-prisoner-swap-by-belgian-government/45974/",
+      "source_title": "Iranian Diplomat-Terrorist Assadollah Assadi Released in Controversial Prisoner Swap",
+      "source_date": "2023-05-26",
+      "description": "NCRI condemned the exchange as a 'shameful ransom to terrorism and hostage-taking' that would embolden Iran."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

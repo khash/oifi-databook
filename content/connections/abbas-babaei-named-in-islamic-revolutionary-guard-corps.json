@@ -1,0 +1,19 @@
+{
+  "entity_id": "abbas-babaei-named-in-islamic-revolutionary-guard-corps",
+  "from_entity": "abbas-babaei",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1987-08-06",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abbas_Babaei",
+      "source_title": "Abbas Babaei — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Babaei was killed by friendly fire from an IRGC-operated air defense system over Sardasht airspace."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": "IRGC air defense killed Babaei by friendly fire."
+}

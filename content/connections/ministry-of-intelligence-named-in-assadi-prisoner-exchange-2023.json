@@ -1,0 +1,19 @@
+{
+  "entity_id": "ministry-of-intelligence-named-in-assadi-prisoner-exchange-2023",
+  "from_entity": "ministry-of-intelligence",
+  "to_entity": "assadi-prisoner-exchange-2023",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2023-05-26",
+  "date_to": "2023-05-26",
+  "evidence": [
+    {
+      "source_url": "https://www.voanews.com/a/belgian-aid-worker-iranian-diplomat-freed-in-prisoner-swap/7110353.html",
+      "source_title": "Belgian Aid Worker, Iranian Diplomat Freed in Prisoner Swap",
+      "source_date": "2023-05-26",
+      "description": "Assadi was identified by Belgian intelligence as an officer of Iran's Ministry of Intelligence operating under diplomatic cover at the Iranian embassy in Vienna."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

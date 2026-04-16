@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-reza-rahimi-opposed-ali-khamenei",
+  "from_entity": "mohammad-reza-rahimi",
+  "to_entity": "ali-khamenei",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2014",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.aljazeera.com/news/2015/2/15/iran-jails-former-vice-president-over-corruption",
+      "source_title": "Iran jails former vice president over corruption",
+      "source_date": "2015-02-15",
+      "description": "Convicted and imprisoned for corruption — seen as part of judiciary targeting Ahmadinejad allies"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Prosecution widely seen as politically motivated targeting of Ahmadinejad circle"
+}

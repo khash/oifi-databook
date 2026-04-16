@@ -1,0 +1,19 @@
+{
+  "entity_id": "tamir-pardo-headed-mossad",
+  "from_entity": "tamir-pardo",
+  "to_entity": "mossad",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2011-01-01",
+  "date_to": "2016-01-06",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Tamir_Pardo",
+      "source_title": "Tamir Pardo — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Tamir Pardo served as Director of the Mossad from January 2011 to January 2016."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

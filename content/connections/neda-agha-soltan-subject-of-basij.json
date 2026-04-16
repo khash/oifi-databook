@@ -1,0 +1,21 @@
+{
+  "entity_id": "neda-agha-soltan-subject-of-basij",
+  "from_entity": "neda-agha-soltan",
+  "to_entity": "basij",
+  "type": "subject-of",
+  "confidence": "alleged",
+  "date_from": "2009-06-20",
+  "date_to": "2009-06-20",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Killing_of_Neda_Agha-Soltan",
+      "source_title": "Killing of Neda Agha-Soltan — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Eyewitnesses reported she was shot by a Basij militia member"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Shooter never identified or charged"
+}

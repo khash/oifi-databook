@@ -1,0 +1,32 @@
+{
+  "entity_id": "gholam-hossein-nozari",
+  "slug": "gholam-hossein-nozari",
+  "name_en": "Gholam-Hossein Nozari",
+  "name_fa": "غلامحسین نوذری",
+  "has_native_fa_name": true,
+  "aliases": ["Gholamhossein Nozari"],
+  "born": 1954,
+  "birthplace": "Kazerun, Fars",
+  "role": "Minister of Petroleum (2007–2009); former managing director of NIOC",
+  "faction": "conservative",
+  "bio": "Gholam-Hossein Nozari is an Iranian petroleum engineer and politician who served as Minister of Petroleum from 2007 to 2009 under [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad). A career veteran of the National Iranian Oil Company (NIOC), he was appointed managing director of NIOC in March 2006 before succeeding [Kazem Vaziri Hamaneh](/people/kazem-vaziri-hamaneh) as oil minister in August 2007. He oversaw the [Ministry of Petroleum](/orgs/ministry-of-petroleum) during a period of volatile oil prices. In 2012 he was nominated as Secretary General of OPEC.",
+  "irgc_member": false,
+  "expertise": [
+    "petroleum engineering",
+    "oil and gas management",
+    "OPEC affairs"
+  ],
+  "tags": [
+    "executive"
+  ],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Gholam-Hossein_Nozari",
+      "title": "Gholam-Hossein Nozari — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "Born 1954 in Kazerun. NIOC career man. MD of NIOC 2006. Oil Minister 2007-2009. Nominated OPEC SecGen 2012."
+}

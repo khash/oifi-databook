@@ -1,0 +1,38 @@
+{
+  "entity_id": "farhad-javadi-manesh",
+  "slug": "farhad-javadi-manesh",
+  "name_en": "Farhad Javadi Manesh",
+  "name_fa": "فرهاد جوادی منش",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": "Iran",
+  "role": "Iranian national charged in the UK under the National Security Act 2023 for surveillance of Iran International journalists on behalf of Iranian intelligence",
+  "faction": null,
+  "bio": "Farhad Javadi Manesh is an Iranian national who arrived in the United Kingdom by small boat in 2019 and applied for asylum on religious grounds. In May 2025 he was arrested and charged alongside [Mostafa Sepahvand](/people/mostafa-sepahvand) and [Shapoor Qalehali Khani Noori](/people/shapoor-qalehali-khani-noori) under the National Security Act 2023.\n\nJavadi Manesh is accused of engaging in conduct likely to assist a foreign intelligence service, identified as Iran's [Ministry of Intelligence](/orgs/ministry-of-intelligence), between 14 August 2024 and 16 February 2025. He faces an additional charge under Section 18(1)(b) for conducting surveillance and reconnaissance with the intention that serious violence would be committed by others against a person in the United Kingdom. The targets were journalists at [Iran International](/orgs/iran-international), the London-based Farsi-language broadcaster.\n\nAll three defendants appeared at Westminster Magistrates' Court on 17 May 2025 and were remanded in custody. A plea hearing is scheduled for 26 September 2026 and trial for 5 October 2026 at Woolwich Crown Court.",
+  "irgc_member": false,
+  "expertise": [],
+  "tags": ["intelligence"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.cps.gov.uk/cps/news/three-men-charged-national-security-act-offences",
+      "title": "Three men charged with National Security Act offences",
+      "date": "2025-05-17",
+      "publisher": "Crown Prosecution Service"
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2025/5/17/uk-police-charge-three-iranians-with-suspected-espionage",
+      "title": "UK police charge three Iranians with suspected espionage",
+      "date": "2025-05-17",
+      "publisher": "Al Jazeera"
+    },
+    {
+      "url": "https://www.iranintl.com/en/202506058630",
+      "title": "Three Iranians charged in UK spying case set to face trial",
+      "date": "2025-06-05",
+      "publisher": "Iran International"
+    }
+  ],
+  "editorial_notes": "Age 44 at time of charging (May 2025). Arrived UK by small boat in 2019, claimed asylum on religious grounds. Trial set for October 2026 at Woolwich Crown Court."
+}

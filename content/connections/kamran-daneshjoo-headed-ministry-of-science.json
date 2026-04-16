@@ -1,0 +1,21 @@
+{
+  "entity_id": "kamran-daneshjoo-headed-ministry-of-science",
+  "from_entity": "kamran-daneshjoo",
+  "to_entity": "ministry-of-science",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": "2013",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Kamran_Daneshjoo",
+      "source_title": "Kamran Daneshjoo — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Minister of Science, Research and Technology 2009-2013"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-akbar-javanfekr-opposed-ali-khamenei",
+  "from_entity": "ali-akbar-javanfekr",
+  "to_entity": "ali-khamenei",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2012",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Akbar_Javanfekr",
+      "source_title": "Ali Akbar Javanfekr — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Imprisoned for publishing material deemed insulting to Khamenei"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

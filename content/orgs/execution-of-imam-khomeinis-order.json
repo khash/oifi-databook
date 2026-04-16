@@ -1,0 +1,15 @@
+{
+  "entity_id": "execution-of-imam-khomeinis-order",
+  "slug": "execution-of-imam-khomeinis-order",
+  "name_en": "Execution of Imam Khomeini's Order",
+  "name_fa": "ستاد اجرایی فرمان حضرت امام",
+  "has_native_fa_name": true,
+  "type": "business",
+  "founded": 1989,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Execution of Imam Khomeini's Order (Setad-e Ejrayi-ye Farman-e Hazrat-e Emam, commonly known as Setad) is a massive Iranian economic conglomerate established by decree of [Ali Khamenei](/people/ali-khamenei) in 1989. It manages confiscated and unclaimed properties and operates across real estate, petrochemicals, telecommunications, and finance. Estimated to control assets worth tens of billions of dollars. Headed by [Parviz Fattah](/people/parviz-fattah) since 2023. Sanctioned by the US and EU.",
+  "faction": null,
+  "tags": ["sanctions"],
+  "editorial_notes": "Known as Setad. One of the largest economic entities in Iran, directly controlled by the Supreme Leader's office."
+}

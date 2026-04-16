@@ -1,0 +1,26 @@
+{
+  "entity_id": "mohammad-hosseini",
+  "slug": "mohammad-hosseini",
+  "name_en": "Mohammad Hosseini",
+  "name_fa": "محمد حسینی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1961,
+  "birthplace": "Rafsanjan, Iran",
+  "role": "Minister of Culture and Islamic Guidance (2009-2013); VP for Parliamentary Affairs under Raisi (2021-2024); IRGC veteran",
+  "faction": "hardliner",
+  "bio": "Mohammad Hosseini is an Iranian politician and [IRGC](/orgs/islamic-revolutionary-guard-corps) veteran who served as Minister of Culture and Islamic Guidance in [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad)'s second cabinet from 2009 to 2013, and later as Vice President for Parliamentary Affairs under [Ebrahim Raisi](/people/ebrahim-raisi) from 2021 to 2024.\n\nHosseini joined the [Islamic Revolutionary Guard Corps](/orgs/islamic-revolutionary-guard-corps) following the 1979 revolution and served during the Iran-Iraq War. He holds a PhD in Islamic jurisprudence from Tehran University (1994).\n\nPrior to his ministerial appointment, Hosseini served as head of Sorush Publications, deputy director of [IRIB](/orgs/irib), and advisor to the Islamic Culture and Relations Organization. As head of the [Ministry of Culture](/orgs/ministry-of-culture), he continued the restrictive cultural policies of his predecessor, tightening controls on media, publishing, and the arts.",
+  "irgc_member": true,
+  "expertise": [],
+  "tags": ["executive", "military"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mohammad_Hosseini_(politician)",
+      "title": "Mohammad Hosseini (politician) — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "Born 1961 in Rafsanjan. IRGC veteran. PhD Islamic jurisprudence Tehran University 1994. Also served as VP Parliamentary Affairs under Raisi 2021-2024."
+}

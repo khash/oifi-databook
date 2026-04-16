@@ -1,0 +1,19 @@
+{
+  "entity_id": "killing-of-neda-agha-soltan-2009",
+  "slug": "killing-of-neda-agha-soltan-2009",
+  "name": "Killing of Neda Agha-Soltan",
+  "date": "2009-06-20",
+  "type": "death",
+  "description": "Neda Agha-Soltan, a 26-year-old bystander, was fatally shot during the Green Movement protests in Tehran. Video of her death spread globally, making her the iconic symbol of the movement.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Killing_of_Neda_Agha-Soltan",
+      "title": "Killing of Neda Agha-Soltan — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": ["green-movement", "human-rights"],
+  "editorial_notes": "Shot in Amirabad neighbourhood, Tehran. Shooter believed to be Basij militia member. No charges ever filed."
+}

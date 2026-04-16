@@ -1,0 +1,37 @@
+{
+  "entity_id": "parviz-kazemi",
+  "slug": "parviz-kazemi",
+  "name_en": "Parviz Kazemi",
+  "name_fa": "پرویز کاظمی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Minister of Welfare and Social Security (2005–2006); former chairman of Sarmayeh Bank; convicted of financial fraud",
+  "faction": "conservative",
+  "bio": "Parviz Kazemi is an Iranian politician who served as Minister of Welfare and Social Security in [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad)'s first cabinet from August 2005 until his resignation in 2006 after disagreements with the president. After leaving government, Kazemi became chairman of Sarmayeh Bank. In November 2018 he was arrested and sent to Evin Prison on financial fraud charges. He admitted that 30 million euros were deposited into his wife's account, and prosecutors alleged he issued 46 illegal loans. In 2022 he was sentenced to 20 years in prison and 74 lashes for corruption.",
+  "irgc_member": false,
+  "expertise": [
+    "welfare policy",
+    "banking"
+  ],
+  "tags": [
+    "executive"
+  ],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Parviz_Kazemi",
+      "title": "Parviz Kazemi — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.rferl.org/a/former-iranian-minister-arrested-for-financial-fraud/29594628.html",
+      "title": "Former Iranian Minister Arrested For Financial Fraud",
+      "date": "2018-11-01",
+      "publisher": "RFE/RL"
+    }
+  ],
+  "editorial_notes": "Welfare Minister 2005-2006. Resigned/removed after one year. Chairman of Sarmayeh Bank. Arrested Nov 2018 for financial fraud. Sentenced to 20 years in 2022."
+}

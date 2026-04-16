@@ -1,0 +1,25 @@
+{
+  "entity_id": "ali-kordan-impeachment-2008",
+  "slug": "ali-kordan-impeachment-2008",
+  "name": "Ali Kordan Impeachment",
+  "date": "2008-11-04",
+  "type": "purge",
+  "description": "On 4 November 2008, the [Iranian parliament](/orgs/islamic-consultative-assembly) voted to impeach Interior Minister Ali Kordan after just 90 days in office. Kordan, appointed by President [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad), had claimed to hold an honorary doctorate in law from the University of Oxford. When challenged, he produced a forged diploma. Oxford University confirmed that no such degree had ever been awarded. Kordan subsequently admitted in a letter to Ahmadinejad that he had been 'deceived by a person who claimed to represent Oxford University in Tehran.' The impeachment was a rare instance of the parliament successfully removing a sitting minister and was widely seen as a blow to Ahmadinejad's credibility.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://www.cnn.com/2008/WORLD/meast/11/04/iran.impeachment/index.html",
+      "title": "Iran minister impeached over faked degree",
+      "date": "2008-11-04",
+      "publisher": "CNN"
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2008/11/4/iran-minister-fired-over-fake-phd",
+      "title": "Iran minister fired over fake PhD",
+      "date": "2008-11-04",
+      "publisher": "Al Jazeera"
+    }
+  ],
+  "tags": ["executive", "parliament"],
+  "editorial_notes": "Kordan confirmed by parliament 169-100 in August 2008. Impeached November 2008. He later claimed innocence, saying he was duped."
+}

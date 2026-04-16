@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-saffar-harandi-served-in-kayhan-newspaper",
+  "from_entity": "hossein-saffar-harandi",
+  "to_entity": "kayhan-newspaper",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2005",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hossein_Saffar_Harandi",
+      "source_title": "Hossein Saffar Harandi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Deputy editor of Kayhan newspaper before becoming minister"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

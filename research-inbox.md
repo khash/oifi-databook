@@ -1,158 +1,243 @@
 # Research Inbox — Pending Leads
-Total: 30 pending entries.
+Total: 47 pending entries.
 
-## People (16)
+## People (27)
 
-### Fereydoun Zandi Aliabadi
+### Pouria Zeraati
 - **Status:** pending
-- **Surfaced from:** Mostafa Roudaki ingestion
-- **Why it matters:** MOIS station chief in Albania before Roudaki (replaced end of 2017). Intelligence operative in the MEK-targeting network.
+- **Surfaced from:** UK Iran International case ingestion
+- **Why it matters:** Iran International journalist stabbed outside his London home in March 2024, widely linked to Iranian state threats against the broadcaster.
 
-### Hassan Kazemi Qomi
+### Hafez Tavassoli
 - **Status:** pending
-- **Surfaced from:** Alireza Bigdeli ingestion
-- **Why it matters:** Previous Iranian ambassador to Afghanistan, replaced by Bigdeli in 2024. Also former IRGC Quds Force commander in Iraq — dual diplomatic/military role.
+- **Surfaced from:** Azerbaijan IRGC plot ingestion
+- **Why it matters:** Iranian national, ground coordinator of 2026 Baku terror plot.
 
-### Mostafa Sepahvand
+### Zandkian Yaser Rahim
 - **Status:** pending
-- **Surfaced from:** Mostafa Roudaki ingestion (correction — UK Iran International case)
-- **Why it matters:** Charged in UK May 2025 under National Security Act for surveillance of Iran International journalists. Currently on trial. Key node for UK-based Iranian intelligence operations.
+- **Surfaced from:** Azerbaijan IRGC plot ingestion
+- **Why it matters:** Iranian national, international arrest warrant issued re: 2026 Baku plot.
 
-### Farhad Javadi Manesh
+### Rustamzada Behnam Sahibali
 - **Status:** pending
-- **Surfaced from:** Mostafa Roudaki ingestion (UK Iran International case)
-- **Why it matters:** Co-charged with Sepahvand in UK Iran International surveillance case.
+- **Surfaced from:** Azerbaijan IRGC plot ingestion
+- **Why it matters:** Iranian national, wanted re: 2026 Baku plot.
 
-### Shapoor Qalehali Khani Noori
+### Sheikhzadeh Sajjad Moghadam Sati Sofi Evad
 - **Status:** pending
-- **Surfaced from:** Mostafa Roudaki ingestion (UK Iran International case)
-- **Why it matters:** Co-charged with Sepahvand in UK Iran International surveillance case.
+- **Surfaced from:** Azerbaijan IRGC plot ingestion
+- **Why it matters:** Iranian national, wanted re: 2026 Baku plot.
 
-### Ali-Asghar Bardbar Sharamini
+### Mostafa Khomeini
 - **Status:** pending
-- **Surfaced from:** Alireza Bigdeli ingestion (Azerbaijan IRGC plot 2026)
-- **Why it matters:** Senior IRGC intelligence officer identified by Azerbaijan as planner/coordinator of 2026 IRGC terror plot in Baku targeting Israeli embassy, BTC pipeline, Jewish community.
+- **Surfaced from:** Hussein Khomeini ingestion
+- **Why it matters:** Ruhollah Khomeini's eldest son, died 1977 under suspicious circumstances. Father of Hussein Khomeini.
 
-### Tamir Pardo
+### Meir Dagan
 - **Status:** pending
-- **Surfaced from:** Nuclear scientist assassinations cluster
-- **Why it matters:** Mossad director who reportedly oversaw the Rezaei assassination. Key figure for Israeli covert operations against Iran's nuclear programme.
+- **Surfaced from:** Tamir Pardo ingestion
+- **Why it matters:** Mossad director 2002-2011 who initiated the covert campaign against Iran's nuclear programme.
 
-### Ardeshir Hosseinpour
+### Darioush Rezaeinejad
 - **Status:** pending
-- **Surfaced from:** Nuclear scientist assassinations cluster
-- **Why it matters:** Iranian nuclear scientist who died under suspicious circumstances (2007, possible gas poisoning). Sometimes included in the broader assassination narrative.
+- **Surfaced from:** Nuclear scientist cluster
+- **Why it matters:** Iranian nuclear scientist assassinated July 2011 during Pardo's Mossad tenure.
 
-### Abdol-Rahman Banihashemi
+### Mostafa Ahmadi-Roshan
 - **Status:** pending
-- **Surfaced from:** Mykonos cluster (Abbas Rhayel ingestion)
-- **Why it matters:** Second gunman in Mykonos killings, convicted alongside Rhayel. Completes the operational cell.
+- **Surfaced from:** Nuclear scientist cluster
+- **Why it matters:** Iranian nuclear scientist assassinated January 2012 during Pardo's Mossad tenure.
 
-### Hussein Khomeini
+### Haidar (Mykonos)
 - **Status:** pending
-- **Surfaced from:** Hassan Khomeini ingestion
-- **Why it matters:** Grandson of Ruhollah Khomeini who defected and adopted pro-US stance. Contrasts with Hassan Khomeini's reformist position.
+- **Surfaced from:** Banihashemi ingestion
+- **Why it matters:** Third member of the Mykonos attack team who escaped Germany; outstanding arrest warrant.
 
-### Abu Ali Reda Abbas
+### Masoud Khamenei
 - **Status:** pending
-- **Surfaced from:** Radwan Force ingestion
-- **Why it matters:** Current Radwan Force commander after Ibrahim Aqil's death (Sep 2024). Active operational leadership node.
+- **Surfaced from:** Mohsen Kharrazi ingestion
+- **Why it matters:** Son of Ali Khamenei, married to Mohsen Kharrazi's daughter. Family-network node.
 
-### Mohammad Karami
+### Ali Mussa Daqduq
 - **Status:** pending
-- **Surfaced from:** IRGC military cluster
-- **Why it matters:** Current IRGC Ground Forces commander (2025-present), successor to Pakpour. Completing command succession chain.
+- **Surfaced from:** Abu Ali Reda Abbas ingestion
+- **Why it matters:** Deputy in Radwan Force. Hezbollah Special Operations.
 
-### Amir Hatami
+### Ali al-Sistani
 - **Status:** pending
-- **Surfaced from:** Hossein Dehghan ingestion
-- **Why it matters:** Dehghan's successor as Defense Minister (2017-2021). Part of the defense establishment chain.
+- **Surfaced from:** al-Khoei ingestion
+- **Why it matters:** Student of al-Khoei, succeeded him as leading marja in Najaf. Extremely important Shia authority figure.
 
-### Mohsen Kharazi
+### Muhammad Baqir al-Sadr
 - **Status:** pending
-- **Surfaced from:** Strategic Council on Foreign Relations ingestion
-- **Why it matters:** Brother of Kamal Kharrazi, connected by marriage to the Khamenei family. Potential family-network node.
+- **Surfaced from:** Islamic Dawa Party ingestion
+- **Why it matters:** Founding ideologue of Islamic Dawa Party, executed by Saddam 1980.
 
-### Abbas Babaei (IRIAF pilot, corrected)
+### Nouri al-Maliki
 - **Status:** pending
-- **Surfaced from:** IRGC military cluster (corrected — NOT IRGC Ground Forces)
-- **Why it matters:** Notable Iran-Iraq War IRIAF Air Force pilot killed 1987 by friendly fire. Original inbox entry incorrectly described him as IRGC Ground Forces predecessor to Pakpour. Could be ingested with correct bio.
+- **Surfaced from:** Islamic Dawa Party ingestion
+- **Why it matters:** Iraqi PM, Islamic Dawa Party leader. Key Iran-Iraq relationship node.
 
-### Grand Ayatollah Abu al-Qasim al-Khoei
+### Azar Mansouri
 - **Status:** pending
-- **Surfaced from:** Seyyed Hossein Nasr / Mousavi Tabrizi ingestion
-- **Why it matters:** Senior marja in Najaf; many key Iranian clerical figures studied under him. Major Shi'a authority node.
+- **Surfaced from:** Reform Front of Iran ingestion
+- **Why it matters:** Chair of Reform Front of Iran since July 2023. First woman to chair a major Iranian political coalition.
 
-## Organisations (8)
-
-### K.N. Toosi University of Technology
+### Qais Khazali
 - **Status:** pending
-- **Surfaced from:** Daryoush Rezaei ingestion
-- **Why it matters:** Tehran university where Rezaei was a PhD student. Educational institution in the nuclear programme orbit.
+- **Surfaced from:** Karbala Attack 2007 ingestion
+- **Why it matters:** Leader of Asa'ib Ahl al-Haq, intermediary between Quds Force and Mahdi Army in Karbala raid.
 
-### IRISL Group
+### Mohsen Ruholamini
 - **Status:** pending
-- **Surfaced from:** Mohammad Saeedi ingestion
-- **Why it matters:** Iran's largest state shipping company, headed by Saeedi 2015-2019, SDN-listed. Major sanctions-relevant entity in proliferation-related shipping.
+- **Surfaced from:** Kahrizak ingestion
+- **Why it matters:** Kahrizak victim; his father was a prominent conservative, making the case politically explosive.
 
-### Islamic Dawa Party (Iraq)
+### Ramin Pourandarjani
 - **Status:** pending
-- **Surfaced from:** Abu Mahdi al-Muhandis ingestion
-- **Why it matters:** Iraqi Islamist party; al-Muhandis was a member from 1977. Key node in Iran-Iraq proxy network.
+- **Surfaced from:** Kahrizak ingestion
+- **Why it matters:** Physician whistleblower who documented Kahrizak torture, died under suspicious circumstances Nov 2009.
 
-### Haqqani School
+### Mehdi Ahmadinejad
 - **Status:** pending
-- **Surfaced from:** Ali Qoddousi ingestion
-- **Why it matters:** Shiite seminary in Qom co-founded by Qoddousi in 1964. Produced many Islamic Republic political elites (judges, prosecutors, intelligence officials). Significant pipeline institution.
+- **Surfaced from:** Mashaei ingestion
+- **Why it matters:** Son of Mahmoud Ahmadinejad, married Mashaei's daughter. Family-network node.
 
-### Reform Front of Iran
+### Rostam Ghasemi
 - **Status:** pending
-- **Surfaced from:** Council for Coordinating Reforms Front ingestion
-- **Why it matters:** Successor organization to the Council for Coordinating the Reforms Front, formed 2020. Continuity entity.
+- **Surfaced from:** Mir-Kazemi ingestion
+- **Why it matters:** Oil Minister who succeeded Mir-Kazemi. IRGC/Khatam al-Anbiya commander.
 
-### Camp Ashraf-3
+### Alireza Avaei
 - **Status:** pending
-- **Surfaced from:** Mostafa Roudaki ingestion
-- **Why it matters:** MEK compound near Manez, Albania; target of Iranian intelligence operations. Location entity for the Albania intel cluster.
+- **Surfaced from:** Cabinet batch 2 ingestion
+- **Why it matters:** Minister of Justice 2017-2021, EU-sanctioned for role in executions.
 
-### Imperial Iranian Academy of Philosophy
+### Hossein Shariatmadari
 - **Status:** pending
-- **Surfaced from:** Seyyed Hossein Nasr ingestion
-- **Why it matters:** Founded by Nasr at Farah Pahlavi's request; major pre-revolutionary intellectual institution.
+- **Surfaced from:** Saffar Harandi ingestion
+- **Why it matters:** Editor-in-chief of Kayhan newspaper. Khamenei's direct representative at Kayhan.
 
-### Farah Pahlavi
+### Mohammad-Hassan Tarighat Monfared
 - **Status:** pending
-- **Surfaced from:** Seyyed Hossein Nasr ingestion
-- **Why it matters:** Empress who commissioned Nasr's Academy. Pre-revolutionary cultural/intellectual figure. Could be person or noted as context.
+- **Surfaced from:** Vahid-Dastjerdi ingestion
+- **Why it matters:** Caretaker Health Minister after Vahid-Dastjerdi's dismissal Dec 2012.
 
-## Events (6)
-
-### Azerbaijan IRGC Terror Plot Foiled (2026)
+### Reza Pahlavi (Crown Prince)
 - **Status:** pending
-- **Surfaced from:** Alireza Bigdeli ingestion
-- **Why it matters:** March 2026, Azerbaijan announced foiling IRGC-linked group planning attacks on BTC pipeline, Israeli embassy, Jewish community in Baku. 4 arrested.
+- **Surfaced from:** Hussein Khomeini ingestion
+- **Why it matters:** Met Hussein Khomeini in the US 2003. Historic encounter between two most symbolic Iranian political families.
 
-### Assadi Prisoner Exchange (2023)
+### Mahboobeh Hosseinpour
 - **Status:** pending
-- **Surfaced from:** Mostafa Roudaki ingestion
-- **Why it matters:** May 2023, Belgium released Assadi in exchange for Belgian aid worker Olivier Vandecasteele. Controversial diplomatic deal.
+- **Surfaced from:** Ardeshir Hosseinpour ingestion
+- **Why it matters:** Ardeshir's sister who publicly accused IRGC of his murder. Witness/source figure.
 
-### Albania Severs Diplomatic Relations with Iran (2022)
+### Ali Larijani
 - **Status:** pending
-- **Surfaced from:** Mostafa Roudaki ingestion
-- **Why it matters:** September 2022, Albania completely cut ties with Iran following cyberattacks, escalating from the 2018 expulsions.
+- **Surfaced from:** Cabinet batch 1 ingestion
+- **Why it matters:** Parliament speaker during Ahmadinejad era. Major political figure. May already be in DB.
 
-### 1983 Kuwait Bombings
-- **Status:** pending
-- **Surfaced from:** Abu Mahdi al-Muhandis ingestion
-- **Why it matters:** Al-Muhandis was sentenced to death in absentia for involvement. Key early IRGC-proxy event.
+## Organisations (10)
 
-### Karbala Attack (2007)
+### Asa'ib Ahl al-Haq
 - **Status:** pending
-- **Surfaced from:** Abdul Reza Shahlai ingestion
-- **Why it matters:** Attack killing US soldiers in Karbala, attributed to Shahlai's direction. Key IRGC-QF operational event.
+- **Surfaced from:** Karbala Attack 2007 ingestion
+- **Why it matters:** Iraqi Shia militia that executed the Karbala raid. Iran-backed proxy.
 
-### Hassan Khomeini Guardian Council Rejection (2016)
+### Mostazafan Foundation
 - **Status:** pending
-- **Surfaced from:** Hassan Khomeini ingestion
-- **Why it matters:** Guardian Council disqualified Hassan Khomeini from Assembly of Experts election. Electoral-vetting event bridging Khomeini legacy and institutional control.
+- **Surfaced from:** Multiple ingestions (Fattah, Saeedikia)
+- **Why it matters:** Major bonyad; Fattah headed it 2019-2023. IRGC economic network.
+
+### Bonyad-e Taavon-e Sepah
+- **Status:** pending
+- **Surfaced from:** Fattah ingestion
+- **Why it matters:** IRGC cooperative foundation; basis for US sanctions on Fattah.
+
+### Society of Devotees of the Islamic Revolution (Isargaran)
+- **Status:** pending
+- **Surfaced from:** Forouzandeh ingestion
+- **Why it matters:** Political faction of ex-IRGC war commanders. Key vehicle for Ahmadinejad's rise.
+
+### Al-Khoei Benevolent Foundation
+- **Status:** pending
+- **Surfaced from:** al-Khoei ingestion
+- **Why it matters:** International charitable org founded by Grand Ayatollah al-Khoei.
+
+### Iran University of Science and Technology (IUST)
+- **Status:** pending
+- **Surfaced from:** Mashaei/Samareh Hashemi ingestion
+- **Why it matters:** Where Ahmadinejad and Samareh Hashemi met. Origin of the political network.
+
+### Sarmayeh Bank
+- **Status:** pending
+- **Surfaced from:** Parviz Kazemi ingestion
+- **Why it matters:** Bank chaired by Kazemi; center of his corruption case.
+
+### National Development Fund (NDF)
+- **Status:** pending
+- **Surfaced from:** Ghazanfari ingestion
+- **Why it matters:** Iran's sovereign wealth fund, chaired by Ghazanfari after ministerial tenure.
+
+### SAIPA / Pars Khodro
+- **Status:** pending
+- **Surfaced from:** Bazrpash ingestion
+- **Why it matters:** Iran's largest automakers. Bazrpash was CEO.
+
+### Metropolitan Police Counter Terrorism Command (SO15)
+- **Status:** pending
+- **Surfaced from:** UK Iran International case ingestion
+- **Why it matters:** Led investigation into Sepahvand et al. Recurring UK-based Iran threat actor.
+
+## Events (10)
+
+### Albanian Police Raid on Camp Ashraf-3 (June 2023)
+- **Status:** pending
+- **Surfaced from:** Camp Ashraf-3 ingestion
+- **Why it matters:** Controversial raid, 1 death, 36 injuries. MEK-Albania tensions.
+
+### HomeLand Justice Cyberattack on Albania (July 2022)
+- **Status:** pending
+- **Surfaced from:** Albania diplomatic severance ingestion
+- **Why it matters:** The underlying cyberattack that triggered the diplomatic break.
+
+### Iranian Drone Strikes on Nakhchivan (March 2026)
+- **Status:** pending
+- **Surfaced from:** Azerbaijan IRGC plot ingestion
+- **Why it matters:** First spillover of US-Israel-Iran conflict into South Caucasus.
+
+### 2016 Assembly of Experts Election
+- **Status:** pending
+- **Surfaced from:** Hassan Khomeini GC rejection ingestion
+- **Why it matters:** Broader election in which 80% of candidates were vetted out.
+
+### 2011 Iranian Embezzlement Scandal
+- **Status:** pending
+- **Surfaced from:** Cabinet batch 1 ingestion
+- **Why it matters:** Largest financial fraud in Iran's history at the time. Hosseini faced impeachment.
+
+### Woolwich Crown Court Trial (Iran International case, Oct 2026)
+- **Status:** pending
+- **Surfaced from:** UK Iran International case ingestion
+- **Why it matters:** First NSA 2023 prosecution of Iranian nationals.
+
+### Iranian Oil Bourse Opening (2008)
+- **Status:** pending
+- **Surfaced from:** Danesh-Jafari ingestion
+- **Why it matters:** Kish Island commodity exchange opened Feb 2008.
+
+### National Security Act 2023 (UK)
+- **Status:** pending
+- **Surfaced from:** UK Iran International case ingestion
+- **Why it matters:** UK legislation under which the three suspects are first Iranian nationals charged.
+
+### Killing of Neda Agha-Soltan (2009)
+- **Status:** pending — verify event file completeness
+- **Surfaced from:** Cross-reference
+- **Why it matters:** Already has event file `killing-of-neda-agha-soltan-2009` — verify all connections complete.
+
+### Kahrizak Detention Center Deaths (2009)
+- **Status:** pending — verify event file completeness
+- **Surfaced from:** Cross-reference
+- **Why it matters:** Already has event file `kahrizak-detention-center-deaths-2009` — verify all connections complete.

@@ -1,0 +1,25 @@
+{
+  "entity_id": "karbala-provincial-headquarters-raid-2007",
+  "slug": "karbala-provincial-headquarters-raid-2007",
+  "name": "Karbala Provincial Headquarters Raid",
+  "date": "2007-01-20",
+  "type": "death",
+  "description": "On 20 January 2007, a team of nine to twelve militants disguised as an American security detail — wearing US military uniforms, carrying American weapons, and travelling in black GMC Suburbans — raided the Joint Provincial Coordination Center in Karbala, Iraq, killing five US soldiers and wounding three others. The attack was planned by [IRGC Quds Force](/orgs/irgc-quds-force) commander [Abdul Reza Shahlai](/people/abdul-reza-shahlai) and executed by the Asa'ib Ahl al-Haq militia. US intelligence discovered satellite imagery showing an exact mockup of the Karbala compound inside Iran, believed to have been used for rehearsal. The US State Department later offered a $15 million reward for information on Shahlai.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Karbala_provincial_headquarters_raid",
+      "title": "Karbala provincial headquarters raid — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.militarytimes.com/flashpoints/2019/12/05/us-offering-15-million-bounty-for-info-on-iranian-who-planned-2007-karbala-attack-that-killed-5-us-troops/",
+      "title": "US offering $15 million for info on Iranian planner of 2007 Karbala attack",
+      "date": "2019-12-05",
+      "publisher": "Military Times"
+    }
+  ],
+  "tags": ["proxy-warfare", "military"],
+  "editorial_notes": "5 US soldiers killed, 3 wounded. Called the boldest and most sophisticated attack in four years of war. Shahlai is a Quds Force commander, later based in Yemen."
+}

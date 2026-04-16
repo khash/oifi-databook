@@ -1,0 +1,26 @@
+{
+  "entity_id": "mohammad-sharif-malekzadeh",
+  "slug": "mohammad-sharif-malekzadeh",
+  "name_en": "Mohammad Sharif Malekzadeh",
+  "name_fa": "محمدشریف ملک‌زاده",
+  "has_native_fa_name": true,
+  "aliases": ["Mohammed Sharif Malekzadeh"],
+  "born": null,
+  "birthplace": null,
+  "role": "VP for Cultural Heritage, Handicrafts and Tourism (2012–2013)",
+  "faction": "hardliner",
+  "bio": "Mohammad Sharif Malekzadeh served as Vice President and head of the [Cultural Heritage, Handicrafts and Tourism Organization](/orgs/cultural-heritage-organization) from 2012 to 2013 under President [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad). He was a close associate of [Esfandiar Rahim Mashaei](/people/esfandiar-rahim-mashaei) and part of the inner circle that managed cultural heritage affairs throughout the Ahmadinejad presidency, alongside [Hamid Baghaei](/people/hamid-baghaei).\n\nMalekzadeh's appointment continued the pattern of Mashaei loyalists controlling the Cultural Heritage Organization, which had served as a power base for the 'deviant current' faction.",
+  "irgc_member": false,
+  "expertise": ["cultural heritage", "tourism"],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mohammed_Sharif_Malekzadeh",
+      "title": "Mohammed Sharif Malekzadeh — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": ["executive"],
+  "photo": null,
+  "editorial_notes": "Close associate of Mashaei. Some sources describe as Mashaei's relative but this is unconfirmed."
+}

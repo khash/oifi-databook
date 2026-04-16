@@ -1,0 +1,19 @@
+{
+  "entity_id": "camp-ashraf-3-subsidiary-of-mojahedin-e-khalq",
+  "from_entity": "camp-ashraf-3",
+  "to_entity": "mojahedin-e-khalq",
+  "type": "subsidiary-of",
+  "confidence": "confirmed",
+  "date_from": "2016",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Camp_Ashraf_3",
+      "source_title": "Camp Ashraf 3 — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Camp Ashraf-3 serves as the current headquarters of the MEK in Albania, housing approximately 3,000 members relocated from Iraq."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

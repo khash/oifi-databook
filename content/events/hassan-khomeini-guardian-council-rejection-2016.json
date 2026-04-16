@@ -1,0 +1,25 @@
+{
+  "entity_id": "hassan-khomeini-guardian-council-rejection-2016",
+  "slug": "hassan-khomeini-guardian-council-rejection-2016",
+  "name": "Hassan Khomeini Guardian Council Rejection",
+  "date": "2016-02-10",
+  "type": "election",
+  "description": "In the lead-up to the February 2016 [Assembly of Experts](/orgs/assembly-of-experts) election, the [Guardian Council](/orgs/guardian-council) disqualified [Hassan Khomeini](/people/hassan-khomeini), the grandson of [Ayatollah Ruhollah Khomeini](/people/ruhollah-khomeini), from running. Hassan Khomeini registered his candidacy on 18 December 2015 but reportedly never received an invitation to the mandatory written exam on Islamic jurisprudence. After his initial rejection, his appeal was denied on 10 February 2016, with the Guardian Council stating he did not possess 'enough Islamic knowledge to distinguish the next supreme leader.' The disqualification of the revolution's founder's grandson was widely seen as a signal of hardliner dominance over the vetting process.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://iranprimer.usip.org/blog/2015/dec/18/khomeini-grandson-enters-politics",
+      "title": "Khomeini Grandson Disqualified in Elections — The Iran Primer",
+      "date": "2015-12-18",
+      "publisher": "USIP"
+    },
+    {
+      "url": "https://www.voanews.com/a/grandson-of-iran-islamic-republic-founder-barred-from-poll/3163051.html",
+      "title": "Grandson of Iran's Islamic Republic Founder Barred from Poll",
+      "date": "2016-01-28",
+      "publisher": "VOA"
+    }
+  ],
+  "tags": ["electoral-vetting", "clerical"],
+  "editorial_notes": "Part of broader pattern: nearly 80% of Assembly of Experts candidates disqualified in 2016 cycle."
+}

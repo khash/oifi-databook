@@ -1,0 +1,21 @@
+{
+  "entity_id": "parviz-fattah-headed-execution-of-imam-khomeinis-order",
+  "from_entity": "parviz-fattah",
+  "to_entity": "execution-of-imam-khomeinis-order",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2023",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202310296623",
+      "source_title": "Khamenei Appoints IRGC Member To Head Economic Conglomerate",
+      "source_date": "2023-10-29",
+      "description": "Appointed head of Setad (Execution of Imam Khomeini's Order) by Khamenei in 2023"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-akbar-javanfekr-headed-irna",
+  "from_entity": "ali-akbar-javanfekr",
+  "to_entity": "irna",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2010-11",
+  "date_to": "2013",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Akbar_Javanfekr",
+      "source_title": "Ali Akbar Javanfekr — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Managing Director of IRNA from November 2010"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,31 @@
+{
+  "entity_id": "mohammad-reza-bahonar",
+  "slug": "mohammad-reza-bahonar",
+  "name_en": "Mohammad-Reza Bahonar",
+  "name_fa": "محمدرضا باهنر",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1952,
+  "birthplace": "Kerman, Kerman Province",
+  "role": "First Deputy Speaker of the Islamic Consultative Assembly (2004–2016); brother of PM Mohammad-Javad Bahonar",
+  "faction": "conservative",
+  "bio": "Mohammad-Reza Bahonar is an Iranian conservative politician and the brother of assassinated Prime Minister [Mohammad-Javad Bahonar](/people/mohammad-javad-bahonar). He served as First Deputy Speaker of the [Islamic Consultative Assembly](/orgs/islamic-consultative-assembly) from 2004 to 2016, elected with 188 out of 259 votes. A prominent principlist parliamentarian during the [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad) era, he was also the uncle of Mojtaba Samareh Hashemi, a senior aide to Ahmadinejad. Bahonar was a member of the Society of Islamic Revolution's Devotees (Isargaran) and a fixture of conservative parliamentary politics for over two decades.",
+  "irgc_member": false,
+  "expertise": [
+    "parliamentary politics",
+    "conservative coalition-building"
+  ],
+  "tags": [
+    "parliament"
+  ],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mohammad-Reza_Bahonar",
+      "title": "Mohammad-Reza Bahonar — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "Born 1952 in Kerman. Brother of PM Bahonar. First Deputy Speaker 2004-2016. Uncle of Mojtaba Samareh Hashemi."
+}

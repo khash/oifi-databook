@@ -1,0 +1,21 @@
+{
+  "entity_id": "mojtaba-samareh-hashemi-family-of-mohammad-javad-bahonar",
+  "from_entity": "mojtaba-samareh-hashemi",
+  "to_entity": "mohammad-javad-bahonar",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mojtaba_Samareh_Hashemi",
+      "source_title": "Mojtaba Samareh Hashemi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Nephew of assassinated Prime Minister Mohammad-Javad Bahonar"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "child",
+  "editorial_notes": "Nephew — mapped to child as closest available subtype (nephew of Bahonar = child of Bahonar's sibling)"
+}

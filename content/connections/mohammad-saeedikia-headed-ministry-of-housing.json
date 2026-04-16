@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-saeedikia-headed-ministry-of-housing",
+  "from_entity": "mohammad-saeedikia",
+  "to_entity": "ministry-of-housing",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2005",
+  "date_to": "2009",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Saeedikia",
+      "source_title": "Mohammad Saeedikia — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Saeedikia headed the Ministry of Housing and Urban Development from 2005 to 2009."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

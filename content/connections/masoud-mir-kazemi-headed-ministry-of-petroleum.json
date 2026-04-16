@@ -1,0 +1,21 @@
+{
+  "entity_id": "masoud-mir-kazemi-headed-ministry-of-petroleum",
+  "from_entity": "masoud-mir-kazemi",
+  "to_entity": "ministry-of-petroleum",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": "2011",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Seyyed_Masoud_Mirkazemi",
+      "source_title": "Masoud Mir Kazemi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Minister of Petroleum 2009-2011"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

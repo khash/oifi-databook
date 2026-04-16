@@ -1,0 +1,32 @@
+{
+  "entity_id": "amir-hatami",
+  "slug": "amir-hatami",
+  "name_en": "Amir Hatami",
+  "name_fa": "امیر حاتمی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1966,
+  "birthplace": "Nimowar, Zanjan, Iran",
+  "role": "Commander-in-Chief of the Iranian Army (2025–present); former Minister of Defense (2017–2021)",
+  "faction": "conservative",
+  "bio": "Amir Hatami is a Major General in the [Iranian Army (Artesh)](/orgs/artesh) who served as Minister of Defense and Armed Forces Logistics (2017–2021) under President [Hassan Rouhani](/people/hassan-rouhani), succeeding [Hossein Dehghan](/people/hossein-dehghan). He was the first defense minister drawn from the regular Army rather than the [IRGC](/orgs/islamic-revolutionary-guard-corps) in over two decades.\n\nHatami joined the [Basij](/orgs/basij) as a volunteer at age 14 and began serving in the Army in 1984, participating in the [Iran-Iraq War](/events/iran-iraq-war) including Operation Mersad. He trained at the Imam Ali Officers' Academy and later served as head of the Army's international relations office and deputy chief of staff of the armed forces. As defense minister, he pursued a missile-centric defense doctrine, overseeing development of the Khorramshahr and Fateh ballistic missile systems.\n\nIn June 2025, he was appointed Commander-in-Chief of the Iranian Army by [Ali Khamenei](/people/ali-khamenei), succeeding [Abdolrahim Mousavi](/people/abdolrahim-mousavi).",
+  "irgc_member": false,
+  "expertise": ["defense industry", "missile systems", "military diplomacy"],
+  "tags": ["military", "executive"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Amir_Hatami",
+      "title": "Amir Hatami — Wikipedia",
+      "date": "2025-06-14",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.wionews.com/photos/who-is-iran-s-army-chief-major-general-amir-hatami-1770475477971",
+      "title": "Who is Iran's army chief, Major General Amir Hatami?",
+      "date": "2025-06-14",
+      "publisher": "WION"
+    }
+  ],
+  "editorial_notes": "Born 1966 Zanjan. Defense Minister 2017–2021. Army C-in-C from Jun 2025. First Artesh defense minister in 20+ years."
+}

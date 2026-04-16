@@ -1,0 +1,15 @@
+{
+  "entity_id": "ministry-of-communications",
+  "slug": "ministry-of-communications",
+  "name_en": "Ministry of Communications and Information Technology",
+  "name_fa": "وزارت ارتباطات و فناوری اطلاعات",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 1979,
+  "dissolved": null,
+  "parent_org": "office-of-the-president",
+  "description": "Iran's Ministry of Communications and Information Technology (ICT) oversees telecommunications, postal services, and internet infrastructure. The ministry has played a central role in internet censorship and filtering, particularly after the 2009 presidential election. Under [Reza Taghipour](/people/reza-taghipour) (2009-2012), the ministry cut mobile and SMS services before the election and blocked social networks during the Green Movement protests.",
+  "faction": null,
+  "tags": ["executive"],
+  "editorial_notes": "Key ministry for internet filtering and communications control in Iran."
+}

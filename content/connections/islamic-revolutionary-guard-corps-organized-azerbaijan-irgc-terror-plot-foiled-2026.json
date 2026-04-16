@@ -1,0 +1,19 @@
+{
+  "entity_id": "islamic-revolutionary-guard-corps-organized-azerbaijan-irgc-terror-plot-foiled-2026",
+  "from_entity": "islamic-revolutionary-guard-corps",
+  "to_entity": "azerbaijan-irgc-terror-plot-foiled-2026",
+  "type": "organized",
+  "confidence": "confirmed",
+  "date_from": "2026",
+  "date_to": "2026-03",
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202603062469",
+      "source_title": "Azerbaijan says it foiled alleged IRGC plot",
+      "source_date": "2026-03-06",
+      "description": "Azerbaijan's State Security Service attributed the terror plot to the IRGC, identifying multiple Iranian operatives and seizing C-4 explosives."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

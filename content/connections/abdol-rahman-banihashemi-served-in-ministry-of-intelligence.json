@@ -1,0 +1,19 @@
+{
+  "entity_id": "abdol-rahman-banihashemi-served-in-ministry-of-intelligence",
+  "from_entity": "abdol-rahman-banihashemi",
+  "to_entity": "ministry-of-intelligence",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://iranhrdc.org/murder-at-mykonos-anatomy-of-a-political-assassination/",
+      "source_title": "Murder at Mykonos: Anatomy of a Political Assassination",
+      "source_date": "2006-01-01",
+      "description": "Banihashemi was an established agent of the Iranian Ministry of Intelligence and Security (MOIS) trained in Lebanon."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

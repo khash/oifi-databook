@@ -5,11 +5,11 @@
   "name_fa": "اسکندر مومنی",
   "has_native_fa_name": true,
   "aliases": [],
-  "born": 1965,
-  "birthplace": "Iran",
-  "role": "Minister of Interior (2024–present)",
+  "born": 1962,
+  "birthplace": "Qaem Shahr, Mazandaran",
+  "role": "Minister of Interior (2024–present); former head of Traffic Police (2009–2014) and deputy commander of Law Enforcement Command (2015–2018)",
   "faction": "hardliner",
-  "bio": "Eskandar Momeni is Iran's Minister of Interior under [Masoud Pezeshkian](/people/masoud-pezeshkian), appointed in August 2024. A senior security official with a military background, he previously served in senior positions in law enforcement and security agencies. He superseded [Ahmad Vahidi](/people/ahmad-vahidi)'s hardline tenure at the Interior Ministry.",
+  "bio": "Eskandar Momeni is Iran's Minister of Interior under [Masoud Pezeshkian](/people/masoud-pezeshkian), appointed in August 2024. A veteran of the Iran–Iraq War and [IRGC](/orgs/islamic-revolutionary-guard-corps) affiliate, Momeni held a series of senior [law enforcement](/orgs/law-enforcement-command) posts: head of the Police Emergency Center (2004–2005), deputy for operations of the national police (2005–2008), and chief of traffic police (2009–2014) during [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad)'s presidency. In 2012 Ahmadinejad awarded him the highest service decoration for law enforcement officials. As deputy commander of Iran's Law Enforcement Command (2015–2018), he oversaw security responses during the 2017–18 protests. He holds a doctorate in national security. He superseded [Ahmad Vahidi](/people/ahmad-vahidi)'s hardline tenure at the Interior Ministry.",
   "irgc_member": true,
   "expertise": [
     "interior security",
@@ -20,5 +20,13 @@
     "military"
   ],
   "photo": null,
-  "editorial_notes": "Born 1965. Military background. Appointed Interior Minister August 2024."
+  "sources": [
+    {
+      "url": "https://www.unitedagainstnucleariran.com/eskandar-momeni-minister-of-interior",
+      "title": "Eskandar Momeni: Minister of Interior",
+      "date": "2024-01-01",
+      "publisher": "UANI"
+    }
+  ],
+  "editorial_notes": "Born 1962 in Qaem Shahr. PhD in national security. Traffic police chief 2009-2014 under Ahmadinejad. Deputy commander LEF 2015-2018. Interior Minister August 2024."
 }

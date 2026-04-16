@@ -1,0 +1,29 @@
+{
+  "entity_id": "haqqani-school",
+  "slug": "haqqani-school",
+  "name_en": "Haqqani School",
+  "name_fa": "مدرسه حقانی",
+  "has_native_fa_name": true,
+  "type": "religious",
+  "founded": 1964,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Haqqani School (also known as the Haghani Seminary or Muntashiriya) is a Shiite seminary in Qom founded in 1964 and formerly headed by [Mohammad Taqi Mesbah-Yazdi](/people/mohammad-taqi-mesbah-yazdi). Described as \"a kind of Ecole Nationale d'Administration for the Islamic Republic,\" the seminary has produced many of the clerical and security elites who run Iran's key political institutions. Its curriculum was distinctive for including Western philosophy, natural sciences, social sciences, and foreign languages alongside traditional religious studies.\n\nThe influence of Haqqani graduates in Iran's political system grew substantially after [Mohammad Yazdi](/people/mohammad-yazdi) — a former seminary lecturer — was appointed head of the judiciary in 1989, and peaked during [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad)'s presidency due to his close relationship with Mesbah-Yazdi.",
+  "faction": "hardliner",
+  "tags": ["clerical"],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Haghani_Circle",
+      "title": "Haghani Circle — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.terrorism-info.org.il/en/20575/",
+      "title": "Haqqani and Alavi: hotbeds for the growth and development of Iranian leaders",
+      "date": "2024-01-01",
+      "publisher": "Meir Amit Intelligence and Terrorism Information Center"
+    }
+  ],
+  "editorial_notes": "Founded 1964. Also called Haghani Seminary or Muntashiriya. Headed by Mesbah-Yazdi. Produced many IR elites. Located in Qom."
+}

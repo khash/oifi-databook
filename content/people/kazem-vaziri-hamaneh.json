@@ -1,0 +1,31 @@
+{
+  "entity_id": "kazem-vaziri-hamaneh",
+  "slug": "kazem-vaziri-hamaneh",
+  "name_en": "Kazem Vaziri Hamaneh",
+  "name_fa": "کاظم وزیری هامانه",
+  "has_native_fa_name": true,
+  "aliases": ["Seyyed Kazem Vaziri Hamaneh"],
+  "born": 1945,
+  "birthplace": null,
+  "role": "Minister of Petroleum (2005–2007); acting Oil Minister after Majlis rejected Ahmadinejad's nominees",
+  "faction": "technocrat",
+  "bio": "Seyyed Kazem Vaziri Hamaneh is an Iranian engineer who served as Minister of Petroleum from 2005 to 2007 under [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad). Initially appointed as acting minister because the [Islamic Consultative Assembly](/orgs/islamic-consultative-assembly) rejected three successive presidential nominees for the post, Ahmadinejad was compelled to confirm Vaziri Hamaneh as permanent minister in early 2006. He had previously served as deputy oil minister. He was removed in August 2007 and replaced by [Gholam-Hossein Nozari](/people/gholam-hossein-nozari), after which he became an adviser to the president on oil and gas affairs. He oversaw the [Ministry of Petroleum](/orgs/ministry-of-petroleum) during a period of rising global oil prices.",
+  "irgc_member": false,
+  "expertise": [
+    "petroleum engineering",
+    "oil and gas policy"
+  ],
+  "tags": [
+    "executive"
+  ],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Kazem_Vaziri_Hamaneh",
+      "title": "Kazem Vaziri Hamaneh — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "Born 1945. Engineer. Deputy oil minister before 2005. Acting then permanent Oil Minister 2005-2007. Removed Aug 2007, became presidential adviser."
+}

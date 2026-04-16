@@ -1,0 +1,29 @@
+{
+  "entity_id": "kn-toosi-university-of-technology",
+  "slug": "kn-toosi-university-of-technology",
+  "name_en": "K.N. Toosi University of Technology",
+  "name_fa": "دانشگاه صنعتی خواجه نصیرالدین طوسی",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 1928,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "K.N. Toosi University of Technology (Khajeh Nassir-al-Din Toosi University of Technology) is one of Iran's most prestigious engineering universities, located in Tehran. Founded in 1928 as the Institute of Communications, it is the oldest surviving academic institution in the country. The university was formed in 1980 through a merger of eight technical institutes and renamed in 1984 after the 13th-century Persian polymath Khajeh Nasir ad-Din Toosi. Admission is highly competitive, typically requiring scores in the top 1% of the Iranian University Entrance Exam. The university has been noted by Iran Watch for its connections to Iran's defense and nuclear programs.",
+  "faction": null,
+  "tags": ["nuclear"],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/K._N._Toosi_University_of_Technology",
+      "title": "K. N. Toosi University of Technology — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.iranwatch.org/iranian-entities/k-n-toosi-university-technology",
+      "title": "K. N. Toosi University of Technology — Iran Watch",
+      "date": "2024-01-01",
+      "publisher": "Iran Watch"
+    }
+  ],
+  "editorial_notes": "Founded 1928 as Institute of Communications. Merged 1980. Renamed 1984. Daryoush Rezaei was a PhD student here when assassinated."
+}

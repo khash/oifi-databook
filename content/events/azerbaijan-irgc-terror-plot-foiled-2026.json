@@ -1,0 +1,31 @@
+{
+  "entity_id": "azerbaijan-irgc-terror-plot-foiled-2026",
+  "slug": "azerbaijan-irgc-terror-plot-foiled-2026",
+  "name": "Azerbaijan IRGC Terror Plot Foiled",
+  "date": "2026-03",
+  "type": "indictment",
+  "description": "In March 2026, Azerbaijan's State Security Service (DTX) announced it had foiled a multi-target terror plot orchestrated by Iran's [Islamic Revolutionary Guard Corps](/orgs/islamic-revolutionary-guard-corps) (IRGC). The planned targets included the Baku-Tbilisi-Ceyhan (BTC) oil pipeline, the Israeli embassy in Baku, a leader of Azerbaijan's Jewish community, and an Ashkenazi synagogue. The plot was masterminded by senior IRGC intelligence officer [Ali-Asghar Bardbar Sharamini](/people/ali-asghar-bardbar-sharamini), with ground coordination by Hafez Tavassoli.\n\nInvestigators recovered over seven kilograms of C-4 explosives smuggled into Azerbaijan, including remote-controlled devices hidden at various locations. International arrest warrants were issued for multiple Iranian nationals. The announcement came just days after Iranian drone strikes on Azerbaijan's Nakhchivan exclave, amid escalating tensions linked to the broader US-Israel military campaign against Iran and Azerbaijan's strategic ties with Israel and Turkey.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://www.iranintl.com/en/202603062469",
+      "title": "Azerbaijan says it foiled alleged IRGC plot",
+      "date": "2026-03-06",
+      "publisher": "Iran International"
+    },
+    {
+      "url": "https://oc-media.org/azerbaijan-says-it-foiled-iranian-terror-plot-against-btc-pipeline-jewish-sites/",
+      "title": "Azerbaijan says it foiled Iranian terror plot against BTC pipeline, Jewish sites",
+      "date": "2026-03-07",
+      "publisher": "OC Media"
+    },
+    {
+      "url": "https://www.euronews.com/2026/03/07/azerbaijan-releases-footage-after-foiling-iran-linked-plot-targeting-pipeline-and-jewish-s",
+      "title": "Azerbaijan releases footage after foiling Iran-linked plot targeting pipeline and Jewish sites",
+      "date": "2026-03-07",
+      "publisher": "Euronews"
+    }
+  ],
+  "tags": ["intelligence", "military", "proxy-warfare"],
+  "editorial_notes": "Announced March 2026, days after Iranian drone strikes on Nakhchivan. Targets: BTC pipeline, Israeli embassy, Jewish community in Baku."
+}

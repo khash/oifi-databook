@@ -1,0 +1,19 @@
+{
+  "entity_id": "fereydoun-zandi-aliabadi-named-in-albania-expulsions-iranian-diplomats-2018",
+  "from_entity": "fereydoun-zandi-aliabadi",
+  "to_entity": "albania-expulsions-iranian-diplomats-2018",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2014",
+  "date_to": "2017",
+  "evidence": [
+    {
+      "source_url": "https://www.ncr-iran.org/en/ncri-statements/unmasking-details-on-demonization-campaign-espionage-terrorist-plots-by-the-iranian-regimes-ministry-of-intelligence-embassy-in-albania/",
+      "source_title": "Unmasking Details on Demonization Campaign, Espionage, Terrorist Plots by the Iranian Regime's MOIS, Embassy in Albania",
+      "source_date": "2021-01-01",
+      "description": "Zandi Aliabadi's intelligence activities as MOIS station chief in Tirana were part of the broader pattern of operations that led to the expulsion of Iranian diplomats from Albania."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

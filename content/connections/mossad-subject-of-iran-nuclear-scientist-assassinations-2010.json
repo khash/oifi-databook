@@ -1,0 +1,19 @@
+{
+  "entity_id": "mossad-subject-of-iran-nuclear-scientist-assassinations-2010",
+  "from_entity": "mossad",
+  "to_entity": "iran-nuclear-scientist-assassinations-2010",
+  "type": "directed",
+  "confidence": "alleged",
+  "date_from": "2010",
+  "date_to": "2012",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Assassinations_of_Iranian_nuclear_scientists",
+      "source_title": "Assassinations of Iranian nuclear scientists — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "The Mossad is widely alleged to have directed the campaign of assassinations targeting Iranian nuclear scientists between 2010 and 2012."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": "Israel has never officially confirmed responsibility."
+}

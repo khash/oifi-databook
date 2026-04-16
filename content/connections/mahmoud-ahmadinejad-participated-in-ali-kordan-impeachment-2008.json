@@ -1,0 +1,21 @@
+{
+  "entity_id": "mahmoud-ahmadinejad-participated-in-ali-kordan-impeachment-2008",
+  "from_entity": "mahmoud-ahmadinejad",
+  "to_entity": "ali-kordan-impeachment-2008",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2008",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.cnn.com/2008/WORLD/meast/11/04/iran.impeachment/index.html",
+      "source_title": "Iran minister impeached over faked degree — CNN",
+      "source_date": "2008-11-04",
+      "description": "Ahmadinejad nominated Kordan as interior minister"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

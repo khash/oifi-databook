@@ -1,0 +1,19 @@
+{
+  "entity_id": "fereydoun-zandi-aliabadi-coordinated-with-gholamhossein-mohammadnia",
+  "from_entity": "fereydoun-zandi-aliabadi",
+  "to_entity": "gholamhossein-mohammadnia",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "2014",
+  "date_to": "2017",
+  "evidence": [
+    {
+      "source_url": "https://www.ncr-iran.org/en/ncri-statements/terrorism-fundamentalism/iran-regime-establishes-anti-pmoi-mek-intelligence-station-in-albania/",
+      "source_title": "Iran regime establishes anti-PMOI (MEK) 'intelligence station' in Albania",
+      "source_date": "2019-01-01",
+      "description": "Zandi operated as MOIS station chief within the Iranian embassy in Tirana under Ambassador Mohammadnia, coordinating intelligence operations against the MEK."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

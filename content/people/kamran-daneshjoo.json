@@ -1,0 +1,32 @@
+{
+  "entity_id": "kamran-daneshjoo",
+  "slug": "kamran-daneshjoo",
+  "name_en": "Kamran Daneshjoo",
+  "name_fa": "کامران دانشجو",
+  "has_native_fa_name": true,
+  "aliases": ["Kamran Daneshju", "Kamran Daneshjou"],
+  "born": 1956,
+  "birthplace": null,
+  "role": "Minister of Science, Research and Technology (2009–2013); head of 2009 election headquarters; IRGC-affiliated",
+  "faction": "hardliner",
+  "bio": "Kamran Daneshjoo is an Iranian university professor who served as Minister of Science, Research and Technology from 2009 to 2013 under [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad). Before his appointment, he headed the [Ministry of Interior](/orgs/ministry-of-interior)'s election headquarters for the disputed [2009 presidential election](/events/presidential-election-iran-2009), and opposition leaders accused him of engineering electoral fraud.\n\nAs [Minister of Science](/orgs/ministry-of-science), Daneshjoo implemented controversial policies including preferential university admissions for [Basij](/orgs/basij) members and purges of reformist faculty, drawing condemnation from human rights organizations. He was sanctioned by the European Union in October 2012 for his involvement in Iran's nuclear program, specifically as former project manager of Section 111 of the AMAD Plan.\n\nHis academic credentials were disputed: the chairman of the Education Committee of the [Islamic Consultative Assembly](/orgs/islamic-consultative-assembly) stated he did not hold a legitimate PhD, and a 2009 Nature investigation found extensive plagiarism in a paper he co-authored.",
+  "irgc_member": false,
+  "expertise": ["nuclear", "higher education"],
+  "tags": ["executive", "nuclear", "sanctions"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Kamran_Daneshjoo",
+      "title": "Kamran Daneshjoo — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://iranhumanrights.org/2010/03/daneshjoo_iran/",
+      "title": "Minister of Science's Statements Are Against the Iranian Constitution",
+      "date": "2010-03-01",
+      "publisher": "Center for Human Rights in Iran"
+    }
+  ],
+  "editorial_notes": "Born 2 Feb 1956. EU-sanctioned for AMAD Plan involvement. Plagiarism scandal reported by Nature. Disputed PhD credentials. IRGC-affiliated but not confirmed IRGC member per se."
+}

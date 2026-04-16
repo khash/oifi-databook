@@ -1,0 +1,21 @@
+{
+  "entity_id": "heydar-moslehi-subject-of-ahmadinejad-khamenei-crisis-2011",
+  "from_entity": "heydar-moslehi",
+  "to_entity": "ahmadinejad-khamenei-crisis-2011",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2011-04-17",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.al-monitor.com/originals/2014/05/iran-intelligence-minister-moslehi-ahmadinejad-fire.html",
+      "source_title": "Iran's former intelligence minister discusses clash with Ahmadinejad — Al-Monitor",
+      "source_date": "2014-05-01",
+      "description": "Moslehi was fired by Ahmadinejad and reinstated by Khamenei, the central figure in the crisis"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

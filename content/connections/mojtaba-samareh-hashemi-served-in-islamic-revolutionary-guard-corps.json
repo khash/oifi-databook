@@ -1,0 +1,21 @@
+{
+  "entity_id": "mojtaba-samareh-hashemi-served-in-islamic-revolutionary-guard-corps",
+  "from_entity": "mojtaba-samareh-hashemi",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mojtaba_Samareh_Hashemi",
+      "source_title": "Mojtaba Samareh Hashemi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Strong ties to IRGC and intelligence services"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

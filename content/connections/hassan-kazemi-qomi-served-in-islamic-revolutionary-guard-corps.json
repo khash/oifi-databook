@@ -1,0 +1,19 @@
+{
+  "entity_id": "hassan-kazemi-qomi-served-in-islamic-revolutionary-guard-corps",
+  "from_entity": "hassan-kazemi-qomi",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hassan_Kazemi_Qomi",
+      "source_title": "Hassan Kazemi Qomi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Kazemi Qomi is a high-ranking IRGC commander, specifically within the Quds Force."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "mehrdad-bazrpash-headed-ministry-of-roads",
+  "from_entity": "mehrdad-bazrpash",
+  "to_entity": "ministry-of-roads",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2022",
+  "date_to": "2024",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mehrdad_Bazrpash",
+      "source_title": "Mehrdad Bazrpash — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Bazrpash headed the Ministry of Roads and Urban Development from 2022 to 2024."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

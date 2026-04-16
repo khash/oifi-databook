@@ -1,0 +1,15 @@
+{
+  "entity_id": "tehran-university-of-medical-sciences",
+  "slug": "tehran-university-of-medical-sciences",
+  "name_en": "Tehran University of Medical Sciences",
+  "name_fa": "دانشگاه علوم پزشکی تهران",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 1934,
+  "dissolved": null,
+  "parent_org": "ministry-of-health",
+  "description": "Tehran University of Medical Sciences (TUMS) is Iran's oldest and most prestigious medical university, established in 1934. It operates multiple teaching hospitals and research centers across Tehran. The university falls under the supervision of the [Ministry of Health](/orgs/ministry-of-health). Notable faculty include [Marzieh Vahid-Dastjerdi](/people/marzieh-vahid-dastjerdi).",
+  "faction": null,
+  "tags": [],
+  "editorial_notes": "Iran's top-ranked medical university. Separated from University of Tehran in 1986."
+}

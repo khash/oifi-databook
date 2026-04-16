@@ -1,0 +1,39 @@
+{
+  "entity_id": "abu-al-qasim-al-khoei",
+  "slug": "abu-al-qasim-al-khoei",
+  "name_en": "Grand Ayatollah Abu al-Qasim al-Khoei",
+  "name_fa": "ابوالقاسم موسوی خویی",
+  "has_native_fa_name": true,
+  "aliases": ["Abolqasem al-Khoei", "Abulqasim al-Khoei", "Sayyid Abu al-Qasim al-Musawi al-Khoei"],
+  "born": "1899-11-19",
+  "birthplace": "Khoy, Iran",
+  "died": "1992-08-08",
+  "role": "Grand Ayatollah; senior marja in Najaf (1970–1992)",
+  "faction": null,
+  "bio": "Grand Ayatollah Abu al-Qasim al-Khoei was one of the most influential Twelver Shia Muslim scholars of the twentieth century and the senior marja (source of emulation) in Najaf, Iraq, from 1970 until his death in 1992. Born in Khoy in northwestern Iran, he moved to Najaf at the age of thirteen to study Shia theology. After the death of Muhsin al-Hakim in 1970, al-Khoei became the spiritual leader of much of the Shia world.\n\nAl-Khoei was a rival of [Ruhollah Khomeini](/people/ruhollah-khomeini) from their shared time in Najaf and rejected Khomeini's theory of velayat-e faqih (guardianship of the jurist) as a \"bogus innovation.\" Many key Iranian and Iraqi clerical figures studied under him. He authored more than 90 books on Islamic jurisprudence, theology, and Quranic exegesis, and founded the Al-Khoei Benevolent Foundation.\n\nAfter the 1991 Gulf War, al-Khoei was arrested by Saddam Hussein's forces during the Shia uprising, forced to make public appearances with Saddam, and placed under house arrest in Najaf until his death on 8 August 1992. His funeral was led by his student Ali al-Sistani, who succeeded him as the leading marja in Najaf.",
+  "irgc_member": false,
+  "expertise": ["Islamic jurisprudence", "Quranic exegesis", "hadith sciences"],
+  "tags": ["clerical", "deceased", "house-arrest"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Abu_al-Qasim_al-Khoei",
+      "title": "Abu al-Qasim al-Khoei — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.britannica.com/biography/Abolqasem-al-Khoei",
+      "title": "Abolqasem al-Khoei — Britannica",
+      "date": "2024-01-01",
+      "publisher": "Britannica"
+    },
+    {
+      "url": "https://www.al-khoei.org/grand-ayatollah-al-khoei/",
+      "title": "Grand Ayatollah Al-Khoei",
+      "date": "2024-01-01",
+      "publisher": "Al-Khoei Foundation"
+    }
+  ],
+  "editorial_notes": "Born 19 Nov 1899 Khoy. Died 8 Aug 1992 Najaf under house arrest. Senior marja 1970–1992. Rival of Khomeini. Many Iranian/Iraqi clerics studied under him. Succeeded by Sistani."
+}

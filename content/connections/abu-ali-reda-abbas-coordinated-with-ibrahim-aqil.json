@@ -1,0 +1,19 @@
+{
+  "entity_id": "abu-ali-reda-abbas-coordinated-with-ibrahim-aqil",
+  "from_entity": "abu-ali-reda-abbas",
+  "to_entity": "ibrahim-aqil",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2024-09",
+  "evidence": [
+    {
+      "source_url": "https://www.ynetnews.com/article/sknqz3ppc",
+      "source_title": "Aqil's replacement as Radwan force was trained in Iran",
+      "source_date": "2024-09-22",
+      "description": "Abbas worked closely with Aqil for decades within Hezbollah's military apparatus."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

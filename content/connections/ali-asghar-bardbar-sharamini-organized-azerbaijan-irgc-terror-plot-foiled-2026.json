@@ -1,0 +1,19 @@
+{
+  "entity_id": "ali-asghar-bardbar-sharamini-organized-azerbaijan-irgc-terror-plot-foiled-2026",
+  "from_entity": "ali-asghar-bardbar-sharamini",
+  "to_entity": "azerbaijan-irgc-terror-plot-foiled-2026",
+  "type": "organized",
+  "confidence": "confirmed",
+  "date_from": "2026",
+  "date_to": "2026-03",
+  "evidence": [
+    {
+      "source_url": "https://report.az/en/domestic-politics/azerbaijan-foils-planned-terror-attacks-linked-to-iran-s-revolutionary-guard",
+      "source_title": "State Security Service exposes IRGC terror plans in Azerbaijan",
+      "source_date": "2026-03-06",
+      "description": "Bardbar Sharamini named as the planner and coordinator of the multi-target IRGC terror plot in Azerbaijan, directing operatives who smuggled C-4 explosives into the country."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

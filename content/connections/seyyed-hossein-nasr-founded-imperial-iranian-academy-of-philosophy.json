@@ -1,0 +1,21 @@
+{
+  "entity_id": "seyyed-hossein-nasr-founded-imperial-iranian-academy-of-philosophy",
+  "from_entity": "seyyed-hossein-nasr",
+  "to_entity": "imperial-iranian-academy-of-philosophy",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "1974",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Seyyed_Hossein_Nasr",
+      "source_title": "Seyyed Hossein Nasr — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Nasr founded and led the Imperial Iranian Academy of Philosophy in 1974 at Farah Pahlavi's request"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

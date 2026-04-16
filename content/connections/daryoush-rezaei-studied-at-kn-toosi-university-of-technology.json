@@ -1,0 +1,19 @@
+{
+  "entity_id": "daryoush-rezaei-studied-at-kn-toosi-university-of-technology",
+  "from_entity": "daryoush-rezaei",
+  "to_entity": "kn-toosi-university-of-technology",
+  "type": "studied-at",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2011",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Darioush_Rezaeinejad",
+      "source_title": "Darioush Rezaeinejad — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Rezaei was a PhD student in electrical engineering at K.N. Toosi University of Technology when he was assassinated in 2011."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

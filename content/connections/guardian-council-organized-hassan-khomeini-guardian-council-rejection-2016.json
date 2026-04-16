@@ -1,0 +1,21 @@
+{
+  "entity_id": "guardian-council-organized-hassan-khomeini-guardian-council-rejection-2016",
+  "from_entity": "guardian-council",
+  "to_entity": "hassan-khomeini-guardian-council-rejection-2016",
+  "type": "organized",
+  "confidence": "confirmed",
+  "date_from": "2016",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.voanews.com/a/grandson-of-iran-islamic-republic-founder-barred-from-poll/3163051.html",
+      "source_title": "Grandson of Iran's Islamic Republic Founder Barred from Poll",
+      "source_date": "2016-01-28",
+      "description": "Guardian Council disqualified Hassan Khomeini and rejected his appeal"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

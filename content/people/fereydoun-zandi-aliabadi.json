@@ -1,0 +1,32 @@
+{
+  "entity_id": "fereydoun-zandi-aliabadi",
+  "slug": "fereydoun-zandi-aliabadi",
+  "name_en": "Fereydoun Zandi Aliabadi",
+  "name_fa": "فریدون زندی علی‌آبادی",
+  "has_native_fa_name": true,
+  "aliases": ["Fereidoun Zandi-Aliabadi", "Fereidoun Zandi"],
+  "born": null,
+  "birthplace": null,
+  "role": "Senior MOIS officer; head of Iran's intelligence station in Albania (2014–2017), operating under diplomatic cover as first attaché",
+  "faction": "hardliner",
+  "bio": "Fereydoun Zandi Aliabadi is a senior officer of Iran's [Ministry of Intelligence](/orgs/ministry-of-intelligence) (MOIS) who served as head of the intelligence station at the Iranian embassy in Tirana, Albania, from 2014 to 2017. Operating under the title of first attaché, Zandi managed a network of approximately 25 intelligence officers tasked with surveillance and operations against the [Mojahedin-e Khalq](/orgs/mojahedin-e-khalq) (MEK), whose members had relocated to Albania and were based at [Camp Ashraf-3](/orgs/camp-ashraf-3) near Manez.\n\nZandi coordinated closely with MOIS counterparts in Iraq to build agent networks targeting MEK members. He was replaced as station chief by [Mostafa Roudaki](/people/mostafa-roudaki) at the end of 2017. The subsequent expulsion of Iranian diplomats from Albania, beginning with Ambassador [Gholamhossein Mohammadnia](/people/gholamhossein-mohammadnia) in December 2018, was linked to the intelligence activities that Zandi and his successors had directed.",
+  "irgc_member": false,
+  "expertise": ["intelligence", "covert-operations"],
+  "tags": ["intelligence", "diplomacy"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.ncr-iran.org/en/ncri-statements/terrorism-fundamentalism/iran-regime-establishes-anti-pmoi-mek-intelligence-station-in-albania/",
+      "title": "Iran regime establishes anti-PMOI (MEK) 'intelligence station' in Albania",
+      "date": "2019-01-01",
+      "publisher": "NCRI"
+    },
+    {
+      "url": "https://www.ncr-iran.org/en/ncri-statements/unmasking-details-on-demonization-campaign-espionage-terrorist-plots-by-the-iranian-regimes-ministry-of-intelligence-embassy-in-albania/",
+      "title": "Unmasking Details on Demonization Campaign, Espionage, Terrorist Plots by the Iranian Regime's Ministry of Intelligence, Embassy in Albania",
+      "date": "2021-01-01",
+      "publisher": "NCRI"
+    }
+  ],
+  "editorial_notes": "MOIS station chief in Albania 2014–2017, replaced by Mostafa Roudaki end of 2017. Operated under first attaché cover."
+}

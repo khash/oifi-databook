@@ -1,0 +1,35 @@
+{
+  "entity_id": "islamic-dawa-party",
+  "slug": "islamic-dawa-party",
+  "name_en": "Islamic Dawa Party",
+  "name_fa": "حزب الدعوة الإسلامية",
+  "has_native_fa_name": false,
+  "type": "political-party",
+  "founded": 1957,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Islamic Dawa Party (Hizb al-Da'wa al-Islamiyya) is an Iraqi Shia Islamist political party founded around 1957–1960 in the Shia holy cities of southern Iraq. Established to counter the spread of Marxism and secular ideologies among Iraqi Shia, its leading ideologue was Grand Ayatollah Muhammad Baqir al-Sadr, who wrote the party's manifesto. The party adopted a cell-based organizational structure. It was brutally repressed under Saddam Hussein's Ba'athist regime, particularly after 1979, driving many members into exile in Iran and elsewhere. [Abu Mahdi al-Muhandis](/people/abu-mahdi-al-muhandis) joined the Dawa Party in 1977 before fleeing to Iran. After 2003, the party became a dominant force in Iraqi politics, with members Nouri al-Maliki and Haider al-Abadi serving as Prime Minister.",
+  "faction": null,
+  "tags": ["proxy-warfare"],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Islamic_Dawa_Party",
+      "title": "Islamic Dawa Party — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.britannica.com/topic/Islamic-Dawah-Party",
+      "title": "Islamic Da'wa Party — Britannica",
+      "date": "2024-01-01",
+      "publisher": "Britannica"
+    },
+    {
+      "url": "https://tcf.org/content/report/men-of-dawa-how-the-personalities-of-one-party-shaped-iraqs-new-politics/",
+      "title": "Men of Dawa: How the Personalities of One Party Shaped Iraq's New Politics",
+      "date": "2024-01-01",
+      "publisher": "The Century Foundation"
+    }
+  ],
+  "editorial_notes": "Founded c. 1957–1960. Iraqi Shia Islamist party. Al-Muhandis was a member from 1977. Nouri al-Maliki and Haider al-Abadi later led as Iraqi PMs."
+}

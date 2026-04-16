@@ -1,0 +1,33 @@
+{
+  "entity_id": "abbas-babaei",
+  "slug": "abbas-babaei",
+  "name_en": "Abbas Babaei",
+  "name_fa": "عباس بابایی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": "1950-12-05",
+  "birthplace": "Qazvin, Iran",
+  "died": "1987-08-06",
+  "role": "IRIAF Brigadier General and fighter pilot; killed by friendly fire during Iran-Iraq War",
+  "faction": null,
+  "bio": "Abbas Babaei was an Iranian Brigadier General and fighter pilot in the Islamic Republic of Iran Air Force ([Artesh](/orgs/artesh)) during the [Iran-Iraq War](/events/iran-iraq-war). Born in Qazvin, he trained as a fighter pilot in the United States after graduating high school in 1969. He piloted Northrop F-5 aircraft and became commander of the 8th Tactical Air Base in 1981. Described as \"the mastermind of IRIAF's capability to keep its F-14 fleet intact,\" Babaei was instrumental in maintaining Iran's air superiority during the war despite the post-revolution loss of US technical support.\n\nOn 6 August 1987, Babaei was killed when his F-5B aircraft was struck by a 23mm round from an Iranian air defense system operated by the [IRGC](/orgs/islamic-revolutionary-guard-corps) over Sardasht airspace — a case of friendly fire. The pilot, Major Ali Mohammad Naderi, managed to land the aircraft, but Babaei died within ten minutes from his injuries.",
+  "irgc_member": false,
+  "expertise": ["fighter pilot", "air force logistics", "F-14 maintenance"],
+  "tags": ["killed-in-action", "deceased", "military"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Abbas_Babaei",
+      "title": "Abbas Babaei — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://medium.com/war-is-boring/in-1980-friendly-fire-was-one-of-the-biggest-killers-of-iranian-fighter-pilots-5dc8fd71d221",
+      "title": "In 1980, Friendly Fire Was One of the Biggest Killers of Iranian Fighter Pilots",
+      "date": "2024-01-01",
+      "publisher": "War Is Boring"
+    }
+  ],
+  "editorial_notes": "Born 5 Dec 1950 Qazvin. Killed 6 Aug 1987 by IRGC friendly fire over Sardasht. Trained in US pre-revolution. Key to F-14 fleet survival."
+}

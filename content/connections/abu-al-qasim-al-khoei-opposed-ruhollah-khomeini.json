@@ -1,0 +1,19 @@
+{
+  "entity_id": "abu-al-qasim-al-khoei-opposed-ruhollah-khomeini",
+  "from_entity": "abu-al-qasim-al-khoei",
+  "to_entity": "ruhollah-khomeini",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abu_al-Qasim_al-Khoei",
+      "source_title": "Abu al-Qasim al-Khoei — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Al-Khoei was an old rival of Khomeini from their time in Najaf and dismissed Khomeini's theory of velayat-e faqih as a 'bogus innovation' in Islam."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

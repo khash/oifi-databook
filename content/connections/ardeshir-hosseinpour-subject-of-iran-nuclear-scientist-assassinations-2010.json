@@ -1,0 +1,19 @@
+{
+  "entity_id": "ardeshir-hosseinpour-subject-of-iran-nuclear-scientist-assassinations-2010",
+  "from_entity": "ardeshir-hosseinpour",
+  "to_entity": "iran-nuclear-scientist-assassinations-2010",
+  "type": "subject-of",
+  "confidence": "disputed",
+  "date_from": "2007-01-15",
+  "date_to": "2007-01-15",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ardeshir_Hosseinpour",
+      "source_title": "Ardeshir Hosseinpour — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Hosseinpour's death in 2007 is sometimes linked to the broader campaign of assassinations of Iranian nuclear scientists, though it predates the 2010-2012 wave. Cause of death disputed between gas poisoning, Mossad assassination, and IRGC killing."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": "Death predates the main 2010-2012 assassination wave but is often grouped with them."
+}

@@ -1,0 +1,19 @@
+{
+  "entity_id": "abu-mahdi-al-muhandis-member-of-islamic-dawa-party",
+  "from_entity": "abu-mahdi-al-muhandis",
+  "to_entity": "islamic-dawa-party",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": "1977",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abu_Mahdi_al-Muhandis",
+      "source_title": "Abu Mahdi al-Muhandis — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Al-Muhandis joined the Islamic Dawa Party in 1977 before fleeing to Iran after Saddam's crackdown."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

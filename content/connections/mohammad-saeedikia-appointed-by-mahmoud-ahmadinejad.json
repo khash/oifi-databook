@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-saeedikia-appointed-by-mahmoud-ahmadinejad",
+  "from_entity": "mohammad-saeedikia",
+  "to_entity": "mahmoud-ahmadinejad",
+  "type": "appointed-by",
+  "confidence": "confirmed",
+  "date_from": "2005",
+  "date_to": "2009",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Saeedikia",
+      "source_title": "Mohammad Saeedikia — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Saeedikia was appointed Minister of Housing on 24 August 2005 by Ahmadinejad."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

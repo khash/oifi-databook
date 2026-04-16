@@ -1,0 +1,21 @@
+{
+  "entity_id": "masoud-mir-kazemi-appointed-by-mahmoud-ahmadinejad",
+  "from_entity": "masoud-mir-kazemi",
+  "to_entity": "mahmoud-ahmadinejad",
+  "type": "appointed-by",
+  "confidence": "confirmed",
+  "date_from": "2005",
+  "date_to": "2011",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Seyyed_Masoud_Mirkazemi",
+      "source_title": "Masoud Mir Kazemi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Minister of Commerce 2005-2009, then Minister of Petroleum 2009-2011"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

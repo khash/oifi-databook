@@ -1,0 +1,38 @@
+{
+  "entity_id": "morteza-bakhtiari",
+  "slug": "morteza-bakhtiari",
+  "name_en": "Morteza Bakhtiari",
+  "name_fa": "سید مرتضی بختیاری",
+  "has_native_fa_name": true,
+  "aliases": ["Seyyed Morteza Bakhtiari"],
+  "born": 1952,
+  "birthplace": "Mashhad, Iran",
+  "role": "Minister of Justice (2009-2013); former head of State Prisons Organization (1999-2004); alleged member of Isfahan Death Commission (1988)",
+  "faction": "hardliner",
+  "bio": "Morteza Bakhtiari is an Iranian politician who served as Minister of Justice in [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad)'s second cabinet from 2009 to 2013, succeeding Gholam Hossein Elham.\n\nBefore his ministerial appointment, Bakhtiari headed the [State Prisons Organization](/orgs/prisons-organization) from 1999 to 2004, a period marked by severe criticism of prison conditions and systematic mistreatment of political prisoners.\n\nBakhtiari is alleged to have served as a member of the Isfahan \"Death Commission\" and to have had an active role in the mass execution of political prisoners in 1988 while serving as head of Isfahan's prison. This places him among the officials implicated in one of the most significant episodes of mass political violence in the Islamic Republic's history.\n\nThe European Union imposed sanctions on Bakhtiari in October 2011, including a visa ban and asset freeze, citing human rights abuses during his tenure as Justice Minister. Under his watch at the [Ministry of Justice](/orgs/ministry-of-justice), prison conditions fell well below accepted international standards.",
+  "irgc_member": false,
+  "expertise": [],
+  "tags": ["executive", "judiciary", "human-rights", "sanctions", "1988-massacre"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Morteza_Bakhtiari",
+      "title": "Morteza Bakhtiari — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://iran1988.org/morteza-bakhtiari/",
+      "title": "Seyyed Morteza Bakhtiari — Iran 1988 Massacre",
+      "date": "2024-01-01",
+      "publisher": "Iran 1988 Massacre"
+    },
+    {
+      "url": "https://justice4iran.org/9911/",
+      "title": "Human rights violator: Seyyed Morteza Bakhtiari — Justice for Iran",
+      "date": "2024-01-01",
+      "publisher": "Justice for Iran"
+    }
+  ],
+  "editorial_notes": "Born 1952 in Mashhad. EU sanctioned October 2011. Alleged 1988 Death Commission member in Isfahan. Head of Prisons Organization 1999-2004."
+}

@@ -1,0 +1,19 @@
+{
+  "entity_id": "mohammad-karami-appointed-by-ali-khamenei",
+  "from_entity": "mohammad-karami",
+  "to_entity": "ali-khamenei",
+  "type": "appointed-by",
+  "confidence": "confirmed",
+  "date_from": "2025-06",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://english.khamenei.ir/news/11745/Brigadier-General-Mohammad-Karami-appointed-Commander-of-IRGC",
+      "source_title": "Brigadier General Mohammad Karami appointed Commander of IRGC Ground Forces",
+      "source_date": "2025-06-18",
+      "description": "Khamenei appointed Karami as IRGC Ground Forces commander on 18 June 2025."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

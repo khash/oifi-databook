@@ -1,0 +1,21 @@
+{
+  "entity_id": "marzieh-vahid-dastjerdi-appointed-by-mahmoud-ahmadinejad",
+  "from_entity": "marzieh-vahid-dastjerdi",
+  "to_entity": "mahmoud-ahmadinejad",
+  "type": "appointed-by",
+  "confidence": "confirmed",
+  "date_from": "2009-09",
+  "date_to": "2012-12",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Marzieh_Vahid-Dastjerdi",
+      "source_title": "Marzieh Vahid-Dastjerdi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Appointed Minister of Health by Ahmadinejad, confirmed by Majlis Sep 2009, dismissed Dec 2012"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

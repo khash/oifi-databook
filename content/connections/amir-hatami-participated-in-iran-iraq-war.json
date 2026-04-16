@@ -1,0 +1,19 @@
+{
+  "entity_id": "amir-hatami-participated-in-iran-iraq-war",
+  "from_entity": "amir-hatami",
+  "to_entity": "iran-iraq-war",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1984",
+  "date_to": "1988",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Amir_Hatami",
+      "source_title": "Amir Hatami — Wikipedia",
+      "source_date": "2025-06-14",
+      "description": "Participated in the Iran-Iraq War including Operation Mersad."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

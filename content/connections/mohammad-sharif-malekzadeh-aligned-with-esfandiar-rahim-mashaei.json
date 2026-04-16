@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-sharif-malekzadeh-aligned-with-esfandiar-rahim-mashaei",
+  "from_entity": "mohammad-sharif-malekzadeh",
+  "to_entity": "esfandiar-rahim-mashaei",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammed_Sharif_Malekzadeh",
+      "source_title": "Mohammed Sharif Malekzadeh — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Close associate of Mashaei; part of deviant current"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,19 @@
+{
+  "entity_id": "camp-ashraf-3-subject-of-albania-expulsions-iranian-diplomats-2018",
+  "from_entity": "camp-ashraf-3",
+  "to_entity": "albania-expulsions-iranian-diplomats-2018",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2018",
+  "date_to": "2022",
+  "evidence": [
+    {
+      "source_url": "https://www.ncr-iran.org/en/ncri-statements/terrorism-fundamentalism/iran-regime-establishes-anti-pmoi-mek-intelligence-station-in-albania/",
+      "source_title": "Iran regime establishes anti-PMOI (MEK) 'intelligence station' in Albania",
+      "source_date": "2019-01-01",
+      "description": "Iranian intelligence operations targeting Camp Ashraf-3 residents were a primary factor in Albania's decision to expel Iranian diplomats."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

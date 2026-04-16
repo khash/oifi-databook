@@ -1,0 +1,19 @@
+{
+  "entity_id": "ministry-of-intelligence-directed-camp-ashraf-3",
+  "from_entity": "ministry-of-intelligence",
+  "to_entity": "camp-ashraf-3",
+  "type": "directed",
+  "confidence": "confirmed",
+  "date_from": "2014",
+  "date_to": "2022",
+  "evidence": [
+    {
+      "source_url": "https://www.ncr-iran.org/en/ncri-statements/terrorism-fundamentalism/iran-regime-establishes-anti-pmoi-mek-intelligence-station-in-albania/",
+      "source_title": "Iran regime establishes anti-PMOI (MEK) 'intelligence station' in Albania",
+      "source_date": "2019-01-01",
+      "description": "MOIS ran surveillance and agent networks targeting MEK residents at Camp Ashraf-3 through the Iranian embassy in Tirana, leading to diplomatic expulsions."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": "MOIS directed operations against Camp Ashraf-3 via embassy cover."
+}

@@ -1,0 +1,19 @@
+{
+  "entity_id": "mohammad-karami-served-in-islamic-revolutionary-guard-corps",
+  "from_entity": "mohammad-karami",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Karami",
+      "source_title": "Mohammad Karami — Wikipedia",
+      "source_date": "2025-06-18",
+      "description": "Brigadier General in the IRGC with extensive career in ground forces and provincial governance."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

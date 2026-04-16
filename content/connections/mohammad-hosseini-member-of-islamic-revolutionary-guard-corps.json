@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-hosseini-member-of-islamic-revolutionary-guard-corps",
+  "from_entity": "mohammad-hosseini",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Hosseini_(politician)",
+      "source_title": "Mohammad Hosseini (politician) — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Hosseini joined the IRGC following the 1979 revolution and served during the Iran-Iraq War."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

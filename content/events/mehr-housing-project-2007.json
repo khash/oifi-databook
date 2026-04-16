@@ -1,0 +1,25 @@
+{
+  "entity_id": "mehr-housing-project-2007",
+  "slug": "mehr-housing-project-2007",
+  "name": "Mehr Housing Project",
+  "date": "2007",
+  "type": "policy",
+  "description": "The Mehr Housing Project (Maskan-e Mehr) was President [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad)'s signature populist housing programme, launched in 2007. Under the scheme, the government offered free land parcels to developers in exchange for constructing low-cost residential units for first-time buyers, who received 99-year mortgages. The project aimed to build 2.2 million units across 17 new satellite cities. By the time Ahmadinejad left office in 2013, fewer than 700,000 units had been completed. Many were built with substandard materials in remote areas lacking basic infrastructure, and the programme was blamed for generating roughly 40 percent of Iran's liquidity growth. After the 2017 Kermanshah earthquake, Mehr buildings suffered significant damage, exposing construction deficiencies. The [Majlis](/orgs/islamic-consultative-assembly) eventually voted to halt new construction under the Sixth Five-Year Development Plan.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://ajammc.com/2019/08/14/gender-domestic-space-iran-mehr/",
+      "title": "Parable of Mehr: Gender and Domestic Space in Iran's Largest Housing Project",
+      "date": "2019-08-14",
+      "publisher": "Ajam Media Collective"
+    },
+    {
+      "url": "https://ifpnews.com/irans-parliament-votes-to-end-ahmadinejads-mehr-mass-housing-project/",
+      "title": "Iran's Parliament Votes To End Ahmadinejad's 'Mehr' Mass Housing Project",
+      "date": "2017-01-01",
+      "publisher": "Iran Front Page"
+    }
+  ],
+  "tags": ["executive"],
+  "editorial_notes": "Treated as policy event rather than org. 2.2M target, <700K built. Kermanshah quake 2017 exposed failures. Parliament halted programme under 6th Five-Year Plan."
+}

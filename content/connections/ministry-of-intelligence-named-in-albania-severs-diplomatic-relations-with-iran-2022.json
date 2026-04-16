@@ -1,0 +1,19 @@
+{
+  "entity_id": "ministry-of-intelligence-named-in-albania-severs-diplomatic-relations-with-iran-2022",
+  "from_entity": "ministry-of-intelligence",
+  "to_entity": "albania-severs-diplomatic-relations-with-iran-2022",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2022-09",
+  "date_to": "2022-09",
+  "evidence": [
+    {
+      "source_url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-264a",
+      "source_title": "Iranian State Actors Conduct Cyber Operations Against the Government of Albania",
+      "source_date": "2022-09-21",
+      "description": "Iranian state actors, attributed to intelligence services, conducted destructive cyber operations against Albanian government infrastructure, leading to the severance of diplomatic relations."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

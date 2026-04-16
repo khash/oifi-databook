@@ -1,0 +1,21 @@
+{
+  "entity_id": "parviz-davoodi-aligned-with-esfandiar-rahim-mashaei",
+  "from_entity": "parviz-davoodi",
+  "to_entity": "esfandiar-rahim-mashaei",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Parviz_Davoodi",
+      "source_title": "Parviz Davoodi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Mashaei was appointed to replace Davoodi as First VP"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": "Connection through succession in the First VP role"
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "cultural-heritage-organization-affiliated-with-mahmoud-ahmadinejad",
+  "from_entity": "cultural-heritage-organization",
+  "to_entity": "mahmoud-ahmadinejad",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "2005",
+  "date_to": "2013",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Esfandiar_Rahim_Mashaei",
+      "source_title": "Esfandiar Rahim Mashaei — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Cultural Heritage Organization was a power base for Ahmadinejad's inner circle throughout his presidency"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

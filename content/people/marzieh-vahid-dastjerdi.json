@@ -1,0 +1,32 @@
+{
+  "entity_id": "marzieh-vahid-dastjerdi",
+  "slug": "marzieh-vahid-dastjerdi",
+  "name_en": "Marzieh Vahid-Dastjerdi",
+  "name_fa": "مرضیه وحید دستجردی",
+  "has_native_fa_name": true,
+  "aliases": ["Marzieh Vahid Dastjerdi"],
+  "born": 1959,
+  "birthplace": "Isfahan, Iran",
+  "role": "First female cabinet minister in the Islamic Republic; Minister of Health and Medical Education (2009–2012); gynecologist and university professor",
+  "faction": "conservative",
+  "bio": "Marzieh Vahid-Dastjerdi is an Iranian physician, university professor, and politician who served as Minister of Health and Medical Education from September 2009 to December 2012, making her the first female cabinet minister in the history of the Islamic Republic. She was confirmed by the [Islamic Consultative Assembly](/orgs/islamic-consultative-assembly) with 175 votes in favor.\n\nA graduate of [Tehran University of Medical Sciences](/orgs/tehran-university-of-medical-sciences), Vahid-Dastjerdi specialized in obstetrics and gynecology and served as a faculty member at the university. She was elected to parliament representing Tehran in 1996 and served in the fifth Majlis.\n\nAppointed by [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad) to his second cabinet, Vahid-Dastjerdi was dismissed on 27 December 2012 after publicly criticizing budget cuts to her ministry and the impact of sanctions on pharmaceutical imports. Her dismissal was seen as punishment for breaking ranks with the president's narrative that sanctions had minimal impact on Iran.",
+  "irgc_member": false,
+  "expertise": ["public health", "medical education"],
+  "tags": ["executive"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Marzieh_Vahid-Dastjerdi",
+      "title": "Marzieh Vahid-Dastjerdi — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2010/6/18/irans-first-female-minister",
+      "title": "Iran's first female minister",
+      "date": "2010-06-18",
+      "publisher": "Al Jazeera"
+    }
+  ],
+  "editorial_notes": "Born 11 Feb 1959. First female minister in Islamic Republic. Fired 27 Dec 2012 for criticizing sanctions impact on pharmaceutical supply. Third female minister in Iranian history after Farrokhroo Parsa and Mahnaz Afkhami (both pre-revolution)."
+}

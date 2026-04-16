@@ -1,0 +1,32 @@
+{
+  "entity_id": "gholam-hossein-elham",
+  "slug": "gholam-hossein-elham",
+  "name_en": "Gholam-Hossein Elham",
+  "name_fa": "غلامحسین الهام",
+  "has_native_fa_name": true,
+  "aliases": ["Gholam Hossein Elham"],
+  "born": 1959,
+  "birthplace": null,
+  "role": "Government spokesperson (2005–2009); Justice Minister (2007–2009); Guardian Council member and spokesman",
+  "faction": "hardliner",
+  "bio": "Gholam-Hossein Elham is an Iranian jurist and politician who held multiple roles in [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad)'s government. He served as government spokesperson from 2005, and in February 2007 was narrowly confirmed by the [Islamic Consultative Assembly](/orgs/islamic-consultative-assembly) as [Minister of Justice](/orgs/ministry-of-justice), holding both posts simultaneously until 2009.\n\nPrior to his cabinet roles, Elham was a member of the [Guardian Council](/orgs/guardian-council) from 2003 to 2008 and served as the council's spokesman. He holds a PhD in criminology from [Tarbiat Modares University](/orgs/tarbiat-modares-university).\n\nElham was a vocal defender of Ahmadinejad's policies and dismissed allegations of electoral fraud in the [2009 presidential election](/events/presidential-election-iran-2009).",
+  "irgc_member": false,
+  "expertise": ["law", "criminology"],
+  "tags": ["executive", "judiciary", "electoral-vetting"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Gholam-Hossein_Elham",
+      "title": "Gholam-Hossein Elham — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.rferl.org/a/1074679.html",
+      "title": "Iranian Parliament Approves New Justice Minister",
+      "date": "2007-02-01",
+      "publisher": "RFE/RL"
+    }
+  ],
+  "editorial_notes": "Born 1959. Guardian Council member 2003-2008 and its spokesman. PhD in criminology from Tarbiat Modares. User brief says VP 2012-13 but not confirmed in web sources — omitted for now."
+}

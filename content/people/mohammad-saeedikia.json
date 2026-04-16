@@ -1,0 +1,32 @@
+{
+  "entity_id": "mohammad-saeedikia",
+  "slug": "mohammad-saeedikia",
+  "name_en": "Mohammad Saeedikia",
+  "name_fa": "محمد سعیدی‌کیا",
+  "has_native_fa_name": true,
+  "aliases": ["Mohammad Saeedi Kia"],
+  "born": 1946,
+  "birthplace": "Isfahan, Iran",
+  "role": "Minister of Housing and Urban Development (2005-2009); oversaw Mehr Housing project; former head of Mostazafan Foundation (2014-2019)",
+  "faction": "conservative",
+  "bio": "Mohammad Saeedikia is an Iranian politician and engineer who served as Minister of Housing and Urban Development in [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad)'s first cabinet from 2005 to 2009.\n\nAs head of the [Ministry of Housing](/orgs/ministry-of-housing), Saeedikia oversaw the launch of the Mehr Housing project in 2007, one of the largest subsidized housing programs in Iranian history. The project targeted construction of approximately two million affordable housing units across over 1,100 cities for low- and middle-income first-time buyers. The scheme ultimately cost an estimated $150 billion, roughly 33% of Iran's GDP, and significantly expanded the monetary base.\n\nAfter leaving the ministry, Saeedikia later served as head of the Mostazafan Foundation (Foundation of the Oppressed) from 2014 to 2019, one of the largest state-controlled conglomerates in Iran.",
+  "irgc_member": false,
+  "expertise": [],
+  "tags": ["executive"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mohammad_Saeedikia",
+      "title": "Mohammad Saeedikia — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://erf.org.eg/app/uploads/2021/05/1620154208_843_2224978_139saeedtajrishyupdated.pdf",
+      "title": "The Case of Mehr Housing Project in Iran",
+      "date": "2021-05-01",
+      "publisher": "Economic Research Forum"
+    }
+  ],
+  "editorial_notes": "Born 1946 in Isfahan. Engineer. Mehr Housing launched 2007, estimated $150B cost. Head of Mostazafan Foundation 2014-2019."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-reza-bahonar-served-in-islamic-consultative-assembly",
+  "from_entity": "mohammad-reza-bahonar",
+  "to_entity": "islamic-consultative-assembly",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2004",
+  "date_to": "2016",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad-Reza_Bahonar",
+      "source_title": "Mohammad-Reza Bahonar — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Bahonar served as First Deputy Speaker of the Islamic Consultative Assembly from 2004 to 2016."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

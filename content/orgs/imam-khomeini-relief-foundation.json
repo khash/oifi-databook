@@ -1,0 +1,15 @@
+{
+  "entity_id": "imam-khomeini-relief-foundation",
+  "slug": "imam-khomeini-relief-foundation",
+  "name_en": "Imam Khomeini Relief Foundation",
+  "name_fa": "کمیته امداد امام خمینی",
+  "has_native_fa_name": true,
+  "type": "religious",
+  "founded": 1979,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Imam Khomeini Relief Foundation (Komiteh-ye Emdad-e Emam Khomeini) is one of Iran's largest bonyads (charitable foundations), established in March 1979 by direct order of [Ayatollah Khomeini](/people/ruhollah-khomeini) to provide financial support to impoverished families. With an annual budget reportedly exceeding $2 billion, the foundation provides aid to approximately nine million Iranians. It operates under the direct supervision of the Supreme Leader. Parviz Fattah, a former [IRGC](/orgs/islamic-revolutionary-guard-corps) commander, headed the foundation from 2015 to 2019, underscoring the overlap between the IRGC's economic networks and Iran's ostensibly charitable bonyad system. The foundation has been designated by the US Treasury as part of [Ali Khamenei](/people/ali-khamenei)'s patronage network.",
+  "faction": null,
+  "tags": ["sanctions"],
+  "editorial_notes": "Fattah headed IKRF 2015-2019, then moved to Mostazafan Foundation 2019-2023. US sanctions on Fattah since 2010 via Bonyad Taavon Sepah connection."
+}

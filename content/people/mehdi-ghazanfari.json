@@ -1,0 +1,32 @@
+{
+  "entity_id": "mehdi-ghazanfari",
+  "slug": "mehdi-ghazanfari",
+  "name_en": "Mehdi Ghazanfari",
+  "name_fa": "مهدی غضنفری",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Minister of Commerce (2009–2011); Minister of Industries, Mines and Business (2011–2013); later chairman of National Development Fund",
+  "faction": "conservative",
+  "bio": "Mehdi Ghazanfari is an Iranian politician and technocrat who served in [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad)'s second cabinet, first as Minister of Commerce (2009–2011) and then as Minister of Industries, Mines and Business (2011–2013) after a ministry merger. A graduate of the University of New South Wales in Sydney, he later served as chairman of Iran's National Development Fund (NDF). Ghazanfari has [IRGC](/orgs/islamic-revolutionary-guard-corps) ties from earlier in his career.",
+  "irgc_member": true,
+  "expertise": [
+    "commerce",
+    "industrial policy",
+    "sovereign wealth management"
+  ],
+  "tags": [
+    "executive"
+  ],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mehdi_Ghazanfari",
+      "title": "Mehdi Ghazanfari — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "UNSW graduate. Commerce Minister 2009-2011, Industries/Mines/Business 2011-2013. Later chaired National Development Fund. IRGC alumnus."
+}

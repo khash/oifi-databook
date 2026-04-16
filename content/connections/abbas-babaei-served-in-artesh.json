@@ -1,0 +1,19 @@
+{
+  "entity_id": "abbas-babaei-served-in-artesh",
+  "from_entity": "abbas-babaei",
+  "to_entity": "artesh",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "1987-08-06",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abbas_Babaei",
+      "source_title": "Abbas Babaei — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Brigadier General and fighter pilot in the IRIAF (part of Artesh)."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

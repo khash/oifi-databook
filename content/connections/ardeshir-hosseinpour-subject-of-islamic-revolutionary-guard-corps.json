@@ -1,0 +1,19 @@
+{
+  "entity_id": "ardeshir-hosseinpour-subject-of-islamic-revolutionary-guard-corps",
+  "from_entity": "ardeshir-hosseinpour",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "subject-of",
+  "confidence": "alleged",
+  "date_from": "2007-01-15",
+  "date_to": "2007-01-15",
+  "evidence": [
+    {
+      "source_url": "https://www.haaretz.com/2014-10-02/ty-article/sister-of-murdered-physicist-iran-did-it-not-israel/0000017f-e546-df5f-a17f-ffdef88c0000",
+      "source_title": "Sister of Murdered Iranian Nuclear Scientist Blames Revolutionary Guards",
+      "source_date": "2014-10-02",
+      "description": "Hosseinpour's sister Mahboobeh claimed in 2014 that the IRGC murdered her brother for refusing to participate in nuclear weapons development."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": "Alleged by his sister. Disputed cause of death."
+}

@@ -1,0 +1,38 @@
+{
+  "entity_id": "mostafa-sepahvand",
+  "slug": "mostafa-sepahvand",
+  "name_en": "Mostafa Sepahvand",
+  "name_fa": "مصطفی سپهوند",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": "Iran",
+  "role": "Iranian national charged in the UK under the National Security Act 2023 for surveillance of Iran International journalists on behalf of Iranian intelligence",
+  "faction": null,
+  "bio": "Mostafa Sepahvand is an Iranian national who entered the United Kingdom in 2016 concealed in a lorry and claimed asylum. In May 2025 he was arrested and charged by the Metropolitan Police's Counter Terrorism Command alongside [Farhad Javadi Manesh](/people/farhad-javadi-manesh) and [Shapoor Qalehali Khani Noori](/people/shapoor-qalehali-khani-noori) under the National Security Act 2023 — the first Iranians charged under the legislation.\n\nSepahvand is accused of engaging in conduct likely to assist a foreign intelligence service, identified as Iran's [Ministry of Intelligence](/orgs/ministry-of-intelligence), between 14 August 2024 and 16 February 2025. He faces an additional charge under Section 18(1)(a) of the Act for conducting surveillance, reconnaissance, and open-source research with the intention of committing serious violence against a person in the United Kingdom. The targets were journalists at [Iran International](/orgs/iran-international), the London-based Farsi-language broadcaster that Iran has labelled a terrorist organisation.\n\nAll three defendants appeared at Westminster Magistrates' Court on 17 May 2025 and were remanded in custody. A plea hearing is scheduled for 26 September 2026 and trial for 5 October 2026 at Woolwich Crown Court.",
+  "irgc_member": false,
+  "expertise": [],
+  "tags": ["intelligence"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.cps.gov.uk/cps/news/three-men-charged-national-security-act-offences",
+      "title": "Three men charged with National Security Act offences",
+      "date": "2025-05-17",
+      "publisher": "Crown Prosecution Service"
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2025/5/17/uk-police-charge-three-iranians-with-suspected-espionage",
+      "title": "UK police charge three Iranians with suspected espionage",
+      "date": "2025-05-17",
+      "publisher": "Al Jazeera"
+    },
+    {
+      "url": "https://www.iranintl.com/en/202506058630",
+      "title": "Three Iranians charged in UK spying case set to face trial",
+      "date": "2025-06-05",
+      "publisher": "Iran International"
+    }
+  ],
+  "editorial_notes": "Age 39 at time of charging (May 2025). Entered UK in 2016 in a lorry, claimed asylum. First Iranians charged under National Security Act 2023. Trial set for October 2026 at Woolwich Crown Court."
+}

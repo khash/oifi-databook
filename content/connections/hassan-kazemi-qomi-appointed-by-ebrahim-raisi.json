@@ -1,0 +1,19 @@
+{
+  "entity_id": "hassan-kazemi-qomi-appointed-by-ebrahim-raisi",
+  "from_entity": "hassan-kazemi-qomi",
+  "to_entity": "ebrahim-raisi",
+  "type": "appointed-by",
+  "confidence": "confirmed",
+  "date_from": "2021-10-17",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hassan_Kazemi_Qomi",
+      "source_title": "Hassan Kazemi Qomi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "On 17 October 2021, President Ebrahim Raisi appointed Kazemi Qomi as special envoy and ambassador to Afghanistan."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

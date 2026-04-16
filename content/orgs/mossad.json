@@ -1,0 +1,23 @@
+{
+  "entity_id": "mossad",
+  "slug": "mossad",
+  "name_en": "Mossad",
+  "name_fa": "موساد",
+  "has_native_fa_name": false,
+  "type": "state-institution",
+  "founded": 1949,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Mossad (Institute for Intelligence and Special Operations) is Israel's national intelligence agency, responsible for intelligence collection, covert operations, and counterterrorism abroad. It has been heavily involved in operations against Iran's nuclear programme, including alleged involvement in the [assassinations of Iranian nuclear scientists](/events/iran-nuclear-scientist-assassinations-2010) and sabotage of nuclear facilities.",
+  "faction": null,
+  "tags": ["intelligence"],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mossad",
+      "title": "Mossad — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "Israeli intelligence agency. Key entity for tracking covert operations against Iran's nuclear programme and targeted assassinations."
+}

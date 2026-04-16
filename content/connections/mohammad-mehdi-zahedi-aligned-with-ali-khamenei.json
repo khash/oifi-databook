@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-mehdi-zahedi-aligned-with-ali-khamenei",
+  "from_entity": "mohammad-mehdi-zahedi",
+  "to_entity": "ali-khamenei",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Mehdi_Zahedi",
+      "source_title": "Mohammad Mehdi Zahedi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "After Khamenei's August 2009 speech criticizing social science curricula, Zahedi announced the ministry would revise social science programs accordingly."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

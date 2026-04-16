@@ -1,0 +1,38 @@
+{
+  "entity_id": "parviz-fattah",
+  "slug": "parviz-fattah",
+  "name_en": "Parviz Fattah",
+  "name_fa": "پرویز فتاح",
+  "has_native_fa_name": true,
+  "aliases": ["Parviz Fatah"],
+  "born": null,
+  "birthplace": null,
+  "role": "Minister of Energy (2005–2009); head of Imam Khomeini Relief Foundation, Mostazafan Foundation, and Execution of Imam Khomeini's Order; IRGC-affiliated",
+  "faction": "hardliner",
+  "bio": "Parviz Fattah is an Iranian conservative politician and former [IRGC](/orgs/islamic-revolutionary-guard-corps) member who served as Minister of Energy in [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad)'s first cabinet from 2005 to 2009. After leaving the ministry, he became deputy commander of [Khatam al-Anbiya](/orgs/khatam-al-anbiya), the IRGC's massive construction conglomerate, and executive director of its investment arm, Bonyad-e Taavon-e Sepah.\n\nFattah subsequently headed three of Iran's most powerful economic institutions under [Ali Khamenei](/people/ali-khamenei)'s supervision: the [Imam Khomeini Relief Foundation](/orgs/imam-khomeini-relief-foundation) (2015–2019), the [Mostazafan Foundation](/orgs/mostazafan-foundation) (2019–2023), and the [Execution of Imam Khomeini's Order](/orgs/execution-of-imam-khomeinis-order) (Setad) since 2023.\n\nHe was sanctioned by the US Treasury in December 2010 for his role in Bonyad Taavon Sepah, and again in November 2020 under E.O. 13876 as a Supreme Leader appointee.",
+  "irgc_member": true,
+  "expertise": ["energy", "infrastructure"],
+  "tags": ["executive", "military", "sanctions"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Parviz_Fattah",
+      "title": "Parviz Fattah — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.ifmat.org/04/26/parviz-fatah/",
+      "title": "Parviz Fatah — IFMAT",
+      "date": "2024-01-01",
+      "publisher": "IFMAT"
+    },
+    {
+      "url": "https://home.treasury.gov/news/press-releases/tg1010",
+      "title": "Treasury Designates Iranian Entities Tied to the IRGC and IRISL",
+      "date": "2010-12-21",
+      "publisher": "US Treasury"
+    }
+  ],
+  "editorial_notes": "IRGC member. US-sanctioned (2010, 2020). Career trajectory: Energy Minister -> Khatam al-Anbiya deputy -> IKRF head -> Mostazafan head -> Setad head. Exemplifies IRGC penetration of Iran's economic institutions."
+}

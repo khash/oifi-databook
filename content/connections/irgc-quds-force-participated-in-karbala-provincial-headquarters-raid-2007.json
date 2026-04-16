@@ -1,0 +1,21 @@
+{
+  "entity_id": "irgc-quds-force-participated-in-karbala-provincial-headquarters-raid-2007",
+  "from_entity": "irgc-quds-force",
+  "to_entity": "karbala-provincial-headquarters-raid-2007",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2007-01-20",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.longwarjournal.org/archives/2007/01/the_karbala_attack_a.php",
+      "source_title": "The Karbala attack and the IRGC — Long War Journal",
+      "source_date": "2007-01-01",
+      "description": "IRGC Quds Force planned and facilitated the attack including building a mockup of the compound in Iran"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

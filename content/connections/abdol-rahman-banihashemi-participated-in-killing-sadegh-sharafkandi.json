@@ -1,0 +1,19 @@
+{
+  "entity_id": "abdol-rahman-banihashemi-participated-in-killing-sadegh-sharafkandi",
+  "from_entity": "abdol-rahman-banihashemi",
+  "to_entity": "sadegh-sharafkandi",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1992-09-17",
+  "date_to": "1992-09-17",
+  "evidence": [
+    {
+      "source_url": "https://iranhrdc.org/murder-at-mykonos-anatomy-of-a-political-assassination/",
+      "source_title": "Murder at Mykonos: Anatomy of a Political Assassination",
+      "source_date": "2006-01-01",
+      "description": "Banihashemi was one of the two gunmen who shot and killed Sadegh Sharafkandi in the Mykonos restaurant assassination."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

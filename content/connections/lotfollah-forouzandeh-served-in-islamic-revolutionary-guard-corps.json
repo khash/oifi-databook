@@ -1,0 +1,21 @@
+{
+  "entity_id": "lotfollah-forouzandeh-served-in-islamic-revolutionary-guard-corps",
+  "from_entity": "lotfollah-forouzandeh",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "1992",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Lotfollah_Forouzandeh",
+      "source_title": "Lotfollah Forouzandeh — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Forouzandeh held command and deputy positions in the IRGC until 1992."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

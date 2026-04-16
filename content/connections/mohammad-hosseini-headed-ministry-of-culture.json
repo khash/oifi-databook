@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-hosseini-headed-ministry-of-culture",
+  "from_entity": "mohammad-hosseini",
+  "to_entity": "ministry-of-culture",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": "2013",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Hosseini_(politician)",
+      "source_title": "Mohammad Hosseini (politician) — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Hosseini headed the Ministry of Culture and Islamic Guidance from 2009 to 2013."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

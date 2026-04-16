@@ -1,0 +1,21 @@
+{
+  "entity_id": "masoud-pezeshkian-aligned-with-reform-front-of-iran",
+  "from_entity": "masoud-pezeshkian",
+  "to_entity": "reform-front-of-iran",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Reformists_Front",
+      "source_title": "Reformists Front — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Reform coalition played role in election of Pezeshkian"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

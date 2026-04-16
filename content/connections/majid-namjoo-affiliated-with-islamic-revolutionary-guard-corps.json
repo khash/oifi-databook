@@ -1,0 +1,21 @@
+{
+  "entity_id": "majid-namjoo-affiliated-with-islamic-revolutionary-guard-corps",
+  "from_entity": "majid-namjoo",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "affiliated-with",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Majid_Namjoo",
+      "source_title": "Majid Namjoo — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "IRGC-affiliated; succeeded IRGC member Fattah; EU-sanctioned for nuclear links"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "kamran-bagheri-lankarani-headed-ministry-of-health",
+  "from_entity": "kamran-bagheri-lankarani",
+  "to_entity": "ministry-of-health",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2005",
+  "date_to": "2009",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Kamran_Bagheri_Lankarani",
+      "source_title": "Kamran Bagheri Lankarani — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Bagheri Lankarani headed the Ministry of Health and Medical Education from 2005 to 2009."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

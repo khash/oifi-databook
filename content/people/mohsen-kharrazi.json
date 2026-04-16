@@ -1,0 +1,38 @@
+{
+  "entity_id": "mohsen-kharrazi",
+  "slug": "mohsen-kharrazi",
+  "name_en": "Mohsen Kharrazi",
+  "name_fa": "سید محسن خرازی",
+  "has_native_fa_name": true,
+  "aliases": ["Seyyed Mohsen Kharazi"],
+  "born": 1937,
+  "birthplace": "Tehran, Iran",
+  "role": "Ayatollah; member of the Assembly of Experts; brother of Kamal Kharrazi",
+  "faction": "conservative",
+  "bio": "Mohsen Kharrazi is an Iranian Ayatollah and member of the [Assembly of Experts](/orgs/assembly-of-experts). He is a member of the [Society of Seminary Teachers of Qom](/orgs/society-of-seminary-teachers-of-qom). His daughter married Masoud Khamenei, son of Supreme Leader [Ali Khamenei](/people/ali-khamenei), creating a significant family connection between the Kharrazi and Khamenei families. He is the brother of [Kamal Kharrazi](/people/kamal-kharrazi), who served as Iran's Foreign Minister from 1997 to 2005.",
+  "irgc_member": false,
+  "expertise": ["Islamic jurisprudence"],
+  "tags": ["clerical"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mohsen_Kharazi",
+      "title": "Mohsen Kharazi — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Khamenei_family",
+      "title": "Khamenei family — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://iranwire.com/en/features/65677/",
+      "title": "Who's Who in Iran's Network of Powerful Families?",
+      "date": "2024-01-01",
+      "publisher": "IranWire"
+    }
+  ],
+  "editorial_notes": "Born 1937 Tehran. Ayatollah. Assembly of Experts member. Brother of Kamal Kharrazi. Daughter married Masoud Khamenei (son of Ali Khamenei)."
+}

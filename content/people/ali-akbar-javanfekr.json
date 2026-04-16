@@ -1,0 +1,32 @@
+{
+  "entity_id": "ali-akbar-javanfekr",
+  "slug": "ali-akbar-javanfekr",
+  "name_en": "Ali Akbar Javanfekr",
+  "name_fa": "علی‌اکبر جوانفکر",
+  "has_native_fa_name": true,
+  "aliases": ["Javanfekr"],
+  "born": null,
+  "birthplace": null,
+  "role": "Presidential press adviser; Managing Director of IRNA (2010–2013)",
+  "faction": "hardliner",
+  "bio": "Ali Akbar Javanfekr was the presidential press adviser to [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad) and served as Managing Director of the [Islamic Republic News Agency (IRNA)](/orgs/irna) from November 2010. He was considered one of the most powerful figures in shaping Iran's government messaging.\n\nJavanfekr was sentenced in November 2011 to one year in prison for 'publishing materials contrary to Islamic norms' after the Iran newspaper under his supervision published articles questioning the compulsory chador. In September 2012, while Ahmadinejad was delivering his speech at the UN General Assembly in New York, Iranian authorities arrested Javanfekr to begin serving a six-month sentence for publishing material deemed insulting to [Ali Khamenei](/people/ali-khamenei). He was briefly jailed again in August 2018.\n\nJavanfekr was closely associated with the [Esfandiar Rahim Mashaei](/people/esfandiar-rahim-mashaei) circle and the so-called 'deviant current' faction within the Ahmadinejad administration.",
+  "irgc_member": false,
+  "expertise": ["media", "public communications"],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ali_Akbar_Javanfekr",
+      "title": "Ali Akbar Javanfekr — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://cpj.org/data/people/ali-akbar-javanfekr/",
+      "title": "Ali Akbar Javanfekr — Committee to Protect Journalists",
+      "date": "2012-01-01",
+      "publisher": "Committee to Protect Journalists"
+    }
+  ],
+  "tags": ["executive", "political-prisoner"],
+  "photo": null,
+  "editorial_notes": "Head of IRNA from Nov 2010. Multiple imprisonments: Nov 2011 (1 year), Sep 2012 (6 months), Aug 2018 (brief). Part of deviant current."
+}

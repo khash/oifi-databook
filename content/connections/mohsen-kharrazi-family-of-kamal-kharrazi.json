@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohsen-kharrazi-family-of-kamal-kharrazi",
+  "from_entity": "mohsen-kharrazi",
+  "to_entity": "kamal-kharrazi",
+  "type": "family-of",
+  "symmetric": true,
+  "family_subtype": "sibling",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohsen_Kharazi",
+      "source_title": "Mohsen Kharazi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Mohsen Kharrazi is the brother of former Foreign Minister Kamal Kharrazi."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

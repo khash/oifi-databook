@@ -1,0 +1,15 @@
+{
+  "entity_id": "ministry-of-housing",
+  "slug": "ministry-of-housing",
+  "name_en": "Ministry of Housing and Urban Development",
+  "name_fa": "وزارت مسکن و شهرسازی",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 1979,
+  "dissolved": 2011,
+  "parent_org": "office-of-the-president",
+  "description": "Iran's Ministry of Housing and Urban Development oversaw housing policy, urban planning, and construction regulation. Under [Mohammad Saeedikia](/people/mohammad-saeedikia) (2005-2009), the ministry launched the Mehr Housing project, a massive subsidized construction program targeting low- and middle-income households across over 1,100 cities. The ministry was merged with the Ministry of Roads in 2011 to form the Ministry of Roads and Urban Development.",
+  "faction": null,
+  "tags": ["executive"],
+  "editorial_notes": "Merged with Ministry of Roads in 2011. Mehr Housing project estimated to cost ~$150 billion."
+}

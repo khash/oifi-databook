@@ -1,0 +1,21 @@
+{
+  "entity_id": "neda-agha-soltan-participated-in-green-movement-protests-2009",
+  "from_entity": "neda-agha-soltan",
+  "to_entity": "green-movement-protests-2009",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2009-06-20",
+  "date_to": "2009-06-20",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Killing_of_Neda_Agha-Soltan",
+      "source_title": "Killing of Neda Agha-Soltan — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Shot and killed while near protests on 20 June 2009"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

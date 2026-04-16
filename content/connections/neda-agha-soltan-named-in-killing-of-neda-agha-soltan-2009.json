@@ -1,0 +1,21 @@
+{
+  "entity_id": "neda-agha-soltan-named-in-killing-of-neda-agha-soltan-2009",
+  "from_entity": "neda-agha-soltan",
+  "to_entity": "killing-of-neda-agha-soltan-2009",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2009-06-20",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Killing_of_Neda_Agha-Soltan",
+      "source_title": "Killing of Neda Agha-Soltan — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Victim of the killing"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

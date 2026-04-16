@@ -1,0 +1,21 @@
+{
+  "entity_id": "shamseddin-hosseini-served-in-ministry-of-commerce",
+  "from_entity": "shamseddin-hosseini",
+  "to_entity": "ministry-of-commerce",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Shamseddin_Hosseini",
+      "source_title": "Shamseddin Hosseini — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Director general for economic studies at the Commerce Ministry before becoming Finance Minister"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

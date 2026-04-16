@@ -1,0 +1,38 @@
+{
+  "entity_id": "abu-ali-reda-abbas",
+  "slug": "abu-ali-reda-abbas",
+  "name_en": "Abu Ali Reda Abbas",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "aliases": ["Ali Reda Abbas"],
+  "born": 1964,
+  "birthplace": "Barish, Lebanon",
+  "role": "Commander of Hezbollah's Radwan Force (2024–present)",
+  "faction": "hardliner",
+  "bio": "Abu Ali Reda Abbas is the current commander of [Hezbollah](/orgs/hezbollah)'s elite [Radwan Force](/orgs/radwan-force), appointed following the killing of [Ibrahim Aqil](/people/ibrahim-aqil) in an Israeli airstrike in September 2024. Born in Barish in southern Lebanon around 1964, Abbas is a veteran Hezbollah military operative who worked closely with Aqil for decades. He survived an assassination attempt in the 1990s and is considered part of Hezbollah's third generation of commanders. Abbas reportedly holds a university degree and received advanced military training in Iran. He is recognized as a key operations officer within Hezbollah's southern command.",
+  "irgc_member": false,
+  "expertise": ["special operations", "Lebanon operations"],
+  "tags": ["military", "proxy-warfare"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.jpost.com/israel-news/article-821191",
+      "title": "Hezbollah's Radwan Force chooses its new lead commander",
+      "date": "2024-09-22",
+      "publisher": "Jerusalem Post"
+    },
+    {
+      "url": "https://www.ynetnews.com/article/sknqz3ppc",
+      "title": "Aqil's replacement as Radwan force was trained in Iran",
+      "date": "2024-09-22",
+      "publisher": "Ynet News"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Radwan_Force",
+      "title": "Radwan Force — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "Born c. 1964. Appointed Radwan Force commander Sep 2024 after Ibrahim Aqil killed. Survived assassination attempt in 1990s. Trained in Iran."
+}

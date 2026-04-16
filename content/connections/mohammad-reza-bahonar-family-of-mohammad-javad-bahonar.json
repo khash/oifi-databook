@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-reza-bahonar-family-of-mohammad-javad-bahonar",
+  "from_entity": "mohammad-reza-bahonar",
+  "to_entity": "mohammad-javad-bahonar",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad-Reza_Bahonar",
+      "source_title": "Mohammad-Reza Bahonar — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Mohammad-Reza Bahonar is the brother of assassinated Prime Minister Mohammad-Javad Bahonar."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "sibling",
+  "editorial_notes": ""
+}

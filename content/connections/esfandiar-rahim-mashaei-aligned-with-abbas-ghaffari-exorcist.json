@@ -1,0 +1,21 @@
+{
+  "entity_id": "esfandiar-rahim-mashaei-aligned-with-abbas-ghaffari-exorcist",
+  "from_entity": "esfandiar-rahim-mashaei",
+  "to_entity": "abbas-ghaffari-exorcist",
+  "type": "aligned-with",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": "2011",
+  "evidence": [
+    {
+      "source_url": "https://abcnews.go.com/International/iranian-president-ahmadinejad-allies-charged-black-magic-summoning/story?id=13561870",
+      "source_title": "Iranian President Linked to Black Magic, Summoning Genies",
+      "source_date": "2011-05-09",
+      "description": "Ghaffari arrested as part of Mashaei's circle in sorcery crackdown"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

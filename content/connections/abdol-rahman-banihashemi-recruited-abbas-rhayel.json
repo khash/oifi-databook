@@ -1,0 +1,19 @@
+{
+  "entity_id": "abdol-rahman-banihashemi-recruited-abbas-rhayel",
+  "from_entity": "abdol-rahman-banihashemi",
+  "to_entity": "abbas-rhayel",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "1992",
+  "date_to": "1992-09-17",
+  "evidence": [
+    {
+      "source_url": "https://iranhrdc.org/murder-at-mykonos-anatomy-of-a-political-assassination/",
+      "source_title": "Murder at Mykonos: Anatomy of a Political Assassination",
+      "source_date": "2006-01-01",
+      "description": "Banihashemi and Rhayel served as the two gunmen in the Mykonos assassination. Banihashemi led the attack team."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

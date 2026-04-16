@@ -1,0 +1,21 @@
+{
+  "entity_id": "reza-taghipour-named-in-green-movement-protests-2009",
+  "from_entity": "reza-taghipour",
+  "to_entity": "green-movement-protests-2009",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Reza_Taghipour",
+      "source_title": "Reza Taghipour — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "As Communications Minister, Taghipour's ministry cut phone/SMS services and blocked social media during the Green Movement protests."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

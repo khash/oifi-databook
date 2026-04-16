@@ -1,0 +1,38 @@
+{
+  "entity_id": "abdol-rahman-banihashemi",
+  "slug": "abdol-rahman-banihashemi",
+  "name_en": "Abdol-Rahman Banihashemi",
+  "name_fa": "عبدالرحمن بنی‌هاشمی",
+  "has_native_fa_name": true,
+  "aliases": ["Abdolrahman Banihashemi", "Abu Sharif"],
+  "born": null,
+  "birthplace": "Iran",
+  "role": "MOIS operative; led the attack team in the Mykonos restaurant assassination (1992); fugitive with outstanding German arrest warrant",
+  "faction": null,
+  "bio": "Abdol-Rahman Banihashemi is an Iranian operative of the [Ministry of Intelligence](/orgs/ministry-of-intelligence) (MOIS) who led the attack team responsible for the [Mykonos restaurant assassination](/events/mykonos-restaurant-assassination-1992) on 17 September 1992 in Berlin. Trained in Lebanon, Banihashemi was put in charge of the Mykonos operation by Intelligence Minister [Ali Fallahian](/people/ali-fallahian).\n\nBanihashemi served as one of the two gunmen alongside [Abbas Rhayel](/people/abbas-rhayel), reportedly opening fire on the Kurdish leaders with the words \"You sons of whores\" in Persian. The attack killed PDKI Secretary-General [Sadegh Sharafkandi](/people/sadegh-sharafkandi) and three associates.\n\nUnlike [Kazem Darabi](/people/kazem-darabi) and Abbas Rhayel, Banihashemi successfully escaped Germany after the attack. An outstanding arrest warrant issued by the Berlin court remains in effect, and he is believed to be residing in Iran.",
+  "irgc_member": false,
+  "expertise": [],
+  "tags": ["intelligence"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mykonos_restaurant_assassinations",
+      "title": "Mykonos restaurant assassinations — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://iranhrdc.org/murder-at-mykonos-anatomy-of-a-political-assassination/",
+      "title": "Murder at Mykonos: Anatomy of a Political Assassination",
+      "date": "2006-01-01",
+      "publisher": "Iran Human Rights Documentation Center"
+    },
+    {
+      "url": "https://ctc.westpoint.edu/irans-deadly-diplomats/",
+      "title": "Iran's Deadly Diplomats",
+      "date": "2020-01-01",
+      "publisher": "Combating Terrorism Center at West Point"
+    }
+  ],
+  "editorial_notes": "Iranian MOIS operative. Led Mykonos attack team. Escaped Germany after the assassination. Outstanding German arrest warrant. Believed to be in Iran. Was NOT convicted — he fled before trial."
+}

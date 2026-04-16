@@ -1,0 +1,21 @@
+{
+  "entity_id": "saeed-mortazavi-named-in-kahrizak-detention-center-deaths-2009",
+  "from_entity": "saeed-mortazavi",
+  "to_entity": "kahrizak-detention-center-deaths-2009",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://iranhumanrights.org/2016/10/mortazavi-kahrizak/",
+      "source_title": "Seven Years Later No Official Held Accountable for 5 Deaths at Kahrizak",
+      "source_date": "2016-10-01",
+      "description": "Parliamentary investigation implicated Tehran prosecutor-general Saeed Mortazavi as behind the abuses"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,32 @@
+{
+  "entity_id": "esfandiar-rahim-mashaei",
+  "slug": "esfandiar-rahim-mashaei",
+  "name_en": "Esfandiar Rahim Mashaei",
+  "name_fa": "اسفندیار رحیم مشایی",
+  "has_native_fa_name": true,
+  "aliases": ["Rahim Mashaei", "Mashaei"],
+  "born": 1960,
+  "birthplace": "Ramsar, Mazandaran Province",
+  "role": "Chief of Staff to President Ahmadinejad (2009–2013); leader of the 'deviant current'",
+  "faction": "hardliner",
+  "bio": "Esfandiar Rahim Mashaei was the closest political ally of President [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad) and a former intelligence officer. He served as head of the [Cultural Heritage, Handicrafts and Tourism Organization](/orgs/cultural-heritage-organization) from 2005 to 2009, then was briefly appointed First Vice President in July 2009 before [Ali Khamenei](/people/ali-khamenei) ordered his removal after just one week. Ahmadinejad instead made him Chief of Staff, a position he held until 2013.\n\nMashaei became the focal point of what conservative clerics labeled the 'deviant current' (جریان انحرافی) — a faction accused of promoting Iranian nationalism over Islamic identity and undermining clerical authority. His statements criticizing the [Assembly of Experts](/orgs/assembly-of-experts) and the doctrine of velayat-e faqih infuriated the religious establishment. [Mohammad-Taqi Mesbah-Yazdi](/people/mohammad-taqi-mesbah-yazdi) and other senior clerics publicly denounced his influence over the president.\n\nMashaei's daughter married Ahmadinejad's son, further cementing their personal bond. He was barred by the [Guardian Council](/orgs/guardian-council) from running in the 2013 presidential election. In September 2018, a Tehran Revolutionary Court sentenced him to six and a half years in prison for crimes against national security, propaganda against the state, and insulting Islamic sanctities. Associates of Mashaei, including [Abbas Ghaffari](/people/abbas-ghaffari-exorcist), were arrested in 2011 on charges of sorcery.",
+  "irgc_member": false,
+  "expertise": ["cultural heritage", "intelligence", "nationalist ideology"],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Esfandiar_Rahim_Mashaei",
+      "title": "Esfandiar Rahim Mashaei — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.newsweek.com/ahmadinejads-rasputin-esfandiar-rahim-mashaei-66243",
+      "title": "Ahmadinejad's Rasputin: Esfandiar Rahim Mashaei",
+      "date": "2011-03-04",
+      "publisher": "Newsweek"
+    }
+  ],
+  "tags": ["executive", "political-prisoner"],
+  "photo": null,
+  "editorial_notes": "Born 16 November 1960. Former intelligence officer. Sentenced September 2018 to 6.5 years. Family tie to Ahmadinejad: his daughter married Ahmadinejad's son Mehdi."
+}

@@ -1,0 +1,19 @@
+{
+  "entity_id": "haqqani-school-affiliated-with-mohammad-taqi-mesbah-yazdi",
+  "from_entity": "mohammad-taqi-mesbah-yazdi",
+  "to_entity": "haqqani-school",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Haghani_Circle",
+      "source_title": "Haghani Circle — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Mesbah-Yazdi headed the Haqqani School in Qom."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

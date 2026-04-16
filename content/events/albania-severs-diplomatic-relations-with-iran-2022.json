@@ -1,0 +1,31 @@
+{
+  "entity_id": "albania-severs-diplomatic-relations-with-iran-2022",
+  "slug": "albania-severs-diplomatic-relations-with-iran-2022",
+  "name": "Albania Severs Diplomatic Relations with Iran",
+  "date": "2022-09-06",
+  "type": "policy",
+  "description": "On 6 September 2022, Albania severed diplomatic relations with Iran and ordered all Iranian embassy staff to leave within 24 hours. The unprecedented move — the first known case of a country cutting diplomatic ties over a cyberattack — followed a devastating cyberattack on 15 July 2022 that shut down Albanian government digital services and websites. An investigation attributed the attack to Iranian state actors operating under the name 'HomeLand Justice.'\n\nThe severance was the culmination of years of escalating tensions between Albania and Iran over Iranian intelligence operations targeting [Mojahedin-e Khalq](/orgs/mojahedin-e-khalq) (MEK) members based at [Camp Ashraf-3](/orgs/camp-ashraf-3). Earlier actions included the [expulsion of Iranian diplomats](/events/albania-expulsions-iranian-diplomats-2018) beginning in 2018. The United States and NATO allies strongly supported Albania's decision.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://www.aljazeera.com/news/2022/9/7/albania-cuts-diplomatic-ties-with-iran-over-cyberattack",
+      "title": "Albania cuts diplomatic ties with Iran over cyberattack",
+      "date": "2022-09-07",
+      "publisher": "Al Jazeera"
+    },
+    {
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-264a",
+      "title": "Iranian State Actors Conduct Cyber Operations Against the Government of Albania",
+      "date": "2022-09-21",
+      "publisher": "CISA"
+    },
+    {
+      "url": "https://iranprimer.usip.org/blog/2022/sep/09/albania-cuts-ties-iran-over-cyberattack",
+      "title": "Albania Cuts Ties with Iran Over Cyberattack",
+      "date": "2022-09-09",
+      "publisher": "USIP Iran Primer"
+    }
+  ],
+  "tags": ["intelligence", "sanctions", "proxy-warfare"],
+  "editorial_notes": "First known severance of diplomatic relations over a cyberattack. HomeLand Justice attack 15 July 2022. Staff given 24 hours to leave."
+}

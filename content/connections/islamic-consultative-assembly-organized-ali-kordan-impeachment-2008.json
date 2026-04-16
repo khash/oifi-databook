@@ -1,0 +1,21 @@
+{
+  "entity_id": "islamic-consultative-assembly-organized-ali-kordan-impeachment-2008",
+  "from_entity": "islamic-consultative-assembly",
+  "to_entity": "ali-kordan-impeachment-2008",
+  "type": "organized",
+  "confidence": "confirmed",
+  "date_from": "2008-11-04",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.cnn.com/2008/WORLD/meast/11/04/iran.impeachment/index.html",
+      "source_title": "Iran minister impeached over faked degree — CNN",
+      "source_date": "2008-11-04",
+      "description": "Parliament voted to impeach interior minister Ali Kordan"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

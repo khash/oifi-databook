@@ -1,0 +1,26 @@
+{
+  "entity_id": "majid-namjoo",
+  "slug": "majid-namjoo",
+  "name_en": "Majid Namjoo",
+  "name_fa": "مجید نامجو",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Minister of Energy (2009–2013); EU-sanctioned for nuclear program links",
+  "faction": "hardliner",
+  "bio": "Majid Namjoo is an Iranian politician who served as Minister of Energy in [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad)'s second cabinet from August 2009 to August 2013. He was confirmed by the [Islamic Consultative Assembly](/orgs/islamic-consultative-assembly) with 210 out of 290 votes.\n\nAs head of the [Ministry of Energy](/orgs/ministry-of-energy), Namjoo oversaw electricity generation and water resources during a period of increasing international sanctions pressure. In October 2012, the European Union placed him on its sanctions list due to his connection to Iran's nuclear program.\n\nNamjoo succeeded [Parviz Fattah](/people/parviz-fattah) as energy minister, continuing the pattern of [IRGC](/orgs/islamic-revolutionary-guard-corps)-affiliated figures holding the portfolio.",
+  "irgc_member": false,
+  "expertise": ["energy", "infrastructure"],
+  "tags": ["executive", "nuclear", "sanctions"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Majid_Namjoo",
+      "title": "Majid Namjoo — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "EU-sanctioned Oct 2012 for nuclear links. User brief mentions IRGC affiliation and embezzlement conviction but neither confirmed in web sources — marked irgc_member false and omitted prison claim."
+}

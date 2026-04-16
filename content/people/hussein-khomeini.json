@@ -1,0 +1,32 @@
+{
+  "entity_id": "hussein-khomeini",
+  "slug": "hussein-khomeini",
+  "name_en": "Hussein Khomeini",
+  "name_fa": "حسین خمینی",
+  "has_native_fa_name": true,
+  "aliases": ["Hossein Khomeini"],
+  "born": "1959",
+  "birthplace": "Iran",
+  "role": "Grandson of Ruhollah Khomeini; dissident cleric who called for regime change and briefly visited the United States",
+  "faction": "opposition",
+  "bio": "Hussein Khomeini is an Iranian cleric and the grandson of [Ruhollah Khomeini](/people/ruhollah-khomeini), founder of the Islamic Republic. He is the son of Mostafa Khomeini, Ruhollah's eldest son who died in 1977, and a nephew of [Ahmad Khomeini](/people/ahmad-khomeini). His cousin is [Hassan Khomeini](/people/hassan-khomeini).\n\nUnlike most of his family, Hussein emerged as a vocal critic of the theocratic government, denouncing it as a \"dictatorship of clerics.\" He was arrested in 1981 for declaring that \"the new dictatorship established in religious form is worse than that of the Shah and the Mongols\" and was subsequently placed under house arrest.\n\nFollowing the 2003 US-led invasion of Iraq, Hussein relocated to Karbala. During this period he visited the United States, where he was received by Crown Prince Reza Pahlavi in a historic meeting. In 2006, he called for American destruction of the Islamic Republic on Al-Arabiya television. He was subsequently banned from teaching at Qom seminaries. After receiving an urgent message from his grandmother, he returned to Iran, where he has remained under restrictions.",
+  "irgc_member": false,
+  "expertise": [],
+  "tags": ["clerical"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Hussein_Khomeini",
+      "title": "Hussein Khomeini — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Khomeini_family",
+      "title": "Khomeini family — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "Grandson of Ruhollah Khomeini via Mostafa (eldest son). Born ~1958-1959. Dissident cleric. Visited US in 2003, met Reza Pahlavi. Called for regime change on Al-Arabiya in 2006. Returned to Iran under pressure. Tags include 'opposition' as faction label reflecting his political alignment."
+}

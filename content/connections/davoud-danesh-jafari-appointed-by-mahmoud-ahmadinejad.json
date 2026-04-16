@@ -1,0 +1,21 @@
+{
+  "entity_id": "davoud-danesh-jafari-appointed-by-mahmoud-ahmadinejad",
+  "from_entity": "davoud-danesh-jafari",
+  "to_entity": "mahmoud-ahmadinejad",
+  "type": "appointed-by",
+  "confidence": "confirmed",
+  "date_from": "2005",
+  "date_to": "2008",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Davoud_Danesh-Jafari",
+      "source_title": "Davoud Danesh-Jafari — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Danesh-Jafari served as Minister of Economy and Finance in Ahmadinejad's first cabinet from 2005 to 2008."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

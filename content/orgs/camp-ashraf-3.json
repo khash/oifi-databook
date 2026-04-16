@@ -1,0 +1,29 @@
+{
+  "entity_id": "camp-ashraf-3",
+  "slug": "camp-ashraf-3",
+  "name_en": "Camp Ashraf-3",
+  "name_fa": "اشرف ۳",
+  "has_native_fa_name": true,
+  "type": "military",
+  "founded": 2016,
+  "dissolved": null,
+  "parent_org": "mojahedin-e-khalq",
+  "description": "Camp Ashraf-3 is the current headquarters of the [Mojahedin-e Khalq](/orgs/mojahedin-e-khalq) (MEK), located near Manez in Durres County, Albania, approximately 15 miles west of Tirana. The 34-hectare compound houses around 3,000 MEK members who were relocated from Iraq following the closure of Camp Liberty.\n\nAlbania agreed to accept MEK members at the request of the United States beginning in 2013, and the purpose-built compound was established by 2016. The camp has been a primary target of Iranian intelligence operations, with the [Ministry of Intelligence](/orgs/ministry-of-intelligence) (MOIS) running surveillance and agent networks against its residents through the Iranian embassy in Tirana. These activities led to the [expulsion of Iranian diplomats](/events/albania-expulsions-iranian-diplomats-2018) beginning in 2018 and ultimately Albania's [severance of diplomatic relations with Iran](/events/albania-severs-diplomatic-relations-with-iran-2022) in 2022.\n\nOn 20 June 2023, Albanian police conducted a controversial raid on the camp, resulting in one death and 36 injuries among residents.",
+  "faction": "opposition",
+  "tags": ["in-exile", "intelligence", "proxy-warfare"],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Camp_Ashraf_3",
+      "title": "Camp Ashraf 3 — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://iranfreedom.org/en/articles/2019/08/ashraf-3-home-to-iranian-opposition-group-mek-in-albania/12507/",
+      "title": "Ashraf 3, Home to Iranian Opposition Group MEK in Albania",
+      "date": "2019-08-01",
+      "publisher": "Iran Freedom"
+    }
+  ],
+  "editorial_notes": "MEK compound near Manez, Albania. ~3,000 residents. Target of MOIS operations. Raided by Albanian police June 2023."
+}

@@ -1,0 +1,19 @@
+{
+  "entity_id": "abbas-babaei-participated-in-iran-iraq-war",
+  "from_entity": "abbas-babaei",
+  "to_entity": "iran-iraq-war",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1980",
+  "date_to": "1987-08-06",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abbas_Babaei",
+      "source_title": "Abbas Babaei — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Served as IRIAF fighter pilot and commander throughout the Iran-Iraq War until killed by friendly fire in 1987."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

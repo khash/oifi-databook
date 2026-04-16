@@ -1,0 +1,32 @@
+{
+  "entity_id": "kamran-bagheri-lankarani",
+  "slug": "kamran-bagheri-lankarani",
+  "name_en": "Kamran Bagheri Lankarani",
+  "name_fa": "کامران باقری لنکرانی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1965,
+  "birthplace": "Tehran, Iran",
+  "role": "Minister of Health and Medical Education (2005-2009); gastroenterologist; professor at Shiraz University of Medical Sciences",
+  "faction": "conservative",
+  "bio": "Kamran Bagheri Lankarani is an Iranian physician and politician who served as Minister of Health and Medical Education in [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad)'s first cabinet from 2005 to 2009.\n\nBagheri Lankarani trained as a gastroenterologist at Shiraz University of Medical Sciences, where he earned his medical degree (1989) and post-doctorate fellowship (1992). Before his ministerial appointment, he served as head of Shiraz Namazi Hospital (1993-1994), deputy chancellor of Shiraz Medical Sciences University (1994-1996), and head of the university's internal medicine department.\n\nAs head of the [Ministry of Health](/orgs/ministry-of-health), Bagheri Lankarani managed Iran's public health system during Ahmadinejad's first term. After leaving government, he returned to academia and has published extensively in gastroenterology and hepatology, with over 800 publications.",
+  "irgc_member": false,
+  "expertise": [],
+  "tags": ["executive"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Kamran_Bagheri_Lankarani",
+      "title": "Kamran Bagheri Lankarani — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://health-policy.sums.ac.ir/uploads/189/2024/Apr/09/DRLANKARANI2021.pdf",
+      "title": "CV — Kamran Bagheri Lankarani",
+      "date": "2024-01-01",
+      "publisher": "Shiraz University of Medical Sciences"
+    }
+  ],
+  "editorial_notes": "Born 1965 in Tehran. Gastroenterologist. 800+ publications. Technocrat/academic profile but categorized conservative due to cabinet service under Ahmadinejad."
+}

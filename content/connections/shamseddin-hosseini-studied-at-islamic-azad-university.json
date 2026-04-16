@@ -1,0 +1,21 @@
+{
+  "entity_id": "shamseddin-hosseini-studied-at-islamic-azad-university",
+  "from_entity": "shamseddin-hosseini",
+  "to_entity": "islamic-azad-university",
+  "type": "studied-at",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Shamseddin_Hosseini",
+      "source_title": "Shamseddin Hosseini — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "PhD in economics from Islamic Azad University"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

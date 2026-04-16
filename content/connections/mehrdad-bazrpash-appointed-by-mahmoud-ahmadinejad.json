@@ -1,0 +1,21 @@
+{
+  "entity_id": "mehrdad-bazrpash-appointed-by-mahmoud-ahmadinejad",
+  "from_entity": "mehrdad-bazrpash",
+  "to_entity": "mahmoud-ahmadinejad",
+  "type": "appointed-by",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": "2010",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mehrdad_Bazrpash",
+      "source_title": "Mehrdad Bazrpash — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Bazrpash served as VP and head of National Youth Organization under Ahmadinejad from 2009 to 2010."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

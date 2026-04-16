@@ -1,0 +1,21 @@
+{
+  "entity_id": "hamid-baghaei-headed-cultural-heritage-organization",
+  "from_entity": "hamid-baghaei",
+  "to_entity": "cultural-heritage-organization",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": "2011",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hamid_Baghaei",
+      "source_title": "Hamid Baghaei — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Succeeded Mashaei as head of Cultural Heritage Organization"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

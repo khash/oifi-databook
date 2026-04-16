@@ -1,0 +1,32 @@
+{
+  "entity_id": "shamseddin-hosseini",
+  "slug": "shamseddin-hosseini",
+  "name_en": "Shamseddin Hosseini",
+  "name_fa": "شمس‌الدین حسینی",
+  "has_native_fa_name": true,
+  "aliases": ["Seyyed Shamseddin Hosseini", "Shams al-Din Hosseini"],
+  "born": 1967,
+  "birthplace": null,
+  "role": "Minister of Economic Affairs and Finance (2008–2013); managed Iran's economy through harshest sanctions period",
+  "faction": "hardliner",
+  "bio": "Shamseddin Hosseini is an Iranian economist and politician who served as Minister of Economic Affairs and Finance from 2008 to 2013 under [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad). He managed Iran's economy during the period of harshest international sanctions, which severely impacted the banking sector and caused the rial to collapse.\n\nHosseini holds a PhD in economics from [Islamic Azad University](/orgs/islamic-azad-university) and previously taught at several Iranian universities. Before his ministerial appointment, he served as deputy minister of social welfare and subsidies and as director general for economic studies at the [Ministry of Commerce](/orgs/ministry-of-commerce).\n\nHe faced impeachment proceedings in the [Islamic Consultative Assembly](/orgs/islamic-consultative-assembly) over lax banking supervision related to a major embezzlement scandal, but survived the vote after parliamentary speaker Ali Larijani intervened on the government's behalf.",
+  "irgc_member": false,
+  "expertise": ["economics", "finance", "sanctions"],
+  "tags": ["executive", "sanctions"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Shamseddin_Hosseini",
+      "title": "Shamseddin Hosseini — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.newsweek.com/irans-biggest-booster-its-finance-minister-63217",
+      "title": "Iran's Biggest Booster: its Finance Minister",
+      "date": "2008-01-01",
+      "publisher": "Newsweek"
+    }
+  ],
+  "editorial_notes": "Born 1967. PhD economics Islamic Azad University. Survived impeachment over 2011 bank embezzlement scandal. Minister of Economy (not just finance) — full title is Minister of Economic Affairs and Finance."
+}

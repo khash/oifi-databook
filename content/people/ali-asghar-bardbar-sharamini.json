@@ -1,0 +1,38 @@
+{
+  "entity_id": "ali-asghar-bardbar-sharamini",
+  "slug": "ali-asghar-bardbar-sharamini",
+  "name_en": "Ali-Asghar Bardbar Sharamini",
+  "name_fa": "علی‌اصغر بردبر شرامینی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Senior IRGC intelligence officer; named as planner of the 2026 IRGC terror plot in Azerbaijan",
+  "faction": "hardliner",
+  "bio": "Ali-Asghar Bardbar Sharamini is a senior intelligence officer of the [Islamic Revolutionary Guard Corps](/orgs/islamic-revolutionary-guard-corps) (IRGC) identified by Azerbaijan's State Security Service (DTX) as the planner and coordinator of the [2026 IRGC terror plot in Azerbaijan](/events/azerbaijan-irgc-terror-plot-foiled-2026). The plot targeted the Baku-Tbilisi-Ceyhan (BTC) oil pipeline, the Israeli embassy in Baku, a leader of Azerbaijan's Jewish community, and an Ashkenazi synagogue.\n\nAccording to Azerbaijani authorities, Bardbar Sharamini directed a network that smuggled over seven kilograms of C-4 explosives into Azerbaijan using operatives including Hafez Tavassoli. International arrest warrants were issued for multiple Iranian nationals connected to the plot. The foiling of the conspiracy was announced in March 2026, days after Iranian drone strikes on Azerbaijan's Nakhchivan exclave.",
+  "irgc_member": true,
+  "expertise": ["intelligence", "covert-operations"],
+  "tags": ["intelligence", "military", "proxy-warfare"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.iranintl.com/en/202603062469",
+      "title": "Azerbaijan says it foiled alleged IRGC plot",
+      "date": "2026-03-06",
+      "publisher": "Iran International"
+    },
+    {
+      "url": "https://report.az/en/domestic-politics/azerbaijan-foils-planned-terror-attacks-linked-to-iran-s-revolutionary-guard",
+      "title": "State Security Service exposes IRGC terror plans in Azerbaijan",
+      "date": "2026-03-06",
+      "publisher": "Report.az"
+    },
+    {
+      "url": "https://oc-media.org/azerbaijan-says-it-foiled-iranian-terror-plot-against-btc-pipeline-jewish-sites/",
+      "title": "Azerbaijan says it foiled Iranian terror plot against BTC pipeline, Jewish sites",
+      "date": "2026-03-07",
+      "publisher": "OC Media"
+    }
+  ],
+  "editorial_notes": "Named by Azerbaijan's DTX as planner of 2026 Baku terror plot. International arrest warrant issued."
+}

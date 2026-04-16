@@ -1,0 +1,15 @@
+{
+  "entity_id": "reform-front-of-iran",
+  "slug": "reform-front-of-iran",
+  "name_en": "Reform Front of Iran",
+  "name_fa": "جبهه اصلاحات ایران",
+  "has_native_fa_name": true,
+  "type": "political-party",
+  "founded": 2020,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Reform Front of Iran (Jebhe-ye Eslahaat-e Iran) is the successor coalition to the [Council for Coordinating the Reforms Front](/orgs/council-for-coordinating-reforms-front), established in 2020 as the overarching umbrella for Iran's reformist political camp. Originally called the Reformist Consensus-Building Body, it coordinates the strategy of reformist parties and figures. [Behzad Nabavi](/people/behzad-nabavi) chaired the front during its first two years before Azar Mansouri succeeded him in July 2023. The coalition traces its roots to the groups that backed [Mohammad Khatami](/people/mohammad-khatami)'s 1997 presidential campaign and has since played a role in the elections of [Hassan Rouhani](/people/hassan-rouhani) and [Masoud Pezeshkian](/people/masoud-pezeshkian).",
+  "faction": "reformist",
+  "tags": [],
+  "editorial_notes": "Successor to Council for Coordinating the Reforms Front. Azar Mansouri became chair July 2023. Behzad Nabavi was first chair 2020-2022."
+}

@@ -1,0 +1,19 @@
+{
+  "entity_id": "albania-severs-diplomatic-relations-with-iran-2022-subject-of-albania-expulsions-iranian-diplomats-2018",
+  "from_entity": "albania-severs-diplomatic-relations-with-iran-2022",
+  "to_entity": "albania-expulsions-iranian-diplomats-2018",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2022-09",
+  "date_to": "2022-09",
+  "evidence": [
+    {
+      "source_url": "https://iranprimer.usip.org/blog/2022/sep/09/albania-cuts-ties-iran-over-cyberattack",
+      "source_title": "Albania Cuts Ties with Iran Over Cyberattack",
+      "source_date": "2022-09-09",
+      "description": "The 2022 severance of diplomatic relations was the culmination of the earlier series of diplomat expulsions that began in 2018."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

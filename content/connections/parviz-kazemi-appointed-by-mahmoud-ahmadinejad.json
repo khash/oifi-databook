@@ -1,0 +1,21 @@
+{
+  "entity_id": "parviz-kazemi-appointed-by-mahmoud-ahmadinejad",
+  "from_entity": "parviz-kazemi",
+  "to_entity": "mahmoud-ahmadinejad",
+  "type": "appointed-by",
+  "confidence": "confirmed",
+  "date_from": "2005",
+  "date_to": "2006",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Parviz_Kazemi",
+      "source_title": "Parviz Kazemi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Kazemi served as Minister of Welfare and Social Security in Ahmadinejad's first cabinet (2005-2006)."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

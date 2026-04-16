@@ -1,0 +1,19 @@
+{
+  "entity_id": "camp-ashraf-3-subject-of-albania-severs-diplomatic-relations-with-iran-2022",
+  "from_entity": "camp-ashraf-3",
+  "to_entity": "albania-severs-diplomatic-relations-with-iran-2022",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2022-09",
+  "date_to": "2022-09",
+  "evidence": [
+    {
+      "source_url": "https://www.aljazeera.com/news/2022/9/7/albania-cuts-diplomatic-ties-with-iran-over-cyberattack",
+      "source_title": "Albania cuts diplomatic ties with Iran over cyberattack",
+      "source_date": "2022-09-07",
+      "description": "The severance of Albania-Iran relations was the culmination of tensions over Iranian intelligence operations targeting MEK members at Camp Ashraf-3."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

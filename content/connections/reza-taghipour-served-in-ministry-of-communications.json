@@ -1,0 +1,21 @@
+{
+  "entity_id": "reza-taghipour-served-in-ministry-of-communications",
+  "from_entity": "reza-taghipour",
+  "to_entity": "ministry-of-communications",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": "2012",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Reza_Taghipour",
+      "source_title": "Reza Taghipour — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Taghipour headed the Ministry of Communications and IT from 2009 to 2012."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

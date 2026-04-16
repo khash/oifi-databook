@@ -1,0 +1,19 @@
+{
+  "entity_id": "amir-hatami-named-in-islamic-revolutionary-guard-corps",
+  "from_entity": "amir-hatami",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2017",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Amir_Hatami",
+      "source_title": "Amir Hatami — Wikipedia",
+      "source_date": "2025-06-14",
+      "description": "Hatami was the first defense minister drawn from the regular Army (Artesh) rather than the IRGC in over two decades."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": "Contextual reference — Hatami is not IRGC but his appointment broke an IRGC streak."
+}

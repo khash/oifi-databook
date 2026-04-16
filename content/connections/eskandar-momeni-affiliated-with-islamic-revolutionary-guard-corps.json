@@ -1,0 +1,21 @@
+{
+  "entity_id": "eskandar-momeni-affiliated-with-islamic-revolutionary-guard-corps",
+  "from_entity": "eskandar-momeni",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.unitedagainstnucleariran.com/eskandar-momeni-minister-of-interior",
+      "source_title": "Eskandar Momeni: Minister of Interior",
+      "source_date": "2024-01-01",
+      "description": "Momeni is described as an IRGC-affiliated security official and Iran-Iraq War veteran."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

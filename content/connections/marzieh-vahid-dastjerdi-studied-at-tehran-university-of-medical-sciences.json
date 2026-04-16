@@ -1,0 +1,21 @@
+{
+  "entity_id": "marzieh-vahid-dastjerdi-studied-at-tehran-university-of-medical-sciences",
+  "from_entity": "marzieh-vahid-dastjerdi",
+  "to_entity": "tehran-university-of-medical-sciences",
+  "type": "studied-at",
+  "confidence": "confirmed",
+  "date_from": "1976",
+  "date_to": "1988",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Marzieh_Vahid-Dastjerdi",
+      "source_title": "Marzieh Vahid-Dastjerdi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Entered Tehran University of Medical Sciences in 1976, obtained doctoral degree in 1988"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

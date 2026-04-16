@@ -1,0 +1,19 @@
+{
+  "entity_id": "assadollah-assadi-subject-of-assadi-prisoner-exchange-2023",
+  "from_entity": "assadollah-assadi",
+  "to_entity": "assadi-prisoner-exchange-2023",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2023-05-26",
+  "date_to": "2023-05-26",
+  "evidence": [
+    {
+      "source_url": "https://www.aljazeera.com/news/2023/5/26/iran-frees-jailed-belgian-aid-worker",
+      "source_title": "Iran, Belgium conduct prisoner swap freeing aid worker, diplomat",
+      "source_date": "2023-05-26",
+      "description": "Belgium released Assadollah Assadi, serving a 20-year sentence for the Villepinte bomb plot, in exchange for Belgian aid worker Olivier Vandecasteele."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

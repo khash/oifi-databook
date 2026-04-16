@@ -1,0 +1,21 @@
+{
+  "entity_id": "kamran-daneshjoo-affiliated-with-basij",
+  "from_entity": "kamran-daneshjoo",
+  "to_entity": "basij",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": "2013",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Kamran_Daneshjoo",
+      "source_title": "Kamran Daneshjoo — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "As Science Minister, implemented preferential university admissions for Basij members"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

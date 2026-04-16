@@ -1,0 +1,21 @@
+{
+  "entity_id": "mehdi-ghazanfari-appointed-by-mahmoud-ahmadinejad",
+  "from_entity": "mehdi-ghazanfari",
+  "to_entity": "mahmoud-ahmadinejad",
+  "type": "appointed-by",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": "2013",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mehdi_Ghazanfari",
+      "source_title": "Mehdi Ghazanfari — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Ghazanfari served as Minister of Commerce (2009-2011) and Minister of Industries, Mines and Business (2011-2013) under Ahmadinejad."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

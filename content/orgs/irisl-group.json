@@ -1,0 +1,35 @@
+{
+  "entity_id": "irisl-group",
+  "slug": "irisl-group",
+  "name_en": "IRISL Group",
+  "name_fa": "کشتیرانی جمهوری اسلامی ایران",
+  "has_native_fa_name": true,
+  "type": "business",
+  "founded": 1967,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Islamic Republic of Iran Shipping Lines (IRISL Group) is Iran's national maritime carrier and the country's largest state-owned shipping company. Founded in 1967, IRISL operates a fleet of cargo, container, and bulk vessels. The company was first sanctioned by the United States in September 2008 and subsequently designated on the Treasury Department's Specially Designated Nationals (SDN) list in 2019 pursuant to Executive Order 13382. IRISL has been accused of transporting prohibited military-related cargo on behalf of Iran's [Ministry of Defense](/orgs/ministry-of-defense), falsifying shipping documents, and using cover entities to evade detection. The company is also sanctioned by the European Union and the United Nations.",
+  "faction": null,
+  "tags": ["sanctions"],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/IRISL_Group",
+      "title": "IRISL Group — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.iranwatch.org/iranian-entities/islamic-republic-iran-shipping-lines-irisl",
+      "title": "Islamic Republic of Iran Shipping Lines (IRISL) — Iran Watch",
+      "date": "2024-01-01",
+      "publisher": "Iran Watch"
+    },
+    {
+      "url": "https://2017-2021.state.gov/imposing-sanctions-related-to-the-islamic-republic-of-iran-shipping-lines-and-iranian-shipping-entities/",
+      "title": "Imposing Sanctions Related to IRISL and Iranian Shipping Entities",
+      "date": "2021-01-15",
+      "publisher": "US Department of State"
+    }
+  ],
+  "editorial_notes": "Founded 1967. Iran's largest shipping company. SDN-listed since 2019. Sanctioned for transporting military cargo for MODAFL."
+}

@@ -8,6 +8,15 @@ Human review queue. Entries are written here by the `fix-broken-links` agent.
 
 ---
 
+## [PENDING_REVIEW]
+- **Original:** https://www.palestinechronicle.com/who-was-kamal-kharrazi-senior-iranian-leader-dies-after-us-israeli-strike/
+- **Proposed:** https://www.trtworld.com/article/d852782aaec2
+- **Method:** Web search — same story on alternative outlet (TRT World)
+- **Confidence:** high — same subject (Kharrazi death from US-Israeli strike wounds), same date (April 2026), live URL returning 200
+- **Source title:** "Who Was Kamal Kharrazi?"
+- **Files:** content/orgs/strategic-council-on-foreign-relations.json
+- **Notes:** Palestine Chronicle returned HTTP 429 (rate-limited), not a true 404, but the build checker treats it as dead. TRT World article covers identical facts: Kharrazi died April 10 2026 from wounds sustained in April 1 US-Israeli strike, aged 81, serving as head of Strategic Council on Foreign Relations.
+
 ## [NOT_FOUND]
 - **Original:** https://www.longwarjournal.org/archives/2026/02/iran-military-leadership-killed-february-strikes.php
 - **Proposed:** *(none)*

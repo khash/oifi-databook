@@ -1,0 +1,32 @@
+{
+  "entity_id": "neda-agha-soltan",
+  "slug": "neda-agha-soltan",
+  "name_en": "Neda Agha-Soltan",
+  "name_fa": "ندا آقا سلطان",
+  "has_native_fa_name": true,
+  "aliases": ["Neda"],
+  "born": 1983,
+  "birthplace": "Tehran",
+  "role": "Bystander killed during 2009 Green Movement protests; global symbol of the movement",
+  "faction": "opposition",
+  "bio": "Neda Agha-Soltan was a 26-year-old Iranian student of philosophy and aspiring musician who was shot and killed on 20 June 2009 during the [Green Movement protests](/events/green-movement-protests-2009) in Tehran. She was struck by a single bullet to the chest, reportedly fired by a member of the [Basij](/orgs/basij) militia, while standing near protests in the Amirabad neighbourhood.\n\nA bystander's video of her death — showing her collapsing on the pavement as onlookers desperately tried to help — was uploaded to social media and broadcast worldwide within hours, becoming what Time magazine called 'probably the most widely witnessed death in human history.' Neda became the iconic symbol of the Green Movement and broader Iranian opposition.\n\nShe had studied theology at Islamic Azad University's North Tehran branch but left due to compulsory hijab pressures, and was privately studying Turkish and violin. Those who knew her said she was not previously political, but anger over the disputed [2009 presidential election](/events/presidential-election-iran-2009) prompted her to join the protests. No one was ever charged with her killing.",
+  "irgc_member": false,
+  "expertise": [],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Killing_of_Neda_Agha-Soltan",
+      "title": "Killing of Neda Agha-Soltan — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "http://100photos.time.com/photos/death-of-neda",
+      "title": "The Death of Neda — 100 Photographs: The Most Influential Images of All Time",
+      "date": "2016-01-01",
+      "publisher": "Time"
+    }
+  ],
+  "tags": ["green-movement", "human-rights", "deceased"],
+  "photo": null,
+  "editorial_notes": "Born 23 January 1983. Killed 20 June 2009. Not a political activist — bystander. Shooter never identified or charged."
+}

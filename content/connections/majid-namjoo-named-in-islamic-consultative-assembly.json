@@ -1,0 +1,21 @@
+{
+  "entity_id": "majid-namjoo-named-in-islamic-consultative-assembly",
+  "from_entity": "majid-namjoo",
+  "to_entity": "islamic-consultative-assembly",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Majid_Namjoo",
+      "source_title": "Majid Namjoo — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Confirmed by Majlis with 210 out of 290 votes as Energy Minister"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

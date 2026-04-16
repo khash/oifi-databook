@@ -1,0 +1,15 @@
+{
+  "entity_id": "ministry-of-roads",
+  "slug": "ministry-of-roads",
+  "name_en": "Ministry of Roads and Urban Development",
+  "name_fa": "وزارت راه و شهرسازی",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 2011,
+  "dissolved": null,
+  "parent_org": "office-of-the-president",
+  "description": "Iran's Ministry of Roads and Urban Development was formed in 2011 by merging the Ministry of Roads and Transportation with the Ministry of Housing and Urban Development. Under [Mehrdad Bazrpash](/people/mehrdad-bazrpash) (2022-2024), the ministry managed transportation infrastructure during the Ebrahim Raisi administration.",
+  "faction": null,
+  "tags": ["executive"],
+  "editorial_notes": "Formed 2011 by merger of Ministry of Roads and Transportation + Ministry of Housing."
+}

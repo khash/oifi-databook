@@ -1,0 +1,15 @@
+{
+  "entity_id": "ministry-of-commerce",
+  "slug": "ministry-of-commerce",
+  "name_en": "Ministry of Commerce",
+  "name_fa": "وزارت بازرگانی",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 1979,
+  "dissolved": 2011,
+  "parent_org": null,
+  "description": "Iran's Ministry of Commerce (Vezarat-e Bazargani) oversaw domestic and foreign trade, market regulation, and commercial policy. In 2011 it was merged into the Ministry of Industry, Mine and Trade. Notable ministers include [Masoud Mir-Kazemi](/people/masoud-mir-kazemi) (2005–2009).",
+  "faction": null,
+  "tags": [],
+  "editorial_notes": "Merged into Ministry of Industry, Mine and Trade in 2011 under Ahmadinejad's government restructuring."
+}

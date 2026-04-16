@@ -1,0 +1,21 @@
+{
+  "entity_id": "parviz-fattah-appointed-by-ali-khamenei",
+  "from_entity": "parviz-fattah",
+  "to_entity": "ali-khamenei",
+  "type": "appointed-by",
+  "confidence": "confirmed",
+  "date_from": "2023",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202310296623",
+      "source_title": "Khamenei Appoints IRGC Member To Head Economic Conglomerate",
+      "source_date": "2023-10-29",
+      "description": "Appointed by Khamenei to head Setad, IKRF, and Mostazafan Foundation — all Supreme Leader-supervised entities"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

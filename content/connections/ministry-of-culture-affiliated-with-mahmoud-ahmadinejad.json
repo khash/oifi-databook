@@ -1,0 +1,21 @@
+{
+  "entity_id": "ministry-of-culture-affiliated-with-mahmoud-ahmadinejad",
+  "from_entity": "ministry-of-culture",
+  "to_entity": "mahmoud-ahmadinejad",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "2005",
+  "date_to": "2013",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hossein_Saffar_Harandi",
+      "source_title": "Hossein Saffar Harandi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Ministry under Ahmadinejad's cabinet 2005-2013, with ministers Saffar Harandi and Mohammad Hosseini"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

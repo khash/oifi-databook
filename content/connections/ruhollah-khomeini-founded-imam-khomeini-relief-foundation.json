@@ -1,0 +1,21 @@
+{
+  "entity_id": "ruhollah-khomeini-founded-imam-khomeini-relief-foundation",
+  "from_entity": "ruhollah-khomeini",
+  "to_entity": "imam-khomeini-relief-foundation",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Imam_Khomeini_Relief_Foundation",
+      "source_title": "Imam Khomeini Relief Foundation — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Founded in March 1979 by direct order of Ayatollah Khomeini"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

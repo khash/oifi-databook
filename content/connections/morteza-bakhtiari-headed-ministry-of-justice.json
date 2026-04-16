@@ -1,0 +1,21 @@
+{
+  "entity_id": "morteza-bakhtiari-headed-ministry-of-justice",
+  "from_entity": "morteza-bakhtiari",
+  "to_entity": "ministry-of-justice",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": "2013",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Morteza_Bakhtiari",
+      "source_title": "Morteza Bakhtiari — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Bakhtiari served as Minister of Justice from 2009 to 2013."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

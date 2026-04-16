@@ -1,0 +1,21 @@
+{
+  "entity_id": "behzad-nabavi-headed-reform-front-of-iran",
+  "from_entity": "behzad-nabavi",
+  "to_entity": "reform-front-of-iran",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2020",
+  "date_to": "2022",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Reformists_Front",
+      "source_title": "Reformists Front — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Behzad Nabavi chaired the Reform Front of Iran during its first two years"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

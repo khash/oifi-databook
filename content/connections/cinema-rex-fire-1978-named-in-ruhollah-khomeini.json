@@ -1,0 +1,21 @@
+{
+  "entity_id": "cinema-rex-fire-1978-named-in-ruhollah-khomeini",
+  "from_entity": "cinema-rex-fire-1978",
+  "to_entity": "ruhollah-khomeini",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1978-08-19",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Cinema_Rex_fire",
+      "source_title": "Cinema Rex fire — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Khomeini publicly blamed the Shah and SAVAK for the fire; the event became a catalyst for the revolution."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

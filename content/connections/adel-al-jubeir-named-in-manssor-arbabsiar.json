@@ -1,0 +1,21 @@
+{
+  "entity_id": "adel-al-jubeir-named-in-manssor-arbabsiar",
+  "from_entity": "adel-al-jubeir",
+  "to_entity": "manssor-arbabsiar",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2011-10",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2011_alleged_Iran_assassination_plot",
+      "source_title": "2011 alleged Iran assassination plot — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Al-Jubeir was the intended target of the assassination plot directed by Arbabsiar and Shakuri."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

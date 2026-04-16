@@ -1,0 +1,21 @@
+{
+  "entity_id": "hassan-khomeini-family-of-ruhollah-khomeini",
+  "from_entity": "hassan-khomeini",
+  "to_entity": "ruhollah-khomeini",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hassan_Khomeini",
+      "source_title": "Hassan Khomeini — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Hassan Khomeini is the grandson of Ruhollah Khomeini, founder of the Islamic Republic."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "child",
+  "editorial_notes": "Grandchild relationship — family_subtype 'child' used as closest available option (no 'grandchild' subtype)."
+}

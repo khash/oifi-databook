@@ -1,0 +1,22 @@
+{
+  "entity_id": "mostafa-roudaki-coordinated-with-assadollah-assadi",
+  "from_entity": "mostafa-roudaki",
+  "to_entity": "assadollah-assadi",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2014",
+  "evidence": [
+    {
+      "source_url": "https://www.ncr-iran.org/en/ncri-statements/terrorism-fundamentalism/expulsion-from-albania-of-the-mullahs-ambassador-and-intelligence-ministry-station-chief-is-a-necessary-step-in-countering-terrorism-and-the-religious-dictatorship-ruling-iran/",
+      "source_title": "Expulsion From Albania of the Mullahs' Ambassador and Intelligence Ministry Station Chief",
+      "source_date": "2018-12-19",
+      "description": "Roudaki preceded Assadi as MOIS station chief in Vienna. Assadi took over the role when Roudaki returned to Tehran circa 2014."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": ["intelligence"],
+  "editorial_notes": "Sequential occupants of the same MOIS station chief role in Vienna."
+}

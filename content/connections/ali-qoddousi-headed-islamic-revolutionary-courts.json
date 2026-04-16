@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-qoddousi-headed-islamic-revolutionary-courts",
+  "from_entity": "ali-qoddousi",
+  "to_entity": "islamic-revolutionary-courts",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1981",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Qoddusi",
+      "source_title": "Ali Qoddusi — Wikipedia",
+      "source_date": "2026-04-16",
+      "description": "As Prosecutor General of the Islamic Revolution, Qoddousi oversaw the revolutionary prosecution apparatus and issued directives to revolutionary courts."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

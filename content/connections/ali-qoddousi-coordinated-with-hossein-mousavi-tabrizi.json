@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-qoddousi-coordinated-with-hossein-mousavi-tabrizi",
+  "from_entity": "ali-qoddousi",
+  "to_entity": "hossein-mousavi-tabrizi",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1981",
+  "evidence": [
+    {
+      "source_url": "https://english.shabtabnews.com/2026/04/15/hossein-mousavi-tabrizi-from-engineering-massacres-to-wearing-the-reformist-mantle/",
+      "source_title": "Hossein Mousavi Tabrizi: From Engineering Massacres to Wearing the Reformist Mantle",
+      "source_date": "2026-04-15",
+      "description": "Mousavi Tabrizi succeeded Qoddousi as Prosecutor General after Qoddousi's assassination in September 1981."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

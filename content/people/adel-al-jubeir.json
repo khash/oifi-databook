@@ -1,0 +1,32 @@
+{
+  "entity_id": "adel-al-jubeir",
+  "slug": "adel-al-jubeir",
+  "name_en": "Adel al-Jubeir",
+  "name_fa": "عادل الجبیر",
+  "has_native_fa_name": false,
+  "aliases": ["Adel bin Ahmed Al-Jubeir", "Adel Al Jubeir"],
+  "born": 1962,
+  "birthplace": "Majma'ah, Saudi Arabia",
+  "role": "Saudi diplomat; ambassador to the US targeted in 2011 IRGC-QF assassination plot; later Saudi Foreign Minister",
+  "faction": null,
+  "bio": "Adel al-Jubeir is a Saudi diplomat who served as Saudi Arabia's Ambassador to the United States from 2007 to 2015 and as Minister of Foreign Affairs from 2015 to 2018. He was the target of the [2011 IRGC-Quds Force assassination plot](/events/arbabsiar-plot-2011), in which [Manssor Arbabsiar](/people/manssor-arbabsiar) and [Gholam Shakuri](/people/gholam-shakuri), directed by [Abdul Reza Shahlai](/people/abdul-reza-shahlai), planned to have him killed at a Washington DC restaurant using explosives — potentially causing mass civilian casualties. The plot was disrupted by the FBI after Arbabsiar unwittingly engaged a DEA informant posing as a Mexican cartel hitman.\n\nThe failed assassination attempt became a landmark case in US-Iran relations, prompting new sanctions on IRGC-QF operatives and deepening Saudi-Iranian tensions. Al-Jubeir subsequently served as Saudi Arabia's chief diplomat during a period of intense regional rivalry with Iran.",
+  "irgc_member": false,
+  "expertise": ["diplomacy"],
+  "tags": ["diplomacy"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Adel_bin_Ahmed_Al_Jubeir",
+      "title": "Adel al-Jubeir — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.justice.gov/archives/opa/pr/two-men-charged-alleged-plot-assassinate-saudi-arabian-ambassador-united-states",
+      "title": "Two Men Charged in Alleged Plot to Assassinate Saudi Arabian Ambassador to the United States",
+      "date": "2011-10-11",
+      "publisher": "US Department of Justice"
+    }
+  ],
+  "editorial_notes": "Born 1 February 1962. Saudi national — included as target/victim node for the Arbabsiar plot. Ambassador to US 2007–2015, FM 2015–2018, currently Minister of State for Foreign Affairs."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "kataib-hezbollah-funded-by-irgc-quds-force",
+  "from_entity": "kataib-hezbollah",
+  "to_entity": "irgc-quds-force",
+  "type": "funded-by",
+  "confidence": "confirmed",
+  "date_from": "2007",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Kata%27ib_Hezbollah",
+      "source_title": "Kata'ib Hezbollah — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Kata'ib Hezbollah receives training, funding, and direction from the IRGC Quds Force."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

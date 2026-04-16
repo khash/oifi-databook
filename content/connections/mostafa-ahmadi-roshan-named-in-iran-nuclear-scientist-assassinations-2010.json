@@ -1,0 +1,21 @@
+{
+  "entity_id": "mostafa-ahmadi-roshan-named-in-iran-nuclear-scientist-assassinations-2010",
+  "from_entity": "mostafa-ahmadi-roshan",
+  "to_entity": "iran-nuclear-scientist-assassinations-2010",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2012-01-11",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mostafa_Ahmadi_Roshan",
+      "source_title": "Mostafa Ahmadi Roshan — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Killed 11 January 2012 by magnetic car bomb; last in the series"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

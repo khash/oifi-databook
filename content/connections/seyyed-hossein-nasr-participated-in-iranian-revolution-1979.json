@@ -1,0 +1,21 @@
+{
+  "entity_id": "seyyed-hossein-nasr-participated-in-iranian-revolution-1979",
+  "from_entity": "seyyed-hossein-nasr",
+  "to_entity": "iranian-revolution-1979",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1979",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Seyyed_Hossein_Nasr",
+      "source_title": "Seyyed Hossein Nasr — Wikipedia",
+      "source_date": "2026-04-16",
+      "description": "During the Iranian Revolution of 1979, Nasr and his family fled Iran for the United States, where he resumed his academic career. His pre-revolutionary positions (Tehran University vice-chancellor, Aryamehr University president, Imperial Academy of Philosophy founder) made him a target of the new regime."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "He fled the revolution, not participated in it. Using subject-of to indicate he was affected by the event."
+}

@@ -1,0 +1,30 @@
+{
+  "entity_id": "strategic-council-on-foreign-relations",
+  "slug": "strategic-council-on-foreign-relations",
+  "name_en": "Strategic Council on Foreign Relations",
+  "name_fa": "شورای راهبردی روابط خارجی",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 2006,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Senior foreign policy advisory body established in 2006 that reports directly to Iran's Supreme Leader [Ali Khamenei](/people/ali-khamenei). Provides strategic guidance on foreign policy and international affairs. Headed by former foreign minister [Kamal Kharrazi](/people/kamal-kharrazi) from its founding until his death in April 2026. Members include senior diplomats, military figures, and foreign policy specialists.",
+  "faction": null,
+  "tags": ["diplomacy"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.middleeasteye.net/news/irans-chief-foreign-affairs-strategist-gravely-wounded-us-israeli-attack",
+      "title": "Iran's chief foreign affairs strategist 'gravely wounded' in US-Israeli attack",
+      "date": "2026-04-02",
+      "publisher": "Middle East Eye"
+    },
+    {
+      "url": "https://www.palestinechronicle.com/who-was-kamal-kharrazi-senior-iranian-leader-dies-after-us-israeli-strike/",
+      "title": "Who Was Kamal Kharrazi?",
+      "date": "2026-04-10",
+      "publisher": "Palestine Chronicle"
+    }
+  ],
+  "editorial_notes": ""
+}

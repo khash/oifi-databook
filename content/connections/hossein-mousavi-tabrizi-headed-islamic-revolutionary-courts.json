@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-mousavi-tabrizi-headed-islamic-revolutionary-courts",
+  "from_entity": "hossein-mousavi-tabrizi",
+  "to_entity": "islamic-revolutionary-courts",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "1981",
+  "date_to": "1985",
+  "evidence": [
+    {
+      "source_url": "https://irannewsupdate.com/news/human-rights/death-of-a-1980s-prosecutor-revives-dark-legacy-of-iran-regimes-judicial-repression/",
+      "source_title": "Death of a 1980s Prosecutor Revives Dark Legacy of Iran Regime's Judicial Repression",
+      "source_date": "2026-04-14",
+      "description": "Served as Prosecutor General of the Revolutionary Courts from 1981 to 1985, the second person to hold the post."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "His title was Prosecutor General of the Islamic Revolution, effectively heading the revolutionary prosecution apparatus."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-dehghan-coordinated-with-mohsen-fakhrizadeh",
+  "from_entity": "hossein-dehghan",
+  "to_entity": "mohsen-fakhrizadeh",
+  "type": "coordinated-with",
+  "confidence": "alleged",
+  "date_from": "2013",
+  "date_to": "2017",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hossein_Dehghan",
+      "source_title": "Hossein Dehghan — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "As Defense Minister (2013-2017), Dehghan oversaw Iran's defence industrial base during a period when Fakhrizadeh's research programmes were active under the Ministry of Defence umbrella."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Institutional overlap as Defense Minister. Fakhrizadeh's SPND operated under MoD. Direct coordination alleged but not independently confirmed."
+}

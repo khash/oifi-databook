@@ -1,0 +1,21 @@
+{
+  "entity_id": "abu-mahdi-al-muhandis-coordinated-with-qasem-soleimani",
+  "from_entity": "abu-mahdi-al-muhandis",
+  "to_entity": "qasem-soleimani",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "2003",
+  "date_to": "2020",
+  "evidence": [
+    {
+      "source_url": "https://www.aljazeera.com/news/2020/1/3/hashd-deputy-abu-mahdi-al-muhandis-irans-man-in-baghdad",
+      "source_title": "Hashd deputy Abu Mahdi al-Muhandis: Iran's man in Baghdad",
+      "source_date": "2020-01-03",
+      "description": "Al-Muhandis maintained close operational coordination with Qasem Soleimani as Iran's primary proxy commander in Iraq. They were traveling together when killed."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

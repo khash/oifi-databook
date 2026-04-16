@@ -1,0 +1,51 @@
+{
+  "entity_id": "cinema-rex-fire-1978",
+  "slug": "cinema-rex-fire-1978",
+  "name": "Cinema Rex Fire",
+  "date": "1978-08-19",
+  "type": "protest",
+  "description": "On 19 August 1978, arsonists set fire to the Cinema Rex movie theater in Abadan, Iran, killing at least 377 people (some estimates exceed 400) who were watching the film *The Deer*. Four men — Hossein Takbalizadeh, Faraj Bazrkar, Fallah Mohammadi, and Yadollah Mohammadpur — barred the exits and doused the building with fuel before igniting it. The attack became a pivotal catalyst for the [Iranian Revolution](/events/iranian-revolution-1979).\n\n**Competing narratives on responsibility:** The Islamic opposition, led by [Ruhollah Khomeini](/people/ruhollah-khomeini), immediately blamed the [Shah](/people/mohammad-reza-shah-pahlavi)'s secret police ([SAVAK](/orgs/savak)) for the attack, and this narrative became the dominant framing in the revolutionary movement. The Pahlavi government initially blamed 'Islamic Marxists.' After the revolution, the Islamic Republic maintained the [SAVAK](/orgs/savak) narrative as official history.\n\nHowever, substantial evidence points to Islamist militant perpetrators. In post-revolutionary proceedings, Hossein Takbalizadeh — the sole surviving member of the four-man arson team — confessed that he and his associates had torched the cinema as a symbol of decadent Western culture, inspired by a local cleric. The attackers were members of Shiite Islamist revolutionary groups. Multiple independent sources, including the 2005 book by Ali Tehrani and investigative reporting, have documented evidence that the fire was set by pro-Khomeini revolutionary elements seeking to inflame public anger against the Shah's regime by staging an atrocity that could be blamed on [SAVAK](/orgs/savak).\n\nThe post-revolutionary trial, presided over by [Hossein Mousavi Tabrizi](/people/hossein-mousavi-tabrizi), lasted from 25 August to 4 September 1980 across 17 sessions. It resulted in the execution of Takbalizadeh and five others, but investigators noted that the actual principal perpetrators were never summoned. The trial has been widely criticized as a cover-up designed to maintain the regime's narrative that [SAVAK](/orgs/savak) was responsible, while eliminating witnesses who could contradict that account.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Cinema_Rex_fire",
+      "title": "Cinema Rex fire — Wikipedia",
+      "date": "2026-04-16",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://nationalinterest.org/blog/buzz/1978-four-terrorists-burned-420-movie-goers-alive-iran-105082",
+      "title": "In 1978, Four Terrorists Burned 420 Movie-Goers Alive in Iran",
+      "date": "2019-08-19",
+      "publisher": "The National Interest"
+    },
+    {
+      "url": "https://ali-tehrani.com/cinemarexabadan/assets/cinema_rex_aabadan_english.pdf",
+      "title": "The Catastrophe of Cinema Rex: The Fire of the Islamic Revolution",
+      "date": "2005-01-01",
+      "publisher": "Ali Tehrani"
+    },
+    {
+      "url": "https://irannewsupdate.com/news/general/those-who-set-irans-cinema-rex-on-fire-became-mps/",
+      "title": "Those Who Set Iran's Cinema Rex on Fire Became MPs",
+      "date": "2023-01-01",
+      "publisher": "Iran News Update"
+    },
+    {
+      "url": "https://www.iranrights.org/memorial/story/-8094/hossein-takbalizadeh",
+      "title": "Hossein Takb'alizadeh: One Person's Story",
+      "date": "2024-01-01",
+      "publisher": "Abdorrahman Boroumand Center"
+    },
+    {
+      "url": "https://english.shabtabnews.com/2026/04/15/hossein-mousavi-tabrizi-from-engineering-massacres-to-wearing-the-reformist-mantle/",
+      "title": "Hossein Mousavi Tabrizi: From Engineering Massacres to Wearing the Reformist Mantle",
+      "date": "2026-04-15",
+      "publisher": "Shabtabnews / IranWire"
+    }
+  ],
+  "tags": [
+    "human-rights"
+  ],
+  "editorial_notes": "Event type set to 'protest' as closest fit — it was an act of political arson/terrorism that catalyzed the revolutionary protest movement. The regime's official narrative (SAVAK did it) is contradicted by substantial evidence that Islamist militants carried out the attack. Mousavi Tabrizi presided over the trial that executed Takbalizadeh but failed to summon the actual organizers. Key lead: Ali Tehrani's book is a primary investigative source on revolutionary complicity. Some sources report perpetrators later became MPs in the Islamic Republic."
+}

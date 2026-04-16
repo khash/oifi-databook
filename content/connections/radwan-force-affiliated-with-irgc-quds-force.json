@@ -1,0 +1,21 @@
+{
+  "entity_id": "radwan-force-affiliated-with-irgc-quds-force",
+  "from_entity": "radwan-force",
+  "to_entity": "irgc-quds-force",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "2006",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Radwan_Force",
+      "source_title": "Radwan Force — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "The Radwan Force was established with the assistance of the IRGC Quds Force."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

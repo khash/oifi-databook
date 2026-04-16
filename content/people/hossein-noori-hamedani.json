@@ -1,0 +1,48 @@
+{
+  "entity_id": "hossein-noori-hamedani",
+  "slug": "hossein-noori-hamedani",
+  "name_en": "Hossein Noori Hamedani",
+  "name_fa": "حسین نوری همدانی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Hossein Nuri-Hamadani",
+    "Grand Ayatollah Noori Hamedani",
+    "Husayn Nuri Hamedani"
+  ],
+  "born": 1925,
+  "birthplace": "Hamadan",
+  "role": "Grand Ayatollah and marja (source of emulation) based in Qom",
+  "faction": "hardliner",
+  "bio": "Grand Ayatollah Hossein Noori Hamedani is a senior Iranian Twelver Shi'a marja based in Qom, known for his ultra-conservative views and strong alignment with the Islamic Republic's establishment.\n\nBorn on 21 March 1925 in Hamadan, he moved to Qom at the age of 17 to pursue seminary studies. He currently resides and teaches at the Qom Seminary, where he is one of the most senior living clerics.\n\nNoori Hamedani is known for strongly backing Supreme Leader [Ali Khamenei](/people/ali-khamenei) on several occasions, notably during the 2009 protests against the re-election of Mahmoud Ahmadinejad. He was the only grand ayatollah to congratulate Ahmadinejad when Ahmadinejad was first declared victor in the disputed 12 June 2009 election. He has publicly called for the purge of 'anti-Islamic and atheist professors' from Iranian universities.\n\nHe is the father-in-law of [Hossein Mousavi Tabrizi](/people/hossein-mousavi-tabrizi), who married into his family around 1968, strengthening ties between the bazaar and the senior clergy during the pre-revolutionary period.",
+  "expertise": [
+    "Islamic jurisprudence",
+    "Shi'a theology",
+    "seminary education"
+  ],
+  "tags": [
+    "clerical"
+  ],
+  "photo": null,
+  "editorial_notes": "One of the most senior living marjas in Qom. Ultra-conservative — only grand ayatollah to congratulate Ahmadinejad in 2009. Father-in-law of Mousavi Tabrizi. Has expressed anti-Sufi, antisemitic, and anti-feminist positions. Potential successor candidate for Supreme Leader has been discussed in some sources.",
+  "irgc_member": false,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Hossein_Noori_Hamedani",
+      "title": "Hossein Noori Hamedani — Wikipedia",
+      "date": "2026-04-16",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.aa.com.tr/en/middle-east/explainer-who-are-candidates-for-iran-s-next-supreme-leader/3845356",
+      "title": "Who are candidates for Iran's next supreme leader?",
+      "date": "2025-01-01",
+      "publisher": "Anadolu Agency"
+    },
+    {
+      "url": "https://english.shabtabnews.com/2026/04/15/hossein-mousavi-tabrizi-from-engineering-massacres-to-wearing-the-reformist-mantle/",
+      "title": "Hossein Mousavi Tabrizi: From Engineering Massacres to Wearing the Reformist Mantle",
+      "date": "2026-04-15",
+      "publisher": "Shabtabnews / IranWire"
+    }
+  ]
+}

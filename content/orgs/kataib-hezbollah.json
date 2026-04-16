@@ -1,0 +1,27 @@
+{
+  "entity_id": "kataib-hezbollah",
+  "slug": "kataib-hezbollah",
+  "name_en": "Kata'ib Hezbollah",
+  "name_fa": "کتائب حزب‌الله",
+  "has_native_fa_name": false,
+  "type": "military",
+  "founded": 2007,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Kata'ib Hezbollah (Brigades of the Party of God) is an Iraqi Shia paramilitary group and one of the most powerful Iranian-backed militias in Iraq. Founded by [Abu Mahdi al-Muhandis](/people/abu-mahdi-al-muhandis), it operates under the umbrella of the [Popular Mobilization Forces](/orgs/popular-mobilization-forces) and receives training, funding, and direction from the [IRGC Quds Force](/orgs/irgc-quds-force). The group has been designated as a Foreign Terrorist Organization by the United States since 2009. It has conducted attacks against US forces in Iraq and played a significant role in the fight against ISIS.",
+  "faction": "hardliner",
+  "tags": [
+    "military",
+    "proxy-warfare",
+    "sanctions"
+  ],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Kata%27ib_Hezbollah",
+      "title": "Kata'ib Hezbollah — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "US-designated FTO since 2009. One of the most powerful Iran-backed militias in Iraq. Affiliated with PMF."
+}

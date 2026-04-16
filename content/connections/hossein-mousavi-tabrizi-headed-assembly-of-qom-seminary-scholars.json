@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-mousavi-tabrizi-headed-assembly-of-qom-seminary-scholars",
+  "from_entity": "hossein-mousavi-tabrizi",
+  "to_entity": "assembly-of-qom-seminary-scholars",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2004",
+  "date_to": "2026",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hossein_Mousavi_Tabrizi",
+      "source_title": "Hossein Mousavi Tabrizi — Wikipedia",
+      "source_date": "2026-04-16",
+      "description": "Served as General Secretary of the Assembly of Qom Seminary Scholars and Researchers from 2004 until his death in 2026."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

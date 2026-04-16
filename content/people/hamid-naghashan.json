@@ -7,10 +7,10 @@
   "aliases": [],
   "born": null,
   "birthplace": null,
-  "role": "Alleged MOIS officer; operated from Iranian Embassy Vienna",
+  "role": "Alleged MOIS officer; operated from Iranian Embassy in Vienna",
   "faction": "hardliner",
   "irgc_member": false,
-  "bio": "Hamid Naghashan is alleged in Belgian and Austrian intelligence reporting to have operated as a Ministry of Intelligence and Security (MOIS) officer from the Iranian Embassy in Vienna. He has been named in connection with the Assadollah Assadi case — a network of Iranian intelligence activity in Europe. He maintains a low public profile and details remain limited to intelligence and law-enforcement reporting. All connections are alleged.",
+  "bio": "Hamid Naghashan is alleged in Belgian and Austrian intelligence reporting to have operated as a [Ministry of Intelligence](/orgs/ministry-of-intelligence) officer from the [Iranian Embassy in Vienna](/orgs/iranian-embassy-vienna). He has been named in connection with the network of Iranian intelligence activity in Europe that included [Assadollah Assadi](/people/assadollah-assadi), who served as MOIS station chief in Vienna from 2014 to 2018 and was convicted in Belgium for the [2018 Villepinte bomb plot](/events/villepinte-bomb-plot-2018). Naghashan maintains a low public profile and details remain limited to intelligence and law-enforcement reporting.",
   "expertise": [
     "intelligence"
   ],
@@ -19,5 +19,5 @@
   ],
   "photo": null,
   "sources": [],
-  "editorial_notes": "Low-profile. All intelligence connections are alleged based on Belgian/Austrian reporting. Do not link to Assadollah Assadi — that entity is being created separately."
+  "editorial_notes": "Extremely low-profile figure. No independent sourcing found in web searches as of April 2026. Named in Belgian/Austrian intelligence context around the Assadi case per the ingestion brief, but no publicly available documents confirm this. All connections are alleged. Keep minimal until better sourcing emerges."
 }

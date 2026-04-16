@@ -1,0 +1,22 @@
+{
+  "entity_id": "strategic-council-on-foreign-relations-reports-to-ali-khamenei",
+  "from_entity": "strategic-council-on-foreign-relations",
+  "to_entity": "ali-khamenei",
+  "type": "reports-to",
+  "confidence": "confirmed",
+  "date_from": "2006",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.middleeasteye.net/news/irans-chief-foreign-affairs-strategist-gravely-wounded-us-israeli-attack",
+      "source_title": "Iran's chief foreign affairs strategist 'gravely wounded'",
+      "source_date": "2026-04-02",
+      "description": "The Strategic Council on Foreign Relations is an advisory body that reports directly to Iran's Supreme Leader."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": [],
+  "editorial_notes": ""
+}

@@ -1,0 +1,32 @@
+{
+  "entity_id": "radwan-force",
+  "slug": "radwan-force",
+  "name_en": "Radwan Force (Hezbollah)",
+  "name_fa": "نیروی رضوان",
+  "has_native_fa_name": false,
+  "type": "military",
+  "founded": 2006,
+  "dissolved": null,
+  "parent_org": "hezbollah",
+  "description": "The Radwan Force is [Hezbollah](/orgs/hezbollah)'s elite special operations unit, estimated at 2,500 fighters. Founded in 2006 as the Intervention Unit with assistance from the [IRGC Quds Force](/orgs/irgc-quds-force), it was renamed in April 2008 after the operational alias of [Imad Mughniyeh](/people/imad-mughniyeh) (\"Hajj Radwan\") following his assassination. The unit specializes in cross-border raids, infiltration, anti-tank warfare, and commando operations. It gained extensive combat experience during the Syrian civil war. [Ibrahim Aqil](/people/ibrahim-aqil) commanded the force until his killing in an Israeli airstrike in September 2024.",
+  "faction": "hardliner",
+  "tags": [
+    "military",
+    "proxy-warfare"
+  ],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Radwan_Force",
+      "title": "Radwan Force — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://israel-alma.org/the-radwan-unit-radwan-force-unit-125/",
+      "title": "The Radwan Unit (Radwan Force - Unit 125)",
+      "date": "2024-01-01",
+      "publisher": "Alma Research and Education Center"
+    }
+  ],
+  "editorial_notes": "Also known as Unit 125. Named after Imad Mughniyeh's alias. After Aqil's death Sep 2024, Abu Ali Reda Abbas appointed commander."
+}

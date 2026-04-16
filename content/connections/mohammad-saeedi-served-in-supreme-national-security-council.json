@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-saeedi-served-in-supreme-national-security-council",
+  "from_entity": "mohammad-saeedi",
+  "to_entity": "supreme-national-security-council",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.iranwatch.org/iranian-entities/mohammed-saeedi",
+      "source_title": "Mohammed Saeedi — Iran Watch",
+      "source_date": "2024-01-01",
+      "description": "Deputy secretary of SNSC for international affairs"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

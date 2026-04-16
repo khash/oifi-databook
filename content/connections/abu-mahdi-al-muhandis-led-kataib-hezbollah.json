@@ -1,0 +1,21 @@
+{
+  "entity_id": "abu-mahdi-al-muhandis-led-kataib-hezbollah",
+  "from_entity": "abu-mahdi-al-muhandis",
+  "to_entity": "kataib-hezbollah",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "2007",
+  "date_to": "2020",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Abu_Mahdi_al-Muhandis",
+      "source_title": "Abu Mahdi al-Muhandis — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Abu Mahdi al-Muhandis founded and commanded Kata'ib Hezbollah."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

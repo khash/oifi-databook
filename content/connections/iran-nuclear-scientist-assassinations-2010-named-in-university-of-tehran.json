@@ -1,0 +1,21 @@
+{
+  "entity_id": "iran-nuclear-scientist-assassinations-2010-named-in-university-of-tehran",
+  "from_entity": "iran-nuclear-scientist-assassinations-2010",
+  "to_entity": "university-of-tehran",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2010-01",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Assassination_of_Iranian_nuclear_scientists",
+      "source_title": "Assassination of Iranian nuclear scientists — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Masoud Ali Mohammadi was a University of Tehran professor killed in the assassination campaign."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

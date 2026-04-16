@@ -1,0 +1,21 @@
+{
+  "entity_id": "assembly-of-qom-seminary-scholars-opposed-society-of-seminary-teachers-of-qom",
+  "from_entity": "assembly-of-qom-seminary-scholars",
+  "to_entity": "society-of-seminary-teachers-of-qom",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hossein_Mousavi_Tabrizi",
+      "source_title": "Hossein Mousavi Tabrizi — Wikipedia",
+      "source_date": "2026-04-16",
+      "description": "The Assembly of Qom Seminary Scholars and Researchers serves as a reformist counterpart to the conservative Society of Seminary Teachers of Qom."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Factional opposition within Qom seminary politics — reformist vs conservative clerical bodies."
+}

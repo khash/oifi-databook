@@ -1,0 +1,40 @@
+{
+  "entity_id": "mostafa-ahmadi-roshan",
+  "slug": "mostafa-ahmadi-roshan",
+  "name_en": "Mostafa Ahmadi Roshan",
+  "name_fa": "مصطفی احمدی‌روشن",
+  "has_native_fa_name": true,
+  "aliases": ["Mostafa Ahmadi-Roshan"],
+  "born": 1979,
+  "birthplace": "Iran",
+  "died": 2012,
+  "role": "Deputy director of commerce at the Natanz enrichment facility; last victim of the 2010–2012 nuclear scientist assassination campaign",
+  "faction": null,
+  "irgc_member": false,
+  "bio": "Mostafa Ahmadi Roshan was an Iranian chemical engineer and deputy director of commerce at the Natanz uranium enrichment facility, operated by the [Atomic Energy Organisation of Iran](/orgs/atomic-energy-organisation-of-iran). On 11 January 2012, he was killed in Tehran when a magnetic bomb was placed on the side of his car by a motorcyclist as he drove to work on Shahid Golnabi Street in the Seyed Khandan district. His bodyguard-driver was also killed. Ahmadi Roshan was the last of four Iranian nuclear-linked scientists assassinated between 2010 and 2012 in the broader [2010–2012 nuclear scientist assassination campaign](/events/iran-nuclear-scientist-assassinations-2010). Western intelligence sources attributed the killing to Israeli intelligence (Mossad). Iran accused the United States and Israel.",
+  "expertise": [
+    "chemical engineering",
+    "uranium enrichment"
+  ],
+  "tags": [
+    "assassinated",
+    "nuclear",
+    "deceased"
+  ],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mostafa_Ahmadi_Roshan",
+      "title": "Mostafa Ahmadi Roshan — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://carnegieendowment.org/posts/2012/01/fourth-iranian-nuclear-scientist-killed-in-car-blast?lang=en",
+      "title": "Fourth Iranian Nuclear Scientist Killed in Car Blast",
+      "date": "2012-01-12",
+      "publisher": "Carnegie Endowment for International Peace"
+    }
+  ],
+  "editorial_notes": "Killed 11 January 2012. Magnetic bomb on car. Deputy director of commerce at Natanz. Bodyguard also killed. Last in the 2010-2012 series."
+}

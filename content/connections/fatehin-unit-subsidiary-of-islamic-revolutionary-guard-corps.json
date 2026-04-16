@@ -1,0 +1,21 @@
+{
+  "entity_id": "fatehin-unit-subsidiary-of-islamic-revolutionary-guard-corps",
+  "from_entity": "fatehin-unit",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "subsidiary-of",
+  "confidence": "confirmed",
+  "date_from": "1999",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://stopfundamentalism.com/news/iran-what-is-the-irgc-fatehins-special-unit",
+      "source_title": "Iran: What is the IRGC Fatehin's special unit?",
+      "source_date": "2024-01-01",
+      "description": "The Fatehin Unit is a special forces formation under the IRGC."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

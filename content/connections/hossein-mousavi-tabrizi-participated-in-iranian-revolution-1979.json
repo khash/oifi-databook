@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-mousavi-tabrizi-participated-in-iranian-revolution-1979",
+  "from_entity": "hossein-mousavi-tabrizi",
+  "to_entity": "iranian-revolution-1979",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1979",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hossein_Mousavi_Tabrizi",
+      "source_title": "Hossein Mousavi Tabrizi — Wikipedia",
+      "source_date": "2026-04-16",
+      "description": "Participated in the 1979 revolution as a pro-Khomeini cleric."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

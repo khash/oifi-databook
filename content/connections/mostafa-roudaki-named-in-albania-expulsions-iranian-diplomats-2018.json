@@ -1,0 +1,22 @@
+{
+  "entity_id": "mostafa-roudaki-named-in-albania-expulsions-iranian-diplomats-2018",
+  "from_entity": "mostafa-roudaki",
+  "to_entity": "albania-expulsions-iranian-diplomats-2018",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2018-12",
+  "date_to": "2018-12",
+  "evidence": [
+    {
+      "source_url": "https://www.ncr-iran.org/en/ncri-statements/terrorism-fundamentalism/expulsion-from-albania-of-the-mullahs-ambassador-and-intelligence-ministry-station-chief-is-a-necessary-step-in-countering-terrorism-and-the-religious-dictatorship-ruling-iran/",
+      "source_title": "Expulsion From Albania of the Mullahs' Ambassador and Intelligence Ministry Station Chief",
+      "source_date": "2018-12-19",
+      "description": "Roudaki expelled from Albania in December 2018 as MOIS station chief alongside Ambassador Mohammadnia."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": ["intelligence"],
+  "editorial_notes": ""
+}

@@ -1,0 +1,38 @@
+{
+  "entity_id": "abdul-reza-shahlai",
+  "slug": "abdul-reza-shahlai",
+  "name_en": "Abdul Reza Shahlai",
+  "name_fa": "عبدالرضا شهلایی",
+  "has_native_fa_name": true,
+  "aliases": ["Abdolreza Shahlaei", "Abdul Reza Shahla'i"],
+  "born": null,
+  "birthplace": "Iran",
+  "role": "IRGC-Quds Force senior officer; directed 2011 Arbabsiar assassination plot; deployed to Yemen",
+  "faction": "hardliner",
+  "bio": "Abdul Reza Shahlai is a senior officer in the [IRGC-Quds Force](/orgs/irgc-quds-force) who has been sanctioned by the United States, the European Union, and the United Kingdom for his role in directing terrorist operations abroad. According to US prosecutors, Shahlai directed [Gholam Shakuri](/people/gholam-shakuri) in the [2011 plot to assassinate Saudi Ambassador Adel Al-Jubeir](/events/arbabsiar-plot-2011) in Washington DC, making him the senior IRGC-QF officer behind the operation.\n\nShahlai is also accused of coordinating a 2007 attack on US military personnel in Karbala, Iraq that killed five American soldiers. The US Department of State offered a $15 million reward through its Rewards for Justice programme for information on Shahlai's operations and networks. He was subsequently deployed to Yemen, where he coordinates IRGC-QF support for Houthi forces.\n\nOn the night of the [assassination of Qassem Soleimani](/events/soleimani-assassination-2020) in January 2020, the United States simultaneously attempted a strike targeting Shahlai in Yemen, but the operation failed to kill him.",
+  "irgc_member": true,
+  "expertise": ["covert operations", "proxy warfare"],
+  "tags": ["military", "sanctions", "proxy-warfare", "intelligence"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.counterextremism.com/extremists/abdul-reza-shahlai",
+      "title": "Abdul Reza Shahlai — Counter Extremism Project",
+      "date": "2024-01-01",
+      "publisher": "Counter Extremism Project"
+    },
+    {
+      "url": "https://rewardsforjustice.net/khm/rewards/abdul-reza-shahlai/",
+      "title": "Abdul Reza Shahla'i — Rewards for Justice",
+      "date": "2020-01-01",
+      "publisher": "US Department of State"
+    },
+    {
+      "url": "https://theintercept.com/2020/01/10/us-strike-abdul-reza-shahlai-yemen/",
+      "title": "U.S. Strike on Iranian Commander in Yemen the Night of Suleimani's Assassination Killed the Wrong Man",
+      "date": "2020-01-10",
+      "publisher": "The Intercept"
+    }
+  ],
+  "editorial_notes": "Sanctioned by US (Oct 2011, EO 13224), EU (Oct 2011), UK (Oct 2011). $15M Rewards for Justice bounty. Failed US strike in Yemen on night of Soleimani assassination (Jan 2020). Currently believed to be IRGC-QF coordinator in Yemen."
+}

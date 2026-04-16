@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-mousavi-tabrizi-served-in-judiciary-of-iran",
+  "from_entity": "hossein-mousavi-tabrizi",
+  "to_entity": "abdolkarim-mousavi-ardabili",
+  "type": "reports-to",
+  "confidence": "confirmed",
+  "date_from": "1981",
+  "date_to": "1985",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hossein_Mousavi_Tabrizi",
+      "source_title": "Hossein Mousavi Tabrizi — Wikipedia",
+      "source_date": "2026-04-16",
+      "description": "As Prosecutor General, Mousavi Tabrizi served under Chief Justice Mousavi-Ardabili."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

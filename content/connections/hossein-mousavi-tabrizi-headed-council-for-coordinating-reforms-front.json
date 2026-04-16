@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-mousavi-tabrizi-headed-council-for-coordinating-reforms-front",
+  "from_entity": "hossein-mousavi-tabrizi",
+  "to_entity": "council-for-coordinating-reforms-front",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2015",
+  "date_to": "2016",
+  "evidence": [
+    {
+      "source_url": "https://english.shabtabnews.com/2026/04/15/hossein-mousavi-tabrizi-from-engineering-massacres-to-wearing-the-reformist-mantle/",
+      "source_title": "Hossein Mousavi Tabrizi: From Engineering Massacres to Wearing the Reformist Mantle",
+      "source_date": "2026-04-15",
+      "description": "Mousavi Tabrizi served as rotating president of the Council for Coordinating the Reforms Front from 2015 to 2016."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Rotating presidency, not permanent leadership."
+}

@@ -1,0 +1,22 @@
+{
+  "entity_id": "abbas-milani-headed-stanford-iranian-studies-program",
+  "from_entity": "abbas-milani",
+  "to_entity": "stanford-iranian-studies-program",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2005",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://iranian-studies.stanford.edu/people/abbas-milani",
+      "source_title": "Abbas Milani — Stanford Iranian Studies",
+      "source_date": "2025-02-01",
+      "description": "Abbas Milani serves as the Hamid and Christina Moghadam Director of Iranian Studies at Stanford University."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": [],
+  "editorial_notes": ""
+}

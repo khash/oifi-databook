@@ -1,0 +1,15 @@
+{
+  "entity_id": "hamid-naghashan-coordinated-with-assadollah-assadi",
+  "from_entity": "hamid-naghashan",
+  "to_entity": "assadollah-assadi",
+  "type": "coordinated-with",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": ["intelligence"],
+  "editorial_notes": "Alleged connection via the Vienna embassy MOIS network. No publicly available confirmation."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "cinema-rex-fire-1978-participated-in-iranian-revolution-1979",
+  "from_entity": "cinema-rex-fire-1978",
+  "to_entity": "iranian-revolution-1979",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "1978",
+  "date_to": "1979",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Cinema_Rex_fire",
+      "source_title": "Cinema Rex fire — Wikipedia",
+      "source_date": "2026-04-16",
+      "description": "The Cinema Rex fire was a pivotal catalyst for the Iranian Revolution, inflaming public anger against the Pahlavi regime."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "The fire catalyzed the revolutionary movement. Using coordinated-with as it was an event that fed into the larger revolution."
+}

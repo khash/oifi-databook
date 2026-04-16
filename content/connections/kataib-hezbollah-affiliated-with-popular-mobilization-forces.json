@@ -1,0 +1,21 @@
+{
+  "entity_id": "kataib-hezbollah-affiliated-with-popular-mobilization-forces",
+  "from_entity": "kataib-hezbollah",
+  "to_entity": "popular-mobilization-forces",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "2014",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Kata%27ib_Hezbollah",
+      "source_title": "Kata'ib Hezbollah — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Kata'ib Hezbollah operates under the umbrella of the Popular Mobilization Forces."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

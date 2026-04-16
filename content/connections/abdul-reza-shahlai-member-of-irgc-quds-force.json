@@ -1,0 +1,19 @@
+{
+  "entity_id": "abdul-reza-shahlai-member-of-irgc-quds-force",
+  "from_entity": "abdul-reza-shahlai",
+  "to_entity": "irgc-quds-force",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.counterextremism.com/extremists/abdul-reza-shahlai",
+      "source_title": "Abdul Reza Shahlai — Counter Extremism Project",
+      "source_date": "2024-01-01",
+      "description": "Shahlai is a senior IRGC-Quds Force commander sanctioned by the US, EU, and UK."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

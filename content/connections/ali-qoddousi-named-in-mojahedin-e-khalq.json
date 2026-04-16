@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-qoddousi-named-in-mojahedin-e-khalq",
+  "from_entity": "ali-qoddousi",
+  "to_entity": "mojahedin-e-khalq",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "1981-09-05",
+  "date_to": "1981-09-05",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_people_assassinated_by_the_People's_Mujahedin_of_Iran",
+      "source_title": "List of people assassinated by the People's Mojahedin of Iran — Wikipedia",
+      "source_date": "2026-04-16",
+      "description": "Qoddousi was assassinated by a bombing at his office on 5 September 1981, attributed to the Mojahedin-e Khalq."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Assassination by MEK bombing. Using subject-of rather than named-in since he was a target/victim of MEK operations."
+}

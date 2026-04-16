@@ -1,0 +1,19 @@
+{
+  "entity_id": "abdul-reza-shahlai-directed-gholam-shakuri",
+  "from_entity": "abdul-reza-shahlai",
+  "to_entity": "gholam-shakuri",
+  "type": "directed",
+  "confidence": "confirmed",
+  "date_from": "2011",
+  "date_to": "2011",
+  "evidence": [
+    {
+      "source_url": "https://www.justice.gov/archives/opa/pr/two-men-charged-alleged-plot-assassinate-saudi-arabian-ambassador-united-states",
+      "source_title": "Two Men Charged in Alleged Plot to Assassinate Saudi Arabian Ambassador to the United States",
+      "source_date": "2011-10-11",
+      "description": "US prosecutors identified Shahlai as the senior IRGC-QF officer directing Gholam Shakuri in the Arbabsiar assassination plot."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

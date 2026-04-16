@@ -1,0 +1,19 @@
+{
+  "entity_id": "abbas-rhayel-participated-in-mykonos-restaurant-assassination-1992",
+  "from_entity": "abbas-rhayel",
+  "to_entity": "mykonos-restaurant-assassination-1992",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1992-09-17",
+  "date_to": "1992-09-17",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mykonos_restaurant_assassinations",
+      "source_title": "Mykonos restaurant assassinations — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Abbas Rhayel was convicted as one of the two gunmen who carried out the Mykonos killings. Forensic evidence included his palm print on a pistol magazine."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

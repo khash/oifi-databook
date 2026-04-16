@@ -1,0 +1,21 @@
+{
+  "entity_id": "radwan-force-subsidiary-of-hezbollah",
+  "from_entity": "radwan-force",
+  "to_entity": "hezbollah",
+  "type": "subsidiary-of",
+  "confidence": "confirmed",
+  "date_from": "2006",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Radwan_Force",
+      "source_title": "Radwan Force — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "The Radwan Force is Hezbollah's elite special operations unit."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,41 @@
+{
+  "entity_id": "masoud-ali-mohammadi",
+  "slug": "masoud-ali-mohammadi",
+  "name_en": "Masoud Ali Mohammadi",
+  "name_fa": "مسعود علی‌محمدی",
+  "has_native_fa_name": true,
+  "aliases": ["Massoud Ali-Mohammadi", "Masoud Alimohammadi"],
+  "born": 1959,
+  "birthplace": "Iran",
+  "died": 2010,
+  "role": "Professor of physics at the University of Tehran; first victim of the 2010–2012 nuclear scientist assassination campaign",
+  "faction": null,
+  "irgc_member": false,
+  "bio": "Masoud Ali Mohammadi was a professor of physics at the [University of Tehran](/orgs/university-of-tehran) specialising in quantum field theory, elementary particle physics, and cosmology. On 12 January 2010, he was killed by a remote-controlled bomb attached to a motorcycle parked outside his home in the Gheytariyeh neighbourhood of northern Tehran as he left for work. The blast wounded two bystanders and damaged nearby buildings. His assassination was the first in a series of targeted killings of Iranian scientists between 2010 and 2012, widely attributed to Israeli intelligence (Mossad). The Iranian government described him as a nuclear scientist, though the Atomic Energy Organisation of Iran stated he was not employed by the organisation. Iran accused the United States and Israel of responsibility. The attack is documented as part of the broader [2010–2012 nuclear scientist assassination campaign](/events/iran-nuclear-scientist-assassinations-2010).",
+  "expertise": [
+    "quantum field theory",
+    "elementary particle physics",
+    "cosmology"
+  ],
+  "tags": [
+    "assassinated",
+    "nuclear",
+    "deceased"
+  ],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Assassinations_of_Iranian_nuclear_scientists",
+      "title": "Assassinations of Iranian nuclear scientists — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://iranprimer.usip.org/blog/2020/dec/02/part-5-assassinations-iran-nuclear-scientists",
+      "title": "Part 5: Assassinations of Iran Nuclear Scientists",
+      "date": "2020-12-02",
+      "publisher": "USIP Iran Primer"
+    }
+  ],
+  "editorial_notes": "Killed 12 January 2010 in Gheytariyeh, Tehran. Remote-controlled motorcycle bomb. First in the 2010-2012 series. His actual role in nuclear programme is debated; AEOI denied he was their employee."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "khadijeh-saqafi-family-of-ahmad-khomeini",
+  "from_entity": "khadijeh-saqafi",
+  "to_entity": "ahmad-khomeini",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Khadijeh_Saqafi",
+      "source_title": "Khadijeh Saqafi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Khadijeh Saqafi was the mother of Ahmad Khomeini."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "parent",
+  "editorial_notes": ""
+}

@@ -3681,5 +3681,311 @@
     "status": "valid",
     "http_status": 200,
     "last_checked": "2026-04-13T12:22:21.658Z"
+  },
+  "https://en.wikipedia.org/wiki/Hossein_Mousavi_Tabrizi": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:37:50.355Z"
+  },
+  "https://irannewsupdate.com/news/human-rights/death-of-a-1980s-prosecutor-revives-dark-legacy-of-iran-regimes-judicial-repression/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:37:50.355Z"
+  },
+  "https://english.shabtabnews.com/2026/04/15/hossein-mousavi-tabrizi-from-engineering-massacres-to-wearing-the-reformist-mantle/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:37:50.355Z"
+  },
+  "https://www.counterextremism.com/extremists/abdul-reza-shahlai": {
+    "status": "bot-blocked",
+    "http_status": 403,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://en.wikipedia.org/wiki/Abu_Mahdi_al-Muhandis": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://en.wikipedia.org/wiki/Adel_bin_Ahmed_Al_Jubeir": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://rewardsforjustice.net/khm/rewards/abdul-reza-shahlai/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://www.justice.gov/archives/opa/pr/two-men-charged-alleged-plot-assassinate-saudi-arabian-ambassador-united-states": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://iranhrdc.org/murder-at-mykonos-anatomy-of-a-political-assassination/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://theintercept.com/2020/01/10/us-strike-abdul-reza-shahlai-yemen/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://www.aljazeera.com/news/2020/1/3/hashd-deputy-abu-mahdi-al-muhandis-irans-man-in-baghdad": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://tolonews.com/afghanistan-191822": {
+    "status": "bot-blocked",
+    "http_status": 403,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://en.wikipedia.org/wiki/Dariush_Rezaeinejad": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://en.wikipedia.org/wiki/Hassan_Khomeini": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://iranprimer.usip.org/blog/2023/apr/27/timeline-assassinations-iranian-clerics": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://en.wikipedia.org/wiki/Ali_Qoddusi": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://www.cnn.com/2012/07/23/world/meast/iran-nuclear-scientist": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://tehrantimes.com/news/506945/Bigdeli-begins-post-as-head-of-Iranian-mission-in-Kabul": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://www.tehrantimes.com/news/506700/Iran-names-new-ambassador-to-Afghanistan": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://en.wikipedia.org/wiki/Hossein_Noori_Hamedani": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://www.iranwatch.org/iranian-entities/mohammed-saeedi": {
+    "status": "bot-blocked",
+    "http_status": 403,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://en.wikipedia.org/wiki/Mohammad_Saeedi": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://en.wikipedia.org/wiki/Khadijeh_Saqafi": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://www.pbs.org/wgbh/pages/frontline/tehranbureau/2009/12/another-iranian-nuclear-negotiator-resigns.html": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://iranprimer.usip.org/blog/2020/dec/02/part-5-assassinations-iran-nuclear-scientists": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://www.jta.org/quick-reads/hector-timerman-argentine-foreign-minister-investigated-for-cutting-deal-with-iran-dies-at-65": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://www.aa.com.tr/en/middle-east/explainer-who-are-candidates-for-iran-s-next-supreme-leader/3845356": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://www.mei.edu/publications/irans-balkan-front-roots-and-consequences-iranian-cyberattacks-against-albania": {
+    "status": "bot-blocked",
+    "http_status": 403,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://www.azernews.az/nation/102472.html": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://en.wikipedia.org/wiki/List_of_ambassadors_of_Iran_to_Azerbaijan": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://en.wikipedia.org/wiki/Mostafa_Ahmadi_Roshan": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://www.ncr-iran.org/en/ncri-statements/statement-iran-resistance/iran-deputy-international-affairs-adviser-of-the-office-of-supreme-leader-admits-regimes-cyber-attacks-on-albania/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://www.ncr-iran.org/en/ncri-statements/terrorism-fundamentalism/expulsion-from-albania-of-the-mullahs-ambassador-and-intelligence-ministry-station-chief-is-a-necessary-step-in-countering-terrorism-and-the-religious-dictatorship-ruling-iran/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://carnegieendowment.org/posts/2012/01/fourth-iranian-nuclear-scientist-killed-in-car-blast?lang=en": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://en.mehrnews.com/tag/Mohsen+Pak+Ayeen": {
+    "status": "unknown",
+    "http_status": null,
+    "note": "timeout",
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://en.wikipedia.org/wiki/Seyyed_Hossein_Nasr": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://www.seyyedhosseinnasr.com/about/biography": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://www.gold.ac.uk/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://religion.columbian.gwu.edu/seyyed-nasr": {
+    "status": "bot-blocked",
+    "http_status": 403,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://en.wikipedia.org/wiki/Council_for_Coordinating_the_Reforms_Front": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://stopfundamentalism.com/news/iran-what-is-the-irgc-fatehins-special-unit": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://english.mojahedin.org/news/iran-news/iran-ambassador-to-albania-is-expelled/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://iranfocus.com/iran-general/49219-basij-special-unit-fatehin-and-its-role-in-quelling-irans-protests/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://en.wikipedia.org/wiki/Goldsmiths,_University_of_London": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://en.wikipedia.org/wiki/International_Institute_for_Strategic_Studies": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://en.wikipedia.org/wiki/Kata%27ib_Hezbollah": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://en.wikipedia.org/wiki/Radwan_Force": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://www.iiss.org/about-us/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://israel-alma.org/the-radwan-unit-radwan-force-unit-125/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://www.middleeasteye.net/news/irans-chief-foreign-affairs-strategist-gravely-wounded-us-israeli-attack": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://news.stanford.edu/stories/2017/05/commitment-generosity-guide-iranian-studies-program-great-heights": {
+    "status": "bot-blocked",
+    "http_status": 403,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://nationalinterest.org/blog/buzz/1978-four-terrorists-burned-420-movie-goers-alive-iran-105082": {
+    "status": "bot-blocked",
+    "http_status": 403,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://en.wikipedia.org/wiki/Cinema_Rex_fire": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://www.palestinechronicle.com/who-was-kamal-kharrazi-senior-iranian-leader-dies-after-us-israeli-strike/": {
+    "status": "invalid",
+    "http_status": 429,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://ali-tehrani.com/cinemarexabadan/assets/cinema_rex_aabadan_english.pdf": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://www.iranrights.org/memorial/story/-8094/hossein-takbalizadeh": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://irannewsupdate.com/news/general/those-who-set-irans-cinema-rex-on-fire-became-mps/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://en.wikipedia.org/wiki/2011_alleged_Iran_assassination_plot": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://home.treasury.gov/news/press-releases/tg1320": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://www.iiss.org/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
+  },
+  "https://en.wikipedia.org/wiki/List_of_people_assassinated_by_the_People's_Mujahedin_of_Iran": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T07:56:33.786Z"
   }
 }

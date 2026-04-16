@@ -1,0 +1,21 @@
+{
+  "entity_id": "ibrahim-aqil-led-radwan-force",
+  "from_entity": "ibrahim-aqil",
+  "to_entity": "radwan-force",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2024-09-20",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Radwan_Force",
+      "source_title": "Radwan Force — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Ibrahim Aqil commanded the Radwan Force until his killing in an Israeli airstrike on 20 September 2024."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "masoud-ali-mohammadi-named-in-iran-nuclear-scientist-assassinations-2010",
+  "from_entity": "masoud-ali-mohammadi",
+  "to_entity": "iran-nuclear-scientist-assassinations-2010",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2010-01-12",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Assassinations_of_Iranian_nuclear_scientists",
+      "source_title": "Assassinations of Iranian nuclear scientists — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "First victim in the 2010-2012 assassination series; killed 12 January 2010"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

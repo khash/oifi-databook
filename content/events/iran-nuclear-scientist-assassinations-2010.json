@@ -1,11 +1,12 @@
 {
   "entity_id": "iran-nuclear-scientist-assassinations-2010",
   "slug": "iran-nuclear-scientist-assassinations-2010",
-  "name": "2010 Iran Nuclear Scientist Assassinations",
-  "date": "2010-11-29",
+  "name": "2010–2012 Iran Nuclear Scientist Assassinations",
+  "date": "2010-01-12",
   "date_precision": "day",
+  "end_date": "2012-01-11",
   "type": "death",
-  "description": "On 29 November 2010, two coordinated car-bombing attacks in Tehran targeted Iranian nuclear scientists. [Majid Shahriari](/people/majid-shahriari), a nuclear physicist at Shahid Beheshti University, was killed when a bomb attached to his car by a motorcyclist detonated; his wife survived. In a separate simultaneous attack, [Fereydoun Abbasi-Davani](/people/fereydoun-abbasi-davani) and his wife survived a similar bomb attack. The attacks were part of a broader campaign of targeted killings against Iranian nuclear scientists between 2010 and 2012 that also included the killing of Daryoush Rezaei (July 2011) and Mostafa Ahmadi Roshan (January 2012). Western and Israeli governments did not publicly claim responsibility, but the operations are widely attributed to Israeli intelligence (Mossad), possibly with US knowledge. Iran accused the United States and Israel and mourned Shahriari as a martyr of science.",
+  "description": "Between January 2010 and January 2012, a covert campaign of targeted killings struck Iranian nuclear scientists in Tehran. [Masoud Ali Mohammadi](/people/masoud-ali-mohammadi), a quantum-field-theory physicist at the [University of Tehran](/orgs/university-of-tehran), was killed on 12 January 2010 by a remote-controlled bomb attached to a motorcycle outside his home. On 29 November 2010, [Majid Shahriari](/people/majid-shahriari) was killed by a magnetic bomb attached to his car; in a simultaneous attack, [Fereydoun Abbasi-Davani](/people/fereydoun-abbasi-davani) survived a similar device. On 23 July 2011, [Daryoush Rezaei](/people/daryoush-rezaei), an electrical-engineering PhD student at K. N. Toosi University of Technology, was shot dead by motorcycle-riding gunmen outside his home. On 11 January 2012, [Mostafa Ahmadi Roshan](/people/mostafa-ahmadi-roshan), deputy director of commerce at the Natanz enrichment facility, was killed by a magnetic bomb placed on his car. The campaign was widely attributed to Israeli intelligence (Mossad), with possible US knowledge. Iran accused the United States and Israel. The assassinations intensified domestic support for the nuclear programme and hardened Iran's negotiating posture.",
   "body": null,
   "sources": [
     {
@@ -25,5 +26,5 @@
     "nuclear",
     "assassinated"
   ],
-  "editorial_notes": "Part of the broader 2010–2012 assassination campaign. Widely attributed to Mossad. Shahriari killed; Abbasi-Davani survived."
+  "editorial_notes": "Composite event covering 2010-2012 campaign. Ali Mohammadi (Jan 2010), Shahriari (Nov 2010), Abbasi-Davani survived (Nov 2010), Rezaei (Jul 2011), Ahmadi Roshan (Jan 2012). Widely attributed to Mossad."
 }

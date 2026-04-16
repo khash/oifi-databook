@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-noori-hamedani-family-of-hossein-mousavi-tabrizi",
+  "from_entity": "hossein-noori-hamedani",
+  "to_entity": "hossein-mousavi-tabrizi",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": "1968",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://english.shabtabnews.com/2026/04/15/hossein-mousavi-tabrizi-from-engineering-massacres-to-wearing-the-reformist-mantle/",
+      "source_title": "Hossein Mousavi Tabrizi: From Engineering Massacres to Wearing the Reformist Mantle",
+      "source_date": "2026-04-15",
+      "description": "Mousavi Tabrizi married into the family of Hossein Noori Hamedani around 1968, making Noori Hamedani his father-in-law."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "in-law",
+  "editorial_notes": "Noori Hamedani is Mousavi Tabrizi's father-in-law. Marriage circa 1968 strengthened ties between bazaar and clergy."
+}

@@ -1,0 +1,32 @@
+{
+  "entity_id": "hassan-khomeini",
+  "slug": "hassan-khomeini",
+  "name_en": "Hassan Khomeini",
+  "name_fa": "حسن خمینی",
+  "has_native_fa_name": true,
+  "aliases": ["Seyyed Hassan Khomeini", "Hassan Mostafavi Khomeini"],
+  "born": 1972,
+  "birthplace": "Qom",
+  "role": "Custodian of the Mausoleum of Ruhollah Khomeini; reformist cleric; grandson of the founder of the Islamic Republic",
+  "faction": "reformist",
+  "bio": "Hassan Khomeini is the eldest son of [Ahmad Khomeini](/people/ahmad-khomeini) and the grandson of [Ruhollah Khomeini](/people/ruhollah-khomeini), founder of the Islamic Republic of Iran. Since his father's death in 1995, he has served as the custodian of the [Mausoleum of Ruhollah Khomeini](/events/iranian-revolution-1979), a role with considerable symbolic weight. He is widely identified with the reformist camp within Iranian politics and maintains close ties with former presidents [Mohammad Khatami](/people/mohammad-khatami) and [Hassan Rouhani](/people/hassan-rouhani).\n\nHassan has publicly alleged that his father Ahmad was poisoned — a claim that links to the broader [chain murders](/events/chain-murders-iran-1998) campaign attributed to rogue [Ministry of Intelligence](/orgs/ministry-of-intelligence) operatives, with [Saeed Emami](/people/saeed-emami) named as the likely perpetrator. In February 2008, he spoke out against military interference in politics. He met with defeated presidential candidate [Mir-Hossein Mousavi](/people/mir-hossein-mousavi) during the [2009 Green Movement protests](/events/green-movement-protests-2009) and supported calls to annul the disputed election results.\n\nIn December 2015, Hassan announced his candidacy for the [Assembly of Experts](/orgs/assembly-of-experts) in the 2016 election, but the [Guardian Council](/orgs/guardian-council) rejected his nomination in February 2016. In 2021, he publicly criticised the Guardian Council for barring reformist candidates from elections. His position as custodian of the Khomeini legacy gives him unique symbolic capital, though he has been kept from formal political office by the conservative establishment.",
+  "irgc_member": false,
+  "expertise": [],
+  "tags": ["clerical", "green-movement", "electoral-vetting"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Hassan_Khomeini",
+      "title": "Hassan Khomeini — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.atlanticcouncil.org/blogs/iransource/three-decades-after-khomeini-s-death-his-clan-lives-life-on-the-sidelines/",
+      "title": "Three decades after Khomeini's death, his clan rules from the sidelines",
+      "date": "2019-06-03",
+      "publisher": "Atlantic Council"
+    }
+  ],
+  "editorial_notes": "Born 23 July 1972, Qom. Son of Ahmad Khomeini, grandson of Ruhollah Khomeini. Custodian of Khomeini Mausoleum since 1995. Guardian Council blocked his 2016 Assembly of Experts candidacy. Reformist alignment confirmed by public support for Mousavi in 2009 and ties to Khatami/Rouhani."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-ali-montazeri-opposed-hossein-mousavi-tabrizi",
+  "from_entity": "hossein-ali-montazeri",
+  "to_entity": "hossein-mousavi-tabrizi",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": "1985",
+  "date_to": "1988",
+  "evidence": [
+    {
+      "source_url": "https://english.shabtabnews.com/2026/04/15/hossein-mousavi-tabrizi-from-engineering-massacres-to-wearing-the-reformist-mantle/",
+      "source_title": "Hossein Mousavi Tabrizi: From Engineering Massacres to Wearing the Reformist Mantle",
+      "source_date": "2026-04-15",
+      "description": "Montazeri documented and criticized the judicial excesses of the revolutionary courts during the period of Mousavi Tabrizi's tenure as Prosecutor General."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

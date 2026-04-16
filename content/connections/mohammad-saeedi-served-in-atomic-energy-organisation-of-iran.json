@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-saeedi-served-in-atomic-energy-organisation-of-iran",
+  "from_entity": "mohammad-saeedi",
+  "to_entity": "atomic-energy-organisation-of-iran",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2009",
+  "evidence": [
+    {
+      "source_url": "https://www.iranwatch.org/iranian-entities/mohammed-saeedi",
+      "source_title": "Mohammed Saeedi — Iran Watch",
+      "source_date": "2024-01-01",
+      "description": "Deputy head of international affairs at AEOI"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

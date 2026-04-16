@@ -1,0 +1,19 @@
+{
+  "entity_id": "abdul-reza-shahlai-directed-arbabsiar-plot-2011",
+  "from_entity": "abdul-reza-shahlai",
+  "to_entity": "arbabsiar-plot-2011",
+  "type": "directed",
+  "confidence": "confirmed",
+  "date_from": "2011",
+  "date_to": "2011",
+  "evidence": [
+    {
+      "source_url": "https://home.treasury.gov/news/press-releases/tg1320",
+      "source_title": "Treasury Sanctions Five Individuals Tied to Iranian Plot to Assassinate the Saudi Arabian Ambassador to the United States",
+      "source_date": "2011-10-11",
+      "description": "US Treasury sanctioned Shahlai for directing the plot to assassinate the Saudi ambassador."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

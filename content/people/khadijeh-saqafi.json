@@ -1,0 +1,32 @@
+{
+  "entity_id": "khadijeh-saqafi",
+  "slug": "khadijeh-saqafi",
+  "name_en": "Khadijeh Saqafi",
+  "name_fa": "خدیجه ثقفی",
+  "has_native_fa_name": true,
+  "aliases": ["Khadija Saqafi", "Khadijeh Thaqafi"],
+  "born": 1916,
+  "birthplace": "Tehran",
+  "role": "Wife of Ruhollah Khomeini; mother of Ahmad Khomeini",
+  "faction": "hardliner",
+  "bio": "Khadijeh Saqafi was the wife of [Ruhollah Khomeini](/people/ruhollah-khomeini), founder of the Islamic Republic of Iran, and the mother of [Ahmad Khomeini](/people/ahmad-khomeini). Born in Tehran to Hajj Mirza Mohammad Thaqafi, a respected cleric and merchant, she married Khomeini in the early 1930s. The couple had seven children, five of whom survived to adulthood.\n\nKhadijeh accompanied Khomeini during his years of exile, joining him in Najaf, Iraq after his initial deportation to Turkey in the 1960s. She managed the household under austere conditions, enabling his continued religious teaching and anti-Pahlavi political activities. She remained a private figure throughout the revolutionary period and the years of the Islamic Republic, rarely appearing in public or making political statements. She was known within the revolutionary household as a stabilising presence.\n\nKhadijeh Saqafi died on 19 March 2009 in Tehran at the age of 93. She was widely referred to in Iranian state media as the \"mother of the Islamic revolution.\"",
+  "irgc_member": false,
+  "expertise": [],
+  "tags": ["deceased", "clerical"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Khadijeh_Saqafi",
+      "title": "Khadijeh Saqafi — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.atlanticcouncil.org/blogs/iransource/three-decades-after-khomeini-s-death-his-clan-lives-life-on-the-sidelines/",
+      "title": "Three decades after Khomeini's death, his clan rules from the sidelines",
+      "date": "2019-06-03",
+      "publisher": "Atlantic Council"
+    }
+  ],
+  "editorial_notes": "Born c.1916 Tehran. Married Khomeini c.1929–1931 (sources vary). Died 19 March 2009 Tehran. Background political role — managed exile household. Five surviving children including Ahmad Khomeini."
+}

@@ -1,0 +1,22 @@
+{
+  "entity_id": "shahram-chubin-affiliated-with-international-institute-for-strategic-studies",
+  "from_entity": "shahram-chubin",
+  "to_entity": "international-institute-for-strategic-studies",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.iiss.org/",
+      "source_title": "International Institute for Strategic Studies",
+      "source_date": "2024-01-01",
+      "description": "Shahram Chubin was a longtime research associate at the IISS, specializing in Iranian security and nuclear proliferation."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": [],
+  "editorial_notes": ""
+}

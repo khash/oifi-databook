@@ -1,0 +1,22 @@
+{
+  "entity_id": "kian-tajbakhsh-affiliated-with-columbia-university-iranian-studies",
+  "from_entity": "kian-tajbakhsh",
+  "to_entity": "columbia-university-iranian-studies",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://mesaas.columbia.edu/",
+      "source_title": "Columbia University Middle Eastern, South Asian, and African Studies",
+      "source_date": "2024-01-01",
+      "description": "Kian Tajbakhsh is affiliated with Columbia University's Iranian Studies program."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": [],
+  "editorial_notes": ""
+}

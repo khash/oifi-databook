@@ -4,19 +4,19 @@
   "to_entity": "ministry-of-foreign-affairs",
   "type": "served-in",
   "confidence": "confirmed",
-  "date_from": "2016",
-  "date_to": "2021",
+  "date_from": "1991",
+  "date_to": null,
   "evidence": [
     {
       "source_url": "https://kabulnow.com/2024/11/iran-appoints-alireza-bigdeli-as-new-ambassador-to-afghanistan/",
-      "source_title": "Alireza Bigdeli",
-      "source_date": "2024-01-01",
-      "description": "Alireza Bigdeli served as Iranian Ambassador to Azerbaijan (2016–2021) and Ukraine."
+      "source_title": "Iran Appoints Alireza Bigdeli as New Ambassador to Afghanistan",
+      "source_date": "2024-11-01",
+      "description": "Career MFA diplomat: chargé d'affaires Kazakhstan (1991–1992), ambassador to Azerbaijan (1995–2000), Cyprus (2007–2010), Turkey (2012–2015), Afghanistan (2024–present)."
     }
   ],
   "intermediaries": [],
   "symmetric": false,
   "family_subtype": null,
   "tags": ["diplomacy"],
-  "editorial_notes": ""
+  "editorial_notes": "Dates corrected: Azerbaijan posting was 1995–2000, not 2016–2021."
 }

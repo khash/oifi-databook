@@ -111,7 +111,17 @@ export function Search({ centered = false, onSelect }: { centered?: boolean; onS
                 </div>
               )}
               {!loading && results.length === 0 && (
-                <CommandEmpty>No results found for &ldquo;{query}&rdquo;</CommandEmpty>
+                <CommandEmpty>
+                  <div className="px-4 py-3 text-left space-y-1">
+                    <p className="text-sm text-muted-foreground">No results found for &ldquo;{query}&rdquo;</p>
+                    <a
+                      href={`/suggest?q=${encodeURIComponent(query)}`}
+                      className="text-sm text-primary hover:underline"
+                    >
+                      Suggest this entity &rarr;
+                    </a>
+                  </div>
+                </CommandEmpty>
               )}
               {!loading && results.length > 0 && (
                 <CommandGroup heading="Results">

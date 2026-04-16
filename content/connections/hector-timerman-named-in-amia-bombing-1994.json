@@ -1,7 +1,7 @@
 {
-  "entity_id": "alberto-nisman-named-in-jorge-taiana",
-  "from_entity": "alberto-nisman",
-  "to_entity": "jorge-taiana",
+  "entity_id": "hector-timerman-named-in-amia-bombing-1994",
+  "from_entity": "hector-timerman",
+  "to_entity": "amia-bombing-1994",
   "type": "named-in",
   "confidence": "confirmed",
   "date_from": "2015-01-14",
@@ -11,7 +11,7 @@
       "source_url": "https://en.wikipedia.org/wiki/Alberto_Nisman",
       "source_title": "Alberto Nisman — Wikipedia",
       "source_date": "2024-01-01",
-      "description": "Nisman's January 2015 charging document named Taiana alongside Kirchner for treason."
+      "description": "Nisman charged Timerman alongside Kirchner with treason for conspiring to shield Iranian suspects in the AMIA bombing case."
     }
   ],
   "intermediaries": [],

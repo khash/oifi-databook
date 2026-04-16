@@ -1,9 +1,19 @@
 # Broken Links
 
-Last updated: 2026-04-13  
-Dead links (build-blocking): **0** | Bot-blocked (verify manually): **56**
+Last updated: 2026-04-16  
+Dead links (build-blocking): **1** | Bot-blocked (verify manually): **63**
 
-## Bot-Blocked (56)
+## Dead Links (1)
+
+These return 4xx/5xx or fail to connect. **The build fails until they are fixed.**
+
+### HTTP 429 (1)
+
+- https://www.palestinechronicle.com/who-was-kamal-kharrazi-senior-iranian-leader-dies-after-us-israeli-strike/
+  - `content/orgs/strategic-council-on-foreign-relations.json`
+  - *last checked: 2026-04-16*
+
+## Bot-Blocked (63)
 
 These return 403/401 to automated requests but are likely accessible to human visitors. The build does not fail for these. Verify manually or replace with Wayback Machine archives.
 
@@ -22,8 +32,12 @@ These return 403/401 to automated requests but are likely accessible to human vi
   - `content/connections/irgc-quds-force-lebanon-corps-coordinated-with-hezbollah.json`
   - *last checked: 2026-04-13*
 
-### HTTP 403 (53)
+### HTTP 403 (60)
 
+- https://www.counterextremism.com/extremists/abdul-reza-shahlai
+  - `content/people/abdul-reza-shahlai.json`
+  - `content/connections/abdul-reza-shahlai-member-of-irgc-quds-force.json`
+  - *last checked: 2026-04-16*
 - https://www.timesofisrael.com/
   - `content/people/ahmad-rasouli.json`
   - `content/people/gholamreza-rezaian.json`
@@ -54,6 +68,9 @@ These return 403/401 to automated requests but are likely accessible to human vi
   - `content/people/ali-shadmani.json`
   - `content/connections/ali-shadmani-subject-of-israeli-strikes-iran-june-2025.json`
   - *last checked: 2026-04-13*
+- https://tolonews.com/afghanistan-191822
+  - `content/people/alireza-bigdeli.json`
+  - *last checked: 2026-04-16*
 - https://www.cambridge.org/us/universitypress/subjects/politics-international-relations/middle-east-politics/bazaar-and-state-iran
   - `content/people/arang-keshavarzian.json`
   - *last checked: 2026-04-13*
@@ -93,6 +110,17 @@ These return 403/401 to automated requests but are likely accessible to human vi
 - https://iranwire.com/en/features/134892-who-is-mohammad-marandi-irans-chief-propagandist-in-english/
   - `content/people/mohammad-marandi.json`
   - *last checked: 2026-04-13*
+- https://www.iranwatch.org/iranian-entities/mohammed-saeedi
+  - `content/people/mohammad-saeedi.json`
+  - `content/connections/mohammad-saeedi-reports-to-gholam-reza-aghazadeh.json`
+  - `content/connections/mohammad-saeedi-served-in-atomic-energy-organisation-of-iran.json`
+  - `content/connections/mohammad-saeedi-served-in-supreme-national-security-council.json`
+  - *last checked: 2026-04-16*
+- https://www.mei.edu/publications/irans-balkan-front-roots-and-consequences-iranian-cyberattacks-against-albania
+  - `content/people/mostafa-roudaki.json`
+  - `content/connections/mostafa-roudaki-affiliated-with-ministry-of-intelligence.json`
+  - `content/connections/mostafa-roudaki-directed-mojahedin-e-khalq.json`
+  - *last checked: 2026-04-16*
 - https://sais.jhu.edu/users/nbajoghli
   - `content/people/narges-bajoghli.json`
   - `content/connections/narges-bajoghli-affiliated-with-basij-research.json`
@@ -120,6 +148,9 @@ These return 403/401 to automated requests but are likely accessible to human vi
   - `content/people/sanam-vakil.json`
   - `content/people/sanam-vakil.json`
   - *last checked: 2026-04-13*
+- https://religion.columbian.gwu.edu/seyyed-nasr
+  - `content/people/seyyed-hossein-nasr.json`
+  - *last checked: 2026-04-16*
 - https://sais.jhu.edu/users/vnasr1
   - `content/people/vali-nasr.json`
   - `content/connections/vali-nasr-aligned-with-jcpoa-nuclear-deal-2015.json`
@@ -156,9 +187,15 @@ These return 403/401 to automated requests but are likely accessible to human vi
   - `content/orgs/nuclear-science-and-technology-research-institute.json`
   - `content/connections/nuclear-science-and-technology-research-institute-subsidiary-of-atomic-energy-organisation-of-iran.json`
   - *last checked: 2026-04-13*
+- https://news.stanford.edu/stories/2017/05/commitment-generosity-guide-iranian-studies-program-great-heights
+  - `content/orgs/stanford-iranian-studies-program.json`
+  - *last checked: 2026-04-16*
 - https://www.nytimes.com/1994/07/19/world/blast-hits-jewish-center-in-argentina-killing-at-least-48.html
   - `content/events/amia-bombing-1994.json`
   - *last checked: 2026-04-13*
+- https://nationalinterest.org/blog/buzz/1978-four-terrorists-burned-420-movie-goers-alive-iran-105082
+  - `content/events/cinema-rex-fire-1978.json`
+  - *last checked: 2026-04-16*
 - https://www.washingtonpost.com/world/how-the-kurdish-independence-referendum-backfired-/2017/10/20/3010c820-b371-11e7-9b93-b97043e57a22_story.html
   - `content/events/kurdistan-independence-referendum-2017.json`
   - *last checked: 2026-04-13*

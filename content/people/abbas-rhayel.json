@@ -1,0 +1,32 @@
+{
+  "entity_id": "abbas-rhayel",
+  "slug": "abbas-rhayel",
+  "name_en": "Abbas Rhayel",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "aliases": ["Abbas Hossein Rhayel"],
+  "born": null,
+  "birthplace": "Lebanon",
+  "role": "Lebanese Hezbollah operative; convicted perpetrator of the Mykonos restaurant assassination (1992)",
+  "faction": null,
+  "bio": "Abbas Rhayel is a Lebanese national and [Hezbollah](/orgs/hezbollah) operative convicted by a German court for his role in the [Mykonos restaurant assassination](/events/mykonos-restaurant-assassination-1992) on 17 September 1992 in Berlin. Recruited by [Kazem Darabi](/people/kazem-darabi), Rhayel served as one of the two gunmen who carried out the killings of PDKI Secretary-General [Sadegh Sharafkandi](/people/sadegh-sharafkandi) and three associates. German forensic investigators found Rhayel's palm print on one of the pistol magazines and traces of blood from victim Nouri Dehkordi on the weapon.\n\nRhayel was convicted and sentenced to life imprisonment by the Berlin Court of Appeals in April 1997. Despite international protests, he was released from prison on 10 December 2007 and deported to Lebanon alongside Kazem Darabi.",
+  "irgc_member": false,
+  "expertise": [],
+  "tags": ["intelligence"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mykonos_restaurant_assassinations",
+      "title": "Mykonos restaurant assassinations — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://iranhrdc.org/murder-at-mykonos-anatomy-of-a-political-assassination/",
+      "title": "Murder at Mykonos: Anatomy of a Political Assassination",
+      "date": "2006-01-01",
+      "publisher": "Iran Human Rights Documentation Center"
+    }
+  ],
+  "editorial_notes": "Lebanese national. Hezbollah operative. Convicted April 1997, sentenced to life. Released and deported to Lebanon 10 December 2007 alongside Kazem Darabi."
+}

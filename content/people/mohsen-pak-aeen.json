@@ -4,22 +4,48 @@
   "name_en": "Mohsen Pak-Aeen",
   "name_fa": "محسن پاک‌آیین",
   "has_native_fa_name": true,
-  "aliases": [],
+  "aliases": ["Mohsen Pak Ayeen", "Mohsen Pakayeen", "Mohsen Pak-Aaein"],
   "born": null,
   "birthplace": null,
-  "role": "Former Iranian Ambassador to Azerbaijan, Thailand, and Zambia",
+  "role": "Deputy International Affairs Adviser, Office of the Supreme Leader; former ambassador to Azerbaijan, Thailand, Zambia, and Uzbekistan",
   "faction": "conservative",
   "irgc_member": false,
-  "bio": "Mohsen Pak-Aeen is a veteran Iranian diplomat who served as ambassador to Azerbaijan, Thailand, and Zambia. He is associated with the Office of the Supreme Leader's international affairs apparatus. Opposition and diaspora sources allege that his postings involved liaison functions for the Ministry of Intelligence and Security (MOIS), though these claims have not been independently verified and are categorized as alleged.",
+  "bio": "Mohsen Pak-Aeen is a veteran Iranian diplomat who served as ambassador to Zambia, Uzbekistan, Thailand, and the Republic of Azerbaijan. He served as Iran's ambassador to Azerbaijan from 2012 to 2016, during which he was a visible public figure commenting on Iranian foreign policy, Azerbaijan's territorial integrity, and the Nagorno-Karabakh conflict.\n\nAfter his ambassadorial career, Pak-Aeen was appointed Deputy International Affairs Adviser in the [Office of the Supreme Leader](/orgs/office-of-the-supreme-leader), advising [Ali Khamenei](/people/ali-khamenei) on international affairs. In August 2023, he publicly commented on Iran's cyber-attacks on Albania, framing the action as part of what he called Iran's 'dynamic and balanced diplomacy' under President Ebrahim Raisi.\n\nOpposition and diaspora sources allege that Pak-Aeen's diplomatic postings involved liaison functions for the [Ministry of Intelligence](/orgs/ministry-of-intelligence), though these claims have not been independently verified.\n\nPak-Aeen has served in the [Ministry of Foreign Affairs](/orgs/ministry-of-foreign-affairs) across multiple decades, holding posts in at least four countries before moving to the Supreme Leader's office.",
   "expertise": [
     "diplomacy",
-    "intelligence liaison (alleged)"
+    "Caucasus affairs",
+    "Central Asian affairs"
   ],
   "tags": [
     "diplomacy",
     "intelligence"
   ],
   "photo": null,
-  "sources": [],
-  "editorial_notes": "Intelligence liaison function is alleged by opposition sources only. Treat with caution."
+  "sources": [
+    {
+      "url": "https://www.ncr-iran.org/en/ncri-statements/statement-iran-resistance/iran-deputy-international-affairs-adviser-of-the-office-of-supreme-leader-admits-regimes-cyber-attacks-on-albania/",
+      "title": "Deputy International Affairs Adviser of the Office of Supreme Leader Admits Regime's Cyber Attacks on Albania",
+      "date": "2023-08-16",
+      "publisher": "NCRI"
+    },
+    {
+      "url": "https://www.azernews.az/nation/102472.html",
+      "title": "Envoy: Iran supports Azerbaijan's territorial integrity",
+      "date": "2016-09-19",
+      "publisher": "Azernews"
+    },
+    {
+      "url": "https://en.mehrnews.com/tag/Mohsen+Pak+Ayeen",
+      "title": "Mohsen Pak Ayeen — Mehr News Agency",
+      "date": "2025-07-02",
+      "publisher": "Mehr News Agency"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_ambassadors_of_Iran_to_Azerbaijan",
+      "title": "List of ambassadors of Iran to Azerbaijan — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "Ambassador to Azerbaijan 2012–2016. Also served in Zambia, Uzbekistan, Thailand. Currently Deputy International Affairs Adviser in Supreme Leader's office. MOIS liaison role alleged by opposition sources only."
 }

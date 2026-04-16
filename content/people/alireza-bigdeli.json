@@ -7,12 +7,14 @@
   "aliases": [],
   "born": null,
   "birthplace": null,
-  "role": "Former Iranian Ambassador to Azerbaijan (2016–2021) and Ukraine",
+  "role": "Career diplomat; ambassador to Azerbaijan, Cyprus, Turkey, and Afghanistan; PhD in Political Philosophy",
   "faction": "conservative",
   "irgc_member": false,
-  "bio": "Alireza Bigdeli served as Iranian Ambassador to Azerbaijan from 2016 to 2021 and subsequently to Ukraine. Azerbaijani intelligence sources and Iranian opposition outlets allege that Bigdeli had an IRGC intelligence background and that his posting in Baku was used to coordinate IRGC intelligence operations targeting Israeli interests in Azerbaijan. These allegations have not been confirmed by independent reporting and are categorized as alleged.",
+  "bio": "Alireza Bigdeli is a career Iranian diplomat with a PhD in Political Philosophy who has served in senior [Ministry of Foreign Affairs](/orgs/ministry-of-foreign-affairs) positions spanning more than three decades. He began as chargé d'affaires in Kazakhstan (1991–1992), then served as ambassador to Azerbaijan (1995–2000), ambassador to Cyprus (2007–2010), and ambassador to Turkey (2012–2015). Within the ministry, he held planning and research roles as well as acting deputy for consular and parliamentary affairs (appointed December 2021).\n\nIn November 2024, he was appointed ambassador to Afghanistan under the Taliban government, replacing Hassan Kazemi Qomi. He presented his credentials in Kabul in January 2025.\n\nAzerbaijani intelligence sources and Iranian opposition outlets allege that Bigdeli had an [IRGC](/orgs/islamic-revolutionary-guard-corps) intelligence background and that his posting in Baku was used to coordinate IRGC intelligence operations targeting Israeli interests in Azerbaijan. These allegations have not been confirmed by independent reporting.",
   "expertise": [
-    "diplomacy"
+    "diplomacy",
+    "political philosophy",
+    "Caucasus affairs"
   ],
   "tags": [
     "diplomacy",
@@ -22,10 +24,28 @@
   "sources": [
     {
       "url": "https://kabulnow.com/2024/11/iran-appoints-alireza-bigdeli-as-new-ambassador-to-afghanistan/",
-      "title": "Alireza Bigdeli",
-      "date": "2024-01-01",
-      "publisher": "Wikipedia"
+      "title": "Iran Appoints Alireza Bigdeli as New Ambassador to Afghanistan",
+      "date": "2024-11-01",
+      "publisher": "KabulNow"
+    },
+    {
+      "url": "https://tolonews.com/afghanistan-191822",
+      "title": "Iran's Foreign Minister Appoints Alireza Bigdeli as Ambassador to Kabul",
+      "date": "2024-11-01",
+      "publisher": "TOLOnews"
+    },
+    {
+      "url": "https://www.tehrantimes.com/news/506700/Iran-names-new-ambassador-to-Afghanistan",
+      "title": "Iran names new ambassador to Afghanistan",
+      "date": "2024-11-01",
+      "publisher": "Tehran Times"
+    },
+    {
+      "url": "https://tehrantimes.com/news/506945/Bigdeli-begins-post-as-head-of-Iranian-mission-in-Kabul",
+      "title": "Bigdeli begins post as head of Iranian mission in Kabul",
+      "date": "2025-01-01",
+      "publisher": "Tehran Times"
     }
   ],
-  "editorial_notes": "IRGC intelligence background alleged by Azerbaijani and opposition sources. Connection to IRGC intelligence operations in Baku is alleged, not confirmed."
+  "editorial_notes": "Career MFA diplomat. Azerbaijan posting was 1995–2000 (not 2016–2021 as initially stated in stub). IRGC background alleged by Azerbaijani and opposition sources, not confirmed. PhD in Political Philosophy."
 }

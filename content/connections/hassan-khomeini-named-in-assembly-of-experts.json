@@ -1,0 +1,21 @@
+{
+  "entity_id": "hassan-khomeini-named-in-assembly-of-experts",
+  "from_entity": "hassan-khomeini",
+  "to_entity": "assembly-of-experts",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2016",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hassan_Khomeini",
+      "source_title": "Hassan Khomeini — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Hassan Khomeini was disqualified by the Guardian Council from running for the Assembly of Experts in 2016."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

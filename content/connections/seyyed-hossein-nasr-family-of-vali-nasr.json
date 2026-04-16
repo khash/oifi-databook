@@ -1,0 +1,21 @@
+{
+  "entity_id": "seyyed-hossein-nasr-family-of-vali-nasr",
+  "from_entity": "seyyed-hossein-nasr",
+  "to_entity": "vali-nasr",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Seyyed_Hossein_Nasr",
+      "source_title": "Seyyed Hossein Nasr — Wikipedia",
+      "source_date": "2026-04-16",
+      "description": "Seyyed Hossein Nasr is the father of Vali Nasr, the political scientist and academic."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "parent",
+  "editorial_notes": ""
+}

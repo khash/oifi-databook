@@ -1,0 +1,20 @@
+{
+  "entity_id": "hassan-khomeini-aligned-with-mohammad-khatami",
+  "from_entity": "hassan-khomeini",
+  "to_entity": "mohammad-khatami",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hassan_Khomeini",
+      "source_title": "Hassan Khomeini — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Hassan Khomeini maintains close ties with reformist leaders including former president Mohammad Khatami."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "editorial_notes": ""
+}

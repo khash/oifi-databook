@@ -1,0 +1,20 @@
+---
+import Layout from "@/layouts/main.astro"
+import { SuggestEntityForm } from "@/components/SuggestEntityForm"
+
+const initialName = Astro.url.searchParams.get("q") ?? ""
+---
+
+<Layout
+  title="Suggest an Entity"
+  description="Suggest a person, organization, or event to be added to the OIFI Databook."
+  canonicalPath="/suggest"
+>
+  <div class="mx-auto max-w-xl py-8">
+    <h1 class="mb-2 text-2xl font-bold">Suggest an Entity</h1>
+    <p class="mb-8 text-muted-foreground">
+      Know someone or something that should be in the database? Tell us about them and we'll review your suggestion.
+    </p>
+    <SuggestEntityForm initialName={initialName} client:load />
+  </div>
+</Layout>

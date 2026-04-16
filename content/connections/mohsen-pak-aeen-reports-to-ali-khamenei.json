@@ -1,0 +1,22 @@
+{
+  "entity_id": "mohsen-pak-aeen-reports-to-ali-khamenei",
+  "from_entity": "mohsen-pak-aeen",
+  "to_entity": "ali-khamenei",
+  "type": "reports-to",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.ncr-iran.org/en/ncri-statements/statement-iran-resistance/iran-deputy-international-affairs-adviser-of-the-office-of-supreme-leader-admits-regimes-cyber-attacks-on-albania/",
+      "source_title": "Deputy International Affairs Adviser of the Office of Supreme Leader Admits Regime's Cyber Attacks on Albania",
+      "source_date": "2023-08-16",
+      "description": "Pak-Aeen serves as Deputy International Affairs Adviser in Khamenei's office."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": ["diplomacy"],
+  "editorial_notes": ""
+}

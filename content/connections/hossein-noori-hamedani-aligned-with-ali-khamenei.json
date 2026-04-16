@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-noori-hamedani-aligned-with-ali-khamenei",
+  "from_entity": "hossein-noori-hamedani",
+  "to_entity": "ali-khamenei",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hossein_Noori_Hamedani",
+      "source_title": "Hossein Noori Hamedani — Wikipedia",
+      "source_date": "2026-04-16",
+      "description": "Noori Hamedani has strongly backed Supreme Leader Khamenei on several occasions, notably during the 2009 protests. He was the only grand ayatollah to congratulate Ahmadinejad on the disputed 2009 election results."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

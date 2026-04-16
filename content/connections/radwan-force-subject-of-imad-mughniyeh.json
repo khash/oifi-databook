@@ -1,0 +1,21 @@
+{
+  "entity_id": "radwan-force-subject-of-imad-mughniyeh",
+  "from_entity": "radwan-force",
+  "to_entity": "imad-mughniyeh",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "2008",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Radwan_Force",
+      "source_title": "Radwan Force — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "The Radwan Force was named after Imad Mughniyeh's operational alias 'Hajj Radwan' following his assassination in 2008."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Named after Mughniyeh, who also helped establish the unit's precursor."
+}

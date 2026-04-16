@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-mousavi-tabrizi-member-of-assembly-of-experts",
+  "from_entity": "hossein-mousavi-tabrizi",
+  "to_entity": "assembly-of-experts",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hossein_Mousavi_Tabrizi",
+      "source_title": "Hossein Mousavi Tabrizi — Wikipedia",
+      "source_date": "2026-04-16",
+      "description": "Elected to the Assembly of Experts."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

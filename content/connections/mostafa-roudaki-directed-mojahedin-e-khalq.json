@@ -1,0 +1,22 @@
+{
+  "entity_id": "mostafa-roudaki-directed-mojahedin-e-khalq",
+  "from_entity": "mostafa-roudaki",
+  "to_entity": "mojahedin-e-khalq",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2017",
+  "date_to": "2018",
+  "evidence": [
+    {
+      "source_url": "https://www.mei.edu/publications/irans-balkan-front-roots-and-consequences-iranian-cyberattacks-against-albania",
+      "source_title": "Iran's Balkan front: The roots and consequences of Iranian cyberattacks against Albania",
+      "source_date": "2022-09-01",
+      "description": "Roudaki was deployed to Albania to conduct intelligence operations targeting MEK members at Camp Ashraf-3."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": ["intelligence"],
+  "editorial_notes": "Roudaki targeted MEK in Albania. Using subject-of because the connection is about operations directed at the MEK, not membership or affiliation."
+}

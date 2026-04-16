@@ -2,21 +2,27 @@
   "entity_id": "mostafa-roudaki-affiliated-with-ministry-of-intelligence",
   "from_entity": "mostafa-roudaki",
   "to_entity": "ministry-of-intelligence",
-  "type": "affiliated-with",
-  "confidence": "alleged",
+  "type": "served-in",
+  "confidence": "confirmed",
   "date_from": null,
-  "date_to": null,
+  "date_to": "2018",
   "evidence": [
     {
-      "source_url": "https://www.gov.uk/government/news/",
-      "source_title": "UK Government — Iran threat reporting",
-      "source_date": "2023-01-01",
-      "description": "Mostafa Roudaki is alleged to be a MOIS officer who conducted UK-based surveillance and targeting of Iran International journalists and Iranian dissidents in Britain."
+      "source_url": "https://www.ncr-iran.org/en/ncri-statements/terrorism-fundamentalism/expulsion-from-albania-of-the-mullahs-ambassador-and-intelligence-ministry-station-chief-is-a-necessary-step-in-countering-terrorism-and-the-religious-dictatorship-ruling-iran/",
+      "source_title": "Expulsion From Albania of the Mullahs' Ambassador and Intelligence Ministry Station Chief",
+      "source_date": "2018-12-19",
+      "description": "Roudaki served as MOIS station chief in Vienna (until ~2014) and Albania (2017–2018). Expelled from Albania in December 2018 as persona non grata."
+    },
+    {
+      "source_url": "https://www.mei.edu/publications/irans-balkan-front-roots-and-consequences-iranian-cyberattacks-against-albania",
+      "source_title": "Iran's Balkan front: The roots and consequences of Iranian cyberattacks against Albania",
+      "source_date": "2022-09-01",
+      "description": "MEI analysis identifies Roudaki as MOIS station chief expelled from Albania alongside Ambassador Mohammadnia."
     }
   ],
   "intermediaries": [],
   "symmetric": false,
   "family_subtype": null,
   "tags": ["intelligence"],
-  "editorial_notes": "All connections alleged. No confirmed diplomatic cover."
+  "editorial_notes": "Upgraded from affiliated-with to served-in and from alleged to confirmed based on Albanian government's formal expulsion and multiple corroborating sources."
 }

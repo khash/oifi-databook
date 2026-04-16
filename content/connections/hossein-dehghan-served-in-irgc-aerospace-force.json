@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-dehghan-served-in-irgc-aerospace-force",
+  "from_entity": "hossein-dehghan",
+  "to_entity": "irgc-aerospace-force",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "1990",
+  "date_to": "1992",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hossein_Dehghan",
+      "source_title": "Hossein Dehghan — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Hossein Dehghan served as commander of the IRGC Air Force (later Aerospace Force) from 1990 to 1992."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "At the time it was called the IRGC Air Force, later renamed Aerospace Force."
+}

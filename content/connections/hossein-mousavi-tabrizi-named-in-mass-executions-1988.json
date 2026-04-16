@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-mousavi-tabrizi-named-in-mass-executions-1988",
+  "from_entity": "hossein-mousavi-tabrizi",
+  "to_entity": "mass-executions-1988",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "1988",
+  "date_to": "1988",
+  "evidence": [
+    {
+      "source_url": "https://irantribunal.com/iran-watch/list-of-perpetrators/",
+      "source_title": "List of Perpetrators — Iran Tribunal",
+      "source_date": "2024-01-01",
+      "description": "Listed on the Iran Tribunal's list of perpetrators connected to the 1988 mass executions. Although he had left the Prosecutor General post by 1988, he later defended the executions as justified."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "He was no longer Prosecutor General during the 1988 executions but built the prosecution apparatus that carried them out and later defended them."
+}

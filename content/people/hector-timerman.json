@@ -1,0 +1,33 @@
+{
+  "entity_id": "hector-timerman",
+  "slug": "hector-timerman",
+  "name_en": "Héctor Timerman",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "aliases": ["Hector Timerman"],
+  "born": 1953,
+  "birthplace": "Buenos Aires, Argentina",
+  "died": "2018-12-30",
+  "role": "Argentine Foreign Minister (2010–2015); signed the Iran–Argentina MOU (2013); indicted for treason by Alberto Nisman",
+  "faction": null,
+  "irgc_member": false,
+  "bio": "Héctor Timerman served as Argentina's Foreign Minister under President [Cristina Fernández de Kirchner](/people/cristina-fernandez-de-kirchner) from 2010 to 2015. On 27 January 2013, he signed the [Iran–Argentina Memorandum of Understanding](/events/iran-argentina-mou-2013) with his Iranian counterpart, establishing a joint truth commission to reinvestigate the [AMIA bombing](/events/amia-bombing-1994) of 1994. AMIA special prosecutor [Alberto Nisman](/people/alberto-nisman) argued the MOU was designed to shield Iranian suspects — including those subject to Interpol red notices — from prosecution in exchange for trade concessions. In January 2015, Nisman filed a 289-page charging document accusing both Kirchner and Timerman of treason in connection with the MOU. Nisman was found dead on 18 January 2015, the night before his planned congressional testimony.\n\nTimerman, who was Jewish, faced intense criticism from the Argentine Jewish community for signing the agreement with Iran and resigned from the AMIA mutual aid society. He was formally indicted by an Argentine judge in December 2017 on charges of conspiring to cover up Iranian involvement in the bombing. In October 2021, Federal Oral Court 8 declared the case null and void, finding no crime in the signing of the MOU. Timerman died of cancer on 30 December 2018 at the age of 65, before the case reached trial.",
+  "expertise": ["diplomacy"],
+  "tags": ["diplomacy", "deceased"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.jta.org/quick-reads/hector-timerman-argentine-foreign-minister-investigated-for-cutting-deal-with-iran-dies-at-65",
+      "title": "Hector Timerman, Jewish Argentine foreign minister investigated for cutting deal with Iran, dies at 65",
+      "date": "2019-01-01",
+      "publisher": "Jewish Telegraphic Agency"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alberto_Nisman",
+      "title": "Alberto Nisman — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "Timerman — not Jorge Taiana — was the FM who signed the 2013 MOU and was charged by Nisman. Taiana served as FM 2005–2010, before the MOU. The jorge-taiana entity bio currently misattributes the MOU treason charges to Taiana and needs correction."
+}

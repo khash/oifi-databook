@@ -1,0 +1,22 @@
+{
+  "entity_id": "kamal-kharrazi-headed-strategic-council-on-foreign-relations",
+  "from_entity": "kamal-kharrazi",
+  "to_entity": "strategic-council-on-foreign-relations",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2006",
+  "date_to": "2026-04-10",
+  "evidence": [
+    {
+      "source_url": "https://www.middleeasteye.net/news/irans-chief-foreign-affairs-strategist-gravely-wounded-us-israeli-attack",
+      "source_title": "Iran's chief foreign affairs strategist 'gravely wounded' in US-Israeli attack",
+      "source_date": "2026-04-02",
+      "description": "Kamal Kharrazi headed the Strategic Council on Foreign Relations from its establishment in 2006 until his death on April 10, 2026, following injuries sustained in a US-Israeli airstrike on his home."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": [],
+  "editorial_notes": ""
+}

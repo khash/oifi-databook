@@ -1,0 +1,19 @@
+{
+  "entity_id": "abdul-reza-shahlai-subject-of-soleimani-assassination-2020",
+  "from_entity": "abdul-reza-shahlai",
+  "to_entity": "soleimani-assassination-2020",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2020-01-03",
+  "date_to": "2020-01-03",
+  "evidence": [
+    {
+      "source_url": "https://theintercept.com/2020/01/10/us-strike-abdul-reza-shahlai-yemen/",
+      "source_title": "U.S. Strike on Iranian Commander in Yemen the Night of Suleimani's Assassination Killed the Wrong Man",
+      "source_date": "2020-01-10",
+      "description": "The US simultaneously attempted a strike targeting Shahlai in Yemen on the night of the Soleimani assassination, but the operation failed."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": "Failed strike — Shahlai survived."
+}

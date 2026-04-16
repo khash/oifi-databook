@@ -185,7 +185,14 @@ export function PeopleIndex({ people }: { people: PersonItem[] }) {
       </div>
 
       {filtered.length === 0 && (
-        <p className="text-center text-muted-foreground py-8">No people match your filters.</p>
+        <div className="text-center py-8 space-y-2">
+          <p className="text-muted-foreground">No people match your filters.</p>
+          {search && (
+            <a href={`/suggest?q=${encodeURIComponent(search)}`} className="text-sm text-primary hover:underline">
+              Suggest &ldquo;{search}&rdquo; as a new entity &rarr;
+            </a>
+          )}
+        </div>
       )}
 
       {filtered.length > 0 && (

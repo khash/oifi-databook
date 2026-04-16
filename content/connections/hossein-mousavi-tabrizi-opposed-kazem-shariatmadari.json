@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-mousavi-tabrizi-opposed-kazem-shariatmadari",
+  "from_entity": "hossein-mousavi-tabrizi",
+  "to_entity": "kazem-shariatmadari",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1980",
+  "evidence": [
+    {
+      "source_url": "https://irannewsupdate.com/news/human-rights/death-of-a-1980s-prosecutor-revives-dark-legacy-of-iran-regimes-judicial-repression/",
+      "source_title": "Death of a 1980s Prosecutor Revives Dark Legacy of Iran Regime's Judicial Repression",
+      "source_date": "2026-04-14",
+      "description": "Mousavi Tabrizi oversaw the crackdown on Shariatmadari's Muslim People's Republican Party in Tabriz, resulting in at least 31 executions."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

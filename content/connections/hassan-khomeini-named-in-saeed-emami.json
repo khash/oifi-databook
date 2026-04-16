@@ -1,0 +1,19 @@
+{
+  "entity_id": "hassan-khomeini-named-in-saeed-emami",
+  "from_entity": "hassan-khomeini",
+  "to_entity": "saeed-emami",
+  "type": "named-in",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.atlanticcouncil.org/blogs/iransource/three-decades-after-khomeini-s-death-his-clan-lives-life-on-the-sidelines/",
+      "source_title": "Three decades after Khomeini's death, his clan rules from the sidelines",
+      "source_date": "2019-06-03",
+      "description": "Hassan Khomeini publicly alleged his father Ahmad Khomeini was poisoned, with Saeed Emami named as the likely perpetrator."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": "Hassan alleged his father's death was poisoning by Emami — part of chain murders narrative."
+}

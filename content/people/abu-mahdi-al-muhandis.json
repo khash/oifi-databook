@@ -1,0 +1,46 @@
+{
+  "entity_id": "abu-mahdi-al-muhandis",
+  "slug": "abu-mahdi-al-muhandis",
+  "name_en": "Abu Mahdi al-Muhandis",
+  "name_fa": "ابومهدی المهندس",
+  "has_native_fa_name": false,
+  "aliases": [
+    "Jamal Ja'far Muhammad Ali Al Ibrahim",
+    "Jamal Jafaar Mohammed"
+  ],
+  "born": "1954-11-16",
+  "birthplace": "Abu Al-Khaseeb, Basra, Iraq",
+  "died": "2020-01-03",
+  "role": "Deputy Commander, Popular Mobilization Forces; Commander, Kata'ib Hezbollah",
+  "faction": "hardliner",
+  "bio": "Abu Mahdi al-Muhandis (born Jamal Ja'far Muhammad Ali Al Ibrahim) was an Iraqi paramilitary commander and key node in Iran's proxy network in Iraq. Born in Basra to an Iraqi father and Iranian mother, he joined the Islamic Dawa Party in 1977 and fled to Iran after Saddam Hussein's 1979 crackdown. During the [Iran-Iraq War](/events/iran-iraq-war) he worked closely with Iran's [IRGC](/orgs/islamic-revolutionary-guard-corps) and was involved in the 1983 Kuwait bombings, for which he was sentenced to death in absentia by a Kuwaiti court. He founded and commanded [Kata'ib Hezbollah](/orgs/kataib-hezbollah), an Iranian-backed Iraqi militia, and served as deputy commander of the [Popular Mobilization Forces](/orgs/popular-mobilization-forces) (PMF/Hashd al-Sha'abi). He maintained close operational ties with [Qasem Soleimani](/people/qasem-soleimani) and the [IRGC Quds Force](/orgs/irgc-quds-force). He was killed alongside Soleimani on 3 January 2020 in a US drone strike near Baghdad International Airport.",
+  "irgc_member": false,
+  "expertise": [
+    "proxy warfare",
+    "militia command",
+    "Iraq operations"
+  ],
+  "tags": [
+    "assassinated",
+    "deceased",
+    "military",
+    "proxy-warfare",
+    "sanctions"
+  ],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Abu_Mahdi_al-Muhandis",
+      "title": "Abu Mahdi al-Muhandis — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2020/1/3/hashd-deputy-abu-mahdi-al-muhandis-irans-man-in-baghdad",
+      "title": "Hashd deputy Abu Mahdi al-Muhandis: Iran's man in Baghdad",
+      "date": "2020-01-03",
+      "publisher": "Al Jazeera"
+    }
+  ],
+  "editorial_notes": "Born Jamal Ja'far Muhammad Ali Al Ibrahim. Iraqi father, Iranian mother. US-designated terrorist since 2009. Sentenced to death in absentia by Kuwait for 1983 bombings. Served briefly in Iraqi parliament 2006-2007."
+}

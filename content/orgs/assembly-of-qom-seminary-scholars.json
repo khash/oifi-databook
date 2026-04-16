@@ -1,0 +1,25 @@
+{
+  "entity_id": "assembly-of-qom-seminary-scholars",
+  "slug": "assembly-of-qom-seminary-scholars",
+  "name_en": "Assembly of Qom Seminary Scholars and Researchers",
+  "name_fa": "مجمع محققین و مدرسین حوزه علمیه قم",
+  "has_native_fa_name": true,
+  "type": "religious",
+  "founded": 1961,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Assembly of Qom Seminary Scholars and Researchers (Majma'-e Mohaqeqin va Modarresin-e Howzeh-ye Elmiyeh-ye Qom) is a clerical body based in the Qom seminary that functions as a reformist counterpart to the conservative [Society of Seminary Teachers of Qom](/orgs/society-of-seminary-teachers-of-qom). It brings together seminary scholars and researchers who generally align with the reformist camp within Iranian clerical politics. The assembly has been led by figures associated with the reformist movement and has issued statements supporting political reform and civil liberties.",
+  "faction": "reformist",
+  "tags": [
+    "clerical"
+  ],
+  "editorial_notes": "Also translated as 'Assembly of Researchers and Teachers of Qom Seminary'. Distinct from the conservative Jame'eh Modarresin (Society of Seminary Teachers of Qom).",
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Hossein_Mousavi_Tabrizi",
+      "title": "Hossein Mousavi Tabrizi — Wikipedia",
+      "date": "2026-04-16",
+      "publisher": "Wikipedia"
+    }
+  ]
+}

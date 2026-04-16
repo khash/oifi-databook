@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-ali-fathalizadeh-led-fatehin-unit",
+  "from_entity": "mohammad-ali-fathalizadeh",
+  "to_entity": "fatehin-unit",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2026-04-01",
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202604019999",
+      "source_title": "IRGC Fatehin Unit Commander Killed",
+      "source_date": "2026-04-01",
+      "description": "Mohammad Ali Fathalizadeh commanded the Fatehin Unit until his death on 1 April 2026."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

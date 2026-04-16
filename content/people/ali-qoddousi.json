@@ -1,0 +1,51 @@
+{
+  "entity_id": "ali-qoddousi",
+  "slug": "ali-qoddousi",
+  "name_en": "Ali Qoddousi",
+  "name_fa": "علی قدوسی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Ali Ghoddosi",
+    "Ali Qodusi",
+    "Ayatollah Qoddousi"
+  ],
+  "born": 1927,
+  "birthplace": "Hamadan Province",
+  "role": "First Prosecutor General of the Islamic Revolution (1979–1981)",
+  "faction": "hardliner",
+  "bio": "Ayatollah Ali Qoddousi was an Iranian cleric who served as the first Prosecutor General of the Islamic Revolution from 1979 until his assassination in September 1981. He was a major actor in the 1979 revolution and a key figure in the early consolidation of the Islamic Republic's judiciary.\n\nBorn in 1927 in Hamadan Province, Qoddousi joined the Qom seminaries in 1944, where he studied under Grand Ayatollah Hossein Borujerdi with particular interests in ethics and spirituality. In 1964, he co-founded the Haqqani School, a Shiite seminary in Qom from which many of the Islamic Republic's political elites were later recruited — including future judges, prosecutors, and intelligence officials.\n\nQoddousi was active in the struggle against the Shah, particularly during the 1963 crisis when the Shah considered condemning [Ruhollah Khomeini](/people/ruhollah-khomeini) to death before deciding to exile him instead. After the [Iranian Revolution](/events/iranian-revolution-1979), Khomeini appointed Qoddousi as Prosecutor General of the Islamic Revolution, making him the chief revolutionary prosecutor overseeing political trials during the earliest and most chaotic period of the new regime.\n\nIn this role, Qoddousi issued a manifesto ordering judicial authorities to issue convictions under moharebeh (enmity against God) against members and supporters of political parties and groups who refused to hand in their weapons. He presided over the revolutionary prosecution apparatus during a period of mass arrests and summary executions.\n\nOn 5 September 1981, Qoddousi was assassinated in a bombing at his office, attributed to the [Mojahedin-e Khalq](/orgs/mojahedin-e-khalq). His successor, [Hossein Mousavi Tabrizi](/people/hossein-mousavi-tabrizi), was appointed by Khomeini shortly after.",
+  "expertise": [
+    "Islamic jurisprudence",
+    "revolutionary prosecution",
+    "seminary education"
+  ],
+  "tags": [
+    "deceased",
+    "assassinated",
+    "judiciary",
+    "clerical"
+  ],
+  "photo": null,
+  "editorial_notes": "Co-founder of the Haqqani School (1964), a seminary that produced many Islamic Republic elites. The Haqqani School is a significant lead for a future org entity. Born year approximate — Wikipedia says 1927 but some sources vary.",
+  "irgc_member": false,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ali_Qoddusi",
+      "title": "Ali Qoddusi — Wikipedia",
+      "date": "2026-04-16",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://iranprimer.usip.org/blog/2023/apr/27/timeline-assassinations-iranian-clerics",
+      "title": "Timeline: Assassinations of Iranian Clerics",
+      "date": "2023-04-27",
+      "publisher": "The Iran Primer / USIP"
+    },
+    {
+      "url": "https://english.shabtabnews.com/2026/04/15/hossein-mousavi-tabrizi-from-engineering-massacres-to-wearing-the-reformist-mantle/",
+      "title": "Hossein Mousavi Tabrizi: From Engineering Massacres to Wearing the Reformist Mantle",
+      "date": "2026-04-15",
+      "publisher": "Shabtabnews / IranWire"
+    }
+  ]
+}

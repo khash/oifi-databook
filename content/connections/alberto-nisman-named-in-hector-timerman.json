@@ -1,7 +1,7 @@
 {
-  "entity_id": "jorge-taiana-named-in-alberto-nisman",
-  "from_entity": "jorge-taiana",
-  "to_entity": "alberto-nisman",
+  "entity_id": "alberto-nisman-named-in-hector-timerman",
+  "from_entity": "alberto-nisman",
+  "to_entity": "hector-timerman",
   "type": "named-in",
   "confidence": "confirmed",
   "date_from": "2015-01-14",
@@ -11,7 +11,7 @@
       "source_url": "https://en.wikipedia.org/wiki/Alberto_Nisman",
       "source_title": "Alberto Nisman — Wikipedia",
       "source_date": "2024-01-01",
-      "description": "Taiana was named alongside Kirchner in Nisman's January 2015 treason charging document."
+      "description": "Nisman's January 2015 charging document named Timerman alongside Kirchner in the treason accusation over the Iran-Argentina MOU."
     }
   ],
   "intermediaries": [],

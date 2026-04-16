@@ -1,0 +1,20 @@
+{
+  "entity_id": "hassan-khomeini-aligned-with-mir-hossein-mousavi",
+  "from_entity": "hassan-khomeini",
+  "to_entity": "mir-hossein-mousavi",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hassan_Khomeini",
+      "source_title": "Hassan Khomeini — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Hassan Khomeini met with Mir-Hossein Mousavi during the 2009 election crisis and supported his call to cancel the election results."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "editorial_notes": ""
+}

@@ -1,0 +1,22 @@
+{
+  "entity_id": "eskandar-sadeghi-boroujerdi-affiliated-with-goldsmiths-university-of-london",
+  "from_entity": "eskandar-sadeghi-boroujerdi",
+  "to_entity": "goldsmiths-university-of-london",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.gold.ac.uk/",
+      "source_title": "Goldsmiths, University of London",
+      "source_date": "2024-01-01",
+      "description": "Eskandar Sadeghi-Boroujerdi is based in the Department of Politics and International Relations at Goldsmiths, University of London."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": [],
+  "editorial_notes": ""
+}

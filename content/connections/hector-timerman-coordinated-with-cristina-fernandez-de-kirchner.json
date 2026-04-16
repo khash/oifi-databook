@@ -1,0 +1,21 @@
+{
+  "entity_id": "hector-timerman-coordinated-with-cristina-fernandez-de-kirchner",
+  "from_entity": "hector-timerman",
+  "to_entity": "cristina-fernandez-de-kirchner",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "2010",
+  "date_to": "2015",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Alberto_Nisman",
+      "source_title": "Alberto Nisman — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Timerman served as Kirchner's Foreign Minister and co-signed the Iran-Argentina MOU. Both were charged with treason by Nisman."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

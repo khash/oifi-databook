@@ -1,0 +1,49 @@
+{
+  "entity_id": "seyyed-hossein-nasr",
+  "slug": "seyyed-hossein-nasr",
+  "name_en": "Seyyed Hossein Nasr",
+  "name_fa": "سید حسین نصر",
+  "has_native_fa_name": true,
+  "aliases": [
+    "S. H. Nasr",
+    "Seyed Hossein Nasr"
+  ],
+  "born": 1933,
+  "birthplace": "Tehran",
+  "role": "University Professor of Islamic Studies, George Washington University; philosopher and theologian",
+  "faction": "conservative",
+  "bio": "Seyyed Hossein Nasr is an Iranian-American philosopher, theologian, and one of the most prominent scholars of Islam in the Western world. He is University Professor of Islamic Studies at George Washington University.\n\nBorn on 7 April 1933 in Tehran into a family of scholars and physicians, Nasr was educated at MIT (B.A. in physics), and Harvard University (M.A. in geology and geophysics, Ph.D. in the history of science). He returned to Iran in 1958, turning down teaching positions at MIT and Harvard, and was appointed professor of philosophy and Islamic sciences at Tehran University.\n\nIn pre-revolutionary Iran, Nasr held prominent academic and cultural positions. He served as vice-chancellor of Tehran University and president of Aryamehr University (now Sharif University of Technology). At the request of Empress Farah Pahlavi, he established the Imperial Iranian Academy of Philosophy, which became one of the most prominent centers of philosophical activity in the Islamic world.\n\nDuring the [Iranian Revolution](/events/iranian-revolution-1979) of 1979, Nasr and his family left Iran for the United States, where he resumed his academic career — first at the University of Utah, then Temple University, before joining George Washington University. He is the author of over fifty books and more than five hundred articles on Islamic philosophy, science, Sufism, and comparative religion. He was the first Muslim and first non-Western scholar to deliver the prestigious Gifford Lectures (1981).\n\nNasr's intellectual orientation is rooted in the perennialist or traditionalist school of thought, emphasizing the unity of spiritual traditions and critiquing modern secular materialism. His work bridges Islamic and Western philosophical traditions.",
+  "expertise": [
+    "Islamic philosophy",
+    "Sufism",
+    "history of science",
+    "comparative religion",
+    "perennial philosophy"
+  ],
+  "tags": [
+    "in-exile"
+  ],
+  "photo": null,
+  "editorial_notes": "Major diaspora intellectual. Pre-revolutionary ties to the Pahlavi court (established Imperial Iranian Academy of Philosophy at Farah Pahlavi's request). Not a political operative but significant as a cultural/intellectual figure in the Iranian diaspora. Father of Vali Nasr (already in DB). Faction set to 'conservative' reflecting his traditionalist philosophical orientation, not political activism per se.",
+  "irgc_member": false,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Seyyed_Hossein_Nasr",
+      "title": "Seyyed Hossein Nasr — Wikipedia",
+      "date": "2026-04-16",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.seyyedhosseinnasr.com/about/biography",
+      "title": "Biography — Seyyed Hossein Nasr",
+      "date": "2026-04-16",
+      "publisher": "seyyedhosseinnasr.com"
+    },
+    {
+      "url": "https://religion.columbian.gwu.edu/seyyed-nasr",
+      "title": "Seyyed Nasr — GWU Department of World Religions",
+      "date": "2026-04-16",
+      "publisher": "George Washington University"
+    }
+  ]
+}

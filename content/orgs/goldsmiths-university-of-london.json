@@ -1,0 +1,30 @@
+{
+  "entity_id": "goldsmiths-university-of-london",
+  "slug": "goldsmiths-university-of-london",
+  "name_en": "Goldsmiths, University of London",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 1891,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Public research university in New Cross, London, part of the University of London federation. Originally founded in 1891 as the Goldsmiths' Technical and Recreative Institute, it joined the University of London in 1904. Known for its strengths in arts, humanities, and social sciences. [Eskandar Sadeghi-Boroujerdi](/people/eskandar-sadeghi-boroujerdi) is based in the Department of Politics and International Relations.",
+  "faction": null,
+  "tags": [],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.gold.ac.uk/",
+      "title": "Goldsmiths, University of London",
+      "date": "2024-01-01",
+      "publisher": "Goldsmiths, University of London"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Goldsmiths,_University_of_London",
+      "title": "Goldsmiths, University of London — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": ""
+}

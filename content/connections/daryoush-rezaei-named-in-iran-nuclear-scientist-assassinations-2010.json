@@ -1,0 +1,21 @@
+{
+  "entity_id": "daryoush-rezaei-named-in-iran-nuclear-scientist-assassinations-2010",
+  "from_entity": "daryoush-rezaei",
+  "to_entity": "iran-nuclear-scientist-assassinations-2010",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2011-07-23",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Dariush_Rezaeinejad",
+      "source_title": "Dariush Rezaeinejad — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Shot dead 23 July 2011 as part of the assassination campaign"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,30 @@
+{
+  "entity_id": "stanford-iranian-studies-program",
+  "slug": "stanford-iranian-studies-program",
+  "name_en": "Stanford Iranian Studies Program",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 2005,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Interdisciplinary program within Stanford University's Freeman Spogli Institute for International Studies, focused on modern Iranian society, culture, politics, and economy. Founded in 2005 by [Abbas Milani](/people/abbas-milani), who serves as the Hamid and Christina Moghadam Director of Iranian Studies. The program has built one of the most significant collections of Iranian diaspora archives in partnership with Stanford University Libraries.",
+  "faction": null,
+  "tags": [],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://iranian-studies.stanford.edu/people/abbas-milani",
+      "title": "Abbas Milani — Stanford Iranian Studies",
+      "date": "2025-02-01",
+      "publisher": "Stanford University"
+    },
+    {
+      "url": "https://news.stanford.edu/stories/2017/05/commitment-generosity-guide-iranian-studies-program-great-heights",
+      "title": "Iranian Studies program's first decade",
+      "date": "2017-05-01",
+      "publisher": "Stanford Report"
+    }
+  ],
+  "editorial_notes": ""
+}

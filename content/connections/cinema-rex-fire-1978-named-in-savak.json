@@ -1,0 +1,21 @@
+{
+  "entity_id": "cinema-rex-fire-1978-named-in-savak",
+  "from_entity": "cinema-rex-fire-1978",
+  "to_entity": "savak",
+  "type": "named-in",
+  "confidence": "disputed",
+  "date_from": "1978-08-19",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Cinema_Rex_fire",
+      "source_title": "Cinema Rex fire — Wikipedia",
+      "source_date": "2026-04-16",
+      "description": "SAVAK was blamed by the Islamic opposition and later by the Islamic Republic, but substantial evidence points to Islamist militant perpetrators."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Disputed: regime narrative blames SAVAK, but evidence points to pro-Khomeini militants."
+}

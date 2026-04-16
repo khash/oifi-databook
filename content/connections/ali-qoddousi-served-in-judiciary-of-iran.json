@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-qoddousi-served-in-judiciary-of-iran",
+  "from_entity": "ali-qoddousi",
+  "to_entity": "judiciary-of-iran",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "1981",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Qoddusi",
+      "source_title": "Ali Qoddusi — Wikipedia",
+      "source_date": "2026-04-16",
+      "description": "Served as Prosecutor General of the Islamic Revolution, the chief revolutionary prosecutor within the judiciary."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

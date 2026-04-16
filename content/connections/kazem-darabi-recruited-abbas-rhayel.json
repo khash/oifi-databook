@@ -1,0 +1,19 @@
+{
+  "entity_id": "kazem-darabi-recruited-abbas-rhayel",
+  "from_entity": "kazem-darabi",
+  "to_entity": "abbas-rhayel",
+  "type": "recruited",
+  "confidence": "confirmed",
+  "date_from": "1992",
+  "date_to": "1992",
+  "evidence": [
+    {
+      "source_url": "https://iranhrdc.org/murder-at-mykonos-anatomy-of-a-political-assassination/",
+      "source_title": "Murder at Mykonos: Anatomy of a Political Assassination",
+      "source_date": "2006-01-01",
+      "description": "Darabi recruited four Lebanese nationals including Abbas Rhayel to assist in the Mykonos assassination operation."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": ""
+}

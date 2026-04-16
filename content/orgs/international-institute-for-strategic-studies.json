@@ -1,0 +1,30 @@
+{
+  "entity_id": "international-institute-for-strategic-studies",
+  "slug": "international-institute-for-strategic-studies",
+  "name_en": "International Institute for Strategic Studies (IISS)",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 1958,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "London-based think tank focused on international security, defense, and strategic affairs. Originally founded as the Institute for Strategic Studies in 1958 amid Cold War nuclear debates, renamed IISS in 1971. Publishes influential annual assessments including *The Military Balance* and *Strategic Survey*. [Shahram Chubin](/people/shahram-chubin) was a longtime research associate at IISS, specializing in Iranian security and proliferation issues.",
+  "faction": null,
+  "tags": [],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.iiss.org/about-us/",
+      "title": "About Us — IISS",
+      "date": "2024-01-01",
+      "publisher": "International Institute for Strategic Studies"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/International_Institute_for_Strategic_Studies",
+      "title": "International Institute for Strategic Studies — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": ""
+}

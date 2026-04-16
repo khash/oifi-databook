@@ -1,0 +1,21 @@
+{
+  "entity_id": "hector-timerman-named-in-iran-argentina-mou-2013",
+  "from_entity": "hector-timerman",
+  "to_entity": "iran-argentina-mou-2013",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2013-01-27",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.jta.org/quick-reads/hector-timerman-argentine-foreign-minister-investigated-for-cutting-deal-with-iran-dies-at-65",
+      "source_title": "Hector Timerman obituary — JTA",
+      "source_date": "2019-01-01",
+      "description": "Timerman signed the MOU with Iran on 27 January 2013 as Argentine Foreign Minister."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

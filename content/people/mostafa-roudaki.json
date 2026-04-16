@@ -4,15 +4,16 @@
   "name_en": "Mostafa Roudaki",
   "name_fa": "مصطفی رودکی",
   "has_native_fa_name": true,
-  "aliases": [],
+  "aliases": ["Moustafa Roudaki"],
   "born": null,
   "birthplace": null,
-  "role": "Alleged MOIS officer; linked to UK-based surveillance of Iranian dissidents",
+  "role": "MOIS station chief in Vienna and Albania; expelled from Albania in 2018",
   "faction": "hardliner",
   "irgc_member": false,
-  "bio": "Mostafa Roudaki is alleged to be a Ministry of Intelligence and Security (MOIS) officer who conducted UK-based surveillance and targeting operations against journalists at Iran International and Iranian dissidents in Britain. Unlike formal diplomats, he is reported to have operated through Iranian state infrastructure in the UK without a formal diplomatic posting. Details are drawn from UK security reporting and the investigations surrounding Iran International's decision to temporarily relocate operations due to death threats. All intelligence connections are alleged; evidence remains partial.",
+  "bio": "Mostafa Roudaki is a senior officer of Iran's [Ministry of Intelligence](/orgs/ministry-of-intelligence) who served as the MOIS station chief at the [Iranian Embassy in Vienna](/orgs/iranian-embassy-vienna), a position he held until approximately 2014. In this role, he was responsible for coordinating intelligence stations across European countries from the Austrian capital — a hub role later taken over by [Assadollah Assadi](/people/assadollah-assadi), who was posted to Vienna as Third Secretary from 2014 to 2018.\n\nAfter returning to Tehran, Roudaki was redeployed to Albania at the end of 2017, replacing Fereydoun Zandi Aliabadi as MOIS station chief in the Iranian embassy in Tirana. His assignment coincided with intensified Iranian intelligence operations targeting members of the [Mojahedin-e Khalq](/orgs/mojahedin-e-khalq) (MEK) who had relocated to Camp Ashraf-3 near Manez, Albania. In March 2018, Albanian authorities disrupted a plot against MEK members attributed to Iranian intelligence.\n\nIn December 2018, Albanian Prime Minister Edi Rama declared Roudaki and Ambassador [Gholamhossein Mohammadnia](/people/gholamhossein-mohammadnia) personae non gratae and expelled them from the country as part of the [Albania expulsions of Iranian diplomats](/events/albania-expulsions-iranian-diplomats-2018). The expulsion was a landmark action — one of the first times a European country expelled an Iranian ambassador for intelligence-related activities.",
   "expertise": [
-    "intelligence"
+    "intelligence",
+    "covert operations"
   ],
   "tags": [
     "intelligence"
@@ -20,11 +21,23 @@
   "photo": null,
   "sources": [
     {
-      "url": "https://www.gov.uk/government/news/",
-      "title": "UK Government — Iran threat reporting",
-      "date": "2023-01-01",
-      "publisher": "UK Government"
+      "url": "https://www.ncr-iran.org/en/ncri-statements/terrorism-fundamentalism/expulsion-from-albania-of-the-mullahs-ambassador-and-intelligence-ministry-station-chief-is-a-necessary-step-in-countering-terrorism-and-the-religious-dictatorship-ruling-iran/",
+      "title": "Expulsion From Albania of the Mullahs' Ambassador and Intelligence Ministry Station Chief",
+      "date": "2018-12-19",
+      "publisher": "NCRI"
+    },
+    {
+      "url": "https://www.mei.edu/publications/irans-balkan-front-roots-and-consequences-iranian-cyberattacks-against-albania",
+      "title": "Iran's Balkan front: The roots and consequences of Iranian cyberattacks against Albania",
+      "date": "2022-09-01",
+      "publisher": "Middle East Institute"
+    },
+    {
+      "url": "https://english.mojahedin.org/news/iran-news/iran-ambassador-to-albania-is-expelled/",
+      "title": "Iran ambassador to Albania is expelled",
+      "date": "2018-12-19",
+      "publisher": "MEK / PMOI"
     }
   ],
-  "editorial_notes": "All intelligence connections alleged. No confirmed diplomatic posting. Evidence from UK security services and Iran International's own reporting on threats against its journalists."
+  "editorial_notes": "Corrected from initial stub which incorrectly linked Roudaki to UK-based surveillance of Iran International journalists. He was MOIS station chief in Vienna (until ~2014) then Albania (2017–2018), expelled Dec 2018. The UK Iran International surveillance case involved different operatives (Mostafa Sepahvand, Farhad Javadi Manesh, Shapoor Qalehali Khani Noori)."
 }

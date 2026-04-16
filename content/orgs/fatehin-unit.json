@@ -1,0 +1,32 @@
+{
+  "entity_id": "fatehin-unit",
+  "slug": "fatehin-unit",
+  "name_en": "Fatehin Unit (IRGC)",
+  "name_fa": "یگان فاتحین سپاه پاسداران",
+  "has_native_fa_name": true,
+  "type": "military",
+  "founded": 1999,
+  "dissolved": null,
+  "parent_org": "islamic-revolutionary-guard-corps",
+  "description": "The Fatehin Unit (\"Victorious\") is a special forces formation under the [IRGC](/orgs/islamic-revolutionary-guard-corps), originally created in 1999 by Basij forces in West Tehran. It was formally registered in 2012 and named by then-IRGC commander Mohammad Ali Jafari. The unit specializes in special operations including sniper, commando, and counter-insurgency warfare. It has been deployed in the Syrian civil war in support of Bashar al-Assad and has been used domestically as an anti-protest force. Its commander [Mohammad Ali Fathalizadeh](/people/mohammad-ali-fathalizadeh) was killed on 1 April 2026.",
+  "faction": null,
+  "tags": [
+    "military",
+    "proxy-warfare"
+  ],
+  "sources": [
+    {
+      "url": "https://stopfundamentalism.com/news/iran-what-is-the-irgc-fatehins-special-unit",
+      "title": "Iran: What is the IRGC Fatehin's special unit?",
+      "date": "2024-01-01",
+      "publisher": "Stop Fundamentalism"
+    },
+    {
+      "url": "https://iranfocus.com/iran-general/49219-basij-special-unit-fatehin-and-its-role-in-quelling-irans-protests/",
+      "title": "Basij Special Unit Fatehin and Its Role in Quelling Iran's Protests",
+      "date": "2023-01-01",
+      "publisher": "Iran Focus"
+    }
+  ],
+  "editorial_notes": "Originally a Basij special forces unit, later elevated. Deployed in Syria to protect Shrine of Lady Zaynab. Used in suppression of 2022 Mahsa Amini protests. Commander Fathalizadeh killed April 2026."
+}

@@ -1,0 +1,47 @@
+{
+  "entity_id": "mohammad-saeedi",
+  "slug": "mohammad-saeedi",
+  "name_en": "Mohammad Saeedi",
+  "name_fa": "محمد سعیدی",
+  "has_native_fa_name": true,
+  "aliases": ["Mohammed Saeedi"],
+  "born": null,
+  "birthplace": "Iran",
+  "died": null,
+  "role": "Deputy head of the Atomic Energy Organisation of Iran; member of Iran's nuclear negotiating team",
+  "faction": null,
+  "irgc_member": false,
+  "bio": "Mohammad Saeedi served as deputy head of international affairs at the [Atomic Energy Organisation of Iran](/orgs/atomic-energy-organisation-of-iran) (AEOI) under [Gholam Reza Aghazadeh](/people/gholam-reza-aghazadeh) during the critical 2003–2007 period of confrontation with the IAEA over Iran's undisclosed nuclear activities. He also served as deputy secretary of the [Supreme National Security Council](/orgs/supreme-national-security-council) for international affairs and was a member of Iran's nuclear negotiating team. In this capacity he appeared in multiple IAEA Board of Governors reports and proposed diplomatic solutions including a French consortium for uranium enrichment in Iran. He resigned from the AEOI in December 2009. In August 2015 he was appointed managing director of IRISL Group, Iran's largest state shipping company, and resigned from that role in July 2019. He was added to the US Treasury's Specially Designated Nationals (SDN) list on 5 November 2018 as part of the re-imposition of sanctions following the US withdrawal from the JCPOA.",
+  "expertise": [
+    "nuclear diplomacy",
+    "international affairs",
+    "shipping"
+  ],
+  "tags": [
+    "nuclear",
+    "diplomacy",
+    "sanctions"
+  ],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.iranwatch.org/iranian-entities/mohammed-saeedi",
+      "title": "Mohammed Saeedi — Iran Watch",
+      "date": "2024-01-01",
+      "publisher": "Iran Watch"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mohammad_Saeedi",
+      "title": "Mohammad Saeedi — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.pbs.org/wgbh/pages/frontline/tehranbureau/2009/12/another-iranian-nuclear-negotiator-resigns.html",
+      "title": "Another Iranian Nuclear Negotiator Resigns",
+      "date": "2009-12-01",
+      "publisher": "PBS Frontline Tehran Bureau"
+    }
+  ],
+  "editorial_notes": "AEOI deputy head for international affairs under Aghazadeh. Member of nuclear negotiating team. Named in IAEA reports. SDN-listed November 2018. Later headed IRISL Group (2015-2019)."
+}

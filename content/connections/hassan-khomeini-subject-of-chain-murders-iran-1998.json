@@ -1,0 +1,19 @@
+{
+  "entity_id": "hassan-khomeini-subject-of-chain-murders-iran-1998",
+  "from_entity": "hassan-khomeini",
+  "to_entity": "chain-murders-iran-1998",
+  "type": "subject-of",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.atlanticcouncil.org/blogs/iransource/three-decades-after-khomeini-s-death-his-clan-lives-life-on-the-sidelines/",
+      "source_title": "Three decades after Khomeini's death, his clan rules from the sidelines",
+      "source_date": "2019-06-03",
+      "description": "Hassan Khomeini alleged his father Ahmad's 1995 death was a poisoning linked to the chain murders campaign."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": "Ahmad Khomeini's death (1995) predates the 1998 chain murders revelations but Hassan links it to the same MOIS apparatus."
+}

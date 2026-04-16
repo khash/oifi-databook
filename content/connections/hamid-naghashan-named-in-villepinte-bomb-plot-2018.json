@@ -1,0 +1,15 @@
+{
+  "entity_id": "hamid-naghashan-named-in-villepinte-bomb-plot-2018",
+  "from_entity": "hamid-naghashan",
+  "to_entity": "villepinte-bomb-plot-2018",
+  "type": "named-in",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": ["intelligence"],
+  "editorial_notes": "Named in connection with the broader intelligence network around the Assadi case, not necessarily as a direct participant in the plot. Alleged."
+}

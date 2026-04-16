@@ -1,0 +1,21 @@
+{
+  "entity_id": "cinema-rex-fire-1978-named-in-mohammad-reza-shah-pahlavi",
+  "from_entity": "cinema-rex-fire-1978",
+  "to_entity": "mohammad-reza-shah-pahlavi",
+  "type": "named-in",
+  "confidence": "disputed",
+  "date_from": "1978-08-19",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Cinema_Rex_fire",
+      "source_title": "Cinema Rex fire — Wikipedia",
+      "source_date": "2026-04-16",
+      "description": "Khomeini blamed the Shah's government for the fire; the atrocity catalyzed revolutionary opposition to the Pahlavi regime."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Disputed: regime blamed the Shah, but evidence points to Islamist militants."
+}

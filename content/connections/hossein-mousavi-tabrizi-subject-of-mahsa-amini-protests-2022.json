@@ -1,0 +1,21 @@
+{
+  "entity_id": "hossein-mousavi-tabrizi-subject-of-mahsa-amini-protests-2022",
+  "from_entity": "hossein-mousavi-tabrizi",
+  "to_entity": "mahsa-amini-protests-2022",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2022",
+  "date_to": "2022",
+  "evidence": [
+    {
+      "source_url": "https://english.shabtabnews.com/2026/04/15/hossein-mousavi-tabrizi-from-engineering-massacres-to-wearing-the-reformist-mantle/",
+      "source_title": "Hossein Mousavi Tabrizi: From Engineering Massacres to Wearing the Reformist Mantle",
+      "source_date": "2026-04-15",
+      "description": "Mousavi Tabrizi criticized state arrest procedures following the Mahsa Amini protests and questioned the treatment of youth, as part of his reformist positioning."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

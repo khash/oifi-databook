@@ -1,0 +1,35 @@
+{
+  "entity_id": "council-for-coordinating-reforms-front",
+  "slug": "council-for-coordinating-reforms-front",
+  "name_en": "Council for Coordinating the Reforms Front",
+  "name_fa": "شورای هماهنگی جبهه اصلاحات",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Reformist Front Coordination Council",
+    "Council for Coordinating of 2nd of Khordad Front",
+    "Second of Khordad Front"
+  ],
+  "type": "political-party",
+  "formed": "1999-11-13",
+  "dissolved": "2020",
+  "parent_org": null,
+  "description": "The Council for Coordinating the Reforms Front was the primary umbrella organization and coordination body for Iranian reformist political groups. Formed on 13 November 1999 by eighteen reformist groups, it was named after 2 Khordad 1376 (the date of Mohammad Khatami's landslide 1997 presidential election victory in the Solar Hijri calendar).\n\nThe council coordinated electoral participation and policy advocacy among Iran's reformist factions for over two decades. Since 2015, it was overseen by the Reformists' Supreme Council for Policy-making. [Hossein Mousavi Tabrizi](/people/hossein-mousavi-tabrizi) served as rotating president of the council from 2015 to 2016.\n\nThe Council was dissolved in 2020 and succeeded by the Reform Front of Iran.",
+  "tags": [
+    "defunct"
+  ],
+  "editorial_notes": "Dissolved 2020, replaced by Reform Front of Iran. Named after the date of Khatami's 1997 election victory (2 Khordad). Mousavi Tabrizi's presidency (2015-2016) is notable given his hardliner past as Prosecutor General. Lead: Reform Front of Iran (successor org) and Pervasive Coalition of Reformists (related org) are not yet in DB.",
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Council_for_Coordinating_the_Reforms_Front",
+      "title": "Council for Coordinating the Reforms Front — Wikipedia",
+      "date": "2026-04-16",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Iranian_reformists",
+      "title": "Iranian reformists — Wikipedia",
+      "date": "2026-04-16",
+      "publisher": "Wikipedia"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "entity_id": "daryoush-rezaei",
+  "slug": "daryoush-rezaei",
+  "name_en": "Daryoush Rezaei",
+  "name_fa": "داریوش رضایی‌نژاد",
+  "has_native_fa_name": true,
+  "aliases": ["Darioush Rezaeinejad", "Dariush Rezaeinejad", "Darioush Rezaei"],
+  "born": 1976,
+  "birthplace": "Iran",
+  "died": 2011,
+  "role": "Iranian electrical engineering researcher; killed in 2011 as part of the nuclear scientist assassination campaign",
+  "faction": null,
+  "irgc_member": false,
+  "bio": "Daryoush Rezaei (also known as Darioush Rezaeinejad) was an Iranian electrical engineering PhD student at K. N. Toosi University of Technology in Tehran. On 23 July 2011, he was shot five times and killed by motorcycle-riding gunmen in front of his home, in the presence of his wife and young daughter. His wife was wounded in the attack. Initial reports misidentified him as a physics professor; he was subsequently confirmed as a postgraduate electrical engineering student. His killing was attributed to Israeli intelligence (Mossad) by Western intelligence sources; an Israeli intelligence source described the operation to Der Spiegel as the first public operation by new Mossad chief Tamir Pardo. The assassination was part of the broader [2010–2012 nuclear scientist assassination campaign](/events/iran-nuclear-scientist-assassinations-2010).",
+  "expertise": [
+    "electrical engineering"
+  ],
+  "tags": [
+    "assassinated",
+    "nuclear",
+    "deceased"
+  ],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Dariush_Rezaeinejad",
+      "title": "Dariush Rezaeinejad — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.cnn.com/2012/07/23/world/meast/iran-nuclear-scientist",
+      "title": "Iran arrests suspects in 2011 killing of nuclear scientist",
+      "date": "2012-07-23",
+      "publisher": "CNN"
+    }
+  ],
+  "editorial_notes": "Killed 23 July 2011. Shot by motorcycle gunmen. Full name Darioush Rezaeinejad. Initial reports misidentified him. Attributed to Mossad by Western intel sources."
+}

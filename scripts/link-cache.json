@@ -3948,11 +3948,6 @@
     "http_status": 200,
     "last_checked": "2026-04-16T07:56:33.786Z"
   },
-  "https://www.palestinechronicle.com/who-was-kamal-kharrazi-senior-iranian-leader-dies-after-us-israeli-strike/": {
-    "status": "invalid",
-    "http_status": 429,
-    "last_checked": "2026-04-16T08:33:06.786Z"
-  },
   "https://ali-tehrani.com/cinemarexabadan/assets/cinema_rex_aabadan_english.pdf": {
     "status": "valid",
     "http_status": 200,
@@ -4303,12 +4298,6 @@
     "http_status": 200,
     "last_checked": "2026-04-16T08:33:06.786Z"
   },
-  "https://english.khamenei.ir/news/11745/Brigadier-General-Mohammad-Karami-appointed-Commander-of-IRGC": {
-    "status": "invalid",
-    "http_status": null,
-    "note": "fetch failed",
-    "last_checked": "2026-04-16T08:33:06.786Z"
-  },
   "https://en.wikipedia.org/wiki/Mohsen_Kharazi": {
     "status": "valid",
     "http_status": 200,
@@ -4359,12 +4348,6 @@
     "http_status": 200,
     "last_checked": "2026-04-16T08:33:06.786Z"
   },
-  "http://100photos.time.com/photos/death-of-neda": {
-    "status": "invalid",
-    "http_status": null,
-    "note": "fetch failed",
-    "last_checked": "2026-04-16T08:33:06.786Z"
-  },
   "https://en.wikipedia.org/wiki/Killing_of_Neda_Agha-Soltan": {
     "status": "valid",
     "http_status": 200,
@@ -4398,11 +4381,6 @@
   "https://ifpnews.com/former-iranian-vice-president-davoudi-passes-away-72/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-16T08:33:06.786Z"
-  },
-  "https://www.ifmat.org/04/26/parviz-fatah/": {
-    "status": "invalid",
-    "http_status": 526,
     "last_checked": "2026-04-16T08:33:06.786Z"
   },
   "https://en.wikipedia.org/wiki/Parviz_Kazemi": {
@@ -4505,12 +4483,6 @@
     "http_status": 200,
     "last_checked": "2026-04-16T08:33:06.786Z"
   },
-  "https://www.terrorism-info.org.il/en/20575/": {
-    "status": "invalid",
-    "http_status": null,
-    "note": "fetch failed",
-    "last_checked": "2026-04-16T08:33:06.786Z"
-  },
   "https://en.wikipedia.org/wiki/Mossad": {
     "status": "valid",
     "http_status": 200,
@@ -4579,12 +4551,6 @@
   "https://iranfreedom.org/en/articles/2023/05/iranian-diplomat-terrorist-assadollah-assadi-released-in-controversial-prisoner-swap-by-belgian-government/45974/": {
     "status": "valid",
     "http_status": 200,
-    "last_checked": "2026-04-16T08:33:06.786Z"
-  },
-  "http://edition.cnn.com/2011/WORLD/meast/04/17/iran.intelligence.minister/": {
-    "status": "invalid",
-    "http_status": null,
-    "note": "fetch failed",
     "last_checked": "2026-04-16T08:33:06.786Z"
   },
   "https://www.euronews.com/2026/03/07/azerbaijan-releases-footage-after-foiling-iran-linked-plot-targeting-pipeline-and-jewish-s": {
@@ -4657,12 +4623,6 @@
     "http_status": 200,
     "last_checked": "2026-04-16T08:33:06.786Z"
   },
-  "https://english.khamenei.ir/news/9169/Leader-appointed-members-of-Expediency-Council-for-the-new-term": {
-    "status": "invalid",
-    "http_status": null,
-    "note": "fetch failed",
-    "last_checked": "2026-04-16T08:33:06.786Z"
-  },
   "https://www.al-monitor.com/originals/2014/05/iran-intelligence-minister-moslehi-ahmadinejad-fire.html": {
     "status": "valid",
     "http_status": 200,
@@ -4692,5 +4652,10 @@
     "status": "valid",
     "http_status": 200,
     "last_checked": "2026-04-16T08:33:06.786Z"
+  },
+  "https://en.wikipedia.org/wiki/Expediency_Discernment_Council": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-16T08:57:23.695Z"
   }
 }

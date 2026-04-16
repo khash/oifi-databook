@@ -1,47 +1,7 @@
 # Broken Links
 
 Last updated: 2026-04-16  
-Dead links (build-blocking): **7** | Bot-blocked (verify manually): **72**
-
-## Dead Links (7)
-
-These return 4xx/5xx or fail to connect. **The build fails until they are fixed.**
-
-### HTTP 429 (1)
-
-- https://www.palestinechronicle.com/who-was-kamal-kharrazi-senior-iranian-leader-dies-after-us-israeli-strike/
-  - `content/orgs/strategic-council-on-foreign-relations.json`
-  - *last checked: 2026-04-16*
-
-### HTTP 526 (1)
-
-- https://www.ifmat.org/04/26/parviz-fatah/
-  - `content/people/parviz-fattah.json`
-  - `content/connections/parviz-fattah-member-of-islamic-revolutionary-guard-corps.json`
-  - *last checked: 2026-04-16*
-
-### fetch failed (5)
-
-- https://english.khamenei.ir/news/11745/Brigadier-General-Mohammad-Karami-appointed-Commander-of-IRGC
-  - `content/people/mohammad-karami.json`
-  - `content/connections/mohammad-karami-appointed-by-ali-khamenei.json`
-  - `content/connections/mohammad-karami-headed-irgc-ground-forces.json`
-  - `content/connections/mohammad-karami-named-in-mohammad-pakpour.json`
-  - *last checked: 2026-04-16*
-- http://100photos.time.com/photos/death-of-neda
-  - `content/people/neda-agha-soltan.json`
-  - *last checked: 2026-04-16*
-- https://www.terrorism-info.org.il/en/20575/
-  - `content/orgs/haqqani-school.json`
-  - *last checked: 2026-04-16*
-- http://edition.cnn.com/2011/WORLD/meast/04/17/iran.intelligence.minister/
-  - `content/events/ahmadinejad-khamenei-crisis-2011.json`
-  - `content/connections/ali-khamenei-participated-in-ahmadinejad-khamenei-crisis-2011.json`
-  - `content/connections/mahmoud-ahmadinejad-participated-in-ahmadinejad-khamenei-crisis-2011.json`
-  - *last checked: 2026-04-16*
-- https://english.khamenei.ir/news/9169/Leader-appointed-members-of-Expediency-Council-for-the-new-term
-  - `content/connections/davoud-danesh-jafari-appointed-by-ali-khamenei.json`
-  - *last checked: 2026-04-16*
+Dead links (build-blocking): **0** | Bot-blocked (verify manually): **72**
 
 ## Bot-Blocked (72)
 
@@ -246,6 +206,8 @@ These return 403/401 to automated requests but are likely accessible to human vi
   - *last checked: 2026-04-16*
 - https://www.aei.org/research-products/report/ahmadinejad-versus-khamenei-irgc-wins-civilians-lose/
   - `content/events/ahmadinejad-khamenei-crisis-2011.json`
+  - `content/connections/ali-khamenei-participated-in-ahmadinejad-khamenei-crisis-2011.json`
+  - `content/connections/mahmoud-ahmadinejad-participated-in-ahmadinejad-khamenei-crisis-2011.json`
   - *last checked: 2026-04-16*
 - https://www.nytimes.com/1994/07/19/world/blast-hits-jewish-center-in-argentina-killing-at-least-48.html
   - `content/events/amia-bombing-1994.json`

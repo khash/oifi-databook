@@ -1,0 +1,31 @@
+{
+  "entity_id": "society-of-devotees-islamic-revolution",
+  "slug": "society-of-devotees-islamic-revolution",
+  "name_en": "Society of Devotees of the Islamic Revolution",
+  "name_fa": "جمعیت ایثارگران انقلاب اسلامی",
+  "has_native_fa_name": true,
+  "type": "political-party",
+  "founded": 1997,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Society of Devotees of the Islamic Revolution (Jam'iyat-e Isargaran-e Enqelab-e Eslami), commonly known as Isargaran ('the self-sacrificers'), is a principlist Iranian political party founded on 9 April 1997 by veterans of the Iran–Iraq War and former [Islamic Revolutionary Guard Corps](/orgs/islamic-revolutionary-guard-corps) commanders. It drew from non-clerical, grassroots revolutionaries rather than seminary elites and served as the ideological continuation of the right wing of the dissolved Mojahedin of the Islamic Revolution organization.\n\n[Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad) was a founding member of the party. The Isargaran's first major political breakthrough came in the 2003 Tehran Municipal Council elections, where it formed a principlist coalition that swept all 15 seats on low turnout — enabling the council to appoint Ahmadinejad as Mayor of Tehran. That mayoral platform was the direct springboard to his 2005 presidential victory. [Lotfollah Forouzandeh](/people/lotfollah-forouzandeh), a former IRGC commander, is also a co-founder of the organization.",
+  "faction": "hardliner",
+  "tags": [
+    "military"
+  ],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Society_of_Devotees_of_the_Islamic_Revolution",
+      "title": "Society of Devotees of the Islamic Revolution — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://irandataportal.syr.edu/association-of-the-devotees-of-the-islamic-revolution",
+      "title": "Association of the Devotees of the Islamic Revolution — Iran Data Portal",
+      "date": "2024-01-01",
+      "publisher": "Syracuse University / Iran Data Portal"
+    }
+  ],
+  "editorial_notes": "Founded 9 April 1997. Full Persian: Jam'iyat-e Isargaran-e Enqelab-e Eslami. Ahmadinejad founding member. Forouzandeh co-founder. Principlist, IRGC-veteran base. 2003 Tehran municipal win key to Ahmadinejad's rise."
+}

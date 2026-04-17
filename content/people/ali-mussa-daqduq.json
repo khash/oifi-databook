@@ -1,0 +1,45 @@
+{
+  "entity_id": "ali-mussa-daqduq",
+  "slug": "ali-mussa-daqduq",
+  "name_en": "Ali Mussa Daqduq",
+  "name_fa": "علي موسى دقدوق",
+  "has_native_fa_name": false,
+  "aliases": ["Ali Musa Daqduq", "Abu Hussein Sajed"],
+  "born": null,
+  "birthplace": "Lebanon",
+  "died": "2024-11-10",
+  "role": "Senior Hezbollah commander; deputy commander of Radwan Force; key figure in establishing Iran-backed Iraqi militias",
+  "faction": "hardliner",
+  "bio": "Ali Mussa Daqduq was a senior Lebanese [Hezbollah](/orgs/hezbollah) commander and one of the key figures responsible for building Iran's proxy militia network in Iraq. A 24-year veteran of Hezbollah's military wing, he was dispatched to Iraq in 2005 by Hezbollah under direction from the [IRGC Quds Force](/orgs/irgc-quds-force) as part of Unit 3800 — a specialized Hezbollah unit established in 2003 at Iran's request to train and equip Iraqi Shia militant groups.\n\nDaqduq served as a senior adviser and trainer to [Qais Khazali](/people/qais-khazali) and the [Asa'ib Ahl al-Haq](/orgs/asaib-ahl-al-haq) network, playing an instrumental role in their formation and the planning of the [Karbala Provincial Headquarters Raid](/events/karbala-provincial-headquarters-raid-2007) on 20 January 2007, which killed five US soldiers. He was captured in Basra on 20 March 2007 in a joint US-British SAS operation, along with Khazali and his brother Laith. Under interrogation, Daqduq confirmed that the Karbala operation was directed and supported by the IRGC Quds Force.\n\nDespite strong US objections, Daqduq was transferred to Iraqi custody on 18 December 2011 under the terms of the 2008 US-Iraq security agreement. Iraqi courts acquitted him of terrorism charges in November 2012 and he was released, returning to Lebanon. The US Treasury had designated him as a Specially Designated Global Terrorist in November 2011.\n\nAfter his return to Hezbollah, Daqduq commanded the Golan Unit — a Hezbollah cell operating against Israel from the Syrian Golan Heights. In late September 2024, following Israeli airstrikes that devastated the [Radwan Force](/orgs/radwan-force) leadership, Daqduq was appointed the unit's deputy commander. He was killed in an Israeli airstrike in Syria on 10 November 2024.",
+  "irgc_member": false,
+  "expertise": ["special operations", "proxy warfare", "militia training"],
+  "tags": ["killed-in-action", "deceased", "military", "proxy-warfare", "sanctions"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ali_Musa_Daqduq",
+      "title": "Ali Musa Daqduq — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.counterextremism.com/extremists/ali-mussa-daqduq",
+      "title": "Ali Mussa Daqduq — Counter Extremism Project",
+      "date": "2024-01-01",
+      "publisher": "Counter Extremism Project"
+    },
+    {
+      "url": "https://www.longwarjournal.org/archives/2024/11/israel-kills-wanted-hezbollah-commander-behind-the-establishment-of-iraqs-iran-backed-militias.php",
+      "title": "Israel kills wanted Hezbollah commander behind the establishment of Iraq's Iran-backed militias",
+      "date": "2024-11-24",
+      "publisher": "FDD Long War Journal"
+    },
+    {
+      "url": "https://home.treasury.gov/news/press-releases/tg1775",
+      "title": "Treasury Designates Hizballah Commander Responsible for American Deaths in Iraq",
+      "date": "2011-11-01",
+      "publisher": "US Department of the Treasury"
+    }
+  ],
+  "editorial_notes": "Lebanese Hezbollah, 24-year veteran. Alias Abu Hussein Sajed. Captured Basra March 2007. Transferred to Iraqi custody Dec 2011. Acquitted and released Nov 2012. Killed Israeli airstrike Syria 10 Nov 2024. US Treasury SDGT Nov 2011."
+}

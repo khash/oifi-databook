@@ -1,0 +1,29 @@
+{
+  "entity_id": "bonyad-e-taavon-e-sepah",
+  "slug": "bonyad-e-taavon-e-sepah",
+  "name_en": "Bonyad-e Taavon-e Sepah",
+  "name_fa": "بنیاد تعاون سپاه",
+  "has_native_fa_name": true,
+  "type": "military",
+  "founded": null,
+  "dissolved": null,
+  "parent_org": "islamic-revolutionary-guard-corps",
+  "description": "Bonyad-e Taavon-e Sepah (IRGC Cooperative Foundation) is the primary economic and business cooperative arm of the [Islamic Revolutionary Guard Corps](/orgs/islamic-revolutionary-guard-corps). It controls vast economic interests across multiple sectors of the Iranian economy including construction, manufacturing, and trade. The foundation serves as a vehicle for the IRGC's deep penetration of Iran's civilian economy. [Parviz Fattah](/people/parviz-fattah) served as executive director of its investment arm after leaving the Energy Ministry and before becoming deputy commander of [Khatam al-Anbiya](/orgs/khatam-al-anbiya). The US Treasury sanctioned Bonyad Taavon Sepah and Fattah in December 2010 for its role in the IRGC's economic empire.",
+  "faction": "hardliner",
+  "tags": ["military", "sanctions"],
+  "sources": [
+    {
+      "url": "https://home.treasury.gov/news/press-releases/tg1010",
+      "title": "Treasury Designates Iranian Entities Tied to the IRGC and IRISL",
+      "date": "2010-12-21",
+      "publisher": "US Treasury"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Parviz_Fattah",
+      "title": "Parviz Fattah — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "Also transliterated as Bonyad Taavon Sepah. US-sanctioned December 2010. Parviz Fattah was its executive director (investment arm). Distinct from Khatam al-Anbiya (construction) but both are IRGC economic arms."
+}

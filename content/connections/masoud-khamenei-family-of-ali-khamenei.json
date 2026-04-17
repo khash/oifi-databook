@@ -1,0 +1,21 @@
+{
+  "entity_id": "masoud-khamenei-family-of-ali-khamenei",
+  "from_entity": "masoud-khamenei",
+  "to_entity": "ali-khamenei",
+  "type": "family-of",
+  "symmetric": true,
+  "family_subtype": "child",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Masoud_Khamenei",
+      "source_title": "Masoud Khamenei — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Masoud Hosseini Khamenei is the third son of Ali Khamenei, the second Supreme Leader of Iran."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": "Third son of Ali Khamenei."
+}

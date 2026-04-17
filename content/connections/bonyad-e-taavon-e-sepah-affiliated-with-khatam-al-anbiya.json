@@ -1,0 +1,22 @@
+{
+  "entity_id": "bonyad-e-taavon-e-sepah-affiliated-with-khatam-al-anbiya",
+  "from_entity": "bonyad-e-taavon-e-sepah",
+  "to_entity": "khatam-al-anbiya",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Parviz_Fattah",
+      "source_title": "Parviz Fattah — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Parviz Fattah served simultaneously as deputy commander of Khatam al-Anbiya and executive director of Bonyad-e Taavon-e Sepah's investment arm, illustrating the institutional overlap between these two IRGC economic entities."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": [],
+  "editorial_notes": "Both are IRGC economic arms; Khatam al-Anbiya is construction-focused, Bonyad Taavon Sepah is the cooperative/investment arm."
+}

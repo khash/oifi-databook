@@ -1,0 +1,34 @@
+{
+  "entity_id": "assembly-of-experts-election-2016",
+  "slug": "assembly-of-experts-election-2016",
+  "name": "2016 Assembly of Experts Election",
+  "date": "2016-02-26",
+  "type": "election",
+  "description": "The fifth Iranian Assembly of Experts election was held on 26 February 2016 to elect 88 members to eight-year terms. The [Guardian Council](/orgs/guardian-council) disqualified approximately 80% of applicants — 801 registered; only 166 were approved — including every woman who applied and virtually the entire reformist slate. Among those rejected was [Hassan Khomeini](/people/hassan-khomeini), grandson of the Islamic Republic's founder, whose exclusion drew international attention and was seen as a signal of hardliner dominance over the body that selects the Supreme Leader.\n\nThe election was held concurrently with parliamentary elections. Despite the severe pre-screening, the 2016 Assembly of Experts cohort was considered somewhat more moderate than its predecessor — reflecting the political space created by the Rouhani presidency and the 2015 nuclear agreement. The [Assembly of Experts](/orgs/assembly-of-experts) elected from this cycle was notable for convening in March 2026 to select a new Supreme Leader following the death of [Ali Khamenei](/people/ali-khamenei).",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/2016_Iranian_Assembly_of_Experts_election",
+      "title": "2016 Iranian Assembly of Experts election — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://iranwire.com/en/features/1599",
+      "title": "Reformists under Fire as Election Officials Reject Candidates",
+      "date": "2016-01-20",
+      "publisher": "IranWire"
+    },
+    {
+      "url": "https://www.ifes.org/tools-resources/faqs/elections-iran-2016-majlis-and-assembly-experts-elections",
+      "title": "Elections in Iran: 2016 Majlis and Assembly of Experts Elections",
+      "date": "2016-02-01",
+      "publisher": "IFES"
+    }
+  ],
+  "tags": [
+    "electoral-vetting",
+    "clerical"
+  ],
+  "editorial_notes": "Held 26 February 2016 concurrently with 10th Majlis election. 801 applied; 166 approved. All women disqualified. Hassan Khomeini rejected. Reformists won approx. 20 of 88 seats."
+}

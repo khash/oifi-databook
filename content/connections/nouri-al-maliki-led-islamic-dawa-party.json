@@ -1,0 +1,21 @@
+{
+  "entity_id": "nouri-al-maliki-led-islamic-dawa-party",
+  "from_entity": "nouri-al-maliki",
+  "to_entity": "islamic-dawa-party",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "2007",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Nouri_al-Maliki",
+      "source_title": "Nouri al-Maliki — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Al-Maliki has served as the secretary-general (leader) of the Islamic Dawa Party, Iraq's major Shia Islamist political party, which he used as the political base for his two terms as Prime Minister of Iraq."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Al-Maliki became leader of the Dawa Party and used it as his political base. He remained leader after his PM tenure."
+}

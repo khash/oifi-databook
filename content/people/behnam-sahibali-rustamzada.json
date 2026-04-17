@@ -1,0 +1,32 @@
+{
+  "entity_id": "behnam-sahibali-rustamzada",
+  "slug": "behnam-sahibali-rustamzada",
+  "name_en": "Behnam Sahibali Rustamzada",
+  "name_fa": "بهنام صاحبعلی رستمزاده",
+  "has_native_fa_name": true,
+  "aliases": ["Rustamzada Behnam Sahibali"],
+  "born": null,
+  "birthplace": "Iran",
+  "role": "Iranian national; wanted in connection with the 2026 Baku IRGC terror plot",
+  "faction": "hardliner",
+  "bio": "Behnam Sahibali Rustamzada is an Iranian national placed on an international wanted list by Azerbaijan's State Security Service (DTX) in March 2026. According to Azerbaijani authorities, Rustamzada and [Yaser Rahim Zandkian](/people/yaser-rahim-zandkian) — acting in prior collusion — established criminal contact with an Azerbaijani citizen and organized the smuggling of C-4 explosives into Azerbaijan as part of the [2026 IRGC terror plot in Azerbaijan](/events/azerbaijan-irgc-terror-plot-foiled-2026). The explosives cache amounted to 7.730 kg of C-4 designed to destroy objects and concrete installations. An international arrest warrant was issued for Rustamzada for involvement in organizing terror and sabotage acts.",
+  "irgc_member": null,
+  "expertise": [],
+  "tags": ["intelligence", "proxy-warfare"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://azertag.az/en/xeber/state_security_service_foils_irgc_terror_plots_in_azerbaijan-4063831",
+      "title": "State Security Service foils IRGC terror plots in Azerbaijan",
+      "date": "2026-03-06",
+      "publisher": "AZERTAC"
+    },
+    {
+      "url": "https://report.az/en/domestic-politics/azerbaijan-foils-planned-terror-attacks-linked-to-iran-s-revolutionary-guard",
+      "title": "State Security Service exposes IRGC terror plans in Azerbaijan",
+      "date": "2026-03-06",
+      "publisher": "Report.az"
+    }
+  ],
+  "editorial_notes": "Named on international wanted list March 2026 re: explosives smuggling into Azerbaijan. Iranian national; IRGC affiliation not explicitly confirmed in public sources beyond coordination with IRGC-directed network."
+}

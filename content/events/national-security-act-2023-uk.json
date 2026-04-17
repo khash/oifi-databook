@@ -1,0 +1,31 @@
+{
+  "entity_id": "national-security-act-2023-uk",
+  "slug": "national-security-act-2023-uk",
+  "name": "National Security Act 2023 (UK)",
+  "date": "2023-07-11",
+  "type": "policy",
+  "description": "UK legislation receiving Royal Assent on 11 July 2023. The Act creates new criminal offences to counter threats from hostile foreign states, replacing and extending the Official Secrets Acts of 1911 and 1989. Key provisions include offences for foreign interference, sabotage, obtaining and disclosing protected information, and — under Section 18 — engaging in conduct likely to assist a foreign intelligence service or preparing to commit serious violence. The Act was first used to charge Iranian nationals in May 2025, when the [Metropolitan Police Counter Terrorism Command (SO15)](/orgs/metropolitan-police-counter-terrorism-command) arrested and charged [Mostafa Sepahvand](/people/mostafa-sepahvand), [Farhad Javadi Manesh](/people/farhad-javadi-manesh), and [Shapoor Qalehali Khani Noori](/people/shapoor-qalehali-khani-noori) for alleged surveillance of [Iran International](/orgs/iran-international) journalists on behalf of Iran's [Ministry of Intelligence](/orgs/ministry-of-intelligence). The three defendants face trial under the Act at Woolwich Crown Court from 5 October 2026, proceedings documented in the [Woolwich Crown Court trial of 2026](/events/woolwich-crown-court-iran-international-plot-2026).",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/National_Security_Act_2023",
+      "title": "National Security Act 2023 — Wikipedia",
+      "date": "2023-07-11",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://homeofficemedia.blog.gov.uk/2023/07/11/national-security-act-factsheet/",
+      "title": "National Security Act Factsheet",
+      "date": "2023-07-11",
+      "publisher": "Home Office"
+    },
+    {
+      "url": "https://www.gov.uk/government/news/new-national-security-laws-come-into-force",
+      "title": "New national security laws come into force",
+      "date": "2023-07-11",
+      "publisher": "UK Government"
+    }
+  ],
+  "tags": ["intelligence", "human-rights"],
+  "editorial_notes": "Royal Assent 11 July 2023. Replaces/extends Official Secrets Acts 1911 and 1989. First used to charge Iranian nationals May 2025 in connection with surveillance of Iran International journalists."
+}

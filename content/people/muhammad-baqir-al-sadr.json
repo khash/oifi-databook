@@ -1,0 +1,39 @@
+{
+  "entity_id": "muhammad-baqir-al-sadr",
+  "slug": "muhammad-baqir-al-sadr",
+  "name_en": "Muhammad Baqir al-Sadr",
+  "name_fa": "محمد باقر صدر",
+  "has_native_fa_name": false,
+  "aliases": [
+    "Mohammed Baqir al-Sadr",
+    "Muhammad Baqr al-Sadr",
+    "Shahid al-Sadr"
+  ],
+  "born": 1935,
+  "birthplace": "Kadhimiya, Baghdad, Iraq",
+  "died": "1980-04-09",
+  "role": "Iraqi Shia scholar, philosopher, and founding ideologue of the Islamic Dawa Party",
+  "faction": null,
+  "bio": "Muhammad Baqir al-Sadr was one of the most important Shia Muslim thinkers of the twentieth century — a jurist, philosopher, and economist whose ideas shaped both the [Islamic Dawa Party](/orgs/islamic-dawa-party) and the intellectual foundations of the Islamic Republic of Iran. Born in Kadhimiya, Baghdad in 1935, he moved to Najaf as a child and studied in its famous Hawza. By his twenties he was recognized as an exceptionally gifted scholar.\n\nAround 1957–1960, al-Sadr was the principal ideologue behind the founding of the Islamic Dawa Party, established to counter the appeal of Marxism and Ba'athism among Iraqi Shia. He wrote the party's foundational texts and provided its philosophical grounding. His major works — *Falsafatuna* (Our Philosophy, 1959) and *Iqtisaduna* (Our Economics, 1961) — were groundbreaking attempts to construct an Islamic alternative to both Marxism and capitalism. He also wrote *Al-Bank al-la Riba fi al-Islam* (The Interest-Free Bank in Islam), a foundational text of Islamic economics.\n\nAl-Sadr had intellectual and ideological connections to the revolutionary movement around [Ruhollah Khomeini](/people/ruhollah-khomeini). He supported the 1979 Iranian Revolution and reportedly wrote to Khomeini declaring him the leader of the Islamic world. His theory of wilayat al-faqih paralleled Khomeini's velayat-e faqih doctrine, though with differences. His ideas on Islamic governance deeply influenced the constitutional architecture of the Islamic Republic.\n\nFearing his influence and his connections to opposition networks, Saddam Hussein's Ba'athist government arrested al-Sadr in June 1979 and placed him under house arrest. Following protests demanding his release, on April 8–9, 1980, al-Sadr was executed along with his sister, the scholar and activist Bint al-Huda (Amina Haydar al-Sadr). He is revered as a martyr throughout the Shia world.",
+  "irgc_member": false,
+  "expertise": [
+    "Islamic jurisprudence",
+    "Islamic philosophy",
+    "Islamic economics",
+    "political theory"
+  ],
+  "tags": [
+    "deceased",
+    "clerical"
+  ],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mohammad_Baqir_al-Sadr",
+      "title": "Muhammad Baqir al-Sadr — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "Born 1 March 1935 in Kadhimiya, Baghdad. Executed 9 April 1980 by Saddam Hussein along with his sister Bint al-Huda (Amina Haydar al-Sadr). Key Dawa Party ideologue. Works: Falsafatuna (1959), Iqtisaduna (1961). Had ideological influence on Khomeini's Islamic Republic project. Sometimes called Shahid al-Sadr (The Martyr al-Sadr)."
+}

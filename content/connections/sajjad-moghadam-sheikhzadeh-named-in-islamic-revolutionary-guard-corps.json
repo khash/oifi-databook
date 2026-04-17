@@ -1,0 +1,21 @@
+{
+  "entity_id": "sajjad-moghadam-sheikhzadeh-named-in-islamic-revolutionary-guard-corps",
+  "from_entity": "sajjad-moghadam-sheikhzadeh",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2026-03",
+  "date_to": "2026-03",
+  "evidence": [
+    {
+      "source_url": "https://azertag.az/en/xeber/state_security_service_foils_irgc_terror_plots_in_azerbaijan-4063831",
+      "source_title": "State Security Service foils IRGC terror plots in Azerbaijan",
+      "source_date": "2026-03-06",
+      "description": "Azerbaijani authorities stated that Sheikhzadeh received special directives from SEPAH (IRGC) to plan assassinations of individuals of Jewish origin in Azerbaijan. This names him in IRGC operational records."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

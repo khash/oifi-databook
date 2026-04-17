@@ -1,0 +1,21 @@
+{
+  "entity_id": "metropolitan-police-counter-terrorism-command-named-in-pouria-zeraati",
+  "from_entity": "metropolitan-police-counter-terrorism-command",
+  "to_entity": "pouria-zeraati",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2024-03-29",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://cpj.org/2024/04/exiled-iranian-journalist-pouria-zeraati-stabbed-in-london/",
+      "source_title": "Exiled Iranian journalist Pouria Zeraati stabbed in London",
+      "source_date": "2024-04-01",
+      "description": "The Metropolitan Police Counter Terrorism Command led the investigation into the stabbing of Pouria Zeraati, treating it as a potential state-directed attack."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "SO15 investigated the 29 March 2024 stabbing of Zeraati in Wimbledon as a potential Iranian state-directed assassination attempt."
+}

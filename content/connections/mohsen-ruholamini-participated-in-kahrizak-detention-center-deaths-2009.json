@@ -1,0 +1,27 @@
+{
+  "entity_id": "mohsen-ruholamini-participated-in-kahrizak-detention-center-deaths-2009",
+  "from_entity": "mohsen-ruholamini",
+  "to_entity": "kahrizak-detention-center-deaths-2009",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2009-07",
+  "date_to": "2009-07",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohsen_Rouholamini",
+      "source_title": "Mohsen Rouholamini — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Mohsen Ruholamini was arrested on 9 July 2009 and held at Kahrizak, where he died following torture"
+    },
+    {
+      "source_url": "https://iranhumanrights.org/2017/11/tehran-prosecutor-saeed-mortazavi-to-serve-two-year-prison-term-for-protestors-death/",
+      "source_title": "Tehran Prosecutor Saeed Mortazavi to Serve Two-Year Prison Term for Protestor's Death",
+      "source_date": "2017-11-01",
+      "description": "Mortazavi convicted specifically for the illegal detention and death of Mohsen Ruholamini at Kahrizak"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Ruholamini was one of three detainees who died at Kahrizak; the one whose case prompted Supreme Leader to order Kahrizak closed"
+}

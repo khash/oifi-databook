@@ -1,0 +1,21 @@
+{
+  "entity_id": "islamic-revolutionary-guard-corps-participated-in-iran-drone-strikes-nakhchivan-2026",
+  "from_entity": "islamic-revolutionary-guard-corps",
+  "to_entity": "iran-drone-strikes-nakhchivan-2026",
+  "type": "participated-in",
+  "confidence": "alleged",
+  "date_from": "2026-03-05",
+  "date_to": "2026-03-05",
+  "evidence": [
+    {
+      "source_url": "https://www.euronews.com/2026/03/05/iranian-drones-strike-azerbaijans-razi-airport-in-nakhchivan",
+      "source_title": "Iranian drones strike Azerbaijan's Nakhchivan international airport",
+      "source_date": "2026-03-05",
+      "description": "Azerbaijan's Ministry of Defense confirmed technical monitoring systems identified the UAVs as belonging to Iran's armed forces. Iran denied responsibility. IRGC is Iran's primary drone-strike operator."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Iran denied involvement. Azerbaijani technical monitoring attributed the UAVs to Iran's armed forces. IRGC assumed primary operator; confidence set to alleged pending formal attribution."
+}

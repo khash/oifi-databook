@@ -1,0 +1,28 @@
+{
+  "entity_id": "ramin-pourandarjani-participated-in-kahrizak-detention-center-deaths-2009",
+  "from_entity": "ramin-pourandarjani",
+  "to_entity": "kahrizak-detention-center-deaths-2009",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2009-07",
+  "date_to": "2009-07",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ramin_Pourandarjani",
+      "source_title": "Ramin Pourandarjani — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Served as resident physician at Kahrizak, examined tortured detainees including Mohsen Ruholamini, and submitted report documenting cause of death"
+    },
+    {
+      "source_url": "https://www.amnesty.org/en/latest/news/2009/11/iranian-authorities-must-investigate-death-detention-centre-doctor-20091118/",
+      "source_title": "Iranian authorities must investigate death of detention centre doctor",
+      "source_date": "2009-11-18",
+      "publisher": "Amnesty International",
+      "description": "Amnesty International described Pourandarjani as the physician who examined prisoners and documented torture at Kahrizak, and later testified to parliament"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Pourandarjani was the Kahrizak resident physician who documented the torture; testified to parliamentary investigation before his suspicious death"
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "abu-al-qasim-al-khoei-mentor-of-ali-al-sistani",
+  "from_entity": "abu-al-qasim-al-khoei",
+  "to_entity": "ali-al-sistani",
+  "type": "mentor-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "1992",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_al-Sistani",
+      "source_title": "Ali al-Sistani — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Sistani studied under al-Khoei in Najaf. After al-Khoei's death in August 1992, Sistani led his funeral prayers and gradually emerged as his successor as the leading marja in Najaf."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Al-Khoei was Sistani's primary teacher and predecessor. Sistani succeeded him as senior marja in Najaf after al-Khoei's death in 1992."
+}

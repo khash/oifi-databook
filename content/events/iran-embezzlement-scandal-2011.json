@@ -1,0 +1,22 @@
+{
+  "entity_id": "iran-embezzlement-scandal-2011",
+  "slug": "iran-embezzlement-scandal-2011",
+  "name": "2011 Iranian Embezzlement Scandal",
+  "date": "2011",
+  "type": "indictment",
+  "description": "The 2011 Iranian Embezzlement Scandal (ekhtelas-e bank) was the largest financial fraud in Iran's history at the time, involving approximately $2.6 billion (USD) embezzled through fraudulent letters of credit. The scheme was orchestrated primarily through Amir Mansour Arya, who used forged documents to obtain massive credit facilities from multiple Iranian banks including Saderat, Melli, and Mellat. The scandal implicated senior banking officials and triggered political shockwaves across the Ahmadinejad government. [Shamseddin Hosseini](/people/shamseddin-hosseini), the Finance Minister, faced impeachment proceedings in parliament over lax banking supervision, though he survived the vote after intervention by parliamentary speaker Ali Larijani. The [Central Bank of Iran](/orgs/central-bank-of-iran) was also implicated for regulatory failures. The scandal exposed systemic weaknesses in Iran's banking oversight and became a major symbol of corruption during the Ahmadinejad era.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/2011_Iranian_embezzlement_scandal",
+      "title": "2011 Iranian embezzlement scandal — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": [
+    "executive",
+    "parliament"
+  ],
+  "editorial_notes": "~$2.6 billion fraud via forged letters of credit. Main perpetrator: Amir Mansour Arya (not currently in DB). Multiple banks implicated: Saderat, Melli, Mellat. Hosseini survived impeachment. Became synonymous with Ahmadinejad-era corruption."
+}

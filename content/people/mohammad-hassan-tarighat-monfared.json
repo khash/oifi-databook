@@ -1,0 +1,32 @@
+{
+  "entity_id": "mohammad-hassan-tarighat-monfared",
+  "slug": "mohammad-hassan-tarighat-monfared",
+  "name_en": "Mohammad-Hassan Tarighat Monfared",
+  "name_fa": "محمدحسن طریقت‌منفرد",
+  "has_native_fa_name": true,
+  "aliases": ["Hassan Tarighat Monfared", "Mohammad Hassan Tariqat Monfared"],
+  "born": 1946,
+  "birthplace": "Tehran, Iran",
+  "role": "Caretaker (acting) and then interim Minister of Health and Medical Education under Ahmadinejad (December 2012 – August 2013)",
+  "faction": "conservative",
+  "bio": "Mohammad-Hassan Tarighat Monfared was an Iranian physician and principlist politician who served as caretaker Minister of Health and Medical Education following the dismissal of [Marzieh Vahid-Dastjerdi](/people/marzieh-vahid-dastjerdi) by President [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad) in late December 2012.\n\nVahid-Dastjerdi had been fired on 27 December 2012 after publicly criticising budget cuts to her ministry and the impact of international sanctions on pharmaceutical imports — comments that contradicted the president's official narrative. Ahmadinejad appointed Tarighat Monfared as acting head of the [Ministry of Health and Medical Education](/orgs/ministry-of-health), a position he held until the Majlis confirmed him as the formal minister on 17 March 2013. He served until 15 August 2013, when he was succeeded by Hassan Ghazizadeh Hashemi upon Rouhani's assumption of the presidency.\n\nTagrighat Monfared was a member of the Society of Devotees of the Islamic Revolution, a principlist faction. He made an unsuccessful bid for parliament in 2016, receiving fewer than 12,000 votes in Tehran. He died on 30 September 2021 following a fall.",
+  "irgc_member": false,
+  "expertise": ["medicine", "public health", "medical education"],
+  "tags": ["executive", "deceased"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Hassan_Tarighat_Monfared",
+      "title": "Hassan Tarighat Monfared — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.ibtimes.com/sacking-marzieh-vahid-dastjerdi-state-opposition-iran-977744",
+      "title": "The Sacking Of Marzieh Vahid Dastjerdi And The State Of The Opposition In Iran",
+      "date": "2013-01-28",
+      "publisher": "International Business Times"
+    }
+  ],
+  "editorial_notes": "Born 28 May 1946 in Tehran. Acting minister from 27 Dec 2012; confirmed by Majlis 17 March 2013; left office 15 Aug 2013 with end of Ahmadinejad presidency. Succeeded by Ghazizadeh Hashemi. Died 30 September 2021 following a fall."
+}

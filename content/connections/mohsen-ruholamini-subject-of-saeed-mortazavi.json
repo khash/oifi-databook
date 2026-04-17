@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohsen-ruholamini-subject-of-saeed-mortazavi",
+  "from_entity": "mohsen-ruholamini",
+  "to_entity": "saeed-mortazavi",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2009-07",
+  "date_to": "2009-07",
+  "evidence": [
+    {
+      "source_url": "https://iranhumanrights.org/2017/11/tehran-prosecutor-saeed-mortazavi-to-serve-two-year-prison-term-for-protestors-death/",
+      "source_title": "Tehran Prosecutor Saeed Mortazavi to Serve Two-Year Prison Term for Protestor's Death",
+      "source_date": "2017-11-01",
+      "description": "Mortazavi sentenced to two years imprisonment as accomplice to murder and for the illegal detention of Mohsen Ruholamini at Kahrizak"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Mortazavi ordered the illegal detention that directly led to Ruholamini's death; convicted 2017 specifically for this case"
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "masoud-khamenei-family-of-sadegh-kharrazi",
+  "from_entity": "masoud-khamenei",
+  "to_entity": "sadegh-kharrazi",
+  "type": "family-of",
+  "symmetric": true,
+  "family_subtype": "in-law",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Masoud_Khamenei",
+      "source_title": "Masoud Khamenei — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Masoud Khamenei is described as 'the husband of Sadiq-Kharazi's sister' — Sadegh Kharrazi is the son of Mohsen Kharrazi, making Masoud and Sadegh brothers-in-law."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": "Masoud married Sadegh Kharrazi's sister (Mohsen Kharrazi's daughter), making them brothers-in-law. Subtype in-law used as the closest valid option for sibling-in-law."
+}

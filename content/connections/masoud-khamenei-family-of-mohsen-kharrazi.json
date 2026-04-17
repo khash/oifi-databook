@@ -1,0 +1,27 @@
+{
+  "entity_id": "masoud-khamenei-family-of-mohsen-kharrazi",
+  "from_entity": "masoud-khamenei",
+  "to_entity": "mohsen-kharrazi",
+  "type": "family-of",
+  "symmetric": true,
+  "family_subtype": "in-law",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Masoud_Khamenei",
+      "source_title": "Masoud Khamenei — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Masoud Khamenei is married to the daughter of Mohsen Kharazi (Tehran's representative in the Assembly of Experts), making Mohsen Kharrazi his father-in-law."
+    },
+    {
+      "source_url": "https://iranwire.com/en/features/65677/",
+      "source_title": "Who's Who in Iran's Network of Powerful Families?",
+      "source_date": "2024-01-01",
+      "description": "The marriage between Masoud Khamenei and Mohsen Kharrazi's daughter links the Khamenei and Kharrazi family networks."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": "Masoud is the son-in-law of Mohsen Kharrazi. Existing connection mohsen-kharrazi-family-of-ali-khamenei captures the co-fathers-in-law link."
+}

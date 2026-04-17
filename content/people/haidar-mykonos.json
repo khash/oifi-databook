@@ -1,0 +1,38 @@
+{
+  "entity_id": "haidar-mykonos",
+  "slug": "haidar-mykonos",
+  "name_en": "Farajollah Haidar",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "aliases": ["Abu Ja'far", "Haidar Hesari"],
+  "born": null,
+  "birthplace": "Iran",
+  "role": "Iranian intelligence operative; getaway driver in the Mykonos restaurant assassination (1992); fugitive with outstanding German arrest warrant",
+  "faction": null,
+  "bio": "Farajollah Haidar (also known as Abu Ja'far) is an Iranian operative who served as the getaway driver for the team that carried out the [Mykonos restaurant assassination](/events/mykonos-restaurant-assassination-1992) on 17 September 1992 in Berlin. The attack killed [Sadegh Sharafkandi](/people/sadegh-sharafkandi), Secretary-General of the Democratic Party of Iranian Kurdistan, and three associates.\n\nHaidar was part of a five-person operational cell coordinated by [Kazem Darabi](/people/kazem-darabi). While the two gunmen — [Abdol-Rahman Banihashemi](/people/abdol-rahman-banihashemi) and [Abbas Rhayel](/people/abbas-rhayel) — carried out the killings, Haidar drove the vehicle used to flee the scene. Haidar successfully escaped from Germany after the attack, initially relocating to Lebanon before later moving to Iran, where he is believed to be working for the IRGC. An outstanding German arrest warrant remains in effect. Some sources identify him under the alias Haidar Hesari, though his full name is confirmed as Farajollah Haidar in trial records.",
+  "irgc_member": false,
+  "expertise": ["intelligence operations"],
+  "tags": ["intelligence"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mykonos_restaurant_assassinations",
+      "title": "Mykonos restaurant assassinations — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://iranhrdc.org/murder-at-mykonos-anatomy-of-a-political-assassination/",
+      "title": "Murder at Mykonos: Anatomy of a Political Assassination",
+      "date": "2006-01-01",
+      "publisher": "Iran Human Rights Documentation Center"
+    },
+    {
+      "url": "https://ctc.westpoint.edu/irans-deadly-diplomats/",
+      "title": "Iran's Deadly Diplomats",
+      "date": "2020-01-01",
+      "publisher": "Combating Terrorism Center at West Point"
+    }
+  ],
+  "editorial_notes": "Full name Farajollah Haidar, alias Abu Ja'far, sometimes identified as Haidar Hesari. Drove getaway car. Fled to Lebanon then Iran. Working for IRGC per CTCWP. Outstanding German arrest warrant."
+}

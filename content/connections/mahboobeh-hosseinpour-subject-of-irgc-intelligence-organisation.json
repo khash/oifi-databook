@@ -1,0 +1,21 @@
+{
+  "entity_id": "mahboobeh-hosseinpour-subject-of-irgc-intelligence-organisation",
+  "from_entity": "mahboobeh-hosseinpour",
+  "to_entity": "irgc-intelligence-organisation",
+  "type": "subject-of",
+  "confidence": "alleged",
+  "date_from": "2014",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.timesofisrael.com/iran-accused-of-assassinating-its-own-nuclear-scientist/",
+      "source_title": "Iran accused of assassinating its own nuclear scientist",
+      "source_date": "2014-10-02",
+      "description": "Mahboobeh Hosseinpour publicly accused the IRGC Intelligence Organisation of murdering her brother Ardeshir for refusing to work on nuclear weapons, making her a target of potential surveillance and intimidation by the organisation she accused."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "By publicly accusing the IRGC-IO of her brother's murder, Mahboobeh became an adversarial witness against the organisation. She spoke from Turkey, suggesting she may have fled Iran."
+}

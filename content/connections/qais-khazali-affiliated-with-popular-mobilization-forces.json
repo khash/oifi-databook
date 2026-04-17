@@ -1,0 +1,21 @@
+{
+  "entity_id": "qais-khazali-affiliated-with-popular-mobilization-forces",
+  "from_entity": "qais-khazali",
+  "to_entity": "popular-mobilization-forces",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "2014",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Qais_Khazali",
+      "source_title": "Qais Khazali — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "After 2014, Asa'ib Ahl al-Haq joined the Popular Mobilization Forces umbrella; Khazali as its leader holds a prominent position within the PMF structure."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

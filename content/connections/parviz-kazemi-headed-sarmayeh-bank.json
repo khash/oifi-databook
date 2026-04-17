@@ -1,0 +1,28 @@
+{
+  "entity_id": "parviz-kazemi-headed-sarmayeh-bank",
+  "from_entity": "parviz-kazemi",
+  "to_entity": "sarmayeh-bank",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2018",
+  "evidence": [
+    {
+      "source_url": "https://www.rferl.org/a/former-iranian-minister-arrested-for-financial-fraud/29594628.html",
+      "source_title": "Former Iranian Minister Arrested For Financial Fraud",
+      "source_date": "2018-11-01",
+      "description": "RFE/RL reports that Parviz Kazemi, former minister, became chairman of Sarmayeh Bank and was arrested in 2018 on financial fraud charges related to his conduct there."
+    },
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Parviz_Kazemi",
+      "source_title": "Parviz Kazemi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Wikipedia confirms Kazemi became chairman of Sarmayeh Bank after leaving government, and was arrested November 2018 for fraud including 46 illegal loans."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": [],
+  "editorial_notes": "Kazemi chaired Sarmayeh Bank after his 2006 resignation as minister. Arrested November 2018, sentenced to 20 years in 2022."
+}

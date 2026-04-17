@@ -1,0 +1,44 @@
+{
+  "entity_id": "qais-khazali",
+  "slug": "qais-khazali",
+  "name_en": "Qais Khazali",
+  "name_fa": "قيس الخزعلي",
+  "has_native_fa_name": false,
+  "aliases": ["Qays al-Khazali", "Qais al-Khazali", "Qais Hadi Sayed Hasan al-Khazali"],
+  "born": "1974-06-20",
+  "birthplace": "Iraq",
+  "role": "Founder and Secretary-General of Asa'ib Ahl al-Haq; Iraqi Shia militia commander; IRGC Quds Force proxy",
+  "faction": "hardliner",
+  "bio": "Qais Khazali is an Iraqi Shia militia commander and the founder and secretary-general of [Asa'ib Ahl al-Haq](/orgs/asaib-ahl-al-haq) (League of the Righteous). A former student of Grand Ayatollah Sadiq al-Sadr, he became a senior figure in the Sadrist movement before breaking with Muqtada al-Sadr following the 2004 Shia uprising. He subsequently established his own network with support from the [IRGC Quds Force](/orgs/irgc-quds-force) and Lebanese Hezbollah.\n\nFrom 2006, Khazali led the Iran-backed Special Groups in Iraq, serving as the primary intermediary between the IRGC Quds Force and Shia militant operations targeting US forces. He coordinated with Hezbollah adviser [Ali Mussa Daqduq](/people/ali-mussa-daqduq) in planning the [Karbala Provincial Headquarters Raid](/events/karbala-provincial-headquarters-raid-2007) on 20 January 2007, in which nine to twelve militants disguised as an American security detail attacked the Karbala Joint Security Station and killed five US soldiers. US military interrogation transcripts show Khazali authorized the launch of the operation. The raid was intended to capture US soldiers and exchange them for detained IRGC personnel.\n\nKhazali was captured by British forces in March 2007 in Basra alongside Ali Mussa Daqduq. He was released in January 2010 as part of a prisoner exchange for Peter Moore, a British IT contractor kidnapped by Asa'ib Ahl al-Haq in 2007.\n\nAfter his release, Khazali rebuilt Asa'ib Ahl al-Haq into one of Iraq's most powerful Iran-aligned militias, incorporated into the [Popular Mobilization Forces](/orgs/popular-mobilization-forces) after 2014. The group's political wing, al-Sadiqun, holds seats in the Iraqi parliament. The US State Department designated Asa'ib Ahl al-Haq as a Foreign Terrorist Organization on 3 January 2020, and Khazali was designated a Specially Designated Global Terrorist (SDGT) on the same date. He had previously been designated by the US Treasury in December 2019 for his role in violently suppressing Iraqi protests.",
+  "irgc_member": false,
+  "expertise": ["militia command", "proxy warfare", "Iraq operations"],
+  "tags": ["military", "proxy-warfare", "sanctions"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Qais_Khazali",
+      "title": "Qais Khazali — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.washingtoninstitute.org/policy-analysis/qais-al-khazali-praises-his-honorable-role-murder-americans",
+      "title": "Qais al-Khazali Praises His 'Honorable' Role in Murder of Americans",
+      "date": "2020-01-01",
+      "publisher": "Washington Institute for Near East Policy"
+    },
+    {
+      "url": "https://www.federalregister.gov/documents/2020/01/10/2020-00243/designation-of-qays-al-khazali-as-a-specially-designated-global-terrorist",
+      "title": "Designation of Qays al-Khazali as a Specially Designated Global Terrorist",
+      "date": "2020-01-10",
+      "publisher": "Federal Register"
+    },
+    {
+      "url": "https://www.counterextremism.com/extremists/qais-al-khazali",
+      "title": "Qais al-Khazali — Counter Extremism Project",
+      "date": "2024-01-01",
+      "publisher": "Counter Extremism Project"
+    }
+  ],
+  "editorial_notes": "Born 20 June 1974. Captured by British forces Basra March 2007. Released January 2010 in exchange for Peter Moore. SDGT designated 3 Jan 2020 (State Dept). Treasury designated Dec 2019 for repressing protesters."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "qais-khazali-founded-asaib-ahl-al-haq",
+  "from_entity": "qais-khazali",
+  "to_entity": "asaib-ahl-al-haq",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "2006",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Qais_Khazali",
+      "source_title": "Qais Khazali — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Khazali founded Asa'ib Ahl al-Haq in 2006 after splitting from Muqtada al-Sadr's Mahdi Army."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

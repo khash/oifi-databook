@@ -1,0 +1,21 @@
+{
+  "entity_id": "metropolitan-police-counter-terrorism-command-named-in-iran-international",
+  "from_entity": "metropolitan-police-counter-terrorism-command",
+  "to_entity": "iran-international",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2023-01-01",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.gov.uk/government/speeches/update-on-counter-terrorism-policing-operations",
+      "source_title": "Update on counter-terrorism policing operations",
+      "source_date": "2025-05-04",
+      "description": "SO15 led investigations into multiple Iranian assassination plots targeting Iran International journalists in the UK, including warning journalists of credible threats in 2023 and arresting surveillance operatives in 2025."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "SO15 investigated Iranian state threats against Iran International journalists and arrested defendants in the 2025 National Security Act case."
+}

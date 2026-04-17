@@ -1,0 +1,21 @@
+{
+  "entity_id": "qais-khazali-coordinated-with-karbala-provincial-headquarters-raid-2007",
+  "from_entity": "qais-khazali",
+  "to_entity": "karbala-provincial-headquarters-raid-2007",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "2007-01-20",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Qais_Khazali",
+      "source_title": "Qais Khazali — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "US military interrogation transcripts show Khazali authorized Adnan Fayhan to launch the January 20, 2007 Karbala attack. Khazali was captured weeks later in March 2007 in connection with the raid."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Khazali authorized launch of the Karbala operation per US military interrogation transcripts."
+}

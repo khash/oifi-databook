@@ -1,0 +1,21 @@
+{
+  "entity_id": "mostafa-khomeini-named-in-iranian-revolution-1979",
+  "from_entity": "mostafa-khomeini",
+  "to_entity": "iranian-revolution-1979",
+  "type": "named-in",
+  "symmetric": false,
+  "family_subtype": null,
+  "confidence": "confirmed",
+  "date_from": "1977-10-23",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mostafa_Khomeini",
+      "source_title": "Mostafa Khomeini — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Memorial services for Mostafa Khomeini organized across Iranian cities became nationwide protests against the Pahlavi monarchy, directly contributing to the revolutionary mobilization that culminated in the 1979 revolution."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": "His death in October 1977 and the subsequent memorial protests were a significant catalyst for revolutionary mobilization."
+}

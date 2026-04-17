@@ -1,0 +1,21 @@
+{
+  "entity_id": "nouri-al-maliki-aligned-with-ali-khamenei",
+  "from_entity": "nouri-al-maliki",
+  "to_entity": "ali-khamenei",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Nouri_al-Maliki",
+      "source_title": "Nouri al-Maliki — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Al-Maliki spent years in exile in Iran during Saddam's rule, cultivating close ties with the Islamic Republic leadership. During his tenure as Prime Minister, Iranian support — including from Supreme Leader Khamenei — was decisive in enabling him to retain power after the 2010 elections."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": "Al-Maliki's Iran ties run deep — he lived in Iranian exile and has consistently aligned with Tehran's interests. Khamenei reportedly backed him during the 2010 government formation crisis."
+}

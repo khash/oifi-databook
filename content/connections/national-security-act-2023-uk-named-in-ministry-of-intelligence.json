@@ -1,0 +1,21 @@
+{
+  "entity_id": "national-security-act-2023-uk-named-in-ministry-of-intelligence",
+  "from_entity": "national-security-act-2023-uk",
+  "to_entity": "ministry-of-intelligence",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2025-05-17",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.cps.gov.uk/cps/news/three-men-charged-national-security-act-offences",
+      "source_title": "Three men charged with National Security Act offences",
+      "source_date": "2025-05-17",
+      "description": "The first prosecution under the National Security Act 2023 identified Iran's Ministry of Intelligence as the foreign state whose interests the defendants allegedly served."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Iran's Ministry of Intelligence is identified as the foreign state intelligence service in the first NSA 2023 prosecution."
+}

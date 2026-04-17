@@ -1,0 +1,21 @@
+{
+  "entity_id": "asaib-ahl-al-haq-funded-by-irgc-quds-force",
+  "from_entity": "asaib-ahl-al-haq",
+  "to_entity": "irgc-quds-force",
+  "type": "funded-by",
+  "confidence": "confirmed",
+  "date_from": "2006",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://cisac.fsi.stanford.edu/mappingmilitants/profiles/asaib-ahl-al-haq",
+      "source_title": "Asa'ib Ahl al-Haq — Mapping Militant Organizations, Stanford University",
+      "source_date": "2024-01-01",
+      "description": "AAH is funded, trained, equipped and guided by IRGC's Quds Force and Hezbollah's Unit 3800; estimated to receive approximately $5 million per month in cash and weapons from Iran."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

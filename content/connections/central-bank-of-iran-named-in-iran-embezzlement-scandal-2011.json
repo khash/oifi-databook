@@ -1,0 +1,22 @@
+{
+  "entity_id": "central-bank-of-iran-named-in-iran-embezzlement-scandal-2011",
+  "from_entity": "central-bank-of-iran",
+  "to_entity": "iran-embezzlement-scandal-2011",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2011",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2011_Iranian_embezzlement_scandal",
+      "source_title": "2011 Iranian embezzlement scandal — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "The Central Bank of Iran was implicated in the scandal for regulatory failures that allowed the $2.6 billion fraud via fraudulent letters of credit to proceed across multiple Iranian banks."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": [],
+  "editorial_notes": "Implicated for systemic regulatory failures enabling the fraud."
+}

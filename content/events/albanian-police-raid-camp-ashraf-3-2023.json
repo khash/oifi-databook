@@ -1,0 +1,37 @@
+{
+  "entity_id": "albanian-police-raid-camp-ashraf-3-2023",
+  "slug": "albanian-police-raid-camp-ashraf-3-2023",
+  "name": "Albanian Police Raid on Camp Ashraf-3",
+  "date": "2023-06-20",
+  "type": "indictment",
+  "description": "On 20 June 2023, more than one thousand Albanian police officers conducted a large-scale raid on [Camp Ashraf-3](/orgs/camp-ashraf-3), the headquarters of the [Mojahedin-e Khalq](/orgs/mojahedin-e-khalq) (MEK) located near Manez in Durres County, Albania. The operation was authorised by Albania's Special Court against Corruption and Organised Crime (GJKKO), which issued orders to search both Ashraf-3 and a second MEK facility.\n\nPolice cited suspicions that MEK members had been involved in cyberattacks against Albania and were engaged in criminal 'acts of larger dimensions.' Interior Minister Bledi Çuçi stated the police were 'enforcing a court order' to seize devices and equipment. Albanian authorities also alleged that the MEK was conducting political activities prohibited under the terms of their residency agreement.\n\nOne MEK member, identified by the organisation as Ali Mostashari, died during or following the operation; Albanian authorities disputed that the raid directly caused his death. MEK sources reported over 100 injuries, with official figures putting the injured at 36.\n\nThe MEK and its international supporters, including prominent Western politicians, condemned the raid as politically motivated and accused the Albanian government of acting under Iranian pressure. The Albanian government denied this. The operation significantly strained Albania's relationship with MEK supporters in the United States and Europe. The raid took place less than a year after Albania severed diplomatic relations with Iran over the [HomeLand Justice cyberattack on Albania](/events/homeland-justice-cyberattack-albania-2022).",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://www.aljazeera.com/news/2023/6/21/why-was-this-iran-dissident-group-raided-in-europe",
+      "title": "Why was this Iran dissident group raided in Europe?",
+      "date": "2023-06-21",
+      "publisher": "Al Jazeera"
+    },
+    {
+      "url": "https://www.iranintl.com/en/202306207797",
+      "title": "Albanian Police Raid Iranian Opposition MEK Camp",
+      "date": "2023-06-20",
+      "publisher": "Iran International"
+    },
+    {
+      "url": "https://www.middleeastmonitor.com/20230621-albania-police-raid-exiled-iran-opposition-camp-1-member-killed/",
+      "title": "Albania police raid exiled Iran opposition camp, 1 member killed",
+      "date": "2023-06-21",
+      "publisher": "Middle East Monitor"
+    },
+    {
+      "url": "https://www.ncrius.org/the-sudden-onslaught-by-more-than-1000-albanian-policemen-on-ashraf-3-the-martyrdom-of-one-mek-member.html",
+      "title": "The Sudden Onslaught by More Than 1,000 Albanian Policemen on Ashraf 3, the Martyrdom of One MEK Member",
+      "date": "2023-06-20",
+      "publisher": "NCRI US"
+    }
+  ],
+  "tags": ["proxy-warfare", "intelligence"],
+  "editorial_notes": "20 June 2023. Over 1,000 police officers involved. Authorised by GJKKO court. MEK says one killed (Ali Mostashari), 100+ injured. Official count: 36 injured. Albanian government denies Iranian pressure drove the raid. GJKKO = Special Court against Corruption and Organised Crime."
+}

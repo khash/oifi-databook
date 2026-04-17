@@ -1,0 +1,21 @@
+{
+  "entity_id": "behnam-sahibali-rustamzada-participated-in-azerbaijan-irgc-terror-plot-foiled-2026",
+  "from_entity": "behnam-sahibali-rustamzada",
+  "to_entity": "azerbaijan-irgc-terror-plot-foiled-2026",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2026",
+  "date_to": "2026-03",
+  "evidence": [
+    {
+      "source_url": "https://azertag.az/en/xeber/state_security_service_foils_irgc_terror_plots_in_azerbaijan-4063831",
+      "source_title": "State Security Service foils IRGC terror plots in Azerbaijan",
+      "source_date": "2026-03-06",
+      "description": "Behnam Sahibali Rustamzada was placed on an international wanted list by Azerbaijan's DTX for involvement in organizing the terror plot, specifically the smuggling of C-4 explosives into Azerbaijan in collusion with Yaser Rahim Zandkian."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

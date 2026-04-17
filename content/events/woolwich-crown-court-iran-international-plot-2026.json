@@ -1,0 +1,37 @@
+{
+  "entity_id": "woolwich-crown-court-iran-international-plot-2026",
+  "slug": "woolwich-crown-court-iran-international-plot-2026",
+  "name": "Woolwich Crown Court Trial (Iran International Assassination Plot, 2026)",
+  "date": "2026-10",
+  "type": "indictment",
+  "description": "Trial of [Mostafa Sepahvand](/people/mostafa-sepahvand), [Farhad Javadi Manesh](/people/farhad-javadi-manesh), and [Shapoor Qalehali Khani Noori](/people/shapoor-qalehali-khani-noori) at Woolwich Crown Court from 5 October 2026. The three Iranian nationals, arrested by the [Metropolitan Police Counter Terrorism Command (SO15)](/orgs/metropolitan-police-counter-terrorism-command) in May 2025, are the first persons prosecuted under the [National Security Act 2023 (UK)](/events/national-security-act-2023-uk). They are charged with engaging in conduct likely to assist a foreign intelligence service — identified by police and the Home Secretary as Iran's [Ministry of Intelligence](/orgs/ministry-of-intelligence) — between 14 August 2024 and 16 February 2025. Two defendants face additional charges under Section 18 of the Act for conducting surveillance, reconnaissance, and open-source research with the intention of facilitating serious violence against persons in the United Kingdom. The targets of the surveillance were journalists at [Iran International](/orgs/iran-international), the London-based Farsi-language broadcaster, including [Pouria Zeraati](/people/pouria-zeraati). All three defendants appeared at Westminster Magistrates' Court on 17 May 2025 and were remanded in custody. A plea hearing took place on 26 September 2026; all three pleaded not guilty.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://www.cps.gov.uk/cps/news/three-men-charged-national-security-act-offences",
+      "title": "Three men charged with National Security Act offences",
+      "date": "2025-05-17",
+      "publisher": "Crown Prosecution Service"
+    },
+    {
+      "url": "https://www.iranintl.com/en/202506058630",
+      "title": "Three Iranians charged in UK spying case set to face trial",
+      "date": "2025-06-05",
+      "publisher": "Iran International"
+    },
+    {
+      "url": "https://www.iranintl.com/en/202509269466",
+      "title": "Three Iranians plead not guilty over alleged plot against journalists in UK",
+      "date": "2025-09-26",
+      "publisher": "Iran International"
+    },
+    {
+      "url": "https://www.timesofisrael.com/three-iranian-migrants-deny-spying-in-uk-for-iran/",
+      "title": "Three Iranian migrants deny spying in UK for Iran",
+      "date": "2025-09-26",
+      "publisher": "Times of Israel"
+    }
+  ],
+  "tags": ["intelligence", "human-rights"],
+  "editorial_notes": "First prosecution of Iranian nationals under the National Security Act 2023. Three defendants remanded in custody from May 2025. Plea hearing 26 September 2026 — all three not guilty. Trial from 5 October 2026 at Woolwich Crown Court. Targets were Iran International journalists."
+}

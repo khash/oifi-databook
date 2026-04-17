@@ -1,0 +1,44 @@
+{
+  "entity_id": "pouria-zeraati",
+  "slug": "pouria-zeraati",
+  "name_en": "Pouria Zeraati",
+  "name_fa": "پوریا زراعتی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1987,
+  "birthplace": "Babolsar, Iran",
+  "role": "British-Iranian journalist and television presenter at Iran International; survived an assassination attempt in London in March 2024 linked to Iranian state targeting of diaspora media",
+  "faction": null,
+  "bio": "Pouria Zeraati is a British-Iranian journalist and television anchor at [Iran International](/orgs/iran-international), the London-based Persian-language news broadcaster. Born on 22 September 1987 in Babolsar, Iran, he emigrated to the United Kingdom and studied mechanical engineering at Brunel University London. He joined the Manoto television network as a newsroom editor and presenter before moving to Iran International in 2020, where he became known as host of the political analysis programme *The Last Word* (Harf-e-Akhar).\n\nOn 29 March 2024, Zeraati was stabbed in the leg outside his home in Wimbledon, south-west London. One of the three assailants approached him while pretending to ask for change; he was then manhandled and knifed. He survived and was discharged from hospital within days. The [Metropolitan Police Counter Terrorism Command (SO15)](/orgs/metropolitan-police-counter-terrorism-command) led the investigation, which was treated as a potential state-directed assassination attempt linked to Iran. The three suspects fled the UK by air within hours of the attack.\n\nIn December 2024, Romanian nationals Nandito Badea and George Stana were arrested in Bucharest. Both were charged with wounding with intent to cause grievous bodily harm and extradited to the United Kingdom. Their trial at Woolwich Crown Court is provisionally set for May 2026.\n\nThe attack occurred within a broader pattern of Iranian state threats against [Iran International](/orgs/iran-international) journalists. In 2023 the Metropolitan Police had already warned journalists at the channel of credible assassination threats from Iranian intelligence. A separate case, the [Woolwich Crown Court trial of Mostafa Sepahvand and co-defendants](/events/woolwich-crown-court-iran-international-plot-2026) under the [National Security Act 2023 (UK)](/events/national-security-act-2023-uk), involved surveillance and reconnaissance operations against Iran International journalists, including Zeraati.\n\nIn July 2024, citing ongoing safety concerns and insufficient UK government protection, Zeraati stated he had relocated to Israel.",
+  "irgc_member": false,
+  "expertise": ["journalism", "political analysis"],
+  "tags": ["in-exile", "human-rights"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Pouria_Zeraati",
+      "title": "Pouria Zeraati — Wikipedia",
+      "date": "2024-03-30",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.cps.gov.uk/cps/news/two-charged-over-stabbing-journalist-wimbledon",
+      "title": "Two charged over stabbing of journalist in Wimbledon",
+      "date": "2024-12-05",
+      "publisher": "Crown Prosecution Service"
+    },
+    {
+      "url": "https://cpj.org/2024/04/exiled-iranian-journalist-pouria-zeraati-stabbed-in-london/",
+      "title": "Exiled Iranian journalist Pouria Zeraati stabbed in London",
+      "date": "2024-04-01",
+      "publisher": "Committee to Protect Journalists"
+    },
+    {
+      "url": "https://www.itv.com/news/london/2025-01-17/men-to-face-trial-over-attack-on-iranian-british-journalist-in-wimbledon",
+      "title": "Men to face trial over attack on Iranian-British journalist in Wimbledon",
+      "date": "2025-01-17",
+      "publisher": "ITV News"
+    }
+  ],
+  "editorial_notes": "Born 22 September 1987 in Babolsar, Iran. Brunel University London graduate (mechanical engineering). Host of The Last Word / Harf-e-Akhar on Iran International. Stabbed 29 March 2024 in Wimbledon; survived. Suspects: Romanian nationals Nandito Badea (19) and George Stana (23). Trial at Woolwich Crown Court provisionally May 2026. Relocated to Israel by July 2024."
+}

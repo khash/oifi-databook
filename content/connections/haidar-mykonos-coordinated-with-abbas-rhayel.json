@@ -1,0 +1,21 @@
+{
+  "entity_id": "haidar-mykonos-coordinated-with-abbas-rhayel",
+  "from_entity": "haidar-mykonos",
+  "to_entity": "abbas-rhayel",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "1992-09-17",
+  "date_to": "1992-09-17",
+  "evidence": [
+    {
+      "source_url": "https://iranhrdc.org/murder-at-mykonos-anatomy-of-a-political-assassination/",
+      "source_title": "Murder at Mykonos: Anatomy of a Political Assassination",
+      "source_date": "2006-01-01",
+      "description": "Haidar and Rhayel were both part of the Mykonos assassination team; Haidar drove the getaway car while Rhayel was one of the gunmen."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

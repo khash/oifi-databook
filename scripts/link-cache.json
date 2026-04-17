@@ -4657,5 +4657,422 @@
     "status": "valid",
     "http_status": 200,
     "last_checked": "2026-04-16T08:57:23.695Z"
+  },
+  "https://en.wikipedia.org/wiki/Ali_al-Sistani": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://en.wikipedia.org/wiki/Ali_Musa_Daqduq": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.counterextremism.com/extremists/ali-mussa-daqduq": {
+    "status": "bot-blocked",
+    "http_status": 403,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.britannica.com/biography/Ali-al-Sistani": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.longwarjournal.org/archives/2024/11/israel-kills-wanted-hezbollah-commander-behind-the-establishment-of-iraqs-iran-backed-militias.php": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.sistani.org/english/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://en.wikipedia.org/wiki/Alireza_Avayi": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://home.treasury.gov/news/press-releases/tg1775": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.opensanctions.org/entities/NK-irDFDYNzL7eE9s9SXrLCP2/": {
+    "status": "invalid",
+    "http_status": 404,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://azertag.az/en/xeber/state_security_service_foils_irgc_terror_plots_in_azerbaijan-4063831": {
+    "status": "bot-blocked",
+    "http_status": 403,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://en.wikipedia.org/wiki/Azar_Mansouri": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.iranintl.com/en/202602080489": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://iran1988.org/seyyed-alireza-avaei/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://irannewsupdate.com/news/nuclear/vicitm-s-sister-iranian-scientist-ardeshir-hosseinpour-was-assassinated-by-irgc/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.timesofisrael.com/iranian-minister-accused-of-human-rights-abuse-addresses-un-rights-body/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.timesofisrael.com/iran-accused-of-assassinating-its-own-nuclear-scientist/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://en.wikipedia.org/wiki/Meir_Dagan": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://en.wikipedia.org/wiki/Masoud_Khamenei": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://en.wikipedia.org/wiki/Hassan_Tarighat_Monfared": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.nytimes.com/2016/03/18/world/middleeast/meir-dagan-mossad-spy-chief-who-pioneered-covert-war-against-iran-dies-at-71.html": {
+    "status": "bot-blocked",
+    "http_status": 403,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://en.wikipedia.org/wiki/Mohsen_Rouholamini": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.theguardian.com/world/2016/mar/17/meir-dagan-obituary": {
+    "status": "invalid",
+    "http_status": 404,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.iranrights.org/memorial/story/61802/mohsen-ruholamini": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.ibtimes.com/sacking-marzieh-vahid-dastjerdi-state-opposition-iran-977744": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://en.wikipedia.org/wiki/Mostafa_Khomeini": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://en.wikipedia.org/wiki/Nouri_al-Maliki": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.britannica.com/biography/Muhammad-Baqir-as-Sadr": {
+    "status": "invalid",
+    "http_status": 404,
+    "last_checked": "2026-04-17T16:49:06.520Z"
+  },
+  "https://historydraft.com/story/iranian-revolution/the-death-of-mostafa-khomeini/330/2581": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.britannica.com/biography/Nouri-al-Maliki": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.cambridge.org/core/books/arab-shiism/muhammad-baqir-alsadr/": {
+    "status": "invalid",
+    "http_status": 404,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://en.wikipedia.org/wiki/Mohammad_Baqir_al-Sadr": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://iranhumanrights.org/2017/11/tehran-prosecutor-saeed-mortazavi-to-serve-two-year-prison-term-for-protestors-death/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://en.wikipedia.org/wiki/Pouria_Zeraati": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://en.wikipedia.org/wiki/Qais_Khazali": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.cps.gov.uk/cps/news/two-charged-over-stabbing-journalist-wimbledon": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.washingtoninstitute.org/policy-analysis/qais-al-khazali-praises-his-honorable-role-murder-americans": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.bbc.com/news/world-middle-east-12745068": {
+    "status": "invalid",
+    "http_status": 404,
+    "last_checked": "2026-04-17T16:49:06.520Z"
+  },
+  "https://www.itv.com/news/london/2025-01-17/men-to-face-trial-over-attack-on-iranian-british-journalist-in-wimbledon": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.federalregister.gov/documents/2020/01/10/2020-00243/designation-of-qays-al-khazali-as-a-specially-designated-global-terrorist": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://cpj.org/2024/04/exiled-iranian-journalist-pouria-zeraati-stabbed-in-london/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.counterextremism.com/extremists/qais-al-khazali": {
+    "status": "bot-blocked",
+    "http_status": 403,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://en.wikipedia.org/wiki/Ramin_Pourandarjani": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.iranrights.org/memorial/story/-8049/ramin-purandarjani": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.pbs.org/wgbh/pages/frontline/tehranbureau/2009/11/kahrizak-doctor-dies-first-lady-appears-in-public-in-rome.html": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://modern.az/en/olke/579068/a-unique-operation-by-dtx-sepah-intended-to-bomb-these-areas-in-baku-video/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://en.wikipedia.org/wiki/Al-Khoei_Foundation": {
+    "status": "invalid",
+    "http_status": 404,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.amnesty.org/en/latest/news/2009/11/iranian-authorities-must-investigate-death-detention-centre-doctor-20091118/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.al-khoei.org/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://en.wikipedia.org/wiki/Asa%27ib_Ahl_al-Haq": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://en.wikipedia.org/wiki/Iran_University_of_Science_and_Technology": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://en.wikipedia.org/wiki/Counter_Terrorism_Command": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.gov.uk/government/speeches/update-on-counter-terrorism-policing-operations": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://en.wikipedia.org/wiki/National_Development_Fund_of_Iran": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.washingtoninstitute.org/policy-analysis/profile-asaib-ahl-al-haq-0": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://cisac.fsi.stanford.edu/mappingmilitants/profiles/asaib-ahl-al-haq": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.iust.ac.ir/content/7236/Dr.-Ahmadinejad,-Mahmoud": {
+    "status": "unknown",
+    "http_status": null,
+    "note": "timeout",
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://en.wikipedia.org/wiki/SAIPA": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://en.wikipedia.org/wiki/Society_of_Devotees_of_the_Islamic_Revolution": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.middleeastmonitor.com/20230621-albania-police-raid-exiled-iran-opposition-camp-1-member-killed/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.iranintl.com/en/202306207797": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.ncrius.org/the-sudden-onslaught-by-more-than-1000-albanian-policemen-on-ashraf-3-the-martyrdom-of-one-mek-member.html": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.aljazeera.com/news/2023/6/21/why-was-this-iran-dissident-group-raided-in-europe": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://irandataportal.syr.edu/association-of-the-devotees-of-the-islamic-revolution": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.ndf.ir/en": {
+    "status": "unknown",
+    "http_status": null,
+    "note": "timeout",
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://iranwire.com/en/features/1599": {
+    "status": "bot-blocked",
+    "http_status": 403,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.ifes.org/tools-resources/faqs/elections-iran-2016-majlis-and-assembly-experts-elections": {
+    "status": "bot-blocked",
+    "http_status": 403,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.euronews.com/2026/03/05/iranian-drones-strike-azerbaijans-razi-airport-in-nakhchivan": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://cyberlaw.ccdcoe.org/wiki/Homeland_Justice_operations_against_Albania_(2022)": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://en.wikipedia.org/wiki/2026_Iranian_strikes_on_Azerbaijan": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.iranintl.com/en/202603053720": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.ic3.gov/CSA/2022/220921.pdf": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.aljazeera.com/news/2026/3/5/iranian-drones-hit-airport-in-azerbaijans-exclave-as-us-israel-war-widens": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://en.wikipedia.org/wiki/National_Security_Act_2023": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.reuters.com/article/iran-oil-bourse-idUSL1736906920080217": {
+    "status": "bot-blocked",
+    "http_status": 401,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://en.wikipedia.org/wiki/2011_Iranian_embezzlement_scandal": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.gov.uk/government/news/new-national-security-laws-come-into-force": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.bbc.com/persian/iran/2011/09/110918_l39_iran_embezzlement": {
+    "status": "invalid",
+    "http_status": 404,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://en.wikipedia.org/wiki/Iranian_Oil_Bourse": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://homeofficemedia.blog.gov.uk/2023/07/11/national-security-act-factsheet/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.rferl.org/a/iran_bank_embezzlement_scandal/24318481.html": {
+    "status": "invalid",
+    "http_status": 404,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.iranintl.com/en/202509269466": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://www.timesofisrael.com/three-iranian-migrants-deny-spying-in-uk-for-iran/": {
+    "status": "valid",
+    "http_status": 200,
+    "last_checked": "2026-04-17T16:47:33.074Z"
+  },
+  "https://en.wikipedia.org/wiki/Al-Khoei_Benevolent_Foundation": {
+    "status": "invalid",
+    "http_status": 404,
+    "last_checked": "2026-04-17T16:49:06.520Z"
   }
 }

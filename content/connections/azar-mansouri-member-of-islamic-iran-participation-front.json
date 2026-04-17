@@ -1,0 +1,21 @@
+{
+  "entity_id": "azar-mansouri-member-of-islamic-iran-participation-front",
+  "from_entity": "azar-mansouri",
+  "to_entity": "islamic-iran-participation-front",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Azar_Mansouri",
+      "source_title": "Azar Mansouri — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Azar Mansouri is a senior member of the Islamic Iran Participation Front."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

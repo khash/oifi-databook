@@ -1,0 +1,21 @@
+{
+  "entity_id": "homeland-justice-cyberattack-albania-2022-named-in-albania-severs-diplomatic-relations-with-iran-2022",
+  "from_entity": "homeland-justice-cyberattack-albania-2022",
+  "to_entity": "albania-severs-diplomatic-relations-with-iran-2022",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2022-09-06",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.aljazeera.com/news/2022/9/7/albania-cuts-diplomatic-ties-with-iran-over-cyberattack",
+      "source_title": "Albania cuts diplomatic ties with Iran over cyberattack",
+      "source_date": "2022-09-07",
+      "description": "Albania cited the July 2022 HomeLand Justice cyberattack directly as the reason for severing diplomatic relations with Iran on 6 September 2022 — the severance was a direct consequence of the cyberattack."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "The cyberattack directly caused the diplomatic severance. The severance event description references it explicitly."
+}

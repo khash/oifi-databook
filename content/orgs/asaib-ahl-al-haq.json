@@ -1,0 +1,40 @@
+{
+  "entity_id": "asaib-ahl-al-haq",
+  "slug": "asaib-ahl-al-haq",
+  "name_en": "Asa'ib Ahl al-Haq",
+  "name_fa": "عصائب أهل الحق",
+  "has_native_fa_name": false,
+  "aliases": ["League of the Righteous", "AAH", "Khazali Network"],
+  "type": "military",
+  "founded": 2006,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Asa'ib Ahl al-Haq (League of the Righteous) is an Iraqi Shia Islamist paramilitary organization and political party, and one of Iran's most important proxy militias in Iraq. It was founded in 2006 by [Qais Khazali](/people/qais-khazali) as a breakaway from Muqtada al-Sadr's Mahdi Army, with direct support from the [IRGC Quds Force](/orgs/irgc-quds-force) and Hezbollah's Unit 3800. The group is estimated to receive approximately $5 million per month in cash and weapons from Iran.\n\nAsa'ib Ahl al-Haq executed the [Karbala Provincial Headquarters Raid](/events/karbala-provincial-headquarters-raid-2007) on 20 January 2007, one of the most sophisticated attacks on US forces in Iraq, in which militants disguised as American security personnel killed five US soldiers. The group claimed responsibility for over 6,000 attacks on US-led coalition forces between 2006 and 2011.\n\nAfter 2014, it was incorporated into the [Popular Mobilization Forces](/orgs/popular-mobilization-forces), fielding forces in the 41st, 42nd, and 43rd PMF Brigades. Its political wing, al-Sadiqun (the Honest Ones), holds seats in the Iraqi parliament. The US State Department designated the organization a Foreign Terrorist Organization on 3 January 2020.",
+  "faction": "hardliner",
+  "tags": [
+    "military",
+    "proxy-warfare",
+    "sanctions"
+  ],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Asa%27ib_Ahl_al-Haq",
+      "title": "Asa'ib Ahl al-Haq — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://cisac.fsi.stanford.edu/mappingmilitants/profiles/asaib-ahl-al-haq",
+      "title": "Asa'ib Ahl al-Haq — Mapping Militant Organizations, Stanford University",
+      "date": "2024-01-01",
+      "publisher": "Stanford University CISAC"
+    },
+    {
+      "url": "https://www.washingtoninstitute.org/policy-analysis/profile-asaib-ahl-al-haq-0",
+      "title": "Profile: Asaib Ahl al-Haq",
+      "date": "2024-01-01",
+      "publisher": "Washington Institute for Near East Policy"
+    }
+  ],
+  "editorial_notes": "Full name League of the Righteous. Also known as Khazali Network. Breakaway from Mahdi Army 2006. ~10,000 members post-2014. Political wing al-Sadiqun. US FTO designation 3 Jan 2020."
+}

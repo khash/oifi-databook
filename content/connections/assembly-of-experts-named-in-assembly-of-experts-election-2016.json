@@ -1,0 +1,21 @@
+{
+  "entity_id": "assembly-of-experts-named-in-assembly-of-experts-election-2016",
+  "from_entity": "assembly-of-experts",
+  "to_entity": "assembly-of-experts-election-2016",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2016-02-26",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2016_Iranian_Assembly_of_Experts_election",
+      "source_title": "2016 Iranian Assembly of Experts election — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "The fifth election for the Assembly of Experts was held on 26 February 2016 to elect 88 members to eight-year terms."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "The 2016 election produced the fifth Assembly of Experts."
+}

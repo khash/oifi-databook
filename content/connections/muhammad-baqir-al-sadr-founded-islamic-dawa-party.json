@@ -1,0 +1,21 @@
+{
+  "entity_id": "muhammad-baqir-al-sadr-founded-islamic-dawa-party",
+  "from_entity": "muhammad-baqir-al-sadr",
+  "to_entity": "islamic-dawa-party",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "1957",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Baqir_al-Sadr",
+      "source_title": "Muhammad Baqir al-Sadr — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Muhammad Baqir al-Sadr was the principal founding ideologue of the Islamic Dawa Party, established around 1957–1960. He wrote the party's foundational texts and provided its philosophical grounding, making him its intellectual architect."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Al-Sadr is the ideological founder of the Dawa Party though he was not the sole organizational founder. He wrote its core texts and provided its philosophical framework."
+}

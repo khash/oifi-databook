@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-mussa-daqduq-coordinated-with-karbala-provincial-headquarters-raid-2007",
+  "from_entity": "ali-mussa-daqduq",
+  "to_entity": "karbala-provincial-headquarters-raid-2007",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "2007-01-20",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://home.treasury.gov/news/press-releases/tg1775",
+      "source_title": "Treasury Designates Hizballah Commander Responsible for American Deaths in Iraq",
+      "source_date": "2011-11-01",
+      "description": "US Treasury designation states Daqduq was responsible for the deaths of US soldiers in Iraq, including through his coordination of the Karbala raid, and that under interrogation he confirmed IRGC Quds Force directed the operation."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Under interrogation, Daqduq confirmed IRGC Quds Force directed the Karbala operation. He had trained and advised Qais Khazali's network for the attack."
+}

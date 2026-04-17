@@ -1,0 +1,40 @@
+{
+  "entity_id": "azar-mansouri",
+  "slug": "azar-mansouri",
+  "name_en": "Azar Mansouri",
+  "name_fa": "آذر منصوری",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": 1964,
+  "birthplace": "Varamin, Tehran Province",
+  "role": "Chair of the Reform Front of Iran (July 2023–present); secretary-general of the Union of Islamic Iran People Party",
+  "faction": "reformist",
+  "bio": "Azar Mansouri is an Iranian reformist politician and women's rights activist, best known as the first woman to chair a major Iranian political coalition. In July 2023 she succeeded [Behzad Nabavi](/people/behzad-nabavi) as chair of the [Reform Front of Iran](/orgs/reform-front-of-iran), the main umbrella coalition of Iran's reformist political camp.\n\nShe is a founding member and secretary-general of the Union of Islamic Iran People Party, and a senior member of the [Islamic Iran Participation Front](/orgs/islamic-iran-participation-front). A pioneer of Iranian civil society organizing, she was a leading campaigner for the One Million Signatures initiative for women's rights. She was disqualified from the 2008 parliamentary election by the [Guardian Council](/orgs/guardian-council) and arrested following the disputed 2009 presidential election that triggered the [Green Movement](/events/green-movement-protests-2009).\n\nOn 8 February 2026, Iranian authorities arrested Mansouri along with two other reformist figures — Ebrahim Asgharzadeh and Mohsen Aminzadeh — on charges of 'targeting national unity, taking a stance against the constitution, coordination with enemy propaganda, promoting surrender, diverting political groups and creating secret subversive mechanisms.' She was released days later, though the charges remained pending.",
+  "irgc_member": false,
+  "expertise": [
+    "civil society",
+    "women's rights",
+    "reformist politics"
+  ],
+  "tags": [
+    "electoral-vetting",
+    "green-movement",
+    "political-prisoner"
+  ],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Azar_Mansouri",
+      "title": "Azar Mansouri — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.iranintl.com/en/202602080489",
+      "title": "Iran arrests three reformist political figures",
+      "date": "2026-02-08",
+      "publisher": "Iran International"
+    }
+  ],
+  "editorial_notes": "Born c. 1964, Varamin. First woman to chair the Reform Front. Secretary-general of UIIPP. Arrested February 2026, released days later."
+}

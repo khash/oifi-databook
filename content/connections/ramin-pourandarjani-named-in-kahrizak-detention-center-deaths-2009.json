@@ -1,0 +1,21 @@
+{
+  "entity_id": "ramin-pourandarjani-named-in-kahrizak-detention-center-deaths-2009",
+  "from_entity": "ramin-pourandarjani",
+  "to_entity": "kahrizak-detention-center-deaths-2009",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2009-11",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.pbs.org/wgbh/pages/frontline/tehranbureau/2009/11/kahrizak-doctor-dies-first-lady-appears-in-public-in-rome.html",
+      "source_title": "Kahrizak doctor dead",
+      "source_date": "2009-11-11",
+      "description": "Pourandarjani's death is explicitly named as part of the Kahrizak story; the event description refers to him as the physician who documented the torture"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "The event description names him directly; his suspicious death is a core part of the Kahrizak narrative"
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "haidar-mykonos-coordinated-with-kazem-darabi",
+  "from_entity": "haidar-mykonos",
+  "to_entity": "kazem-darabi",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "1992",
+  "date_to": "1992",
+  "evidence": [
+    {
+      "source_url": "https://iranhrdc.org/murder-at-mykonos-anatomy-of-a-political-assassination/",
+      "source_title": "Murder at Mykonos: Anatomy of a Political Assassination",
+      "source_date": "2006-01-01",
+      "description": "Haidar operated as getaway driver in the five-person Mykonos assassination cell coordinated by Kazem Darabi."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

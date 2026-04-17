@@ -1,0 +1,21 @@
+{
+  "entity_id": "yaser-rahim-zandkian-coordinated-with-behnam-sahibali-rustamzada",
+  "from_entity": "yaser-rahim-zandkian",
+  "to_entity": "behnam-sahibali-rustamzada",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "2026",
+  "date_to": "2026-03",
+  "evidence": [
+    {
+      "source_url": "https://azertag.az/en/xeber/state_security_service_foils_irgc_terror_plots_in_azerbaijan-4063831",
+      "source_title": "State Security Service foils IRGC terror plots in Azerbaijan",
+      "source_date": "2026-03-06",
+      "description": "Azerbaijani authorities stated that Zandkian and Rustamzada acted in prior collusion to form a criminal conspiracy to smuggle C-4 explosives into Azerbaijan."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "irgc-intelligence-organisation-organized-homeland-justice-cyberattack-albania-2022",
+  "from_entity": "irgc-intelligence-organisation",
+  "to_entity": "homeland-justice-cyberattack-albania-2022",
+  "type": "organized",
+  "confidence": "confirmed",
+  "date_from": "2021-05",
+  "date_to": "2022-07",
+  "evidence": [
+    {
+      "source_url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-264a",
+      "source_title": "Iranian State Actors Conduct Cyber Operations Against the Government of Albania — CISA",
+      "source_date": "2022-09-21",
+      "description": "Joint CISA/FBI advisory AA22-264A attributed the HomeLand Justice cyberattack on Albania to Iranian state actors affiliated with the IRGC Intelligence Organisation, who had gained access to Albanian government networks as early as May 2021."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "CISA advisory AA22-264A (21 Sep 2022) is the primary attribution document. Initial network access ~May 2021; destructive attack launched July 2022."
+}

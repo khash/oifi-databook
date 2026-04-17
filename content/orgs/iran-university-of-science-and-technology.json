@@ -1,0 +1,29 @@
+{
+  "entity_id": "iran-university-of-science-and-technology",
+  "slug": "iran-university-of-science-and-technology",
+  "name_en": "Iran University of Science and Technology",
+  "name_fa": "دانشگاه علم و صنعت ایران",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 1929,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Iran University of Science and Technology (IUST; Dāneshgāh-e Elm va San'at-e Irān) is a public research university located in Narmak, eastern Tehran. Founded in 1929, it is one of Iran's leading technical universities, specializing in engineering and applied sciences.\n\nIUST is politically significant as the institution where [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad) studied civil and transportation engineering from 1976 through his PhD (awarded 1997), then joined the faculty as an associate professor. It was also where he met [Mojtaba Samareh Hashemi](/people/mojtaba-samareh-hashemi) in the late 1970s — a relationship that became the nucleus of the Ahmadinejad political network. Ahmadinejad's IUST connections provided him with a technical-nationalist peer group that formed the inner circle of his administration.",
+  "faction": null,
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Iran_University_of_Science_and_Technology",
+      "title": "Iran University of Science and Technology — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.iust.ac.ir/content/7236/Dr.-Ahmadinejad,-Mahmoud",
+      "title": "Dr. Ahmadinejad, Mahmoud — Iran University of Science and Technology",
+      "date": "2024-01-01",
+      "publisher": "IUST"
+    }
+  ],
+  "editorial_notes": "IUST founded 1929 in Narmak, Tehran. Ahmadinejad studied BSc civil engineering 1976, then MSc and PhD in transportation engineering (PhD 1997); joined faculty 1989. Samareh Hashemi was his IUST classmate. The IUST peer group became the core of the Ahmadinejad inner circle."
+}

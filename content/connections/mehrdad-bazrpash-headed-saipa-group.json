@@ -1,0 +1,28 @@
+{
+  "entity_id": "mehrdad-bazrpash-headed-saipa-group",
+  "from_entity": "mehrdad-bazrpash",
+  "to_entity": "saipa-group",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": "2022",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mehrdad_Bazrpash",
+      "source_title": "Mehrdad Bazrpash — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Wikipedia confirms Bazrpash was formerly CEO of SAIPA and Pars Khodro before his ministerial appointment."
+    },
+    {
+      "source_url": "https://ifpnews.com/mehrdad-bazrpash-iran-minister-of-roads-urban-development/",
+      "source_title": "Mehrdad Bazrpash Named Iran's Minister Of Roads — Iran Front Page",
+      "source_date": "2022-12-01",
+      "description": "Iran Front Page biography of Bazrpash confirms his prior role as CEO of SAIPA automotive group."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": [],
+  "editorial_notes": "Bazrpash was CEO of SAIPA (and also Pars Khodro) before his appointment as Roads Minister in 2022."
+}

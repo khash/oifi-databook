@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-mussa-daqduq-affiliated-with-irgc-quds-force",
+  "from_entity": "ali-mussa-daqduq",
+  "to_entity": "irgc-quds-force",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "2005",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://home.treasury.gov/news/press-releases/tg1775",
+      "source_title": "Treasury Designates Hizballah Commander Responsible for American Deaths in Iraq",
+      "source_date": "2011-11-01",
+      "description": "Daqduq was dispatched to Iraq in 2005 by Hezbollah at the direction of the IRGC Quds Force and worked as part of Unit 3800, a Hezbollah unit established to support Iranian proxy militia operations in Iraq."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

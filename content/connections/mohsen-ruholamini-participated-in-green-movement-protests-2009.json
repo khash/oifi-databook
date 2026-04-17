@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohsen-ruholamini-participated-in-green-movement-protests-2009",
+  "from_entity": "mohsen-ruholamini",
+  "to_entity": "green-movement-protests-2009",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2009-07-09",
+  "date_to": "2009-07-09",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohsen_Rouholamini",
+      "source_title": "Mohsen Rouholamini — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Arrested on 9 July 2009 during Green Movement protests over the disputed presidential election"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "abu-al-qasim-al-khoei-founded-al-khoei-benevolent-foundation",
+  "from_entity": "abu-al-qasim-al-khoei",
+  "to_entity": "al-khoei-benevolent-foundation",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "1989",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.al-khoei.org/",
+      "source_title": "Al-Khoei Benevolent Foundation — Official Website",
+      "source_date": "2024-01-01",
+      "description": "The Al-Khoei Benevolent Foundation was founded by Grand Ayatollah Abu al-Qasim al-Khoei to promote Shia Islamic learning and charitable work worldwide, headquartered in London."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Al-Khoei founded the London-based charitable foundation to promote quietist Shia scholarship internationally."
+}

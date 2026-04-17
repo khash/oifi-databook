@@ -1,0 +1,21 @@
+{
+  "entity_id": "homeland-justice-cyberattack-albania-2022-named-in-mojahedin-e-khalq",
+  "from_entity": "homeland-justice-cyberattack-albania-2022",
+  "to_entity": "mojahedin-e-khalq",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2022-07",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.mei.edu/publications/irans-balkan-front-roots-and-consequences-iranian-cyberattacks-against-albania",
+      "source_title": "Iran's Balkan front: The roots and consequences of Iranian cyberattacks against Albania",
+      "source_date": "2022-10-01",
+      "description": "The HomeLand Justice cyberattack was motivated by Iran's desire to retaliate against Albania for sheltering the MEK (Mojahedin-e Khalq) at Camp Ashraf-3."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "MEK's presence in Albania was the stated motivation for the Iranian cyberattack."
+}

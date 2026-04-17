@@ -1,0 +1,21 @@
+{
+  "entity_id": "asaib-ahl-al-haq-organized-karbala-provincial-headquarters-raid-2007",
+  "from_entity": "asaib-ahl-al-haq",
+  "to_entity": "karbala-provincial-headquarters-raid-2007",
+  "type": "organized",
+  "confidence": "confirmed",
+  "date_from": "2007-01-20",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Karbala_provincial_headquarters_raid",
+      "source_title": "Karbala provincial headquarters raid — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "The raid was executed by the Asa'ib Ahl al-Haq militia under direction from the IRGC Quds Force."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

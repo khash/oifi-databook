@@ -1,0 +1,39 @@
+{
+  "entity_id": "mostafa-khomeini",
+  "slug": "mostafa-khomeini",
+  "name_en": "Mostafa Khomeini",
+  "name_fa": "مصطفی خمینی",
+  "has_native_fa_name": true,
+  "aliases": ["Sayyid Mostafa Khomeini", "Mustafa Khomeini"],
+  "born": "1930-12-12",
+  "died": "1977-10-23",
+  "birthplace": "Qom, Iran",
+  "role": "Eldest son of Ruhollah Khomeini; cleric; died in Najaf under suspicious circumstances attributed to SAVAK",
+  "faction": "hardliner",
+  "bio": "Mostafa Khomeini was an Iranian cleric and the eldest son of [Ruhollah Khomeini](/people/ruhollah-khomeini), the founder of the Islamic Republic. Born in Qom on 12 December 1930, he followed his father into the clerical establishment and accompanied him into exile in Najaf, Iraq, from October 1965. He was married to Masoumeh Haeri Yazdi and had three children, including [Hussein Khomeini](/people/hussein-khomeini).\n\nMostafa died on 23 October 1977 in Najaf at the age of 46. Iraqi and Iranian official sources attributed his death to a heart attack, but widespread suspicion fell on [SAVAK](/orgs/savak), the Shah's secret police, with reports placing SAVAK agents at the scene. No autopsy was conducted — his father objected to one — leaving the cause of death unresolved. Ruhollah Khomeini later described the death as a \"divine secret\" and a blessing because of the political energy it released.\n\nMostafa's death proved a significant catalyst for the [Iranian Revolution](/events/iranian-revolution-1979). Memorial services held across Iranian cities rapidly transformed into nationwide protests against the Pahlavi monarchy. At a prominent Tehran memorial, a presiding cleric publicly invoked Khomeini's name — breaking a 14-year taboo — triggering chants of \"Allahu Akbar\" from the crowd. The wave of mourning ceremonies helped re-mobilize opposition networks and convinced Ruhollah Khomeini that revolution was closer than ever. He is the brother of [Ahmad Khomeini](/people/ahmad-khomeini).",
+  "irgc_member": false,
+  "expertise": ["Islamic jurisprudence", "Islamic philosophy"],
+  "tags": ["deceased", "clerical"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mostafa_Khomeini",
+      "title": "Mostafa Khomeini — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Khomeini_family",
+      "title": "Khomeini family — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://historydraft.com/story/iranian-revolution/the-death-of-mostafa-khomeini/330/2581",
+      "title": "The death of Mostafa Khomeini — Historydraft",
+      "date": "2024-01-01",
+      "publisher": "Historydraft"
+    }
+  ],
+  "editorial_notes": "Born 12 December 1930 in Qom. Died 23 October 1977 in Najaf. Eldest son of Ruhollah Khomeini. Death officially a heart attack; widely suspected SAVAK poisoning, no autopsy. Father of Hussein Khomeini. Brother of Ahmad Khomeini."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "ramin-pourandarjani-named-in-mohsen-ruholamini",
+  "from_entity": "ramin-pourandarjani",
+  "to_entity": "mohsen-ruholamini",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2009-07",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ramin_Pourandarjani",
+      "source_title": "Ramin Pourandarjani — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Pourandarjani examined Mohsen Ruholamini two days before his death and documented his torture injuries in a formal medical report submitted to the judiciary"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Pourandarjani is the physician who treated and documented Ruholamini's fatal injuries at Kahrizak"
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-mussa-daqduq-served-in-radwan-force",
+  "from_entity": "ali-mussa-daqduq",
+  "to_entity": "radwan-force",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2024",
+  "date_to": "2024-11-10",
+  "evidence": [
+    {
+      "source_url": "https://www.longwarjournal.org/archives/2024/11/israel-kills-wanted-hezbollah-commander-behind-the-establishment-of-iraqs-iran-backed-militias.php",
+      "source_title": "Israel kills wanted Hezbollah commander behind the establishment of Iraq's Iran-backed militias",
+      "source_date": "2024-11-24",
+      "description": "Daqduq was appointed deputy commander of the Radwan Force in late September 2024 after Israeli airstrikes devastated the unit's leadership; he was killed in this role on 10 November 2024."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Appointed deputy commander late September 2024 after Radwan Force leadership decimated by Israeli strikes. Killed 10 November 2024."
+}

@@ -1,0 +1,27 @@
+{
+  "entity_id": "mahmoud-ahmadinejad-served-in-iran-university-of-science-and-technology",
+  "from_entity": "mahmoud-ahmadinejad",
+  "to_entity": "iran-university-of-science-and-technology",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "1989-01-01",
+  "date_to": "2005-01-01",
+  "evidence": [
+    {
+      "source_url": "https://www.iust.ac.ir/content/7236/Dr.-Ahmadinejad,-Mahmoud",
+      "source_title": "Dr. Ahmadinejad, Mahmoud — Iran University of Science and Technology",
+      "source_date": "2024-01-01",
+      "description": "Mahmoud Ahmadinejad joined the IUST faculty in 1989 as a lecturer after completing his MSc, and later became an Associate Professor in transportation engineering after receiving his PhD from IUST in 1997."
+    },
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Iran_University_of_Science_and_Technology",
+      "source_title": "Iran University of Science and Technology — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Mahmoud Ahmadinejad, Iran's sixth president, both studied and taught at the university as an associate professor of transportation engineering."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Ahmadinejad enrolled at IUST for BSc in civil engineering (1976), then MSc, then PhD in transportation engineering (1997). Joined faculty 1989. Left IUST when elected mayor of Tehran (2003) and then president (2005)."
+}

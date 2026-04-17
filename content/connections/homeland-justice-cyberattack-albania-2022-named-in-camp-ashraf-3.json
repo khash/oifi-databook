@@ -1,0 +1,21 @@
+{
+  "entity_id": "homeland-justice-cyberattack-albania-2022-named-in-camp-ashraf-3",
+  "from_entity": "homeland-justice-cyberattack-albania-2022",
+  "to_entity": "camp-ashraf-3",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2022-07",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.mei.edu/publications/irans-balkan-front-roots-and-consequences-iranian-cyberattacks-against-albania",
+      "source_title": "Iran's Balkan front: The roots and consequences of Iranian cyberattacks against Albania",
+      "source_date": "2022-10-01",
+      "description": "Iran's decision to attack Albanian government infrastructure was tied to Albania's hosting of MEK members at Camp Ashraf-3 near Manez."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Camp Ashraf-3 is the specific MEK compound whose presence in Albania motivated the HomeLand Justice cyberattack."
+}

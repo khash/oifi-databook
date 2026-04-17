@@ -1,0 +1,21 @@
+{
+  "entity_id": "meir-dagan-organized-mostafa-ahmadi-roshan",
+  "from_entity": "meir-dagan",
+  "to_entity": "mostafa-ahmadi-roshan",
+  "type": "organized",
+  "confidence": "alleged",
+  "date_from": "2012-01-11",
+  "date_to": "2012-01-11",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Assassination_of_Iranian_nuclear_scientists",
+      "source_title": "Assassination of Iranian nuclear scientists — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "The assassination of Mostafa Ahmadi Roshan on 11 January 2012 was the final killing in the campaign Dagan initiated. While Dagan had left the Mossad directorship in January 2011, the programme he designed continued under his successor Tamir Pardo."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Ahmadi Roshan was killed after Dagan left office in January 2011; the connection reflects that he initiated and designed the programme that continued under Pardo. Attribution alleged."
+}

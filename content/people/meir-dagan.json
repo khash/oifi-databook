@@ -1,0 +1,41 @@
+{
+  "entity_id": "meir-dagan",
+  "slug": "meir-dagan",
+  "name_en": "Meir Dagan",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "aliases": [
+    "Meir Dagan"
+  ],
+  "born": 1945,
+  "birthplace": "Novosibirsk, Soviet Union (present-day Russia)",
+  "died": 2016,
+  "role": "Director of the Mossad (2002–2011); architect of Israel's covert campaign against Iran's nuclear programme",
+  "faction": null,
+  "bio": "Meir Dagan was the Director of [Mossad](/orgs/mossad), Israel's national intelligence agency, from 2002 to 2011. He was recruited for the role by Prime Minister Ariel Sharon, who instructed him to give the Palestinians 'a knife in their teeth.' Dagan was born in 1945 on a train in the Soviet Union during his family's post-war flight westward. He immigrated to Israel and built a career in the Israeli military, rising to become a decorated general in the Israel Defense Forces before entering intelligence.\n\nAs Mossad director, Dagan is widely credited with designing and executing Israel's most aggressive covert campaign against Iran's nuclear programme. This included an extensive network of sabotage operations, cyberattacks (including the Stuxnet worm, developed jointly with the United States), and a systematic assassination programme targeting Iranian nuclear scientists and programme officials. The [2010–2012 nuclear scientist assassination campaign](/events/iran-nuclear-scientist-assassinations-2010) — which claimed the lives of [Majid Shahriari](/people/majid-shahriari), [Daryoush Rezaei](/people/daryoush-rezaei), and [Mostafa Ahmadi Roshan](/people/mostafa-ahmadi-roshan), among others — was initiated and largely overseen during Dagan's tenure.\n\nDagan consistently argued that covert sabotage and targeted killings were a strategically superior alternative to open military strikes on Iran's nuclear facilities. This put him in quiet but significant tension with Prime Minister Benjamin Netanyahu, who favoured the military option. After leaving the Mossad in January 2011, Dagan became an outspoken public critic of Netanyahu's approach, warning in public interviews that an Israeli military strike on Iran would be 'the stupidest thing I have ever heard' and would trigger a regional war. He testified before the Knesset Foreign Affairs and Defence Committee and gave interviews to Israeli media warning that Netanyahu and then-Defence Minister Ehud Barak were pushing Israel toward unnecessary war. He was succeeded as Mossad director by [Tamir Pardo](/people/tamir-pardo), who continued the covert campaign.\n\nDagan was diagnosed with liver cancer in 2011 and underwent a transplant. He died on 17 March 2016 in Tel Aviv, aged 71.",
+  "irgc_member": false,
+  "expertise": [
+    "intelligence",
+    "covert-operations"
+  ],
+  "tags": [
+    "intelligence",
+    "deceased"
+  ],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Meir_Dagan",
+      "title": "Meir Dagan — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/03/18/world/middleeast/meir-dagan-mossad-spy-chief-who-pioneered-covert-war-against-iran-dies-at-71.html",
+      "title": "Meir Dagan, Mossad Spy Chief Who Pioneered Covert War Against Iran, Dies at 71",
+      "date": "2016-03-18",
+      "publisher": "New York Times"
+    }
+  ],
+  "editorial_notes": "Israeli national. Born 1945 on a train in Soviet Union; died 17 March 2016. Mossad director 2002–2011. Architect of covert campaign against Iran's nuclear programme including assassination programme. Opposed Netanyahu's military strike plans after leaving office. Succeeded by Tamir Pardo."
+}

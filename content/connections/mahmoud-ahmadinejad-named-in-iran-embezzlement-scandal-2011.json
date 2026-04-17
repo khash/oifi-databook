@@ -1,0 +1,22 @@
+{
+  "entity_id": "mahmoud-ahmadinejad-named-in-iran-embezzlement-scandal-2011",
+  "from_entity": "mahmoud-ahmadinejad",
+  "to_entity": "iran-embezzlement-scandal-2011",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2011",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2011_Iranian_embezzlement_scandal",
+      "source_title": "2011 Iranian embezzlement scandal — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "The scandal occurred under Ahmadinejad's government and was used by political rivals to attack his administration; impeachment proceedings against his Finance Minister Hosseini were linked to the fraud."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": [],
+  "editorial_notes": "Scandal damaged Ahmadinejad's second term politically; occurred under his government's watch."
+}

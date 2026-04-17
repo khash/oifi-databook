@@ -1,0 +1,21 @@
+{
+  "entity_id": "mostafa-khomeini-family-of-hussein-khomeini",
+  "from_entity": "mostafa-khomeini",
+  "to_entity": "hussein-khomeini",
+  "type": "family-of",
+  "symmetric": true,
+  "family_subtype": "parent",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hussein_Khomeini",
+      "source_title": "Hussein Khomeini — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Hussein Khomeini is the son of Mostafa Khomeini, who was Ruhollah Khomeini's eldest son."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": "Mostafa is the father of Hussein. Mostafa died in 1977 when Hussein was approximately 18."
+}

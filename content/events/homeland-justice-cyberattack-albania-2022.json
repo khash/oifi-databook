@@ -1,0 +1,37 @@
+{
+  "entity_id": "homeland-justice-cyberattack-albania-2022",
+  "slug": "homeland-justice-cyberattack-albania-2022",
+  "name": "HomeLand Justice Cyberattack on Albania",
+  "date": "2022-07-15",
+  "type": "leak",
+  "description": "In July 2022, Iran-linked state cyber actors operating under the name 'HomeLand Justice' launched a destructive large-scale cyberattack against Albanian government digital infrastructure, rendering government websites and public-facing services unavailable and destroying government data. The attack involved a combination of ransomware, wiper malware, and data exfiltration.\n\nA joint advisory issued on 21 September 2022 by the United States Cybersecurity and Infrastructure Security Agency (CISA) and the Federal Bureau of Investigation (FBI) attributed the attack to Iranian state actors affiliated with the [IRGC Intelligence Organisation](/orgs/irgc-intelligence-organisation), who had first gained access to Albanian government networks in approximately May 2021 — more than 14 months before launching the destructive payload. The advisory noted the unusually long dwell time suggested deliberate, patient pre-positioning.\n\nThe attributed motivation was retaliation against Albania for hosting the [Mojahedin-e Khalq](/orgs/mojahedin-e-khalq) (MEK) at [Camp Ashraf-3](/orgs/camp-ashraf-3). On 6 September 2022, Albanian Prime Minister Edi Rama announced the attack's attribution to Iran and declared Albania was severing all diplomatic relations with the Islamic Republic — the first known instance of a country cutting diplomatic ties specifically over a cyberattack — expelling all Iranian embassy staff within 24 hours. This event is recorded separately as the [Albania severs diplomatic relations with Iran](/events/albania-severs-diplomatic-relations-with-iran-2022) event.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-264a",
+      "title": "Iranian State Actors Conduct Cyber Operations Against the Government of Albania",
+      "date": "2022-09-21",
+      "publisher": "CISA"
+    },
+    {
+      "url": "https://www.ic3.gov/CSA/2022/220921.pdf",
+      "title": "Iranian State Actors Conduct Cyber Operations Against the Government of Albania",
+      "date": "2022-09-21",
+      "publisher": "FBI / IC3"
+    },
+    {
+      "url": "https://cyberlaw.ccdcoe.org/wiki/Homeland_Justice_operations_against_Albania_(2022)",
+      "title": "Homeland Justice operations against Albania (2022) — CCDCOE Cyber Law Toolkit",
+      "date": "2023-01-01",
+      "publisher": "CCDCOE"
+    },
+    {
+      "url": "https://www.mei.edu/publications/irans-balkan-front-roots-and-consequences-iranian-cyberattacks-against-albania",
+      "title": "Iran's Balkan front: The roots and consequences of Iranian cyberattacks against Albania",
+      "date": "2022-10-01",
+      "publisher": "Middle East Institute"
+    }
+  ],
+  "tags": ["intelligence", "proxy-warfare"],
+  "editorial_notes": "Attack date commonly cited as 15 July 2022 (the date services went down). Actors had network access since ~May 2021 — over 14 months of pre-positioning. CISA/FBI advisory AA22-264A published 21 September 2022. Directly caused Albania to sever diplomatic relations 6 September 2022. HomeLand Justice group attributed to IRGC-IO."
+}

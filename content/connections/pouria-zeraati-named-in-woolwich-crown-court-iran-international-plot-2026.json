@@ -1,0 +1,21 @@
+{
+  "entity_id": "pouria-zeraati-named-in-woolwich-crown-court-iran-international-plot-2026",
+  "from_entity": "pouria-zeraati",
+  "to_entity": "woolwich-crown-court-iran-international-plot-2026",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202506058630",
+      "source_title": "Three Iranians charged in UK spying case set to face trial",
+      "source_date": "2025-06-05",
+      "description": "Prosecution case identifies Iran International journalists, including Pouria Zeraati, as the targets of the surveillance and reconnaissance operations charged in this case."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Zeraati was among the Iran International journalists targeted by the surveillance operations that form the basis of the prosecution."
+}

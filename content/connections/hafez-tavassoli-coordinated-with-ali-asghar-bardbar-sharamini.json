@@ -1,0 +1,21 @@
+{
+  "entity_id": "hafez-tavassoli-coordinated-with-ali-asghar-bardbar-sharamini",
+  "from_entity": "hafez-tavassoli",
+  "to_entity": "ali-asghar-bardbar-sharamini",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "2025",
+  "date_to": "2026-03",
+  "evidence": [
+    {
+      "source_url": "https://report.az/en/domestic-politics/azerbaijan-foils-planned-terror-attacks-linked-to-iran-s-revolutionary-guard",
+      "source_title": "State Security Service exposes IRGC terror plans in Azerbaijan",
+      "source_date": "2026-03-06",
+      "description": "Azerbaijan's DTX identified Hafez Tavassoli as the ground coordinator operating under the direction of Ali-Asghar Bardbar Sharamini, the senior IRGC officer named as planner of the Baku terror plot."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "meir-dagan-organized-daryoush-rezaei",
+  "from_entity": "meir-dagan",
+  "to_entity": "daryoush-rezaei",
+  "type": "organized",
+  "confidence": "alleged",
+  "date_from": "2011-07-23",
+  "date_to": "2011-07-23",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Dariush_Rezaeinejad",
+      "source_title": "Dariush Rezaeinejad — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Daryoush Rezaei was shot dead on 23 July 2011. An Israeli intelligence source told Der Spiegel the operation was the first public operation by new Mossad chief Tamir Pardo; the campaign was initiated under Dagan's directorship and the institutional architecture he built. The killing occurred six months after Dagan left office."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Rezaei was killed six months after Dagan left the Mossad directorship; the connection reflects the programme he designed and institutionalised. Attribution alleged. Pardo is more directly connected to this specific killing."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "albanian-police-raid-camp-ashraf-3-2023-named-in-albania-severs-diplomatic-relations-with-iran-2022",
+  "from_entity": "albanian-police-raid-camp-ashraf-3-2023",
+  "to_entity": "albania-severs-diplomatic-relations-with-iran-2022",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2023-06-20",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.aljazeera.com/news/2023/6/21/why-was-this-iran-dissident-group-raided-in-europe",
+      "source_title": "Why was this Iran dissident group raided in Europe?",
+      "source_date": "2023-06-21",
+      "description": "The 2023 raid occurred in the context of ongoing Albania-Iran tensions, less than a year after Albania severed diplomatic relations with Iran in September 2022. Albanian authorities cited suspicion of cyberattacks as part of the raid justification."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Contextual link: raid occurred against the backdrop of the 2022 diplomatic severance and ongoing Albania-Iran tensions over MEK."
+}

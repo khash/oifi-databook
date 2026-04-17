@@ -1,0 +1,27 @@
+{
+  "entity_id": "ali-al-sistani-opposed-ruhollah-khomeini",
+  "from_entity": "ali-al-sistani",
+  "to_entity": "ruhollah-khomeini",
+  "type": "opposed",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_al-Sistani",
+      "source_title": "Ali al-Sistani — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Sistani adheres to the quietist Najaf tradition and rejects the doctrine of velayat-e faqih (Guardianship of the Jurist) championed by Khomeini and institutionalized in the Islamic Republic of Iran. This theological and political opposition is a defining feature of Sistani's approach."
+    },
+    {
+      "source_url": "https://www.britannica.com/biography/Ali-al-Sistani",
+      "source_title": "Ali al-Sistani — Britannica",
+      "source_date": "2024-01-01",
+      "description": "Sistani's quietist approach stands in fundamental contrast to the activist political role for clerics advocated by Khomeini."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Sistani's opposition is doctrinal — his quietism vs. Khomeini's velayat-e faqih — rather than a direct personal confrontation. Both figures are deceased or active in different eras."
+}

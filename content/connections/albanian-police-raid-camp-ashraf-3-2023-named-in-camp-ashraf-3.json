@@ -1,0 +1,21 @@
+{
+  "entity_id": "albanian-police-raid-camp-ashraf-3-2023-named-in-camp-ashraf-3",
+  "from_entity": "albanian-police-raid-camp-ashraf-3-2023",
+  "to_entity": "camp-ashraf-3",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2023-06-20",
+  "date_to": "2023-06-20",
+  "evidence": [
+    {
+      "source_url": "https://www.aljazeera.com/news/2023/6/21/why-was-this-iran-dissident-group-raided-in-europe",
+      "source_title": "Why was this Iran dissident group raided in Europe?",
+      "source_date": "2023-06-21",
+      "description": "The June 2023 Albanian police raid was conducted at Camp Ashraf-3 near Manez, Durres County — the MEK's compound in Albania."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "The raid took place at Camp Ashraf-3 and is already mentioned in the camp's entity description."
+}

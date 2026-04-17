@@ -1,0 +1,21 @@
+{
+  "entity_id": "nouri-al-maliki-coordinated-with-hassan-kazemi-qomi",
+  "from_entity": "nouri-al-maliki",
+  "to_entity": "hassan-kazemi-qomi",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "2006",
+  "date_to": "2010",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hassan_Kazemi_Qomi",
+      "source_title": "Hassan Kazemi Qomi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Hassan Kazemi Qomi served as Iran's ambassador to Iraq from 2005 to approximately 2010, the period coinciding with al-Maliki's first and most of his second term as Prime Minister. As a Quds Force operative serving as ambassador, Kazemi Qomi was Iran's primary diplomatic and intelligence interface with the Iraqi government under al-Maliki."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Kazemi Qomi was Iran's ambassador to Iraq 2005–~2010, coordinating closely with al-Maliki's government as Iran's primary envoy and Quds Force representative."
+}

@@ -1,0 +1,28 @@
+{
+  "entity_id": "mahmoud-ahmadinejad-organized-iranian-oil-bourse-opening-2008",
+  "from_entity": "mahmoud-ahmadinejad",
+  "to_entity": "iranian-oil-bourse-opening-2008",
+  "type": "organized",
+  "confidence": "confirmed",
+  "date_from": "2008-02-17",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Iranian_Oil_Bourse",
+      "source_title": "Iranian Oil Bourse — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "The Iranian Oil Bourse was a key policy initiative of Ahmadinejad's government, intended to challenge dollar dominance in oil trading."
+    },
+    {
+      "source_url": "https://www.reuters.com/article/iran-oil-bourse-idUSL1736906920080217",
+      "source_title": "Iran opens oil bourse, but dollar trade continues",
+      "source_date": "2008-02-17",
+      "description": "Reuters reported the opening as a government policy action under Ahmadinejad's administration."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": [],
+  "editorial_notes": "The oil bourse was a flagship economic policy of Ahmadinejad's first term."
+}

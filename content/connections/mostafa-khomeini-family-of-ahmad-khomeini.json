@@ -1,0 +1,21 @@
+{
+  "entity_id": "mostafa-khomeini-family-of-ahmad-khomeini",
+  "from_entity": "mostafa-khomeini",
+  "to_entity": "ahmad-khomeini",
+  "type": "family-of",
+  "symmetric": true,
+  "family_subtype": "sibling",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Khomeini_family",
+      "source_title": "Khomeini family — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Mostafa and Ahmad were both sons of Ruhollah Khomeini, making them brothers."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": "Mostafa was the elder brother; Ahmad was born 1946."
+}

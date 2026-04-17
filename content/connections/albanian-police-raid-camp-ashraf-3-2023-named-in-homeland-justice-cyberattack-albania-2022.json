@@ -1,0 +1,21 @@
+{
+  "entity_id": "albanian-police-raid-camp-ashraf-3-2023-named-in-homeland-justice-cyberattack-albania-2022",
+  "from_entity": "albanian-police-raid-camp-ashraf-3-2023",
+  "to_entity": "homeland-justice-cyberattack-albania-2022",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2023-06-20",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.aljazeera.com/news/2023/6/21/why-was-this-iran-dissident-group-raided-in-europe",
+      "source_title": "Why was this Iran dissident group raided in Europe?",
+      "source_date": "2023-06-21",
+      "description": "Albanian police cited suspicions of cyberattack activity connected to MEK members as a justification for the 2023 raid, invoking the context of the 2022 HomeLand Justice cyberattack attributed to Iran."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "The 2023 raid occurred partly in the context of Albania-Iran cyber tensions stemming from the July 2022 HomeLand Justice attack."
+}

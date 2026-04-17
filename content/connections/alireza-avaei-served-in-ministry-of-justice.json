@@ -1,0 +1,21 @@
+{
+  "entity_id": "alireza-avaei-served-in-ministry-of-justice",
+  "from_entity": "alireza-avaei",
+  "to_entity": "ministry-of-justice",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2017",
+  "date_to": "2021",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Alireza_Avayi",
+      "source_title": "Alireza Avayi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Avaei served as Minister of Justice from 20 August 2017 to 25 August 2021, appointed by President Rouhani and confirmed by parliament with 244 votes in favour."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Minister of Justice 20 Aug 2017 – 25 Aug 2021. Rouhani's second-term cabinet."
+}

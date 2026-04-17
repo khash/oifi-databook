@@ -1,0 +1,32 @@
+{
+  "entity_id": "mehdi-ahmadinejad",
+  "slug": "mehdi-ahmadinejad",
+  "name_en": "Mehdi Ahmadinejad",
+  "name_fa": "مهدی احمدی‌نژاد",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Son of former President Mahmoud Ahmadinejad; political-family network node",
+  "faction": "hardliner",
+  "bio": "Mehdi Ahmadinejad is the elder son of former President [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad). His marriage to the daughter of [Esfandiar Rahim Mashaei](/people/esfandiar-rahim-mashaei) — completed around 2008 — cemented the personal bond between two of the most powerful figures in the Ahmadinejad circle and is widely cited as a key element of the 'deviant current' (jaryān-e enherafī) family network. The marriage made Ahmadinejad and Mashaei fathers-in-law to each other's children, a relationship that deepened their political and personal alliance throughout the presidency (2005–2013) and its turbulent aftermath.\n\nAs the political and legal pressure on the Ahmadinejad circle intensified after 2017 — with Mashaei sentenced to prison in 2018 and [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad) himself subjected to movement restrictions and judicial harassment — Mehdi Ahmadinejad has faced his own brushes with Iranian judicial authorities, consistent with the broader pattern of state pressure against the family network.",
+  "irgc_member": false,
+  "expertise": [],
+  "tags": [],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Esfandiar_Rahim_Mashaei",
+      "title": "Esfandiar Rahim Mashaei — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.newsweek.com/ahmadinejads-rasputin-esfandiar-rahim-mashaei-66243",
+      "title": "Ahmadinejad's Rasputin: Esfandiar Rahim Mashaei",
+      "date": "2011-03-04",
+      "publisher": "Newsweek"
+    }
+  ],
+  "editorial_notes": "Elder son of Mahmoud Ahmadinejad. Married Mashaei's daughter c. 2008. Family tie confirmed in multiple sources. No reliable DOB found."
+}

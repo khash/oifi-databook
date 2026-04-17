@@ -1,0 +1,25 @@
+{
+  "entity_id": "iranian-oil-bourse-opening-2008",
+  "slug": "iranian-oil-bourse-opening-2008",
+  "name": "Iranian Oil Bourse Opening (2008)",
+  "date": "2008-02-17",
+  "type": "policy",
+  "description": "The Iranian Oil Bourse (International Oil Bourse on Kish Island) opened on 17 February 2008, establishing a commodity exchange for trading oil and petrochemical products in Iranian rials and other non-dollar currencies. The bourse was a signature policy of the [Mahmoud Ahmadinejad](/people/mahmoud-ahmadinejad) government, aimed at reducing reliance on the US dollar in global oil trade and circumventing Western financial pressure. Finance Minister [Davoud Danesh-Jafari](/people/davoud-danesh-jafari) was closely involved in its creation as part of his tenure overseeing economic policy. The bourse was established on Kish Island in the Persian Gulf, designated as a free trade zone. While hailed domestically as a challenge to dollar dominance, its actual trading volumes remained limited relative to global oil markets.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Iranian_Oil_Bourse",
+      "title": "Iranian Oil Bourse — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.reuters.com/article/iran-oil-bourse-idUSL1736906920080217",
+      "title": "Iran opens oil bourse, but dollar trade continues",
+      "date": "2008-02-17",
+      "publisher": "Reuters"
+    }
+  ],
+  "tags": ["diplomacy"],
+  "editorial_notes": "Opened 17 February 2008 on Kish Island. Designed to trade oil in non-dollar currencies. Davoud Danesh-Jafari's Wikipedia article explicitly notes his involvement in creating it. Symbolically significant but limited practical impact on dollar dominance."
+}

@@ -1,0 +1,35 @@
+{
+  "entity_id": "metropolitan-police-counter-terrorism-command",
+  "slug": "metropolitan-police-counter-terrorism-command",
+  "name_en": "Metropolitan Police Counter Terrorism Command (SO15)",
+  "name_fa": null,
+  "has_native_fa_name": false,
+  "type": "state-institution",
+  "founded": 2006,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Counter Terrorism Command (SO15), part of the Metropolitan Police Service, is the UK's lead police unit for terrorism investigations. Formed in October 2006 through the merger of the Anti-Terrorist Branch (SO13) and Special Branch (SO12), SO15 has more than 1,500 officers and staff. It works in close partnership with MI5 and MI6 and leads investigations into state-sponsored assassination plots targeting individuals on UK soil.\n\nSO15 led the investigation into the March 2024 stabbing of [Iran International](/orgs/iran-international) journalist [Pouria Zeraati](/people/pouria-zeraati) outside his Wimbledon home, treating it as a potential state-directed attack. In May 2025 SO15 arrested and charged [Mostafa Sepahvand](/people/mostafa-sepahvand), [Farhad Javadi Manesh](/people/farhad-javadi-manesh), and [Shapoor Qalehali Khani Noori](/people/shapoor-qalehali-khani-noori) under the [National Security Act 2023 (UK)](/events/national-security-act-2023-uk) for conducting surveillance and reconnaissance against Iran International journalists on behalf of Iran's [Ministry of Intelligence](/orgs/ministry-of-intelligence). This was the first prosecution of Iranian nationals under the National Security Act 2023. The three defendants face trial at the [Woolwich Crown Court](/events/woolwich-crown-court-iran-international-plot-2026) from 5 October 2026.\n\nSince January 2022, SO15 and MI5 have responded to more than 20 Iran-backed plots presenting potentially lethal threats to individuals in the United Kingdom.",
+  "faction": null,
+  "tags": ["intelligence"],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Counter_Terrorism_Command",
+      "title": "Counter Terrorism Command — Wikipedia",
+      "date": "2023-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.gov.uk/government/speeches/update-on-counter-terrorism-policing-operations",
+      "title": "Update on counter-terrorism policing operations",
+      "date": "2025-05-04",
+      "publisher": "UK Government"
+    },
+    {
+      "url": "https://www.cps.gov.uk/cps/news/three-men-charged-national-security-act-offences",
+      "title": "Three men charged with National Security Act offences",
+      "date": "2025-05-17",
+      "publisher": "Crown Prosecution Service"
+    }
+  ],
+  "editorial_notes": "SO15 = Specialist Operations unit 15. Formed October 2006 from merger of SO13 (Anti-Terrorist Branch) and SO12 (Special Branch). Over 1,500 officers and staff. Works with MI5 and MI6."
+}

@@ -1,0 +1,39 @@
+{
+  "entity_id": "ali-al-sistani",
+  "slug": "ali-al-sistani",
+  "name_en": "Grand Ayatollah Ali al-Sistani",
+  "name_fa": "علی حسینی سیستانی",
+  "has_native_fa_name": true,
+  "aliases": ["Ali Husayni Sistani", "Sayyid Ali al-Husayni al-Sistani", "Ali Sistani"],
+  "born": 1930,
+  "birthplace": "Mashhad, Iran",
+  "died": null,
+  "role": "Grand Ayatollah; senior marja in Najaf (1992–present)",
+  "faction": null,
+  "bio": "Grand Ayatollah Ali al-Sistani is the foremost Shia Muslim religious authority in the world and the senior marja (source of emulation) in Najaf, Iraq. Born in Mashhad, Iran in 1930, he moved to Najaf as a young student where he studied under [Grand Ayatollah Abu al-Qasim al-Khoei](/people/abu-al-qasim-al-khoei). Upon al-Khoei's death in August 1992, Sistani led his funeral prayers and gradually emerged as his successor as the leading marja.\n\nSistani adheres to the quietist Najaf tradition — the belief that senior clerics should guide society through religious authority and moral persuasion rather than direct political governance. This position places him in fundamental contrast to the doctrine of velayat-e faqih (Guardianship of the Jurist) championed by [Ruhollah Khomeini](/people/ruhollah-khomeini) and institutionalized in the Islamic Republic of Iran.\n\nHis interventions in Iraqi politics have been pivotal. In 2003, following the US-led invasion, he issued a fatwa declaring that Iraqis must have the right to vote for a transitional assembly rather than having it appointed, a ruling that forced the United States to accept elections. In June 2014, as ISIS swept across northern Iraq, he issued a fatwa calling on able-bodied Iraqis to take up arms to defend the country — the call that mobilized hundreds of thousands of volunteers and led to the formation of the Popular Mobilization Forces. Despite this mobilization, Sistani has consistently resisted attempts by Iran to bring the PMF fully under Iranian direction.\n\nSistani has lived under a degree of restriction and remained largely reclusive in Najaf throughout his tenure. He has rarely left his home and communicates through representatives.",
+  "irgc_member": false,
+  "expertise": ["Islamic jurisprudence", "Quranic exegesis", "hadith sciences", "usul al-fiqh"],
+  "tags": ["clerical"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ali_al-Sistani",
+      "title": "Ali al-Sistani — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.britannica.com/biography/Ali-al-Sistani",
+      "title": "Ali al-Sistani — Britannica",
+      "date": "2024-01-01",
+      "publisher": "Britannica"
+    },
+    {
+      "url": "https://www.sistani.org/english/",
+      "title": "The Official Website of Grand Ayatollah Sistani",
+      "date": "2024-01-01",
+      "publisher": "Sistani.org"
+    }
+  ],
+  "editorial_notes": "Born 4 August 1930 in Mashhad. Studied under al-Khoei in Najaf. Emerged as senior marja after al-Khoei's death in 1992. Quietist tradition — opposes direct clerical rule. 2003 fatwa demanding elections; 2014 jihad fatwa against ISIS. Lives in Najaf."
+}

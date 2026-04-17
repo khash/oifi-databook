@@ -1,0 +1,21 @@
+{
+  "entity_id": "asaib-ahl-al-haq-affiliated-with-popular-mobilization-forces",
+  "from_entity": "asaib-ahl-al-haq",
+  "to_entity": "popular-mobilization-forces",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "2014",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Asa%27ib_Ahl_al-Haq",
+      "source_title": "Asa'ib Ahl al-Haq — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "After 2014, Asa'ib Ahl al-Haq was incorporated into the Popular Mobilization Forces, fielding forces in the 41st, 42nd, and 43rd PMF Brigades."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

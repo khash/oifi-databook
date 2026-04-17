@@ -1,0 +1,21 @@
+{
+  "entity_id": "mahboobeh-hosseinpour-family-of-ardeshir-hosseinpour",
+  "from_entity": "mahboobeh-hosseinpour",
+  "to_entity": "ardeshir-hosseinpour",
+  "type": "family-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.haaretz.com/2014-10-02/ty-article/sister-of-murdered-physicist-iran-did-it-not-israel/0000017f-e546-df5f-a17f-ffdef88c0000",
+      "source_title": "Sister of Murdered Iranian Nuclear Scientist Blames Revolutionary Guards",
+      "source_date": "2014-10-02",
+      "description": "Haaretz and multiple other outlets identify Mahboobeh Hosseinpour as the sister of nuclear scientist Ardeshir Hosseinpour, who died in January 2007."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": "sibling",
+  "editorial_notes": "Mahboobeh is Ardeshir's sister. She spoke publicly about his death in 2014, living in Turkey."
+}

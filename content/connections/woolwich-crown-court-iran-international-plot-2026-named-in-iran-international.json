@@ -1,0 +1,21 @@
+{
+  "entity_id": "woolwich-crown-court-iran-international-plot-2026-named-in-iran-international",
+  "from_entity": "woolwich-crown-court-iran-international-plot-2026",
+  "to_entity": "iran-international",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.cps.gov.uk/cps/news/three-men-charged-national-security-act-offences",
+      "source_title": "Three men charged with National Security Act offences",
+      "source_date": "2025-05-17",
+      "description": "The surveillance operations at the centre of the prosecution targeted journalists working for Iran International."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Iran International journalists were the targets of the surveillance operations prosecuted in this case."
+}

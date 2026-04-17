@@ -1,0 +1,38 @@
+{
+  "entity_id": "mohsen-ruholamini",
+  "slug": "mohsen-ruholamini",
+  "name_en": "Mohsen Ruholamini",
+  "name_fa": "محسن روح‌الامینی",
+  "has_native_fa_name": true,
+  "aliases": ["Mohsen Rouholamini", "Mohsen Rouholamini Najafabadi"],
+  "born": 1984,
+  "birthplace": "Iran",
+  "role": "Student; victim of torture at Kahrizak detention center following 2009 Green Movement protests",
+  "faction": "opposition",
+  "bio": "Mohsen Ruholamini was a 25-year-old Iranian student who was arrested on 9 July 2009 during the [Green Movement protests](/events/green-movement-protests-2009) following the disputed presidential election. He was transferred to the Kahrizak Detention Center in southern Tehran, where he was subjected to severe torture — beatings so extreme they broke his jaw, causing infections that were deliberately left untreated.\n\nPhysician [Ramin Pourandarjani](/people/ramin-pourandarjani), who examined him two days before his death, reported he was in a 'dreadful condition' after 'intense physical torture.' Ruholamini died in late July 2009 as a result of his injuries. The medical examiner concluded he died of 'physical stress, the effects of being held in bad conditions, multiple blows and severe injuries to the body.'\n\nHis case became politically explosive because he was the son of Abdolhossein Ruholamini, a prominent principlist intellectual who had served as an adviser to Mohsen Rezaei during his 2009 presidential campaign. That a conservative insider's son had been killed in custody made it difficult for the establishment to suppress the Kahrizak story. Supreme Leader Ali Khamenei was reported to have ordered an investigation specifically following public outrage over Ruholamini's death, and subsequently ordered Kahrizak closed.\n\nA parliamentary investigation implicated Tehran Prosecutor-General [Saeed Mortazavi](/people/saeed-mortazavi) as the official responsible for ordering the illegal detention. Mortazavi was eventually sentenced in 2017 to two years' imprisonment as an accomplice to murder and for illegal detention in connection with Ruholamini's death — one of the few instances of any official accountability for the Kahrizak atrocities.",
+  "irgc_member": false,
+  "expertise": [],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mohsen_Rouholamini",
+      "title": "Mohsen Rouholamini — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.iranrights.org/memorial/story/61802/mohsen-ruholamini",
+      "title": "Mohsen Ruholamini: One Person's Story",
+      "date": "2009-08-01",
+      "publisher": "Abdorrahman Boroumand Center"
+    },
+    {
+      "url": "https://iranhumanrights.org/2017/11/tehran-prosecutor-saeed-mortazavi-to-serve-two-year-prison-term-for-protestors-death/",
+      "title": "Tehran Prosecutor Saeed Mortazavi to Serve Two-Year Prison Term for Protestor's Death",
+      "date": "2017-11-01",
+      "publisher": "Center for Human Rights in Iran"
+    }
+  ],
+  "tags": ["green-movement", "human-rights", "deceased"],
+  "photo": null,
+  "editorial_notes": "Born 20 May 1984. Arrested 9 July 2009. Died late July 2009 at Kahrizak. Son of Abdolhossein Ruholamini, principlist adviser to Mohsen Rezaei 2009 presidential campaign. Mortazavi sentenced 2017 specifically for his death."
+}

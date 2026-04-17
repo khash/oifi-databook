@@ -1,0 +1,37 @@
+{
+  "entity_id": "iran-drone-strikes-nakhchivan-2026",
+  "slug": "iran-drone-strikes-nakhchivan-2026",
+  "name": "Iranian Drone Strikes on Nakhchivan",
+  "date": "2026-03-05",
+  "type": "policy",
+  "description": "On 5 March 2026, Iran's armed forces launched drone strikes against Azerbaijan's Nakhchivan exclave — the first direct military spillover of the broader 2026 Israel-Iran conflict into the South Caucasus. According to Azerbaijan's Ministry of Defense, four Iranian unmanned aerial vehicles were directed toward Nakhchivan; one was intercepted by Azerbaijani air defenses while others struck civilian infrastructure. One drone hit the passenger terminal of Nakhchivan International Airport (Razi Airport), and a second fell near a school in the village of Shakarabad. At least four civilians were injured.\n\nAzerbaijan's President Ilham Aliyev condemned the strikes as a gross violation of sovereignty and summoned the Iranian ambassador. The European Union and Turkey issued strong condemnations. Iranian President Masoud Pezeshkian denied Iranian involvement and called for an investigation. The [Islamic Revolutionary Guard Corps](/orgs/islamic-revolutionary-guard-corps) did not publicly claim responsibility.\n\nThe incident was widely interpreted as Tehran signaling displeasure with Azerbaijan's strategic alignment with Israel and Turkey during the ongoing regional war. The strikes preceded by one day Azerbaijan's announcement that it had foiled a major [IRGC terror plot](/events/azerbaijan-irgc-terror-plot-foiled-2026) targeting the Baku-Tbilisi-Ceyhan pipeline, the Israeli embassy, and Jewish community sites in Baku.",
+  "body": null,
+  "sources": [
+    {
+      "url": "https://www.euronews.com/2026/03/05/iranian-drones-strike-azerbaijans-razi-airport-in-nakhchivan",
+      "title": "Iranian drones strike Azerbaijan's Nakhchivan international airport",
+      "date": "2026-03-05",
+      "publisher": "Euronews"
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2026/3/5/iranian-drones-hit-airport-in-azerbaijans-exclave-as-us-israel-war-widens",
+      "title": "Iran denies its drones hit airport in Azerbaijan's exclave as war widens",
+      "date": "2026-03-05",
+      "publisher": "Al Jazeera"
+    },
+    {
+      "url": "https://www.iranintl.com/en/202603053720",
+      "title": "Azerbaijan's Aliyev calls Iran drone hits on airport an outrage",
+      "date": "2026-03-05",
+      "publisher": "Iran International"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2026_Iranian_strikes_on_Azerbaijan",
+      "title": "2026 Iranian strikes on Azerbaijan — Wikipedia",
+      "date": "2026-03-05",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "tags": ["military", "proxy-warfare"],
+  "editorial_notes": "Iran denied involvement; Azerbaijani technical monitoring confirmed Iranian UAVs. Four drones total: one intercepted, one hit airport terminal, one near Shakarabad school. At least 4 civilians injured."
+}

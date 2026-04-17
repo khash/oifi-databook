@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-mussa-daqduq-coordinated-with-qais-khazali",
+  "from_entity": "ali-mussa-daqduq",
+  "to_entity": "qais-khazali",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "2006",
+  "date_to": "2007",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Musa_Daqduq",
+      "source_title": "Ali Musa Daqduq — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Daqduq served as a senior Hezbollah adviser to Qais al-Khazali and the Asa'ib Ahl al-Haq network; both were captured together in Basra in March 2007."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Both captured in Basra March 2007. Daqduq served as senior Hezbollah adviser to Khazali."
+}

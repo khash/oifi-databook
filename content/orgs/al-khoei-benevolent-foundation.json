@@ -1,0 +1,25 @@
+{
+  "entity_id": "al-khoei-benevolent-foundation",
+  "slug": "al-khoei-benevolent-foundation",
+  "name_en": "Al-Khoei Benevolent Foundation",
+  "name_fa": "مؤسسه خیریه خویی",
+  "has_native_fa_name": false,
+  "type": "ngo",
+  "founded": 1989,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The Al-Khoei Benevolent Foundation is an international Shia Islamic charitable and educational organization founded by [Grand Ayatollah Abu al-Qasim al-Khoei](/people/abu-al-qasim-al-khoei) and headquartered in London, United Kingdom. It was established to promote Shia Islamic learning, culture, and charitable work worldwide. The foundation operates Islamic centers, mosques, and educational institutions across Europe, North America, and other regions.\n\nFollowing the death of its founder in 1992, the Foundation continued under the stewardship of his family and associates. [Grand Ayatollah Ali al-Sistani](/people/ali-al-sistani), as al-Khoei's successor and the leading marja of Najaf, maintains an institutional affiliation with the foundation's mission of spreading quietist Shia scholarship and humanitarian relief.\n\nThe foundation gained international attention in April 2003 when Abd al-Majid al-Khoei — son of its founder and a representative sent to post-Saddam Najaf — was murdered in the Imam Ali Shrine in Najaf shortly after the US-led invasion of Iraq, a killing widely attributed to supporters of Muqtada al-Sadr.",
+  "faction": null,
+  "sources": [
+    {
+      "url": "https://www.al-khoei.org/",
+      "title": "Al-Khoei Benevolent Foundation — Official Website",
+      "date": "2024-01-01",
+      "publisher": "Al-Khoei Foundation"
+    }
+  ],
+  "tags": [
+    "clerical"
+  ],
+  "editorial_notes": "Founded c. 1989 by Grand Ayatollah al-Khoei. HQ in London. Promotes quietist Shia scholarship and charitable work. Abd al-Majid al-Khoei (founder's son) murdered in Najaf April 2003 — major figure for the foundation's post-Saddam engagement."
+}

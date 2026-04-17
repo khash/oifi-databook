@@ -1,0 +1,21 @@
+{
+  "entity_id": "meir-dagan-organized-majid-shahriari",
+  "from_entity": "meir-dagan",
+  "to_entity": "majid-shahriari",
+  "type": "organized",
+  "confidence": "alleged",
+  "date_from": "2010-11-29",
+  "date_to": "2010-11-29",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Assassination_of_Iranian_nuclear_scientists",
+      "source_title": "Assassination of Iranian nuclear scientists — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "The killing of Majid Shahriari on 29 November 2010 occurred during Meir Dagan's tenure as Mossad director; the assassination campaign is widely attributed to Mossad under his leadership."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Attribution is alleged; Israel has not officially confirmed responsibility."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "alireza-avaei-affiliated-with-judiciary-of-iran",
+  "from_entity": "alireza-avaei",
+  "to_entity": "judiciary-of-iran",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "1979",
+  "date_to": "2017",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Alireza_Avayi",
+      "source_title": "Alireza Avayi — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Avaei spent his entire career before becoming Justice Minister within the Iranian judiciary, serving as prosecutor in Dezful (1979–1988), chief justice of multiple provinces, President of Tehran Province Judiciary (2005–2014), Supreme Court judge (2014–2015)."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Career-long judiciary official before entering the cabinet."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "qais-khazali-coordinated-with-irgc-quds-force",
+  "from_entity": "qais-khazali",
+  "to_entity": "irgc-quds-force",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "2006",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Qais_Khazali",
+      "source_title": "Qais Khazali — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Khazali served as the primary intermediary between the IRGC Quds Force and Iraqi Shia militant operations targeting US forces. Under US interrogation, Daqduq confirmed the Quds Force directed the Karbala operation."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

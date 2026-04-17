@@ -1,0 +1,21 @@
+{
+  "entity_id": "national-security-act-2023-uk-named-in-iran-international",
+  "from_entity": "national-security-act-2023-uk",
+  "to_entity": "iran-international",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2025-05-17",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.cps.gov.uk/cps/news/three-men-charged-national-security-act-offences",
+      "source_title": "Three men charged with National Security Act offences",
+      "source_date": "2025-05-17",
+      "description": "The first prosecution under the National Security Act 2023 arose from surveillance operations targeting journalists at Iran International."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Iran International was the target institution in the first prosecution under the National Security Act 2023."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "mostafa-sepahvand-named-in-national-security-act-2023-uk",
+  "from_entity": "mostafa-sepahvand",
+  "to_entity": "national-security-act-2023-uk",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2025-05-17",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.cps.gov.uk/cps/news/three-men-charged-national-security-act-offences",
+      "source_title": "Three men charged with National Security Act offences",
+      "source_date": "2025-05-17",
+      "description": "Mostafa Sepahvand is the first Iranian national charged under the National Security Act 2023, charged with offences under Sections 17 and 18 of the Act."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "First prosecution under the National Security Act 2023 involving an Iranian national."
+}

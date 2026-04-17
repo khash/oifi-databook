@@ -1,0 +1,21 @@
+{
+  "entity_id": "guardian-council-organized-assembly-of-experts-election-2016",
+  "from_entity": "guardian-council",
+  "to_entity": "assembly-of-experts-election-2016",
+  "type": "organized",
+  "confidence": "confirmed",
+  "date_from": "2016-02-26",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2016_Iranian_Assembly_of_Experts_election",
+      "source_title": "2016 Iranian Assembly of Experts election — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "The Guardian Council vetted all candidates for the 2016 Assembly of Experts election, disqualifying approximately 80% of applicants — 801 applied; only 166 were approved."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Guardian Council approved only 166 of 801 candidates. All women rejected. Hassan Khomeini rejected."
+}

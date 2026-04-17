@@ -1,0 +1,38 @@
+{
+  "entity_id": "hafez-tavassoli",
+  "slug": "hafez-tavassoli",
+  "name_en": "Hafez Tavassoli",
+  "name_fa": "حافظ توسلی",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": "Iran",
+  "role": "Iranian IRGC operative; ground coordinator of the 2026 Baku terror plot; subject of international arrest warrant",
+  "faction": "hardliner",
+  "bio": "Hafez Tavassoli is an Iranian national identified by Azerbaijan's State Security Service (DTX) as the ground coordinator of the [2026 IRGC terror plot in Azerbaijan](/events/azerbaijan-irgc-terror-plot-foiled-2026). Operating as an [Islamic Revolutionary Guard Corps](/orgs/islamic-revolutionary-guard-corps) (IRGC/SEPAH) liaison agent, Tavassoli organized the smuggling of explosive devices into Azerbaijan and recruited local accomplices to carry out attacks.\n\nAccording to Azerbaijani authorities, Tavassoli contacted Azerbaijani citizen Khadija Zakir gizi Aghayeva to store an explosive package, and separately approached Shabanova Narmina Ramiz qizi with the objective of commissioning the assassination of a public figure. An explosive device weighing 1,280 grams was located near a shipbuilding yard in Baku's Garadagh district — placed at Tavassoli's direction. An international arrest warrant was issued for Tavassoli in connection with organizing terror and sabotage acts aimed at destabilizing Azerbaijan. He was not in Azerbaijani custody as of the warrant's issuance in March 2026.",
+  "irgc_member": true,
+  "expertise": ["intelligence", "covert-operations"],
+  "tags": ["intelligence", "military", "proxy-warfare"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://azertag.az/en/xeber/state_security_service_foils_irgc_terror_plots_in_azerbaijan-4063831",
+      "title": "State Security Service foils IRGC terror plots in Azerbaijan",
+      "date": "2026-03-06",
+      "publisher": "AZERTAC"
+    },
+    {
+      "url": "https://report.az/en/domestic-politics/azerbaijan-foils-planned-terror-attacks-linked-to-iran-s-revolutionary-guard",
+      "title": "State Security Service exposes IRGC terror plans in Azerbaijan",
+      "date": "2026-03-06",
+      "publisher": "Report.az"
+    },
+    {
+      "url": "https://www.iranintl.com/en/202603062469",
+      "title": "Azerbaijan says it foiled alleged IRGC plot",
+      "date": "2026-03-06",
+      "publisher": "Iran International"
+    }
+  ],
+  "editorial_notes": "International arrest warrant issued March 2026. Not confirmed arrested as of warrant issuance. The task brief states 'arrested in Azerbaijan' but sources consistently describe an outstanding warrant; this is recorded accurately."
+}

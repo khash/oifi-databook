@@ -1,0 +1,21 @@
+{
+  "entity_id": "hassan-khomeini-guardian-council-rejection-2016-named-in-assembly-of-experts-election-2016",
+  "from_entity": "hassan-khomeini-guardian-council-rejection-2016",
+  "to_entity": "assembly-of-experts-election-2016",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2016-02-10",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2016_Iranian_Assembly_of_Experts_election",
+      "source_title": "2016 Iranian Assembly of Experts election — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "The Guardian Council's rejection of Hassan Khomeini's candidacy was part of the broader 2016 Assembly of Experts election vetting process, in which approximately 80% of applicants were disqualified."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "The Hassan Khomeini GC rejection event is a sub-event within the 2016 AoE election cycle."
+}

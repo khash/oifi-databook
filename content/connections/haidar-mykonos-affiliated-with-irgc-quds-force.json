@@ -1,0 +1,14 @@
+{
+  "entity_id": "haidar-mykonos-affiliated-with-irgc-quds-force",
+  "from_entity": "haidar-mykonos",
+  "to_entity": "irgc-quds-force",
+  "type": "affiliated-with",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Post-assassination, Haidar reportedly relocated to Iran and began working for the IRGC per CTC West Point reporting. Confidence is alleged given uncertainty around his post-flight activities."
+}

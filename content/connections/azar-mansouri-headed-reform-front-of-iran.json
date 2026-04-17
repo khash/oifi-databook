@@ -1,0 +1,21 @@
+{
+  "entity_id": "azar-mansouri-headed-reform-front-of-iran",
+  "from_entity": "azar-mansouri",
+  "to_entity": "reform-front-of-iran",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": "2023-07-01",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Azar_Mansouri",
+      "source_title": "Azar Mansouri — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Azar Mansouri succeeded Behzad Nabavi as chair of Iran's Reform Front in July 2023, becoming the first woman to lead a major Iranian political coalition."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "First woman to chair the Reform Front. Succeeded Behzad Nabavi from July 2023."
+}

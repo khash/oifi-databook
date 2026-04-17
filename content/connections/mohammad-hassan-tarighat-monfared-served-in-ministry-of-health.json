@@ -1,0 +1,21 @@
+{
+  "entity_id": "mohammad-hassan-tarighat-monfared-served-in-ministry-of-health",
+  "from_entity": "mohammad-hassan-tarighat-monfared",
+  "to_entity": "ministry-of-health",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2012",
+  "date_to": "2013",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Hassan_Tarighat_Monfared",
+      "source_title": "Hassan Tarighat Monfared — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Appointed acting minister on 27 December 2012, confirmed by parliament as minister on 17 March 2013, served until 15 August 2013 when Hassan Ghazizadeh Hashemi took over under President Rouhani."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Acting minister 27 Dec 2012 – 17 Mar 2013; confirmed minister 17 Mar – 15 Aug 2013."
+}

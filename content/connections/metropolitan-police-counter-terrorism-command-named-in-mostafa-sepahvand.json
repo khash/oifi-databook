@@ -1,0 +1,21 @@
+{
+  "entity_id": "metropolitan-police-counter-terrorism-command-named-in-mostafa-sepahvand",
+  "from_entity": "metropolitan-police-counter-terrorism-command",
+  "to_entity": "mostafa-sepahvand",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2025-05-17",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.cps.gov.uk/cps/news/three-men-charged-national-security-act-offences",
+      "source_title": "Three men charged with National Security Act offences",
+      "source_date": "2025-05-17",
+      "description": "SO15 arrested and charged Mostafa Sepahvand under the National Security Act 2023."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "SO15 arrested Sepahvand in May 2025 and charged him under the National Security Act 2023."
+}

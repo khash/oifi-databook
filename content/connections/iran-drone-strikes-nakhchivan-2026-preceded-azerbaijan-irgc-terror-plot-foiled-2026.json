@@ -1,0 +1,22 @@
+{
+  "entity_id": "iran-drone-strikes-nakhchivan-2026-preceded-azerbaijan-irgc-terror-plot-foiled-2026",
+  "from_entity": "iran-drone-strikes-nakhchivan-2026",
+  "to_entity": "azerbaijan-irgc-terror-plot-foiled-2026",
+  "type": "coordinated-with",
+  "confidence": "alleged",
+  "date_from": "2026-03",
+  "date_to": "2026-03",
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202603062469",
+      "source_title": "Azerbaijan says it foiled alleged IRGC plot",
+      "source_date": "2026-03-06",
+      "publisher": "Iran International",
+      "description": "The terror plot announcement came one day after the Nakhchivan drone strikes; analysts and multiple sources noted the two events as part of a coordinated Iranian pressure campaign against Azerbaijan during the broader 2026 regional conflict."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "No confirmed command link established. The proximity (24 hours) and shared IRGC attribution make coordination plausible but unconfirmed."
+}

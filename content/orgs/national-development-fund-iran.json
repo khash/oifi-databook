@@ -1,0 +1,29 @@
+{
+  "entity_id": "national-development-fund-iran",
+  "slug": "national-development-fund-iran",
+  "name_en": "National Development Fund of Iran",
+  "name_fa": "صندوق توسعه ملی",
+  "has_native_fa_name": true,
+  "type": "state-institution",
+  "founded": 2011,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "The National Development Fund of Iran (NDF; Sandoq-e Towse'e-ye Melli) is Iran's sovereign wealth fund, established in 2011 to replace the Oil Stabilization Fund. Its mandate is to convert a portion of oil and gas revenues into productive investment, preserve wealth for future generations, and reduce the government's dependence on hydrocarbon income. Funded primarily by revenues from the [Ministry of Petroleum](/orgs/ministry-of-petroleum), the NDF channels capital into development projects inside and outside Iran. [Mehdi Ghazanfari](/people/mehdi-ghazanfari), the former Minister of Industries, Mines and Business, subsequently served as its chairman.",
+  "faction": null,
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/National_Development_Fund_of_Iran",
+      "title": "National Development Fund of Iran — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.ndf.ir/en",
+      "title": "National Development Fund of Iran — Official Site",
+      "date": "2024-01-01",
+      "publisher": "NDF Iran"
+    }
+  ],
+  "editorial_notes": "Established 2011, replacing the Oil Stabilization Fund. Funded by oil/gas export revenues (currently 20% per the 6th development plan). Mehdi Ghazanfari chaired it after his ministerial tenure."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-al-sistani-affiliated-with-al-khoei-benevolent-foundation",
+  "from_entity": "ali-al-sistani",
+  "to_entity": "al-khoei-benevolent-foundation",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "1992",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.al-khoei.org/grand-ayatollah-al-khoei/",
+      "source_title": "Grand Ayatollah Al-Khoei — Al-Khoei Foundation",
+      "source_date": "2024-01-01",
+      "description": "As the successor of Grand Ayatollah al-Khoei and the continuation of the quietist Najaf scholarly tradition, Sistani is institutionally affiliated with the Al-Khoei Benevolent Foundation which carries forward al-Khoei's legacy."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Sistani's institutional affiliation with the foundation is through his succession of al-Khoei's religious authority and the shared quietist scholarly tradition."
+}

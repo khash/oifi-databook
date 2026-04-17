@@ -1,0 +1,21 @@
+{
+  "entity_id": "mojahedin-e-khalq-named-in-albanian-police-raid-camp-ashraf-3-2023",
+  "from_entity": "mojahedin-e-khalq",
+  "to_entity": "albanian-police-raid-camp-ashraf-3-2023",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2023-06-20",
+  "date_to": "2023-06-20",
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202306207797",
+      "source_title": "Albanian Police Raid Iranian Opposition MEK Camp",
+      "source_date": "2023-06-20",
+      "description": "The raid targeted the MEK (Mojahedin-e Khalq) compound Camp Ashraf-3 in Albania. The MEK's compound was searched and its members were directly affected."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "The raid was directed at the MEK compound and membership. MEK reported 1 killed, 100+ injured."
+}

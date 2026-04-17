@@ -1,0 +1,21 @@
+{
+  "entity_id": "masoud-khamenei-family-of-mojtaba-khamenei",
+  "from_entity": "masoud-khamenei",
+  "to_entity": "mojtaba-khamenei",
+  "type": "family-of",
+  "symmetric": true,
+  "family_subtype": "sibling",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Khamenei_family",
+      "source_title": "Khamenei family — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Masoud and Mojtaba are both sons of Ali Khamenei, making them brothers."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": "Masoud is the third son (b. 1974), Mojtaba the second son (b. 1969)."
+}

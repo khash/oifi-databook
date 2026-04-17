@@ -1,0 +1,21 @@
+{
+  "entity_id": "mostafa-khomeini-subject-of-savak",
+  "from_entity": "mostafa-khomeini",
+  "to_entity": "savak",
+  "type": "subject-of",
+  "symmetric": false,
+  "family_subtype": null,
+  "confidence": "alleged",
+  "date_from": "1977-10-23",
+  "date_to": "1977-10-23",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mostafa_Khomeini",
+      "source_title": "Mostafa Khomeini — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Mostafa Khomeini's death has been regarded as suspicious by followers of Ayatollah Khomeini and the Iranian public due to reports that SAVAK agents were present at the scene. Many attributed his death to SAVAK, though no autopsy was conducted and the cause remains unproven."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": "Confidence 'alleged' — SAVAK involvement widely suspected but unproven. No autopsy was performed."
+}

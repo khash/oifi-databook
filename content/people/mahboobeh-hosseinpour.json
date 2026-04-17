@@ -1,0 +1,38 @@
+{
+  "entity_id": "mahboobeh-hosseinpour",
+  "slug": "mahboobeh-hosseinpour",
+  "name_en": "Mahboobeh Hosseinpour",
+  "name_fa": "محبوبه حسین‌پور",
+  "has_native_fa_name": true,
+  "aliases": [],
+  "born": null,
+  "birthplace": null,
+  "role": "Sister of nuclear scientist Ardeshir Hosseinpour; public accuser of IRGC in his 2007 death",
+  "faction": null,
+  "bio": "Mahboobeh Hosseinpour is the sister of [Ardeshir Hosseinpour](/people/ardeshir-hosseinpour), an Iranian nuclear physicist who died on 15 January 2007 under disputed circumstances at the Isfahan uranium conversion facility. Mahboobeh became a prominent witness and advocate following her brother's death, publicly attributing his killing to the [IRGC Intelligence Organisation](/orgs/irgc-intelligence-organisation).\n\nIn October 2014, speaking from Turkey in an interview arranged by 'The New Iran' opposition group and published by outlets including Haaretz and The Times of Israel, Mahboobeh stated that the [IRGC Intelligence Organisation](/orgs/irgc-intelligence-organisation) had murdered Ardeshir for refusing to participate in nuclear weapons development. She described how, in November 2004, three IRGC agents had approached her brother with a personal message from Supreme Leader Ali Khamenei, offering him a two-star rank in the Revolutionary Guards and ownership of factories in exchange for working on increasing uranium enrichment for weapons purposes. After he declined multiple times, she alleged, Khamenei ordered his assassination.\n\nMahboobeh said she obtained information about the circumstances from Ardeshir's widow. Her account stands in direct contrast to Iran's official explanation — gas poisoning from a faulty heater — and to earlier reports by the American intelligence firm Stratfor that had attributed the death to Mossad. Former Mossad officials denied any involvement.",
+  "irgc_member": false,
+  "expertise": [],
+  "tags": ["human-rights", "nuclear"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://www.haaretz.com/2014-10-02/ty-article/sister-of-murdered-physicist-iran-did-it-not-israel/0000017f-e546-df5f-a17f-ffdef88c0000",
+      "title": "Sister of Murdered Iranian Nuclear Scientist Blames Revolutionary Guards",
+      "date": "2014-10-02",
+      "publisher": "Haaretz"
+    },
+    {
+      "url": "https://www.timesofisrael.com/iran-accused-of-assassinating-its-own-nuclear-scientist/",
+      "title": "Iran accused of assassinating its own nuclear scientist",
+      "date": "2014-10-02",
+      "publisher": "The Times of Israel"
+    },
+    {
+      "url": "https://irannewsupdate.com/news/nuclear/vicitm-s-sister-iranian-scientist-ardeshir-hosseinpour-was-assassinated-by-irgc/",
+      "title": "Victim's sister: Iranian Scientist Ardeshir Hosseinpour was assassinated by IRGC",
+      "date": "2014-10-02",
+      "publisher": "Iran News Update"
+    }
+  ],
+  "editorial_notes": "Identity known only through media appearances beginning in 2014. Lives in Turkey. Spoke to media via 'The New Iran' opposition group. Her account contradicts both the official Iranian version and the Stratfor/Mossad hypothesis."
+}

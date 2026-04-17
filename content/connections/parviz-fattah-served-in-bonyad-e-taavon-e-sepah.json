@@ -1,0 +1,28 @@
+{
+  "entity_id": "parviz-fattah-served-in-bonyad-e-taavon-e-sepah",
+  "from_entity": "parviz-fattah",
+  "to_entity": "bonyad-e-taavon-e-sepah",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": "2009",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://home.treasury.gov/news/press-releases/tg1010",
+      "source_title": "Treasury Designates Iranian Entities Tied to the IRGC and IRISL",
+      "source_date": "2010-12-21",
+      "description": "US Treasury sanctioned Parviz Fattah specifically for his role as executive director of Bonyad Taavon Sepah's investment arm."
+    },
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Parviz_Fattah",
+      "source_title": "Parviz Fattah — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "After leaving the Energy Ministry, Fattah served as deputy commander of Khatam al-Anbiya and executive director of Bonyad-e Taavon-e Sepah's investment arm."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": ["sanctions"],
+  "editorial_notes": "Fattah was executive director of the investment arm of Bonyad Taavon Sepah, triggering US sanctions in December 2010."
+}

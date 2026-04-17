@@ -1,0 +1,21 @@
+{
+  "entity_id": "lotfollah-forouzandeh-founded-society-of-devotees-islamic-revolution",
+  "from_entity": "lotfollah-forouzandeh",
+  "to_entity": "society-of-devotees-islamic-revolution",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "1997-04-09",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Lotfollah_Forouzandeh",
+      "source_title": "Lotfollah Forouzandeh — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Lotfollah Forouzandeh is a co-founder of the Society of Devotees of the Islamic Revolution (Isargaran)."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Co-founder of the Isargaran, confirmed by multiple sources and his entity file."
+}

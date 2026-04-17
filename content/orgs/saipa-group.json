@@ -1,0 +1,29 @@
+{
+  "entity_id": "saipa-group",
+  "slug": "saipa-group",
+  "name_en": "SAIPA Group",
+  "name_fa": "گروه خودروسازی سایپا",
+  "has_native_fa_name": true,
+  "type": "business",
+  "founded": 1966,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "SAIPA Group (Société Anonyme Iranienne de Production Automobile) is an Iranian state-owned automotive manufacturer and one of Iran's two largest automakers alongside Iran Khodro. Founded in 1966, it produces passenger cars, light commercial vehicles, and minibuses, primarily for the domestic market. [Mehrdad Bazrpash](/people/mehrdad-bazrpash) served as CEO of SAIPA before his appointment as Minister of Roads and Urban Development in 2022.",
+  "faction": null,
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/SAIPA",
+      "title": "SAIPA — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://ifpnews.com/mehrdad-bazrpash-iran-minister-of-roads-urban-development/",
+      "title": "Mehrdad Bazrpash Named Iran's Minister Of Roads — Iran Front Page",
+      "date": "2022-12-01",
+      "publisher": "Iran Front Page"
+    }
+  ],
+  "editorial_notes": "State-owned. One of Iran's two main automakers (alongside Iran Khodro). Bazrpash was CEO before ministerial appointment. Also owns Pars Khodro subsidiary."
+}

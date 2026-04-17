@@ -1,0 +1,38 @@
+{
+  "entity_id": "masoud-khamenei",
+  "slug": "masoud-khamenei",
+  "name_en": "Masoud Khamenei",
+  "name_fa": "مسعود خامنه‌ای",
+  "has_native_fa_name": true,
+  "aliases": ["Masoud Hosseini Khamenei", "Mohsen Khamenei"],
+  "born": 1974,
+  "birthplace": "Tehran, Iran",
+  "role": "Third son of Supreme Leader Ali Khamenei; cleric; head of Office for Preservation of Works of Ali Khamenei",
+  "faction": "hardliner",
+  "bio": "Masoud Khamenei is an Iranian cleric and the third son of [Ali Khamenei](/people/ali-khamenei), who served as Supreme Leader from 1989 to 2026. Born in 1974, Masoud studied and taught at the seminary in Qom and became a member of the Society of Seminary Teachers of Qom. He is the brother of [Mojtaba Khamenei](/people/mojtaba-khamenei), who succeeded their father as Supreme Leader in 2026.\n\nMasoud married the daughter of Ayatollah [Mohsen Kharrazi](/people/mohsen-kharrazi), creating a significant family alliance between the Khamenei and Kharrazi dynasties. Through this marriage he also became related to the broader Kharrazi network, which includes former Foreign Minister Kamal Kharrazi and diplomat Sadegh Kharrazi. Ali Khamenei reportedly prohibited his sons from accepting governmental positions; accordingly, Masoud held no formal state role. His primary public function was as head of the Office for the Preservation and Promotion of the Works of the Leader of the Islamic Revolution, overseeing his father's publications and archival legacy. He is a low-profile but structurally significant node in the family networks that underpin clerical rule in the Islamic Republic.",
+  "irgc_member": false,
+  "expertise": ["Islamic jurisprudence"],
+  "tags": ["clerical"],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Masoud_Khamenei",
+      "title": "Masoud Khamenei — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Khamenei_family",
+      "title": "Khamenei family — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://iranwire.com/en/features/65677/",
+      "title": "Who's Who in Iran's Network of Powerful Families?",
+      "date": "2024-01-01",
+      "publisher": "IranWire"
+    }
+  ],
+  "editorial_notes": "Born 1974. Third son of Ali Khamenei. Married daughter of Mohsen Kharrazi. No formal governmental role per father's prohibition. Head of father's publications office since 2013."
+}

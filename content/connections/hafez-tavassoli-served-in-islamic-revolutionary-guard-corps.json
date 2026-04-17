@@ -1,0 +1,21 @@
+{
+  "entity_id": "hafez-tavassoli-served-in-islamic-revolutionary-guard-corps",
+  "from_entity": "hafez-tavassoli",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "served-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://azertag.az/en/xeber/state_security_service_foils_irgc_terror_plots_in_azerbaijan-4063831",
+      "source_title": "State Security Service foils IRGC terror plots in Azerbaijan",
+      "source_date": "2026-03-06",
+      "description": "Azerbaijani authorities described Hafez Tavassoli as an IRGC/SEPAH liaison agent who directed operative activities on the ground as part of the IRGC terror plot."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

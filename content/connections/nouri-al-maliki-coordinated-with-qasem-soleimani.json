@@ -1,0 +1,21 @@
+{
+  "entity_id": "nouri-al-maliki-coordinated-with-qasem-soleimani",
+  "from_entity": "nouri-al-maliki",
+  "to_entity": "qasem-soleimani",
+  "type": "coordinated-with",
+  "confidence": "confirmed",
+  "date_from": "2006",
+  "date_to": "2014",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Nouri_al-Maliki",
+      "source_title": "Nouri al-Maliki — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Qasem Soleimani, as commander of the IRGC Quds Force, was a key Iranian interlocutor with Iraqi political figures including al-Maliki. Soleimani played a direct role in brokering Iraq's government formation in 2010, helping al-Maliki retain the premiership."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Soleimani's role in Iraqi politics during al-Maliki's tenure is well-documented; he helped broker the 2010 government formation that kept al-Maliki in power."
+}

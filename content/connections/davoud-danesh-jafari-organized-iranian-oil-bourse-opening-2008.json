@@ -1,0 +1,22 @@
+{
+  "entity_id": "davoud-danesh-jafari-organized-iranian-oil-bourse-opening-2008",
+  "from_entity": "davoud-danesh-jafari",
+  "to_entity": "iranian-oil-bourse-opening-2008",
+  "type": "organized",
+  "confidence": "confirmed",
+  "date_from": "2008-02-17",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Davoud_Danesh-Jafari",
+      "source_title": "Davoud Danesh-Jafari — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "As Finance Minister, Danesh-Jafari was involved in creating the Iranian Oil Bourse, a commodity exchange for oil trading in Iranian currency, which opened on Kish Island on 17 February 2008."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": [],
+  "editorial_notes": "Danesh-Jafari oversaw the Oil Bourse's establishment as Finance Minister; he resigned in 2008, around the time of the bourse opening."
+}

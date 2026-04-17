@@ -1,0 +1,21 @@
+{
+  "entity_id": "azar-mansouri-aligned-with-behzad-nabavi",
+  "from_entity": "azar-mansouri",
+  "to_entity": "behzad-nabavi",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Azar_Mansouri",
+      "source_title": "Azar Mansouri — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Azar Mansouri succeeded Behzad Nabavi as chair of the Reform Front of Iran in July 2023. Both are senior figures in the reformist coalition."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": "Mansouri succeeded Nabavi as chair of the Reform Front in July 2023. Both are key reformist leaders within the same coalition."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "metropolitan-police-counter-terrorism-command-named-in-ministry-of-intelligence",
+  "from_entity": "metropolitan-police-counter-terrorism-command",
+  "to_entity": "ministry-of-intelligence",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2025-05-17",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.cps.gov.uk/cps/news/three-men-charged-national-security-act-offences",
+      "source_title": "Three men charged with National Security Act offences",
+      "source_date": "2025-05-17",
+      "description": "CPS and police identified the defendants as acting on behalf of Iran's Ministry of Intelligence in the SO15 investigation."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "SO15 investigation identified Iran's Ministry of Intelligence as the directing intelligence service behind the defendants."
+}

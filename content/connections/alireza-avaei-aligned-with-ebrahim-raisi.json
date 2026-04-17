@@ -1,0 +1,21 @@
+{
+  "entity_id": "alireza-avaei-aligned-with-ebrahim-raisi",
+  "from_entity": "alireza-avaei",
+  "to_entity": "ebrahim-raisi",
+  "type": "aligned-with",
+  "confidence": "confirmed",
+  "date_from": "1988",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://iran1988.org/seyyed-alireza-avaei/",
+      "source_title": "Seyyed Alireza Avaei — Iran 1988 Massacre",
+      "source_date": "2024-01-01",
+      "description": "Both Avaei and Raisi were members of death commissions during the 1988 mass executions — Raisi in Tehran, Avaei in Dezful — and both were hardline judiciary officials who rose to cabinet-level positions despite international sanctions."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": "Shared hardliner faction and both implicated in 1988 executions at different locations. Both EU-sanctioned."
+}

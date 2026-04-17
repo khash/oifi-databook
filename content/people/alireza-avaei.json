@@ -1,0 +1,51 @@
+{
+  "entity_id": "alireza-avaei",
+  "slug": "alireza-avaei",
+  "name_en": "Alireza Avaei",
+  "name_fa": "علیرضا آوایی",
+  "has_native_fa_name": true,
+  "aliases": [
+    "Seyyed Alireza Avaei",
+    "Ali-Reza Avaei",
+    "Alireza Avayi"
+  ],
+  "born": 1956,
+  "birthplace": "Dezful, Khuzestan Province",
+  "role": "Minister of Justice (2017–2021); former President of the Tehran Judiciary; EU-sanctioned for role in 1988 mass executions",
+  "faction": "hardliner",
+  "bio": "Alireza Avaei is an Iranian principlist cleric and jurist who served as Minister of Justice from 20 August 2017 to 25 August 2021, appointed by President Hassan Rouhani. His appointment drew immediate international condemnation from human rights organisations.\n\nAvaei began his judicial career as prosecutor general of Dezful shortly after the 1979 revolution. In 1988 he served as the prosecutor general in Dezful where, following Ruhollah Khomeini's secret fatwa, he chaired the local death committee responsible for the execution of political prisoners at the UNESCO Prison in Dezful — part of the [1988 mass executions of political prisoners](/events/mass-executions-1988). Witnesses have described him as among the most ruthless enforcers of that period.\n\nHe later served as chief justice of several provinces, including as President of the Tehran Province Judiciary from 2005 to 2014. In that capacity he was implicated in overseeing the show trials of protesters following the 2009 Green Movement, during which detainees were sentenced to death and long prison terms after summary proceedings. He subsequently served as a Supreme Court judge (2014–2015), Deputy Minister of Interior (2015–2016), and head of the Presidency's Inspectorate Office (2016–2017) before his appointment as Justice Minister.\n\nIn October 2011 the European Union sanctioned Avaei with a visa ban and asset freeze for serious human rights violations committed in his role as President of the Tehran Judiciary, including arbitrary arrests, denial of prisoners' rights, and a sharp increase in executions. Switzerland subsequently added him to its own sanctions list. He is also listed on the [Magnitsky-style] international sanctions registers maintained by several Western governments.",
+  "irgc_member": false,
+  "expertise": [
+    "Islamic jurisprudence",
+    "judiciary",
+    "prosecutorial administration"
+  ],
+  "tags": [
+    "judiciary",
+    "1988-massacre",
+    "sanctions",
+    "human-rights"
+  ],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Alireza_Avayi",
+      "title": "Alireza Avayi — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://iran1988.org/seyyed-alireza-avaei/",
+      "title": "Seyyed Alireza Avaei — Iran 1988 Massacre",
+      "date": "2024-01-01",
+      "publisher": "Iran 1988 Massacre Project"
+    },
+    {
+      "url": "https://www.timesofisrael.com/iranian-minister-accused-of-human-rights-abuse-addresses-un-rights-body/",
+      "title": "Iranian minister accused of human rights abuse addresses UN rights body",
+      "date": "2019-02-26",
+      "publisher": "The Times of Israel"
+    }
+  ],
+  "editorial_notes": "Born 20 May 1956 in Dezful. Prosecutor in Dezful 1988 — member of local death committee during mass executions. EU sanctioned October 2011 (visa ban + asset freeze). Justice Minister 20 Aug 2017 – 25 Aug 2021 under Rouhani. Parliament confirmation: 244 yeas, 18 nays. Also on Swiss sanctions list."
+}

@@ -1,0 +1,21 @@
+{
+  "entity_id": "meir-dagan-mentor-of-tamir-pardo",
+  "from_entity": "meir-dagan",
+  "to_entity": "tamir-pardo",
+  "type": "mentor-of",
+  "confidence": "alleged",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Tamir_Pardo",
+      "source_title": "Tamir Pardo — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Tamir Pardo served as deputy director under Meir Dagan before being appointed as his successor as Mossad director in January 2011."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Pardo served as Dagan's deputy director and was selected as his direct successor. The mentor-of relationship reflects the professional lineage."
+}

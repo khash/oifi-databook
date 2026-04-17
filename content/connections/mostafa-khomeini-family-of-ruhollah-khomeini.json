@@ -1,0 +1,21 @@
+{
+  "entity_id": "mostafa-khomeini-family-of-ruhollah-khomeini",
+  "from_entity": "mostafa-khomeini",
+  "to_entity": "ruhollah-khomeini",
+  "type": "family-of",
+  "symmetric": true,
+  "family_subtype": "child",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mostafa_Khomeini",
+      "source_title": "Mostafa Khomeini — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Mostafa Khomeini was the eldest son of Ruhollah Khomeini."
+    }
+  ],
+  "intermediaries": [],
+  "editorial_notes": "Eldest son. Died 1977 in Najaf."
+}

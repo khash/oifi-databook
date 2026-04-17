@@ -1,0 +1,28 @@
+{
+  "entity_id": "shamseddin-hosseini-named-in-iran-embezzlement-scandal-2011",
+  "from_entity": "shamseddin-hosseini",
+  "to_entity": "iran-embezzlement-scandal-2011",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": "2011",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Shamseddin_Hosseini",
+      "source_title": "Shamseddin Hosseini — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Hosseini faced impeachment proceedings in parliament over lax banking supervision related to the $2.6 billion embezzlement scandal; he survived the vote after parliamentary speaker Ali Larijani intervened."
+    },
+    {
+      "source_url": "https://en.wikipedia.org/wiki/2011_Iranian_embezzlement_scandal",
+      "source_title": "2011 Iranian embezzlement scandal — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Finance Minister Hosseini was implicated by parliament for failure of banking supervision that allowed the fraud to occur."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": [],
+  "editorial_notes": "Hosseini survived impeachment vote after Larijani's intervention. The scandal occurred during his tenure as Finance Minister."
+}

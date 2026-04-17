@@ -1,0 +1,21 @@
+{
+  "entity_id": "woolwich-crown-court-iran-international-plot-2026-named-in-ministry-of-intelligence",
+  "from_entity": "woolwich-crown-court-iran-international-plot-2026",
+  "to_entity": "ministry-of-intelligence",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.cps.gov.uk/cps/news/three-men-charged-national-security-act-offences",
+      "source_title": "Three men charged with National Security Act offences",
+      "source_date": "2025-05-17",
+      "description": "The prosecution identifies Iran's Ministry of Intelligence as the foreign intelligence service the defendants are alleged to have assisted."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Iran's Ministry of Intelligence is identified in the prosecution as the directing intelligence service."
+}

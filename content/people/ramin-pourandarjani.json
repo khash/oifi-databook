@@ -1,0 +1,44 @@
+{
+  "entity_id": "ramin-pourandarjani",
+  "slug": "ramin-pourandarjani",
+  "name_en": "Ramin Pourandarjani",
+  "name_fa": "رامین پوراندرجانی",
+  "has_native_fa_name": true,
+  "aliases": ["Ramin Purandarjani"],
+  "born": 1983,
+  "birthplace": "Tabriz, Iran",
+  "role": "Military physician at Kahrizak detention center; witness to torture of 2009 detainees; died under suspicious circumstances",
+  "faction": null,
+  "bio": "Ramin Pourandarjani (9 June 1983 – 10 November 2009) was a 26-year-old Iranian military physician completing his mandatory military service as resident doctor at the Kahrizak Detention Center in southern Tehran during the summer of 2009. He examined and treated prisoners detained during the crackdown on [Green Movement protests](/events/green-movement-protests-2009), and directly witnessed evidence of systematic torture.\n\nHe examined [Mohsen Ruholamini](/people/mohsen-ruholamini) two days before his death, documenting that the detainee had been subjected to 'intense physical torture and was in a dreadful condition.' He submitted a report to the judiciary stating that Ruholamini had died due to 'physical stress, being held in bad conditions, multiple blows, and severe injuries to the body.' Kahrizak authorities threatened him directly, warning that if he disclosed anything about the cause of detainees' injuries, they would 'put an end to his life.'\n\nDespite these threats, Pourandarjani agreed to testify before the parliamentary investigation committee examining misconduct at Kahrizak. He was subsequently arrested, interrogated repeatedly by the police, martial court, and the Physician General's regulatory council, and released on bail with warnings to remain silent.\n\nHe was found dead on 10 November 2009 inside a police barracks in Tehran — days after participating in the parliamentary investigation. Authorities gave several contradictory explanations: a car accident, suicide, a heart attack in his sleep. The official finding settled on poisoning via a food delivery laced with an overdose of blood pressure medication. His family was denied permission to conduct an independent autopsy. Amnesty International called for an independent investigation, stating that the circumstances of his death raised 'serious concerns.' He was 26 years old.\n\nHis death, following his testimony against [Saeed Mortazavi](/people/saeed-mortazavi) and the Kahrizak apparatus, is widely regarded as a politically motivated killing to silence a key witness.",
+  "irgc_member": false,
+  "expertise": ["medicine"],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ramin_Pourandarjani",
+      "title": "Ramin Pourandarjani — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.amnesty.org/en/latest/news/2009/11/iranian-authorities-must-investigate-death-detention-centre-doctor-20091118/",
+      "title": "Iranian authorities must investigate death of detention centre doctor",
+      "date": "2009-11-18",
+      "publisher": "Amnesty International"
+    },
+    {
+      "url": "https://www.iranrights.org/memorial/story/-8049/ramin-purandarjani",
+      "title": "Ramin Purandarjani: One Person's Story",
+      "date": "2009-11-10",
+      "publisher": "Abdorrahman Boroumand Center"
+    },
+    {
+      "url": "https://www.pbs.org/wgbh/pages/frontline/tehranbureau/2009/11/kahrizak-doctor-dies-first-lady-appears-in-public-in-rome.html",
+      "title": "Kahrizak doctor dead",
+      "date": "2009-11-11",
+      "publisher": "PBS Frontline / Tehran Bureau"
+    }
+  ],
+  "tags": ["human-rights", "deceased"],
+  "photo": null,
+  "editorial_notes": "Born 9 June 1983, Tabriz. Died 10 November 2009, Tehran police barracks. Age 26. Mandatory military service as Kahrizak resident physician. Testified to parliament. Family denied autopsy. No one charged with his death."
+}

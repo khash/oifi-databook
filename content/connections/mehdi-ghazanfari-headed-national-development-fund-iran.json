@@ -1,0 +1,22 @@
+{
+  "entity_id": "mehdi-ghazanfari-headed-national-development-fund-iran",
+  "from_entity": "mehdi-ghazanfari",
+  "to_entity": "national-development-fund-iran",
+  "type": "headed",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mehdi_Ghazanfari",
+      "source_title": "Mehdi Ghazanfari — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Wikipedia confirms that Mehdi Ghazanfari served as chairman of Iran's National Development Fund after his ministerial tenure ended in 2013."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": [],
+  "editorial_notes": "Chaired NDF after serving as Minister of Industries, Mines and Business (2011-2013)."
+}

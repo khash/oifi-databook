@@ -1,0 +1,27 @@
+{
+  "entity_id": "ramin-pourandarjani-subject-of-saeed-mortazavi",
+  "from_entity": "ramin-pourandarjani",
+  "to_entity": "saeed-mortazavi",
+  "type": "subject-of",
+  "confidence": "alleged",
+  "date_from": "2009-11",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.amnesty.org/en/latest/news/2009/11/iranian-authorities-must-investigate-death-detention-centre-doctor-20091118/",
+      "source_title": "Iranian authorities must investigate death of detention centre doctor",
+      "source_date": "2009-11-18",
+      "description": "Pourandarjani had testified against the Kahrizak apparatus linked to Mortazavi and died under suspicious circumstances days after his testimony; Amnesty called for investigation into his death"
+    },
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ramin_Pourandarjani",
+      "source_title": "Ramin Pourandarjani — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Widely believed to have been killed to silence his testimony; his death came after he was threatened by Kahrizak authorities and testified to parliament investigating Mortazavi's operation"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Alleged connection — no criminal conviction linking Mortazavi directly to Pourandarjani's death, but the timing and threats make the connection widely accepted as politically motivated"
+}

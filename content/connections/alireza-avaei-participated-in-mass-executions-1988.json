@@ -1,0 +1,21 @@
+{
+  "entity_id": "alireza-avaei-participated-in-mass-executions-1988",
+  "from_entity": "alireza-avaei",
+  "to_entity": "mass-executions-1988",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "1988",
+  "date_to": "1988",
+  "evidence": [
+    {
+      "source_url": "https://iran1988.org/seyyed-alireza-avaei/",
+      "source_title": "Seyyed Alireza Avaei — Iran 1988 Massacre",
+      "source_date": "2024-01-01",
+      "description": "Avaei was prosecutor general in Dezful in 1988 and chaired the local death committee responsible for executions of political prisoners at UNESCO Prison in Dezful following Khomeini's fatwa."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Chaired the Dezful death committee. EU sanctioned in October 2011 partly for this role."
+}

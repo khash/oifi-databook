@@ -1,0 +1,21 @@
+{
+  "entity_id": "pouria-zeraati-named-in-national-security-act-2023-uk",
+  "from_entity": "pouria-zeraati",
+  "to_entity": "national-security-act-2023-uk",
+  "type": "named-in",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.iranintl.com/en/202506058630",
+      "source_title": "Three Iranians charged in UK spying case set to face trial",
+      "source_date": "2025-06-05",
+      "description": "Zeraati is among the Iran International journalists identified as targets of the surveillance operations that led to the first prosecution under the National Security Act 2023."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Zeraati was a target of surveillance by defendants charged under the National Security Act 2023."
+}

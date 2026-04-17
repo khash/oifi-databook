@@ -1,13 +1,29 @@
 # Broken Links
 
-Last updated: 2026-04-16  
-Dead links (build-blocking): **0** | Bot-blocked (verify manually): **72**
+Last updated: 2026-04-17  
+Dead links (build-blocking): **3** | Bot-blocked (verify manually): **79**
 
-## Bot-Blocked (72)
+## Dead Links (3)
+
+These return 4xx/5xx or fail to connect. **The build fails until they are fixed.**
+
+### HTTP 404 (3)
+
+- https://en.wikipedia.org/wiki/Al-Khoei_Benevolent_Foundation
+  - `content/orgs/al-khoei-benevolent-foundation.json`
+  - *last checked: 2026-04-17*
+- https://www.britannica.com/biography/Muhammad-Baqir-as-Sadr
+  - `content/connections/muhammad-baqir-al-sadr-founded-islamic-dawa-party.json`
+  - *last checked: 2026-04-17*
+- https://www.bbc.com/news/world-middle-east-12745068
+  - `content/connections/nouri-al-maliki-aligned-with-ali-khamenei.json`
+  - *last checked: 2026-04-17*
+
+## Bot-Blocked (79)
 
 These return 403/401 to automated requests but are likely accessible to human visitors. The build does not fail for these. Verify manually or replace with Wayback Machine archives.
 
-### HTTP 401 (3)
+### HTTP 401 (4)
 
 - https://www.reuters.com/world/middle-east/
   - `content/people/gholamreza-rezaian.json`
@@ -21,8 +37,12 @@ These return 403/401 to automated requests but are likely accessible to human vi
   - `content/orgs/irgc-quds-force-lebanon-corps.json`
   - `content/connections/irgc-quds-force-lebanon-corps-coordinated-with-hezbollah.json`
   - *last checked: 2026-04-13*
+- https://www.reuters.com/article/iran-oil-bourse-idUSL1736906920080217
+  - `content/events/iranian-oil-bourse-opening-2008.json`
+  - `content/connections/mahmoud-ahmadinejad-organized-iranian-oil-bourse-opening-2008.json`
+  - *last checked: 2026-04-17*
 
-### HTTP 403 (69)
+### HTTP 403 (75)
 
 - https://medium.com/war-is-boring/in-1980-friendly-fire-was-one-of-the-biggest-killers-of-iranian-fighter-pilots-5dc8fd71d221
   - `content/people/abbas-babaei.json`
@@ -53,6 +73,9 @@ These return 403/401 to automated requests but are likely accessible to human vi
   - `content/connections/ali-abdollahi-aliabadi-reports-to-ali-shadmani.json`
   - `content/connections/ali-abdollahi-aliabadi-reports-to-gholam-ali-rashid.json`
   - *last checked: 2026-04-13*
+- https://www.counterextremism.com/extremists/ali-mussa-daqduq
+  - `content/people/ali-mussa-daqduq.json`
+  - *last checked: 2026-04-17*
 - https://www.axios.com/2026/04/us-expels-iranian-diplomat-un-mission
   - `content/people/ali-reza-shahvaroghi-farahani.json`
   - `content/connections/ali-reza-shahvaroghi-farahani-served-in-iran-permanent-mission-un.json`
@@ -72,6 +95,19 @@ These return 403/401 to automated requests but are likely accessible to human vi
   - `content/connections/behnam-ben-taleblu-affiliated-with-fdd.json`
   - `content/connections/behnam-ben-taleblu-subject-of-irgc.json`
   - *last checked: 2026-04-13*
+- https://azertag.az/en/xeber/state_security_service_foils_irgc_terror_plots_in_azerbaijan-4063831
+  - `content/people/behnam-sahibali-rustamzada.json`
+  - `content/people/hafez-tavassoli.json`
+  - `content/people/sajjad-moghadam-sheikhzadeh.json`
+  - `content/people/yaser-rahim-zandkian.json`
+  - `content/connections/behnam-sahibali-rustamzada-participated-in-azerbaijan-irgc-terror-plot-foiled-2026.json`
+  - `content/connections/hafez-tavassoli-participated-in-azerbaijan-irgc-terror-plot-foiled-2026.json`
+  - `content/connections/hafez-tavassoli-served-in-islamic-revolutionary-guard-corps.json`
+  - `content/connections/sajjad-moghadam-sheikhzadeh-named-in-islamic-revolutionary-guard-corps.json`
+  - `content/connections/sajjad-moghadam-sheikhzadeh-participated-in-azerbaijan-irgc-terror-plot-foiled-2026.json`
+  - `content/connections/yaser-rahim-zandkian-coordinated-with-behnam-sahibali-rustamzada.json`
+  - `content/connections/yaser-rahim-zandkian-participated-in-azerbaijan-irgc-terror-plot-foiled-2026.json`
+  - *last checked: 2026-04-17*
 - https://www.mhpbooks.com/books/the-people-reloaded/
   - `content/people/danny-postel.json`
   - `content/connections/danny-postel-coordinated-with-nader-hashemi.json`
@@ -109,6 +145,15 @@ These return 403/401 to automated requests but are likely accessible to human vi
   - `content/people/majid-shahriari.json`
   - `content/events/iran-nuclear-scientist-assassinations-2010.json`
   - *last checked: 2026-04-13*
+- https://iranwire.com/en/features/65677/
+  - `content/people/masoud-khamenei.json`
+  - `content/people/mohsen-kharrazi.json`
+  - `content/connections/masoud-khamenei-family-of-mohsen-kharrazi.json`
+  - *last checked: 2026-04-16*
+- https://www.nytimes.com/2016/03/18/world/middleeast/meir-dagan-mossad-spy-chief-who-pioneered-covert-war-against-iran-dies-at-71.html
+  - `content/people/meir-dagan.json`
+  - `content/connections/meir-dagan-directed-iran-nuclear-scientist-assassinations-2010.json`
+  - *last checked: 2026-04-17*
 - https://iranwire.com/en/features/134892-who-is-mohammad-marandi-irans-chief-propagandist-in-english/
   - `content/people/mohammad-marandi.json`
   - *last checked: 2026-04-13*
@@ -118,11 +163,11 @@ These return 403/401 to automated requests but are likely accessible to human vi
   - `content/connections/mohammad-saeedi-served-in-atomic-energy-organisation-of-iran.json`
   - `content/connections/mohammad-saeedi-served-in-supreme-national-security-council.json`
   - *last checked: 2026-04-16*
-- https://iranwire.com/en/features/65677/
-  - `content/people/mohsen-kharrazi.json`
-  - *last checked: 2026-04-16*
 - https://www.mei.edu/publications/irans-balkan-front-roots-and-consequences-iranian-cyberattacks-against-albania
   - `content/people/mostafa-roudaki.json`
+  - `content/events/homeland-justice-cyberattack-albania-2022.json`
+  - `content/connections/homeland-justice-cyberattack-albania-2022-named-in-camp-ashraf-3.json`
+  - `content/connections/homeland-justice-cyberattack-albania-2022-named-in-mojahedin-e-khalq.json`
   - `content/connections/mostafa-roudaki-affiliated-with-ministry-of-intelligence.json`
   - `content/connections/mostafa-roudaki-directed-mojahedin-e-khalq.json`
   - *last checked: 2026-04-16*
@@ -131,6 +176,9 @@ These return 403/401 to automated requests but are likely accessible to human vi
   - `content/connections/narges-bajoghli-affiliated-with-basij-research.json`
   - `content/connections/narges-bajoghli-subject-of-irgc.json`
   - *last checked: 2026-04-13*
+- https://www.counterextremism.com/extremists/qais-al-khazali
+  - `content/people/qais-khazali.json`
+  - *last checked: 2026-04-17*
 - https://www.fbi.gov/wanted/terrorinfo/reza-amiri-moghadam
   - `content/people/reza-amiri-moghadam.json`
   - `content/connections/reza-amiri-moghadam-served-in-ministry-of-intelligence.json`
@@ -212,6 +260,12 @@ These return 403/401 to automated requests but are likely accessible to human vi
 - https://www.nytimes.com/1994/07/19/world/blast-hits-jewish-center-in-argentina-killing-at-least-48.html
   - `content/events/amia-bombing-1994.json`
   - *last checked: 2026-04-13*
+- https://iranwire.com/en/features/1599
+  - `content/events/assembly-of-experts-election-2016.json`
+  - *last checked: 2026-04-17*
+- https://www.ifes.org/tools-resources/faqs/elections-iran-2016-majlis-and-assembly-experts-elections
+  - `content/events/assembly-of-experts-election-2016.json`
+  - *last checked: 2026-04-17*
 - https://nationalinterest.org/blog/buzz/1978-four-terrorists-burned-420-movie-goers-alive-iran-105082
   - `content/events/cinema-rex-fire-1978.json`
   - *last checked: 2026-04-16*

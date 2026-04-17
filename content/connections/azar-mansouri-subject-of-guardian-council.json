@@ -1,0 +1,21 @@
+{
+  "entity_id": "azar-mansouri-subject-of-guardian-council",
+  "from_entity": "azar-mansouri",
+  "to_entity": "guardian-council",
+  "type": "subject-of",
+  "confidence": "confirmed",
+  "date_from": "2008-01-01",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Azar_Mansouri",
+      "source_title": "Azar Mansouri — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Azar Mansouri was disqualified by the Guardian Council from running in the 2008 Iranian legislative election."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Disqualified from 2008 parliamentary elections by Guardian Council."
+}

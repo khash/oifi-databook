@@ -1,0 +1,21 @@
+{
+  "entity_id": "muhammad-baqir-al-sadr-aligned-with-ruhollah-khomeini",
+  "from_entity": "muhammad-baqir-al-sadr",
+  "to_entity": "ruhollah-khomeini",
+  "type": "aligned-with",
+  "confidence": "alleged",
+  "date_from": "1979",
+  "date_to": "1980",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Mohammad_Baqir_al-Sadr",
+      "source_title": "Muhammad Baqir al-Sadr — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Al-Sadr supported the 1979 Iranian Revolution and reportedly sent messages to Khomeini declaring him the leader of the Islamic world. His theory of wilayat al-faqih paralleled Khomeini's velayat-e faqih doctrine, and his ideas on Islamic governance influenced the constitutional architecture of the Islamic Republic."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": "The alignment is intellectual and political — al-Sadr supported the Revolution and had parallel ideas on Islamic governance. The exact nature of their personal relationship is debated; marked alleged due to limited direct evidence of coordination."
+}

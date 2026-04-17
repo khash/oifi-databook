@@ -1,0 +1,21 @@
+{
+  "entity_id": "ali-mussa-daqduq-affiliated-with-asaib-ahl-al-haq",
+  "from_entity": "ali-mussa-daqduq",
+  "to_entity": "asaib-ahl-al-haq",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "2006",
+  "date_to": "2007",
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Ali_Musa_Daqduq",
+      "source_title": "Ali Musa Daqduq — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Daqduq served as a senior Hezbollah adviser to the Asa'ib Ahl al-Haq network, training and equipping the group on behalf of the IRGC Quds Force."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

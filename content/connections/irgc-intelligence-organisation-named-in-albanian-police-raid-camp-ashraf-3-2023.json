@@ -1,0 +1,21 @@
+{
+  "entity_id": "irgc-intelligence-organisation-named-in-albanian-police-raid-camp-ashraf-3-2023",
+  "from_entity": "irgc-intelligence-organisation",
+  "to_entity": "albanian-police-raid-camp-ashraf-3-2023",
+  "type": "named-in",
+  "confidence": "alleged",
+  "date_from": "2023-06-20",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.aljazeera.com/news/2023/6/21/why-was-this-iran-dissident-group-raided-in-europe",
+      "source_title": "Why was this Iran dissident group raided in Europe?",
+      "source_date": "2023-06-21",
+      "description": "The MEK and its supporters alleged that Albania conducted the June 2023 raid under pressure from Iranian intelligence, including the IRGC; the Albanian government denied this."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Alleged: MEK and supporters claim Iranian pressure (including IRGC) drove the Albanian raid. Albanian government denies it."
+}

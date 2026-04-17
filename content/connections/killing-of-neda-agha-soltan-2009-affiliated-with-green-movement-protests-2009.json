@@ -1,0 +1,21 @@
+{
+  "entity_id": "killing-of-neda-agha-soltan-2009-affiliated-with-green-movement-protests-2009",
+  "from_entity": "killing-of-neda-agha-soltan-2009",
+  "to_entity": "green-movement-protests-2009",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "2009-06-20",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Killing_of_Neda_Agha-Soltan",
+      "source_title": "Killing of Neda Agha-Soltan — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Neda Agha-Soltan was killed during the Green Movement protests on 20 June 2009; her death became the defining symbol of the movement"
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": true,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

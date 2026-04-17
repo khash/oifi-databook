@@ -1,0 +1,21 @@
+{
+  "entity_id": "society-of-devotees-islamic-revolution-affiliated-with-islamic-revolutionary-guard-corps",
+  "from_entity": "society-of-devotees-islamic-revolution",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "affiliated-with",
+  "confidence": "confirmed",
+  "date_from": "1997-01-01",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Society_of_Devotees_of_the_Islamic_Revolution",
+      "source_title": "Society of Devotees of the Islamic Revolution — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "The Isargaran was founded by and draws its membership primarily from veterans of the Iran–Iraq War and former IRGC commanders, including founding member Mahmoud Ahmadinejad who voluntarily joined the IRGC special forces in 1986, and co-founder Lotfollah Forouzandeh, a former IRGC commander."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Institutional link: IRGC-veteran base, not a formal subsidiary. Affiliated-with is correct."
+}

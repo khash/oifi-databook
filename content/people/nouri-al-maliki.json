@@ -1,0 +1,44 @@
+{
+  "entity_id": "nouri-al-maliki",
+  "slug": "nouri-al-maliki",
+  "name_en": "Nouri al-Maliki",
+  "name_fa": "نوری المالکی",
+  "has_native_fa_name": false,
+  "aliases": [
+    "Nuri al-Maliki",
+    "Abu Esraa",
+    "Jawad al-Maliki",
+    "Nouri Kamil al-Maliki"
+  ],
+  "born": 1950,
+  "birthplace": "Hindiyah, Karbala Governorate, Iraq",
+  "role": "Prime Minister of Iraq 2006–2014; leader of the Islamic Dawa Party",
+  "faction": null,
+  "bio": "Nouri al-Maliki is an Iraqi politician who served as Prime Minister of Iraq from 2006 to 2014 and as leader of the [Islamic Dawa Party](/orgs/islamic-dawa-party). Born in 1950 in Hindiyah, Karbala Governorate, he joined the Dawa Party in the 1970s. Following Saddam Hussein's crackdown on the party, al-Maliki fled Iraq in 1979, spending years in exile in Iran and Syria before the 2003 US-led invasion that toppled the Ba'athist regime.\n\nAfter 2003, al-Maliki returned to Iraq and became a prominent figure in the new political order. He was elected Prime Minister in May 2006 following the failure of Ibrahim al-Jaafari to form a government. His first term was marked by the Surge period and a degree of cooperation with US forces, though critics noted early signs of sectarian governance. He secured a second term in 2010 despite his coalition finishing second in elections, with Iranian support widely credited as decisive in enabling him to retain power.\n\nDuring his second term (2010–2014), al-Maliki pursued increasingly sectarian policies — sidelining Sunni politicians, purging Sunni military officers, and marginalizing the Sunni community. This governance is widely cited by analysts as having created the political vacuum and alienation that enabled ISIS to rapidly seize Mosul and large swathes of northern and western Iraq in June 2014. He resigned in August 2014 under US and Iranian pressure following the ISIS advance.\n\nAl-Maliki maintained exceptionally close ties with Tehran throughout his tenure and since. He spent years in exile in Iran and cultivated deep relationships with the Islamic Republic's leadership, including [Ali Khamenei](/people/ali-khamenei). He has continued to be a major power broker in Iraqi politics after his prime ministership, leading his State of Law Coalition bloc in parliament. He has also had direct connections with [Qasem Soleimani](/people/qasem-soleimani) and Iran's ambassador to Iraq [Hassan Kazemi Qomi](/people/hassan-kazemi-qomi), who played key roles in shaping Iraqi politics during his tenure.",
+  "irgc_member": false,
+  "expertise": [
+    "Iraqi politics",
+    "parliamentary strategy",
+    "Shia Islamist governance"
+  ],
+  "tags": [
+    "executive",
+    "proxy-warfare"
+  ],
+  "photo": null,
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Nouri_al-Maliki",
+      "title": "Nouri al-Maliki — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    },
+    {
+      "url": "https://www.britannica.com/biography/Nouri-al-Maliki",
+      "title": "Nouri al-Maliki — Britannica",
+      "date": "2024-01-01",
+      "publisher": "Britannica"
+    }
+  ],
+  "editorial_notes": "Born 20 June 1950 in Hindiyah. Also known as Abu Esraa (father of Esraa, his daughter). Joined Dawa Party 1970s. Fled Iraq 1979 — lived in exile in Iran and Syria. PM 2006–2014. Resigned August 2014 under pressure after ISIS advance. Close ties to Tehran; Iranian support credited for his 2010 retention of power. Sectarian governance widely blamed for ISIS conditions."
+}

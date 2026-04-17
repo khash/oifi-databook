@@ -1,0 +1,22 @@
+{
+  "entity_id": "bonyad-e-taavon-e-sepah-subsidiary-of-islamic-revolutionary-guard-corps",
+  "from_entity": "bonyad-e-taavon-e-sepah",
+  "to_entity": "islamic-revolutionary-guard-corps",
+  "type": "subsidiary-of",
+  "confidence": "confirmed",
+  "date_from": null,
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://home.treasury.gov/news/press-releases/tg1010",
+      "source_title": "Treasury Designates Iranian Entities Tied to the IRGC and IRISL",
+      "source_date": "2010-12-21",
+      "description": "US Treasury designated Bonyad Taavon Sepah as an entity tied to the IRGC, confirming its role as the IRGC's cooperative economic arm."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": ["sanctions"],
+  "editorial_notes": ""
+}

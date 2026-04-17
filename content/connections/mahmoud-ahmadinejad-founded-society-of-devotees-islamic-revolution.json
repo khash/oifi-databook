@@ -1,0 +1,21 @@
+{
+  "entity_id": "mahmoud-ahmadinejad-founded-society-of-devotees-islamic-revolution",
+  "from_entity": "mahmoud-ahmadinejad",
+  "to_entity": "society-of-devotees-islamic-revolution",
+  "type": "founded",
+  "confidence": "confirmed",
+  "date_from": "1997-04-09",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Society_of_Devotees_of_the_Islamic_Revolution",
+      "source_title": "Society of Devotees of the Islamic Revolution — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Mahmoud Ahmadinejad was a founding member of the Society of Devotees of the Islamic Revolution (Isargaran), established on 9 April 1997."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Founding member of the Isargaran party, established April 9, 1997."
+}

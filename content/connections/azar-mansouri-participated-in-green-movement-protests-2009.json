@@ -1,0 +1,21 @@
+{
+  "entity_id": "azar-mansouri-participated-in-green-movement-protests-2009",
+  "from_entity": "azar-mansouri",
+  "to_entity": "green-movement-protests-2009",
+  "type": "participated-in",
+  "confidence": "confirmed",
+  "date_from": "2009-06-01",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/Azar_Mansouri",
+      "source_title": "Azar Mansouri — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "Mansouri was arrested following the disputed 2009 presidential election that triggered the Green Movement protests."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Arrested after the 2009 disputed election as part of the crackdown on the Green Movement."
+}

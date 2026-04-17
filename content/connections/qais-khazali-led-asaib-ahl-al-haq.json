@@ -1,0 +1,21 @@
+{
+  "entity_id": "qais-khazali-led-asaib-ahl-al-haq",
+  "from_entity": "qais-khazali",
+  "to_entity": "asaib-ahl-al-haq",
+  "type": "led",
+  "confidence": "confirmed",
+  "date_from": "2006",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://www.federalregister.gov/documents/2020/01/10/2020-00243/designation-of-qays-al-khazali-as-a-specially-designated-global-terrorist",
+      "source_title": "Designation of Qays al-Khazali as a Specially Designated Global Terrorist",
+      "source_date": "2020-01-10",
+      "description": "US State Department SDGT designation identifies Khazali as founder and secretary-general of Asa'ib Ahl al-Haq."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": ""
+}

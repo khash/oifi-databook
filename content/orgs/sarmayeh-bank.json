@@ -1,0 +1,29 @@
+{
+  "entity_id": "sarmayeh-bank",
+  "slug": "sarmayeh-bank",
+  "name_en": "Sarmayeh Bank",
+  "name_fa": "بانک سرمایه",
+  "has_native_fa_name": true,
+  "type": "business",
+  "founded": null,
+  "dissolved": null,
+  "parent_org": null,
+  "description": "Sarmayeh Bank (Bank-e Sarmayeh) is an Iranian private bank that came under scrutiny through corruption charges against its chairman [Parviz Kazemi](/people/parviz-kazemi), the former Minister of Welfare and Social Security. Kazemi, who chaired Sarmayeh Bank after leaving government, was arrested in November 2018 for financial fraud, including allegations that he issued 46 illegal loans and that 30 million euros were deposited into his wife's account. He was subsequently sentenced to 20 years in prison.",
+  "faction": null,
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://www.rferl.org/a/former-iranian-minister-arrested-for-financial-fraud/29594628.html",
+      "title": "Former Iranian Minister Arrested For Financial Fraud",
+      "date": "2018-11-01",
+      "publisher": "RFE/RL"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Parviz_Kazemi",
+      "title": "Parviz Kazemi — Wikipedia",
+      "date": "2024-01-01",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "editorial_notes": "Private Iranian bank. Parviz Kazemi (former Welfare Minister) was chairman and convicted of fraud. Kazemi sentenced to 20 years in 2022."
+}

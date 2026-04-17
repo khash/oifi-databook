@@ -1,0 +1,22 @@
+{
+  "entity_id": "national-development-fund-iran-funded-by-ministry-of-petroleum",
+  "from_entity": "national-development-fund-iran",
+  "to_entity": "ministry-of-petroleum",
+  "type": "funded-by",
+  "confidence": "confirmed",
+  "date_from": "2011",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://en.wikipedia.org/wiki/National_Development_Fund_of_Iran",
+      "source_title": "National Development Fund of Iran — Wikipedia",
+      "source_date": "2024-01-01",
+      "description": "The NDF is funded by a designated share of oil and gas export revenues routed through the Ministry of Petroleum, as mandated by Iran's five-year development plans."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "tags": [],
+  "editorial_notes": "NDF receives a percentage (20% under 6th plan) of oil/gas export revenues via the Ministry of Petroleum."
+}

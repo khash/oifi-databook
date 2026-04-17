@@ -1,0 +1,21 @@
+{
+  "entity_id": "pouria-zeraati-member-of-iran-international",
+  "from_entity": "pouria-zeraati",
+  "to_entity": "iran-international",
+  "type": "member-of",
+  "confidence": "confirmed",
+  "date_from": "2020-01-01",
+  "date_to": null,
+  "evidence": [
+    {
+      "source_url": "https://cpj.org/2024/04/exiled-iranian-journalist-pouria-zeraati-stabbed-in-london/",
+      "source_title": "Exiled Iranian journalist Pouria Zeraati stabbed in London",
+      "source_date": "2024-04-01",
+      "description": "CPJ confirms Zeraati joined Iran International in 2020 as a producer and presenter and is best known as host of The Last Word (Harf-e-Akhar)."
+    }
+  ],
+  "intermediaries": [],
+  "symmetric": false,
+  "family_subtype": null,
+  "editorial_notes": "Joined Iran International in 2020. Host of political analysis programme The Last Word (Harf-e-Akhar)."
+}
